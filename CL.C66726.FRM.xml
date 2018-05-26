@@ -80,6 +80,10 @@
                     <nciodm:CDISCDefinition>A solid dosage form in which the drug is enclosed within either a hard or soft soluble container made from a suitable form of gelatin; through a banding process, the capsule is coated with additional layers of gelatin so as to form a complete seal. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Gelatin Coated Capsule Dosage Form</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="CAPSULE, IMMEDIATE RELEASE" nciodm:ExtCodeID="C142247">
+                    <nciodm:CDISCDefinition>A solid dosage form in which the drug is enclosed within either a hard or soft soluble container, which is designed to release its active and/or inert ingredient(s) immediately upon administration.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Immediate Release Capsule Dosage Form</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="CAPSULE, LIQUID FILLED" nciodm:ExtCodeID="C42954">
                     <nciodm:CDISCDefinition>A solid dosage form in which the drug is enclosed within a soluble, gelatin shell which is plasticized by the addition of a polyol, such as sorbitol or glycerin, and is therefore of a somewhat thicker consistency than that of a hard shell capsule; typically, the active ingredients are dissolved or suspended in a liquid vehicle. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Liquid Filled Capsule Dosage Form</nciodm:PreferredTerm>
@@ -635,6 +639,10 @@
                 <EnumeratedItem CodedValue="TABLET, FOR SUSPENSION" nciodm:ExtCodeID="C61005">
                     <nciodm:CDISCDefinition>A tablet that forms a suspension when placed in a liquid (formerly referred to as a Dispersible Tablet).</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Tablet for Suspension Dosage Form</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TABLET, IMMEDIATE RELEASE" nciodm:ExtCodeID="C142248">
+                    <nciodm:CDISCDefinition>A solid dosage form containing medicinal substances with or without suitable diluents, which is designed to release its active and/or inert ingredient(s) immediately upon administration.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Immediate Release Tablet Dosage Form</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="TABLET, MULTILAYER" nciodm:ExtCodeID="C42964">
                     <nciodm:CDISCDefinition>A solid dosage form containing medicinal substances that have been compressed to form a multiple-layered tablet or a tablet-within-a-tablet, the inner tablet being the core and the outer portion being the shell. (NCI)</nciodm:CDISCDefinition>

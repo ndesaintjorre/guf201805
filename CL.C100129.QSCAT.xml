@@ -282,6 +282,11 @@
                     <nciodm:CDISCDefinition>Dermatology Life Quality Index (DLQI) (Copyright Dermatology Life Quality Index. A Y Finlay, G K Khan, April 1992. www.dermatology.org.uk. This must not be copied without the permission of the authors).</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Dermatology Life Quality Index Questionnaire</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI-2" nciodm:ExtCodeID="C141694">
+                    <nciodm:CDISCSynonym>DRRI1</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk and Resilience Inventory-2 (DRRI-2) (Vogt, D., Smith, B. N., King, D. W., &amp; King, L. A. (2012). The Deployment Risk and Resilience Inventory-2 (DRRI-2) [Measurement instrument]. Available from http.ptsd.va.gov).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Deployment Risk and Resilience Inventory-2 Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="DRS" nciodm:ExtCodeID="C115796">
                     <nciodm:CDISCSynonym>DRS01</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Disability Rating Scale (DRS) (Rappaport et al. (1982) Disability Rating Scale for Severe Head Trauma Patients: Coma to Community. Archives of Physical Medicine and Rehabilitation, 63:118-123).</nciodm:CDISCDefinition>
@@ -402,10 +407,10 @@
                     <nciodm:CDISCDefinition>Revised Fibromyalgia Impact Questionnaire (FIQR) (copyright 2009 Bennett RM and Friend. All Rights Reserved.).</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Revised Fibromyalgia Impact Questionnaire</nciodm:PreferredTerm>
                 </EnumeratedItem>
-                <EnumeratedItem CodedValue="FKSI-15" nciodm:ExtCodeID="C138337">
+                <EnumeratedItem CodedValue="FKSI-15" nciodm:ExtCodeID="C118498">
                     <nciodm:CDISCSynonym>FAC039</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Functional Assessment of Cancer Therapy-Kidney Symptom Index-15 (FKSI-15) (Copyright 1987, 1997 David Cella, Ph.D. All Rights Reserved; Questionnaires and all related subscales, translations, and adaptations ('FACIT System') are owned and copyrighted by David Cella, Ph.D. The ownership and copyright of the FACIT System resides strictly with Dr. Cella. Dr. Cella has granted FACIT.org the right to license usage of the FACIT System to other parties).</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Functional Assessment of Cancer Therapy-Kidney Symptom Index-15 Questionnaire</nciodm:PreferredTerm>
+                    <nciodm:PreferredTerm>FKSI-15 Questionnaire</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="FLSI" nciodm:ExtCodeID="C138338">
                     <nciodm:CDISCSynonym>FAC043</nciodm:CDISCSynonym>
@@ -536,6 +541,26 @@
                     <nciodm:CDISCSynonym>IIEF01</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>International Index of Erectile Function (IIEF) (Rosen RC, Riley A, Wagner G, Osterloh IH, Kirkpatrick J, and Mishra A. The international index of erectile function (IIEF): a multidimensional scale for assessment of erectile dysfunction. Urology. 1997 49(6): 822-830).</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>International Index of Erectile Function Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPAQ-LF PHONE VERSION" nciodm:ExtCodeID="C141692">
+                    <nciodm:CDISCSynonym>IPAQ02</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (November 2002) Long Last 7 Days Telephone Format (IPAQ-LF PHONE VERSION)(Booth, M.L. (2000). Assessment of Physical Activity: An International Perspective. Research Quarterly for Exercise and Sport, 71 (2): s114-20. Retrieved from the International Physical Activity Questionnaire website: http://www.ipaq.ki.se).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>International Physical Activity Questionnaire (November 2002) Long Last 7 Days Telephone Format</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPAQ-LF SELF-ADMINISTERED VERSION" nciodm:ExtCodeID="C141691">
+                    <nciodm:CDISCSynonym>IPAQ03</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (October 2002) Long Last 7 Days Self-Administered Format (IPAQ-LF SELF-ADMINISTERED VERSION) (Booth, M.L. (2000). Assessment of Physical Activity: An International Perspective. Research Quarterly for Exercise and Sport, 71 (2): s114-20. Retrieved from the International Physical Activity Questionnaire website: http://www.ipaq.ki.se).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>International Physical Activity Questionnaire (August 2002) Long Last 7 Days Self-Administered Format</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPAQ-SF PHONE VERSION" nciodm:ExtCodeID="C141693">
+                    <nciodm:CDISCSynonym>IPAQ01</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (August 2002) Short Last 7 Days Telephone Format (IPAQ-SF PHONE VERSION)(Booth, M.L. (2000). Assessment of Physical Activity: An International Perspective. Research Quarterly for Exercise and Sport, 71 (2): s114-20. Retrieved from the International Physical Activity Questionnaire website: http://www.ipaq.ki.se).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>International Physical Activity Questionnaire (August 2002) Short Last 7 Days Telephone Format</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPAQ-SF SELF-ADMINISTERED VERSION" nciodm:ExtCodeID="C141690">
+                    <nciodm:CDISCSynonym>IPAQ04</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (August 2002) Short Last 7 Days Self-Administered Format (IPAQ-SF SELF-ADMINISTERED VERSION)(Booth, M.L. (2000). Assessment of Physical Activity: An International Perspective. Research Quarterly for Exercise and Sport, 71 (2): s114-20. Retrieved from the International Physical Activity Questionnaire website: http://www.ipaq.ki.se).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>International Physical Activity Questionnaire (August 2002) Short Last 7 Days Self-Administered Format</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="IVIS" nciodm:ExtCodeID="C113876">
                     <nciodm:CDISCSynonym>IVIS01</nciodm:CDISCSynonym>

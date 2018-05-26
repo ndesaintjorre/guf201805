@@ -153,7 +153,7 @@
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="ATRIAL COUPLETS" nciodm:ExtCodeID="C102597">
                     <nciodm:CDISCSynonym>Atrial Couplets</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>An electrocardiographic finding in which two premature atrial complexes occur sequentially.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding in which two premature atrial complexes occur sequentially; there may be one or more occurrences during an electrocardiographic recording.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Atrial Couplet by ECG Finding</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="ATRIAL ENLARGEMENT" nciodm:ExtCodeID="C71039">
@@ -311,9 +311,9 @@
                     <nciodm:PreferredTerm>Extensive Anterior Wall Myocardial Infarction by ECG Finding</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="FUSION COMPLEX" nciodm:ExtCodeID="C102639">
-                    <nciodm:CDISCSynonym>Fusion Complex</nciodm:CDISCSynonym>
-                    <nciodm:CDISCSynonym>Fusion complex(es)</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>An electrocardiographic finding that occurs when electrical activation of the atria or ventricles occurs from two separate sites. This results in a P wave or QRS complex that displays merged characteristics of beats originating from the two different sites.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCSynonym>Fusion Beat</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Fusion Complexes</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding that occurs when electrical activation of the atria or ventricles occurs from two separate sites. This results in a P wave or QRS complex  that displays merged characteristics of beats originating from the two different sites; there may be one or more occurrences during an electrocardiographic recording.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Fusion Complex</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="HIGH LATERAL WALL MYOCARDIAL INFARCTION" nciodm:ExtCodeID="C102643">
@@ -401,8 +401,9 @@
                     <nciodm:PreferredTerm>Junctional Bradycardia by ECG Finding</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="JUNCTIONAL ESCAPE COMPLEXES" nciodm:ExtCodeID="C116129">
-                    <nciodm:CDISCSynonym>Junctional Escape Beats</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>An electrocardiographic finding of an escape beat following a pause which originates in the AV junction. This is manifest as a QRS complex of supraventricular origin not preceded by a P wave.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCSynonym>Junctional Escape Beat</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Junctional Escape Complex</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of an escape beat following a pause which originates in the AV junction. This is manifest as a QRS complex of supraventricular origin not preceded by a P wave; there may be one or more occurrences during an electrocardiographic recording.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Junctional Escape Complexes by ECG Finding</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="JUNCTIONAL ESCAPE RHYTHM" nciodm:ExtCodeID="C135393">
@@ -411,9 +412,8 @@
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="JUNCTIONAL PREMATURE COMPLEX" nciodm:ExtCodeID="C102652">
                     <nciodm:CDISCSynonym>Junctional Extra Beat</nciodm:CDISCSynonym>
-                    <nciodm:CDISCSynonym>Junctional Premature Complex</nciodm:CDISCSynonym>
-                    <nciodm:CDISCSynonym>Junctional premature complex(es)</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>An electrocardiographic finding of an ectopic impulse originating in the AV junction presenting as a QRS complex of supraventricular origin which is not preceded by a P wave.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCSynonym>Junctional Premature Complexes</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of an ectopic impulse originating in the AV junction presenting as a QRS complex of supraventricular origin which is not preceded by a P wave; there may be one or more occurrences during an electrocardiographic recording.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Junctional Premature Complex by ECG Finding</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="JUNCTIONAL RHYTHM" nciodm:ExtCodeID="C71051">
@@ -789,15 +789,16 @@
                     <nciodm:CDISCSynonym>Premature atrial complex</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>SVE</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Supraventricular Extra Beat</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>An electrocardiographic finding of an ectopic impulse originating in the atria and not specifically in the sinus node. The P wave morphology of these complexes is often different from a sinus P wave and the RR intervals preceding these complexes is also shorter than those of the regular beats.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCSynonym>Supraventricular Premature Beat</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of an ectopic impulse originating in the atria and not specifically in the sinus node. The P wave morphology of these complexes is often different from a sinus P wave and the RR intervals preceding these complexes is also shorter than those of the regular beats; there may be one or more occurrences during an electrocardiographic recording.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Atrial Premature Complex by ECG Finding</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="PREMATURE ATRIAL COMPLEXES BLOCKED" nciodm:ExtCodeID="C102603">
                     <nciodm:CDISCSynonym>Atrial premature complexes, nonconducted</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Non-conducted SVE</nciodm:CDISCSynonym>
-                    <nciodm:CDISCSynonym>Premature Atrial Complexes Blocked</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Premature Atrial Complex Blocked</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Premature Atrial Complexes Non-conducted</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>An electrocardiographic finding of premature atrial complexes which are not conducted to the ventricle, and which are not followed by a QRS complex.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of a premature atrial complexes that are is not conducted to the ventricles, and that are is not followed by a QRS complex; there may be one or more occurrences during an electrocardiographic recording.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Blocked Atrial Premature Complex by ECG Finding</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="PREMATURE ATRIAL COMPLEXES MULTIFOCAL" nciodm:ExtCodeID="C102672">
@@ -814,19 +815,22 @@
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="PREMATURE VENTRICULAR COMPLEX" nciodm:ExtCodeID="C62256">
                     <nciodm:CDISCSynonym>PVC</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Premature Ventricular Complexes</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>VE</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>VES</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>VPC</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Ventricular Extra Beat</nciodm:CDISCSynonym>
-                    <nciodm:CDISCSynonym>Ventricular premature complex(es)</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>An electrocardiographic finding of an ectopic impulse originating in the ventricles. The QRS morphology of these complexes is different from those of supraventricular origin. The QRS duration is often longer and the RR interval preceding the complexes is usually shorter than that of supraventricular beats.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCSynonym>Ventricular Premature Complexes</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of an ectopic impulse originating in the ventricles. The QRS morphology of these complexes is different from those of supraventricular origin. The QRS duration is often longer and the RR interval preceding the complexes is usually shorter than that of supraventricular beats; there may be one or more occurrences during an electrocardiographic recording.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Ventricular Premature Complex by ECG Finding</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="PREMATURE VENTRICULAR COMPLEX INTERPOLATED" nciodm:ExtCodeID="C107100">
                     <nciodm:CDISCSynonym>Interpolated VE</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Interpolated VES</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Interpolated VPC</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Interpolated Ventricular Extra Beat</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Premature Ventricular Complexes Interpolated</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>An electrocardiographic finding of a premature ventricular complex which occurs between two normal QRS complexes which have normal timing.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of a premature ventricular complex which occurs between two normal QRS complexes which have normal timing; there may be one or more occurrences during an electrocardiographic recording.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Interpolated Premature Ventricular Complex by ECG Finding</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="PREMATURE VENTRICULAR COMPLEXES MULTIFOCAL" nciodm:ExtCodeID="C102673">
@@ -1030,6 +1034,11 @@
                     <nciodm:CDISCDefinition>An electrocardiographic finding of a compensatory supraventricular complex that occurs following a prolonged RR interval.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Supraventricular Escape Beat by ECG Finding</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUPRAVENTRICULAR PREMATURE COMPLEX, ORIGIN UNKNOWN" nciodm:ExtCodeID="C142246">
+                    <nciodm:CDISCSynonym>Supraventricular Premature Complexes, Origin Unknown</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of an ectopic impulse originating from the atria or AV junction for which the site of origin cannot be determined from the surface electrocardiographic recording; there may be one or more occurrences during an electrocardiographic recording.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Supraventricular Premature Complex With Unknown Origin by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="SUPRAVENTRICULAR TACHYCARDIA" nciodm:ExtCodeID="C111100">
                     <nciodm:CDISCSynonym>Supraventricular tachycardia</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>An electrocardiographic finding of a tachycardia which does not originate in the ventricles or His Purkinje system. There is an abnormally high heart rate and QRS complexes are typically narrow, but aberration or preexcitation may be present.</nciodm:CDISCDefinition>
@@ -1107,15 +1116,16 @@
                     <nciodm:PreferredTerm>Ventricular Bigeminy by ECG Finding</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="VENTRICULAR COUPLET" nciodm:ExtCodeID="C62259">
+                    <nciodm:CDISCSynonym>Ventricular Couplets</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Ventricular Pair</nciodm:CDISCSynonym>
-                    <nciodm:CDISCSynonym>Ventricular couplet</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>An electrocardiographic finding in which two premature ventricular complexes occur sequentially.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding in which two premature ventricular complexes occur sequentially; there may be one or more occurrences during an electrocardiographic recording.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Ventricular Couplet by ECG Finding</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="VENTRICULAR ESCAPE BEAT" nciodm:ExtCodeID="C90483">
-                    <nciodm:CDISCSynonym>Ventricular Escape Beat</nciodm:CDISCSynonym>
-                    <nciodm:CDISCSynonym>Ventricular escape complex(es)</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>An electrocardiographic finding of a compensatory ventricular complex that occurs following a prolonged RR interval.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCSynonym>Ventricular Escape Beats</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Ventricular Escape Complex</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Ventricular Escape Complexes</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of a compensatory ventricular complex that occurs following a prolonged RR interval; there may be one or more occurrences during an electrocardiographic recording.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Ventricular Escape Beat by ECG Finding</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="VENTRICULAR FIBRILLATION" nciodm:ExtCodeID="C111102">

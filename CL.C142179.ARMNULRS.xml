@@ -1,0 +1,25 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C142179.ARMNULRS" Name="Arm Null Reason" DataType="text" nciodm:ExtCodeID="C142179" nciodm:CodeListExtensible="Yes">
+                <Description>
+                    <TranslatedText xml:lang="en">Terminology relevant to the reason for why an arm and/or an actual arm is null.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="ASSIGNED, NOT TREATED" nciodm:ExtCodeID="C142238">
+                    <nciodm:CDISCDefinition>The subject, who met eligibility criteria, was assigned to an arm but was not treated. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Subject Assigned to Arm But Not Treated</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NOT ASSIGNED" nciodm:ExtCodeID="C142239">
+                    <nciodm:CDISCDefinition>The subject, who met eligibility criteria, was not assigned to an arm and was not treated. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Subject Not Assigned to Arm</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SCREEN FAILURE" nciodm:ExtCodeID="C49628">
+                    <nciodm:CDISCDefinition>The potential subject who does not meet one or more criteria required for participation in a trial.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Trial Screen Failure</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UNPLANNED TREATMENT" nciodm:ExtCodeID="C142240">
+                    <nciodm:CDISCDefinition>The subject, who met eligibility criteria, was assigned to an arm but received treatment not associated with any of the planned arms.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Subject Received Unplanned Treatment</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>ARMNULRS</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Arm Null Reason</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Arm Null Reason Response Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

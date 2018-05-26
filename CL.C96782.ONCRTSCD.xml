@@ -74,15 +74,30 @@
                     <nciodm:CDISCDefinition>An assessment of the morphologic response of the disease to the therapy.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Morphologic Response</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="NEWLIND" nciodm:ExtCodeID="C142362">
+                    <nciodm:CDISCSynonym>New Lesion Indicator</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An indication as to whether new lesions are present, in comparison to a previous timepoint.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>New Lesion Indicator</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="NEWLPROG" nciodm:ExtCodeID="C103420">
                     <nciodm:CDISCSynonym>New Lesion Progression</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>An assessment of the equivocality of disease progression based on a newly identified lesion.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>New Lesion Progression</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="NEWLWIND" nciodm:ExtCodeID="C142363">
+                    <nciodm:CDISCSynonym>New Lesion Worsening Indicator</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An indication as to whether the previously identified new lesions are showing signs of worsening.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>New Lesion Worsening Indicator</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="NTERESP" nciodm:ExtCodeID="C135480">
                     <nciodm:CDISCSynonym>Non-Target Enhancing Response</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>An assessment of the response to the therapy of the non-target enhancing disease. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Non-Target Enhancing Lesion Response</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NTLWIND" nciodm:ExtCodeID="C142364">
+                    <nciodm:CDISCSynonym>Non-Target Lesion Worsening Indicator</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An indication as to whether non-target lesions, which have previously shown progression, are showing additional signs of worsening.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Non-Target Lesion Worsening Indicator</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="NTNERESP" nciodm:ExtCodeID="C135481">
                     <nciodm:CDISCSynonym>Non-Target Non-Enhancing Response</nciodm:CDISCSynonym>

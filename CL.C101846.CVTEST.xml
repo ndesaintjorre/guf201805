@@ -145,6 +145,11 @@
                     <nciodm:CDISCDefinition>The trajectory of the retrograde blood flow from a cardiac valve.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Cardiac Valve Regurgitant Jet Direction</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="Cardiac Valve Stenosis Likely Etiology" nciodm:ExtCodeID="C142245">
+                    <nciodm:CDISCSynonym>Cardiac Valve Stenosis Likely Etiology</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A description of the likely cause of the pathology responsible for the cardiac valve stenosis.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Cardiac Valve Stenosis Likely Etiology</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="Cardiac Valvular Regur Likely Etiology" nciodm:ExtCodeID="C139056">
                     <nciodm:CDISCSynonym>Cardiac Valvular Regur Likely Etiology</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Cardiac Valvular Regurgitation Likely Etiology</nciodm:CDISCSynonym>
@@ -160,6 +165,11 @@
                     <nciodm:CDISCSynonym>Cardiac Valvular Regurgitation Severity</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The qualitative measurement of the severity of cardiac valvular regurgitation.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Cardiac Valvular Regurgitation Severity</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Cardiac Valvular Stenosis Indicator" nciodm:ExtCodeID="C142244">
+                    <nciodm:CDISCSynonym>Cardiac Valvular Stenosis Indicator</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An indication as to whether the cardiac valve in question has stenosis.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Cardiac Valvular Stenosis Indicator</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Cardiac Valvular Stenosis Severity" nciodm:ExtCodeID="C102245">
                     <nciodm:CDISCSynonym>Cardiac Valvular Stenosis Severity</nciodm:CDISCSynonym>
@@ -322,6 +332,11 @@
                     <nciodm:CDISCDefinition>The magnitude of the ejection wave that occurs when blood is ejected into the aorta by the left ventricle.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Ejection Wave Amplitude</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="Fractional Area Change" nciodm:ExtCodeID="C142241">
+                    <nciodm:CDISCSynonym>Fractional Area Change</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The percent reduction in the area of a given structure with the following formula: (EDA-ESA)/EDA times 100, where EDA is end diastolic area and ESA is end systolic area.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Fractional Area Change</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="Heart Chamber Enlargement Indicator" nciodm:ExtCodeID="C139062">
                     <nciodm:CDISCSynonym>Heart Chamber Enlargement Indicator</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>An indication as to whether there is an enlarged heart chamber.</nciodm:CDISCDefinition>
@@ -398,6 +413,16 @@
                     <nciodm:CDISCSynonym>Left Ventricular Fractional Shortening</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The reduction in the length of the end-diastolic diameter dimension that occurs between end-systole and end-diastole, expressed as a fraction of the end-diastolic dimension. Calculation of the left ventricular fractional shortening is per the following formula: [(end-diastolic dimension minus end-systolic dimension) divided by end-diastolic dimension] multiplied by 100.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Left Ventricular Fractional Shortening</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Left Ventricular Mass Index" nciodm:ExtCodeID="C142243">
+                    <nciodm:CDISCSynonym>Left Ventricular Mass Index</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The left ventricular mass divided by the subject's body surface area.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Left Ventricular Mass Index</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Left Ventricular Mass, Estimated" nciodm:ExtCodeID="C142242">
+                    <nciodm:CDISCSynonym>Left Ventricular Mass, Estimated</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The weight of the left ventricle in grams as estimated by a formula that uses estimated measurements from echocardiographic exams, as well as constants like the specific gravity of the myocardium. Left ventricular mass is estimated using the following equation, LV Mass (g) = 0.8 {1.04[([LVEDD + IVSd + PWd]^3 - LVEDD^3)]} + 0.6, where LVEDD is LV end-diastolic dimension, IVSd is interventricular septal thickness at end-diastole, and PWd is posterior wall thickness at end-diastole.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Estimated Mass of Left Ventricle</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Length" nciodm:ExtCodeID="C25334">
                     <nciodm:CDISCSynonym>Length</nciodm:CDISCSynonym>

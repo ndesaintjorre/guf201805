@@ -2,6 +2,16 @@
                 <Description>
                     <TranslatedText xml:lang="en">A grouping of observations within the Functional Tests domain.</TranslatedText>
                 </Description>
+                <EnumeratedItem CodedValue="4 STAIR ASCEND" nciodm:ExtCodeID="C141689">
+                    <nciodm:CDISCSynonym>A4STR1</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>4 Stair Ascend (Mcdonald, C. M., Henricson, E. K., Abresch, R. T., Florence, J. M., Eagle, M., Gappmaier, E., et al. (2013). THE 6-MINUTE WALK TEST AND OTHER ENDPOINTS IN DUCHENNE MUSCULAR DYSTROPHY: LONGITUDINAL NATURAL HISTORY OBSERVATIONS OVER 48 WEEKS FROM A MULTICENTER STUDY. Muscle &amp; Nerve, 48(3), 343-356. http://doi.org/10.1002/mus.23902).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Four Stair Ascend Test Functional Test</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="4 STAIR DESCEND" nciodm:ExtCodeID="C141688">
+                    <nciodm:CDISCSynonym>D4STR1</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Descend 4 Stairs (Mcdonald, C. M., Henricson, E. K., Abresch, R. T., Florence, J. M., Eagle, M., Gappmaier, E., et al. (2013). THE 6-MINUTE WALK TEST AND OTHER ENDPOINTS IN DUCHENNE MUSCULAR DYSTROPHY: LONGITUDINAL NATURAL HISTORY OBSERVATIONS OVER 48 WEEKS FROM A MULTICENTER STUDY. Muscle &amp; Nerve, 48(3), 343-356. http://doi.org/10.1002/mus.23902).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Four Stair Descend Test Functional Test</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="AVLT" nciodm:ExtCodeID="C102112">
                     <nciodm:CDISCSynonym>AVL01</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The Alzheimer's Disease Neuroimaging Initiative's (ADNI) version of the Auditory Verbal Learning Test (AVLT Version A) modified from Rey A. L'examen clinique en psychologie [Clinical tests in psychology]. Paris: Presses Universitaires de France; 1964.</nciodm:CDISCDefinition>
@@ -47,6 +57,11 @@
                     <nciodm:CDISCDefinition>Performance of the Upper Limb Module for DMD Version 2.0 (PUL V2.0) (Mayhew A, Mazzone ES, Eagle M, et al. (2013). Development of the Performance of the Upper Limb module for Duchenne muscular dystrophy. Dev Med Child Neurol; 55:1038-45).</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Performance of the Upper Limb Module for DMD 2.0 Functional Test</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="RISING FROM FLOOR" nciodm:ExtCodeID="C141687">
+                    <nciodm:CDISCSynonym>RISEF1</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Rising From Floor (Mcdonald, C. M., Henricson, E. K., Abresch, R. T., Florence, J. M., Eagle, M., Gappmaier, E., et al. (2013). THE 6-MINUTE WALK TEST AND OTHER ENDPOINTS IN DUCHENNE MUSCULAR DYSTROPHY: LONGITUDINAL NATURAL HISTORY OBSERVATIONS OVER 48 WEEKS FROM A MULTICENTER STUDY. Muscle &amp; Nerve, 48(3), 343-356. http://doi.org/10.1002/mus.23902).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Rising From Floor Test Functional Test</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="SDMT" nciodm:ExtCodeID="C115793">
                     <nciodm:CDISCSynonym>SDMT01</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Symbol Digit Modalities Test (SDMT) (Copyright 1973 by Western Psychological Services).</nciodm:CDISCDefinition>
@@ -61,6 +76,11 @@
                     <nciodm:CDISCSynonym>T25FW1</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Timed 25-Foot Walk (T25FW) (Copyright 2001, National Multiple Sclerosis Society).</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Timed 25-Foot Walk Functional Test</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TEN METER WALK/RUN" nciodm:ExtCodeID="C141686">
+                    <nciodm:CDISCSynonym>TENMW1</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Ten Meter Walk/Run (Mcdonald, C. M., Henricson, E. K., Abresch, R. T., Florence, J. M., Eagle, M., Gappmaier, E., et al. (2013). THE 6-MINUTE WALK TEST AND OTHER ENDPOINTS IN DUCHENNE MUSCULAR DYSTROPHY: LONGITUDINAL NATURAL HISTORY OBSERVATIONS OVER 48 WEEKS FROM A MULTICENTER STUDY. Muscle &amp; Nerve, 48(3), 343-356. http://doi.org/10.1002/mus.23902).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Ten Meter Walk/Run Test Functional Test</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="TMT" nciodm:ExtCodeID="C92205">
                     <nciodm:CDISCSynonym>TMT01</nciodm:CDISCSynonym>

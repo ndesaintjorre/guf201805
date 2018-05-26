@@ -1,0 +1,19 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C141660.D4STR1TN" Name="Descend 4 Stairs Functional Test Test Name" DataType="text" nciodm:ExtCodeID="C141660" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Descend 4 Stairs test name.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="D4STR1-Test Grade" nciodm:ExtCodeID="C141705">
+                    <nciodm:CDISCSynonym>D4STR1-Test Grade</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>4 Stair Descend - Test grade.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>4 Stair Descend - Test Grade</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="D4STR1-Time to Descend 4 Stairs" nciodm:ExtCodeID="C141704">
+                    <nciodm:CDISCSynonym>D4STR1-Time to Descend 4 Stairs</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>4 Stair Descend - Time taken to descend 4 stairs.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>4 Stair Descend - Time to Descend 4 Stairs</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>D4STR1TN</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Descend 4 Stairs Functional Test Test Name</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Functional Test 4 Stair Descend Test Name Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

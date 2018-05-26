@@ -12,6 +12,11 @@
                     <nciodm:CDISCDefinition>Patient Global Impression - Compared to &lt;previously assessed protocol specified time point&gt; how much has your condition improved?</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>PGI Generic Modification Version - Improvement</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="PGI01-Overall Health" nciodm:ExtCodeID="C142226">
+                    <nciodm:CDISCSynonym>PGI01-Overall Health</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Patient Global Impression - How was your overall health?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PGI Generic Modification Version - Overall Health</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="PGI01-Severity" nciodm:ExtCodeID="C135817">
                     <nciodm:CDISCSynonym>PGI01-Severity</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Patient Global Impression - Considering all the ways your condition impacts you, how severe is your condition at this time?</nciodm:CDISCDefinition>

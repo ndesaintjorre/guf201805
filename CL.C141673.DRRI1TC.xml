@@ -1,0 +1,1059 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C141673.DRRI1TC" Name="Deployment Risk and Resilience Inventory-2 Questionnaire Test Code" DataType="text" nciodm:ExtCodeID="C141673" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Deployment Risk and Resilience Inventory-2 test code.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="DRRI1A01" nciodm:ExtCodeID="C141867">
+                    <nciodm:CDISCSynonym>DRRI1-A: Someone Close to Me Died</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - Before deployment: someone close to me died.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - A: Someone Close to Me Died</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1A02" nciodm:ExtCodeID="C141868">
+                    <nciodm:CDISCSynonym>DRRI1-A: Went Through Divorce/Was Left</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - Before deployment: I went through a divorce or was left by a significant other.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - A: Went Through Divorce/Was Left</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1A03" nciodm:ExtCodeID="C141869">
+                    <nciodm:CDISCSynonym>DRRI1-A: Robbed/Had My Home Broken Into</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - Before deployment: I was robbed or had my home broken into.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - A: Robbed/Had My Home Broken Into</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1A04" nciodm:ExtCodeID="C141870">
+                    <nciodm:CDISCSynonym>DRRI1-A: Saw/Heard Physical Fight Parent</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - Before deployment: I saw or heard physical fighting between my parents or caregivers.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - A: Saw/Heard Physical Fight Parent</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1A05" nciodm:ExtCodeID="C141871">
+                    <nciodm:CDISCSynonym>DRRI1-A: Physically Punished by Parent</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - Before deployment: I was physically punished by a parent or primary caregiver.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - A: Physically Punished by Parent</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1A06" nciodm:ExtCodeID="C141872">
+                    <nciodm:CDISCSynonym>DRRI1-A: Unwanted Sex Activity Childhood</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - Before deployment: I experienced unwanted sexual activity as a result of force, threat of harm, or manipulation during childhood (before age 18).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - A: Unwanted Sex Activity Childhood</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1A07" nciodm:ExtCodeID="C141873">
+                    <nciodm:CDISCSynonym>DRRI1-A: Unwanted Sex Activity Adulthood</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - Before deployment: I experienced unwanted sexual activity as a result of force, threat of harm, or manipulation during adulthood (age 18 or later).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - A: Unwanted Sex Activity Adulthood</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1A08" nciodm:ExtCodeID="C141874">
+                    <nciodm:CDISCSynonym>DRRI1-A: Experienced Natural Disaster</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - Before deployment: I experienced a natural disaster (for example, a hurricane), a fire, or an accident in which I or someone close to me was hurt or had serious property damage.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - A: Experienced Natural Disaster</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1A09" nciodm:ExtCodeID="C141875">
+                    <nciodm:CDISCSynonym>DRRI1-A: Someone Close Serious Illness</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - Before deployment: someone close to me experienced a serious illness, injury, or mental health problem (for example, cancer, alcohol/drug problem).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - A: Someone Close Serious Illness</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1A10" nciodm:ExtCodeID="C141876">
+                    <nciodm:CDISCSynonym>DRRI1-A: Witnessed Someone Assaulted</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - Before deployment: I witnessed someone being seriously assaulted or killed.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - A: Witnessed Someone Assaulted</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1A11" nciodm:ExtCodeID="C141877">
+                    <nciodm:CDISCSynonym>DRRI1-A: Lost My Job/Trouble Finding Job</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - Before deployment: I lost my job or had serious trouble finding a job.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - A: Lost My Job/Trouble Finding Job</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1A12" nciodm:ExtCodeID="C141878">
+                    <nciodm:CDISCSynonym>DRRI1-A: Emotionally Mistreated</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - Before deployment: I was emotionally mistreated (for example, ignored or repeatedly told I was no good).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - A: Emotionally Mistreated</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1A13" nciodm:ExtCodeID="C141879">
+                    <nciodm:CDISCSynonym>DRRI1-A: Serious Financial Problems</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - Before deployment: I experienced serious financial problems.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - A: Serious Financial Problems</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1A14" nciodm:ExtCodeID="C141880">
+                    <nciodm:CDISCSynonym>DRRI1-A: Serious Physical Health Problem</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - Before deployment: I experienced serious physical or mental health problems.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - A: Serious Physical Health Problem</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1A15" nciodm:ExtCodeID="C141881">
+                    <nciodm:CDISCSynonym>DRRI1-A: Dangerous Military Duties</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - Before deployment: I participated in dangerous military duties.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - A: Dangerous Military Duties</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1A16" nciodm:ExtCodeID="C141882">
+                    <nciodm:CDISCSynonym>DRRI1-A: Injured by Person - Childhood</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - Before deployment: I was seriously physically injured by another person (for example, hit or beaten up) during childhood (before age 18).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - A: Injured by Person - Childhood</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1A17" nciodm:ExtCodeID="C141883">
+                    <nciodm:CDISCSynonym>DRRI1-A: Injured by Person - Adulthood</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - Before deployment: I was seriously physically injured by another person (for example, hit or beaten up) during adulthood (age 18 or later).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - A: Injured by Person - Adulthood</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1A18" nciodm:ExtCodeID="C141884">
+                    <nciodm:CDISCSynonym>DRRI1-A: Stressful Legal Problems</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - Before deployment: I experienced stressful legal problems (for example, being sued, suing someone else, or being in a custody battle).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - A: Stressful Legal Problems</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1B01" nciodm:ExtCodeID="C141885">
+                    <nciodm:CDISCSynonym>DRRI1-B: Got Along Well With My Family</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During childhood: I got along well with my family members.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - B: Got Along Well With My Family</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1B02" nciodm:ExtCodeID="C141886">
+                    <nciodm:CDISCSynonym>DRRI1-B: Felt Like I Fit in With Family</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During childhood: I felt like I fit in with my family.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - B: Felt Like I Fit in With Family</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1B03" nciodm:ExtCodeID="C141887">
+                    <nciodm:CDISCSynonym>DRRI1-B: Family Knew What I Thought/Felt</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During childhood: family members knew what I thought and how I felt about things.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - B: Family Knew What I Thought/Felt</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1B04" nciodm:ExtCodeID="C141888">
+                    <nciodm:CDISCSynonym>DRRI1-B: Contribution Family Appreciated</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During childhood: I felt like my contributions to my family were appreciated.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - B: Contribution Family Appreciated</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1B05" nciodm:ExtCodeID="C141889">
+                    <nciodm:CDISCSynonym>DRRI1-B: Shared Interests With Family</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During childhood: I shared many common interests and activities with family members.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - B: Shared Interests With Family</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1B06" nciodm:ExtCodeID="C141890">
+                    <nciodm:CDISCSynonym>DRRI1-B: Opinions Were Valued by Family</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During childhood: my opinions were valued by other family members.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - B: Opinions Were Valued by Family</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1B07" nciodm:ExtCodeID="C141891">
+                    <nciodm:CDISCSynonym>DRRI1-B: I Was Affectionate With Family</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During childhood: I was affectionate with family members.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - B: I Was Affectionate With Family</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1B08" nciodm:ExtCodeID="C141892">
+                    <nciodm:CDISCSynonym>DRRI1-B: Played Important Role in Family</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During childhood: I played an important role in my family.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - B: Played Important Role in Family</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1B09" nciodm:ExtCodeID="C141893">
+                    <nciodm:CDISCSynonym>DRRI1-B: Spent My Free Time With Family</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During childhood: I spent as much of my free time with family members as possible.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - B: Spent My Free Time With Family</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1B10" nciodm:ExtCodeID="C141894">
+                    <nciodm:CDISCSynonym>DRRI1-B: Family Told Me When Problem</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During childhood: family members told me when they were having a problem.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - B: Family Told Me When Problem</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1B11" nciodm:ExtCodeID="C141895">
+                    <nciodm:CDISCSynonym>DRRI1-B: I Could Be Myself Around Family</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During childhood: I could be myself around family members.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - B: I Could Be Myself Around Family</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1B12" nciodm:ExtCodeID="C141896">
+                    <nciodm:CDISCSynonym>DRRI1-B: Input Sought Family Decisions</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During childhood: my input was sought on important family decisions.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - B: Input Sought Family Decisions</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1C01" nciodm:ExtCodeID="C141897">
+                    <nciodm:CDISCSynonym>DRRI1-C: Climate Was Uncomfortable</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment: the climate was uncomfortable.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - C: Climate Was Uncomfortable</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1C02" nciodm:ExtCodeID="C141898">
+                    <nciodm:CDISCSynonym>DRRI1-C: Deal With Annoying Animals</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment: I had to deal with annoying animals, insects, or plants.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - C: Deal With Annoying Animals</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1C03" nciodm:ExtCodeID="C141899">
+                    <nciodm:CDISCSynonym>DRRI1-C: Food Was of Very Poor Quality</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment: the food I had to eat was of very poor quality (for example, bad or old MREs).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - C: Food Was of Very Poor Quality</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1C04" nciodm:ExtCodeID="C141900">
+                    <nciodm:CDISCSynonym>DRRI1-C: Conditions Extremely Unsanitary</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment: the conditions I lived in were extremely unsanitary.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - C: Conditions Extremely Unsanitary</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1C05" nciodm:ExtCodeID="C141901">
+                    <nciodm:CDISCSynonym>DRRI1-C: Didn't Have Bathrooms</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment: I didn't have access to bathrooms or showers when I needed them.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - C: Didn't Have Bathrooms</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1C06" nciodm:ExtCodeID="C141902">
+                    <nciodm:CDISCSynonym>DRRI1-C: Wasn't Able to Get Privacy</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment: I wasn't able to get as much privacy as I needed.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - C: Wasn't Able to Get Privacy</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1C07" nciodm:ExtCodeID="C141903">
+                    <nciodm:CDISCSynonym>DRRI1-C: I Was Exposed to Awful Smells</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment: I was exposed to awful smells.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - C: I Was Exposed to Awful Smells</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1C08" nciodm:ExtCodeID="C141904">
+                    <nciodm:CDISCSynonym>DRRI1-C: I Was Subjected to Loud Noises</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment: I was subjected to loud noises.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - C: I Was Subjected to Loud Noises</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1C09" nciodm:ExtCodeID="C141905">
+                    <nciodm:CDISCSynonym>DRRI1-C: Restricted Because Local Custom</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment: my daily activities were restricted because of local religious or ethnic customs.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - C: Restricted Because Local Custom</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1C10" nciodm:ExtCodeID="C141906">
+                    <nciodm:CDISCSynonym>DRRI1-C: Wasn't Able to Rest</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment: I wasn't able to get rest when I needed it.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - C: Wasn't Able to Rest</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1C11" nciodm:ExtCodeID="C141907">
+                    <nciodm:CDISCSynonym>DRRI1-C: Wasn't Able to Contact Home</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment: I wasn't able to contact home when I needed to.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - C: Wasn't Able to Contact Home</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1C12" nciodm:ExtCodeID="C141908">
+                    <nciodm:CDISCSynonym>DRRI1-C: Hassle With Heavy/Annoying Gear</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment: I had to hassle with putting on and taking off heavy or annoying gear.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - C: Hassle With Heavy/Annoying Gear</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1C13" nciodm:ExtCodeID="C141909">
+                    <nciodm:CDISCSynonym>DRRI1-C: Not Allowed to Get Job Done</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment: I was not allowed to do the things I needed to do to get my job done.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - C: Not Allowed to Get Job Done</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1C14" nciodm:ExtCodeID="C141910">
+                    <nciodm:CDISCSynonym>DRRI1-C: Not Have Adequate Shelter</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment: I did not have adequate shelter from uncomfortable living conditions (for example, heat, cold, wet, etc.).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - C: Not Have Adequate Shelter</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1D01" nciodm:ExtCodeID="C141911">
+                    <nciodm:CDISCSynonym>DRRI1-D: Went on Combat Patrols/Missions</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment: I went on combat patrols or missions.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - D: Went on Combat Patrols/Missions</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1D02" nciodm:ExtCodeID="C141912">
+                    <nciodm:CDISCSynonym>DRRI1-D: Assault on Entrenched Positions</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment: I took part in an assault on entrenched or fortified positions that involved naval and/or land forces.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - D: Assault on Entrenched Positions</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1D03" nciodm:ExtCodeID="C141913">
+                    <nciodm:CDISCSynonym>DRRI1-D: Witnessed Someone Unit Wounded</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment: I personally witnessed someone from my unit or an ally unit being seriously wounded or killed.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - D: Witnessed Someone Unit Wounded</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1D04" nciodm:ExtCodeID="C141914">
+                    <nciodm:CDISCSynonym>DRRI1-D: Encountered Land Mines</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment: I encountered land or water mines, booby traps, or roadside bombs (for example, IEDs).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - D: Encountered Land Mines</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1D05" nciodm:ExtCodeID="C141915">
+                    <nciodm:CDISCSynonym>DRRI1-D: Exposed Hostile Incoming Fire</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment: I was exposed to hostile incoming fire.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - D: Exposed Hostile Incoming Fire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1D06" nciodm:ExtCodeID="C141916">
+                    <nciodm:CDISCSynonym>DRRI1-D: Exposed to Friendly Fire</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment: I was exposed to "friendly" fire.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - D: Exposed to Friendly Fire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1D07" nciodm:ExtCodeID="C141917">
+                    <nciodm:CDISCSynonym>DRRI1-D: Vehicle/Part of Convoy Attacked</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment: I was in a vehicle (for example, a "humvee", helicopter, or boat) or part of a convoy that was attacked.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - D: Vehicle/Part of Convoy Attacked</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1D08" nciodm:ExtCodeID="C141918">
+                    <nciodm:CDISCSynonym>DRRI1-D: Part of Unit Fired on Enemy</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment: I was part of a land or naval artillery unit that fired on enemy combatants.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - D: Part of Unit Fired on Enemy</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1D09" nciodm:ExtCodeID="C141919">
+                    <nciodm:CDISCSynonym>DRRI1-D: Witnessed Enemy Wounded/Killed</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment: I personally witnessed enemy combatants being seriously wounded or killed.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - D: Witnessed Enemy Wounded/Killed</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1D10" nciodm:ExtCodeID="C141920">
+                    <nciodm:CDISCSynonym>DRRI1-D: Witnessed Civilians Wounded</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment: I personally witnessed civilians (for example, women and children) being seriously wounded or killed.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - D: Witnessed Civilians Wounded</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1D11" nciodm:ExtCodeID="C141921">
+                    <nciodm:CDISCSynonym>DRRI1-D: Injured Combat-Related Incident</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment: I was injured in a combat-related incident.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - D: Injured Combat-Related Incident</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1D12" nciodm:ExtCodeID="C141922">
+                    <nciodm:CDISCSynonym>DRRI1-D: Fired My Weapon Enemy Combatant</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment: I fired my weapon at enemy combatants.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - D: Fired My Weapon Enemy Combatant</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1D13" nciodm:ExtCodeID="C141923">
+                    <nciodm:CDISCSynonym>DRRI1-D: Think I Wounded/Killed Someone</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment: I think I wounded or killed someone during combat operations.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - D: Think I Wounded/Killed Someone</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1D14" nciodm:ExtCodeID="C141924">
+                    <nciodm:CDISCSynonym>DRRI1-D: Locating Explosive Devices</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment: I was involved in locating or disarming explosive devices.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - D: Locating Explosive Devices</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1D15" nciodm:ExtCodeID="C141925">
+                    <nciodm:CDISCSynonym>DRRI1-D: Searching Homes/Buildings</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment: I was involved in searching or clearing homes, buildings, or other locations.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - D: Searching Homes/Buildings</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1D16" nciodm:ExtCodeID="C141926">
+                    <nciodm:CDISCSynonym>DRRI1-D: Participate Hand-to-hand Combat</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment: I participated in hand-to-hand combat.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - D: Participate Hand-to-hand Combat</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1D17" nciodm:ExtCodeID="C141927">
+                    <nciodm:CDISCSynonym>DRRI1-D: Search/Disarm Potential Enemy</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment: I was involved in searching and/or disarming potential enemy combatants.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - D: Search/Disarm Potential Enemy</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1E01" nciodm:ExtCodeID="C141928">
+                    <nciodm:CDISCSynonym>DRRI1-E: Saw People Begging for Food</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment: I saw people begging for food.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - E: Saw People Begging for Food</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1E02" nciodm:ExtCodeID="C141929">
+                    <nciodm:CDISCSynonym>DRRI1-E: Saw Refugees Who Had Lost Homes</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment: I saw refugees who had lost their homes or belongings.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - E: Saw Refugees Who Had Lost Homes</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1E03" nciodm:ExtCodeID="C141930">
+                    <nciodm:CDISCSynonym>DRRI1-E: Observed Homes Been Destroyed</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment: I observed homes or communities that had been destroyed.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - E: Observed Homes Been Destroyed</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1E04" nciodm:ExtCodeID="C141931">
+                    <nciodm:CDISCSynonym>DRRI1-E: Took Care Injured/Dying People</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment: I took care of injured or dying people.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - E: Took Care Injured/Dying People</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1E05" nciodm:ExtCodeID="C141932">
+                    <nciodm:CDISCSynonym>DRRI1-E: Saw Civilians After Wounded</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment: I saw civilians after they had been severely wounded or disfigured.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - E: Saw Civilians After Wounded</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1E06" nciodm:ExtCodeID="C141933">
+                    <nciodm:CDISCSynonym>DRRI1-E: Saw Combatants Had Been Wounded</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment: I saw enemy combatants after they had been severely wounded or disfigured.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - E: Saw Combatants Had Been Wounded</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1E07" nciodm:ExtCodeID="C141934">
+                    <nciodm:CDISCSynonym>DRRI1-E: Saw Americans Had Been Wounded</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment: I saw Americans or allies after they had been severely wounded or disfigured.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - E: Saw Americans Had Been Wounded</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1E08" nciodm:ExtCodeID="C141935">
+                    <nciodm:CDISCSynonym>DRRI1-E: Saw Bodies of Dead Enemy</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment: I saw the bodies of dead enemy combatants.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - E: Saw Bodies of Dead Enemy</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1E09" nciodm:ExtCodeID="C141936">
+                    <nciodm:CDISCSynonym>DRRI1-E: Saw Bodies of Dead Americans</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment: I saw the bodies of dead Americans or allies.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - E: Saw Bodies of Dead Americans</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1E10" nciodm:ExtCodeID="C141937">
+                    <nciodm:CDISCSynonym>DRRI1-E: Saw Bodies of Dead Civilians</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment: I saw the bodies of dead civilians.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - E: Saw Bodies of Dead Civilians</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1E11" nciodm:ExtCodeID="C141938">
+                    <nciodm:CDISCSynonym>DRRI1-E: Interacted With Detainees</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment: I interacted with detainees or prisoners of war.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - E: Interacted With Detainees</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1E12" nciodm:ExtCodeID="C141939">
+                    <nciodm:CDISCSynonym>DRRI1-E: Sight/Sound/Smell Dead Animals</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment: I was exposed to the sight, sound, or smell of dead or dying animals.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - E: Sight/Sound/Smell Dead Animals</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1E13" nciodm:ExtCodeID="C141940">
+                    <nciodm:CDISCSynonym>DRRI1-E: Involved Handling Human Remains</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment: I was involved in handling human remains.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - E: Involved Handling Human Remains</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1F01" nciodm:ExtCodeID="C141941">
+                    <nciodm:CDISCSynonym>DRRI1-F: Took Preventative Pills</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - Either in preparation for or during my deployment: I took preventative pills (for example, to protect against nerve gas).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - F: Took Preventative Pills</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1F02" nciodm:ExtCodeID="C141942">
+                    <nciodm:CDISCSynonym>DRRI1-F: Received Vaccinations</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - Either in preparation for or during my deployment: I received preventative vaccinations by injection (for example, to prevent anthrax or botulism).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - F: Received Vaccinations</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1F03" nciodm:ExtCodeID="C141943">
+                    <nciodm:CDISCSynonym>DRRI1-F: Exposed to Nerve Gas Agents</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - Either in preparation for or during my deployment: I was exposed to nerve gas agents (for example, sarin).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - F: Exposed to Nerve Gas Agents</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1F04" nciodm:ExtCodeID="C141944">
+                    <nciodm:CDISCSynonym>DRRI1-F: Exposed to Mustard Gas</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - Either in preparation for or during my deployment: I was exposed to mustard gas or other blistering agents.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - F: Exposed to Mustard Gas</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1F05" nciodm:ExtCodeID="C141945">
+                    <nciodm:CDISCSynonym>DRRI1-F: Exposed Government-issued DEET</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - Either in preparation for or during my deployment: I was exposed to government-issued DEET-containing insect repellents.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - F: Exposed Government-issued DEET</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1F06" nciodm:ExtCodeID="C141946">
+                    <nciodm:CDISCSynonym>DRRI1-F: Exposed to Other Pesticides</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - Either in preparation for or during my deployment: I was exposed to other pesticides (for example, in flea collars, uniforms, or the environment).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - F: Exposed to Other Pesticides</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1F07" nciodm:ExtCodeID="C141947">
+                    <nciodm:CDISCSynonym>DRRI1-F: Exposed to Smoke/Air Pollution</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - Either in preparation for or during my deployment: I was exposed to smoke or other air pollution.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - F: Exposed to Smoke/Air Pollution</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1F08" nciodm:ExtCodeID="C141948">
+                    <nciodm:CDISCSynonym>DRRI1-F: Exposed to Diesel/Fuel on Skin</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - Either in preparation for or during my deployment: I was exposed to diesel or other petrochemical fuel on my skin.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - F: Exposed to Diesel/Fuel on Skin</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1F09" nciodm:ExtCodeID="C141949">
+                    <nciodm:CDISCSynonym>DRRI1-F: Exposed to Fumes From Heaters</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - Either in preparation for or during my deployment: I was exposed to fumes or exhaust from heaters or generators, including heaters in tents.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - F: Exposed to Fumes From Heaters</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1F10" nciodm:ExtCodeID="C141950">
+                    <nciodm:CDISCSynonym>DRRI1-F: Exposed to Depleted Uranium</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - Either in preparation for or during my deployment: I was exposed to depleted uranium in munitions.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - F: Exposed to Depleted Uranium</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1F11" nciodm:ExtCodeID="C141951">
+                    <nciodm:CDISCSynonym>DRRI1-F: Exposed to Burning Trash/Feces</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - Either in preparation for or during my deployment: I was exposed to burning trash or burning feces.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - F: Exposed to Burning Trash/Feces</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1F12" nciodm:ExtCodeID="C141952">
+                    <nciodm:CDISCSynonym>DRRI1-F: Exposed to Chlorine Gas</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - Either in preparation for or during my deployment: I was exposed to chlorine gas.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - F: Exposed to Chlorine Gas</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1F13" nciodm:ExtCodeID="C141953">
+                    <nciodm:CDISCSynonym>DRRI1-F: Exposed to Nuclear Weapons</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - Either in preparation for or during my deployment: I was exposed to nuclear, biological, or chemical weapons.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - F: Exposed to Nuclear Weapons</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1G01" nciodm:ExtCodeID="C141954">
+                    <nciodm:CDISCSynonym>DRRI1-G: Concerned Infectious Disease</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment: I was concerned about getting an infectious disease.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - G: Concerned Infectious Disease</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1G02" nciodm:ExtCodeID="C141955">
+                    <nciodm:CDISCSynonym>DRRI1-G: Health Might Suffer NBC Agents</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment: I was concerned that my health might suffer due to exposure to nuclear, biological, or chemical (NBC) agents.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - G: Health Might Suffer NBC Agents</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1G03" nciodm:ExtCodeID="C141956">
+                    <nciodm:CDISCSynonym>DRRI1-G: Felt in Danger of Being Wounded</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment: I felt I was in great danger of being wounded (for example, losing a limb).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - G: Felt in Danger of Being Wounded</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1G04" nciodm:ExtCodeID="C141957">
+                    <nciodm:CDISCSynonym>DRRI1-G: Concerned Medicine Make Me Sick</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment: I was concerned that the medicine I was given to protect me from illness would make me sick.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - G: Concerned Medicine Make Me Sick</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1G05" nciodm:ExtCodeID="C141958">
+                    <nciodm:CDISCSynonym>DRRI1-G: Concerned Encounter Explosive</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment: I was concerned that I would encounter an explosive device (for example, a roadside bomb, mine, or booby trap).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - G: Concerned Encounter Explosive</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1G06" nciodm:ExtCodeID="C141959">
+                    <nciodm:CDISCSynonym>DRRI1-G: Feared Sick From Pesticides</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment: I feared that I would become sick from pesticides (for example, bug spray) or other routinely used chemicals.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - G: Feared Sick From Pesticides</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1G07" nciodm:ExtCodeID="C141960">
+                    <nciodm:CDISCSynonym>DRRI1-G: Concern Rocket/Mortar Would Hit</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment: I was concerned that a rocket or mortar would hit our living quarters.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - G: Concern Rocket/Mortar Would Hit</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1G08" nciodm:ExtCodeID="C141961">
+                    <nciodm:CDISCSynonym>DRRI1-G: Concerned Depleted Uranium</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment: I was concerned that I might be exposed to depleted uranium in munitions.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - G: Concerned Depleted Uranium</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1G09" nciodm:ExtCodeID="C141962">
+                    <nciodm:CDISCSynonym>DRRI1-G: Thought I Would Never Survive</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment: I thought I would never survive.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - G: Thought I Would Never Survive</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1G10" nciodm:ExtCodeID="C141963">
+                    <nciodm:CDISCSynonym>DRRI1-G: Concerned Taken Hostage</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment: I was concerned that I might be taken hostage.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - G: Concerned Taken Hostage</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1G11" nciodm:ExtCodeID="C141964">
+                    <nciodm:CDISCSynonym>DRRI1-G: Concerned Locals Against Us</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment: I was concerned that the locals who were supposed to be helping us were actually working against us.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - G: Concerned Locals Against Us</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1G12" nciodm:ExtCodeID="C141965">
+                    <nciodm:CDISCSynonym>DRRI1-G: Concerned Trapped in Crossfire</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment: I was concerned about being trapped in the crossfire of rival factions.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - G: Concerned Trapped in Crossfire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1H01" nciodm:ExtCodeID="C141966">
+                    <nciodm:CDISCSynonym>DRRI1-H: Had All Supplies Needed</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - In preparation for deployment: I had all the supplies and equipment needed to get my job done.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - H: Had All Supplies Needed</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1H02" nciodm:ExtCodeID="C141967">
+                    <nciodm:CDISCSynonym>DRRI1-H: Confident Ability Use Equipment</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - In preparation for deployment: the training I received made me feel confident in my ability to use my equipment.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - H: Confident Ability Use Equipment</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1H03" nciodm:ExtCodeID="C141968">
+                    <nciodm:CDISCSynonym>DRRI1-H: Prepared to Deal With Climate</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - In preparation for deployment: the training I received prepared me to deal with the region's climate.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - H: Prepared to Deal With Climate</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1H04" nciodm:ExtCodeID="C141969">
+                    <nciodm:CDISCSynonym>DRRI1-H: Accurately Informed About Role</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - In preparation for deployment: I was accurately informed about the role my unit was expected to play in the deployment.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - H: Accurately Informed About Role</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1H05" nciodm:ExtCodeID="C141970">
+                    <nciodm:CDISCSynonym>DRRI1-H: Had Enough Gear in Case Attack</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - In preparation for deployment: I had enough gear to protect myself in case of an attack.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - H: Had Enough Gear in Case Attack</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1H06" nciodm:ExtCodeID="C141971">
+                    <nciodm:CDISCSynonym>DRRI1-H: Training for Deployment</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - In preparation for deployment: I received appropriate training for the nature of the deployment I experienced.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - H: Training for Deployment</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1H07" nciodm:ExtCodeID="C141972">
+                    <nciodm:CDISCSynonym>DRRI1-H: Military Duties What I Expected</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - In preparation for deployment: my military duties and assignments were what I expected.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - H: Military Duties What I Expected</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1H08" nciodm:ExtCodeID="C141973">
+                    <nciodm:CDISCSynonym>DRRI1-H: Prepared to Operate as Team</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - In preparation for deployment: my unit was well-prepared to operate as a team during deployment.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - H: Prepared to Operate as Team</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1H09" nciodm:ExtCodeID="C141974">
+                    <nciodm:CDISCSynonym>DRRI1-H: Confident to Perform Tasks</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - In preparation for deployment: the training I received made me feel confident in my ability to perform tasks assigned to me during deployment.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - H: Confident to Perform Tasks</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1H10" nciodm:ExtCodeID="C141975">
+                    <nciodm:CDISCSynonym>DRRI1-H: Taught Me Everything I Needed</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - In preparation for deployment: the training I received taught me everything I needed to know for deployment.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - H: Taught Me Everything I Needed</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1I01" nciodm:ExtCodeID="C141976">
+                    <nciodm:CDISCSynonym>DRRI1-I: Family Sincerely Interested</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment: family members and/or friends at home were sincerely interested in hearing what was going on with me.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - I: Family Sincerely Interested</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1I02" nciodm:ExtCodeID="C141977">
+                    <nciodm:CDISCSynonym>DRRI1-I: Had Family I Could Talk To</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment: I had family members or friends at home I could talk to when I had a problem.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - I: Had Family I Could Talk To</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1I03" nciodm:ExtCodeID="C141978">
+                    <nciodm:CDISCSynonym>DRRI1-I: Could Count on Family Advice</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment: I could count on my family members or friends at home for good advice.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - I: Could Count on Family Advice</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1I04" nciodm:ExtCodeID="C141979">
+                    <nciodm:CDISCSynonym>DRRI1-I: Relatives Look Out for Family</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment: relatives or friends at home could be counted on to look out for the well-being of my family or other dependents (including pets).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - I: Relatives Look Out for Family</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1I05" nciodm:ExtCodeID="C141980">
+                    <nciodm:CDISCSynonym>DRRI1-I: Relatives Take Care of Finances</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment: relatives or friends at home could be counted on to take care of my finances, property, or belongings if needed.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - I: Relatives Take Care of Finances</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1I06" nciodm:ExtCodeID="C141981">
+                    <nciodm:CDISCSynonym>DRRI1-I: Happy Communication From Home</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment: I was happy with the amount of communication I received from people at home.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - I: Happy Communication From Home</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1I07" nciodm:ExtCodeID="C141982">
+                    <nciodm:CDISCSynonym>DRRI1-I: Happy With Support From Home</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment: I was happy with the amount of support I received from people at home.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - I: Happy With Support From Home</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1I08" nciodm:ExtCodeID="C141983">
+                    <nciodm:CDISCSynonym>DRRI1-I: People at Home Show They Cared</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment: people at home did things to show they cared about me.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - I: People at Home Show They Cared</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1J01" nciodm:ExtCodeID="C141984">
+                    <nciodm:CDISCSynonym>DRRI1-J: My Unit Was Like Family to Me</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment: my unit was like family to me.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - J: My Unit Was Like Family to Me</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1J02" nciodm:ExtCodeID="C141985">
+                    <nciodm:CDISCSynonym>DRRI1-J: People in Unit Were Trustworthy</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment: people in my unit were trustworthy.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - J: People in Unit Were Trustworthy</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1J03" nciodm:ExtCodeID="C141986">
+                    <nciodm:CDISCSynonym>DRRI1-J: Fellow Unit Appreciated Efforts</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment: my fellow unit members appreciated my efforts.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - J: Fellow Unit Appreciated Efforts</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1J04" nciodm:ExtCodeID="C141987">
+                    <nciodm:CDISCSynonym>DRRI1-J: Felt Valued Fellow Unit Members</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment: I felt valued by my fellow unit members.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - J: Felt Valued Fellow Unit Members</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1J05" nciodm:ExtCodeID="C141988">
+                    <nciodm:CDISCSynonym>DRRI1-J: Unit Interested My Well-being</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment: members of my unit were interested in my well-being.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - J: Unit Interested My Well-being</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1J06" nciodm:ExtCodeID="C141989">
+                    <nciodm:CDISCSynonym>DRRI1-J: Unit Interested What I Thought</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment: my fellow unit members were interested in what I thought and how I felt about things.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - J: Unit Interested What I Thought</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1J07" nciodm:ExtCodeID="C141990">
+                    <nciodm:CDISCSynonym>DRRI1-J: Leader Interested What Thought</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment: my unit leader(s) were interested in what I thought and how I felt about things.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - J: Leader Interested What Thought</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1J08" nciodm:ExtCodeID="C141991">
+                    <nciodm:CDISCSynonym>DRRI1-J: Felt Like My Efforts Counted</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment: I felt like my efforts really counted to the leaders in my unit.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - J: Felt Like My Efforts Counted</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1J09" nciodm:ExtCodeID="C141992">
+                    <nciodm:CDISCSynonym>DRRI1-J: Service Appreciated by Leaders</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment: my service was appreciated by the leaders in my unit.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - J: Service Appreciated by Leaders</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1J10" nciodm:ExtCodeID="C141993">
+                    <nciodm:CDISCSynonym>DRRI1-J: Could Go to Leaders If Problem</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment: I could go to unit leaders for help if I had a problem or concern.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - J: Could Go to Leaders If Problem</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1J11" nciodm:ExtCodeID="C141994">
+                    <nciodm:CDISCSynonym>DRRI1-J: Leaders Interested in Welfare</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment: the leaders of my unit were interested in my personal welfare.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - J: Leaders Interested in Welfare</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1J12" nciodm:ExtCodeID="C141995">
+                    <nciodm:CDISCSynonym>DRRI1-J: Felt Valued by Leaders of Unit</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment: I felt valued by the leaders of my unit.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - J: Felt Valued by Leaders of Unit</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1K01" nciodm:ExtCodeID="C141996">
+                    <nciodm:CDISCSynonym>DRRI1-K: Treated in Overly Critical Way</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment, the people I worked with: treated me in an overly critical way.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - K: Treated in Overly Critical Way</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1K02" nciodm:ExtCodeID="C141997">
+                    <nciodm:CDISCSynonym>DRRI1-K: Uncooperative Working With Me</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment, the people I worked with: behaved in way that was uncooperative when working with me.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - K: Uncooperative Working With Me</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1K03" nciodm:ExtCodeID="C141998">
+                    <nciodm:CDISCSynonym>DRRI1-K: Had to Work Harder Prove Myself</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment, the people I worked with: treated me as if I had to work harder than others to prove myself.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - K: Had to Work Harder Prove Myself</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1K04" nciodm:ExtCodeID="C141999">
+                    <nciodm:CDISCSynonym>DRRI1-K: Questioned My Abilities Perform</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment, the people I worked with: questioned my abilities or commitment to perform my job effectively.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - K: Questioned My Abilities Perform</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1K05" nciodm:ExtCodeID="C142000">
+                    <nciodm:CDISCSynonym>DRRI1-K: My Mistakes Worse Than Others</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment, the people I worked with: acted as though my mistakes were worse than others'.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - K: My Mistakes Worse Than Others</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1K06" nciodm:ExtCodeID="C142001">
+                    <nciodm:CDISCSynonym>DRRI1-K: Make My Job More Difficult</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment, the people I worked with: tried to make my job more difficult to do.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - K: Make My Job More Difficult</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1K07" nciodm:ExtCodeID="C142002">
+                    <nciodm:CDISCSynonym>DRRI1-K: Put Me Down</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment, the people I worked with: "put me down" or treated me in a condescending way.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - K: Put Me Down</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1K08" nciodm:ExtCodeID="C142003">
+                    <nciodm:CDISCSynonym>DRRI1-K: Threatened My Physical Safety</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment, the people I worked with: threatened my physical safety.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - K: Threatened My Physical Safety</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1K09" nciodm:ExtCodeID="C142004">
+                    <nciodm:CDISCSynonym>DRRI1-K: Made Crude Sexual Remarks at Me</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment, the people I worked with: made crude and offensive sexual remarks directed at me, either publicly or privately.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - K: Made Crude Sexual Remarks at Me</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1K10" nciodm:ExtCodeID="C142005">
+                    <nciodm:CDISCSynonym>DRRI1-K: Spread Rumors Sexual Activities</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment, the people I worked with: spread negative rumors about my sexual activities.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - K: Spread Rumors Sexual Activities</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1K11" nciodm:ExtCodeID="C142006">
+                    <nciodm:CDISCSynonym>DRRI1-K: Tried to Talk into Sexual Acts</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment, the people I worked with: tried to talk me into participating in sexual acts when I didn't want to.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - K: Tried to Talk into Sexual Acts</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1K12" nciodm:ExtCodeID="C142007">
+                    <nciodm:CDISCSynonym>DRRI1-K: Authority Pressure Unwanted Sex</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment, the people I worked with: used a position of authority to pressure me into unwanted sexual activity.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - K: Authority Pressure Unwanted Sex</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1K13" nciodm:ExtCodeID="C142008">
+                    <nciodm:CDISCSynonym>DRRI1-K: Offered Reward Take Part in Sex</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment, the people I worked with: offered me a specific reward or special treatment to take part in sexual behavior.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - K: Offered Reward Take Part in Sex</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1K14" nciodm:ExtCodeID="C142009">
+                    <nciodm:CDISCSynonym>DRRI1-K: Threatened Me If Not Sex</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment, the people I worked with: threatened me with some sort of retaliation if I was not sexually cooperative (for example, the threat of negative review or physical violence).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - K: Threatened Me If Not Sex</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1K15" nciodm:ExtCodeID="C142010">
+                    <nciodm:CDISCSynonym>DRRI1-K: Touched Sexual Way Against Will</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment, the people I worked with: touched me in a sexual way against my will.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - K: Touched Sexual Way Against Will</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1K16" nciodm:ExtCodeID="C142011">
+                    <nciodm:CDISCSynonym>DRRI1-K: Physically Forced to Have Sex</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment, the people I worked with: physically forced me to have sex.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - K: Physically Forced to Have Sex</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1L01" nciodm:ExtCodeID="C142012">
+                    <nciodm:CDISCSynonym>DRRI1-L: Effect Deployment Relationship</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment, I was concerned about: the effect of the deployment on my relationship with my spouse or significant other.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - L: Effect Deployment Relationship</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1L02" nciodm:ExtCodeID="C142013">
+                    <nciodm:CDISCSynonym>DRRI1-L: Missing Out on Children Growth</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment, I was concerned about: missing out on my children's growth and development.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - L: Missing Out on Children Growth</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1L03" nciodm:ExtCodeID="C142014">
+                    <nciodm:CDISCSynonym>DRRI1-L: Missing Family Events at Home</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment, I was concerned about: missing important family events at home such as birthdays, weddings, funerals, graduations, etc.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - L: Missing Family Events at Home</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1L04" nciodm:ExtCodeID="C142015">
+                    <nciodm:CDISCSynonym>DRRI1-L: Safety and Well-being of Spouse</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment, I was concerned about: the safety and well-being of my spouse or significant other.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - L: Safety and Well-being of Spouse</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1L05" nciodm:ExtCodeID="C142016">
+                    <nciodm:CDISCSynonym>DRRI1-L: Safety and Well-being of Child</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment, I was concerned about: the safety and well-being of my child(ren).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - L: Safety and Well-being of Child</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1L06" nciodm:ExtCodeID="C142017">
+                    <nciodm:CDISCSynonym>DRRI1-L: Unable to Help Family If Crisis</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment, I was concerned about: being unable to help my family if there was some kind of crisis or emergency.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - L: Unable to Help Family If Crisis</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1L07" nciodm:ExtCodeID="C142018">
+                    <nciodm:CDISCSynonym>DRRI1-L: Inability Manage Family Affairs</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment, I was concerned about: my inability to directly manage or control family affairs.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - L: Inability Manage Family Affairs</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1L08" nciodm:ExtCodeID="C142019">
+                    <nciodm:CDISCSynonym>DRRI1-L: Damaging Career Because Deploy</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment, I was concerned about: damaging my career because of the deployment.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - L: Damaging Career Because Deploy</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1L09" nciodm:ExtCodeID="C142020">
+                    <nciodm:CDISCSynonym>DRRI1-L: Care Child/Dependents Receiving</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment, I was concerned about: the care that my child(ren) or other dependents were receiving.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - L: Care Child/Dependents Receiving</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1L10" nciodm:ExtCodeID="C142021">
+                    <nciodm:CDISCSynonym>DRRI1-L: Being Cheated on by My Spouse</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment, I was concerned about: being cheated on by my spouse or significant other.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - L: Being Cheated on by My Spouse</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1L11" nciodm:ExtCodeID="C142022">
+                    <nciodm:CDISCSynonym>DRRI1-L: Family Ability Cope With Stress</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment, I was concerned about: my family's ability to cope with the stress of the deployment.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - L: Family Ability Cope With Stress</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1L12" nciodm:ExtCodeID="C142023">
+                    <nciodm:CDISCSynonym>DRRI1-L: Spouse Ability Manage Household</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment, I was concerned about: my spouse or significant other's ability to manage the household (for example, chores, bills, home repairs, etc.).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - L: Spouse Ability Manage Household</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1L13" nciodm:ExtCodeID="C142024">
+                    <nciodm:CDISCSynonym>DRRI1-L: Losing My Civilian Job</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment, I was concerned about: losing my civilian job because of the deployment.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - L: Losing My Civilian Job</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1L14" nciodm:ExtCodeID="C142025">
+                    <nciodm:CDISCSynonym>DRRI1-L: Effect Relationship My Children</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment, I was concerned about: the effect of the deployment on my relationship with my child(ren).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - L: Effect Relationship My Children</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1L15" nciodm:ExtCodeID="C142026">
+                    <nciodm:CDISCSynonym>DRRI1-L: My Family Financial Situation</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment, I was concerned about: my family's financial situation.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - L: My Family Financial Situation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1M01" nciodm:ExtCodeID="C142027">
+                    <nciodm:CDISCSynonym>DRRI1-M: Problems Get in Touch Family</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment: I had problems getting in touch with a family member or other loved one.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - M: Problems Get in Touch Family</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1M02" nciodm:ExtCodeID="C142028">
+                    <nciodm:CDISCSynonym>DRRI1-M: Someone Close Serious Illness</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment: someone close to me experienced a serious illness, injury, or mental health problem (for example, cancer, alcohol/drug problem).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - M: Someone Close Serious Illness</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1M03" nciodm:ExtCodeID="C142029">
+                    <nciodm:CDISCSynonym>DRRI1-M: Family Member Passed Away</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment: a family member or other loved one passed away.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - M: Family Member Passed Away</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1M04" nciodm:ExtCodeID="C142030">
+                    <nciodm:CDISCSynonym>DRRI1-M: My Family Had Money Problems</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment: my family had money problems.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - M: My Family Had Money Problems</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1M05" nciodm:ExtCodeID="C142031">
+                    <nciodm:CDISCSynonym>DRRI1-M: Spouse Cheated on Me</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment: a spouse or significant other cheated on me.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - M: Spouse Cheated on Me</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1M06" nciodm:ExtCodeID="C142032">
+                    <nciodm:CDISCSynonym>DRRI1-M: Spouse Suspected I Cheated</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment: a spouse or significant other suspected that I had cheated on him/her.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - M: Spouse Suspected I Cheated</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1M07" nciodm:ExtCodeID="C142033">
+                    <nciodm:CDISCSynonym>DRRI1-M: Relationship With Spouse Ended</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment: my relationship with a spouse or significant other ended.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - M: Relationship With Spouse Ended</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1M08" nciodm:ExtCodeID="C142034">
+                    <nciodm:CDISCSynonym>DRRI1-M: Had Major Conflict With Family</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment: I had a major conflict with a family member or other loved one.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - M: Had Major Conflict With Family</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1M09" nciodm:ExtCodeID="C142035">
+                    <nciodm:CDISCSynonym>DRRI1-M: Family Had Difficulty Adjusting</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment: a family member or other loved one had serious difficulty adjusting to my absence.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - M: Family Had Difficulty Adjusting</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1M10" nciodm:ExtCodeID="C142036">
+                    <nciodm:CDISCSynonym>DRRI1-M: My Home Was Robbed</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment: my home was robbed and/or my belongings were stolen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - M: My Home Was Robbed</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1M11" nciodm:ExtCodeID="C142037">
+                    <nciodm:CDISCSynonym>DRRI1-M: Family Member Wasted Money</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment: a family member or other person I trusted wasted or mismanaged my money.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - M: Family Member Wasted Money</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1M12" nciodm:ExtCodeID="C142038">
+                    <nciodm:CDISCSynonym>DRRI1-M: Loved One Things I Disapproved</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment: I learned that a loved one was doing things I disapproved of.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - M: Loved One Things I Disapproved</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1M13" nciodm:ExtCodeID="C142039">
+                    <nciodm:CDISCSynonym>DRRI1-M: Fam Dangerous Military Duties</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment: a family member or other loved one participated in dangerous military duties.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - M: Fam Dangerous Military Duties</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1M14" nciodm:ExtCodeID="C142040">
+                    <nciodm:CDISCSynonym>DRRI1-M: Family Got Into Trouble</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - During deployment: a family member got into trouble at home, at school, or in the community.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - M: Family Got Into Trouble</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1N01" nciodm:ExtCodeID="C142041">
+                    <nciodm:CDISCSynonym>DRRI1-N: Robbed/Had My Home Broken Into</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - Since returning: I was robbed or had my home broken into.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - N: Robbed/Had My Home Broken Into</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1N02" nciodm:ExtCodeID="C142042">
+                    <nciodm:CDISCSynonym>DRRI1-N: Unwanted Sexual Activity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - Since returning: I experienced unwanted sexual activity as a result of force, threat or harm, or manipulation.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - N: Unwanted Sexual Activity</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1N03" nciodm:ExtCodeID="C142043">
+                    <nciodm:CDISCSynonym>DRRI1-N: Went Through Divorce/Was Left</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - Since returning: I went through a divorce or have been left by a partner or significant other.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - N: Went Through Divorce/Was Left</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1N04" nciodm:ExtCodeID="C142044">
+                    <nciodm:CDISCSynonym>DRRI1-N: Problems Getting Healthcare</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - Since returning: I had problems getting access to adequate healthcare.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - N: Problems Getting Healthcare</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1N05" nciodm:ExtCodeID="C142045">
+                    <nciodm:CDISCSynonym>DRRI1-N: Experienced Natural Disaster</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - Since returning: I experienced a natural disaster (for example, a hurricane), a fire, or an accident in which I or someone close to me was hurt or had serious property damage.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - N: Experienced Natural Disaster</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1N06" nciodm:ExtCodeID="C142046">
+                    <nciodm:CDISCSynonym>DRRI1-N: Someone Close Serious Illness</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - Since returning: someone close to me has experienced a serious illness, injury, or mental health problem (for example, cancer, alcohol/drug problem).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - N: Someone Close Serious Illness</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1N07" nciodm:ExtCodeID="C142047">
+                    <nciodm:CDISCSynonym>DRRI1-N: Witnessed Someone Assaulted</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - Since returning: I have witnessed someone being seriously assaulted or killed.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - N: Witnessed Someone Assaulted</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1N08" nciodm:ExtCodeID="C142048">
+                    <nciodm:CDISCSynonym>DRRI1-N: Lost My Job/Trouble Finding Job</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - Since returning: I lost my job or had serious trouble finding a job.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - N: Lost My Job/Trouble Finding Job</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1N09" nciodm:ExtCodeID="C142049">
+                    <nciodm:CDISCSynonym>DRRI1-N: Emotionally Mistreated</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - Since returning: I have been emotionally mistreated (for example, ignored or repeatedly told I was no good).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - N: Emotionally Mistreated</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1N10" nciodm:ExtCodeID="C142050">
+                    <nciodm:CDISCSynonym>DRRI1-N: Serious Financial Problems</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - Since returning: I have experienced serious financial problems.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - N: Serious Financial Problems</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1N11" nciodm:ExtCodeID="C142051">
+                    <nciodm:CDISCSynonym>DRRI1-N: Serious Physical Health Problem</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - Since returning: I have experienced serious physical or mental health problems.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - N: Serious Physical Health Problem</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1N12" nciodm:ExtCodeID="C142052">
+                    <nciodm:CDISCSynonym>DRRI1-N: Stressful Legal Problems</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - Since returning: I have experienced stressful legal problems (for example, being sued, suing someone else, or being in a custody battle).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - N: Stressful Legal Problems</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1N13" nciodm:ExtCodeID="C142053">
+                    <nciodm:CDISCSynonym>DRRI1-N: Injured by Another Person</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - Since returning: I have been seriously physically injured by another person (for example, hit or beaten up).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - N: Injured by Another Person</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1N14" nciodm:ExtCodeID="C142054">
+                    <nciodm:CDISCSynonym>DRRI1-N: Someone Close to Me Has Died</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - Since returning: someone close to me has died.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - N: Someone Close to Me Has Died</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1O01" nciodm:ExtCodeID="C142055">
+                    <nciodm:CDISCSynonym>DRRI1-O: People Made Me Feel at Home</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - Since returning: the American people made me feel at home.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - O: People Made Me Feel at Home</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1O02" nciodm:ExtCodeID="C142056">
+                    <nciodm:CDISCSynonym>DRRI1-O: People Made Me Feel Proud</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - Since returning: people made me feel proud to have served my country in the Armed Forces.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - O: People Made Me Feel Proud</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1O03" nciodm:ExtCodeID="C142057">
+                    <nciodm:CDISCSynonym>DRRI1-O: Family Make Me Better When Down</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - Since returning: my family members and/or friends make me feel better when I am down.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - O: Family Make Me Better When Down</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1O04" nciodm:ExtCodeID="C142058">
+                    <nciodm:CDISCSynonym>DRRI1-O: Go to Family When Need Advice</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - Since returning: I can go to family members or friends when I need good advice.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - O: Go to Family When Need Advice</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1O05" nciodm:ExtCodeID="C142059">
+                    <nciodm:CDISCSynonym>DRRI1-O: Family/Friends Understand</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - Since returning: my family and friends understand what I have been through in the Armed Forces.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - O: Family/Friends Understand</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1O06" nciodm:ExtCodeID="C142060">
+                    <nciodm:CDISCSynonym>DRRI1-O: I Can Talk About My Deployment</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - Since returning: there are family and/or friends with whom I can talk about my deployment experiences.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - O: I Can Talk About My Deployment</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1O07" nciodm:ExtCodeID="C142061">
+                    <nciodm:CDISCSynonym>DRRI1-O: Family Would Lend Money</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - Since returning: my family members or friends would lend me money if I needed it.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - O: Family Would Lend Money</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1O08" nciodm:ExtCodeID="C142062">
+                    <nciodm:CDISCSynonym>DRRI1-O: Family Would Help Move</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - Since returning: my family members or friends would help me move my belongings if I needed help.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - O: Family Would Help Move</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1O09" nciodm:ExtCodeID="C142063">
+                    <nciodm:CDISCSynonym>DRRI1-O: Someone Would Help With Tasks</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - Since returning: if I were unable to attend to daily chores, there is someone who would help me with these tasks.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - O: Someone Would Help With Tasks</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1O10" nciodm:ExtCodeID="C142064">
+                    <nciodm:CDISCSynonym>DRRI1-O: When Ill Family Will Help Out</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - Since returning: when I am ill, family members or friends will help out until I am well.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - O: When Ill Family Will Help Out</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1P01" nciodm:ExtCodeID="C142065">
+                    <nciodm:CDISCSynonym>DRRI1-P: Input Sought Family Decisions</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - Since returning: my input is sought on important family decisions.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - P: Input Sought Family Decisions</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1P02" nciodm:ExtCodeID="C142066">
+                    <nciodm:CDISCSynonym>DRRI1-P: Feel Like I Fit in With Family</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - Since returning: I feel like I fit in with my family.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - P: Feel Like I Fit in With Family</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1P03" nciodm:ExtCodeID="C142067">
+                    <nciodm:CDISCSynonym>DRRI1-P: Family Know What I Think/Feel</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - Since returning: family members know what I think and how I feel about things.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - P: Family Know What I Think/Feel</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1P04" nciodm:ExtCodeID="C142068">
+                    <nciodm:CDISCSynonym>DRRI1-P: Contribution Family Appreciated</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - Since returning: I feel like my contributions to my family are appreciated.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - P: Contribution Family Appreciated</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1P05" nciodm:ExtCodeID="C142069">
+                    <nciodm:CDISCSynonym>DRRI1-P: Share Interests With Family</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - Since returning: I share many common interests and activities with family members.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - P: Share Interests With Family</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1P06" nciodm:ExtCodeID="C142070">
+                    <nciodm:CDISCSynonym>DRRI1-P: Opinions Valued by Family</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - Since returning: my opinions are valued by other family members.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - P: Opinions Valued by Family</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1P07" nciodm:ExtCodeID="C142071">
+                    <nciodm:CDISCSynonym>DRRI1-P: I am Affectionate With Family</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - Since returning: I am affectionate with family members.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - P: I am Affectionate With Family</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1P08" nciodm:ExtCodeID="C142072">
+                    <nciodm:CDISCSynonym>DRRI1-P: Play Important Role in Family</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - Since returning: I play an important role in my family.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - P: Play Important Role in Family</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1P09" nciodm:ExtCodeID="C142073">
+                    <nciodm:CDISCSynonym>DRRI1-P: Spend My Free Time With Family</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - Since returning: I spend as much of my free time with family members as possible.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - P: Spend My Free Time With Family</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1P10" nciodm:ExtCodeID="C142074">
+                    <nciodm:CDISCSynonym>DRRI1-P: Family Tell Me When Problem</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - Since returning: family members tell me when they are having a problem.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - P: Family Tell Me When Problem</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1P11" nciodm:ExtCodeID="C142075">
+                    <nciodm:CDISCSynonym>DRRI1-P: Can Be Myself Around Family</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - Since returning: I can be myself around family members.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - P: Can Be Myself Around Family</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRRI1P12" nciodm:ExtCodeID="C142076">
+                    <nciodm:CDISCSynonym>DRRI1-P: I Get Along Well With My Family</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Deployment Risk &amp; Resilience Inventory-2 - Since returning: I get along well with my family members.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRRI-2 - P: I Get Along Well With My Family</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>DRRI1TC</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Deployment Risk and Resilience Inventory-2 Questionnaire Test Code</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Questionnaire DRRI-2 Test Code Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

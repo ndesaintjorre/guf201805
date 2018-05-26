@@ -87,6 +87,31 @@
                     <nciodm:CDISCDefinition>A number or range of numeric values on the log scale that measures performance, function, quality, or ability.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Log Score</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="MNARS" nciodm:ExtCodeID="C142233">
+                    <nciodm:CDISCSynonym>Minimum Angle of Resolution</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The smallest angle of separation that allows an image-forming device, including the retina, to distinguish two objects as distinct entities.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Minimum Angle of Resolution</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MNARSLOG" nciodm:ExtCodeID="C142351">
+                    <nciodm:CDISCSynonym>Minimum Angle of Resolution, Log10</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The base-10 logarithm of the minimum angle of resolution achieved by an individual during testing.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Log10 Minimum Angle of Resolution</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NRPNTACC" nciodm:ExtCodeID="C142352">
+                    <nciodm:CDISCSynonym>Near-Point Accommodation</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The minimum distance from the retina that an object remains in clear focus.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Near-Point Accommodation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NUMCHRRD" nciodm:ExtCodeID="C142353">
+                    <nciodm:CDISCSynonym>Number of Characters Read</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The integer that describes the number of characters read by the subject during an eye chart assessment.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Number of Characters Read</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NUMCHRUR" nciodm:ExtCodeID="C142354">
+                    <nciodm:CDISCSynonym>Number of Characters Unread</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The integer that describes the number of characters not able to be read by the subject during an eye chart assessment.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Number of Characters Unread</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="NUMLCOR" nciodm:ExtCodeID="C117891">
                     <nciodm:CDISCSynonym>Number of Letters Correct</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The integer that describes the number of letters correctly identified by the subject during an eye chart assessment.</nciodm:CDISCDefinition>
@@ -96,6 +121,11 @@
                     <nciodm:CDISCSynonym>Number of Lines Read</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The integer that describes the number of lines read by the subject during an eye chart assessment.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Number of Eye Chart Lines Read</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NUMLINUR" nciodm:ExtCodeID="C142355">
+                    <nciodm:CDISCSynonym>Number of Lines Unread</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The integer that describes the number of lines not able to be read by the subject during an eye chart assessment.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Number of Lines Unread</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="REACTIV" nciodm:ExtCodeID="C25637">
                     <nciodm:CDISCSynonym>Reactivity</nciodm:CDISCSynonym>

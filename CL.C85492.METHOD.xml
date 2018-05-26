@@ -125,6 +125,10 @@
                     <nciodm:CDISCDefinition>A laboratory procedure that combines the sequence-specific detection aspects of FISH with the simple detection methods of immunohistochemistry. Briefly, sequence-specific probes are hybridized to cells fixed on slides and the sequestered probe is visualized by a peroxidase reaction. It has the advantage of being a less costly assay that does not require fluorescence microscopy with results that are stable over time.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Chromogenic In Situ Hybridization</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="CLAUSS METHOD" nciodm:ExtCodeID="C142334">
+                    <nciodm:CDISCDefinition>An in vitro method to determine the plasma concentration of fibrin, based on the correlation of fibrinogen concentration with the clotting time of diluted plasma mixed with excess thrombin. The method is calibrated using a standard curve based on plasma with decreasing fibrinogen concentrations.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Clauss Method</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="CLINICAL EVALUATION" nciodm:ExtCodeID="C124351">
                     <nciodm:CDISCDefinition>An appraisal of a patient's condition by a clinician that is based on a physical exam, medical history, patient's account of symptoms, laboratory assessments, and/or imaging analysis.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Clinical Evaluation</nciodm:PreferredTerm>
@@ -157,9 +161,17 @@
                     <nciodm:CDISCDefinition>A type of specular microscopy in which the specular microscope makes contact with the cornea of the eye.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Contact Specular Microscopy</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="CONTRAST ENHANCED CT SCAN" nciodm:ExtCodeID="C137805">
+                    <nciodm:CDISCDefinition>A type of CT scan in which images are enhanced by the addition of contrast agents into the body.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Computed Tomography with Contrast</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="CONTRAST ENHANCED MRI" nciodm:ExtCodeID="C46087">
                     <nciodm:CDISCDefinition>A technique that uses radiofrequency waves and a magnet to image the body. The images are enhanced by the addition of contrast agents which selectively intensify anatomical regions to intensify the clarity of the image for diagnostic purposes. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Contrast-enhanced Magnetic Resonance Imaging</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CONTRAST ENHANCED PET/CT SCAN" nciodm:ExtCodeID="C142335">
+                    <nciodm:CDISCDefinition>An imaging technique that utilizes positron emission tomography and computed tomography in a single machine, in which images are enhanced by the addition of contrast agents into the body.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Contrast Enhanced PET-CT Scan</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="CORONARY ANGIOGRAPHY" nciodm:ExtCodeID="C100085">
                     <nciodm:CDISCDefinition>A procedure in which the catheter is passed into the aortic root or other great vessels for the purpose of angiography of the native coronary arteries or bypass grafts supplying native coronary arteries.</nciodm:CDISCDefinition>
@@ -174,6 +186,10 @@
                     <nciodm:CDISCSynonym>Computed Tomography</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>An imaging technique for examining structures within the body by scanning them with X rays and using a computer to construct a series of cross-sectional scans along a single axis.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Computed Tomography</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CT SCAN WITHOUT CONTRAST" nciodm:ExtCodeID="C137806">
+                    <nciodm:CDISCDefinition>A type of CT scan in which the images are not enhanced by the addition of contrast agents into the body.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Computed Tomography without Contrast</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="CYSTOSCOPY" nciodm:ExtCodeID="C16482">
                     <nciodm:CDISCDefinition>Endoscopic examination of the urinary bladder or urethra.</nciodm:CDISCDefinition>
@@ -346,6 +362,15 @@
                     <nciodm:CDISCDefinition>A method of measuring the number of cells in a sample by placing the cells in a fluid and passing them, in a stream, through a special light microscope that can record and analyze images of the cells to determine the presence of foreign particles, cell counts, protein aggregates and morphology information.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Flow Microscopy</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="FLUORESCENCE ANGIOGRAPHY" nciodm:ExtCodeID="C116569">
+                    <nciodm:CDISCDefinition>An examination technique that uses fluorescent dye and a specialized camera to inspect blood flow within vessels.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Fluorescence Angiography</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FLUORESCENT ENZYME IMMUNOASSAY" nciodm:ExtCodeID="C142336">
+                    <nciodm:CDISCSynonym>FEIA</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An assay technique that uses one or more antibodies to detect an analyte, where either the analyte or antibody is labelled with an enzyme. The binding of antibody to analyte is detected by the enzyme converting a substrate to a fluorescent product.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Fluorescent Enzyme Immunoassay</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="FLUORESCENT IMMUNOASSAY" nciodm:ExtCodeID="C17370">
                     <nciodm:CDISCSynonym>Fluorescent Antibody Assay</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Immunofluorescence Assay</nciodm:CDISCSynonym>
@@ -502,6 +527,19 @@
                     <nciodm:CDISCDefinition>An immunoassay in which the antigen-antibody complex is quantified using light emission, which is generated from a chemical reaction.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Immunochemiluminometric Assay</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="IMMUNOFIXATION ELECTROPHORESIS" nciodm:ExtCodeID="C54536">
+                    <nciodm:CDISCSynonym>IFE</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An enhancement of immunoelectrophoresis in which a series of post-electrophoretic gel slabs are layered with cellulose-acetate gels saturated with specific antibodies. The resulting antigen-antibody complexes fixed on the second gel may then be stained, allowing sensitive and specific qualitative visual identification of proteins by electrophoretic position.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Immunofixation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IMMUNOFLUORESCENT STAIN" nciodm:ExtCodeID="C142337">
+                    <nciodm:CDISCDefinition>A microscopy staining method that utilizes immunofluorescent markers for use with histological applications of preserved cells.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Immunofluorescent Staining Method</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IMMUNOMAGNETIC FLUORESCENCE MICROSCOPY" nciodm:ExtCodeID="C142338">
+                    <nciodm:CDISCDefinition>An imaging technique in which fluorescently labeled cells are immunomagnetically selected and imaged by fluorescent microscopy.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Immunomagnetic Fluorescence Microscopy</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="IMMUNOPRECIPITATION" nciodm:ExtCodeID="C16724">
                     <nciodm:CDISCDefinition>Antigen aggregation with antibody, in the right ratios, to cause precipitation. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Immunoprecipitation</nciodm:PreferredTerm>
@@ -574,6 +612,10 @@
                     <nciodm:CDISCDefinition>The preparation, analysis, and interpretation of a karyotype, the representation of the chromosome set of a cell sample.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Karyotyping</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="KINETIC CHROMOGENIC ASSAY" nciodm:ExtCodeID="C142339">
+                    <nciodm:CDISCDefinition>A bioassay in which a biological specimen is incubated with a kinetic substrate, followed by optical assessment of color change.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Kinetic Chromogenic Assay</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="KINETIC MICROPARTICLE IMMUNOASSAY" nciodm:ExtCodeID="C111240">
                     <nciodm:CDISCDefinition>A type of immunoassay in which the antigen of interest found in a biological specimen competes with a lattice of antigen-antibody complexes. Competing antigen inhibits lattice formation and decreases absorbance in proportion to the amount of antigen present in a biological specimen. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Kinetic Microparticle Immunoassay</nciodm:PreferredTerm>
@@ -581,6 +623,14 @@
                 <EnumeratedItem CodedValue="KINYOUN STAIN" nciodm:ExtCodeID="C85651">
                     <nciodm:CDISCDefinition>A microscopy acid fast staining method that utilizes kinyoun carbol fuchsin, a dye containing basic fuchsin in solution with ethyl alcohol and aqueous phenol. This acid fast staining technique does not require heating during the primary staining step involving the carbol fuchsin.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Kinyoun Staining Method</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LANDOLT RING" nciodm:ExtCodeID="C142340">
+                    <nciodm:CDISCDefinition>A diagrammatic method to test visual acuity in which a symbol, in the shape of the letter C, is presented to the patient who must identify on which side of the symbol the gap is present. Both the size of the gap and the size of the symbol are reduced until the subject makes a predetermined rate of errors, thus ending the test. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Landolt Ring</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LAPAROSCOPY" nciodm:ExtCodeID="C16969">
+                    <nciodm:CDISCDefinition>A technique used to examine the abdominopelvic region with a laparoscope.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Laparoscopy</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="LASER CAPTURE MICRODISSECTION" nciodm:ExtCodeID="C19263">
                     <nciodm:CDISCSynonym>LCM</nciodm:CDISCSynonym>
@@ -675,9 +725,17 @@
                     <nciodm:CDISCDefinition>A clot detection method that uses a mechanical means (electromagnetic mechanical or electromechanical) to detect the presence of or quantify the formation of a thrombus in a specimen. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Mechanical Clot Detection</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="MEDIASTINOSCOPY" nciodm:ExtCodeID="C16829">
+                    <nciodm:CDISCDefinition>A technique used to examine the thorax with a mediastinoscope.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Mediastinoscopy</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="MICRO BROTH DILUTION" nciodm:ExtCodeID="C85701">
                     <nciodm:CDISCDefinition>A method to determine the minimum inhibitory concentration (MIC) of antibiotics in which growth media is pipetted into a multi-well plate. Each well contains a known concentration of drug which is inoculated with a known quantity of bacteria. The plate is incubated for a specified period of time and each well is assessed for bacterial cell growth. The drug concentration in the first well showing no growth is known as the MIC for that antibiotic.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Micro Broth Dilution Method</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MICRO-LATEX PARTICLE-MEDIATED IMMUNOASSAY" nciodm:ExtCodeID="C142341">
+                    <nciodm:CDISCDefinition>An immunoassay that involves coating microbeads of latex with antigens or antibodies, mixing them with a fluid specimen, and then observing for any agglutination.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Micro-Latex Particle-Mediated Immunoassay</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="MICROARRAY" nciodm:ExtCodeID="C44282">
                     <nciodm:CDISCDefinition>A piece of glass or plastic on which different samples have been affixed at separate locations in an ordered manner thus forming a microscopic array. The samples are usually DNA fragments but may also be antibodies, other proteins, or tissues.</nciodm:CDISCDefinition>
@@ -815,6 +873,7 @@
                     <nciodm:PreferredTerm>Oligonucleotide Array-based Comparative Genomic Hybridization</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="OPHTHALMOSCOPY" nciodm:ExtCodeID="C120698">
+                    <nciodm:CDISCSynonym>Fundoscopy</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A technique used to examine the fundus and other anatomical structures of the eye with a magnifying instrument.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Ophthalmoscopy</nciodm:PreferredTerm>
                 </EnumeratedItem>
@@ -882,6 +941,10 @@
                     <nciodm:CDISCDefinition>An imaging technique that utilizes positron emission tomography and computed tomography in a single machine.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Positron Emission Tomography and Computed Tomography Scan</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="PET/CT SCAN WITHOUT CONTRAST" nciodm:ExtCodeID="C142342">
+                    <nciodm:CDISCDefinition>An imaging technique that utilizes positron emission tomography and computed tomography in a single machine, in which the images are not enhanced by the addition of contrast agents into the body.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PET-CT Scan Without Contrast</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="PET/MRI SCAN" nciodm:ExtCodeID="C103514">
                     <nciodm:CDISCDefinition>An imaging technique that utilizes positron emission tomography and magnetic resonance imaging in a single machine.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Positron Emission Tomography and Magnetic Resonance Imaging</nciodm:PreferredTerm>
@@ -946,6 +1009,10 @@
                 <EnumeratedItem CodedValue="POPULATION SEQUENCING" nciodm:ExtCodeID="C135457">
                     <nciodm:CDISCDefinition>A process by which the individual genomes of most or all of an entire population of a species undergoes a large-scale comparison of the DNA sequences within that population, using probabilistic matching tools.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Population Sequencing</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="POTENTIOMETRY" nciodm:ExtCodeID="C142343">
+                    <nciodm:CDISCDefinition>An electroanalytical technique in which the electrical potential of a solution is measured to determine the composition of the sample, by comparing the constant potential of the reference electrode with the actual potential of the indicator electrode.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Potentiometry</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="PULSE OXIMETRY" nciodm:ExtCodeID="C38085">
                     <nciodm:CDISCDefinition>A non-invasive method that provides estimates of arterial hemoglobin oxygen saturation by utilizing selected wavelengths of light.</nciodm:CDISCDefinition>
@@ -1074,6 +1141,11 @@
                     <nciodm:CDISCDefinition>A modified polymerase chain reaction (PCR) technique followed by electrophoresis such that DNA molecular weights and three-dimensional structures are used to identify mutations.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Single-strand Conformation Polymerase Chain Reaction</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="SISH" nciodm:ExtCodeID="C142344">
+                    <nciodm:CDISCSynonym>Silver-Enhanced in Situ Hybridization</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A type of in situ hybridization that uses a hybridization probe linked to an enzyme that elicits neutralization and deposition of silver onto the probe target site.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Silver-Enhanced in Situ Hybridization</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="SIZE EXCLUSION CHROMATOGRAPHY" nciodm:ExtCodeID="C16433">
                     <nciodm:CDISCDefinition>Gel permeation or sieve chromatography that is performed on porous gels that separate solutes on the basis of size.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Gel Filtration Chromatography</nciodm:PreferredTerm>
@@ -1131,13 +1203,17 @@
                     <nciodm:CDISCDefinition>An echocardiographic technique in which an image of the heart is produced by ultrasonography under conditions (e.g., exercise, pharmacologic agents or pacing) intended to elicit signs and symptoms of myocardial ischemia.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Stress Echocardiography</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="TELLER ACUITY CARDS" nciodm:ExtCodeID="C142345">
+                    <nciodm:CDISCDefinition>A diagrammatic method to test visual acuity that uses a set of cards with parallel lines, used for those individuals who are unable to provide a verbal response to questions, including infants, toddlers, and other non verbal individuals.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Teller Acuity Cards</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="TEMPLATE INCISION METHOD" nciodm:ExtCodeID="C122174">
                     <nciodm:CDISCDefinition>A method for assessing bleeding time in which two controlled incisions are made on the forearm using a template to guide placement of the scalpel or blade.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Template Incision Method</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="TEST STRIP" nciodm:ExtCodeID="C50322">
                     <nciodm:CDISCDefinition>A piece of chemically treated medium designed to react in the presence of specific amounts of a trigger substance.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Test Strip Device Component</nciodm:PreferredTerm>
+                    <nciodm:PreferredTerm>Test Strip Device</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="THICK SMEAR" nciodm:ExtCodeID="C85819">
                     <nciodm:CDISCDefinition>A blood smear technique used to make a thick blood smear on a microscope slide which is generally used to look for blood parasites such as those causing malaria.</nciodm:CDISCDefinition>
@@ -1150,6 +1226,10 @@
                 <EnumeratedItem CodedValue="TOLUIDINE BLUE STAIN" nciodm:ExtCodeID="C92302">
                     <nciodm:CDISCDefinition>A microscopy staining method that utilizes toluidine blue, a solution composed of tolonium chloride, to determine the presence of mast cells, lignin, proteoglycans and glycosaminoglycans.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Toluidine Blue Staining Method</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TONOMETRY" nciodm:ExtCodeID="C120543">
+                    <nciodm:CDISCDefinition>A method in which pressure is applied to the surface of the cornea in order to flatten a prespecified area of the membrane.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Tonometry</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="TOTAL BODY IRRADIATION" nciodm:ExtCodeID="C15350">
                     <nciodm:CDISCDefinition>A therapeutic procedure that involves the irradiation of the whole body with ionizing or non-ionizing radiation. (NCI)</nciodm:CDISCDefinition>
@@ -1213,6 +1293,10 @@
                     <nciodm:CDISCDefinition>A microscopy staining method that utilizes uranyl acetate, a water insoluble yellow crystalline solid, which is used as a negative stain in electron microscopy.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Uranyl Acetate Staining Method</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="VENTILATION PERFUSION LUNG SCAN" nciodm:ExtCodeID="C38100">
+                    <nciodm:CDISCDefinition>A nuclear imaging test that uses radiopharmaceuticals to produce an image of the blood flow to the lungs.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Ventilation Perfusion Scanning</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="WEBER GREEN STAIN" nciodm:ExtCodeID="C85828">
                     <nciodm:CDISCDefinition>A microscopy staining method that utilizes a modified trichrome stain to determine the presence of microspordial, sporulating species. The staining method utilizes chromotrope 2R, a red acidic dye, the counterstain fast green, and phosphotungstic acid.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Weber Green Staining Method</nciodm:PreferredTerm>
@@ -1232,7 +1316,7 @@
                 <EnumeratedItem CodedValue="X-RAY" nciodm:ExtCodeID="C38101">
                     <nciodm:CDISCSynonym>Static X-Ray</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A radiographic procedure using the emission of x-rays, a type of penetrating energy wave.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>X-Ray</nciodm:PreferredTerm>
+                    <nciodm:PreferredTerm>X-Ray Imaging</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="X-RAY FLUORESCENCE SPECTROMETRY" nciodm:ExtCodeID="C85830">
                     <nciodm:CDISCDefinition>A spectrometric method that determines the type and concentration of elements or chemicals in a sample, based upon the principle that each element emits fluorescent light of a particular wavelength when exposed to an X-ray.</nciodm:CDISCDefinition>

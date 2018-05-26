@@ -1,0 +1,29 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C142187.VNFATSCD" Name="Vaccines Findings About Test Code" DataType="text" nciodm:ExtCodeID="C142187" nciodm:CodeListExtensible="Yes">
+                <Description>
+                    <TranslatedText xml:lang="en">Terminology relevant to the test codes that describe findings about a vaccines event or intervention.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="EPSDNUM" nciodm:ExtCodeID="C124281">
+                    <nciodm:CDISCSynonym>Number of Episodes</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The total number of episodes that have occurred for the condition.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Number of Episodes</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LDIAM" nciodm:ExtCodeID="C96684">
+                    <nciodm:CDISCSynonym>Longest Diameter</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The longest possible length of a straight line passing through the center of a circular or spheroid object that connects two points on the circumference.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Longest Diameter</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="OCCUR" nciodm:ExtCodeID="C127786">
+                    <nciodm:CDISCSynonym>Occurrence Indicator</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An indication as to whether something has happened, such as an event or incident.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Occurrence Indicator</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SEV" nciodm:ExtCodeID="C25676">
+                    <nciodm:CDISCSynonym>Severity/Intensity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The degree of something undesirable.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Severity</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>VNFATSCD</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Vaccines Findings About Test Code</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Vaccines Findings About Test Code Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

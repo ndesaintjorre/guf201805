@@ -13,7 +13,7 @@
                 <EnumeratedItem CodedValue="DEATH" nciodm:ExtCodeID="C28554">
                     <nciodm:CDISCSynonym>Died</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The absence of life or state of being dead. (NCI)</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Death</nciodm:PreferredTerm>
+                    <nciodm:PreferredTerm>Dead</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="DISEASE RELAPSE" nciodm:ExtCodeID="C38155">
                     <nciodm:CDISCSynonym>Recurrent Disease</nciodm:CDISCSynonym>
@@ -67,9 +67,17 @@
                     <nciodm:CDISCDefinition>A disease process that is increasing in extent or severity. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Progressive Disease</nciodm:PreferredTerm>
                 </EnumeratedItem>
-                <EnumeratedItem CodedValue="PROTOCOL DEVIATION" nciodm:ExtCodeID="C48251">
-                    <nciodm:CDISCDefinition>An event or decision that stands in contrast to the guidelines set out by the protocol. (NCI)</nciodm:CDISCDefinition>
+                <EnumeratedItem CodedValue="PROTOCOL DEVIATION" nciodm:ExtCodeID="C50996">
+                    <nciodm:CDISCDefinition>A variation from processes or procedures defined in a protocol. Deviations usually do not preclude the overall evaluability of subject data for either efficacy or safety, and are often acknowledged and accepted in advance by the sponsor. NOTE: Good clinical practice recommends that deviations be summarized by site and by category as part of the report of study results so that the possible importance of the deviations to the findings of the study can be assessed. Compare to protocol violation. [See ICH E3] (CDISC Glossary)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Protocol Deviation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PROTOCOL VIOLATION" nciodm:ExtCodeID="C142185">
+                    <nciodm:CDISCDefinition>A significant departure from processes or procedures that were required by the protocol. Violations often result in data that are not deemed evaluable for a per-protocol analysis, and may require that the subject(s) who violate the protocol be discontinued from the study. Compare to protocol deviation. (CDISC Glossary)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Protocol Violation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PROTOCOL-SPECIFIED WITHDRAWAL CRITERION MET" nciodm:ExtCodeID="C142349">
+                    <nciodm:CDISCDefinition>An indication that the patient has met one or multiple protocol-specified withdrawal criteria and has been removed from the study.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Protocol-Specified Withdrawal Criterion Met</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="RANDOMIZED BY MISTAKE" nciodm:ExtCodeID="C139237">
                     <nciodm:CDISCDefinition>An indication that the subject was randomized but should not have been.</nciodm:CDISCDefinition>

@@ -17,6 +17,11 @@
                     <nciodm:CDISCDefinition>The adjustment for the effect of tissue thicknesses through which gamma's travel from an activity concentration origin to the scanner's detectors. The count rates of a detector are adjusted to values as if there were no attenuation along the gamma's path. This makes possible accurate quantitation in image analysis. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Attenuation Correction</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="CAUDRIND" nciodm:ExtCodeID="C142236">
+                    <nciodm:CDISCSynonym>Continuous Audio Recording Indicator</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An indication as to whether a continuous audio recording is made during the assessment.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Continuous Audio Recording Made Indicator</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="CHCKSIZE" nciodm:ExtCodeID="C117759">
                     <nciodm:CDISCSynonym>Checkerboard Square Size</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A visual stimulus that uses a checkerboard pattern which reverses every half-second (or other specified frequency). The check size can be changed to allow for testing of specific segments of the visual pathway.</nciodm:CDISCDefinition>
@@ -86,6 +91,11 @@
                     <nciodm:CDISCSynonym>Y-axis Pixel Spacing</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the distance between the centers of two adjacent pixels located along the Y-axis.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Vertical Pixel Spacing</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PULOXIND" nciodm:ExtCodeID="C142237">
+                    <nciodm:CDISCSynonym>Pulse Oximeter Indicator</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An indication as to whether a pulse oximeter is used in the assessment.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Pulse Oximeter Use Indicator</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="PULSSEQ" nciodm:ExtCodeID="C106562">
                     <nciodm:CDISCSynonym>Pulse Sequence</nciodm:CDISCSynonym>

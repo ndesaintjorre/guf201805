@@ -119,6 +119,14 @@
                     <nciodm:CDISCDefinition>An improvement of platelet count as a response to treatment.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Hematologic Improvement-Platelet Response</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="iCPD" nciodm:ExtCodeID="C142356">
+                    <nciodm:CDISCDefinition>Radiographic progression which has been confirmed by additional imaging showing worsening of initial progression.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>iRECIST Confirmed Progressive Disease</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="iCR" nciodm:ExtCodeID="C142357">
+                    <nciodm:CDISCDefinition>The disappearance of all signs of cancer following an initial apparent radiographic progression.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>iRECIST Complete Response</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="IMMUNOPHENOTYPIC CR" nciodm:ExtCodeID="C123588">
                     <nciodm:CDISCDefinition>The disappearance of all signs of cancer, supported by the absence of phenotypically aberrant plasma cells (clonal) in bone marrow. (Rajkumar SV, Harousseau J, Durie B et al, Consensus recommendations for the uniform reporting of clinical trials: report of the International Myeloma Workshop Consensus Panel 1. Blood. 2011; 117(18):4691-4695)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Immunophenotypic Complete Response</nciodm:PreferredTerm>
@@ -126,6 +134,18 @@
                 <EnumeratedItem CodedValue="INDETERMINATE RESPONSE" nciodm:ExtCodeID="C123589">
                     <nciodm:CDISCDefinition>A response that is neither favorable nor unfavorable.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Indeterminate Response</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="iPR" nciodm:ExtCodeID="C142358">
+                    <nciodm:CDISCDefinition>A finding indicating that there is a decrease based on a predetermined threshold in the size and the extent of tissue involvement by cancer following an initial apparent radiographic progression.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>iRECIST Partial Response</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="iSD" nciodm:ExtCodeID="C142359">
+                    <nciodm:CDISCDefinition>Cancer that is neither decreasing nor increasing in extent or severity based on predetermined boundaries following an initial apparent radiographic progression.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>iRECIST Stable Disease</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="iUPD" nciodm:ExtCodeID="C142360">
+                    <nciodm:CDISCDefinition>Apparent radiographic progression which requires confirmation, per criteria, with additional imaging.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>iRECIST Unconfirmed Progressive Disease</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="MAJOR PATHOLOGIC RESPONSE" nciodm:ExtCodeID="C123590">
                     <nciodm:CDISCDefinition>A major decrease in signs of cancer, supported by pathological examination and based on pre-defined thresholds.</nciodm:CDISCDefinition>
@@ -207,6 +227,10 @@
                     <nciodm:CDISCSynonym>Non Complete Response/Non Progressive Disease</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Persistence of one or more non-target lesion(s) and/or maintenance of tumor marker levels above the normal limits. (RECIST)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Non Complete Response/Non Progressive Disease</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NON-iCR/NON-iUPD" nciodm:ExtCodeID="C142361">
+                    <nciodm:CDISCDefinition>Persistence of one or more non-target lesion(s) without unequivocal progression following an initial apparent radiographic progression.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Non iRECIST Complete Response-Non iRECIST Unconfirmed Progressive Disease</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="NON-PD" nciodm:ExtCodeID="C123599">
                     <nciodm:CDISCSynonym>Non Progressive Disease</nciodm:CDISCSynonym>

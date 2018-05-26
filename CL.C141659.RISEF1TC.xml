@@ -1,0 +1,19 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C141659.RISEF1TC" Name="Rising From Floor Functional Test Test Code" DataType="text" nciodm:ExtCodeID="C141659" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Rising From Floor test code.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="RISEF101" nciodm:ExtCodeID="C141702">
+                    <nciodm:CDISCSynonym>RISEF1-Time to Rise From Floor</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Rising From Floor - Time to rise from supine position.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Rising From Floor - Time to Rise From Floor</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="RISEF102" nciodm:ExtCodeID="C141703">
+                    <nciodm:CDISCSynonym>RISEF1-Test Grade</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Rising From Floor - Test grade.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Rising From Floor - Test Grade</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>RISEF1TC</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Rising From Floor Functional Test Test Code</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Functional Test Rising From Floor Test Code Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

@@ -7,6 +7,16 @@
                     <nciodm:CDISCDefinition>The materials from which something is made.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Composition</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="DIGSMPRT" nciodm:ExtCodeID="C142234">
+                    <nciodm:CDISCSynonym>Digital Sampling Rate</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The number of digital samples taken or recorded per unit of time.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Digital Sampling Rate</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ECSNRTYP" nciodm:ExtCodeID="C142235">
+                    <nciodm:CDISCSynonym>Electrical Current Sensor Type</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A description of the sensor used to detect electrical current.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Type of Electrical Current Sensor</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="FDADEVCL" nciodm:ExtCodeID="C112278">
                     <nciodm:CDISCSynonym>FDA Device Classification</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The class of medical device as determined by the US Food and Drug Administration, based upon the level of control necessary to ensure safety and effectiveness (21 CFR 860).</nciodm:CDISCDefinition>

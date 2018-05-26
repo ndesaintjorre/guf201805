@@ -1,0 +1,354 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C141669.IPAQ02TC" Name="International Physical Activity Questionnaire (November 2002) Long Last 7 Days Telephone Format Questionnaire Test Code" DataType="text" nciodm:ExtCodeID="C141669" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">International Physical Activity Questionnaire (November 2002) Long Last 7 Days Telephone Format test code.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="IPA0116" nciodm:ExtCodeID="C141815">
+                    <nciodm:CDISCSynonym>IPA02-Days Moderate in the Garden/Yard</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (November 2002) - Long Last 7 Days Telephone Format - During the last 7 days, on how many days did you do moderate activities in the garden or yard?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Telephone Format Version - Days Moderate in the Garden/Yard</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0201" nciodm:ExtCodeID="C141779">
+                    <nciodm:CDISCSynonym>IPA02-Currently Have Job or Unpaid Work</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (November 2002) - Long Last 7 Days Telephone Format - Do you currently have a job or do any unpaid work outside your home?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Telephone Format Version - Currently Have Job or Unpaid Work</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0202" nciodm:ExtCodeID="C141780">
+                    <nciodm:CDISCSynonym>IPA02-Days Vigorous as Part of Work</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (November 2002) - Long Last 7 Days Telephone Format - During the last 7 days, on how many days did you do vigorous physical activities as part of your work?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Telephone Format Version - Days Vigorous as Part of Work</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0203A" nciodm:ExtCodeID="C141781">
+                    <nciodm:CDISCSynonym>IPA02-Vigorous Work Hours per Day</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (November 2002) - Long Last 7 Days Telephone Format - How much time did you usually spend on one of those days doing vigorous physical activities as part of your work?: Hours per day.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Telephone Format Version - Vigorous Work Hours per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0203B" nciodm:ExtCodeID="C141782">
+                    <nciodm:CDISCSynonym>IPA02-Vigorous Work Minutes per Day</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (November 2002) - Long Last 7 Days Telephone Format - How much time did you usually spend on one of those days doing vigorous physical activities as part of your work?: Minutes per day.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Telephone Format Version - Vigorous Work Minutes per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0203C" nciodm:ExtCodeID="C141783">
+                    <nciodm:CDISCSynonym>IPA02-Vigorous Work Hours per Week</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (November 2002) - Long Last 7 Days Telephone Format - What is the total amount of time you spent over the last 7 days doing vigorous physical activities as part of your work?: Hours per week.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Telephone Format Version - Vigorous Work Hours per Week</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0203D" nciodm:ExtCodeID="C141784">
+                    <nciodm:CDISCSynonym>IPA02-Vigorous Work Minutes per Week</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (November 2002) - Long Last 7 Days Telephone Format - What is the total amount of time you spent over the last 7 days doing vigorous physical activities as part of your work?: Minutes per week.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Telephone Format Version - Vigorous Work Minutes per Week</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0204" nciodm:ExtCodeID="C141785">
+                    <nciodm:CDISCSynonym>IPA02-Days Moderate as Part of Work</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (November 2002) - Long Last 7 Days Telephone Format - During the last 7 days, on how many days did you do moderate physical activities as part of your work?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Telephone Format Version - Days Moderate as Part of Work</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0205A" nciodm:ExtCodeID="C141786">
+                    <nciodm:CDISCSynonym>IPA02-Moderate Work Hours per Day</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (November 2002) - Long Last 7 Days Telephone Format - How much time did you usually spend on one of those days doing moderate physical activities as part of your work?: Hours per day.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Telephone Format Version - Moderate Work Hours per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0205B" nciodm:ExtCodeID="C141787">
+                    <nciodm:CDISCSynonym>IPA02-Moderate Work Minutes per Day</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (November 2002) - Long Last 7 Days Telephone Format - How much time did you usually spend on one of those days doing moderate physical activities as part of your work?: Minutes per day.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Telephone Format Version - Moderate Work Minutes per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0205C" nciodm:ExtCodeID="C141788">
+                    <nciodm:CDISCSynonym>IPA02-Moderate Work Hours per Week</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (November 2002) - Long Last 7 Days Telephone Format - What is the total amount of time you spent over the last 7 days doing moderate physical activities as part of your work?: Hours per week.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Telephone Format Version - Moderate Work Hours per Week</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0205D" nciodm:ExtCodeID="C141789">
+                    <nciodm:CDISCSynonym>IPA02-Moderate Work Minutes per Week</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (November 2002) - Long Last 7 Days Telephone Format - What is the total amount of time you spent over the last 7 days doing moderate physical activities as part of your work?: Minutes per week.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Telephone Format Version - Moderate Work Minutes per Week</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0206" nciodm:ExtCodeID="C141790">
+                    <nciodm:CDISCSynonym>IPA02-Days Walk as Part of Your Work</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (November 2002) - Long Last 7 Days Telephone Format - During the last 7 days, on how many days did you walk as part of your work?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Telephone Format Version - Days Walk as Part of Your Work</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0207A" nciodm:ExtCodeID="C141791">
+                    <nciodm:CDISCSynonym>IPA02-Walking Work Hours per Day</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (November 2002) - Long Last 7 Days Telephone Format - How much time did you usually spend on one of those days walking as part of your work?: Hours per day.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Telephone Format Version - Walking Work Hours per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0207B" nciodm:ExtCodeID="C141792">
+                    <nciodm:CDISCSynonym>IPA02-Walking Work Minutes per Day</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (November 2002) - Long Last 7 Days Telephone Format - How much time did you usually spend on one of those days walking as part of your work?: Minutes per day.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Telephone Format Version - Walking Work Minutes per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0207C" nciodm:ExtCodeID="C141793">
+                    <nciodm:CDISCSynonym>IPA02-Walking Work Hours per Week</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (November 2002) - Long Last 7 Days Telephone Format - What is the total amount of time you spent walking over the last 7 days as part of your work?: Hours per week.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Telephone Format Version - Walking Work Hours per Week</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0207D" nciodm:ExtCodeID="C141794">
+                    <nciodm:CDISCSynonym>IPA02-Walking Work Minutes per Week</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (November 2002) - Long Last 7 Days Telephone Format - What is the total amount of time you spent walking over the last 7 days as part of your work?: Minutes per week.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Telephone Format Version - Walking Work Minutes per Week</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0208" nciodm:ExtCodeID="C141795">
+                    <nciodm:CDISCSynonym>IPA02-Days Travel in a Motor Vehicle</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (November 2002) - Long Last 7 Days Telephone Format - During the last 7 days, on how many days did you travel in a motor vehicle like a train, bus, car or tram?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Telephone Format Version - Days Travel in a Motor Vehicle</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0209A" nciodm:ExtCodeID="C141796">
+                    <nciodm:CDISCSynonym>IPA02-Traveling Hours per Day</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (November 2002) - Long Last 7 Days Telephone Format - How much time did you usually spend on one of those days traveling in a car, bus, train or other kind of motor vehicle?: Hours per day.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Telephone Format Version - Traveling Hours per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0209B" nciodm:ExtCodeID="C141797">
+                    <nciodm:CDISCSynonym>IPA02-Traveling Minutes per Day</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (November 2002) - Long Last 7 Days Telephone Format - How much time did you usually spend on one of those days traveling in a car, bus, train or other kind of motor vehicle?: Minutes per day.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Telephone Format Version - Traveling Minutes per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0209C" nciodm:ExtCodeID="C141798">
+                    <nciodm:CDISCSynonym>IPA02-Traveling Hours per Week</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (November 2002) - Long Last 7 Days Telephone Format - What is the total amount of time you spent over the last 7 days traveling in a motor vehicle?: Hours per week.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Telephone Format Version - Traveling Hours per Week</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0209D" nciodm:ExtCodeID="C141799">
+                    <nciodm:CDISCSynonym>IPa02-Traveling Minutes per Week</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (November 2002) - Long Last 7 Days Telephone Format - What is the total amount of time you spent over the last 7 days traveling in a motor vehicle?: Minutes per week.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Telephone Format Version - Traveling Minutes per Week</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0210" nciodm:ExtCodeID="C141800">
+                    <nciodm:CDISCSynonym>IPA02-Days Bicycle Place to Place</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (November 2002) - Long Last 7 Days Telephone Format - During the last 7 days, on how many days did you bicycle to go from place to place?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Telephone Format Version - Days Bicycle Place to Place</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0211A" nciodm:ExtCodeID="C141801">
+                    <nciodm:CDISCSynonym>IPA02-Bicycle Hours per Day</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (November 2002) - Long Last 7 Days Telephone Format - How much time did you usually spend on one of those days to bicycle from place to place?: Hours per day.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Telephone Format Version - Bicycle Hours per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0211B" nciodm:ExtCodeID="C141802">
+                    <nciodm:CDISCSynonym>IPA02-Bicycle Minutes per Day</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (November 2002) - Long Last 7 Days Telephone Format - How much time did you usually spend on one of those days to bicycle from place to place?: Minutes per day.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Telephone Format Version - Bicycle Minutes per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0211C" nciodm:ExtCodeID="C141803">
+                    <nciodm:CDISCSynonym>IPA02-Bicycling Hours per Week</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (November 2002) - Long Last 7 Days Telephone Format - What is the total amount of time you spent bicycling over the last 7 days to travel from place to place?: Hours per week.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Telephone Format Version - Bicycling Hours per Week</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0211D" nciodm:ExtCodeID="C141804">
+                    <nciodm:CDISCSynonym>IPA02-Bicycling Minutes per Week</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (November 2002) - Long Last 7 Days Telephone Format - What is the total amount of time you spent bicycling over the last 7 days to travel from place to place?: Minutes per week.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Telephone Format Version - Bicycling Minutes per Week</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0212" nciodm:ExtCodeID="C141805">
+                    <nciodm:CDISCSynonym>IPA02-Days Walk Place to Place</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (November 2002) - Long Last 7 Days Telephone Format - During the last 7 days, on how many days did you walk to go from place to place?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Telephone Format Version - Days Walk Place to Place</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0213A" nciodm:ExtCodeID="C141806">
+                    <nciodm:CDISCSynonym>IPA02-Walking Place Hours per Day</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (November 2002) - Long Last 7 Days Telephone Format - How much time did you usually spend on one of those days walking from place to place?: Hours per day.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Telephone Format Version - Walking Place Hours per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0213B" nciodm:ExtCodeID="C141807">
+                    <nciodm:CDISCSynonym>IPA02-Walking Place Minutes per Day</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (November 2002) - Long Last 7 Days Telephone Format - How much time did you usually spend on one of those days walking from place to place?: Minutes per day.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Telephone Format Version - Walking Place Minutes per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0213C" nciodm:ExtCodeID="C141808">
+                    <nciodm:CDISCSynonym>IPA02-Walking Place Hours per Week</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (November 2002) - Long Last 7 Days Telephone Format - What is the total amount of time you spent over the last 7 days walking from place to place?: Hours per week.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Telephone Format Version - Walking Place Hours per Week</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0213D" nciodm:ExtCodeID="C141809">
+                    <nciodm:CDISCSynonym>IPA02-Walking Place Minutes per Week</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (November 2002) - Long Last 7 Days Telephone Format - What is the total amount of time you spent over the last 7 days walking from place to place?: Minutes per week.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Telephone Format Version - Walking Place Minutes per Week</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0214" nciodm:ExtCodeID="C141810">
+                    <nciodm:CDISCSynonym>IPA02-Days Vigorous in the Garden/Yard</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (November 2002) - Long Last 7 Days Telephone Format - During the last 7 days, on how many days did you do vigorous physical activities in the garden or yard?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Telephone Format Version - Days Vigorous in the Garden/Yard</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0215A" nciodm:ExtCodeID="C141811">
+                    <nciodm:CDISCSynonym>IPA02-Vigorous Garden Hours per Day</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (November 2002) - Long Last 7 Days Telephone Format - How much time did you usually spend on one of those days doing vigorous physical activities in the garden or yard?: Hours per day.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Telephone Format Version - Vigorous Garden Hours per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0215B" nciodm:ExtCodeID="C141812">
+                    <nciodm:CDISCSynonym>IPA02-Vigorous Garden Minutes per Day</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (November 2002) - Long Last 7 Days Telephone Format - How much time did you usually spend on one of those days doing vigorous physical activities in the garden or yard?: Minutes per day.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Telephone Format Version - Vigorous Garden Minutes per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0215C" nciodm:ExtCodeID="C141813">
+                    <nciodm:CDISCSynonym>IPA02-Vigorous Garden Hours per Week</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (November 2002) - Long Last 7 Days Telephone Format - What is the total amount of time you spent over the last 7 days doing vigorous physical activities in the garden or yard?: Hours per week.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Telephone Format Version - Vigorous Garden Hours per Week</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0215D" nciodm:ExtCodeID="C141814">
+                    <nciodm:CDISCSynonym>IPA02-Vigorous Garden Minutes per Week</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (November 2002) - Long Last 7 Days Telephone Format - What is the total amount of time you spent over the last 7 days doing vigorous physical activities in the garden or yard?: Minutes per week.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Telephone Format Version - Vigorous Garden Minutes per Week</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0217A" nciodm:ExtCodeID="C141816">
+                    <nciodm:CDISCSynonym>IPA02-Moderate Garden Hours per Day</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (November 2002) - Long Last 7 Days Telephone Format - How much time did you usually spend on one of those days doing moderate physical activities in the garden or yard?: Hours per day.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Telephone Format Version - Moderate Garden Hours per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0217B" nciodm:ExtCodeID="C141817">
+                    <nciodm:CDISCSynonym>IPA02-Moderate Garden Minutes per Day</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (November 2002) - Long Last 7 Days Telephone Format - How much time did you usually spend on one of those days doing moderate physical activities in the garden or yard?: Minutes per day.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Telephone Format Version - Moderate Garden Minutes per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0217C" nciodm:ExtCodeID="C141818">
+                    <nciodm:CDISCSynonym>IPA02-Moderate Garden Hours per Week</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (November 2002) - Long Last 7 Days Telephone Format - What is the total amount of time you spent over the last 7 days doing moderate physical activities in the garden or yard?: Hours per week.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Telephone Format Version - Moderate Garden Hours per Week</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0217D" nciodm:ExtCodeID="C141819">
+                    <nciodm:CDISCSynonym>IPA02-Moderate Garden Minutes per Week</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (November 2002) - Long Last 7 Days Telephone Format - What is the total amount of time you spent over the last 7 days doing moderate physical activities in the garden or yard?: Minutes per week.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Telephone Format Version - Moderate Garden Minutes per Week</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0218" nciodm:ExtCodeID="C141820">
+                    <nciodm:CDISCSynonym>IPA02-Days Moderate Inside Your Home</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (November 2002) - Long Last 7 Days Telephone Format - During the last 7 days, on how many days did you do moderate activities inside your home?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Telephone Format Version - Days Moderate Inside Your Home</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0219A" nciodm:ExtCodeID="C141821">
+                    <nciodm:CDISCSynonym>IPA02-Moderate Home Hours per Day</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (November 2002) - Long Last 7 Days Telephone Format - How much time did you usually spend on one of those days doing moderate physical activities inside your home?: Hours per day.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Telephone Format Version - Moderate Home Hours per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0219B" nciodm:ExtCodeID="C141822">
+                    <nciodm:CDISCSynonym>IPA02-Moderate Home Minutes per Day</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (November 2002) - Long Last 7 Days Telephone Format - How much time did you usually spend on one of those days doing moderate physical activities inside your home?: Minutes per day.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Telephone Format Version - Moderate Home Minutes per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0219C" nciodm:ExtCodeID="C141823">
+                    <nciodm:CDISCSynonym>IPA02-Moderate Home Hours per Week</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (November 2002) - Long Last 7 Days Telephone Format - What is the total amount of time you spent over the last 7 days doing moderate physical activities inside your home?: Hours per week.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Telephone Format Version - Moderate Home Hours per Week</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0219D" nciodm:ExtCodeID="C141824">
+                    <nciodm:CDISCSynonym>IPA02-Moderate Home Minutes per Week</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (November 2002) - Long Last 7 Days Telephone Format - What is the total amount of time you spent over the last 7 days doing moderate physical activities inside your home?: Minutes per week.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Telephone Format Version - Moderate Home Minutes per Week</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0220" nciodm:ExtCodeID="C141825">
+                    <nciodm:CDISCSynonym>IPA02-Days Walk in Your Leisure Time</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (November 2002) - Long Last 7 Days Telephone Format - Not counting any walking you have already mentioned, during the last 7 days, on how many days did you walk for at least 10 minutes at a time in your leisure time?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Telephone Format Version - Days Walk in Your Leisure Time</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0221A" nciodm:ExtCodeID="C141826">
+                    <nciodm:CDISCSynonym>IPA02-Walking Leisure Hours per Day</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (November 2002) - Long Last 7 Days Telephone Format - How much time did you usually spend on one of those days walking in your leisure time?: Hours per day.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Telephone Format Version - Walking Leisure Hours per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0221B" nciodm:ExtCodeID="C141827">
+                    <nciodm:CDISCSynonym>IPA02-Walking Leisure Minutes Per Day</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (November 2002) - Long Last 7 Days Telephone Format - How much time did you usually spend on one of those days walking in your leisure time?: Minutes per day.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Telephone Format Version - Walking Leisure Minutes Per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0221C" nciodm:ExtCodeID="C141828">
+                    <nciodm:CDISCSynonym>IPA02-Walking Leisure Hours per Week</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (November 2002) - Long Last 7 Days Telephone Format - What is the total amount of time you spent over the last 7 days walking in your leisure time?: Hours per week.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Telephone Format Version - Walking Leisure Hours per Week</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0221D" nciodm:ExtCodeID="C141829">
+                    <nciodm:CDISCSynonym>IPA02-Walking Leisure Minutes per Week</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (November 2002) - Long Last 7 Days Telephone Format - What is the total amount of time you spent over the last 7 days walking in your leisure time?: Minutes per week.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Telephone Format Version - Walking Leisure Minutes per Week</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0222" nciodm:ExtCodeID="C141830">
+                    <nciodm:CDISCSynonym>IPA02-Days Vigorous in Your Leisure Time</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (November 2002) - Long Last 7 Days Telephone Format - During the last 7 days, on how many days did you do vigorous physical activities in your leisure time?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Telephone Format Version - Days Vigorous in Your Leisure Time</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0223A" nciodm:ExtCodeID="C141831">
+                    <nciodm:CDISCSynonym>IPA02-Vigorous Leisure Hours per Day</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (November 2002) - Long Last 7 Days Telephone Format - How much time did you usually spend on one of those days doing vigorous physical activities in your leisure time?: Hours per day.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Telephone Format Version - Vigorous Leisure Hours per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0223B" nciodm:ExtCodeID="C141832">
+                    <nciodm:CDISCSynonym>IPA02-Vigorous Leisure Minutes per Day</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (November 2002) - Long Last 7 Days Telephone Format - How much time did you usually spend on one of those days doing vigorous physical activities in your leisure time?: Minutes per day.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Telephone Format Version - Vigorous Leisure Minutes per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0223C" nciodm:ExtCodeID="C141833">
+                    <nciodm:CDISCSynonym>IPA02-Vigorous Leisure Hours per Week</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (November 2002) - Long Last 7 Days Telephone Format - What is the total amount of time you spent over the last 7 days doing vigorous physical activities in your leisure time?: Hours per week.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Telephone Format Version - Vigorous Leisure Hours per Week</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0223D" nciodm:ExtCodeID="C141834">
+                    <nciodm:CDISCSynonym>IPA02-Vigorous Leisure Minutes per Week</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (November 2002) - Long Last 7 Days Telephone Format - What is the total amount of time you spent over the last 7 days doing vigorous physical activities in your leisure time?: Minutes per week.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Telephone Format Version - Vigorous Leisure Minutes per Week</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0224" nciodm:ExtCodeID="C141835">
+                    <nciodm:CDISCSynonym>IPA02-Days Moderate in Your Leisure Time</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (November 2002) - Long Last 7 Days Telephone Format - During the last 7 days, on how many days did you do moderate physical activities in your leisure time?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Telephone Format Version - Days Moderate in Your Leisure Time</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0225A" nciodm:ExtCodeID="C141836">
+                    <nciodm:CDISCSynonym>IPA02-Moderate Leisure Hours per Day</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (November 2002) - Long Last 7 Days Telephone Format - How much time did you usually spend on one of those days doing moderate physical activities in your leisure time?: Hours per day.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Telephone Format Version - Moderate Leisure Hours per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0225B" nciodm:ExtCodeID="C141837">
+                    <nciodm:CDISCSynonym>IPA02-Moderate Leisure Minutes per Day</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (November 2002) - Long Last 7 Days Telephone Format - How much time did you usually spend on one of those days doing moderate physical activities in your leisure time?: Minutes per day.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Telephone Format Version - Moderate Leisure Minutes per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0225C" nciodm:ExtCodeID="C141838">
+                    <nciodm:CDISCSynonym>IPA02-Moderate Leisure Hours per Week</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (November 2002) - Long Last 7 Days Telephone Format - What is the total amount of time you spent over the last 7 days doing moderate physical activities in your leisure time?: Hours per week.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Telephone Format Version - Moderate Leisure Hours per Week</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0225D" nciodm:ExtCodeID="C141839">
+                    <nciodm:CDISCSynonym>IPA02-Moderate Leisure Minutes per Week</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (November 2002) - Long Last 7 Days Telephone Format - What is the total amount of time you spent over the last 7 days doing moderate physical activities in your leisure time? Minutes per week.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Telephone Format Version - Moderate Leisure Minutes per Week</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0226A" nciodm:ExtCodeID="C141840">
+                    <nciodm:CDISCSynonym>IPA02-Sitting Weekday Hours per Day</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (November 2002) - Long Last 7 Days Telephone Format - During the last 7 days, how much time did you usually spend sitting on a weekday?: Hours per day.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Telephone Format Version - Sitting Weekday Hours per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0226B" nciodm:ExtCodeID="C141841">
+                    <nciodm:CDISCSynonym>IPA02-Sitting Weekday Minutes per Day</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (November 2002) - Long Last 7 Days Telephone Format - During the last 7 days, how much time did you usually spend sitting on a weekday?: Minutes per day.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Telephone Format Version - Sitting Weekday Minutes per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0226C" nciodm:ExtCodeID="C141842">
+                    <nciodm:CDISCSynonym>IPA02-Sitting Hours on Wednesday</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (November 2002) - Long Last 7 Days Telephone Format - How much time in total did you spend sitting on Wednesday?: Hours on Wednesday.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Telephone Format Version - Sitting Hours on Wednesday</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0226D" nciodm:ExtCodeID="C141843">
+                    <nciodm:CDISCSynonym>IPA02-Sitting Minutes per Wednesday</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (November 2002) - Long Last 7 Days Telephone Format - How much time in total did you spend sitting on Wednesday?: Minutes per Wednesday.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Telephone Format Version - Sitting Minutes per Wednesday</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0227A" nciodm:ExtCodeID="C141844">
+                    <nciodm:CDISCSynonym>IPA02-Sitting Weekend Hours per Day</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (November 2002) - Long Last 7 Days Telephone Format - During the last 7 days, how much time did you usually spend sitting on a weekend day?: Hours per day.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Telephone Format Version - Sitting Weekend Hours per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0227B" nciodm:ExtCodeID="C141845">
+                    <nciodm:CDISCSynonym>IPA02-Sitting Weekend Minutes per Day</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (November 2002) - Long Last 7 Days Telephone Format - During the last 7 days, how much time did you usually spend sitting on a weekend day?: Minutes per day.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Telephone Format Version - Sitting Weekend Minutes per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0227C" nciodm:ExtCodeID="C141846">
+                    <nciodm:CDISCSynonym>IPA02-Sitting Hours on Saturday</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (November 2002) - Long Last 7 Days Telephone Format - How much time in total did you spend sitting on Saturday?: Hours on Saturday.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Telephone Format Version - Sitting Hours on Saturday</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0227D" nciodm:ExtCodeID="C141847">
+                    <nciodm:CDISCSynonym>IPA02-Sitting Minutes per Saturday</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (November 2002) - Long Last 7 Days Telephone Format - How much time in total did you spend sitting on Saturday?: Minutes per Saturday.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Telephone Format Version - Sitting Minutes per Saturday</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>IPAQ02TC</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>International Physical Activity Questionnaire (November 2002) Long Last 7 Days Telephone Format Questionnaire Test Code</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Questionnaire IPAQ Long Last 7 Days Telephone Format Version Test Code Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

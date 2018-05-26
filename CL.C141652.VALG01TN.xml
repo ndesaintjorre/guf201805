@@ -1,0 +1,14 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C141652.VALG01TN" Name="Veterans Administration Lung Study Group Clinical Classification Test Name" DataType="text" nciodm:ExtCodeID="C141652" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Veterans Administration Lung Study Group test name.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="VALG01-Cancer Stage" nciodm:ExtCodeID="C141695">
+                    <nciodm:CDISCSynonym>VALG01-Cancer Stage</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Veterans Administration Lung Study Group - Cancer stage.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>VALG - Cancer Stage</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>VALG01TN</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Veterans Administration Lung Study Group Clinical Classification Test Name</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Clinical Classification VALG Test Name Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

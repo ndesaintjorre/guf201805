@@ -1,0 +1,19 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C141657.TENMW1TC" Name="Ten Meter Walk/Run Functional Test Test Code" DataType="text" nciodm:ExtCodeID="C141657" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Ten Meter Walk/Run test code.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="TENMW101" nciodm:ExtCodeID="C141700">
+                    <nciodm:CDISCSynonym>TENMW1-Time to Walk/Run 10 Meters</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Ten Meter Walk/Run - Time to walk or run 10 meters.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>10 Meter Walk/Run - Time to Walk/Run 10 Meters</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TENMW102" nciodm:ExtCodeID="C141701">
+                    <nciodm:CDISCSynonym>TENMW1-Test Grade</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Ten Meter Walk/Run - Test grade.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>10 Meter Walk/Run - Test Grade</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>TENMW1TC</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Ten Meter Walk/Run Functional Test Test Code</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Functional Test 10 Meter Walk/Run Test Code Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

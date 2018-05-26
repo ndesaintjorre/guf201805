@@ -1909,12 +1909,12 @@
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="COXSACKIE A VIRUS" nciodm:ExtCodeID="C112242">
                     <nciodm:CDISCSynonym>Coxsackie Virus A</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Any viral organism that can be assigned to the Enterovirus A species subtype Coxsackie A virus.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>Any viral organism that can be assigned to the Human Enterovirus A, B and/or C species and subtype Coxsackie A virus.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Coxsackie A Virus</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="COXSACKIE B VIRUS" nciodm:ExtCodeID="C112243">
                     <nciodm:CDISCSynonym>Coxsackie Virus B</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Any viral organism that can be assigned to the Enterovirus B species subtype Coxsackie B virus.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>Any viral organism that can be assigned to the Human Enterovirus B species and subtype Coxsackie B virus.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Coxsackie B Virus</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="CRONOBACTER SAKAZAKII" nciodm:ExtCodeID="C86329">
@@ -4127,6 +4127,20 @@
                 <EnumeratedItem CodedValue="MUCOR RAMOSISSIMUS" nciodm:ExtCodeID="C127738">
                     <nciodm:CDISCDefinition>Any fungal organism that can be assigned to the species Mucor ramosissimus.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Mucor ramosissimus</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MURINE LEUKEMIA VIRUS" nciodm:ExtCodeID="C14244">
+                    <nciodm:CDISCSynonym>Murine Leukemia Virus MLV</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Murine Leukemia Virus MuLV</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any viral organism that can be assigned to the species Murine leukemia virus.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Mouse Leukemia Virus</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MURINE LEUKEMIA VIRUS SUBTYPE MOLONEY" nciodm:ExtCodeID="C14241">
+                    <nciodm:CDISCSynonym>M-MuLV</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>MoMuLV</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Moloney Murine Leukemia Virus M-MuLV</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Rat Moloney Murine Leukemia Virus MoMuLV</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any viral organism that can be assigned to the Murine leukaemia virus species subtype Moloney.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Moloney Leukemia Virus</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="MYCOBACTERIUM" nciodm:ExtCodeID="C76369">
                     <nciodm:CDISCDefinition>Any bacteria that is not assigned to the species level but can be assigned to the Mycobacterium genus level.</nciodm:CDISCDefinition>

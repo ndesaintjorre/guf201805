@@ -725,6 +725,11 @@
                     <nciodm:CDISCDefinition>A relative measurement (ratio or percentage) of the aspartate aminotransferase to creatinine in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Aspartate Aminotransferase to Creatinine Ratio Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="ASYNP" nciodm:ExtCodeID="C142272">
+                    <nciodm:CDISCSynonym>Alpha Synuclein Protein</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the alpha synuclein protein in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Alpha Synuclein Protein Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="ATPVITE" nciodm:ExtCodeID="C103350">
                     <nciodm:CDISCSynonym>Alpha Tocopherol/Vitamin E</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A relative measurement (ratio or percentage) of alpha-tocopherol to the total vitamin E in a biological specimen.</nciodm:CDISCDefinition>
@@ -1533,6 +1538,144 @@
                     <nciodm:CDISCDefinition>A measurement of the Alternaria tenuis alternata antigen IgG4 antibody in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Alternaria tenuis alternata Antigen IgG4 Antibody Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="C142249" nciodm:ExtCodeID="C142249">
+                    <nciodm:CDISCSynonym>S. pneumonia Sero 1 IgG AB</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Streptococcus pneumoniae Serotype 1 IgG Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Streptococcus pneumoniae serotype 1 IgG antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Streptococcus pneumoniae Serotype 1 IgG Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C142250" nciodm:ExtCodeID="C142250">
+                    <nciodm:CDISCSynonym>S. pneumonia Sero 2 IgG AB</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Streptococcus pneumoniae Serotype 2 IgG Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Streptococcus pneumoniae serotype 2 IgG antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Streptococcus pneumoniae Serotype 2 IgG Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C142251" nciodm:ExtCodeID="C142251">
+                    <nciodm:CDISCSynonym>S. pneumonia Sero 3 IgG AB</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Streptococcus pneumoniae Serotype 3 IgG Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Streptococcus pneumoniae serotype 3 IgG antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Streptococcus pneumoniae Serotype 3 IgG Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C142252" nciodm:ExtCodeID="C142252">
+                    <nciodm:CDISCSynonym>S. pneumonia Sero 4 IgG AB</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Streptococcus pneumoniae Serotype 4 IgG Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Streptococcus pneumoniae serotype 4 IgG antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Streptococcus pneumoniae Serotype 4 IgG Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C142253" nciodm:ExtCodeID="C142253">
+                    <nciodm:CDISCSynonym>S. pneumonia Sero 5 IgG AB</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Streptococcus pneumoniae Serotype 5 IgG Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Streptococcus pneumoniae serotype 5 IgG antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Streptococcus pneumoniae Serotype 5 IgG Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C142254" nciodm:ExtCodeID="C142254">
+                    <nciodm:CDISCSynonym>S. pneumonia Sero 6B IgG AB</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Streptococcus pneumoniae Serotype 6B IgG Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Streptococcus pneumoniae serotype 6B IgG antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Streptococcus pneumoniae Serotype 6B IgG Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C142255" nciodm:ExtCodeID="C142255">
+                    <nciodm:CDISCSynonym>S. pneumonia Sero 7F IgG AB</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Streptococcus pneumoniae Serotype 7F IgG Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Streptococcus pneumoniae serotype 7F IgG antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Streptococcus pneumoniae Serotype 7F IgG Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C142256" nciodm:ExtCodeID="C142256">
+                    <nciodm:CDISCSynonym>S. pneumonia Sero 8 IgG AB</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Streptococcus pneumoniae Serotype 8 IgG Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Streptococcus pneumoniae serotype 8 IgG antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Streptococcus pneumoniae Serotype 8 IgG Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C142257" nciodm:ExtCodeID="C142257">
+                    <nciodm:CDISCSynonym>S. pneumonia Sero 9N IgG AB</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Streptococcus pneumoniae Serotype 9N IgG Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Streptococcus pneumoniae serotype 9N IgG antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Streptococcus pneumoniae Serotype 9N IgG Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C142258" nciodm:ExtCodeID="C142258">
+                    <nciodm:CDISCSynonym>S. pneumonia Sero 9V IgG AB</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Streptococcus pneumoniae Serotype 9V IgG Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Streptococcus pneumoniae serotype 9V IgG antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Streptococcus pneumoniae Serotype 9V IgG Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C142259" nciodm:ExtCodeID="C142259">
+                    <nciodm:CDISCSynonym>S. pneumonia Sero 10A IgG AB</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Streptococcus pneumoniae Serotype 10A IgG Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Streptococcus pneumoniae serotype 10A IgG antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Streptococcus pneumoniae Serotype 10A IgG Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C142260" nciodm:ExtCodeID="C142260">
+                    <nciodm:CDISCSynonym>S. pneumonia Sero 11A IgG AB</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Streptococcus pneumoniae Serotype 11A IgG Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Streptococcus pneumoniae serotype 11A IgG antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Streptococcus pneumoniae Serotype 11A IgG Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C142261" nciodm:ExtCodeID="C142261">
+                    <nciodm:CDISCSynonym>S. pneumonia Sero 12F IgG AB</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Streptococcus pneumoniae Serotype 12F IgG Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Streptococcus pneumoniae serotype 12F IgG antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Streptococcus pneumoniae Serotype 12F IgG Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C142262" nciodm:ExtCodeID="C142262">
+                    <nciodm:CDISCSynonym>S. pneumonia Sero 14 IgG AB</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Streptococcus pneumoniae Serotype 14 IgG Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Streptococcus pneumoniae serotype 14 IgG antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Streptococcus pneumoniae Serotype 14 IgG Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C142263" nciodm:ExtCodeID="C142263">
+                    <nciodm:CDISCSynonym>S. pneumonia Sero 15B IgG AB</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Streptococcus pneumoniae Serotype 15B IgG Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Streptococcus pneumoniae serotype 15B IgG antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Streptococcus pneumoniae Serotype 15B IgG Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C142264" nciodm:ExtCodeID="C142264">
+                    <nciodm:CDISCSynonym>S. pneumonia Sero 17F IgG AB</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Streptococcus pneumoniae Serotype 17F IgG Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Streptococcus pneumoniae serotype 17F IgG antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Streptococcus pneumoniae Serotype 17F IgG Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C142265" nciodm:ExtCodeID="C142265">
+                    <nciodm:CDISCSynonym>S. pneumonia Sero 18C IgG AB</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Streptococcus pneumoniae Serotype 18C IgG Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Streptococcus pneumoniae serotype 18C IgG antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Streptococcus pneumoniae Serotype 18C IgG Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C142266" nciodm:ExtCodeID="C142266">
+                    <nciodm:CDISCSynonym>S. pneumonia Sero 19F IgG AB</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Streptococcus pneumoniae Serotype 19F IgG Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Streptococcus pneumoniae serotype 19F IgG antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Streptococcus pneumoniae Serotype 19F IgG Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C142267" nciodm:ExtCodeID="C142267">
+                    <nciodm:CDISCSynonym>S. pneumonia Sero 19A IgG AB</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Streptococcus pneumoniae Serotype 19A IgG Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Streptococcus pneumoniae serotype 19A IgG antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Streptococcus pneumoniae Serotype 19A IgG Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C142268" nciodm:ExtCodeID="C142268">
+                    <nciodm:CDISCSynonym>S. pneumonia Sero 20 IgG AB</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Streptococcus pneumoniae Serotype 20 IgG Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Streptococcus pneumoniae serotype 20 IgG antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Streptococcus pneumoniae Serotype 20 IgG Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C142269" nciodm:ExtCodeID="C142269">
+                    <nciodm:CDISCSynonym>S. pneumonia Sero 22F IgG AB</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Streptococcus pneumoniae Serotype 22F IgG Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Streptococcus pneumoniae serotype 22F IgG antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Streptococcus pneumoniae Serotype 22F IgG Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C142270" nciodm:ExtCodeID="C142270">
+                    <nciodm:CDISCSynonym>S. pneumonia Sero 23F IgG AB</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Streptococcus pneumoniae Serotype 23F IgG Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Streptococcus pneumoniae serotype 23F IgG antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Streptococcus pneumoniae Serotype 23F IgG Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C142271" nciodm:ExtCodeID="C142271">
+                    <nciodm:CDISCSynonym>S. pneumonia Sero 33F IgG AB</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Streptococcus pneumoniae Serotype 33F IgG Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Streptococcus pneumoniae serotype 33F IgG antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Streptococcus pneumoniae Serotype 33F IgG Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="C1QAB" nciodm:ExtCodeID="C80173">
                     <nciodm:CDISCSynonym>Complement C1q Antibody</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the complement C1q antibody in a biological specimen.</nciodm:CDISCDefinition>
@@ -1711,6 +1854,13 @@
                     <nciodm:CDISCSynonym>Carnitine, Free</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the free carnitine in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Free Carnitine Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CARTP" nciodm:ExtCodeID="C142273">
+                    <nciodm:CDISCSynonym>CART</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Cocaine Amphetamine-Reg Transcript Prot</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Cocaine and Amphetamine-Regulated Transcript Protein</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the cocaine and amphetamine-regulated transcript protein in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Cocaine Amphetamine-Regulated Transcript Protein Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="CASTS" nciodm:ExtCodeID="C74763">
                     <nciodm:CDISCSynonym>Casts</nciodm:CDISCSynonym>
@@ -2054,7 +2204,7 @@
                 <EnumeratedItem CodedValue="CHCMR" nciodm:ExtCodeID="C138970">
                     <nciodm:CDISCSynonym>Ret. Corpuscular HGB Concentration Mean</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Reticulocyte Corpuscular Hemoglobin Concentration Mean</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>null</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>An indirect measurement of the average concentration of hemoglobin per reticulocyte in a biological specimen, calculated as the ratio of hemoglobin to hematocrit.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Reticulocyte Corpuscular Hemoglobin Concentration Mean</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="CHCNT" nciodm:ExtCodeID="C139066">
@@ -2261,6 +2411,11 @@
                     <nciodm:CDISCSynonym>Cocaine</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the cocaine present in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Cocaine Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="COCBNZEC" nciodm:ExtCodeID="C142274">
+                    <nciodm:CDISCSynonym>Cocaine Benzoylecgonine Ecgonine</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the cocaine, benzoylecgonine, and/or ecgonine in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Cocaine, Benzoylecgonine, and/or Ecgonine Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="COCCAB" nciodm:ExtCodeID="C111160">
                     <nciodm:CDISCSynonym>Coccidioides Antibody</nciodm:CDISCSynonym>
@@ -2880,6 +3035,11 @@
                     <nciodm:CDISCDefinition>A measurement of the diazepam present in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Diazepam Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="EAGLUC" nciodm:ExtCodeID="C142275">
+                    <nciodm:CDISCSynonym>Glucose, Estimated Average</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A computed estimate of the blood glucose based on the value of the glycated hemoglobin</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Estimated Average Glucose</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="EBCIGGAB" nciodm:ExtCodeID="C96600">
                     <nciodm:CDISCSynonym>Epstein-Barr Capsid IgG Antibody</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the Epstein-Barr capsid IgG antibody in a biological specimen.</nciodm:CDISCDefinition>
@@ -2978,8 +3138,7 @@
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="ELLIPCY" nciodm:ExtCodeID="C64549">
                     <nciodm:CDISCSynonym>Elliptocytes</nciodm:CDISCSynonym>
-                    <nciodm:CDISCSynonym>Ovalocytes</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A measurement of the elliptically shaped erythrocytes in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A measurement of the elliptocytes (elliptically shaped cell with blunt ends and a long axis twice the length of its short axis) in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Elliptocyte Count</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="ENA78" nciodm:ExtCodeID="C82010">
@@ -3701,6 +3860,11 @@
                     <nciodm:CDISCDefinition>A measurement of the intact (containing amino acids 1-42) glucose-dependent insulinotropic peptide in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Intact Glucose-dependent Insulinotropic Peptide Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="GLBCREAT" nciodm:ExtCodeID="C142276">
+                    <nciodm:CDISCSynonym>Globulin/Creatinine</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A relative measurement (ratio or percentage) of the globulin to creatinine in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Globulin to Creatinine Ratio Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="GLDH" nciodm:ExtCodeID="C79448">
                     <nciodm:CDISCSynonym>Glutamate Dehydrogenase</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the glutamate dehydrogenase in a biological specimen.</nciodm:CDISCDefinition>
@@ -3742,6 +3906,11 @@
                     <nciodm:CDISCSynonym>Beta-1 Globulin</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the beta-1 globulin in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Beta-1 Globulin Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="GLOBB1BP" nciodm:ExtCodeID="C142277">
+                    <nciodm:CDISCSynonym>Beta-1 Globulin/Beta Protein</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A relative measurement (ratio or percentage) of the beta-1-fraction proteins to the total beta protein fraction in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Beta-1 Globulin to Total Beta Protein Ratio Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="GLOBB1PT" nciodm:ExtCodeID="C119275">
                     <nciodm:CDISCSynonym>Beta-1 Globulin/Total Protein</nciodm:CDISCSynonym>
@@ -4568,6 +4737,16 @@
                     <nciodm:CDISCDefinition>A measurement of the heterophile antibodies in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Heterophile Antibody Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="HTTP" nciodm:ExtCodeID="C142279">
+                    <nciodm:CDISCSynonym>Huntingtin Protein</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the huntingtin protein in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Huntingtin Protein Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HTTPM" nciodm:ExtCodeID="C142280">
+                    <nciodm:CDISCSynonym>Huntingtin Protein, Mutant</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the mutant huntingtin protein in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Mutant Huntingtin Protein Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="HVA" nciodm:ExtCodeID="C74863">
                     <nciodm:CDISCSynonym>Homovanillic Acid</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the homovanillic acid metabolite in a biological specimen.</nciodm:CDISCDefinition>
@@ -4803,10 +4982,27 @@
                     <nciodm:CDISCDefinition>A measurement of the p40 subunit of the interleukins 12 and 23 in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Interleukin 12+23 p40 Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="IL1RL1" nciodm:ExtCodeID="C142281">
+                    <nciodm:CDISCSynonym>Interleukin 1 Receptor-Like 1</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the interleukin 1 receptor-like 1 in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Interleukin 1 Receptor-Like 1 Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="IL1SR1" nciodm:ExtCodeID="C117836">
                     <nciodm:CDISCSynonym>Soluble Interleukin-1 Receptor Type I</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the soluble interleukin-1 receptor type I in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Soluble Interleukin-1 Receptor Type I Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IL2RA" nciodm:ExtCodeID="C142282">
+                    <nciodm:CDISCSynonym>IL-2Ra</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Interleukin 2 Receptor Subunit Alpha</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the interleukin 2 receptor subunit alpha in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Interleukin 2 Receptor Subunit Alpha Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IL2RB" nciodm:ExtCodeID="C142283">
+                    <nciodm:CDISCSynonym>IL-2Rb</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Interleukin 2 Receptor Subunit Beta</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the interleukin 2 receptor subunit beta in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Interleukin 2 Receptor Subunit Beta Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="IL2SRA" nciodm:ExtCodeID="C102280">
                     <nciodm:CDISCSynonym>Soluble Interleukin 2 Receptor Activity</nciodm:CDISCSynonym>
@@ -5438,6 +5634,11 @@
                     <nciodm:CDISCSynonym>Lipemic Index</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the abnormally high concentration of lipid in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Lipemic Index</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LIQUFT" nciodm:ExtCodeID="C142284">
+                    <nciodm:CDISCSynonym>Liquefaction Time</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the time it takes for a gelatinous or semi-solid substance to change to a liquid.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Liquefaction Time Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="LKM1AB" nciodm:ExtCodeID="C96683">
                     <nciodm:CDISCSynonym>LKM-1</nciodm:CDISCSynonym>
@@ -6323,6 +6524,13 @@
                     <nciodm:CDISCDefinition>A measurement of the neutrophils containing small vacuoles in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Vacuolated Neutrophil Count</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="NFLP" nciodm:ExtCodeID="C142285">
+                    <nciodm:CDISCSynonym>Neurofilament Light Chain Protein</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Neurofilament Light Polypeptide</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Protein Phosphatase 1, Regulatory Subunit 110</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the neurofilament light chain protein in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Neurofilament Light Chain Protein Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="NGF" nciodm:ExtCodeID="C135439">
                     <nciodm:CDISCSynonym>Nerve Growth Factor</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the nerve growth factor in a biological specimen.</nciodm:CDISCDefinition>
@@ -6399,6 +6607,12 @@
                     <nciodm:CDISCSynonym>Neuron Specific Enolase</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the neuron specific enolase in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Neuron Specific Enolase Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NSPMTSPM" nciodm:ExtCodeID="C142286">
+                    <nciodm:CDISCSynonym>Normal Sperm/Total Sperm</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Sperm Morphology</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement (ratio or percentage) of the normal spermatozoa to total spermatozoa in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Normal Sperm to Total Sperm Ratio Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="NTELOCRT" nciodm:ExtCodeID="C120645">
                     <nciodm:CDISCSynonym>N-telopeptide/Creatinine</nciodm:CDISCSynonym>
@@ -6483,6 +6697,11 @@
                     <nciodm:CDISCSynonym>Osteocalcin</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the osteocalcin in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Osteocalcin Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="OVALCY" nciodm:ExtCodeID="C142287">
+                    <nciodm:CDISCSynonym>Ovalocytes</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the ovalocytes (oval shaped cell with rounded ends and a long axis less than twice its short axis) in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Ovalocyte Count</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="OVAPARS" nciodm:ExtCodeID="C100452">
                     <nciodm:CDISCSynonym>Ova and Parasite</nciodm:CDISCSynonym>
@@ -7561,10 +7780,20 @@
                     <nciodm:CDISCDefinition>A measurement of the stacking red blood cells in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Rouleaux Formation Count</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="ROUNDCE" nciodm:ExtCodeID="C142288">
+                    <nciodm:CDISCSynonym>Round Cells</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the round cells (round shaped cells mainly comprised of white blood cells and immature spermatogenic cells) in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Round Cell Count</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="RP3IGGAB" nciodm:ExtCodeID="C122147">
                     <nciodm:CDISCSynonym>RNA Polymerase III IgG Antibody</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the RNA polymerase III IgG antibody in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>RNA Polymerase III IgG Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="RPA1" nciodm:ExtCodeID="C142289">
+                    <nciodm:CDISCSynonym>Renal Papillary Antigen 1</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the renal papillary antigen 1 in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Renal Papillary Antigen 1 Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="RPPAB" nciodm:ExtCodeID="C120659">
                     <nciodm:CDISCSynonym>Ribosomal P Protein Antibody</nciodm:CDISCSynonym>
@@ -7825,6 +8054,21 @@
                     <nciodm:CDISCDefinition>A measurement of the type II secretory phospholipase A2 in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Type II Secretory Phospholipase A2 Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="SPMAGGLU" nciodm:ExtCodeID="C142290">
+                    <nciodm:CDISCSynonym>Sperm Agglutination</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the motile spermatozoa agglutination in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Sperm Agglutination Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SPMAGGR" nciodm:ExtCodeID="C142291">
+                    <nciodm:CDISCSynonym>Sperm Aggregation</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the immotile spermatozoa aggregation in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Sperm Aggregation Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SPNAB" nciodm:ExtCodeID="C142232">
+                    <nciodm:CDISCSynonym>Streptococcus pneumoniae IgG Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Streptococcus pneumoniae IgG antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Streptococcus pneumoniae IgG Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="SPNAG" nciodm:ExtCodeID="C122152">
                     <nciodm:CDISCSynonym>Streptococcus pneumoniae Antigen</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the Streptococcus pneumoniae antigen in a biological specimen.</nciodm:CDISCDefinition>
@@ -8002,6 +8246,12 @@
                     <nciodm:CDISCSynonym>Thrombomodulin</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the thrombomodulin in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Thrombomodulin Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="THCCOOH" nciodm:ExtCodeID="C142293">
+                    <nciodm:CDISCSynonym>11-Nor-Delta9-THC-9-Carboxylic Acid</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>THC-COOH</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of 11-nor-delta-9-tetrahydrocannabinol-9-carboxylic acid present in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>11-Nor-Delta9-THC-9-Carboxylic Acid Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="THEOPHYL" nciodm:ExtCodeID="C105445">
                     <nciodm:CDISCSynonym>Theophylline</nciodm:CDISCSynonym>
@@ -8604,6 +8854,12 @@
                     <nciodm:CDISCSynonym>Yeast Hyphae</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the yeast hyphae present in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Yeast Hyphae Screening</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="YKL40P" nciodm:ExtCodeID="C142294">
+                    <nciodm:CDISCSynonym>Chitinase-3-Like Protein 1</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>YKL-40 Protein</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the YKL-40 protein in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>YKL-40 Protein Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="ZINC" nciodm:ExtCodeID="C80210">
                     <nciodm:CDISCSynonym>Zinc</nciodm:CDISCSynonym>

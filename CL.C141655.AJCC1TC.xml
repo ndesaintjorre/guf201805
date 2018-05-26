@@ -1,0 +1,29 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C141655.AJCC1TC" Name="AJCC TNM Staging System 7th Edition Clinical Classification Test Code" DataType="text" nciodm:ExtCodeID="C141655" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">AJCC TNM Staging System 7th Edition test code.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="AJCC101" nciodm:ExtCodeID="C141696">
+                    <nciodm:CDISCSynonym>AJCC1-Primary Tumor (T)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>AJCC TNM Staging System 7th Edition - Primary tumor (T).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>AJCC v7 - Primary Tumor (T)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="AJCC102" nciodm:ExtCodeID="C141697">
+                    <nciodm:CDISCSynonym>AJCC1-Regional Lymph Nodes (N)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>AJCC TNM Staging System 7th Edition - Regional lymph nodes (N).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>AJCC v7 - Regional Lymph Nodes (N)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="AJCC103" nciodm:ExtCodeID="C141698">
+                    <nciodm:CDISCSynonym>AJCC1-Distant Metastasis (M)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>AJCC TNM Staging System 7th Edition - Distant metastasis (M).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>AJCC v7 - Distant Metastasis (M)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="AJCC104" nciodm:ExtCodeID="C141699">
+                    <nciodm:CDISCSynonym>AJCC1-Anatomic Stage</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>AJCC TNM Staging System 7th Edition - Anatomic stage.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>AJCC v7 - Anatomic Stage</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>AJCC1TC</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>AJCC TNM Staging System 7th Edition Clinical Classification Test Code</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Clinical Classification AJCC v7 Test Code Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

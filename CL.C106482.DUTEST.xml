@@ -22,6 +22,11 @@
                     <nciodm:CDISCDefinition>The maximum voltage allowable to pass through an electromagnetic coil. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Coil Strength</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="Continuous Audio Recording Indicator" nciodm:ExtCodeID="C142236">
+                    <nciodm:CDISCSynonym>Continuous Audio Recording Indicator</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An indication as to whether a continuous audio recording is made during the assessment.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Continuous Audio Recording Made Indicator</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="Decay Correction Indicator" nciodm:ExtCodeID="C116127">
                     <nciodm:CDISCSynonym>Decay Correction Indicator</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>An indication as to whether the image reconstruction took into account the time-activity curve during which the radiolabeled tracer decayed as it spread through the body during the image acquisition.</nciodm:CDISCDefinition>
@@ -76,6 +81,11 @@
                     <nciodm:CDISCSynonym>Number of Slices</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The number of planar cross-sections in an imaging sequence; each slice corresponds to a single image.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Number of Slices</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Pulse Oximeter Indicator" nciodm:ExtCodeID="C142237">
+                    <nciodm:CDISCSynonym>Pulse Oximeter Indicator</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An indication as to whether a pulse oximeter is used in the assessment.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Pulse Oximeter Use Indicator</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Pulse Sequence" nciodm:ExtCodeID="C106562">
                     <nciodm:CDISCSynonym>Pulse Sequence</nciodm:CDISCSynonym>

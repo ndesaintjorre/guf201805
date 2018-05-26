@@ -10,6 +10,14 @@
                     <nciodm:CDISCDefinition>A physician who specializes in the diagnosis and treatment of heart disorders.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Cardiologist</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="CLINICAL PATHOLOGIST" nciodm:ExtCodeID="C142332">
+                    <nciodm:CDISCDefinition>A physician specializing in medical diagnosis based on laboratory analysis and the macroscopic and the microscopic changes to tissues and organs caused by disease.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Clinical Pathologist</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FORENSIC PATHOLOGIST" nciodm:ExtCodeID="C142333">
+                    <nciodm:CDISCDefinition>A physician specializing in the diagnosis of both the cause of death and the manner of death of another human being.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Forensic Pathologist</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="MICROSCOPIST" nciodm:ExtCodeID="C132303">
                     <nciodm:CDISCDefinition>A health care professional trained in the visualization of structures too small to be seen by the naked eye, using various microscopic techniques.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Microscopist</nciodm:PreferredTerm>
@@ -57,6 +65,10 @@
                 <EnumeratedItem CodedValue="OPTOMETRIST" nciodm:ExtCodeID="C132424">
                     <nciodm:CDISCDefinition>A physician with a Doctor of Optometry degree (or analogous) who specializes in the diagnosis and treatment of eye disorders.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Optometrist</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PATHOLOGIST" nciodm:ExtCodeID="C17723">
+                    <nciodm:CDISCDefinition>A physician who specializes in the science of pathology.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Pathologist</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="RADIOLOGIST" nciodm:ExtCodeID="C17824">
                     <nciodm:CDISCDefinition>A physician who specializes in the diagnostic and/or therapeutic uses of radiation. (NCI)</nciodm:CDISCDefinition>

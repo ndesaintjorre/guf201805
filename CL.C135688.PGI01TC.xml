@@ -17,6 +17,11 @@
                     <nciodm:CDISCDefinition>Patient Global Impression - Compared to &lt;previously assessed protocol specified time point&gt; how much has your condition improved?</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>PGI Generic Modification Version - Improvement</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="PGI0104" nciodm:ExtCodeID="C142226">
+                    <nciodm:CDISCSynonym>PGI01-Overall Health</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Patient Global Impression - How was your overall health?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PGI Generic Modification Version - Overall Health</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <nciodm:CDISCSubmissionValue>PGI01TC</nciodm:CDISCSubmissionValue>
                 <nciodm:CDISCSynonym>Patient Global Impression Generic Modification Version Questionnaire Test Code</nciodm:CDISCSynonym>
                 <nciodm:PreferredTerm>CDISC Questionnaire PGI Generic Modification Version Test Code Terminology</nciodm:PreferredTerm>

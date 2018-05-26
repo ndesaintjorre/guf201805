@@ -1,0 +1,274 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C141667.IPAQ03TC" Name="International Physical Activity Questionnaire (October 2002) Long Last 7 Days Self-Administered Format Questionnaire Test Code" DataType="text" nciodm:ExtCodeID="C141667" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">International Physical Activity Questionnaire (October 2002) Long Last 7 Days Self-Administered Format test code.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="IPA0301" nciodm:ExtCodeID="C141726">
+                    <nciodm:CDISCSynonym>IPA03-Currently Have Job or Unpaid Work</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (October 2002) - Long Last 7 Days Self-Administered Format - Do you currently have a job or do any unpaid work outside your home?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Self-Administered Format Version - Currently Have Job or Unpaid Work</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0302A" nciodm:ExtCodeID="C141727">
+                    <nciodm:CDISCSynonym>IPA03-Days Vigorous as Part of Work</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (October 2002) - Long Last 7 Days Self-Administered Format - During the last 7 days, on how many days did you do vigorous physical activities like heavy lifting, digging, heavy construction, or climbing up stairs as part of your work?: days per week.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Self-Administered Format Version - Days Vigorous as Part of Work</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0302B" nciodm:ExtCodeID="C141728">
+                    <nciodm:CDISCSynonym>IPA03-No Vigorous Job-related Activity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (October 2002) - Long Last 7 Days Self-Administered Format - During the last 7 days, on how many days did you do vigorous physical activities like heavy lifting, digging, heavy construction, or climbing up stairs as part of your work?: No vigorous job-related physical activity.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Self-Administered Format Version - No Vigorous Job-related Activity</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0303A" nciodm:ExtCodeID="C141729">
+                    <nciodm:CDISCSynonym>IPA03-Vigorous Work Hours per Day</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (October 2002) - Long Last 7 Days Self-Administered Format - How much time did you usually spend on one of those days doing vigorous physical activities as part of your work?: hours per day.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Self-Administered Format Version - Vigorous Work Hours per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0303B" nciodm:ExtCodeID="C141730">
+                    <nciodm:CDISCSynonym>IPA03-Vigorous Work Minutes per Day</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (October 2002) - Long Last 7 Days Self-Administered Format - How much time did you usually spend on one of those days doing vigorous physical activities as part of your work?: minutes per day.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Self-Administered Format Version - Vigorous Work Minutes per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0304A" nciodm:ExtCodeID="C141731">
+                    <nciodm:CDISCSynonym>IPA03-Days Moderate as Part of Work</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (October 2002) - Long Last 7 Days Self-Administered Format - During the last 7 days, on how many days did you do moderate physical activities like carrying light loads as part of your work?: days per week.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Self-Administered Format Version - Days Moderate as Part of Work</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0304B" nciodm:ExtCodeID="C141732">
+                    <nciodm:CDISCSynonym>IPA03-No Moderate Job-related Activity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (October 2002) - Long Last 7 Days Self-Administered Format - During the last 7 days, on how many days did you do moderate physical activities like carrying light loads as part of your work?: No moderate job-related physical activity.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Self-Administered Format Version - No Moderate Job-related Activity</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0305A" nciodm:ExtCodeID="C141733">
+                    <nciodm:CDISCSynonym>IPA03-Moderate Work Hours per Day</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (October 2002) - Long Last 7 Days Self-Administered Format - How much time did you usually spend on one of those days doing moderate physical activities as part of your work?: hours per day.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Self-Administered Format Version - Moderate Work Hours per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0305B" nciodm:ExtCodeID="C141734">
+                    <nciodm:CDISCSynonym>IPA03-Moderate Work Minutes per Day</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (October 2002) - Long Last 7 Days Self-Administered Format - How much time did you usually spend on one of those days doing moderate physical activities as part of your work?: minutes per day.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Self-Administered Format Version - Moderate Work Minutes per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0306A" nciodm:ExtCodeID="C141735">
+                    <nciodm:CDISCSynonym>IPA03-Days Walk as Part of Your Work</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (October 2002) - Long Last 7 Days Self-Administered Format - During the last 7 days, on how many days did you walk for at least 10 minutes at a time as part of your work?: days per week.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Self-Administered Format Version - Days Walk as Part of Your Work</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0306B" nciodm:ExtCodeID="C141736">
+                    <nciodm:CDISCSynonym>IPA03-No Job-related Walking</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (October 2002) - Long Last 7 Days Self-Administered Format - During the last 7 days, on how many days did you walk for at least 10 minutes at a time as part of your work?: No job-related walking.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Self-Administered Format Version - No Job-related Walking</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0307A" nciodm:ExtCodeID="C141737">
+                    <nciodm:CDISCSynonym>IPA03-Walking Work Hours per Day</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (October 2002) - Long Last 7 Days Self-Administered Format - How much time did you usually spend on one of those days walking as part of your work?: hours per day.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Self-Administered Format Version - Walking Work Hours per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0307B" nciodm:ExtCodeID="C141738">
+                    <nciodm:CDISCSynonym>IPA03-Walking Work Minutes per Day</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (October 2002) - Long Last 7 Days Self-Administered Format - How much time did you usually spend on one of those days walking as part of your work?: minutes per day.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Self-Administered Format Version - Walking Work Minutes per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0308A" nciodm:ExtCodeID="C141739">
+                    <nciodm:CDISCSynonym>IPA03-Days Travel in a Motor Vehicle</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (October 2002) - Long Last 7 Days Self-Administered Format - During the last 7 days, on how many days did you travel in a motor vehicle like a train, bus, car or tram?: days per week.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Self-Administered Format Version - Days Travel in a Motor Vehicle</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0308B" nciodm:ExtCodeID="C141740">
+                    <nciodm:CDISCSynonym>IPA03-No Traveling in a Motor Vehicle</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (October 2002) - Long Last 7 Days Self-Administered Format - During the last 7 days, on how many days did you travel in a motor vehicle like a train, bus, car or tram?: No traveling in a motor vehicle.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Self-Administered Format Version - No Traveling in a Motor Vehicle</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0309A" nciodm:ExtCodeID="C141741">
+                    <nciodm:CDISCSynonym>IPA03-Traveling Hours per Day</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (October 2002) - Long Last 7 Days Self-Administered Format - How much time did you usually spend on one of those days traveling in a train, bus, car, tram, or other kind of motor vehicle?: hours per day.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Self-Administered Format Version - Traveling Hours per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0309B" nciodm:ExtCodeID="C141742">
+                    <nciodm:CDISCSynonym>IPA03-Traveling Minutes per Day</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (October 2002) - Long Last 7 Days Self-Administered Format - How much time did you usually spend on one of those days traveling in a train, bus, car, tram, or other kind of motor vehicle?: minutes per day.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Self-Administered Format Version - Traveling Minutes per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0310A" nciodm:ExtCodeID="C141743">
+                    <nciodm:CDISCSynonym>IPA03-Days Bicycle Place to Place</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (October 2002) - Long Last 7 Days Self-Administered Format - During the last 7 days, on how many days did you bicycle for at least 10 minutes at a time to go from place to place?: days per week.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Self-Administered Format Version - Days Bicycle Place to Place</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0310B" nciodm:ExtCodeID="C141744">
+                    <nciodm:CDISCSynonym>IPA03-No Bicycling From Place to Place</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (October 2002) - Long Last 7 Days Self-Administered Format - During the last 7 days, on how many days did you bicycle for at least 10 minutes at a time to go from place to place?: No bicycling from place to place.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Self-Administered Format Version - No Bicycling From Place to Place</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0311A" nciodm:ExtCodeID="C141745">
+                    <nciodm:CDISCSynonym>IPA03-Bicycle Hours per Day</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (October 2002) - Long Last 7 Days Self-Administered Format - How much time did you usually spend on one of those days to bicycle from place to place?: hours per day.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Self-Administered Format Version - Bicycle Hours per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0311B" nciodm:ExtCodeID="C141746">
+                    <nciodm:CDISCSynonym>IPA03-Bicycle Minutes per Day</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (October 2002) - Long Last 7 Days Self-Administered Format - How much time did you usually spend on one of those days to bicycle from place to place?: minutes per day.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Self-Administered Format Version - Bicycle Minutes per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0312A" nciodm:ExtCodeID="C141747">
+                    <nciodm:CDISCSynonym>IPA03-Days Walk Place to Place</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (October 2002) - Long Last 7 Days Self-Administered Format - During the last 7 days, on how many days did you walk for at least 10 minutes at a time to go from place to place?: days per week.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Self-Administered Format Version - Days Walk Place to Place</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0312B" nciodm:ExtCodeID="C141748">
+                    <nciodm:CDISCSynonym>IPA03-No Walking From Place to Place</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (October 2002) - Long Last 7 Days Self-Administered Format - During the last 7 days, on how many days did you walk for at least 10 minutes at a time to go from place to place?: No walking from place to place.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Self-Administered Format Version - No Walking From Place to Place</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0313A" nciodm:ExtCodeID="C141749">
+                    <nciodm:CDISCSynonym>IPA03-Walking Place Hours per Day</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (October 2002) - Long Last 7 Days Self-Administered Format - How much time did you usually spend on one of those days walking from place to place?: hours per day.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Self-Administered Format Version - Walking Place Hours per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0313B" nciodm:ExtCodeID="C141750">
+                    <nciodm:CDISCSynonym>IPA03-Walking Place Minutes per Day</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (October 2002) - Long Last 7 Days Self-Administered Format - How much time did you usually spend on one of those days walking from place to place?: minutes per day.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Self-Administered Format Version - Walking Place Minutes per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0314A" nciodm:ExtCodeID="C141751">
+                    <nciodm:CDISCSynonym>IPA03-Days Vigorous in the Garden/Yard</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (October 2002) - Long Last 7 Days Self-Administered Format - During the last 7 days, on how many days did you do vigorous physical activities like heavy lifting, chopping wood, shoveling snow, or digging in the garden or yard?: days per week.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Self-Administered Format Version - Days Vigorous in the Garden/Yard</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0314B" nciodm:ExtCodeID="C141752">
+                    <nciodm:CDISCSynonym>IPA03-No Vigorous Activity Garden/Yard</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (October 2002) - Long Last 7 Days Self-Administered Format - During the last 7 days, on how many days did you do vigorous physical activities like heavy lifting, chopping wood, shoveling snow, or digging in the garden or yard?: No vigorous activity in garden or yard.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Self-Administered Format Version - No Vigorous Activity Garden/Yard</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0315A" nciodm:ExtCodeID="C141753">
+                    <nciodm:CDISCSynonym>IPA03-Vigorous Garden Hours per Day</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (October 2002) - Long Last 7 Days Self-Administered Format - How much time did you usually spend on one of those days doing vigorous physical activities in the garden or yard?: hours per day.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Self-Administered Format Version - Vigorous Garden Hours per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0315B" nciodm:ExtCodeID="C141754">
+                    <nciodm:CDISCSynonym>IPA03-Vigorous Garden Minutes per Day</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (October 2002) - Long Last 7 Days Self-Administered Format - How much time did you usually spend on one of those days doing vigorous physical activities in the garden or yard?: minutes per day.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Self-Administered Format Version - Vigorous Garden Minutes per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0316A" nciodm:ExtCodeID="C141755">
+                    <nciodm:CDISCSynonym>IPA03-Days Moderate in the Garden/Yard</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (October 2002) - Long Last 7 Days Self-Administered Format - During the last 7 days, on how many days did you do moderate activities like carrying light loads, sweeping, washing windows, and raking in the garden or yard?: days per week.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Self-Administered Format Version - Days Moderate in the Garden/Yard</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0316B" nciodm:ExtCodeID="C141756">
+                    <nciodm:CDISCSynonym>IPA03-No Moderate Activity Garden/Yard</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (October 2002) - Long Last 7 Days Self-Administered Format - During the last 7 days, on how many days did you do moderate activities like carrying light loads, sweeping, washing windows, and raking in the garden or yard?: No moderate activity in garden or yard.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Self-Administered Format Version - No Moderate Activity Garden/Yard</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0317A" nciodm:ExtCodeID="C141757">
+                    <nciodm:CDISCSynonym>IPA03-Moderate Garden Hours per Day</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (October 2002) - Long Last 7 Days Self-Administered Format - How much time did you usually spend on one of those days doing moderate physical activities in the garden or yard?: hours per day.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Self-Administered Format Version - Moderate Garden Hours per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0317B" nciodm:ExtCodeID="C141758">
+                    <nciodm:CDISCSynonym>IPA03-Moderate Garden Minutes per Day</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (October 2002) - Long Last 7 Days Self-Administered Format - How much time did you usually spend on one of those days doing moderate physical activities in the garden or yard?: minutes per day.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Self-Administered Format Version - Moderate Garden Minutes per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0318A" nciodm:ExtCodeID="C141759">
+                    <nciodm:CDISCSynonym>IPA03-Days Moderate Inside Home</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (October 2002) - Long Last 7 Days Self-Administered Format - During the last 7 days, on how many days did you do moderate activities like carrying light loads, washing windows, scrubbing floors and sweeping inside your home?: days per week.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Self-Administered Format Version - Days Moderate Inside Home</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0318B" nciodm:ExtCodeID="C141760">
+                    <nciodm:CDISCSynonym>IPA03-No Moderate Activity Inside Home</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (October 2002) - Long Last 7 Days Self-Administered Format - During the last 7 days, on how many days did you do moderate activities like carrying light loads, washing windows, scrubbing floors and sweeping inside your home?: No moderate activity inside home.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Self-Administered Format Version - No Moderate Activity Inside Home</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0319A" nciodm:ExtCodeID="C141761">
+                    <nciodm:CDISCSynonym>IPA03-Moderate Home Hours per Day</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (October 2002) - Long Last 7 Days Self-Administered Format - How much time did you usually spend on one of those days doing moderate physical activities inside your home?: hours per day.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Self-Administered Format Version - Moderate Home Hours per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0319B" nciodm:ExtCodeID="C141762">
+                    <nciodm:CDISCSynonym>IPA03-Moderate Home Minutes per Day</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (October 2002) - Long Last 7 Days Self-Administered Format - How much time did you usually spend on one of those days doing moderate physical activities inside your home?: minutes per day.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Self-Administered Format Version - Moderate Home Minutes per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0320A" nciodm:ExtCodeID="C141763">
+                    <nciodm:CDISCSynonym>IPA03-Days Walk in Leisure Time</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (October 2002) - Long Last 7 Days Self-Administered Format - During the last 7 days, on how many days did you walk for at least 10 minutes at a time in your leisure time?: days per week.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Self-Administered Format Version - Days Walk in Leisure Time</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0320B" nciodm:ExtCodeID="C141764">
+                    <nciodm:CDISCSynonym>IPA03-No Walking in Leisure Time</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (October 2002) - Long Last 7 Days Self-Administered Format - During the last 7 days, on how many days did you walk for at least 10 minutes at a time in your leisure time?: No walking in leisure time.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Self-Administered Format Version - No Walking in Leisure Time</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0321A" nciodm:ExtCodeID="C141765">
+                    <nciodm:CDISCSynonym>IPA03-Walking Leisure Hours per Day</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (October 2002) - Long Last 7 Days Self-Administered Format - How much time did you usually spend on one of those days walking in your leisure time?: hours per day.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Self-Administered Format Version - Walking Leisure Hours per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0321B" nciodm:ExtCodeID="C141766">
+                    <nciodm:CDISCSynonym>IPA03-Walking Leisure Minutes per Day</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (October 2002) - Long Last 7 Days Self-Administered Format - How much time did you usually spend on one of those days walking in your leisure time?: minutes per day.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Self-Administered Format Version - Walking Leisure Minutes per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0322A" nciodm:ExtCodeID="C141767">
+                    <nciodm:CDISCSynonym>IPA03-Days Vigorous in Leisure Time</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (October 2002) - Long Last 7 Days Self-Administered Format - During the last 7 days, on how many days did you do vigorous physical activities like aerobics, running, fast bicycling, or fast swimming in your leisure time?: days per week.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Self-Administered Format Version - Days Vigorous in Leisure Time</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0322B" nciodm:ExtCodeID="C141768">
+                    <nciodm:CDISCSynonym>IPA03-No Vigorous Activity Leisure Time</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (October 2002) - Long Last 7 Days Self-Administered Format - During the last 7 days, on how many days did you do vigorous physical activities like aerobics, running, fast bicycling, or fast swimming in your leisure time?: No vigorous activity in leisure time.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Self-Administered Format Version - No Vigorous Activity Leisure Time</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0323A" nciodm:ExtCodeID="C141769">
+                    <nciodm:CDISCSynonym>IPA03-Vigorous Leisure Hours per Day</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (October 2002) - Long Last 7 Days Self-Administered Format - How much time did you usually spend on one of those days doing vigorous physical activities in your leisure time?: hours per day.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Self-Administered Format Version - Vigorous Leisure Hours per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0323B" nciodm:ExtCodeID="C141770">
+                    <nciodm:CDISCSynonym>IPA03-Vigorous Leisure Minutes per Day</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (October 2002) - Long Last 7 Days Self-Administered Format - How much time did you usually spend on one of those days doing vigorous physical activities in your leisure time?: minutes per day.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Self-Administered Format Version - Vigorous Leisure Minutes per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0324A" nciodm:ExtCodeID="C141771">
+                    <nciodm:CDISCSynonym>IPA03-Days Moderate in Leisure Time</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (October 2002) - Long Last 7 Days Self-Administered Format - During the last 7 days, on how many days did you do moderate physical activities like bicycling at a regular pace, swimming at a regular pace, and doubles tennis in your leisure time?: days per week.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Self-Administered Format Version - Days Moderate in Leisure Time</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0324B" nciodm:ExtCodeID="C141772">
+                    <nciodm:CDISCSynonym>IPA03-No Moderate Activity Leisure Time</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (October 2002) - Long Last 7 Days Self-Administered Format - During the last 7 days, on how many days did you do moderate physical activities like bicycling at a regular pace, swimming at a regular pace, and doubles tennis in your leisure time?: No moderate activity in leisure time.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Self-Administered Format Version - No Moderate Activity Leisure Time</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0325A" nciodm:ExtCodeID="C141773">
+                    <nciodm:CDISCSynonym>IPA03-Moderate Leisure Hours per Day</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (October 2002) - Long Last 7 Days Self-Administered Format - How much time did you usually spend on one of those days doing moderate physical activities in your leisure time?: hours per day.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Self-Administered Format Version - Moderate Leisure Hours per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0325B" nciodm:ExtCodeID="C141774">
+                    <nciodm:CDISCSynonym>IPA03-Moderate Leisure Minutes per Day</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (October 2002) - Long Last 7 Days Self-Administered Format - How much time did you usually spend on one of those days doing moderate physical activities in your leisure time?: minutes per day.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Self-Administered Format Version - Moderate Leisure Minutes per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0326A" nciodm:ExtCodeID="C141775">
+                    <nciodm:CDISCSynonym>IPA03-Sitting Weekday Hours per Day</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (October 2002) - Long Last 7 Days Self-Administered Format - During the last 7 days, how much time did you usually spend sitting on a weekday?: hours per day.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Self-Administered Format Version - Sitting Weekday Hours per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0326B" nciodm:ExtCodeID="C141776">
+                    <nciodm:CDISCSynonym>IPA03-Sitting Weekday Minutes per Day</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (October 2002) - Long Last 7 Days Self-Administered Format - During the last 7 days, how much time did you usually spend sitting on a weekday?: minutes per day.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Self-Administered Format Version - Sitting Weekday Minutes per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0327A" nciodm:ExtCodeID="C141777">
+                    <nciodm:CDISCSynonym>IPA03-Sitting Weekend Hours per Day</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (October 2002) - Long Last 7 Days Self-Administered Format - During the last 7 days, how much time did you usually spend sitting on a weekend day?: hours per day.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Self-Administered Format Version - Sitting Weekend Hours per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IPA0327B" nciodm:ExtCodeID="C141778">
+                    <nciodm:CDISCSynonym>IPA03-Sitting Weekend Minutes per Day</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Physical Activity Questionnaire (October 2002) - Long Last 7 Days Self-Administered Format - During the last 7 days, how much time did you usually spend sitting on a weekend day?: minutes per day.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IPAQ Long Last 7 Days Self-Administered Format Version - Sitting Weekend Minutes per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>IPAQ03TC</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>International Physical Activity Questionnaire (October 2002) Long Last 7 Days Self-Administered Format Questionnaire Test Code</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Questionnaire IPAQ Long Last 7 Days Self-Administered Format Version Test Code Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

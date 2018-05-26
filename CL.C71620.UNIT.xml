@@ -1324,7 +1324,7 @@
                     <nciodm:PreferredTerm>Unit of Gravity</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="gtt" nciodm:ExtCodeID="C48491">
-                    <nciodm:CDISCSynonym>Drop</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Metric Drop</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A unit of volume equal to 0.05 milliliter (20 drops/ml).(NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Metric Drop</nciodm:PreferredTerm>
                 </EnumeratedItem>
@@ -3011,6 +3011,10 @@
                     <nciodm:CDISCSynonym>Unit per Gram</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>An arbitrary unit of substance content expressed in unit(s) per gram. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Unit per Gram</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="U/g Hb" nciodm:ExtCodeID="C105522">
+                    <nciodm:CDISCDefinition>A unit of concentration (biologic activity) equal to one unit of substance per gram of hemoglobin.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Unit Per Gram Hemoglobin</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="U/g/day" nciodm:ExtCodeID="C73774">
                     <nciodm:CDISCSynonym>Unit per Gram per Day</nciodm:CDISCSynonym>

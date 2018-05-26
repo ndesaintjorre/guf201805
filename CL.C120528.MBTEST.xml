@@ -22,6 +22,16 @@
                     <nciodm:CDISCDefinition>A measurement of the Ebola virus IgM antibodies in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Ebola Virus IgM Antibody Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="Hepatitis C Virus RNA" nciodm:ExtCodeID="C142330">
+                    <nciodm:CDISCSynonym>Hepatitis C Virus RNA</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Hepatitis C virus RNA in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Hepatitis C Virus RNA Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Hepatitis E Virus RNA" nciodm:ExtCodeID="C142331">
+                    <nciodm:CDISCSynonym>Hepatitis E Virus RNA</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Hepatitis E virus RNA in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Hepatitis E Virus RNA Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="Influenza A Antigen" nciodm:ExtCodeID="C120677">
                     <nciodm:CDISCSynonym>Influenza A Antigen</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the influenza A antigen in a biological specimen.</nciodm:CDISCDefinition>
@@ -47,10 +57,10 @@
                     <nciodm:CDISCDefinition>A measurement of the organisms that are assigned to the Mycobacterium tuberculosis species in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Mycobacterium Tuberculosis Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
-                <EnumeratedItem CodedValue="Mycobacterium Tuberculosis Complex" nciodm:ExtCodeID="C128983">
-                    <nciodm:CDISCSynonym>Mycobacterium Tuberculosis Complex</nciodm:CDISCSynonym>
+                <EnumeratedItem CodedValue="Mycobacterium tuberculosis Complex" nciodm:ExtCodeID="C128983">
+                    <nciodm:CDISCSynonym>Mycobacterium tuberculosis Complex</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the organisms assignable to the Mycobacterium tuberculosis complex in a biological specimen.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Mycobacterium Tuberculosis Complex Measurement</nciodm:PreferredTerm>
+                    <nciodm:PreferredTerm>Mycobacterium tuberculosis Complex Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="P. aeruginosa, Mucoid" nciodm:ExtCodeID="C139108">
                     <nciodm:CDISCSynonym>P. aeruginosa, Mucoid</nciodm:CDISCSynonym>
