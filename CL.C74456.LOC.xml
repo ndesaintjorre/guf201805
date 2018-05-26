@@ -65,6 +65,10 @@
                     <nciodm:CDISCDefinition>The arteries that arise at the junction of the proximal and mid-right coronary artery conduit segments.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Acute Marginal Artery</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="ADDUCTOR POLLICIS MUSCLE" nciodm:ExtCodeID="C52888">
+                    <nciodm:CDISCDefinition>A skeletal muscle of the forearm originating from the posterior surfaces of the ulna and radius and the interosseous membrane. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Abductor Pollicis Longus</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="ADRENAL GLAND" nciodm:ExtCodeID="C12666">
                     <nciodm:CDISCDefinition>The endocrine glands adjacent to the kidneys that consist of the outer adrenal cortex and the inner adrenal medulla in mammals.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Adrenal Gland</nciodm:PreferredTerm>
@@ -346,6 +350,10 @@
                     <nciodm:CDISCDefinition>A nerve network originating from spinal nerves in the cervical and thoracic vertebrae and giving rise to multiple nerves that innervate the arm/forelimb.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Brachial Plexus</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="BRACHIALIS MUSCLE" nciodm:ExtCodeID="C53149">
+                    <nciodm:CDISCDefinition>A muscle that originates from the lower two-thirds of the anterior surface of the humerus that flexes the elbow. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Brachialis</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="BRAIN" nciodm:ExtCodeID="C12439">
                     <nciodm:CDISCSynonym>Nervous System, Brain</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>An organ composed of grey and white matter that is the center for intelligence and reasoning. It is protected by the bony cranium.</nciodm:CDISCDefinition>
@@ -430,6 +438,10 @@
                 <EnumeratedItem CodedValue="CALCANEAL TUBEROSITY" nciodm:ExtCodeID="C142295">
                     <nciodm:CDISCDefinition>A roughened surface on the superior portion of the posterior half of the calcaneus, where the calcaneal (Achilles) tendon inserts.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Calcaneal Tuberosity</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CALCANEUS" nciodm:ExtCodeID="C32250">
+                    <nciodm:CDISCDefinition>The irregular and largest tarsal bone that forms the heel. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Calcaneum</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="CALCARINE SULCUS" nciodm:ExtCodeID="C32252">
                     <nciodm:CDISCDefinition>A cerebral fissure that originates near the occipital lobe and terminates below the corpus callosum. (NCI)</nciodm:CDISCDefinition>
@@ -1206,6 +1218,18 @@
                     <nciodm:CDISCDefinition>The region on either side of the body that extends from the last rib to the hip.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Flank</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="FLEXOR CARPI RADIALIS MUSCLE" nciodm:ExtCodeID="C53155">
+                    <nciodm:CDISCDefinition>A muscle in the forearm running from the head of the humerus to the radial side of the wrist that flexes and radially abducts the hand. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Flexor Carpi Radialis</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FLEXOR CARPI ULNARIS MUSCLE" nciodm:ExtCodeID="C53156">
+                    <nciodm:CDISCDefinition>A muscle in the forearm running from the humeral and ulnar heads to the ulnar side of the wrist that flexes and abducts the hand toward the ulna. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Flexor Carpi Ulnaris</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FLEXOR DIGITORUM PROFUNDUS MUSCLE" nciodm:ExtCodeID="C52923">
+                    <nciodm:CDISCDefinition>A muscle in the forearm beginning at the head of the ulna and ending with four tendons projecting to the second, third, fourth, and fifth fingers which flexes the midcarpal, metacarpophalangeal and interphalangeal joints. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Flexor Digitorum Profundus</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="FLOOR OF MOUTH" nciodm:ExtCodeID="C54187">
                     <nciodm:CDISCDefinition>The area of the mouth under the ventral surface of the tongue.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Floor of Mouth</nciodm:PreferredTerm>
@@ -1860,7 +1884,7 @@
                     <nciodm:CDISCSynonym>Joint, Stifle</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Knee</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Tibiofemoral Joint</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A condyloid synovial joint within the thumb articulating the proximal and distal phalanges.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>The joint connecting the lower part of the femur with the upper part of the tibia.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Knee Joint</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="L1 VERTEBRA" nciodm:ExtCodeID="C32899">
@@ -2845,6 +2869,10 @@
                     <nciodm:CDISCDefinition>Naturally occurring spaces between the colon and the abdominal wall, lateral to the ascending and descending colons.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Paracolic Gutter</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="PARALARYNGEAL LYMPH NODE" nciodm:ExtCodeID="C147453">
+                    <nciodm:CDISCDefinition>A lymph node located adjacent to the larynx, in the parapharyngeal space.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Paralaryngeal Lymph Node</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="PARAMETRIUM" nciodm:ExtCodeID="C12320">
                     <nciodm:CDISCSynonym>Parametrium</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The subserous connective tissue of the pelvic floor of the supracervical portion of the uterus. The parametrium extends laterally between the layers of the broad ligament. (NCI)</nciodm:CDISCDefinition>
@@ -3096,6 +3124,10 @@
                     <nciodm:CDISCDefinition>The posteromedial region of the parietal lobe bounded by the marginal branch of the cingulate sulcus anteriorly, by the medial portion of the parieto-occipital fissure posteriorly and by the subparietal sulcus inferiorly.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Precuneus</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="PRELARYNGEAL LYMPH NODE" nciodm:ExtCodeID="C147454">
+                    <nciodm:CDISCDefinition>A lymph node located anterior to the larynx.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Prelaryngeal Lymph Node</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="PREPUTIAL GLAND" nciodm:ExtCodeID="C79432">
                     <nciodm:CDISCDefinition>Exocrine glands of the male reproductive system located adjacent to the prepuce.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Preputial Gland</nciodm:PreferredTerm>
@@ -3103,6 +3135,10 @@
                 <EnumeratedItem CodedValue="PRESACRAL SPACE" nciodm:ExtCodeID="C132414">
                     <nciodm:CDISCDefinition>The potential body space formed between the rectum and the sacrum.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Presacral Space</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PRETRACHEAL LYMPH NODE" nciodm:ExtCodeID="C147455">
+                    <nciodm:CDISCDefinition>A lymph node located anterior to the trachea, between the isthmus of the thyroid gland and the innominate vein.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Pretracheal Lymph Node</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="PRIMARY VISUAL CORTEX" nciodm:ExtCodeID="C97340">
                     <nciodm:CDISCDefinition>A brain region in the occipital cortex that receives visual stimuli from the retina. (NCI)</nciodm:CDISCDefinition>
@@ -3513,6 +3549,10 @@
                     <nciodm:CDISCDefinition>Any number of exocrine glands that secrete saliva into the oral cavity.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Salivary Gland</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="SALIVARY GLAND, SUBLINGUAL" nciodm:ExtCodeID="C12234">
+                    <nciodm:CDISCDefinition>The salivary gland located under the tongue in the floor of the oral cavity or adjacent to the submandibular salivary gland.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Sublingual Salivary Gland</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="SAPHENOUS VEIN" nciodm:ExtCodeID="C33511">
                     <nciodm:CDISCSynonym>Saphenous Vein</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A vein of the leg/hindlimb; in general it arises from the venous network of the leg/hindfoot and drains into the femoral vein.</nciodm:CDISCDefinition>
@@ -3642,6 +3682,10 @@
                     <nciodm:CDISCDefinition>The integument that covers the chin.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Skin Of The Chin</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="SKIN OF THE FACE" nciodm:ExtCodeID="C33561">
+                    <nciodm:CDISCDefinition>The skin or integument that covers the face.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Skin of the Face</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="SKIN OF THE HAND" nciodm:ExtCodeID="C52753">
                     <nciodm:CDISCDefinition>The integument that covers the hand.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Hand Skin</nciodm:PreferredTerm>
@@ -3684,6 +3728,11 @@
                 <EnumeratedItem CodedValue="SOFT PALATE" nciodm:ExtCodeID="C12231">
                     <nciodm:CDISCDefinition>The part of the roof of the mouth not supported by bone.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Soft Palate</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SOFT TISSUE" nciodm:ExtCodeID="C12471">
+                    <nciodm:CDISCSynonym>Soft Tissue</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Refers to muscle, fat, fibrous tissue, blood vessels, organ parenchyma, or other supporting tissue of the body.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Soft Tissue</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="SOLE" nciodm:ExtCodeID="C33326">
                     <nciodm:CDISCDefinition>The undersurface of the foot. (NCI)</nciodm:CDISCDefinition>

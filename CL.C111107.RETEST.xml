@@ -34,6 +34,11 @@
                     <nciodm:CDISCDefinition>The maximum volume of air a subject can exhale from the lungs after a tidal exhalation.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Expiratory Reserve Volume</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="Expiratory Vital Capacity" nciodm:ExtCodeID="C147484">
+                    <nciodm:CDISCSynonym>Expiratory Vital Capacity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The maximum volume of air an individual can exhale from the point of maximal inhalation.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Expiratory Vital Capacity</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="FEV at PEF" nciodm:ExtCodeID="C139249">
                     <nciodm:CDISCSynonym>FEV at PEF</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Forced Expiratory Volume at Peak Expiratory Flow</nciodm:CDISCSynonym>

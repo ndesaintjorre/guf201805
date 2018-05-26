@@ -7,15 +7,19 @@
                     <nciodm:PreferredTerm>Crossover Study</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="FACTORIAL" nciodm:ExtCodeID="C82638">
-                    <nciodm:CDISCDefinition>Two or more interventions, each alone and in combination, are evaluated in parallel against a control group.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>Two or more interventions, each alone or in combination, are evaluated in parallel against a control group. This study design allows for the comparison of active drug to placebo, presence of drug-drug interactions, and comparison of active drugs against each other.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Factorial Study</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="PARALLEL" nciodm:ExtCodeID="C82639">
-                    <nciodm:CDISCDefinition>Participants are assigned to one of two or more arms in parallel for the duration of the study.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>Participants are assigned to one of two or more treatment groups in parallel for the duration of the study.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Parallel Study</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="SEQUENTIAL" nciodm:ExtCodeID="C142568">
+                    <nciodm:CDISCDefinition>Groups of participants are assigned to receive interventions based on prior milestones being reached in the study. (clinicaltrials.gov)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Group Sequential Design</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="SINGLE GROUP" nciodm:ExtCodeID="C82640">
-                    <nciodm:CDISCDefinition>Single arm study.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>All trial participants are assigned to a single treatment group for the duration of the study.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Single Group Study</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <nciodm:CDISCSubmissionValue>INTMODEL</nciodm:CDISCSubmissionValue>

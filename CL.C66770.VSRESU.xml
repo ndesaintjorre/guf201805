@@ -27,6 +27,11 @@
                     <nciodm:CDISCDefinition>A basic unit of length equal to one hundredth of a meter or approximately 0.393700787 inch.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Centimeter</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="cmHg" nciodm:ExtCodeID="C147129">
+                    <nciodm:CDISCSynonym>Centimeter of Mercury</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A unit of pressure equal to 0.001316 atmosphere and equal to the pressure indicated by one centimeter rise of mercury in a barometer at the Earth's surface.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Centimeters of Mercury</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="F" nciodm:ExtCodeID="C44277">
                     <nciodm:CDISCSynonym>Degree Fahrenheit</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The Fahrenheit temperature scale is named after the German physicist Gabriel Fahrenheit (1686-1736), who proposed it in 1724. In this scale, the freezing point of water is 32 degrees Fahrenheit and the boiling point is 212 degrees, placing the boiling and melting points of water 180 degrees apart. In this scale a degree Fahrenheit is 5/9ths of a Kelvin (or of a degree Celsius), and minus 40 degrees Fahrenheit is equal to minus 40 degrees Celsius. (NCI)</nciodm:CDISCDefinition>
@@ -34,13 +39,23 @@
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="g" nciodm:ExtCodeID="C48155">
                     <nciodm:CDISCSynonym>Gram</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A unit of mass equal to one thousandth (10E-3) of a kilogram, the kilogram being the base unit of mass in the International System of Units (SI).</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A unit of mass equal to one thousandth (1E-3) of a kilogram, the kilogram being the base unit of mass in the International System of Units (SI).</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Gram</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Hz" nciodm:ExtCodeID="C42545">
+                    <nciodm:CDISCSynonym>Hertz</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A unit of frequency equal to one cycle per second.(NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Hertz</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="in" nciodm:ExtCodeID="C48500">
                     <nciodm:CDISCSynonym>Inch</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A traditional unit of length equal to 2.54 centimeters. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Inch</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="K" nciodm:ExtCodeID="C42537">
+                    <nciodm:CDISCSynonym>Kelvin</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A basic unit of thermodynamic temperature, one of the seven base units of the International System of Units (Systeme International d'Unites, SI). It is 1/273.16th of the thermodynamic temperature of the triple point of water, This sets the size of the kelvin unit for temperature differences and defines the thermodynamic temperature of an equilibrium mixture of waters ice-liquid-vapor as 273.16 K, where 0 K is the lowest possible temperature ("absolute zero").</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Kelvin</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="kcal/day" nciodm:ExtCodeID="C139135">
                     <nciodm:CDISCDefinition>A unit of energy equal to one kilocalorie per day. (NCI)</nciodm:CDISCDefinition>
@@ -66,6 +81,11 @@
                     <nciodm:CDISCDefinition>The standard derived unit of area in the International System of Units (SI) equal to the area of a square whose sides are one meter long.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Square Meter</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="MET" nciodm:ExtCodeID="C127805">
+                    <nciodm:CDISCSynonym>Metabolic Equivalent of Task</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A unit of energy expenditure equal to the ratio of metabolic rate during physical activity versus a reference metabolic rate.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Metabolic Equivalent of Task Unit</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="mm" nciodm:ExtCodeID="C28251">
                     <nciodm:CDISCSynonym>Millimeter</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A unit of measure equal to one thousandth of a meter. (NCI)</nciodm:CDISCDefinition>
@@ -75,6 +95,15 @@
                     <nciodm:CDISCSynonym>Millimeter of Mercury</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A unit of pressure equal to 0.001316 atmosphere and equal to the pressure indicated by one millimeter rise of mercury in a barometer at the Earth's surface. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Millimeter of Mercury</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Pa" nciodm:ExtCodeID="C42547">
+                    <nciodm:CDISCSynonym>Pascal</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A unit of pressure equivalent to one Newton per square meter or 10 bars or to 1.45x10(E-4) pounds per square inch.(NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Pascal</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="RATIO" nciodm:ExtCodeID="C44256">
+                    <nciodm:CDISCDefinition>The quotient of one quantity divided by another, with the same units of measurement.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Ratio</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Watt" nciodm:ExtCodeID="C42549">
                     <nciodm:CDISCDefinition>A unit of power equal to the power which in one second produces or transfers the energy of one joule. The unit is used in measurements of power emitted, transferred or received as radiation, sound waves, heat flow rate, and rate of energy transfer. Equal to 1/746 of horsepower.(NCI)</nciodm:CDISCDefinition>

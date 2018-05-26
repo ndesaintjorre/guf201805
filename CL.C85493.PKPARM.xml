@@ -717,6 +717,11 @@
                     <nciodm:CDISCDefinition>Terminal half-life.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Terminal Half Life</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="Half-Life TAU" nciodm:ExtCodeID="C147483">
+                    <nciodm:CDISCSynonym>Half-Life TAU</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Half-life calculated within a dosing interval.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Half-Life TAU</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="Hemodialysis Clearance" nciodm:ExtCodeID="C112287">
                     <nciodm:CDISCSynonym>Hemodialysis Clearance</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The clearance of a substance from the blood during a hemodialysis session.</nciodm:CDISCDefinition>
@@ -762,15 +767,30 @@
                     <nciodm:CDISCDefinition>The lower limit on time for values to be included in the calculation of Lambda z.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Lambda Z Time Lower Limit</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="Lambda z Lower Limit TAU" nciodm:ExtCodeID="C147479">
+                    <nciodm:CDISCSynonym>Lambda z Lower Limit TAU</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The lower limit on time for values to be included in the calculation of Lambda z, calculated within a dosing interval.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Lambda z Lower Limit TAU</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="Lambda z Span" nciodm:ExtCodeID="C135492">
                     <nciodm:CDISCSynonym>Lambda z Span</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The interval of time covered by the data points used in the terminal disposition phase regression analysis, divided by half life. This yields the terminal disposition phase duration expressed as the number of half lives.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Lambda Z Span</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="Lambda z TAU" nciodm:ExtCodeID="C147481">
+                    <nciodm:CDISCSynonym>Lambda z TAU</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The first order rate constant associated with the terminal (log-linear) portion of the curve, calculated within a dosing interval.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Lambda z TAU</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="Lambda z Upper Limit" nciodm:ExtCodeID="C85654">
                     <nciodm:CDISCSynonym>Lambda z Upper Limit</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The upper limit on time for values to be included in the calculation of Lambda z.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Lambda Z Time Upper Limit</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Lambda z Upper Limit TAU" nciodm:ExtCodeID="C147482">
+                    <nciodm:CDISCSynonym>Lambda z Upper Limit TAU</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The upper limit on time for values to be included in the calculation of Lambda z, calculated within a dosing interval.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Lambda z Upper Limit TAU</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Last Meas Excretion Rate" nciodm:ExtCodeID="C85656">
                     <nciodm:CDISCSynonym>Last Meas Excretion Rate</nciodm:CDISCSynonym>
@@ -971,6 +991,11 @@
                     <nciodm:CDISCSynonym>Number of Points for Lambda z</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The number of time points used in computing Lambda z.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Sum of Lambda Z Timepoints</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Number of Points for Lambda z TAU" nciodm:ExtCodeID="C147480">
+                    <nciodm:CDISCSynonym>Number of Points for Lambda z TAU</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The number of time points used in computing Lambda z determined in a dosing interval.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Number of Points for Lambda z TAU</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Pct Rec from T1 to T2" nciodm:ExtCodeID="C102382">
                     <nciodm:CDISCSynonym>Pct Rec from T1 to T2</nciodm:CDISCSynonym>

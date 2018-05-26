@@ -55,6 +55,10 @@
                     <nciodm:CDISCDefinition>This SDTM class contains a set of domains which do not conform to the Findings, Events or Interventions observation classes. The domains included are DM, CO, SE and SV.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>CDISC Special Purpose Class</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="STUDY REFERENCE" nciodm:ExtCodeID="C147271">
+                    <nciodm:CDISCDefinition>This special purpose SDTM class contains further descriptions of study-specific identifiers that will be used in subject based domains.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC Study Reference Class</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="SUBJECT LEVEL ANALYSIS DATASET" nciodm:ExtCodeID="C103378">
                     <nciodm:CDISCSynonym>ADSL</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The Subject-Level Analysis Dataset (ADSL) is a one-record-per-subject dataset which contains variables that describe subject demographic characteristics and group the subjects for analysis. ADSL is the primary source for subject-level variables included in other analysis datasets such as population flags and treatment variables.</nciodm:CDISCDefinition>

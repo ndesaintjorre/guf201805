@@ -27,6 +27,11 @@
                     <nciodm:CDISCDefinition>ASSIGN Cardiovascular Disease 10-Year Risk Score (Woodward M, Brindle P, Tunstall-Pedoe H, for the SIGN group on risk estimation. Adding social deprivation and family history to cardiovascular risk assessment: the ASSIGN score from the Scottish Heart Health Extended Cohort (SHHEC). Heart 2007; 93: 172-176).</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>ASSIGN Cardiovascular Disease 10-Year Risk Score Clinical Classification</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="ATLAS" nciodm:ExtCodeID="C147589">
+                    <nciodm:CDISCSynonym>ATLAS1</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Age, treatment with systemic antibiotics, leukocyte count, serum albumin, and serum creatinine as a measure of renal function (ATLAS) (Miller, M.A., Louie,T., Mullane, K., Weiss, K., Lentnek, A., Golan, Y., et al. (2013). Derivation and validation of a simple clinical bedside score (ATLAS) for Clostridium difficile infection which predicts response to therapy. BMC Infectious Diseases, 13: 148).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ATLAS Score Clinical Classification</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="BODE INDEX" nciodm:ExtCodeID="C121006">
                     <nciodm:CDISCSynonym>BODE01</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The Body-Mass Index, Airflow Obstruction, Dyspnea, and Exercise Capacity Index (BODE Index) (Bartolome R. Celli, M.D., Claudia G. Cote, M.D., Jose M. Marin, M.D., Ciro Casanova, M.D., Maria Montes de Oca, M.D., Reina A. Mendez, M.D., Victor Pinto Plata, M.D., and Howard J. Cabral, Ph.D.; N Engl J Med 2004;350:1005-12).</nciodm:CDISCDefinition>
@@ -99,7 +104,7 @@
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="IDS-C" nciodm:ExtCodeID="C130308">
                     <nciodm:CDISCSynonym>IDSC1</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Inventory of Depressive Symptomatology - Clinician-Rated (IDS-C) (Rush, A.J., Giles, D.E., Schlesser, M.A., Fulton, C.L.,Weissenburger, J.E. and Burns, C.T. The Inventory of Depressive Symptomatology (IDS): Preliminary findings. Psychiatry Research, 18:65-87, 1986).</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>Inventory of Depressive Symptomatology - Clinician-Rated (IDS-C) (Copyright UT Southwestern Medical Center at Dallas. Rush, A.J., Giles, D.E., Schlesser, M.A., Fulton, C.L.,Weissenburger, J.E. and Burns, C.T. The Inventory of Depressive Symptomatology (IDS): Preliminary findings. Psychiatry Research, 18:65-87, 1986).</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Inventory of Depressive Symptomatology Clinician-Rated Version Clinical Classification</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="KDPI" nciodm:ExtCodeID="C130310">
@@ -144,7 +149,7 @@
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="QIDS-C" nciodm:ExtCodeID="C130309">
                     <nciodm:CDISCSynonym>QIDSC1</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Quick Inventory of Depressive Symptomatology - Clinician-Rated (QIDS-C) (Rush AJ, Trivedi MH, Ibrahim HM, Carmody TJ, Arnow B, Klein DN, Markowitz JC, Ninan PT, Kornstein S, Manber R, Thase ME, Kocsis JH, Keller MB. The 16-item Quick Inventory of Depressive Symptomatology (QIDS) Clinician Rating (QIDS-C) and Self-Report (QIDS-SR): A psychometric evaluation in patients with chronic major depression. Biological Psychiatry, 54:573-583, 2003).</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>Quick Inventory of Depressive Symptomatology - Clinician-Rated (QIDS-C) (Copyright UT Southwestern Medical Center at Dallas. Rush AJ, Trivedi MH, Ibrahim HM, Carmody TJ, Arnow B, Klein DN, Markowitz JC, Ninan PT, Kornstein S, Manber R, Thase ME, Kocsis JH, Keller MB. The 16-item Quick Inventory of Depressive Symptomatology (QIDS) Clinician Rating (QIDS-C) and Self-Report (QIDS-SR): A psychometric evaluation in patients with chronic major depression. Biological Psychiatry, 54:573-583, 2003).</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Quick Inventory of Depressive Symptomatology Clinician-Rated Version Clinical Classification</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="REYNOLDS CVD 10-YEAR RISK" nciodm:ExtCodeID="C124708">

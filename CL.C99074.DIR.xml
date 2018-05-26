@@ -6,6 +6,10 @@
                     <nciodm:CDISCDefinition>Denoting the front portion of the body or a structure.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Anterior</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="ANTEROMEDIAL" nciodm:ExtCodeID="C147159">
+                    <nciodm:CDISCDefinition>Denoting the front portion of the body towards the median plane.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Anteromedial</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="APICAL" nciodm:ExtCodeID="C25423">
                     <nciodm:CDISCDefinition>Relating to or located at the apex.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Apical</nciodm:PreferredTerm>
@@ -33,6 +37,10 @@
                 <EnumeratedItem CodedValue="DISTAL" nciodm:ExtCodeID="C25237">
                     <nciodm:CDISCDefinition>Situated farthest from a point of reference.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Distal</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DISTAL VOLAR" nciodm:ExtCodeID="C147160">
+                    <nciodm:CDISCDefinition>Pertaining to the farthest portion from the palm side of a hand or the sole side of a foot.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Distal Volar</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="DORSAL" nciodm:ExtCodeID="C45874">
                     <nciodm:CDISCDefinition>Pertaining to the back or upper surface of the body.</nciodm:CDISCDefinition>
@@ -70,6 +78,18 @@
                     <nciodm:CDISCDefinition>The bottom one of two. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Lower</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="LOWER EXTENSOR SURFACE" nciodm:ExtCodeID="C147161">
+                    <nciodm:CDISCDefinition>Pertaining to the lower portion of the surface on the opposite side of the joint when it bends.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Lower Extensor Surface</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LOWER FLEXOR SURFACE" nciodm:ExtCodeID="C147162">
+                    <nciodm:CDISCDefinition>Pertaining to the lower portion of the surface on the same side of the joint when it bends.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Lower Flexor Surface</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LOWER MEDIAL" nciodm:ExtCodeID="C147163">
+                    <nciodm:CDISCDefinition>Denoting the lower portion of the body towards the median plane.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Lower Medial</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="MEDIAL" nciodm:ExtCodeID="C25232">
                     <nciodm:CDISCDefinition>Toward the middle or in a limb toward the median plane.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Medial</nciodm:PreferredTerm>
@@ -97,6 +117,10 @@
                 <EnumeratedItem CodedValue="PROXIMAL" nciodm:ExtCodeID="C25236">
                     <nciodm:CDISCDefinition>Situated nearest to a point of reference.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Proximal</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PROXIMAL VOLAR" nciodm:ExtCodeID="C147164">
+                    <nciodm:CDISCDefinition>Pertaining to the nearest portion from the palm side of a hand or the sole side of a foot.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Proximal Volar</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="ROSTRAL" nciodm:ExtCodeID="C94393">
                     <nciodm:CDISCDefinition>Toward the muzzle in the head.</nciodm:CDISCDefinition>
@@ -126,6 +150,14 @@
                     <nciodm:CDISCDefinition>The top one of two.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Upper</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPPER EXTENSOR SURFACE" nciodm:ExtCodeID="C147165">
+                    <nciodm:CDISCDefinition>Pertaining to the upper portion of the surface on the opposite side of the joint when it bends.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Upper Extensor Surface</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPPER FLEXOR SURFACE" nciodm:ExtCodeID="C147166">
+                    <nciodm:CDISCDefinition>Pertaining to the upper portion of the surface on the same side of the joint when it bends.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Upper Flexor Surface</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="VENTRAL" nciodm:ExtCodeID="C45875">
                     <nciodm:CDISCDefinition>Pertaining to the front or lower surface of the body.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Ventral</nciodm:PreferredTerm>
@@ -133,6 +165,10 @@
                 <EnumeratedItem CodedValue="VENTROLATERAL" nciodm:ExtCodeID="C98798">
                     <nciodm:CDISCDefinition>Of or pertaining to the front and side of a main body. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Ventrolateral</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="VOLAR" nciodm:ExtCodeID="C147167">
+                    <nciodm:CDISCDefinition>Pertaining to the palm side of a hand or the sole side of a foot.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Volar</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <nciodm:CDISCSubmissionValue>DIR</nciodm:CDISCSubmissionValue>
                 <nciodm:CDISCSynonym>Directionality</nciodm:CDISCSynonym>

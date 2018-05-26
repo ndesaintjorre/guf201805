@@ -1,4 +1,4 @@
-<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C116103.NVTEST" Name="Nervous System Physiology Test Name" DataType="text" nciodm:ExtCodeID="C116103" nciodm:CodeListExtensible="Yes">
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C116103.NVTEST" Name="Nervous System Findings Test Name" DataType="text" nciodm:ExtCodeID="C116103" nciodm:CodeListExtensible="Yes">
                 <Description>
                     <TranslatedText xml:lang="en">Terminology relevant to the test names that describe nervous system physiology findings.</TranslatedText>
                 </Description>
@@ -28,6 +28,11 @@
                     <nciodm:CDISCDefinition>An assessment of the latency of the P100 or P1 wave of the visual evoked potential assessment waveform.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>P100 Latency</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="Standard Uptake Value" nciodm:ExtCodeID="C69310">
+                    <nciodm:CDISCSynonym>Standard Uptake Value</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The ratio between the tissue radioactivity concentration at a point in time C(T) and the injected dose of radioactivity per kilogram of the patient's body weight.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Standardized Uptake Value</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="Standard Uptake Value Ratio" nciodm:ExtCodeID="C116141">
                     <nciodm:CDISCSynonym>Standard Uptake Value Ratio</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The ratio between the uptake or binding of a radiopharmaceutical agent in an anatomical region of interest and a context-defined reference anatomical region.</nciodm:CDISCDefinition>
@@ -44,7 +49,7 @@
                     <nciodm:PreferredTerm>Volume</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <nciodm:CDISCSubmissionValue>NVTEST</nciodm:CDISCSubmissionValue>
-                <nciodm:CDISCSynonym>Nervous System Physiology Test Name</nciodm:CDISCSynonym>
+                <nciodm:CDISCSynonym>Nervous System Findings Test Name</nciodm:CDISCSynonym>
                 <nciodm:PreferredTerm>CDISC SDTM Nervous System Physiology Test Name Terminology</nciodm:PreferredTerm>
             </CodeList>
             

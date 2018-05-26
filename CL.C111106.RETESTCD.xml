@@ -82,6 +82,11 @@
                     <nciodm:CDISCDefinition>The ratio of the volume of gas that is forcibly exhaled during the first 0.2 seconds following maximal inhalation to that of the forced vital capacity.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Forced Expiratory Volume in 0.2 Second to FVC Ratio Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="EVC" nciodm:ExtCodeID="C147484">
+                    <nciodm:CDISCSynonym>Expiratory Vital Capacity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The maximum volume of air an individual can exhale from the point of maximal inhalation.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Expiratory Vital Capacity</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="FEF2575" nciodm:ExtCodeID="C119545">
                     <nciodm:CDISCSynonym>Forced Expiratory Flow 25-75%</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The mean forced expiratory flow rate at 25-75% of the forced vital capacity. (NCI)</nciodm:CDISCDefinition>

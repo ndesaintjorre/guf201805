@@ -7,6 +7,13 @@
                     <nciodm:CDISCDefinition>A measurement of any rod-shaped bacteria that resist decolorizing by acid after accepting an aqueous stain solution, due to the mycolic acids in their cell walls.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Acid-Fast Bacilli Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="BCEPACIA" nciodm:ExtCodeID="C147456">
+                    <nciodm:CDISCSynonym>B. cepacia</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Burkholderia cepacia</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Pseudomonas cepacia</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Burkholderia cepacia in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Burkholderia cepacia Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="BURKHOLD" nciodm:ExtCodeID="C139113">
                     <nciodm:CDISCSynonym>Burkholderia</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the organisms that are not assigned to the species level but are assigned to the Burkholderia genus level in a biological specimen.</nciodm:CDISCDefinition>
@@ -21,6 +28,17 @@
                     <nciodm:CDISCSynonym>Ebola Virus IgM Antibody</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the Ebola virus IgM antibodies in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Ebola Virus IgM Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAEMINF" nciodm:ExtCodeID="C147457">
+                    <nciodm:CDISCSynonym>H. influenzae</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Haemophilus influenzae</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Haemophilus influenza virus in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Haemophilus influenzae Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAEMOPH" nciodm:ExtCodeID="C147458">
+                    <nciodm:CDISCSynonym>Haemophilus</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the organisms that are not assigned to the species level but are assigned to the Haemophilus genus level in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Haemophilus Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="HCRNA" nciodm:ExtCodeID="C142330">
                     <nciodm:CDISCSynonym>Hepatitis C Virus RNA</nciodm:CDISCSynonym>
@@ -47,10 +65,10 @@
                     <nciodm:CDISCDefinition>A measurement of the influenza B antigen in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Influenza B Antigen Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
-                <EnumeratedItem CodedValue="MCORGDET" nciodm:ExtCodeID="C132416">
-                    <nciodm:CDISCSynonym>Microbial Organism Detected</nciodm:CDISCSynonym>
+                <EnumeratedItem CodedValue="MCORGIDN" nciodm:ExtCodeID="C132416">
+                    <nciodm:CDISCSynonym>Microbial Organism Identification</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The identification of the type of a microbial organism in a biological specimen.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Microoganism Detection</nciodm:PreferredTerm>
+                    <nciodm:PreferredTerm>Microoganism Identification</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="MRSA" nciodm:ExtCodeID="C139110">
                     <nciodm:CDISCSynonym>S. aureus, Methicillin-Resistant</nciodm:CDISCSynonym>
@@ -73,6 +91,13 @@
                     <nciodm:CDISCSynonym>Mycobacterium tuberculosis Complex</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the organisms assignable to the Mycobacterium tuberculosis complex in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Mycobacterium tuberculosis Complex Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NTBMYCO" nciodm:ExtCodeID="C147459">
+                    <nciodm:CDISCSynonym>NTM</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Non-tuberculous mycobacteria</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Nontuberculous Mycobacteria</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the organisms that are assigned to the Mycobacterium genus but are not tuberculosis or leprosy-causing in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Nontuberculous Mycobacteria Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="PAERGMUC" nciodm:ExtCodeID="C139108">
                     <nciodm:CDISCSynonym>P. aeruginosa, Mucoid</nciodm:CDISCSynonym>
@@ -103,15 +128,16 @@
                     <nciodm:CDISCDefinition>A measurement of the Plasmodium knowlesi in a sexual replication stage in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Sexual Plasmodium knowlesi Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="SAUREUS" nciodm:ExtCodeID="C147460">
+                    <nciodm:CDISCSynonym>S. aureus</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Staphylococcus aureus</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Staphylococcus aureus in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Staphylococcus aureus Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="STENMALT" nciodm:ExtCodeID="C139112">
                     <nciodm:CDISCSynonym>Stenotrophomonas maltophilia</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the organisms that are assigned to the Stenotrophomonas maltophilia species in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Stenotrophomonas maltophilia Measurement</nciodm:PreferredTerm>
-                </EnumeratedItem>
-                <EnumeratedItem CodedValue="TXIDBSL" nciodm:ExtCodeID="C132419">
-                    <nciodm:CDISCSynonym>Taxonomic Ident Below Species Level</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>The identification below the species level of an organism in a biological specimen.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Taxonomic Identification Below Species Level</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="ZEBOV" nciodm:ExtCodeID="C132420">
                     <nciodm:CDISCSynonym>Zaire Ebolavirus</nciodm:CDISCSynonym>

@@ -153,6 +153,11 @@
                     <nciodm:CDISCDefinition>A public health activity for the determination of who transmitted a disease to another subject and whether this person: is still infectious; was reported to the health department as a disease case or suspect; or has infected others.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Source Case Investigation</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="Student Indicator" nciodm:ExtCodeID="C147485">
+                    <nciodm:CDISCSynonym>Student Indicator</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An indication as to whether the subject or associated person is enrolled in school.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Student Indicator</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="Symptom" nciodm:ExtCodeID="C4876">
                     <nciodm:CDISCSynonym>Symptom</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Subjective evidence of disease perceived by the patient.</nciodm:CDISCDefinition>

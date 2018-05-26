@@ -40,6 +40,11 @@
                     <nciodm:CDISCDefinition>Person declares that a domestic partnership relationship exists. (HL7)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Domestic Partnership</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAMILY MEMBER" nciodm:ExtCodeID="C41256">
+                    <nciodm:CDISCSynonym>Family Member</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any of the individuals who are descended from a common progenitor, related by marriage or other legal tie.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Family Member</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="FRIEND" nciodm:ExtCodeID="C72884">
                     <nciodm:CDISCDefinition>A person whom an individual knows, likes, and trusts. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Friend</nciodm:PreferredTerm>
@@ -71,6 +76,10 @@
                 <EnumeratedItem CodedValue="PROXY" nciodm:ExtCodeID="C119264">
                     <nciodm:CDISCDefinition>A type of directive that gives a person the authority to make decisions for or provide responses on behalf of another individual.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Proxy</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SIBLING" nciodm:ExtCodeID="C25204">
+                    <nciodm:CDISCDefinition>A person's brother or sister.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Sibling</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="SIGNIFICANT OTHER" nciodm:ExtCodeID="C119265">
                     <nciodm:CDISCDefinition>A gender-neutral term for a person's partner in an intimate or romantic relationship without disclosing or presuming marital status or sexual orientation.</nciodm:CDISCDefinition>

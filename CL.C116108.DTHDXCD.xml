@@ -1,6 +1,6 @@
-<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C116108.DTHDXCD" Name="SDTM Death Diagnosis Test Code" DataType="text" nciodm:ExtCodeID="C116108" nciodm:CodeListExtensible="Yes">
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C116108.DTHDXCD" Name="SDTM Death Diagnosis and Details Test Code" DataType="text" nciodm:ExtCodeID="C116108" nciodm:CodeListExtensible="Yes">
                 <Description>
-                    <TranslatedText xml:lang="en">Terminology relevant to the test codes that describe the death diagnosis.</TranslatedText>
+                    <TranslatedText xml:lang="en">Terminology relevant to the test codes that describe the death diagnosis and related details.</TranslatedText>
                 </Description>
                 <EnumeratedItem CodedValue="AGEDTH" nciodm:ExtCodeID="C135383">
                     <nciodm:CDISCSynonym>Age at Death</nciodm:CDISCSynonym>
@@ -39,7 +39,7 @@
                     <nciodm:PreferredTerm>Secondary Cause of Death</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <nciodm:CDISCSubmissionValue>DTHDXCD</nciodm:CDISCSubmissionValue>
-                <nciodm:CDISCSynonym>SDTM Death Diagnosis Test Code</nciodm:CDISCSynonym>
+                <nciodm:CDISCSynonym>SDTM Death Diagnosis and Details Test Code</nciodm:CDISCSynonym>
                 <nciodm:PreferredTerm>CDISC SDTM Death Diagnosis Test Code Terminology</nciodm:PreferredTerm>
             </CodeList>
             

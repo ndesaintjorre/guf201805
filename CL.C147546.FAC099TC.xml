@@ -1,0 +1,74 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C147546.FAC099TC" Name="Pediatric Functional Assessment of Chronic Illness Therapy-Fatigue Questionnaire Test Code" DataType="text" nciodm:ExtCodeID="C147546" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Pediatric Functional Assessment of Chronic Illness Therapy-Fatigue test code.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="FAC09901" nciodm:ExtCodeID="C147686">
+                    <nciodm:CDISCSynonym>FAC099-I Feel Tired</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Functional Assessment of Chronic Illness Therapy-Fatigue - I feel tired.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Peds-FACIT-F - I Feel Tired</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC09902" nciodm:ExtCodeID="C147687">
+                    <nciodm:CDISCSynonym>FAC099-I Have Energy</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Functional Assessment of Chronic Illness Therapy-Fatigue - I have energy (or strength).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Peds-FACIT-F - I Have Energy</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC09903" nciodm:ExtCodeID="C147688">
+                    <nciodm:CDISCSynonym>FAC099-Could Do My Usual Things at Home</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Functional Assessment of Chronic Illness Therapy-Fatigue - I could do my usual things at home.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Peds-FACIT-F - Could Do My Usual Things at Home</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC09904" nciodm:ExtCodeID="C147689">
+                    <nciodm:CDISCSynonym>FAC099-Trouble Starting Things</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Functional Assessment of Chronic Illness Therapy-Fatigue - I had trouble starting things because I was too tired.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Peds-FACIT-F - Trouble Starting Things</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC09905" nciodm:ExtCodeID="C147690">
+                    <nciodm:CDISCSynonym>FAC099-Trouble Finishing Things</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Functional Assessment of Chronic Illness Therapy-Fatigue - I had trouble finishing things because I was too tired.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Peds-FACIT-F - Trouble Finishing Things</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC09906" nciodm:ExtCodeID="C147691">
+                    <nciodm:CDISCSynonym>FAC099-I Needed to Sleep During the Day</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Functional Assessment of Chronic Illness Therapy-Fatigue - I needed to sleep during the day.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Peds-FACIT-F - I Needed to Sleep During the Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC09907" nciodm:ExtCodeID="C147692">
+                    <nciodm:CDISCSynonym>FAC099-Upset by Being Too Tired</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Functional Assessment of Chronic Illness Therapy-Fatigue - I got upset by being too tired to do things I wanted to do.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Peds-FACIT-F - Upset by Being Too Tired</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC09908" nciodm:ExtCodeID="C147693">
+                    <nciodm:CDISCSynonym>FAC099-Hard for Me to Play With Friends</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Functional Assessment of Chronic Illness Therapy-Fatigue - Being tired made it hard for me to play or go out with my friends as much as I'd like.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Peds-FACIT-F - Hard for Me to Play With Friends</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC09909" nciodm:ExtCodeID="C147694">
+                    <nciodm:CDISCSynonym>FAC099-Needed Help Doing Usual Things</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Functional Assessment of Chronic Illness Therapy-Fatigue - I needed help doing my usual things at home.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Peds-FACIT-F - Needed Help Doing Usual Things</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC09910" nciodm:ExtCodeID="C147695">
+                    <nciodm:CDISCSynonym>FAC099-I Feel Weak</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Functional Assessment of Chronic Illness Therapy-Fatigue - I feel weak.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Peds-FACIT-F - I Feel Weak</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC09911" nciodm:ExtCodeID="C147696">
+                    <nciodm:CDISCSynonym>FAC099-I Was Too Tired to Eat</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Functional Assessment of Chronic Illness Therapy-Fatigue - I was too tired to eat.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Peds-FACIT-F - I Was Too Tired to Eat</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC09912" nciodm:ExtCodeID="C147697">
+                    <nciodm:CDISCSynonym>FAC099-Being Tired Made Me Sad</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Functional Assessment of Chronic Illness Therapy-Fatigue - Being tired made me sad.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Peds-FACIT-F - Being Tired Made Me Sad</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC09913" nciodm:ExtCodeID="C147698">
+                    <nciodm:CDISCSynonym>FAC099-Being Tired Made Me Mad</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Functional Assessment of Chronic Illness Therapy-Fatigue - Being tired made me mad (angry).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Peds-FACIT-F - Being Tired Made Me Mad</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>FAC099TC</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Pediatric Functional Assessment of Chronic Illness Therapy-Fatigue Questionnaire Test Code</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Questionnaire Peds-FACIT-F Test Code Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

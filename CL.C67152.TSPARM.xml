@@ -7,10 +7,10 @@
                     <nciodm:CDISCDefinition>Actual number of subjects enrolled; may include subjects who were not randomized.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Actual Subject Number</nciodm:PreferredTerm>
                 </EnumeratedItem>
-                <EnumeratedItem CodedValue="Adaptive Design" nciodm:ExtCodeID="C98704">
+                <EnumeratedItem CodedValue="Adaptive Design" nciodm:ExtCodeID="C146995">
                     <nciodm:CDISCSynonym>Adaptive Design</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Indicate if the study includes a prospectively planned opportunity for modification of one or more specified aspects of the study design and hypotheses based on analysis of data (usually interim data) from subjects in the study.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Adaptive Design</nciodm:PreferredTerm>
+                    <nciodm:PreferredTerm>Adaptive Study Design Indicator</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Added on to Existing Treatments" nciodm:ExtCodeID="C49703">
                     <nciodm:CDISCSynonym>Added on to Existing Treatments</nciodm:CDISCSynonym>
@@ -224,7 +224,7 @@
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Intervention Model" nciodm:ExtCodeID="C98746">
                     <nciodm:CDISCSynonym>Intervention Model</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>The trial design developed to compare treatment groups.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>The general design of the strategy for assigning interventions to participants in a clinical study. (clinicaltrials.gov)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Intervention Model</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Intervention Type" nciodm:ExtCodeID="C98747">

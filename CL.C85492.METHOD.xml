@@ -173,6 +173,14 @@
                     <nciodm:CDISCDefinition>An imaging technique that utilizes positron emission tomography and computed tomography in a single machine, in which images are enhanced by the addition of contrast agents into the body.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Contrast Enhanced PET-CT Scan</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="CONTRAST ENHANCED TRANSESOPHAGEAL ECHOCARDIOGRAPHY" nciodm:ExtCodeID="C147464">
+                    <nciodm:CDISCDefinition>A type of transesophageal echocardiography in which images are enhanced by the addition of contrast agents into the body.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Transesophageal Echocardiography With Contrast</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CONTRAST ENHANCED TRANSTHORACIC ECHOCARDIOGRAPHY" nciodm:ExtCodeID="C147465">
+                    <nciodm:CDISCDefinition>A type of transthoracic echocardiography in which images are enhanced by the addition of contrast agents into the body.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Transthoracic Echocardiography With Contrast</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="CORONARY ANGIOGRAPHY" nciodm:ExtCodeID="C100085">
                     <nciodm:CDISCDefinition>A procedure in which the catheter is passed into the aortic root or other great vessels for the purpose of angiography of the native coronary arteries or bypass grafts supplying native coronary arteries.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Coronary Angiography</nciodm:PreferredTerm>
@@ -312,6 +320,11 @@
                     <nciodm:CDISCDefinition>A highly sensitive immunoassay capable of detecting secreted materials from individuals cells upon activation. If the material of interest is secreted in response to a particular stimulus, then the material will bind to a specific immobilized antibody. Binding is then verified and visualized by applying other antibodies that have been tagged in some way.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Enzyme-linked Immunosorbent Spot Assay</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="ELLA" nciodm:ExtCodeID="C147466">
+                    <nciodm:CDISCSynonym>Enzyme-Linked Lectin Assay</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An enzyme immunoassay that utilizes enzyme-lectin conjugates to detect specific carbohydrate end groups on immobilized glycoproteins on microtiter plates.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Enzyme-Linked Lectin Assay</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="ENDOSCOPY" nciodm:ExtCodeID="C16546">
                     <nciodm:CDISCDefinition>An examination of the body using an endoscope.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Endoscopic Procedure</nciodm:PreferredTerm>
@@ -402,6 +415,10 @@
                     <nciodm:CDISCSynonym>fMRI</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A type of MRI that takes a series of images of an organ in quick succession and statistically analyzes the differences between the images.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Functional Magnetic Resonance Imaging</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FUNDUS PHOTOGRAPHY" nciodm:ExtCodeID="C147467">
+                    <nciodm:CDISCDefinition>A method of capturing images of the vitreous, retina, choroid, and optic nerve using a fundus camera, a specialized low power microscope with an attached camera.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Eye Fundus Photography</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="GC/FID" nciodm:ExtCodeID="C135454">
                     <nciodm:CDISCSynonym>Gas Chromatography/Flame Ionization Detector</nciodm:CDISCSynonym>
@@ -820,6 +837,11 @@
                     <nciodm:CDISCDefinition>A type of solid-phase immunoassay that uses distinctly colored microbeads coated with one or more reagents, which may be antigens, antibodies, oligonucleotides, enzyme substrates, or receptors, for the simultaneous detection and measurement of one or many analytes within a single sample.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Multiplexed Bead Based Immunoassay</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="MULTIPLEXED OPSONOPHAGOCYTIC KILLING ASSAY" nciodm:ExtCodeID="C147468">
+                    <nciodm:CDISCSynonym>MOPA</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An assay technique that measures the opsonophagocytic killing activity of antibodies against multiple serotypes in a single serum assay.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Multiplexed Opsonophagocytic Killing Assay</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="NEPHELOMETRY" nciodm:ExtCodeID="C111281">
                     <nciodm:CDISCDefinition>A method to quantify the concentration of particulate matter suspended in a liquid or gas using a nephelometer.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Nephelometry</nciodm:PreferredTerm>
@@ -912,6 +934,10 @@
                     <nciodm:CDISCSynonym>PETIA</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A method to quantify the opaqueness of a liquid using a turbidimeter, by measuring the decrease in light intensity due to the scattering effect of suspended immunoaggregates in a liquid sample. The immunoaggregates are target antigens agglutinated to antigen-specific antibody-coated polystyrene latex-enhanced particles.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Particle-Enhanced Turbidimetric Immunoassay</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PATHOLOGICAL EVALUATION" nciodm:ExtCodeID="C125006">
+                    <nciodm:CDISCDefinition>An appraisal by a pathologist that is based on microscopic and macroscopic structural and functional changes that result from disease processes.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Pathologic Examination</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="PEAK FLOWMETRY" nciodm:ExtCodeID="C122171">
                     <nciodm:CDISCDefinition>A method for measuring the flow of air through the bronchi upon expiration.</nciodm:CDISCDefinition>

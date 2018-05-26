@@ -42,6 +42,11 @@
                     <nciodm:CDISCDefinition>The minimum blood pressure in the systemic arterial circulation during the cardiac cycle.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Diastolic Blood Pressure</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="Energy Expenditure" nciodm:ExtCodeID="C147491">
+                    <nciodm:CDISCSynonym>Energy Expenditure</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the amount of energy used to carry out a physiological or physical function.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Energy Expenditure</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="Estimated Weight" nciodm:ExtCodeID="C132482">
                     <nciodm:CDISCSynonym>Estimated Weight</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>An approximate determination of the weight of the subject.</nciodm:CDISCDefinition>
@@ -86,6 +91,11 @@
                     <nciodm:CDISCSynonym>Lean Body Mass</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The weight of all organs and tissue in an individual less the weight of the individual's body fat.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Lean Body Mass</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Maximum Predicted Heart Rate" nciodm:ExtCodeID="C147492">
+                    <nciodm:CDISCSynonym>Maximum Predicted Heart Rate</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The predicted upper limit for an individual's heart rate, which is calculated as 220 minus the subject's age for men, and 210 minus the subject's age for women.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Maximum Predicted Heart Rate</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Mean Arterial Pressure" nciodm:ExtCodeID="C49679">
                     <nciodm:CDISCSynonym>Mean Arterial Pressure</nciodm:CDISCSynonym>

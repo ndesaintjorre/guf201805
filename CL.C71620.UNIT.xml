@@ -444,7 +444,7 @@
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="ag" nciodm:ExtCodeID="C64553">
                     <nciodm:CDISCSynonym>Attogram</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A unit of mass equal to one quintillionth of a gram (10E-18 gram).(NCI)</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A unit of mass equal to one quintillionth of a gram (1E-18 gram). (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Attogram</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="AgU/mL" nciodm:ExtCodeID="C70500">
@@ -454,12 +454,12 @@
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="amol" nciodm:ExtCodeID="C68855">
                     <nciodm:CDISCSynonym>Attomole</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A unit of amount of substance equal to one quintillionth of a mole (10E-18 mole).(NCI)</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A unit of amount of substance equal to one quintillionth of a mole (1E-18 mole). (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Attomole</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="amp" nciodm:ExtCodeID="C42536">
                     <nciodm:CDISCSynonym>Ampere</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A unit of electric current, named after the French physicist Andre Ampere. It is that constant current which, if maintained in two straight parallel conductors of infinite length and zero diameter separated by one meter in a vacuum, would produce between these conductors a force equal to 2(10E7) Newton per meter of length. This is dependent upon the definitions of the meter, kilogram, and second. One Ampere represents 6.24 x 10(E18) unit electric charge carriers, such as electrons, passing a specified fixed point in one second.(NCI)</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A unit of electric current, named after the French physicist Andre Ampere. It is that constant current which, if maintained in two straight parallel conductors of infinite length and zero diameter separated by one meter in a vacuum, would produce between these conductors a force equal to 2(1E7) Newton per meter of length. This is dependent upon the definitions of the meter, kilogram, and second. One Ampere represents 6.24 x 1(E18) unit electric charge carriers, such as electrons, passing a specified fixed point in one second. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Ampere</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="AMPULE" nciodm:ExtCodeID="C48473">
@@ -825,7 +825,7 @@
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="cm2" nciodm:ExtCodeID="C48460">
                     <nciodm:CDISCSynonym>Square Centimeter</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A unit of area measurement equal to a square measuring one centimeter on each side. One square centimeter is equal to 10E-4 square meter.(NCI)</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A unit of area measurement equal to a square measuring one centimeter on each side. One square centimeter is equal to 1E-4 square meter. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Square Centimeter</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="cmH2O*s/mL" nciodm:ExtCodeID="C135518">
@@ -840,9 +840,14 @@
                     <nciodm:CDISCDefinition>A unit of pressure defined as centimeters of water per unit of volume equal to one milliliter.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Centimeter of Water per Milliliter</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="cmHg" nciodm:ExtCodeID="C147129">
+                    <nciodm:CDISCSynonym>Centimeter of Mercury</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A unit of pressure equal to 0.001316 atmosphere and equal to the pressure indicated by one centimeter rise of mercury in a barometer at the Earth's surface.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Centimeters of Mercury</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="cmol" nciodm:ExtCodeID="C68687">
                     <nciodm:CDISCSynonym>Centimole</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A unit of amount of substance equal to one hundredth of a mole (10E-2 mole).(NCI)</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A unit of amount of substance equal to one hundredth of a mole (1E-2 mole). (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Centimole</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="cmol/L" nciodm:ExtCodeID="C68886">
@@ -887,7 +892,7 @@
                     <nciodm:CDISCSynonym>10^-2 sec</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Centisecond</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>csec</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A unit of time equal to one hundredth of a second (10E-2 seconds). (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A unit of time equal to one hundredth of a second (1E-2 seconds). (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Centisecond</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="CUP" nciodm:ExtCodeID="C54703">
@@ -964,7 +969,7 @@
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="dmol" nciodm:ExtCodeID="C68685">
                     <nciodm:CDISCSynonym>Decimole</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A unit of amount of substance equal to one tenth of a mole (10E-1 mole).(NCI)</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A unit of amount of substance equal to one tenth of a mole (1E-1 mole). (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Decimole</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="DNA copies/mL" nciodm:ExtCodeID="C98719">
@@ -1015,7 +1020,7 @@
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="dyn" nciodm:ExtCodeID="C70470">
                     <nciodm:CDISCSynonym>Dyne</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A unit of force defined as the force that accelerates a mass of one gram at the rate of one centimeter per second squared. One dyne is equal to 10E-5 Newton and 2.248E-6 pounds of force.(NCI)</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A unit of force defined as the force that accelerates a mass of one gram at the rate of one centimeter per second squared. One dyne is equal to 1E-5 Newton and 2.248E-6 pounds of force. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Dyne</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="EIA unit" nciodm:ExtCodeID="C122205">
@@ -1058,6 +1063,11 @@
                     <nciodm:CDISCDefinition>A unit of catalytic activity measurement defined as the quantity of a particular enzyme that catalyzes the transformation of one micromole of the substrate per minute under standard conditions for specified assay system.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Enzyme Unit</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="Enzyme U/L" nciodm:ExtCodeID="C147130">
+                    <nciodm:CDISCSynonym>Enzyme Unit/L</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Unit of catalytic activity concentration defined as activity equal to one enzyme unit per one liter of system volume.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Enzyme Unit per Liter</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="eq" nciodm:ExtCodeID="C67273">
                     <nciodm:CDISCSynonym>Equivalent Weight</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A unit of relative amount of a substance that combines with or displaces 8.0 grams of oxygen or 1.008 gram of hydrogen. The unit is usually expressed in grams and is equal to the amount of substance that gains or loses one mole of electrons in a redox reaction, or to the amount of substances that releases or accepts one mole of hydrogen ions in a neutralization reaction; or to the amount of electrolyte that carries one mole of positive or negative charge. This is a large unit and measurements are more often done in its derivatives, e.g. in milliequivalents.(NCI)</nciodm:CDISCDefinition>
@@ -1086,7 +1096,7 @@
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="fg" nciodm:ExtCodeID="C64552">
                     <nciodm:CDISCSynonym>Femtogram</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A unit of mass equal to one quadrillionth of a gram (10E-15 gram).(NCI)</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A unit of mass equal to one quadrillionth of a gram (1E-15 gram). (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Femtogram</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="FINGERTIP UNIT" nciodm:ExtCodeID="C71321">
@@ -1099,12 +1109,12 @@
                     <nciodm:CDISCSynonym>Cubic Micron</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Femtoliter</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>um3</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>The unit of volume equal 10E-15 liter.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>The unit of volume equal 1E-15 liter.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Femtoliter</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="fmol" nciodm:ExtCodeID="C68854">
                     <nciodm:CDISCSynonym>Femtomole</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A unit of amount of substance equal to one quadrillionth of a mole (10E-15 mole).(NCI)</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A unit of amount of substance equal to one quadrillionth of a mole (1E-15 mole). (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Femtomole</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="fmol/g" nciodm:ExtCodeID="C73711">
@@ -1114,7 +1124,7 @@
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="fmol/L" nciodm:ExtCodeID="C68887">
                     <nciodm:CDISCSynonym>Femtomole per Liter</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A unit of concentration (molarity unit) equal to one quadrillionth of a mole (10E-15 mole) of solute in one liter of solution. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A unit of concentration (molarity unit) equal to one quadrillionth of a mole (1E-15 mole) of solute in one liter of solution. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Femtomole per Liter</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="fmol/L/sec" nciodm:ExtCodeID="C122206">
@@ -1133,6 +1143,7 @@
                     <nciodm:PreferredTerm>Fluid Ounce US</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="fraction of 1" nciodm:ExtCodeID="C105484">
+                    <nciodm:CDISCSynonym>Proportion of 1</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A unit for expressing a percentage as a decimal whereby the total value is measured as a fraction of the numeric 1.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Fraction of 1</nciodm:PreferredTerm>
                 </EnumeratedItem>
@@ -1161,7 +1172,7 @@
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="g" nciodm:ExtCodeID="C48155">
                     <nciodm:CDISCSynonym>Gram</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A unit of mass equal to one thousandth (10E-3) of a kilogram, the kilogram being the base unit of mass in the International System of Units (SI).</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A unit of mass equal to one thousandth (1E-3) of a kilogram, the kilogram being the base unit of mass in the International System of Units (SI).</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Gram</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="g/animal" nciodm:ExtCodeID="C73713">
@@ -1269,7 +1280,7 @@
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="GBq" nciodm:ExtCodeID="C70513">
                     <nciodm:CDISCSynonym>Gigabecquerel</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A unit of radioactivity equal to one billion nuclear disintegrations or other nuclear transformations per second, or to 10E9 Becquerels.(NCI)</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A unit of radioactivity equal to one billion nuclear disintegrations or other nuclear transformations per second, or to 1E9 Becquerels. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Gigabecquerel</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="GBq/g" nciodm:ExtCodeID="C70525">
@@ -1462,6 +1473,11 @@
                     <nciodm:CDISCDefinition>A unit of electrical, mechanical, and thermal energy (as well as work and quantity of heat), equal to the work done when the point of application of a force of one Newton is displaced through a distance of one meter in the direction of the force or the work done when a current of one Ampere passes through a resistance of one ohm for one second. One joule is equal to 0.23889 gram-calorie (mean).(NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Joule</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="K" nciodm:ExtCodeID="C42537">
+                    <nciodm:CDISCSynonym>Kelvin</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A basic unit of thermodynamic temperature, one of the seven base units of the International System of Units (Systeme International d'Unites, SI). It is 1/273.16th of the thermodynamic temperature of the triple point of water, This sets the size of the kelvin unit for temperature differences and defines the thermodynamic temperature of an equilibrium mixture of waters ice-liquid-vapor as 273.16 K, where 0 K is the lowest possible temperature ("absolute zero").</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Kelvin</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="ka_u/dL" nciodm:ExtCodeID="C122209">
                     <nciodm:CDISCDefinition>A unit of phosphatase concentration that can free one milligram of phenol from disodium phenylphosphate at standard conditions, per unit volume of the mixture equal to one deciliter. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>King-Armstrong Unit per Deciliter</nciodm:PreferredTerm>
@@ -1478,7 +1494,7 @@
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="kBq" nciodm:ExtCodeID="C70511">
                     <nciodm:CDISCSynonym>Kilobecquerel</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A unit of radioactivity equal to one thousand nuclear disintegrations or other nuclear transformations per second, or to 10E3 Becquerels.(NCI)</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A unit of radioactivity equal to one thousand nuclear disintegrations or other nuclear transformations per second, or to 1E3 Becquerels. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Kilobecquerel</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="kBq/uL" nciodm:ExtCodeID="C71168">
@@ -1585,7 +1601,7 @@
                     <nciodm:CDISCSynonym>10^3 sec</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Kilosecond</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>ksec</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A unit of time equal to one thousand seconds (10E3 seconds). (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A unit of time equal to one thousand seconds (1E3 seconds). (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Kilosecond</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="kUSP" nciodm:ExtCodeID="C71202">
@@ -1595,7 +1611,7 @@
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="L" nciodm:ExtCodeID="C48505">
                     <nciodm:CDISCSynonym>Liter</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A unit of volume equal to one thousandth (10E-3) of a cubic meter, the cubic meter being the standard derived unit of volume in the International System of Units (SI).</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A unit of volume equal to one thousandth (1E-3) of a cubic meter, the cubic meter being the standard derived unit of volume in the International System of Units (SI).</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Liter</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="L/day" nciodm:ExtCodeID="C69110">
@@ -1758,7 +1774,7 @@
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="MBq" nciodm:ExtCodeID="C70512">
                     <nciodm:CDISCSynonym>Megabecquerel</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A unit of radioactivity equal to one million nuclear disintegrations or other nuclear transformations per second, or to 10E6 Becquerels.(NCI)</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A unit of radioactivity equal to one million nuclear disintegrations or other nuclear transformations per second, or to 1E6 Becquerels. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Megabecquerel</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="MBq/uL" nciodm:ExtCodeID="C71169">
@@ -1865,7 +1881,7 @@
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="mg" nciodm:ExtCodeID="C28253">
                     <nciodm:CDISCSynonym>Milligram</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A unit of mass equal to one thousandth (10E-3) of a gram.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A unit of mass equal to one thousandth (1E-3) of a gram.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Milligram</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="mg/animal" nciodm:ExtCodeID="C73738">
@@ -1982,7 +1998,7 @@
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="MHz" nciodm:ExtCodeID="C67314">
                     <nciodm:CDISCSynonym>Megahertz</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>The SI derived unit of frequency; equal to one million oscillations per second or to 10E6 hertz. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>The SI derived unit of frequency; equal to one million oscillations per second or to 1E6 hertz. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Megahertz</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Mile" nciodm:ExtCodeID="C71183">
@@ -2010,13 +2026,13 @@
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="mkat" nciodm:ExtCodeID="C70507">
                     <nciodm:CDISCSynonym>Millikatal</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A unit of catalytic activity measurement equal to one thousandth of one katal (10E-3 katal).(NCI)</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A unit of catalytic activity measurement equal to one thousandth of one katal (1E-3 katal). (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Millikatal</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="mL" nciodm:ExtCodeID="C28254">
                     <nciodm:CDISCSynonym>Milliliter</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>cm3</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A unit of volume equal to one thousandth (10E-3) of a liter.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A unit of volume equal to one thousandth (1E-3) of a liter.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Milliliter</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="mL*cmH2O" nciodm:ExtCodeID="C135521">
@@ -2236,7 +2252,7 @@
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="mmol" nciodm:ExtCodeID="C48513">
                     <nciodm:CDISCSynonym>Millimole</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A unit of amount of substance equal to one thousandth (10E-3) of a mole.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A unit of amount of substance equal to one thousandth (1E-3) of a mole.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Millimole</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="mmol/day" nciodm:ExtCodeID="C67420">
@@ -2250,7 +2266,7 @@
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="mmol/kg" nciodm:ExtCodeID="C68892">
                     <nciodm:CDISCSynonym>Millimole per Kilogram</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A unit of amount of substance content (molality unit) defined as one thousandth of mole (10E-3 mole) of solute per one kilogram of solvent.(NCI)</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A unit of amount of substance content (molality unit) defined as one thousandth of mole (1E-3 mole) of solute per one kilogram of solvent. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Millimole per Kilogram</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="mmol/L" nciodm:ExtCodeID="C64387">
@@ -2419,12 +2435,12 @@
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Newton" nciodm:ExtCodeID="C42546">
                     <nciodm:CDISCSynonym>Newton</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A unit of force which, when applied in a vacuum to a body having a mass of one kilogram, causes an acceleration of one meter per second squared. It is equal to 10E5 dynes.(NCI)</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A unit of force which, when applied in a vacuum to a body having a mass of one kilogram, causes an acceleration of one meter per second squared. It is equal to 1E5 dynes. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Newton</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="ng" nciodm:ExtCodeID="C48516">
                     <nciodm:CDISCSynonym>Nanogram</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A unit of mass equal to one billionth (10E-9) of a gram.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A unit of mass equal to one billionth (1E-9) of a gram.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Nanogram</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="ng/dL" nciodm:ExtCodeID="C67326">
@@ -2454,27 +2470,27 @@
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="nkat" nciodm:ExtCodeID="C70508">
                     <nciodm:CDISCSynonym>Nanokatal</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A unit of catalytic activity measurement equal to one billionth of one katal (10E-9 katal).(NCI)</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A unit of catalytic activity measurement equal to one billionth of one katal (1E-9 katal). (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Nanokatal</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="nkat/L" nciodm:ExtCodeID="C70510">
                     <nciodm:CDISCSynonym>Nanokatal per Liter</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A unit of catalytic activity concentration defined as the catalytic activity of the component equal to one billionth of one katal (10E-9 katal) in the unit volume of the system equal to one liter.(NCI)</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A unit of catalytic activity concentration defined as the catalytic activity of the component equal to one billionth of one katal (1E-9 katal) in the unit volume of the system equal to one liter. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Nanokatal per Liter</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="nL" nciodm:ExtCodeID="C69188">
                     <nciodm:CDISCSynonym>Nanoliter</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A unit of volume equal to one billionth of a liter (10E-9 liter).(NCI)</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A unit of volume equal to one billionth of a liter (1E-9 liter). (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Nanoliter</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="nm" nciodm:ExtCodeID="C67328">
                     <nciodm:CDISCSynonym>Nanometer</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A unit of length equal to one billionth of a meter (10E-9 meter). Nanometer is used as a unit for light wavelength measurement.(NCI)</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A unit of length equal to one billionth of a meter (1E-9 meter). Nanometer is used as a unit for light wavelength measurement. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Nanometer</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="nmol" nciodm:ExtCodeID="C48517">
                     <nciodm:CDISCSynonym>Nanomole</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A unit of amount of substance equal to one billionth (10E-9) of a mole.(NCI)</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A unit of amount of substance equal to one billionth (1E-9) of a mole. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Nanomole</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="nmol BCE/L" nciodm:ExtCodeID="C117974">
@@ -2522,7 +2538,7 @@
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="nmol/mL/min" nciodm:ExtCodeID="C92613">
                     <nciodm:CDISCSynonym>Nanomole per Milliliter per Minute</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A unit of concentration (molarity unit) equal to one billionth of a mole (10E-9 mole) of solute in one milliliter of solution to be administered per minute of time.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A unit of concentration (molarity unit) equal to one billionth of a mole (1E-9 mole) of solute in one milliliter of solution to be administered per minute of time.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Nanomole per Minute per Milliliter</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="nmol/mol" nciodm:ExtCodeID="C122220">
@@ -2623,7 +2639,7 @@
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="pg" nciodm:ExtCodeID="C64551">
                     <nciodm:CDISCSynonym>Picogram</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A unit of mass equal to one trillionth of a gram (10E-12 gram).(NCI)</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A unit of mass equal to one trillionth of a gram (1E-12 gram). (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Picogram</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="pg/dL" nciodm:ExtCodeID="C67331">
@@ -2664,7 +2680,7 @@
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="pkat" nciodm:ExtCodeID="C70509">
                     <nciodm:CDISCSynonym>Picokatal</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A unit of catalytic activity measurement equal to trillionth of one katal (10E-12 katal).(NCI)</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A unit of catalytic activity measurement equal to trillionth of one katal (1E-12 katal). (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Picokatal</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="pkat/L" nciodm:ExtCodeID="C122222">
@@ -2674,17 +2690,17 @@
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="pL" nciodm:ExtCodeID="C69189">
                     <nciodm:CDISCSynonym>Picoliter</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A unit of volume equal to one trillionth of a liter (10E-12 liter). (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A unit of volume equal to one trillionth of a liter (1E-12 liter). (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Picoliter</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="pm" nciodm:ExtCodeID="C69148">
                     <nciodm:CDISCSynonym>Picometer</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A unit of length equal to one trillionth of a meter (10E-12 meter).(NCI)</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A unit of length equal to one trillionth of a meter (1E-12 meter). (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Picometer</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="pmol" nciodm:ExtCodeID="C65045">
                     <nciodm:CDISCSynonym>Picomole</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A unit of amount of substance equal to a trillionth (10E-12) of a mole.(NCI)</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A unit of amount of substance equal to a trillionth (1E-12) of a mole. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Picomole</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="pmol/10^10 cells" nciodm:ExtCodeID="C122223">
@@ -2748,7 +2764,7 @@
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="ppth" nciodm:ExtCodeID="C69112">
                     <nciodm:CDISCSynonym>Part per Thousand</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A unit of proportion equal to 10E-3.(NCI)</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A unit of proportion equal to 1E-3. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Part per Thousand</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="pptr" nciodm:ExtCodeID="C70566">
@@ -3125,7 +3141,7 @@
                 <EnumeratedItem CodedValue="ug" nciodm:ExtCodeID="C48152">
                     <nciodm:CDISCSynonym>Microgram</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>mcg</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A unit of mass equal to one millionth (10E-6) of a gram.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A unit of mass equal to one millionth (1E-6) of a gram.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Microgram</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="ug/animal" nciodm:ExtCodeID="C73728">
@@ -3266,7 +3282,7 @@
                 <EnumeratedItem CodedValue="ukat" nciodm:ExtCodeID="C70562">
                     <nciodm:CDISCSynonym>Microkatal</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>mckat</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A unit of catalytic activity measurement equal to one millionth of katal (10E-6 katal).(NCI)</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A unit of catalytic activity measurement equal to one millionth of katal (1E-6 katal). (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Microkatal</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="ukat/10^12 RBC" nciodm:ExtCodeID="C124465">
@@ -3284,7 +3300,7 @@
                     <nciodm:CDISCSynonym>Microliter</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>mcL</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>mm3</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A unit of volume accepted for use with the SI and equal to one millionth of a liter (10E-6 liter).(NCI)</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A unit of volume accepted for use with the SI and equal to one millionth of a liter (1E-6 liter). (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Microliter</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="uL/dose" nciodm:ExtCodeID="C124466">
@@ -3307,7 +3323,7 @@
                 <EnumeratedItem CodedValue="um" nciodm:ExtCodeID="C48510">
                     <nciodm:CDISCSynonym>Micron</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>mcm</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A unit of length in metric system equal to 10E-6 meter, or micrometer.(NCI)</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A unit of length in metric system equal to 1E-6 meter, or micrometer. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Micron</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="um/day" nciodm:ExtCodeID="C126081">
@@ -3322,7 +3338,7 @@
                 <EnumeratedItem CodedValue="umol" nciodm:ExtCodeID="C48509">
                     <nciodm:CDISCSynonym>Micromole</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>mcmol</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A unit of amount of substance equal to one millionth (10E-6) of a mole.(NCI)</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A unit of amount of substance equal to one millionth (1E-6) of a mole. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Micromole</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="umol/day" nciodm:ExtCodeID="C67406">
@@ -3339,7 +3355,7 @@
                     <nciodm:PreferredTerm>Micromole per Hour per Millimole</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="umol/kg/min" nciodm:ExtCodeID="C126082">
-                    <nciodm:CDISCDefinition>A unit of concentration (molarity unit) equal to one millionth of a mole (10E-6 mole) per kilogram of a substance per period of time equal to sixty seconds.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A unit of concentration (molarity unit) equal to one millionth of a mole (1E-6 mole) per kilogram of a substance per period of time equal to sixty seconds.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Micromole per Kilogram per Minute</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="umol/L" nciodm:ExtCodeID="C48508">
@@ -3362,7 +3378,7 @@
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="umol/mg/min" nciodm:ExtCodeID="C73735">
                     <nciodm:CDISCSynonym>Micromole per Milligram per Minute</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A unit of concentration (molarity unit) equal to one millionth of a mole (10E-6 mole) per milligram of a substance per period of time equal to sixty seconds. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A unit of concentration (molarity unit) equal to one millionth of a mole (1E-6 mole) per milligram of a substance per period of time equal to sixty seconds. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Micromole per Milligram per Minute</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="umol/min" nciodm:ExtCodeID="C85708">
@@ -3377,7 +3393,7 @@
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="uOsM" nciodm:ExtCodeID="C73736">
                     <nciodm:CDISCSynonym>Microosmole</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A unit of osmotic pressure equal to one millionth of an osmole or the osmotic pressure of a 10E-6 molar solution of a substance that does not dissociate. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A unit of osmotic pressure equal to one millionth of an osmole or the osmotic pressure of a 1E-6 molar solution of a substance that does not dissociate. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Microosmole</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="usec" nciodm:ExtCodeID="C69149">

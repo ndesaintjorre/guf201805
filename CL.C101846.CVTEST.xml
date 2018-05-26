@@ -312,6 +312,12 @@
                     <nciodm:CDISCDefinition>The extent downward or inward; the perpendicular measurement from the surface downward to determine deepness. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Depth</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="Dimensionless Index" nciodm:ExtCodeID="C147148">
+                    <nciodm:CDISCSynonym>Dimensionless Index</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Dimensionless Velocity Index</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The ratio of the blood velocity in the left ventricular outflow tract (LVOT) to the maximum blood velocity across the aortic valve.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Dimensionless Index</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="Dissection Indicator" nciodm:ExtCodeID="C139039">
                     <nciodm:CDISCSynonym>Dissection Indicator</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>An indication as to whether there is the presence of blood vessel dissection.</nciodm:CDISCDefinition>
@@ -321,6 +327,16 @@
                     <nciodm:CDISCSynonym>Eccentric Regurgitant Jet Indicator</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>An indication as to whether an eccentric regurgitant jet direction is present.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Eccentric Regurgitant Jet Indicator</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Effective Orifice Area" nciodm:ExtCodeID="C147149">
+                    <nciodm:CDISCSynonym>Effective Orifice Area</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The calculated estimate of the area of a cardiac valve at the point of maximum opening.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Effective Orifice Area</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Effective Orifice Area Index" nciodm:ExtCodeID="C147150">
+                    <nciodm:CDISCSynonym>Effective Orifice Area Index</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The ratio of the effective orifice area (EOA) to the body surface area (BSA).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Effective Orifice Area Index</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Effective Regurgitant Orifice Area" nciodm:ExtCodeID="C127565">
                     <nciodm:CDISCSynonym>Effective Regurgitant Orifice Area</nciodm:CDISCSynonym>
@@ -502,6 +518,11 @@
                     <nciodm:CDISCDefinition>The estimated average blood pressure. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Estimated Mean Blood Pressure</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="Mean Pressure Gradient" nciodm:ExtCodeID="C147152">
+                    <nciodm:CDISCSynonym>Mean Pressure Gradient</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A value that represents the mean pressure gradient that exists between two points across a structure.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Mean Pressure Gradient</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="Mean Vessel Diameter" nciodm:ExtCodeID="C116143">
                     <nciodm:CDISCSynonym>Mean Vessel Diameter</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The mean of the inside diameters of the normal blood vessel segments.</nciodm:CDISCDefinition>
@@ -609,10 +630,26 @@
                     <nciodm:CDISCDefinition>Number of major epicardial vessels with greater than or equal to 70% reduction in diameter or greater than or equal to 50% reduction in cross-sectional area.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Number of Diseased Coronary Artery Vessels</nciodm:PreferredTerm>
                 </EnumeratedItem>
-                <EnumeratedItem CodedValue="Observed Cardiac Device" nciodm:ExtCodeID="C139049">
-                    <nciodm:CDISCSynonym>Observed Cardiac Device</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A description of the type of cardiac device that is found in a subject.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Observed Cardiac Device Type</nciodm:PreferredTerm>
+                <EnumeratedItem CodedValue="Obs Med Device Type In Intended Loc" nciodm:ExtCodeID="C146994">
+                    <nciodm:CDISCSynonym>Obs Med Device Type In Intended Loc</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Observed Medical Device In The Intended Location</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A description of the type of medical device that is found in a subject and is in its intended location.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Observed Medical Device Type In Intended Location</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Obs Med Device Type Not In Intended Loc" nciodm:ExtCodeID="C147153">
+                    <nciodm:CDISCSynonym>Obs Med Device Type Not In Intended Loc</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A description of the type of medical device that is found in a subject but is not in its intended location.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Observed Medical Device Type Not Present In Intended Location Type</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Observed Foreign Body Indicator" nciodm:ExtCodeID="C147151">
+                    <nciodm:CDISCSynonym>Observed Foreign Body Indicator</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An indication as to whether a medical or non-medical foreign body is present in a subject.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Observed Foreign Body Indicator</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Observed Non-Medical Foreign Body Type" nciodm:ExtCodeID="C147154">
+                    <nciodm:CDISCSynonym>Observed Non-Medical Foreign Body Type</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A description of the type of non-medical foreign body that is found in a subject.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Observed Non-Medical Foreign Body Type</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Peak A Velocity" nciodm:ExtCodeID="C127584">
                     <nciodm:CDISCSynonym>Peak A Velocity</nciodm:CDISCSynonym>
@@ -628,6 +665,11 @@
                     <nciodm:CDISCSynonym>Peak E Velocity</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The peak velocity of blood flow across a cardiac valve during early ventricular diastole (the passive filling of the ventricle).</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Peak E Velocity</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Peak Pressure Gradient" nciodm:ExtCodeID="C147155">
+                    <nciodm:CDISCSynonym>Peak Pressure Gradient</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A value that represents the maximum pressure gradient that exists between two points across a structure.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Peak Pressure Gradient</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Peak Pressure Rise Rate" nciodm:ExtCodeID="C139044">
                     <nciodm:CDISCSynonym>Peak Pressure Rise Rate</nciodm:CDISCSynonym>
@@ -648,6 +690,11 @@
                     <nciodm:CDISCSynonym>Pericardial Effusion Size</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The qualitative description of the overall size of a pericardial effusion as assessed at the point of greatest separation between the parietal and visceral pericardia during diastole.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Pericardial Effusion Size</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Pressure Half Time" nciodm:ExtCodeID="C147156">
+                    <nciodm:CDISCSynonym>Pressure Half Time</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The amount of time required for the peak transvalvular pressure gradient to decrease to one half of the value.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Pressure Half Time</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Prosthetic Cardiac Valve Type" nciodm:ExtCodeID="C139051">
                     <nciodm:CDISCSynonym>Prosthetic Cardiac Valve Type</nciodm:CDISCSynonym>
@@ -725,7 +772,7 @@
                 <EnumeratedItem CodedValue="Right Ventricular Ejection Fraction, Est" nciodm:ExtCodeID="C135381">
                     <nciodm:CDISCSynonym>Right Ventricular Ejection Fraction, Est</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Right Ventricular Ejection Fraction, Estimated</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>null</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A visual estimation of the percent or fraction of the volume of blood ejected from the right ventricle during right ventricular systole.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Estimated Right Ventricular Ejection Fraction</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Stanford AoD Classification" nciodm:ExtCodeID="C139040">
@@ -792,6 +839,16 @@
                     <nciodm:CDISCSynonym>Tricuspid Valve Vena Contracta Width</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The width of the vena contracta of the tricuspid valve.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Tricuspid Valve Vena Contracta Width</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Valve Area" nciodm:ExtCodeID="C147158">
+                    <nciodm:CDISCSynonym>Valve Area</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The quantitative measurement estimating the surface area of a valve.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Valve Area</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Valve Area Index" nciodm:ExtCodeID="C147157">
+                    <nciodm:CDISCSynonym>Valve Area Index</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The ratio of the valve area to the body surface area.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Valve Area Index</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Velocity Time Integral, Blood Flow" nciodm:ExtCodeID="C127603">
                     <nciodm:CDISCSynonym>Velocity Time Integral, Blood Flow</nciodm:CDISCSynonym>

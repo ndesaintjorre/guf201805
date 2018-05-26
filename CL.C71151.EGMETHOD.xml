@@ -98,6 +98,10 @@
                     <nciodm:CDISCDefinition>An electrocardiogram (ECG) lead placement for determining 3 orthogonal components X (right to left direction), Y (foot to head direction) and Z (back to front direction) of the heart. For this method a minimum of 4 electrodes are needed that represent the right arm, left arm, left leg and back. However, usually 7 electrodes are used to avoid dependence on the dipole location and facilitate interpretation. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Lead Placement Frank</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="HOLTER CONTINUOUS ECG RECORDING" nciodm:ExtCodeID="C38064">
+                    <nciodm:CDISCDefinition>An electrocardiographic method for collecting continuous ECG waveforms with a variable number of discrete leads with duration longer than the standard 10 second ECG. Holter recording may be performed in patients who are ambulatory, and may collect data for 24 hours or longer.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Holter Monitoring</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="MCFEE-PARUNGAO LEAD SYSTEM" nciodm:ExtCodeID="C71119">
                     <nciodm:CDISCSynonym>McFee-Parungao lead system</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>An electrocardiogram (ECG) lead placement for determining 3 orthogonal components X (back to front), Y (right to left) and Z (foot to head) of the heart. This system places the electrodes closer to the heart to achieve better orthogonality and a homogeneous lead field. (NCI)</nciodm:CDISCDefinition>

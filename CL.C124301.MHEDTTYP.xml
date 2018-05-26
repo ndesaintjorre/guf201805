@@ -3,7 +3,8 @@
                     <TranslatedText xml:lang="en">Terminology relevant to the classification of the medical condition or event by which MHSTDTC is defined.</TranslatedText>
                 </Description>
                 <EnumeratedItem CodedValue="DIAGNOSIS" nciodm:ExtCodeID="C15220">
-                    <nciodm:CDISCDefinition>The investigation, analysis and recognition of the presence and nature of disease, condition, or injury from expressed signs and symptoms; also, the scientific determination of any kind; the concise results of such an investigation. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:CDISCSynonym>Diagnostic</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The investigation, analysis and recognition of the presence and nature of disease, condition, or injury from expressed signs and symptoms; also, the scientific determination of any kind; the concise results or summary of such an investigation. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Diagnosis</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="EPISODE" nciodm:ExtCodeID="C75539">

@@ -14,9 +14,25 @@
                     <nciodm:CDISCDefinition>A physician specializing in medical diagnosis based on laboratory analysis and the macroscopic and the microscopic changes to tissues and organs caused by disease.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Clinical Pathologist</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="DERMATOLOGIST" nciodm:ExtCodeID="C17816">
+                    <nciodm:CDISCDefinition>A doctor who specializes in diagnosis and treatment of skin conditions.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Dermatologist</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DEVELOPMENTAL BEHAVIORAL PEDIATRICIAN" nciodm:ExtCodeID="C147461">
+                    <nciodm:CDISCDefinition>A pediatrician who specializes in diagnosing and treating developmental and behavioral disorders in children.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Developmental Behavioral Pediatrician</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DEVELOPMENTAL PSYCHOLOGIST" nciodm:ExtCodeID="C147462">
+                    <nciodm:CDISCDefinition>A psychologist who specializes in diagnosing and treating emotional and behavioral problems associated with developmental delay or disability.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Developmental Psychologist</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="FORENSIC PATHOLOGIST" nciodm:ExtCodeID="C142333">
                     <nciodm:CDISCDefinition>A physician specializing in the diagnosis of both the cause of death and the manner of death of another human being.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Forensic Pathologist</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HEMATOLOGIST" nciodm:ExtCodeID="C17831">
+                    <nciodm:CDISCDefinition>A doctor who specializes in diagnosing and treating diseases and disorders of the blood and blood-forming organs. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Hematologist</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="MICROSCOPIST" nciodm:ExtCodeID="C132303">
                     <nciodm:CDISCDefinition>A health care professional trained in the visualization of structures too small to be seen by the naked eye, using various microscopic techniques.</nciodm:CDISCDefinition>
@@ -70,6 +86,10 @@
                     <nciodm:CDISCDefinition>A physician who specializes in the science of pathology.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Pathologist</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="PEDIATRIC NEUROLOGIST" nciodm:ExtCodeID="C147463">
+                    <nciodm:CDISCDefinition>A neurologist who specializes in diagnosing and treating children.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Pediatric Neurologist</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="RADIOLOGIST" nciodm:ExtCodeID="C17824">
                     <nciodm:CDISCDefinition>A physician who specializes in the diagnostic and/or therapeutic uses of radiation. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Radiologist</nciodm:PreferredTerm>
@@ -109,6 +129,10 @@
                 <EnumeratedItem CodedValue="READER 3" nciodm:ExtCodeID="C139209">
                     <nciodm:CDISCDefinition>A reader performing the assessment that is given the designation of three.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Reader 3</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UROLOGIST" nciodm:ExtCodeID="C17826">
+                    <nciodm:CDISCDefinition>A doctor who specializes in diseases of the urinary organs in females and the genitourinary organs in males.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Urologist</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <nciodm:CDISCSubmissionValue>MEDEVAL</nciodm:CDISCSubmissionValue>
                 <nciodm:CDISCSynonym>Medical Evaluator</nciodm:CDISCSynonym>

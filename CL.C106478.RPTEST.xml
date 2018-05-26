@@ -32,6 +32,11 @@
                     <nciodm:CDISCDefinition>An approximate calculation of the gestational age of the fetus.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Estimated Gestational Age</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="Interpretation" nciodm:ExtCodeID="C41255">
+                    <nciodm:CDISCSynonym>Interpretation</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An act or process of elucidation; explication, or explanation of the meaning of the event or thing via the assignment of objects from the domain to the constants of a formal language, truth-values to the proposition symbols, truth-functions to the connectives, other functions to the function symbols, and extensions to the predicates, if any. The assignments are result of human logic application and are not native to the symbols of the formal language.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Interpretation</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="Last Menstrual Period Start Date" nciodm:ExtCodeID="C81257">
                     <nciodm:CDISCSynonym>Last Menstrual Period Start Date</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The first day of the most recent menstrual cycle.</nciodm:CDISCDefinition>
@@ -151,6 +156,11 @@
                     <nciodm:CDISCSynonym>Stillbirth Indicator</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>An indication as to whether any pregnancies resulted in stillbirths.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Stillbirth Indicator</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Thickness" nciodm:ExtCodeID="C41145">
+                    <nciodm:CDISCSynonym>Thickness</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The dimension between two surfaces of an object, usually the smallest dimension as opposed to the width or the length.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Thickness</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <nciodm:CDISCSubmissionValue>RPTEST</nciodm:CDISCSubmissionValue>
                 <nciodm:CDISCSynonym>Reproductive System Findings Test Name</nciodm:CDISCSynonym>

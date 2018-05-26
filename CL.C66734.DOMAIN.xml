@@ -4,32 +4,87 @@
                 </Description>
                 <EnumeratedItem CodedValue="AD" nciodm:ExtCodeID="C49563">
                     <nciodm:CDISCSynonym>Analysis Dataset</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Datasets used for statistical analysis and reporting by the sponsor. These are submitted in addition to the data tabulation datasets.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A two-letter prefix used to denote ADaM-compliant analysis datasets used for statistical analysis and reporting by the sponsor. These are submitted in addition to the data tabulation datasets.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Analysis Dataset Domain</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="AE" nciodm:ExtCodeID="C49562">
                     <nciodm:CDISCSynonym>Adverse Events</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Adverse events may be captured either as free text or a pre-specified list of terms.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>An events domain that contains data describing untoward medical occurrences in a patient or subjects that are administered a pharmaceutical product and which may not necessarily have a causal relationship with the treatment.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Adverse Event Domain</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="AG" nciodm:ExtCodeID="C117755">
                     <nciodm:CDISCSynonym>Procedure Agents</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A domain for the agents administered to the subject as part of a procedure or assessment as opposed to drugs, medications and therapies administered with therapeutic intent.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>An interventions domain that contains the agents administered to the subject as part of a procedure or assessment, as opposed to drugs, medications and therapies administered with therapeutic intent.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Procedure Agents Domain</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="APAE" nciodm:ExtCodeID="C147168">
+                    <nciodm:CDISCSynonym>Associated Persons Adverse Events</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The adverse events domain for those persons associated with the study itself, a particular study subject, or a device used in the study.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Associated Persons Adverse Events Domain</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="APBS" nciodm:ExtCodeID="C147169">
+                    <nciodm:CDISCSynonym>Associated Persons Biospecimen</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The biospecimen domain for those persons associated with the study itself, a particular study subject, or a device used in the study.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Associated Persons Biospecimen Domain</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="APDD" nciodm:ExtCodeID="C147170">
+                    <nciodm:CDISCSynonym>Associated Persons Death Details</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The death details domain for those persons associated with the study itself, a particular study subject, or a device used in the study.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Associated Persons Death Details Domain</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="APDM" nciodm:ExtCodeID="C132354">
                     <nciodm:CDISCSynonym>Associated Persons Demographics</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The demographics domain for those persons associated with the study itself, a particular study subject, or a device used in the study.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Associated Persons Demographics Submission Domain</nciodm:PreferredTerm>
                 </EnumeratedItem>
-                <EnumeratedItem CodedValue="AU" nciodm:ExtCodeID="C49565">
-                    <nciodm:CDISCSynonym>Autopsy</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Additional data about deaths, specific to findings from autopsies.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Autopsy Domain</nciodm:PreferredTerm>
+                <EnumeratedItem CodedValue="APEX" nciodm:ExtCodeID="C147171">
+                    <nciodm:CDISCSynonym>Associated Persons Exposure</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The exposure domain for those persons associated with the study itself, a particular study subject, or a device used in the study.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Associated Persons Exposure Domain</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="APLB" nciodm:ExtCodeID="C147172">
+                    <nciodm:CDISCSynonym>Associated Persons Laboratory Test Results</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The laboratory test results domain for those persons associated with the study itself, a particular study subject, or a device used in the study.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Associated Persons Laboratory Test Results Domain</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="APMH" nciodm:ExtCodeID="C147173">
+                    <nciodm:CDISCSynonym>Associated Persons Medical History</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The medical history domain for those persons associated with the study itself, a particular study subject, or a device used in the study.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Associated Persons Medical History Domain</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="APQS" nciodm:ExtCodeID="C147174">
+                    <nciodm:CDISCSynonym>Associated Persons Questionnaires</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The questionnaires domain for those persons associated with the study itself, a particular study subject, or a device used in the study.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Associated Persons Questionnaires Domain</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="APRELSUB" nciodm:ExtCodeID="C147175">
+                    <nciodm:CDISCSynonym>Relationship between Associated Persons and Subjects</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A dataset used to represent relationships between associated persons (individuals who are not study subjects, but about whom data is collected) and study subjects.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Relationship between Associated Persons and Subjects Domain</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="APRP" nciodm:ExtCodeID="C147176">
+                    <nciodm:CDISCSynonym>Associated Persons Reproductive System Findings</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The reproductive system findings domain for those persons associated with the study itself, a particular study subject, or a device used in the study.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Associated Persons Reproductive System Findings Domain</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="APSC" nciodm:ExtCodeID="C147177">
+                    <nciodm:CDISCSynonym>Associated Persons Subject Characteristics</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The subject characteristics domain for those persons associated with the study itself, a particular study subject, or a device used in the study.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Associated Persons Subject Characteristics Domain</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="APSS" nciodm:ExtCodeID="C147178">
+                    <nciodm:CDISCSynonym>Associated Persons Subject Status</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The subject status domain for those persons associated with the study itself, a particular study subject, or a device used in the study.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Associated Persons Subject Status Domain</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="APSU" nciodm:ExtCodeID="C147179">
+                    <nciodm:CDISCSynonym>Associated Persons Substance Use</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The substance use domain for those persons associated with the study itself, a particular study subject, or a device used in the study.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Associated Persons Substance Use Domain</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="AX" nciodm:ExtCodeID="C111282">
-                    <nciodm:CDISCSynonym>Non-Compliant ADaM Datasets</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Prefix to indicate an analysis dataset that is not compliant with a defined ADaM structure.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCSynonym>Non-Compliant ADaM Dataset</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A two-letter prefix used to denote an analysis dataset that is not compliant with a defined ADaM structure.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Non-Compliant ADaM Datasets Domain</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="BE" nciodm:ExtCodeID="C111138">
@@ -37,170 +92,141 @@
                     <nciodm:CDISCDefinition>An events domain that documents biospecimen collection and storage information.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Biospecimen Events Domain</nciodm:PreferredTerm>
                 </EnumeratedItem>
-                <EnumeratedItem CodedValue="BM" nciodm:ExtCodeID="C49566">
-                    <nciodm:CDISCSynonym>Bone Measurements</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Findings resulting from evaluations of bone mineral density.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Bone Measurements Domain</nciodm:PreferredTerm>
-                </EnumeratedItem>
-                <EnumeratedItem CodedValue="BR" nciodm:ExtCodeID="C49567">
-                    <nciodm:CDISCSynonym>Biopsy</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Findings resulting from biopsies.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Biopsy Domain</nciodm:PreferredTerm>
-                </EnumeratedItem>
                 <EnumeratedItem CodedValue="BS" nciodm:ExtCodeID="C111137">
-                    <nciodm:CDISCSynonym>Biospecimen</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Biospecimen Findings</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A findings domain that documents biospecimen handling information.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Biospecimen Domain</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="CE" nciodm:ExtCodeID="C85441">
                     <nciodm:CDISCSynonym>Clinical Events</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A dataset used to capture clinical events of interest that would not be classified as adverse events.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>An events domain that contains clinical events of interest that would not be classified as adverse events.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Clinical Events Domain</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="CM" nciodm:ExtCodeID="C49568">
-                    <nciodm:CDISCSynonym>Concomitant Meds</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Case report form (CRF) data that captures the Concomitant and Prior Medications/Therapies used by the subject. Examples are the Concomitant Medications/Therapies given on an as needed basis and the usual Background Medications/Therapies given for a condition.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCSynonym>Concomitant/Prior Medications</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An interventions domain that contains concomitant and prior medications used by the subject, such as those given on an as needed basis or condition-appropriate medications.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Concomitant Medication Domain</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="CO" nciodm:ExtCodeID="C49569">
                     <nciodm:CDISCSynonym>Comments</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>The Comments dataset accommodates two sources of comments: 1) those collected alongside other data on topical case report form (CRF) pages such as Adverse Events and 2) those collected on a separate page specifically dedicated to comments.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A special-purpose domain that contains comments that may be collected alongside other data.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Comment Domain</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="CV" nciodm:ExtCodeID="C102605">
                     <nciodm:CDISCSynonym>Cardiovascular System Findings</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A domain for physiological findings related to the cardiovascular system, including the heart, blood vessels and lymphatic vessels.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A findings domain that contains physiological and morphological findings related to the cardiovascular system, including the heart, blood vessels and lymphatic vessels.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Cardiovascular System Findings Domain</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="DA" nciodm:ExtCodeID="C49578">
                     <nciodm:CDISCSynonym>Drug Accountability</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Data regarding the accountability of study drug, such as information on the receipt, dispensing, return, and packaging.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>An events domain that contains the accountability of study drug, such as information on the receipt, dispensing, return, and packaging.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Drug Accountability Domain</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="DD" nciodm:ExtCodeID="C95087">
-                    <nciodm:CDISCSynonym>Death Diagnosis</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>This domain captures the diagnosis of the cause of death for a subject.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCSynonym>Death Details</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Death Diagnosis and Details</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An events domain that contains the diagnosis of the cause of death for a subject.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Death Diagnosis Domain</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="DE" nciodm:ExtCodeID="C102616">
                     <nciodm:CDISCSynonym>Device Events</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A domain for device-related events.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>An events domain that contains data for device-related events.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Device Events Domain</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="DI" nciodm:ExtCodeID="C102618">
                     <nciodm:CDISCSynonym>Device Identifiers</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A domain for the submission of information that identifies a specific device unit.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A special-purpose domain containing information that identifies a specific device unit.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Device Identifiers Domain</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="DM" nciodm:ExtCodeID="C49572">
                     <nciodm:CDISCSynonym>Demographics</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>The Demographics domain includes a set of essential standard variables that describe each subject in a clinical study. It is the parent domain for all other observations for human clinical subjects.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A special-purpose domain that includes a set of essential standard variables that describe each subject in a clinical study. It is the parent domain for all other observations for human clinical subjects.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Demographics Domain</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="DO" nciodm:ExtCodeID="C102619">
                     <nciodm:CDISCSynonym>Device Properties</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A domain for the characteristics of the device that do not vary over the course of the study.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A findings domain that contains the device characteristics that do not vary over the course of the study.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Device Properties Domain</nciodm:PreferredTerm>
                 </EnumeratedItem>
-                <EnumeratedItem CodedValue="DP" nciodm:ExtCodeID="C95088">
-                    <nciodm:CDISCSynonym>Developmental Milestone</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>This domain captures the outcome of developmental milestone testing during a scheduled period of observation.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Developmental Milestone Domain</nciodm:PreferredTerm>
-                </EnumeratedItem>
                 <EnumeratedItem CodedValue="DR" nciodm:ExtCodeID="C102620">
-                    <nciodm:CDISCSynonym>Device to Subject Relationship</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A domain for the linkage of each subject to the device(s) to which they may have been exposed.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCSynonym>Device-Subject Relationships</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A special-purpose domain that contains the linkage of each subject to the device(s) to which they may have been exposed during the study.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Device to Subject Relationship Domain</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="DS" nciodm:ExtCodeID="C49576">
                     <nciodm:CDISCSynonym>Disposition</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A subject domain utilized for the submission of information encompassing and representing data, vocabulary or records related to disposition. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>An events domain that contains information encompassing and representing data related to subject disposition.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Disposition Domain</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="DT" nciodm:ExtCodeID="C102621">
                     <nciodm:CDISCSynonym>Device Tracking and Disposition</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A domain for logistics and disposition information specific to a given device.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A events domain that contains the logistics and disposition information specific to a given device.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Device Tracking and Disposition Domain</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="DU" nciodm:ExtCodeID="C102622">
-                    <nciodm:CDISCSynonym>Device-In-Use</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A domain for the findings for the values of measurements and settings that are intentionally set on a device when it is in use. These are characteristics that exist for the device, and have a specific setting for a use instance.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCSynonym>Device In-Use</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A findings domain that contains the measurements and settings that are intentionally set on a device when it is in use. These are characteristics that exist for the device, and have a specific setting for a use instance.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Device-In-Use Domain</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="DV" nciodm:ExtCodeID="C49585">
                     <nciodm:CDISCSynonym>Protocol Deviations</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>The intent of the domain is to capture protocol violations and deviations during the course of the study and will store only those criteria violation by or deviated from by the subject and not a response to each violation or deviation.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>An events domain that contains protocol violations and deviations during the course of the study.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Protocol Deviations Domain</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="DX" nciodm:ExtCodeID="C102617">
                     <nciodm:CDISCSynonym>Device Exposure</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A domain for a subject's exposure to a medical device under study.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>An interventions domain that contains a subject's exposure to a medical device under study.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Device Exposure Domain</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EC" nciodm:ExtCodeID="C117466">
+                    <nciodm:CDISCSynonym>Exposure as Collected</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An interventions domain that contains information about protocol-specified study treatment administrations, as collected.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Exposure as Collected Domain</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="ED" nciodm:ExtCodeID="C102630">
                     <nciodm:CDISCSynonym>Endocrine System Findings</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A domain for physiological findings related to the endocrine system, including the glands and cells that make hormones that are released directly into the blood and travel to tissues and organs all over the body.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A findings domain that contains physiological and morphological findings related to the endocrine system, including the glands and cells that make hormones that are released directly into the blood and travel to tissues and organs all over the body.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Endocrine System Findings Domain</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="EG" nciodm:ExtCodeID="C49626">
-                    <nciodm:CDISCSynonym>Electrocardiogram</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Findings related to the collection of ECG data, including position of the subject, method of evaluation, all cycle measurements and all findings from the ECG including an overall interpretation if collected or derived.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCSynonym>ECG Test Results</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A findings domain that contains ECG data, including position of the subject, method of evaluation, all cycle measurements and all findings from the ECG including an overall interpretation if collected or derived.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Electrocardiogram Domain</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="EX" nciodm:ExtCodeID="C49587">
                     <nciodm:CDISCSynonym>Exposure</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>The Exposure domain model records the details of a subject's exposure to protocol-specified study treatment. Study treatment may be any intervention that is prospectively defined as a test material within a study, and is typically but not always supplied to the subject.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>An interventions domain that contains the details of a subject's exposure to protocol-specified study treatment. Study treatment may be any intervention that is prospectively defined as a test material within a study, and is typically but not always supplied to the subject.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Exposure Domain</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="FA" nciodm:ExtCodeID="C85442">
                     <nciodm:CDISCSynonym>Findings About Events or Interventions</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A dataset used to capture the findings about an event or intervention that cannot be represented within an event or intervention record or as a supplemental qualifier.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A findings domain that contains the findings about an event or intervention that cannot be represented within an events or interventions domain record or as a supplemental qualifier.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Findings About Events or Interventions Domain</nciodm:PreferredTerm>
-                </EnumeratedItem>
-                <EnumeratedItem CodedValue="FH" nciodm:ExtCodeID="C49588">
-                    <nciodm:CDISCSynonym>Family History</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A subject domain utilized for the submission of information encompassing and representing data, vocabulary or records related to family history. (NCI)</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Family History Domain</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="FT" nciodm:ExtCodeID="C117756">
                     <nciodm:CDISCSynonym>Functional Tests</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A domain for named, stand-alone task-based evaluations designed to provide an assessment of mobility, dexterity, or cognitive ability.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A findings domain that contains data for named, stand-alone, task-based evaluations designed to provide an assessment of mobility, dexterity, or cognitive ability.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Functional Tests Domain</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="GI" nciodm:ExtCodeID="C102640">
                     <nciodm:CDISCSynonym>Gastrointestinal System Findings</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A domain for physiological findings related to the gastrointestinal system, including the esophagus, stomach, small and large intestine, anus, liver, biliary tract and pancreas.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A findings domain that contains physiological and morphological findings related to the gastrointestinal system, including the esophagus, stomach, small and large intestine, anus, liver, biliary tract and pancreas.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Digestive System Findings Domain</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="HM" nciodm:ExtCodeID="C102641">
                     <nciodm:CDISCSynonym>Hematopoietic System Findings</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A domain for physiological findings related to the hematopoietic system, including the bone marrow and lymph nodes involved in the production of blood.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A findings domain that contains physiological and morphological findings related to the hematopoietic system, including the bone marrow and lymph nodes involved in the production of blood.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Hematopoietic System Findings Domain</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="HO" nciodm:ExtCodeID="C117757">
                     <nciodm:CDISCSynonym>Healthcare Encounters</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A domain for inpatient and outpatient healthcare events.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A events domain that contains data for inpatient and outpatient healthcare events (e.g., hospitalization, nursing home stay, rehabilitation facility stay, ambulatory surgery).</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Healthcare Encounters Domain</nciodm:PreferredTerm>
                 </EnumeratedItem>
-                <EnumeratedItem CodedValue="HU" nciodm:ExtCodeID="C49589">
-                    <nciodm:CDISCSynonym>Healthcare Resource Utilization</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Healthcare resource utilization data such as subject visits to physicians, hospitalizations, and nursing home stays.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Healthcare Resource Utilization Domain</nciodm:PreferredTerm>
-                </EnumeratedItem>
                 <EnumeratedItem CodedValue="IE" nciodm:ExtCodeID="C61536">
-                    <nciodm:CDISCSynonym>Inclusion/Exclusion</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>The intent of the domain model is to only collect those criteria that cause the subject to be in violation of the inclusion/exclusion criteria not a response to each criterion.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Inclusion Exclusion Domain</nciodm:PreferredTerm>
-                </EnumeratedItem>
-                <EnumeratedItem CodedValue="IG" nciodm:ExtCodeID="C102651">
-                    <nciodm:CDISCSynonym>Integumentary System Findings</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A domain for physiological findings related to the integumentary system, including the epidermis, dermis, all of the derivatives of the epidermis, hairs, nails, sudoriferous and sebaceous glands, and mammary glands.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Integumentary System Findings Domain</nciodm:PreferredTerm>
-                </EnumeratedItem>
-                <EnumeratedItem CodedValue="IM" nciodm:ExtCodeID="C102649">
-                    <nciodm:CDISCSynonym>Immune System Findings</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A domain for physiological findings related to the immune system, including the thymus, spleen and tonsils.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Immune System Findings Domain</nciodm:PreferredTerm>
+                    <nciodm:CDISCSynonym>Inclusion/Exclusion Criteria Not Met</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A findings domain that contains those criteria that cause the subject to be in violation of the inclusion/exclusion criteria.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Inclusion Exclusion Criteria Not Met Domain</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="IS" nciodm:ExtCodeID="C112320">
                     <nciodm:CDISCSynonym>Immunogenicity Specimen Assessments</nciodm:CDISCSynonym>
@@ -208,49 +234,49 @@
                     <nciodm:PreferredTerm>Immunogenicity Specimen Assessments Domain</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="LB" nciodm:ExtCodeID="C49592">
-                    <nciodm:CDISCSynonym>Laboratory Data</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Laboratory test findings including, but is not limited to hematology, clinical chemistry and urinalysis data. This domain does not include microbiology or pharmacokinetic data, which are stored in separate domains.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCSynonym>Laboratory Test Results</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A findings domain that contains laboratory test data such as hematology, clinical chemistry and urinalysis. This domain does not include microbiology or pharmacokinetic data, which are stored in separate domains.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Laboratory Data Domain</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="MB" nciodm:ExtCodeID="C49602">
-                    <nciodm:CDISCSynonym>Microbiology</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Microbiology specimen findings, including gram stain results, and organisms found.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCSynonym>Microbiology Specimen</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A findings domain that represents non-host organisms identified including bacteria, viruses, parasites, protozoa and fungi.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Microbiology Specimen Domain</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="MH" nciodm:ExtCodeID="C49603">
                     <nciodm:CDISCSynonym>Medical History</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>The medical history dataset includes the subject's prior history at the start of the trial. Examples of subject medical history information could include general medical history, gynecological history, and primary diagnosis.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>An events domain that contains data that includes the subject's prior medical history at the start of the trial.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Medical History Domain</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="MI" nciodm:ExtCodeID="C95095">
                     <nciodm:CDISCSynonym>Microscopic Findings</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>The histopathology findings and microscopic evaluations recorded.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A findings domain that contains histopathology findings and microscopic evaluations.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Microscopic Findings Domain</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="MK" nciodm:ExtCodeID="C102674">
-                    <nciodm:CDISCSynonym>Musculoskeletal Findings, Connective and Soft Tissue Findings</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A domain for morphological and physiological findings related to the system of muscles, tendons, ligaments, bones, joints and associated tissues.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCSynonym>Musculoskeletal System Findings</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A findings domain that contains physiological and morphological findings related to the system of muscles, tendons, ligaments, bones, joints, and associated tissues.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Musculoskeletal Findings, Connective and Soft Tissue Findings Domain</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="ML" nciodm:ExtCodeID="C49604">
                     <nciodm:CDISCSynonym>Meal Data</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Information regarding the subject's meal consumption, such as fluid intake, amounts, form (solid or liquid state), frequency, etc., typically used for pharmacokinetic analysis.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>An interventions domain that contains information describing a subject's food product consumption.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Meal Data Domain</nciodm:PreferredTerm>
-                </EnumeratedItem>
-                <EnumeratedItem CodedValue="MO" nciodm:ExtCodeID="C102671">
-                    <nciodm:CDISCSynonym>Morphology Findings</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A domain relevant to the science of the form and structure of an organism or of its parts.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Morphology Findings Domain</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="MS" nciodm:ExtCodeID="C61531">
                     <nciodm:CDISCSynonym>Microbiology Susceptibility</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>This includes microbiology susceptibility test results, plus results of any other organism-related tests.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A findings domain that represents drug susceptibility testing results only. This includes phenotypic testing (where drug is added directly to a culture of organisms) and genotypic tests that provide results in terms of susceptible or resistant. Drug susceptibility testing may occur on a wide variety of non-host organisms, including bacteria, viruses, fungi, protozoa and parasites.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Microbiology Susceptibility Domain</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="NV" nciodm:ExtCodeID="C102677">
                     <nciodm:CDISCSynonym>Nervous System Findings</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A domain for physiological findings related to the nervous system, including the brain, spinal cord, the cranial and spinal nerves, autonomic ganglia and plexuses.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A findings domain that contains physiological and morphological findings related to the nervous system, including the brain, spinal cord, the cranial and spinal nerves, autonomic ganglia and plexuses.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Nervous System Findings Domain</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="OE" nciodm:ExtCodeID="C147180">
+                    <nciodm:CDISCSynonym>Ophthalmic Examinations</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A findings domain that contains tests that measure a person's ocular health and visual status, to detect abnormalities in the components of the visual system, and to determine how well the person can see.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Ophthalmic Examinations Domain</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="PB" nciodm:ExtCodeID="C106552">
                     <nciodm:CDISCSynonym>Pharmacogenomics Biomarker</nciodm:CDISCSynonym>
@@ -258,63 +284,68 @@
                     <nciodm:PreferredTerm>Pharmacogenomics Biomarker Domain</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="PC" nciodm:ExtCodeID="C49606">
-                    <nciodm:CDISCSynonym>Pharmacokinetic Concentration</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Concentrations of drugs/metabolites in fluids or tissues as a function of time.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCSynonym>Pharmacokinetics Concentrations</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A findings domain that contains concentrations of drugs or metabolites in fluids or tissues as a function of time.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Pharmacokinetic Concentration Domain</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="PE" nciodm:ExtCodeID="C49608">
-                    <nciodm:CDISCSynonym>Physical Exam</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Findings collected during a physical examination of the subject. It has findings that are discovered that are related to body systems. Does not include vital signs measurements, which are stored in the vital signs domain.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCSynonym>Physical Examination</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A findings domain that contains findings observed during a physical examination where the body is evaluated by inspection, palpation, percussion, and auscultation.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Physical Exam Domain</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="PF" nciodm:ExtCodeID="C111289">
-                    <nciodm:CDISCSynonym>Pharmacogenomics Findings</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Pharmacogenomics/Genetics Findings</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A findings domain for gene expression and genetic variation assessments.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Pharmacogenomics Findings Domain</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="PG" nciodm:ExtCodeID="C61529">
                     <nciodm:CDISCSynonym>Pharmacogenomics/Genetics Methods and Supporting Information</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Pharmacogenomics findings that initially focus on genotype and gene expression data.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A findings domain that contains supporting information for pharmacogenomics/genetics findings that applies to the entire test and not an individual findings result.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Pharmacogenomics Domain</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="POOLDEF" nciodm:ExtCodeID="C147181">
+                    <nciodm:CDISCSynonym>Pool Definition</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A dataset that identifies individual subjects included in a pool of subjects for which a single observation record (pool level) is captured.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Pool Definition Dataset</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="PP" nciodm:ExtCodeID="C49607">
                     <nciodm:CDISCSynonym>Pharmacokinetic Parameters</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Pharmacokinetic parameters derived from pharmacokinetic concentration-time (PC) data.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A findings domain that contains pharmacokinetic parameters derived from pharmacokinetic concentration-time (PC) data.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Pharmacokinetic Parameters Domain</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="PR" nciodm:ExtCodeID="C102700">
-                    <nciodm:CDISCSynonym>Procedure</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A domain relevant to an interventional activity that is intended to have diagnostic, preventive, therapeutic, or palliative effects.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCSynonym>Procedures</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An interventions domain that contains interventional activity intended to have diagnostic, preventive, therapeutic, or palliative effects.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Procedure Domain</nciodm:PreferredTerm>
-                </EnumeratedItem>
-                <EnumeratedItem CodedValue="PS" nciodm:ExtCodeID="C111300">
-                    <nciodm:CDISCSynonym>Protocol Summary for PGx</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A special purpose domain that contains the protocol summary information for pharmacogenomics assessments.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Protocol Summary for Pharmacogenomic Assessments Domain</nciodm:PreferredTerm>
-                </EnumeratedItem>
-                <EnumeratedItem CodedValue="PT" nciodm:ExtCodeID="C111290">
-                    <nciodm:CDISCSynonym>Pharmacogenomics Trial Characteristics</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A special purpose domain that contains design parameters used in performing pharmacogenomic assessments.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Pharmacogenomics Trial Characteristics Domain</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="QS" nciodm:ExtCodeID="C49609">
                     <nciodm:CDISCSynonym>Questionnaires</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Questionnaires are named, stand-alone instruments designed to provide an assessment of a concept. Questionnaires have a defined standard structure, format, and content; consist of conceptually related items that are typically scored; and have documented methods for administration and analysis. Most often, questionnaires have as their primary purpose the generation of a quantitative statistic to assess a qualitative concept.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A findings domain that contains data for named, stand-alone instruments designed to provide an assessment of a concept. Questionnaires have a defined standard structure, format, and content; consist of conceptually related items that are typically scored; and have documented methods for administration and analysis.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Questionnaire Domain</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="RE" nciodm:ExtCodeID="C95098">
                     <nciodm:CDISCSynonym>Respiratory System Findings</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A domain for physiological findings related to the respiratory system, including the organs that are involved in breathing such as the nose, throat, larynx, trachea, bronchi and lungs.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A findings domain that contains physiological and morphological findings related to the respiratory system, including the organs that are involved in breathing such as the nose, throat, larynx, trachea, bronchi and lungs.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Respiratory Domain</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="RELREC" nciodm:ExtCodeID="C147182">
+                    <nciodm:CDISCSynonym>Related Records</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A dataset used to describe relationships between records for a subject within or across domains, and relationships of records across datasets.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Related Records Dataset</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="RELSUB" nciodm:ExtCodeID="C147183">
+                    <nciodm:CDISCSynonym>Related Subjects</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A dataset used to represent relationships between study subjects.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Related Subjects Dataset</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="RP" nciodm:ExtCodeID="C102707">
                     <nciodm:CDISCSynonym>Reproductive System Findings</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A domain for physiological findings related to the male and female reproductive systems.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A findings domain that contains physiological and morphological findings related to the male and female reproductive systems.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Reproductive System Findings Domain</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="RS" nciodm:ExtCodeID="C107097">
                     <nciodm:CDISCSynonym>Disease Response and Clin Classification</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A domain for the assessment of disease response to therapy, or clinical classification, based on published criteria.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A findings domain for the assessment of disease response to therapy, or clinical classification based on published criteria.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Disease Response Domain</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="SB" nciodm:ExtCodeID="C106571">
@@ -324,107 +355,522 @@
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="SC" nciodm:ExtCodeID="C49610">
                     <nciodm:CDISCSynonym>Subject Characteristics</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>The subject characteristics domain is for data not collected in other domains that is subject-related.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A findings domain that contains subject-related data not collected in other domains.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Subject Characteristics Domain</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="SE" nciodm:ExtCodeID="C49616">
-                    <nciodm:CDISCSynonym>Subject Element</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>The subject element table describes the actual order of elements followed by the subject, together with the start date/time and end date/time for each element.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCSynonym>Subject Elements</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A special-purpose domain that contains the actual order of elements followed by the subject, together with the start date/time and end date/time for each element.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Subject Element Domain</nciodm:PreferredTerm>
                 </EnumeratedItem>
-                <EnumeratedItem CodedValue="SG" nciodm:ExtCodeID="C49611">
-                    <nciodm:CDISCSynonym>Surgery</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Surgical information.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Surgery Domain</nciodm:PreferredTerm>
-                </EnumeratedItem>
-                <EnumeratedItem CodedValue="SK" nciodm:ExtCodeID="C49612">
-                    <nciodm:CDISCSynonym>Skin Test</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Findings from diagnostic skin tests.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Skin Test Domain</nciodm:PreferredTerm>
-                </EnumeratedItem>
-                <EnumeratedItem CodedValue="SL" nciodm:ExtCodeID="C49613">
-                    <nciodm:CDISCSynonym>Sleep Polysomnography Data</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Findings from diagnostic sleep tests (polysomnography).</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Sleep Polysomnography Domain</nciodm:PreferredTerm>
+                <EnumeratedItem CodedValue="SM" nciodm:ExtCodeID="C147184">
+                    <nciodm:CDISCSynonym>Subject Disease Milestones</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A special-purpose domain that is designed to record the timing, for each subject, of disease milestones that have been defined in the Trial Disease Milestones (TM) domain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Subject Disease Milestones Domain</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="SR" nciodm:ExtCodeID="C112420">
                     <nciodm:CDISCSynonym>Skin Response</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A findings about domain for submitting dermal responses to antigens.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Skin Response Domain</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="SS" nciodm:ExtCodeID="C117655">
+                    <nciodm:CDISCSynonym>Subject Status</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A findings domain that contains general subject characteristics that are evaluated periodically to determine if they have changed.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Subject Status Domain</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="SU" nciodm:ExtCodeID="C49615">
                     <nciodm:CDISCSynonym>Substance Use</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>The intent of the domain is to capture substance use information that may be used to assess the efficacy and/or safety of therapies that look to mitigate the effects of chronic substance use.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>An interventions domain that contains substance use information that may be used to assess the efficacy and/or safety of therapies that look to mitigate the effects of chronic substance use.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Substance Use Domain</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUPPAE" nciodm:ExtCodeID="C147185">
+                    <nciodm:CDISCSynonym>Supplemental Qualifiers for Adverse Events</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A dataset used to represent non-standard variables and their association to parent records in the Adverse Events domain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Adverse Events Supplemental Qualifiers Dataset</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUPPAG" nciodm:ExtCodeID="C147186">
+                    <nciodm:CDISCSynonym>Supplemental Qualifiers for Procedure Agents</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A dataset used to represent non-standard variables and their association to parent records in the Procedure Agents domain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Procedure Agents Supplemental Qualifiers Dataset</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUPPBE" nciodm:ExtCodeID="C147187">
+                    <nciodm:CDISCSynonym>Supplemental Qualifiers for Biospecimen Events</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A dataset used to represent non-standard variables and their association to parent records in the Biospecimen Events domain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Biospecimen Events Supplemental Qualifiers Dataset</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUPPBG" nciodm:ExtCodeID="C147188">
+                    <nciodm:CDISCSynonym>Supplemental Qualifiers for Body Weight Gain</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A dataset used to represent non-standard variables and their association to parent records in the Body Weight Gain domain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Body Weight Gain Supplemental Qualifiers Dataset</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUPPBS" nciodm:ExtCodeID="C147189">
+                    <nciodm:CDISCSynonym>Supplemental Qualifiers for Biospecimen Findings</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A dataset used to represent non-standard variables and their association to parent records in the Biospecimen Findings domain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Biospecimen Findings Supplemental Qualifiers Dataset</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUPPBW" nciodm:ExtCodeID="C147190">
+                    <nciodm:CDISCSynonym>Supplemental Qualifiers for Body Weight</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A dataset used to represent non-standard variables and their association to parent records in the Body Weight domain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Body Weight Supplemental Qualifiers Dataset</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUPPCE" nciodm:ExtCodeID="C147191">
+                    <nciodm:CDISCSynonym>Supplemental Qualifiers for Clinical Events</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A dataset used to represent non-standard variables and their association to parent records in the Clinical Events domain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Clinical Events Supplemental Qualifiers Dataset</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUPPCL" nciodm:ExtCodeID="C147192">
+                    <nciodm:CDISCSynonym>Supplemental Qualifiers for Clinical Observations</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A dataset used to represent non-standard variables and their association to parent records in the Clinical Observations domain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Clinical Observations Supplemental Qualifiers Dataset</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUPPCM" nciodm:ExtCodeID="C147193">
+                    <nciodm:CDISCSynonym>Supplemental Qualifiers for Concomitant/Prior Medications</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A dataset used to represent non-standard variables and their association to parent records in the Concomitant/Prior Medications domain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Concomitant and Prior Medications Supplemental Qualifiers Dataset</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUPPCO" nciodm:ExtCodeID="C147194">
+                    <nciodm:CDISCSynonym>Supplemental Qualifiers for Comments</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A dataset used to represent non-standard variables and their association to parent records in the Comments domain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Comments Supplemental Qualifiers Dataset</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUPPCV" nciodm:ExtCodeID="C147195">
+                    <nciodm:CDISCSynonym>Supplemental Qualifiers for Cardiovascular System Findings</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A dataset used to represent non-standard variables and their association to parent records in the Cardiovascular System Findings (human clinical trials) domain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Cardiovascular System Findings Supplemental Qualifiers Dataset</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUPPDA" nciodm:ExtCodeID="C147196">
+                    <nciodm:CDISCSynonym>Supplemental Qualifiers for Drug Accountability</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A dataset used to represent non-standard variables and their association to parent records in the Drug Accountability domain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Drug Accountability Supplemental Qualifiers Dataset</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUPPDD" nciodm:ExtCodeID="C147197">
+                    <nciodm:CDISCSynonym>Supplemental Qualifiers for Death Details (human clinical trials)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A dataset used to represent non-standard variables and their association to parent records in the Death Details (human clinical trials) domain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Death Details (human clinical trials) Supplemental Qualifiers Dataset</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUPPDE" nciodm:ExtCodeID="C147198">
+                    <nciodm:CDISCSynonym>Supplemental Qualifiers for Device Events</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A dataset used to represent non-standard variables and their association to parent records in the Device Events domain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Device Events Supplemental Qualifiers Dataset</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUPPDI" nciodm:ExtCodeID="C147199">
+                    <nciodm:CDISCSynonym>Supplemental Qualifiers for Device Identifiers</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A dataset used to represent non-standard variables and their association to parent records in the Device Identifiers domain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Device Identifiers Supplemental Qualifiers Dataset</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUPPDM" nciodm:ExtCodeID="C147200">
+                    <nciodm:CDISCSynonym>Supplemental Qualifiers for Demographics</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A dataset used to represent non-standard variables and their association to parent records in the Demographics domain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Demographics Supplemental Qualifiers Dataset</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUPPDO" nciodm:ExtCodeID="C147201">
+                    <nciodm:CDISCSynonym>Supplemental Qualifiers for Device Properties</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A dataset used to represent non-standard variables and their association to parent records in the Device Properties domain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Device Properties Supplemental Qualifiers Dataset</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUPPDR" nciodm:ExtCodeID="C147202">
+                    <nciodm:CDISCSynonym>Supplemental Qualifiers for Device Subject Relationships</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A dataset used to represent non-standard variables and their association to parent records in the Device Subject Relationships domain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Device Subject Relationships Supplemental Qualifiers Dataset</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUPPDS" nciodm:ExtCodeID="C147203">
+                    <nciodm:CDISCSynonym>Supplemental Qualifiers for Disposition</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A dataset used to represent non-standard variables and their association to parent records in the Disposition domain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Disposition Supplemental Qualifiers Dataset</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUPPDT" nciodm:ExtCodeID="C147204">
+                    <nciodm:CDISCSynonym>Supplemental Qualifiers for Device Tracking and Disposition</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A dataset used to represent non-standard variables and their association to parent records in the Device Tracking and Disposition domain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Device Tracking and Disposition Supplemental Qualifiers Dataset</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUPPDU" nciodm:ExtCodeID="C147205">
+                    <nciodm:CDISCSynonym>Supplemental Qualifiers for Device In-Use</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A dataset used to represent non-standard variables and their association to parent records in the Device In-Use domain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Device In-Use Supplemental Qualifiers Dataset</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUPPDV" nciodm:ExtCodeID="C147206">
+                    <nciodm:CDISCSynonym>Supplemental Qualifiers for Protocol Deviations</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A dataset used to represent non-standard variables and their association to parent records in the Protocol Deviations domain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Protocol Deviations Supplemental Qualifiers Dataset</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUPPDX" nciodm:ExtCodeID="C147207">
+                    <nciodm:CDISCSynonym>Supplemental Qualifiers for Device Exposure</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A dataset used to represent non-standard variables and their association to parent records in the Device Exposure domain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Device Exposure Supplemental Qualifiers Dataset</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUPPEC" nciodm:ExtCodeID="C147208">
+                    <nciodm:CDISCSynonym>Supplemental Qualifiers for Exposure as Collected</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A dataset used to represent non-standard variables and their association to parent records in the Exposure as Collected domain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Exposure as Collected Supplemental Qualifiers Dataset</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUPPEG" nciodm:ExtCodeID="C147209">
+                    <nciodm:CDISCSynonym>Supplemental Qualifiers for ECG Test Results</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A dataset used to represent non-standard variables and their association to parent records in the ECG Test Results domain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ECG Test Results Supplemental Qualifiers Dataset</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUPPER" nciodm:ExtCodeID="C147210">
+                    <nciodm:CDISCSynonym>Supplemental Qualifiers for Environmental and Social Factors</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A dataset used to represent non-standard variables and their association to parent records in the Environmental and Social Factors domain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Environmental and Social Factors Supplemental Qualifiers Dataset</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUPPEX" nciodm:ExtCodeID="C147211">
+                    <nciodm:CDISCSynonym>Supplemental Qualifiers for Exposure</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A dataset used to represent non-standard variables and their association to parent records in the Exposure domain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Exposure Supplemental Qualifiers Dataset</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUPPFA" nciodm:ExtCodeID="C147212">
+                    <nciodm:CDISCSynonym>Supplemental Qualifiers for Findings About Events or Interventions</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A dataset used to represent non-standard variables and their association to parent records in the Findings About Events or Interventions domain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Findings About Events or Interventions Supplemental Qualifiers Dataset</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUPPFM" nciodm:ExtCodeID="C147213">
+                    <nciodm:CDISCSynonym>Supplemental Qualifiers for Fetal Measurements</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A dataset used to represent non-standard variables and their association to parent records in the Fetal Measurements domain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Fetal Measurements Supplemental Qualifiers Dataset</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUPPFW" nciodm:ExtCodeID="C147214">
+                    <nciodm:CDISCSynonym>Supplemental Qualifiers for Food and Water Consumption</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A dataset used to represent non-standard variables and their association to parent records in the Food and Water Consumption domain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Food and Water Consumption Supplemental Qualifiers Dataset</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUPPFX" nciodm:ExtCodeID="C147215">
+                    <nciodm:CDISCSynonym>Supplemental Qualifiers for Fetal Pathology Findings</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A dataset used to represent non-standard variables and their association to parent records in the Fetal Pathology Findings domain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Fetal Pathology Findings Supplemental Qualifiers Dataset</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUPPHO" nciodm:ExtCodeID="C147216">
+                    <nciodm:CDISCSynonym>Supplemental Qualifiers for Healthcare Encounters</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A dataset used to represent non-standard variables and their association to parent records in the Healthcare Encounters domain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Healthcare Encounters Supplemental Qualifiers Dataset</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUPPIC" nciodm:ExtCodeID="C147217">
+                    <nciodm:CDISCSynonym>Supplemental Qualifiers for Implantation Classification</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A dataset used to represent non-standard variables and their association to parent records in the Implantation Classification domain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Implantation Classification Supplemental Qualifiers Dataset</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUPPIE" nciodm:ExtCodeID="C147218">
+                    <nciodm:CDISCSynonym>Supplemental Qualifiers for Inclusion/Exclusion Criteria Not Met</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A dataset used to represent non-standard variables and their association to parent records in the Inclusion/Exclusion Criteria Not Met domain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Inclusion/Exclusion Criteria Not Met Supplemental Qualifiers Dataset</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUPPIS" nciodm:ExtCodeID="C147219">
+                    <nciodm:CDISCSynonym>Supplemental Qualifiers for Immunogenicity Specimen Assessments</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A dataset used to represent non-standard variables and their association to parent records in the Immunogenicity Specimen Assessments domain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Immunogenicity Specimen Assessments Supplemental Qualifiers Dataset</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUPPLB" nciodm:ExtCodeID="C147220">
+                    <nciodm:CDISCSynonym>Supplemental Qualifiers for Laboratory Test Results</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A dataset used to represent non-standard variables and their association to parent records in the Laboratory Test Results domain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Laboratory Test Results Supplemental Qualifiers Dataset</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUPPMA" nciodm:ExtCodeID="C147221">
+                    <nciodm:CDISCSynonym>Supplemental Qualifiers for Macroscopic Findings</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A dataset used to represent non-standard variables and their association to parent records in the Macroscopic Findings domain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Macroscopic Findings Supplemental Qualifiers Dataset</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUPPMB" nciodm:ExtCodeID="C147222">
+                    <nciodm:CDISCSynonym>Supplemental Qualifiers for Microbiology Specimen</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A dataset used to represent non-standard variables and their association to parent records in the Microbiology domain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Microbiology Specimen Supplemental Qualifiers Dataset</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUPPMH" nciodm:ExtCodeID="C147223">
+                    <nciodm:CDISCSynonym>Supplemental Qualifiers for Medical History</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A dataset used to represent non-standard variables and their association to parent records in the Medical History domain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Medical History Supplemental Qualifiers Dataset</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUPPMI" nciodm:ExtCodeID="C147224">
+                    <nciodm:CDISCSynonym>Supplemental Qualifiers for Microscopic Findings</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A dataset used to represent non-standard variables and their association to parent records in the Microscopic Findings domain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Microscopic Findings Supplemental Qualifiers Dataset</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUPPMK" nciodm:ExtCodeID="C147225">
+                    <nciodm:CDISCSynonym>Supplemental Qualifiers for Musculoskeletal System Findings</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A dataset used to represent non-standard variables and their association to parent records in the Musculoskeletal System Findings domain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Musculoskeletal System Findings Supplemental Qualifiers Dataset</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUPPML" nciodm:ExtCodeID="C147226">
+                    <nciodm:CDISCSynonym>Supplemental Qualifiers for Meal Data</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A dataset used to represent non-standard variables and their association to parent records in the Meal Data domain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Meal Data Supplemental Qualifiers Dataset</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUPPMS" nciodm:ExtCodeID="C147227">
+                    <nciodm:CDISCSynonym>Supplemental Qualifiers for Microbiology Susceptibility</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A dataset used to represent non-standard variables and their association to parent records in the Microbiology Susceptibility domain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Microbiology Susceptibility Supplemental Qualifiers Dataset</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUPPNV" nciodm:ExtCodeID="C147228">
+                    <nciodm:CDISCSynonym>Supplemental Qualifiers for Nervous System Findings</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A dataset used to represent non-standard variables and their association to parent records in the Nervous System Findings domain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Nervous System Findings Supplemental Qualifiers Dataset</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUPPOE" nciodm:ExtCodeID="C147229">
+                    <nciodm:CDISCSynonym>Supplemental Qualifiers for Ophthalmic Examinations</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A dataset used to represent non-standard variables and their association to parent records in the Ophthalmic Examinations domain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Ophthalmic Examinations Supplemental Qualifiers Dataset</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUPPOI" nciodm:ExtCodeID="C147230">
+                    <nciodm:CDISCSynonym>Supplemental Qualifiers for Non-Host Organism Identifiers</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A dataset used to represent non-standard variables and their association to parent records in the Non-Host Organism Identifiers domain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Non-Host Organism Identifiers Supplemental Qualifiers Dataset</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUPPOM" nciodm:ExtCodeID="C147231">
+                    <nciodm:CDISCSynonym>Supplemental Qualifiers for Organ Measurements</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A dataset used to represent non-standard variables and their association to parent records in the Organ Measurements domain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Organ Measurements Supplemental Qualifiers Dataset</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUPPPB" nciodm:ExtCodeID="C147232">
+                    <nciodm:CDISCSynonym>Supplemental Qualifiers for Pharmacogenomics/Genetics Biomarker</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A dataset used to represent non-standard variables and their association to parent records in the Pharmacogenomics/Genetics Biomarker domain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Pharmacogenomics/Genetics Biomarker Supplemental Qualifiers Dataset</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUPPPC" nciodm:ExtCodeID="C147233">
+                    <nciodm:CDISCSynonym>Supplemental Qualifiers for Pharmacokinetics Concentrations</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A dataset used to represent non-standard variables and their association to parent records in the Pharmacokinetics Concentrations domain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Pharmacokinetics Concentrations Supplemental Qualifiers Dataset</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUPPPE" nciodm:ExtCodeID="C147234">
+                    <nciodm:CDISCSynonym>Supplemental Qualifiers for Physical Examination</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A dataset used to represent non-standard variables and their association to parent records in the Physical Examination domain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Physical Examination Supplemental Qualifiers Dataset</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUPPPF" nciodm:ExtCodeID="C147235">
+                    <nciodm:CDISCSynonym>Supplemental Qualifiers for Pharmacogenomics/Genetics Findings</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A dataset used to represent non-standard variables and their association to parent records in the Pharmacogenomics/Genetics Findings domain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Pharmacogenomics/Genetics Findings Supplemental Qualifiers Dataset</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUPPPG" nciodm:ExtCodeID="C147236">
+                    <nciodm:CDISCSynonym>Supplemental Qualifiers for Pharmacogenomics/Genetics Methods and Supporting Information</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A dataset used to represent non-standard variables and their association to parent records in the Pharmacogenomics/Genetics Methods and Supporting Information domain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Pharmacogenomics/Genetics Methods and Supporting Information Supplemental Qualifiers Dataset</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUPPPM" nciodm:ExtCodeID="C147237">
+                    <nciodm:CDISCSynonym>Supplemental Qualifiers for Palpable Masses</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A dataset used to represent non-standard variables and their association to parent records in the Palpable Masses domain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Palpable Masses Supplemental Qualifiers Dataset</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUPPPP" nciodm:ExtCodeID="C147238">
+                    <nciodm:CDISCSynonym>Supplemental Qualifiers for Pharmacokinetic Parameters</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A dataset used to represent non-standard variables and their association to parent records in the Pharmacokinetic Parameters domain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Pharmacokinetic Parameters Supplemental Qualifiers Dataset</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUPPPR" nciodm:ExtCodeID="C147239">
+                    <nciodm:CDISCSynonym>Supplemental Qualifiers for Procedures</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A dataset used to represent non-standard variables and their association to parent records in the Procedures domain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Procedures Supplemental Qualifiers Dataset</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUPPQS" nciodm:ExtCodeID="C147240">
+                    <nciodm:CDISCSynonym>Supplemental Qualifiers for Questionnaires</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A dataset used to represent non-standard variables and their association to parent records in the Questionnaires domain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Questionnaires Supplemental Qualifiers Dataset</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUPPQT" nciodm:ExtCodeID="C147241">
+                    <nciodm:CDISCSynonym>Supplemental Qualifiers for ECG QT Correction Model Data</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A dataset used to represent non-standard variables and their association to parent records in the ECG QT Correction Model Data domain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ECG QT Correction Model Data Supplemental Qualifiers Dataset</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUPPRE" nciodm:ExtCodeID="C147242">
+                    <nciodm:CDISCSynonym>Supplemental Qualifiers for Respiratory Test Results</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A dataset used to represent non-standard variables and their association to parent records in the Respiratory Test Results domain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Respiratory Test Results Supplemental Qualifiers Dataset</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUPPRP" nciodm:ExtCodeID="C147243">
+                    <nciodm:CDISCSynonym>Supplemental Qualifiers for Reproductive System Findings</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A dataset used to represent non-standard variables and their association to parent records in the Reproductive System Findings domain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Reproductive System Findings Supplemental Qualifiers Dataset</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUPPRS" nciodm:ExtCodeID="C147244">
+                    <nciodm:CDISCSynonym>Supplemental Qualifiers for Disease Response</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A dataset used to represent non-standard variables and their association to parent records in the Disease Response domain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Disease Response Supplemental Qualifiers Dataset</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUPPSB" nciodm:ExtCodeID="C147245">
+                    <nciodm:CDISCSynonym>Supplemental Qualifiers for Subject Biomarker</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A dataset used to represent non-standard variables and their association to parent records in the Subject Biomarker domain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Subject Biomarker Supplemental Qualifiers Dataset</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUPPSC" nciodm:ExtCodeID="C147246">
+                    <nciodm:CDISCSynonym>Supplemental Qualifiers for Subject Characteristics</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A dataset used to represent non-standard variables and their association to parent records in the Subject Characteristics domain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Subject Characteristics Supplemental Qualifiers Dataset</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUPPSE" nciodm:ExtCodeID="C147247">
+                    <nciodm:CDISCSynonym>Supplemental Qualifiers for Subject Elements</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A dataset used to represent non-standard variables and their association to parent records in the Subject Elements domain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Subject Elements Supplemental Qualifiers Dataset</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUPPSJ" nciodm:ExtCodeID="C147248">
+                    <nciodm:CDISCSynonym>Supplemental Qualifiers for Subject Stages</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A dataset used to represent non-standard variables and their association to parent records in the Subject Stages domain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Subject Stages Supplemental Qualifiers Dataset</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUPPSM" nciodm:ExtCodeID="C147249">
+                    <nciodm:CDISCSynonym>Supplemental Qualifiers for Subject Disease Milestones</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A dataset used to represent non-standard variables and their association to parent records in the Subject Disease Milestones domain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Subject Disease Milestones Supplemental Qualifiers Dataset</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUPPSR" nciodm:ExtCodeID="C147250">
+                    <nciodm:CDISCSynonym>Supplemental Qualifiers for Skin Response</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A dataset used to represent non-standard variables and their association to parent records in the Skin Response domain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Skin Response Supplemental Qualifiers Dataset</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUPPSS" nciodm:ExtCodeID="C147251">
+                    <nciodm:CDISCSynonym>Supplemental Qualifiers for Subject Status</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A dataset used to represent non-standard variables and their association to parent records in the Subject Status domain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Subject Status Supplemental Qualifiers Dataset</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUPPSU" nciodm:ExtCodeID="C147252">
+                    <nciodm:CDISCSynonym>Supplemental Qualifiers for Substance Use</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A dataset used to represent non-standard variables and their association to parent records in the Substance Use domain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Substance Use Supplemental Qualifiers Dataset</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUPPSV" nciodm:ExtCodeID="C147253">
+                    <nciodm:CDISCSynonym>Supplemental Qualifiers for Subject Visits</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A dataset used to represent non-standard variables and their association to parent records in the Subject Visits domain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Subject Visits Supplemental Qualifiers Dataset</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUPPTA" nciodm:ExtCodeID="C147254">
+                    <nciodm:CDISCSynonym>Supplemental Qualifiers for Trial Arms</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A dataset used to represent non-standard variables and their association to parent records in the Trial Arms domain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Trial Arms Supplemental Qualifiers Dataset</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUPPTD" nciodm:ExtCodeID="C147255">
+                    <nciodm:CDISCSynonym>Supplemental Qualifiers for Trial Disease Assessments</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A dataset used to represent non-standard variables and their association to parent records in the Trial Disease Assessments domain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Trial Disease Assessments Supplemental Qualifiers Dataset</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUPPTE" nciodm:ExtCodeID="C147256">
+                    <nciodm:CDISCSynonym>Supplemental Qualifiers for Trial Elements</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A dataset used to represent non-standard variables and their association to parent records in the Trial Elements domain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Trial Elements Supplemental Qualifiers Dataset</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUPPTF" nciodm:ExtCodeID="C147257">
+                    <nciodm:CDISCSynonym>Supplemental Qualifiers for Tumor Findings</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A dataset used to represent non-standard variables and their association to parent records in the Tumor Findings domain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Tumor Findings Supplemental Qualifiers Dataset</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUPPTI" nciodm:ExtCodeID="C147258">
+                    <nciodm:CDISCSynonym>Supplemental Qualifiers for Trial Inclusion/Exclusion Criteria</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A dataset used to represent non-standard variables and their association to parent records in the Trial Inclusion/Exclusion Criteria domain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Trial Inclusion and Exclusion Criteria Supplemental Qualifiers Dataset</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUPPTM" nciodm:ExtCodeID="C147259">
+                    <nciodm:CDISCSynonym>Supplemental Qualifiers for Trial Disease Milestones</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A dataset used to represent non-standard variables and their association to parent records in the Trial Disease Milestones domain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Trial Disease Milestones Supplemental Qualifiers Dataset</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUPPTP" nciodm:ExtCodeID="C147260">
+                    <nciodm:CDISCSynonym>Supplemental Qualifiers for Trial Paths</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A dataset used to represent non-standard variables and their association to parent records in the Trial Paths domain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Trial Paths Supplemental Qualifiers Dataset</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUPPTR" nciodm:ExtCodeID="C147261">
+                    <nciodm:CDISCSynonym>Supplemental Qualifiers for Tumor Response</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A dataset used to represent non-standard variables and their association to parent records in the Tumor Response domain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Tumor Response Supplemental Qualifiers Dataset</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUPPTS" nciodm:ExtCodeID="C147262">
+                    <nciodm:CDISCSynonym>Supplemental Qualifiers for Trial Summary</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A dataset used to represent non-standard variables and their association to parent records in the Trial Summary domain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Trial Summary Supplemental Qualifiers Dataset</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUPPTT" nciodm:ExtCodeID="C147263">
+                    <nciodm:CDISCSynonym>Supplemental Qualifiers for Trial Stages</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A dataset used to represent non-standard variables and their association to parent records in the Trial Stages domain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Trial Stages Supplemental Qualifiers Dataset</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUPPTU" nciodm:ExtCodeID="C147264">
+                    <nciodm:CDISCSynonym>Supplemental Qualifiers for Tumor/Lesion Identification</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A dataset used to represent non-standard variables and their association to parent records in the Tumor/Lesion Identification domain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Tumor/Lesion Identification Supplemental Qualifiers Dataset</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUPPTV" nciodm:ExtCodeID="C147265">
+                    <nciodm:CDISCSynonym>Supplemental Qualifiers for Trial Visits</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A dataset used to represent non-standard variables and their association to parent records in the Trial Visits domain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Trial Visits Supplemental Qualifiers Dataset</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUPPTX" nciodm:ExtCodeID="C147266">
+                    <nciodm:CDISCSynonym>Supplemental Qualifiers for Trial Sets</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A dataset used to represent non-standard variables and their association to parent records in the Trial Sets domain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Trial Sets Supplemental Qualifiers Dataset</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUPPUR" nciodm:ExtCodeID="C147267">
+                    <nciodm:CDISCSynonym>Supplemental Qualifiers for Urinary System Findings</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A dataset used to represent non-standard variables and their association to parent records in the Urinary System Findings domain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Urinary System Findings Supplemental Qualifiers Dataset</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUPPVS" nciodm:ExtCodeID="C147268">
+                    <nciodm:CDISCSynonym>Supplemental Qualifiers for Vital Signs</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A dataset used to represent non-standard variables and their association to parent records in the Vital Signs domain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Vital Signs Supplemental Qualifiers Dataset</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUPPWB" nciodm:ExtCodeID="C147269">
+                    <nciodm:CDISCSynonym>Supplemental Qualifiers for Whole Body Findings</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A dataset used to represent non-standard variables and their association to parent records in the Whole Body Findings domain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Whole Body Findings Supplemental Qualifiers Dataset</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="SV" nciodm:ExtCodeID="C49617">
                     <nciodm:CDISCSynonym>Subject Visits</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>The subject visits table describes the actual start and end data/time for each visit of each individual subject.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A special-purpose domain that contains the actual start and end data/time for each visit of each individual subject.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Subject Visits Domain</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="TA" nciodm:ExtCodeID="C49618">
                     <nciodm:CDISCSynonym>Trial Arms</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>The trial arms table describes each planned arm in the trial. An arm is described as an ordered sequence of elements.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A trial design domain that contains each planned arm in the trial.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Trial Arms Domain</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TD" nciodm:ExtCodeID="C117699">
+                    <nciodm:CDISCSynonym>Trial Disease Assessments</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A trial design domain that provides information on the protocol-specified disease assessment schedule, to be used for comparison with the actual occurrence of the efficacy assessments in order to determine whether there was good compliance with the schedule.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Trial Disease Assessments Domain</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="TE" nciodm:ExtCodeID="C49619">
                     <nciodm:CDISCSynonym>Trial Elements</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>The trial elements table describes the element code that is unique for each element, the element description, and the rules for starting and ending an element.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A trial design domain that contains the element code that is unique for each element, the element description, and the rules for starting and ending an element.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Trial Elements Domain</nciodm:PreferredTerm>
-                </EnumeratedItem>
-                <EnumeratedItem CodedValue="TF" nciodm:ExtCodeID="C95100">
-                    <nciodm:CDISCSynonym>Tumor Findings</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>This domain captures the tumor findings of the nonclinical subject.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Tumor Findings Domain</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="TI" nciodm:ExtCodeID="C49620">
                     <nciodm:CDISCSynonym>Trial Inclusion/Exclusion Criteria</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>The trial summary information domain is not subject oriented. It contains one record for each of the inclusion and exclusion criteria for the trial.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A trial design domain that contains one record for each of the inclusion and exclusion criteria for the trial. This domain is not subject oriented.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Trial Inclusion and Exclusion Criteria Domain</nciodm:PreferredTerm>
                 </EnumeratedItem>
-                <EnumeratedItem CodedValue="TP" nciodm:ExtCodeID="C95101">
-                    <nciodm:CDISCSynonym>Trial Repro Paths</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Describes each planned reproductive path in a non-clinical developmental and reproductive toxicology study, with the ordered sequence of reproductive stages that comprise each reproductive path.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Trial Paths Domain</nciodm:PreferredTerm>
+                <EnumeratedItem CodedValue="TM" nciodm:ExtCodeID="C147270">
+                    <nciodm:CDISCSynonym>Trial Disease Milestones</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A trial design domain that is used to describe disease milestones, which are observations or activities anticipated to occur in the course of the disease under study, and which trigger the collection of data.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Trial Disease Milestones Domain</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="TR" nciodm:ExtCodeID="C106578">
                     <nciodm:CDISCSynonym>Tumor/Lesion Results</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>This domain represents quantitative measurements and/or qualitative assessments of the tumors/lesions identified in the tumor/lesion identifier (TU) domain.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A findings domain that represents quantitative measurements and/or qualitative assessments of the tumors or lesions identified in the tumor/lesion identification (TU) domain.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Tumor Results Domain</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="TS" nciodm:ExtCodeID="C53483">
                     <nciodm:CDISCSynonym>Trial Summary</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>The trial summary information domain is not subject oriented. It contains one record for each trial summary characteristic.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A trial design domain that contains one record for each trial summary characteristic. This domain is not subject oriented.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Trial Summary Domain</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="TU" nciodm:ExtCodeID="C106577">
-                    <nciodm:CDISCSynonym>Tumor/Lesion Identifier</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>This domain represents data that uniquely identifies tumors/lesions.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCSynonym>Tumor/Lesion Identification</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A findings domain that represents data that uniquely identifies tumors or lesions under study.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Tumor Identifier Domain</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="TV" nciodm:ExtCodeID="C49621">
                     <nciodm:CDISCSynonym>Trial Visits</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>The trial visits table describes the planned order and number of visits in the study within each arm.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A trial design domain that contains the planned order and number of visits in the study within each arm.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Trial Visits Domain</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="TX" nciodm:ExtCodeID="C95103">
                     <nciodm:CDISCSynonym>Trial Sets</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>The trial stages domain is not subject oriented. It contains one record for each trial set characteristic including experimental factors, treatment factors, inherent characteristics, or distinct sponsor designations.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A trial design domain that contains one record for each trial set characteristic including experimental factors, treatment factors, inherent characteristics, or distinct sponsor designations. This domain is not subject oriented.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Trial Sets Domain</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="UR" nciodm:ExtCodeID="C102726">
                     <nciodm:CDISCSynonym>Urinary System Findings</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A domain for physiological findings related to the urinary tract, including the organs involved in the creation and excretion of urine such as the kidneys, ureters, bladder and urethra.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A findings domain that contains physiological and morphological findings related to the urinary tract, including the organs involved in the creation and excretion of urine such as the kidneys, ureters, bladder and urethra.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Urinary System Findings Domain</nciodm:PreferredTerm>
-                </EnumeratedItem>
-                <EnumeratedItem CodedValue="VR" nciodm:ExtCodeID="C106581">
-                    <nciodm:CDISCSynonym>Viral Resistance Findings</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A findings domain that contains information about virus drug-resistance.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Viral Resistance Domain</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="VS" nciodm:ExtCodeID="C49622">
                     <nciodm:CDISCSynonym>Vital Signs</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Measurements including but not limited to blood pressure, temperature, respiration, body surface area, BMI, height and weight.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A findings domain that contains measurements including but not limited to blood pressure, temperature, respiration, body surface area, body mass index, height and weight.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Vital Signs Domain</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <nciodm:CDISCSubmissionValue>DOMAIN</nciodm:CDISCSubmissionValue>

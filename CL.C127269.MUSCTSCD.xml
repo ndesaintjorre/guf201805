@@ -2,6 +2,26 @@
                 <Description>
                     <TranslatedText xml:lang="en">A terminology codelist to describe the test code for a physiological examination of the musculoskeletal system.</TranslatedText>
                 </Description>
+                <EnumeratedItem CodedValue="AREA" nciodm:ExtCodeID="C25244">
+                    <nciodm:CDISCSynonym>Area</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The extent of a 2-dimensional surface enclosed within a boundary. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Area</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BMC" nciodm:ExtCodeID="C147472">
+                    <nciodm:CDISCSynonym>Bone Mineral Content</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An assessment of the quantity of minerals within a specific bone(s) or segments.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Bone Mineral Content</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BMD" nciodm:ExtCodeID="C61545">
+                    <nciodm:CDISCSynonym>Bone Mineral Density</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the amount of minerals contained in a specified volume or area of bone(s) or segments.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Bone Mineral Density Test</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BMDT" nciodm:ExtCodeID="C147473">
+                    <nciodm:CDISCSynonym>Bone Mineral Density T-Score</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The standard deviation of the subject's bone mineral density score in comparison to the normal bone mineral density of a healthy 30-year old adult.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Bone Mineral Density T-Score</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="BMDZ" nciodm:ExtCodeID="C139217">
                     <nciodm:CDISCSynonym>Bone Mineral Density Z-Score</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A statistical score representing the number of standard deviations above or below what is expected for an individual's bone mineral density based on his age, sex, weight, and race.</nciodm:CDISCDefinition>

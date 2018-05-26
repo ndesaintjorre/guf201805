@@ -1,0 +1,39 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C147538.ATLAS1TC" Name="ATLAS Clinical Classification Test Code" DataType="text" nciodm:ExtCodeID="C147538" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">ATLAS test code.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="ATLAS101" nciodm:ExtCodeID="C147843">
+                    <nciodm:CDISCSynonym>ATLAS1-Age</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Age, treatment with systemic antibiotics, leukocyte count, serum albumin, and serum creatinine as a measure of renal function - Age.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ATLAS - Age</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ATLAS102" nciodm:ExtCodeID="C147844">
+                    <nciodm:CDISCSynonym>ATLAS1-Treatment With Antibiotics</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Age, treatment with systemic antibiotics, leukocyte count, serum albumin, and serum creatinine as a measure of renal function - Treatment with systemic antibiotics during CDI therapy (&gt;= 1 day).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ATLAS - Treatment With Antibiotics</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ATLAS103" nciodm:ExtCodeID="C147845">
+                    <nciodm:CDISCSynonym>ATLAS1-Leukocyte Count</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Age, treatment with systemic antibiotics, leukocyte count, serum albumin, and serum creatinine as a measure of renal function - Leukocyte count (total).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ATLAS - Leukocyte Count</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ATLAS104" nciodm:ExtCodeID="C147846">
+                    <nciodm:CDISCSynonym>ATLAS1-Albumin</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Age, treatment with systemic antibiotics, leukocyte count, serum albumin, and serum creatinine as a measure of renal function - Albumin (serum).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ATLAS - Albumin</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ATLAS105" nciodm:ExtCodeID="C147847">
+                    <nciodm:CDISCSynonym>ATLAS1-Serum Creatinine</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Age, treatment with systemic antibiotics, leukocyte count, serum albumin, and serum creatinine as a measure of renal function - Serum creatinine (as a measure of renal function).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ATLAS - Serum Creatinine</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ATLAS106" nciodm:ExtCodeID="C147848">
+                    <nciodm:CDISCSynonym>ATLAS1-Score</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Age, treatment with systemic antibiotics, leukocyte count, serum albumin, and serum creatinine as a measure of renal function - Score.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ATLAS - Score</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>ATLAS1TC</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>ATLAS Clinical Classification Test Code</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Clinical Classification ATLAS Test Code Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

@@ -6,6 +6,14 @@
                     <nciodm:CDISCDefinition>Not existing in a specified place at a specified time. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Absent</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="DECREASED" nciodm:ExtCodeID="C25640">
+                    <nciodm:CDISCDefinition>Made less in size, amount, degree, or extent.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Reduced</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DIFFUSELY INCREASED" nciodm:ExtCodeID="C147486">
+                    <nciodm:CDISCDefinition>An indication that the increase is homogenously dispersed.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Diffusely Increased</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="ENLARGEMENT" nciodm:ExtCodeID="C73432">
                     <nciodm:CDISCDefinition>An increase in size, volume, quantity or scope in comparison to normal or previous state.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Enlargement</nciodm:PreferredTerm>
@@ -13,6 +21,10 @@
                 <EnumeratedItem CodedValue="EQUIVOCAL" nciodm:ExtCodeID="C86071">
                     <nciodm:CDISCDefinition>Open to question.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Equivocal</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FOCALLY INCREASED" nciodm:ExtCodeID="C147487">
+                    <nciodm:CDISCDefinition>An indication that the increase is concentrated in a specific area(s).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Focally Increased</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="FURTHER ENLARGEMENT" nciodm:ExtCodeID="C142367">
                     <nciodm:CDISCDefinition>An increase in size, volume, quantity or scope in comparison to a previous enlarged state.</nciodm:CDISCDefinition>
@@ -25,6 +37,10 @@
                 <EnumeratedItem CodedValue="NONPALPABLE" nciodm:ExtCodeID="C124445">
                     <nciodm:CDISCDefinition>Incapable of being handled, touched or felt through palpation. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Non-Palpable</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NORMAL" nciodm:ExtCodeID="C14165">
+                    <nciodm:CDISCDefinition>Being approximately average or within certain limits; conforming with or constituting a norm or standard or level or type or social norm. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Normal</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="PALPABLE" nciodm:ExtCodeID="C25606">
                     <nciodm:CDISCDefinition>Capable of being handled, touched or felt through palpation. (NCI)</nciodm:CDISCDefinition>
@@ -41,6 +57,15 @@
                 <EnumeratedItem CodedValue="PRESENT WITHOUT UNEQUIVOCAL PROGRESSION" nciodm:ExtCodeID="C126055">
                     <nciodm:CDISCDefinition>There is evidence of disease without any indication or sign of unequivocal progression.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Present Without Unequivocal Progression</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TUMOR MERGED" nciodm:ExtCodeID="C94525">
+                    <nciodm:CDISCSynonym>Tumor Merged</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An indication that multiple tumors have coalesced into one tumor.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Matted Tumor Mass Present</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UNCHANGED" nciodm:ExtCodeID="C71687">
+                    <nciodm:CDISCDefinition>In an unchanged or similar condition.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>About The Same</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="UNEQUIVOCAL" nciodm:ExtCodeID="C123645">
                     <nciodm:CDISCDefinition>Leaving no doubt; not open to question. (NCI)</nciodm:CDISCDefinition>

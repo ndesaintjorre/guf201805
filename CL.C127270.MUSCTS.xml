@@ -2,10 +2,30 @@
                 <Description>
                     <TranslatedText xml:lang="en">A terminology codelist to describe the test name for a physiological examination of the musculoskeletal system.</TranslatedText>
                 </Description>
+                <EnumeratedItem CodedValue="Area" nciodm:ExtCodeID="C25244">
+                    <nciodm:CDISCSynonym>Area</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The extent of a 2-dimensional surface enclosed within a boundary. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Area</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="Body Fat Percentage" nciodm:ExtCodeID="C139218">
                     <nciodm:CDISCSynonym>Body Fat Percentage</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The amount of an individual's total body mass that is fat, expressed as a percent.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Body Fat Percentage</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Bone Mineral Content" nciodm:ExtCodeID="C147472">
+                    <nciodm:CDISCSynonym>Bone Mineral Content</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An assessment of the quantity of minerals within a specific bone(s) or segments.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Bone Mineral Content</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Bone Mineral Density" nciodm:ExtCodeID="C61545">
+                    <nciodm:CDISCSynonym>Bone Mineral Density</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the amount of minerals contained in a specified volume or area of bone(s) or segments.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Bone Mineral Density Test</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Bone Mineral Density T-Score" nciodm:ExtCodeID="C147473">
+                    <nciodm:CDISCSynonym>Bone Mineral Density T-Score</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The standard deviation of the subject's bone mineral density score in comparison to the normal bone mineral density of a healthy 30-year old adult.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Bone Mineral Density T-Score</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Bone Mineral Density Z-Score" nciodm:ExtCodeID="C139217">
                     <nciodm:CDISCSynonym>Bone Mineral Density Z-Score</nciodm:CDISCSynonym>

@@ -2,6 +2,16 @@
                 <Description>
                     <TranslatedText xml:lang="en">Terminology relevant to the immunogenicity specimen test names of the CDISC Study Data Tabulation Model.</TranslatedText>
                 </Description>
+                <EnumeratedItem CodedValue="Binding Antidrug Antibody" nciodm:ExtCodeID="C147272">
+                    <nciodm:CDISCSynonym>Binding Antidrug Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the binding antidrug antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Binding Antidrug Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Cross-Reactive Binding Antidrug Antibody" nciodm:ExtCodeID="C147275">
+                    <nciodm:CDISCSynonym>Cross-Reactive Binding Antidrug Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the cross-reactive binding antidrug antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Cross-Reactive Binding Antidrug Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="EBOV Specific IgG AB Secreting Cells" nciodm:ExtCodeID="C132360">
                     <nciodm:CDISCSynonym>EBOV Specific IgG AB Secreting Cells</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the Ebola virus specific IgG antibody secreting cells in a biological specimen.</nciodm:CDISCDefinition>
@@ -28,6 +38,17 @@
                     <nciodm:CDISCSynonym>IgM Antibody Secreting Cells</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the total IgM antibody secreting cells in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>IgM Antibody Secreting Cell Count</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Neutraliz Cross-React Bind Antidrug AB" nciodm:ExtCodeID="C147274">
+                    <nciodm:CDISCSynonym>Neutraliz Cross-React Bind Antidrug AB</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Neutralizing Cross-Reactive Binding Antidrug Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the neutralizing cross-reactive binding antidrug antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Neutralizing Cross-Reacting Binding Antidrug Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Neutralizing Binding Antidrug Antibody" nciodm:ExtCodeID="C147273">
+                    <nciodm:CDISCSynonym>Neutralizing Binding Antidrug Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the neutralizing binding antidrug antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Neutralizing Binding&#65533;Antidrug Antibody Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Total IgG Antibody Secreting Cells" nciodm:ExtCodeID="C120624">
                     <nciodm:CDISCSynonym>Total IgG ASCs</nciodm:CDISCSynonym>

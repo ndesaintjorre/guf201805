@@ -18,6 +18,16 @@
                     <nciodm:CDISCDefinition>The current sum of diameters minus the lowest sum of diameters previously recorded.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Absolute Change From Nadir in Sum of Diameter</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="ACPPDNLD" nciodm:ExtCodeID="C147488">
+                    <nciodm:CDISCSynonym>Absolute Change From PPD Nadir in LDIAM</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The absolute change in the longest diameter of the lesion from the timepoint at which the product of perpendicular diameters of the lesion is the smallest.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Absolute Change in Longest Diameter From Nadir Product of Perpendicular Diameters Timepoint</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ACPPDNLP" nciodm:ExtCodeID="C147489">
+                    <nciodm:CDISCSynonym>Absolute Change From PPD Nadir in LPERP</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The absolute change in the longest perpendicular of the lesion from the timepoint at which the product of perpendicular diameters of the lesion is the smallest.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Absolute Change in Longest Perpendicular from Nadir Product of Perpendicular Diameters Timepoint</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="AREA" nciodm:ExtCodeID="C25244">
                     <nciodm:CDISCSynonym>Area</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The extent of a 2-dimensional surface enclosed within a boundary. (NCI)</nciodm:CDISCDefinition>
@@ -27,6 +37,11 @@
                     <nciodm:CDISCSynonym>Average Metabolic Standard Uptake Value</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A semiquantitative analysis of the average uptake of analyte by body tissue in relation to the total administered dose of the analyte.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Average Metabolic Standard Uptake Value</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BMUPTAKE" nciodm:ExtCodeID="C147490">
+                    <nciodm:CDISCSynonym>Bone Marrow Tracer Uptake</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A visually assessed combination of extent and intensity of tracer uptake within the bone marrow.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Bone Marrow Tracer Uptake</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="BNLNUM" nciodm:ExtCodeID="C132463">
                     <nciodm:CDISCSynonym>Number of Bone Lesions</nciodm:CDISCSynonym>
@@ -245,6 +260,7 @@
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="SUMPPD" nciodm:ExtCodeID="C132261">
                     <nciodm:CDISCSynonym>SPD</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Sum of Products of Perpendicular Diam</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Sum of Products of Perpendicular Diameters</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The result of the addition of the products of perpendicular diameters.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Sum of Products of Perpendicular Diameters</nciodm:PreferredTerm>

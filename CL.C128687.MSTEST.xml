@@ -2,6 +2,12 @@
                 <Description>
                     <TranslatedText xml:lang="en">Terminology relevant to the test names that define microorganism responses to antimicrobial agents.</TranslatedText>
                 </Description>
+                <EnumeratedItem CodedValue="Diameter of the Zone of Inhibition" nciodm:ExtCodeID="C147471">
+                    <nciodm:CDISCSynonym>Diameter of the Kill Zone</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Diameter of the Zone of Inhibition</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the diameter of the circular region of bacteria growth inhibition that surrounds an antibiotic source on the surface of a cultured plate.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Antibiotic Susceptibility Zone Diameter</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="Inhibitory Concentration Net Assessment" nciodm:ExtCodeID="C116255">
                     <nciodm:CDISCSynonym>Inhibitory Concentration Net Assessment</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>An indication of reduced or increased susceptibility of a microbial organism, or activity of a biological/biochemical reaction in response to the inhibitory concentration (IC50 and/or IC95) of a specific drug.</nciodm:CDISCDefinition>

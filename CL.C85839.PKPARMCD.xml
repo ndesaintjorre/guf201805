@@ -967,20 +967,40 @@
                     <nciodm:CDISCDefinition>The lower limit on time for values to be included in the calculation of Lambda z.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Lambda Z Time Lower Limit</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="LAMZLTAU" nciodm:ExtCodeID="C147479">
+                    <nciodm:CDISCSynonym>Lambda z Lower Limit TAU</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The lower limit on time for values to be included in the calculation of Lambda z, calculated within a dosing interval.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Lambda z Lower Limit TAU</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="LAMZNPT" nciodm:ExtCodeID="C85816">
                     <nciodm:CDISCSynonym>Number of Points for Lambda z</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The number of time points used in computing Lambda z.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Sum of Lambda Z Timepoints</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LAMZNTAU" nciodm:ExtCodeID="C147480">
+                    <nciodm:CDISCSynonym>Number of Points for Lambda z TAU</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The number of time points used in computing Lambda z determined in a dosing interval.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Number of Points for Lambda z TAU</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="LAMZSPN" nciodm:ExtCodeID="C135492">
                     <nciodm:CDISCSynonym>Lambda z Span</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The interval of time covered by the data points used in the terminal disposition phase regression analysis, divided by half life. This yields the terminal disposition phase duration expressed as the number of half lives.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Lambda Z Span</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="LAMZTAU" nciodm:ExtCodeID="C147481">
+                    <nciodm:CDISCSynonym>Lambda z TAU</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The first order rate constant associated with the terminal (log-linear) portion of the curve, calculated within a dosing interval.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Lambda z TAU</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="LAMZUL" nciodm:ExtCodeID="C85654">
                     <nciodm:CDISCSynonym>Lambda z Upper Limit</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The upper limit on time for values to be included in the calculation of Lambda z.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Lambda Z Time Upper Limit</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LAMZUTAU" nciodm:ExtCodeID="C147482">
+                    <nciodm:CDISCSynonym>Lambda z Upper Limit TAU</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The upper limit on time for values to be included in the calculation of Lambda z, calculated within a dosing interval.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Lambda z Upper Limit TAU</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="MAT" nciodm:ExtCodeID="C120723">
                     <nciodm:CDISCSynonym>Mean Absorption Time</nciodm:CDISCSynonym>
@@ -1296,6 +1316,11 @@
                     <nciodm:CDISCSynonym>Stationarity Ratio AUC</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The area under the curve (AUCTAU) at steady state divided by the area under the curve extrapolated to infinity for the initial dosing interval.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Stationarity Ratio Area Under the Curve</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TAUHL" nciodm:ExtCodeID="C147483">
+                    <nciodm:CDISCSynonym>Half-Life TAU</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Half-life calculated within a dosing interval.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Half-Life TAU</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="TLAG" nciodm:ExtCodeID="C85824">
                     <nciodm:CDISCSynonym>Time Until First Nonzero Conc</nciodm:CDISCSynonym>

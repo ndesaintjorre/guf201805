@@ -62,6 +62,11 @@
                     <nciodm:CDISCDefinition>The standard deviation in a group of values that represent the diameter of an object.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Standard Deviation of Diameter</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="EYDCOMGR" nciodm:ExtCodeID="C147474">
+                    <nciodm:CDISCSynonym>Eye Drop Comfort Grade</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The position on a scale to assess the degree of comfort associated with the administration of an eye drop.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Eye Drop Comfort Grade</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="HYPERGR" nciodm:ExtCodeID="C132432">
                     <nciodm:CDISCSynonym>Hyperemia Grade</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The position on a scale to assess hyperemia.</nciodm:CDISCDefinition>
@@ -147,6 +152,16 @@
                     <nciodm:CDISCDefinition>The spatial arrangement of something as distinct from its substance. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Shape</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUBECADT" nciodm:ExtCodeID="C147475">
+                    <nciodm:CDISCSynonym>Subject to Eye Chart Actual Distance</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The actual distance between the subject and the eye chart during an eye assessment.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Actual Subject to Eye Chart Distance</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUBECPDT" nciodm:ExtCodeID="C147476">
+                    <nciodm:CDISCSynonym>Subject to Eye Chart Planned Distance</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The planned distance between the subject and the eye chart during an eye assessment.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Planned Subject to Eye Chart Distance</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="THICK" nciodm:ExtCodeID="C41145">
                     <nciodm:CDISCSynonym>Thickness</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The dimension between two surfaces of an object, usually the smallest dimension as opposed to the width or the length.</nciodm:CDISCDefinition>
@@ -171,6 +186,11 @@
                     <nciodm:CDISCSynonym>Thickness, Standard Deviation</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The standard deviation in a group of values that represent the thickness of an object.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Standard Deviation of Thickness</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="VACGRFRQ" nciodm:ExtCodeID="C147477">
+                    <nciodm:CDISCSynonym>Visual Acuity Card Grating Frequency</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the number of horizontal or vertical lines within a pre-determined unit of length on a visual acuity card.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Acuity Card Grating Frequency</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <nciodm:CDISCSubmissionValue>OETESTCD</nciodm:CDISCSubmissionValue>
                 <nciodm:CDISCSynonym>Ophthalmic Exam Test Code</nciodm:CDISCSynonym>
