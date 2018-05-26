@@ -872,7 +872,7 @@
                 <EnumeratedItem CodedValue="FIBROMYXOMA, BENIGN" nciodm:ExtCodeID="C66760">
                     <nciodm:CDISCSynonym>Fibromyxoma</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A benign soft-tissue neoplasm of uncertain lineage, characterized by the presence of neoplastic spindle-shaped to round cells and a fibromyxoid stroma.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Fibromyxoid Neoplasm</nciodm:PreferredTerm>
+                    <nciodm:PreferredTerm>Fibromyxoid Tumor</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="FIBROPAPILLOMA, BENIGN" nciodm:ExtCodeID="C3337">
                     <nciodm:CDISCDefinition>A benign polypoid tumor comprising fibrous tissue and epithelium.</nciodm:CDISCDefinition>
@@ -903,7 +903,7 @@
                     <nciodm:CDISCSynonym>Benign Bone Giant Cell Tumor</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Osteoclastoma, Benign</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A benign neoplasm of bone comprised of giant cells (osteoclast-like) and mononuclear cells.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Benign Giant Cell Tumor of Bone</nciodm:PreferredTerm>
+                    <nciodm:PreferredTerm>Benign Osteoclastic Giant Cell-Rich Tumor of Bone</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="GIANT CELL TUMOR, MALIGNANT" nciodm:ExtCodeID="C4090">
                     <nciodm:CDISCSynonym>Malignant Giant Cell Tumor</nciodm:CDISCSynonym>
@@ -1043,7 +1043,7 @@
                     <nciodm:CDISCSynonym>Malignant Fibrous Histiocytoma of the Soft Tissue and Bone</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Malignant Fibroxanthoma</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A malignant neoplasm composed of a fibroblastic and a histiocytic component.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Unclassified Pleomorphic Sarcoma</nciodm:PreferredTerm>
+                    <nciodm:PreferredTerm>Undifferentiated Pleomorphic Sarcoma</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="HISTIOCYTOMA, FIBROUS, UNDETERMINED" nciodm:ExtCodeID="C8402">
                     <nciodm:CDISCSynonym>Fibrohistiocytic Tumor</nciodm:CDISCSynonym>
@@ -1543,9 +1543,7 @@
                     <nciodm:PreferredTerm>Malignant Odontogenic Neoplasm</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="OLIGODENDROGLIOMA, ANAPLASTIC, MALIGNANT" nciodm:ExtCodeID="C4326">
-                    <nciodm:CDISCSynonym>Malignant</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Malignant Oligodendroglioma</nciodm:CDISCSynonym>
-                    <nciodm:CDISCSynonym>Oligodendroglioma</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Undifferentiated Oligodendroglioma</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Who Grade III Oligodendroglial Neoplasm</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Who Grade III Oligodendroglial Tumor</nciodm:CDISCSynonym>
@@ -1595,7 +1593,7 @@
                     <nciodm:CDISCSynonym>Primary Chondrosarcoma of Bone</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Primary Chondrosarcoma of the Bone</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A malignant cartiliginous neoplasm of bone.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Conventional Chondrosarcoma</nciodm:PreferredTerm>
+                    <nciodm:PreferredTerm>Primary Central Chondrosarcoma</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="OSTEOCLASTOMA, MALIGNANT" nciodm:ExtCodeID="C4304">
                     <nciodm:CDISCSynonym>Dedifferentiated Giant Cell Tumor</nciodm:CDISCSynonym>
@@ -1603,14 +1601,14 @@
                     <nciodm:CDISCSynonym>Giant Cell Sarcoma of Bone</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Giant Cell Sarcoma of the Bone</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A malignant neoplasm of bone comprised of osteoclast-like giant cells and mononuclear cells.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Malignant Giant Cell Tumor of Bone</nciodm:PreferredTerm>
+                    <nciodm:PreferredTerm>Malignancy in Giant Cell Tumor of Bone</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="OSTEOCLASTOMA, UNDETERMINED" nciodm:ExtCodeID="C3738">
                     <nciodm:CDISCSynonym>Bone Giant Cell Neoplasm</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Bone Giant Cell Tumor</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Giant Cell Neoplasm of Bone</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A neoplasm of bone comprised of osteoclast-like giant cells and mononuclear cells, for which the malignancy status has not been established.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Giant Cell Tumor of Bone</nciodm:PreferredTerm>
+                    <nciodm:PreferredTerm>Osteoclastic Giant Cell-Rich Tumor of Bone</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="OSTEOFIBROMA, BENIGN" nciodm:ExtCodeID="C3740">
                     <nciodm:CDISCSynonym>Desmoid Tumor of Bone</nciodm:CDISCSynonym>
@@ -1682,16 +1680,8 @@
                     <nciodm:PreferredTerm>Benign Paraganglioma</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="PARAGANGLIOMA, MALIGNANT" nciodm:ExtCodeID="C8559">
-                    <nciodm:CDISCSynonym>Malignant</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Malignant Neoplasm of Paraganglion</nciodm:CDISCSynonym>
-                    <nciodm:CDISCSynonym>Malignant Neoplasm of the Paraganglion</nciodm:CDISCSynonym>
-                    <nciodm:CDISCSynonym>Malignant Paraganglion Neoplasm</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Malignant Paraganglion Tumor</nciodm:CDISCSynonym>
-                    <nciodm:CDISCSynonym>Malignant Paraganglionic Neoplasm</nciodm:CDISCSynonym>
-                    <nciodm:CDISCSynonym>Malignant Paraganglionic Tumor</nciodm:CDISCSynonym>
-                    <nciodm:CDISCSynonym>Malignant Tumor of Paraganglion</nciodm:CDISCSynonym>
-                    <nciodm:CDISCSynonym>Malignant Tumor of the Paraganglion</nciodm:CDISCSynonym>
-                    <nciodm:CDISCSynonym>Paraganglion Neoplasm</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A malignant neoplasm arising from paraganglia located along nerves composed of neoplastic neuroectodermal chromaffin cells.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Malignant Paraganglioma</nciodm:PreferredTerm>
                 </EnumeratedItem>

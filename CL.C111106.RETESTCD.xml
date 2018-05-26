@@ -119,6 +119,11 @@
                     <nciodm:CDISCDefinition>The volume of air that a subject can breathe in during the first second of inhalation after maximum exhalation as a proportion of the predicted normal value.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Percent Predicted Forced Inspiratory Volume in 1 Second</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="FRC" nciodm:ExtCodeID="C89800">
+                    <nciodm:CDISCSynonym>Functional Residual Capacity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The volume of air remaining in the lungs after a normal exhalation. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Functional Residual Capacity</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="FVC" nciodm:ExtCodeID="C111361">
                     <nciodm:CDISCSynonym>Forced Vital Capacity</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The maximum volume of air that can be exhaled after forced maximum inhalation.</nciodm:CDISCDefinition>
@@ -174,6 +179,16 @@
                     <nciodm:CDISCDefinition>The maximal flow achieved during the maximally forced inspiration through the nose initiated at maximum exhalation. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Peak Nasal Inspiratory Flow</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="RAW" nciodm:ExtCodeID="C120927">
+                    <nciodm:CDISCSynonym>Airway Resistance</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of respiratory tract resistance to airflow during inspiration and expiration.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Airway Resistance</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="RRS" nciodm:ExtCodeID="C122185">
+                    <nciodm:CDISCSynonym>Total Respiratory System Resistance</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A calculated value based on all factors that influence the flow of gas from the airway opening to the alveoli, including airway resistance, and tissue resistance of the lung and chest wall. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Total Respiratory System Resistance</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="RV" nciodm:ExtCodeID="C89836">
                     <nciodm:CDISCSynonym>Residual Volume</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The volume of air remaining in the lungs after maximum exhalation.</nciodm:CDISCDefinition>
@@ -183,6 +198,11 @@
                     <nciodm:CDISCSynonym>Percent Predicted Residual Volume</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The volume of air remaining in the lungs after maximum exhalation as a proportion of the predicted normal value.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Percent Predicted Residual Volume</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SGAW" nciodm:ExtCodeID="C122186">
+                    <nciodm:CDISCSynonym>Specific Airway Conductance</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the airway conductance relative to lung volume. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Specific Airway Conductance</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="SVC" nciodm:ExtCodeID="C111315">
                     <nciodm:CDISCSynonym>Slow Vital Capacity</nciodm:CDISCSynonym>

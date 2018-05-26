@@ -2,6 +2,31 @@
                 <Description>
                     <TranslatedText xml:lang="en">A terminology codelist to describe the test code for a physiological examination of the cardiovascular system.</TranslatedText>
                 </Description>
+                <EnumeratedItem CodedValue="AAUGIX" nciodm:ExtCodeID="C122038">
+                    <nciodm:CDISCSynonym>Aortic Augmentation Index</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The augmentation pressure divided by the aortic pulse pressure (aortic systolic minus aortic diastolic pressure) multiplied by 100, expressed as a percentage.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Aortic Augmentation Index</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="AAUGIX75" nciodm:ExtCodeID="C122083">
+                    <nciodm:CDISCSynonym>Aortic Augmentation Index at 75bpm</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The aortic augmentation index normalized to a heart rate of 75 beats per minute.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Aortic Augmentation Index at 75bpm</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="AAUGPR" nciodm:ExtCodeID="C122084">
+                    <nciodm:CDISCSynonym>Aortic Augmentation Pressure</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The difference between the second pressure peak in the aortic wave, secondary to the pressure wave reflection from the sites of peripheral arterial impedance mismatch (P2) and the first pressure peak in the aortic wave form, secondary to ventricular ejection (P1).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Aortic Augmentation Pressure</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="AAUGPRP1" nciodm:ExtCodeID="C122085">
+                    <nciodm:CDISCSynonym>Aortic Augmentation Pressure Peak P1</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The first pressure peak in the aortic wave form secondary to ventricular ejection.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Augmentation Pressure Point P1</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="AAUGPRP2" nciodm:ExtCodeID="C122086">
+                    <nciodm:CDISCSynonym>Aortic Augmentation Pressure Peak P2</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The second pressure peak in the aortic waveform secondary to pressure wave reflection from the periphery.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Augmentation Pressure Point P2</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="CARDIDX" nciodm:ExtCodeID="C119245">
                     <nciodm:CDISCSynonym>Cardiac Index</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The measure of an individual's cardiac output divided by the individual's body surface area (CI= CO/BSA).</nciodm:CDISCDefinition>
@@ -26,6 +51,11 @@
                     <nciodm:CDISCSynonym>Cardiac Valvular Stenosis Severity</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The qualitative measurement of the severity of cardiac valvular stenosis.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Cardiac Valvular Stenosis Severity</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EJWAMP" nciodm:ExtCodeID="C122088">
+                    <nciodm:CDISCSynonym>Ejection Wave Amplitude</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The magnitude of the ejection wave that occurs when blood is ejected into the aorta by the left ventricle.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Ejection Wave Amplitude</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="ISHMYOP" nciodm:ExtCodeID="C80494">
                     <nciodm:CDISCSynonym>Ischemic Myocardium Percentage</nciodm:CDISCSynonym>
@@ -61,6 +91,21 @@
                     <nciodm:CDISCSynonym>Pulmonary Vascular Resistance</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The resistance to blood flow through the pulmonary vasculature.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Pulmonary Vascular Resistance</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PWV" nciodm:ExtCodeID="C122087">
+                    <nciodm:CDISCSynonym>Pulse Wave Velocity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The distance traveled by the peak of the ventricular ejection pressure wave per unit of time.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Pulse Wave Velocity</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="RFLMAG" nciodm:ExtCodeID="C122089">
+                    <nciodm:CDISCSynonym>Reflection Magnitude</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The reflected-to-forward pressure wave amplitude ratio. (Hashimoto J et al, J Hypertens. 2008 May;26(5):1017-24)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Reflection Magnitude</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="RFLWAMP" nciodm:ExtCodeID="C122090">
+                    <nciodm:CDISCSynonym>Reflection Wave Amplitude</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The summation of the numerous waves being reflected by sites of impedance mismatch where central elastic arteries join more muscular arteries.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Reflection Wave Amplitude</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="SVR" nciodm:ExtCodeID="C119248">
                     <nciodm:CDISCSynonym>Systemic Vascular Resistance</nciodm:CDISCSynonym>

@@ -2,6 +2,11 @@
                 <Description>
                     <TranslatedText xml:lang="en">A terminology codelist based on the test names for physiological findings related to the respiratory system, including the organs that are involved in breathing such as the nose, throat, larynx, trachea, bronchi and lungs.</TranslatedText>
                 </Description>
+                <EnumeratedItem CodedValue="Airway Resistance" nciodm:ExtCodeID="C120927">
+                    <nciodm:CDISCSynonym>Airway Resistance</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of respiratory tract resistance to airflow during inspiration and expiration.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Airway Resistance</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="Diffusion Capacity of Lung for CO" nciodm:ExtCodeID="C38083">
                     <nciodm:CDISCSynonym>Diffusion Capacity of Lung for CO</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The volume of the carbon monoxide that is transferred from inspired air into the pulmonary capillary blood.</nciodm:CDISCDefinition>
@@ -51,6 +56,11 @@
                     <nciodm:CDISCSynonym>Forced Vital Capacity</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The maximum volume of air that can be exhaled after forced maximum inhalation.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Forced Vital Capacity</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Functional Residual Capacity" nciodm:ExtCodeID="C89800">
+                    <nciodm:CDISCSynonym>Functional Residual Capacity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The volume of air remaining in the lungs after a normal exhalation. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Functional Residual Capacity</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="HGB Corrected DLCO" nciodm:ExtCodeID="C120825">
                     <nciodm:CDISCSynonym>DLCO Corrected for Hemoglobin</nciodm:CDISCSynonym>
@@ -204,6 +214,11 @@
                     <nciodm:CDISCDefinition>The maximum volume of air that can be exhaled after slow maximum inhalation.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Slow Vital Capacity</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="Specific Airway Conductance" nciodm:ExtCodeID="C122186">
+                    <nciodm:CDISCSynonym>Specific Airway Conductance</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the airway conductance relative to lung volume. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Specific Airway Conductance</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="Tidal Volume" nciodm:ExtCodeID="C111324">
                     <nciodm:CDISCSynonym>Tidal Volume</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The volume of air moved into and out of the lungs during breathing at rest.</nciodm:CDISCDefinition>
@@ -213,6 +228,11 @@
                     <nciodm:CDISCSynonym>Total Lung Capacity</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The total volume of air in the lungs after maximum inhalation.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Total Lung Capacity</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Total Respiratory System Resistance" nciodm:ExtCodeID="C122185">
+                    <nciodm:CDISCSynonym>Total Respiratory System Resistance</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A calculated value based on all factors that influence the flow of gas from the airway opening to the alveoli, including airway resistance, and tissue resistance of the lung and chest wall. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Total Respiratory System Resistance</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <nciodm:CDISCSubmissionValue>RETEST</nciodm:CDISCSubmissionValue>
                 <nciodm:CDISCSynonym>Respiratory Test Name</nciodm:CDISCSynonym>

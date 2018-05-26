@@ -27,6 +27,11 @@
                     <nciodm:CDISCDefinition>The integer that describes the number of letters correctly identified by the subject during an eye chart assessment.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Number of Correct Eye Chart Letters</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="Reactivity" nciodm:ExtCodeID="C25637">
+                    <nciodm:CDISCSynonym>Reactivity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A description of the action in response to some kind of stimulus.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Reaction</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="Spherical Refractive Error" nciodm:ExtCodeID="C117893">
                     <nciodm:CDISCSynonym>Spherical Refractive Error</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the extent of defect in vision caused by a mismatch of optimal power between the cornea and/or lens and the length of the eyeball, resulting in sub-optimal reflection of light onto the retina. (NCI)</nciodm:CDISCDefinition>

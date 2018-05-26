@@ -7,9 +7,14 @@
                     <nciodm:CDISCDefinition>Predicted accumulation ratio for area under the curve (AUC) calculated using the Lambda z estimated from single dose data.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Accumulation Index using Lambda z</nciodm:PreferredTerm>
                 </EnumeratedItem>
-                <EnumeratedItem CodedValue="Accumulation Ratio AUC" nciodm:ExtCodeID="C102356">
-                    <nciodm:CDISCSynonym>Accumulation Ratio AUC</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>The area under the curve (AUCTAU) at steady state divided by the area under the curve over the initial dosing interval.</nciodm:CDISCDefinition>
+                <EnumeratedItem CodedValue="Accumulation Ratio AUC from T1 to T2" nciodm:ExtCodeID="C122329">
+                    <nciodm:CDISCSynonym>Accumulation Ratio AUC from T1 to T2</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The area under the curve from T1 to T2 at steady state divided by the area under the curve from T1 to T2 during the initial dosing interval.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Accumulation Ratio Area Under the Curve from T1 to T2</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Accumulation Ratio AUCTAU" nciodm:ExtCodeID="C102356">
+                    <nciodm:CDISCSynonym>Accumulation Ratio AUCTAU</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The area under the curve (AUCTAU) at steady state divided by the area under the curve (AUCTAU) over the initial dosing interval.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Accumulation Ratio Area Under the Curve</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Accumulation Ratio Cmax" nciodm:ExtCodeID="C102357">
@@ -974,7 +979,7 @@
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Peak Trough Ratio" nciodm:ExtCodeID="C102381">
                     <nciodm:CDISCSynonym>Peak Trough Ratio</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>The ratio of Cmax to Ctrough during a dosing interval.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>The maximum concentration during a dosing interval divided by the concentration at the end of the dosing interval.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Peak Trough Ratio</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="R Squared" nciodm:ExtCodeID="C85542">
@@ -991,6 +996,56 @@
                     <nciodm:CDISCSynonym>Renal CL</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The clearance of a substance from the blood by the kidneys.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Renal Clearance</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Renal CL for Dose Int" nciodm:ExtCodeID="C122050">
+                    <nciodm:CDISCSynonym>Renal CL for Dose Int</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The clearance of a substance from the blood by the kidneys, calculated using AUCTAU.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Renal Clearance for Dose Interval</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Renal CL for Dose Int Norm by BMI" nciodm:ExtCodeID="C122334">
+                    <nciodm:CDISCSynonym>Renal CL for Dose Int Norm by BMI</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The clearance of a substance from the blood by the kidneys, calculated using AUCTAU, divided by the body mass index.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Renal Clearance for Dose Interval Normalized by Body Mass Index</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Renal CL for Dose Int Norm by Dose" nciodm:ExtCodeID="C122335">
+                    <nciodm:CDISCSynonym>Renal CL for Dose Int Norm by Dose</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The clearance of a substance from the blood by the kidneys, calculated using AUCTAU, divided by the dose.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Renal Clearance for Dose Interval Normalized by Dose</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Renal CL for Dose Int Norm by SA" nciodm:ExtCodeID="C122336">
+                    <nciodm:CDISCSynonym>Renal CL for Dose Int Norm by SA</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The clearance of a substance from the blood by the kidneys, calculated using AUCTAU, divided by the surface area.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Renal Clearance for Dose Interval Normalized by Surface Area</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Renal CL for Dose Int Norm by WT" nciodm:ExtCodeID="C122337">
+                    <nciodm:CDISCSynonym>Renal CL for Dose Int Norm by WT</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The clearance of a substance from the blood by the kidneys, calculated using AUCTAU, divided by the weight.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Renal Clearance for Dose Interval Normalized by Weight</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Renal CL from T1 to T2" nciodm:ExtCodeID="C122049">
+                    <nciodm:CDISCSynonym>Renal CL from T1 to T2</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The clearance of a substance from the blood by the kidneys over the interval from T1 to T2.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Renal Clearance from T1 to T2</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Renal CL from T1 to T2 Norm by BMI" nciodm:ExtCodeID="C122330">
+                    <nciodm:CDISCSynonym>Renal CL from T1 to T2 Norm by BMI</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The clearance of a substance from the blood by the kidneys over the interval from T1 to T2 divided by the body mass index.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Renal Clearance from T1 to T2 Normalized by Body Mass Index</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Renal CL from T1 to T2 Norm by Dose" nciodm:ExtCodeID="C122331">
+                    <nciodm:CDISCSynonym>Renal CL from T1 to T2 Norm by Dose</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The clearance of a substance from the blood by the kidneys over the interval from T1 to T2 divided by the dose.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Renal Clearance from T1 to T2 Normalized by Dose</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Renal CL from T1 to T2 Norm by SA" nciodm:ExtCodeID="C122332">
+                    <nciodm:CDISCSynonym>Renal CL from T1 to T2 Norm by SA</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The clearance of a substance from the blood by the kidneys over the interval from T1 to T2 divided by the surface area.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Renal Clearance from T1 to T2 Normalized by Surface Area</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Renal CL from T1 to T2 Norm by WT" nciodm:ExtCodeID="C122333">
+                    <nciodm:CDISCSynonym>Renal CL from T1 to T2 Norm by WT</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The clearance of a substance from the blood by the kidneys over the interval from T1 to T2 divided by the weight.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Renal Clearance from T1 to T2 Normalized by Weight</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Renal CL Norm by BMI" nciodm:ExtCodeID="C105458">
                     <nciodm:CDISCSynonym>Renal CL Norm by BMI</nciodm:CDISCSynonym>
@@ -1011,6 +1066,11 @@
                     <nciodm:CDISCSynonym>Renal CL Norm by WT</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The clearance of a substance from the blood by the kidneys divided by the weight.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Renal Clearance Normalized by WT</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Stationarity Ratio AUC" nciodm:ExtCodeID="C122338">
+                    <nciodm:CDISCSynonym>Stationarity Ratio AUC</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The area under the curve (AUCTAU) at steady state divided by the area under the curve extrapolated to infinity for the initial dosing interval.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Stationarity Ratio Area Under the Curve</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Sum of Urine Vol" nciodm:ExtCodeID="C85817">
                     <nciodm:CDISCSynonym>Sum of Urine Vol</nciodm:CDISCSynonym>
@@ -1186,6 +1246,11 @@
                     <nciodm:CDISCSynonym>Total CL Pred Norm by WT</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The total body clearance for intravascular administration, calculated using the predicted value of the last non-zero concentration, divided by the weight.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Total Clearance Predicted Normalized by Weight</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Trough Peak Ratio" nciodm:ExtCodeID="C122339">
+                    <nciodm:CDISCSynonym>Trough Peak Ratio</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The concentration at the start of a dosing interval divided by the maximum concentration during the dosing interval.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Trough Peak Ratio</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Vol Dist Initial" nciodm:ExtCodeID="C102371">
                     <nciodm:CDISCSynonym>Vol Dist Initial</nciodm:CDISCSynonym>
@@ -1414,6 +1479,6 @@
                 </EnumeratedItem>
                 <nciodm:CDISCSubmissionValue>PKPARM</nciodm:CDISCSubmissionValue>
                 <nciodm:CDISCSynonym>PK Parameters</nciodm:CDISCSynonym>
-                <nciodm:PreferredTerm>CDISC SDTM Pharmacokinetic Parameter Terminology</nciodm:PreferredTerm>
+                <nciodm:PreferredTerm>CDISC SDTM Pharmacokinetic Parameter Long Name Terminology</nciodm:PreferredTerm>
             </CodeList>
             

@@ -132,6 +132,11 @@
                     <nciodm:CDISCDefinition>The value calculated as 100 x (1 - MLD/RVD), using the mean quantitative values for minimum lumen diameter (MLD) and reference vessel diameter (RVD).</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Percent Diameter Stenosis Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="SHAPE" nciodm:ExtCodeID="C25677">
+                    <nciodm:CDISCSynonym>Shape</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The spatial arrangement of something as distinct from its substance. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Shape</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="THICK" nciodm:ExtCodeID="C41145">
                     <nciodm:CDISCSynonym>Thickness</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The dimension between two surfaces of an object, usually the smallest dimension as opposed to the width or the length.</nciodm:CDISCDefinition>

@@ -17,12 +17,10 @@
                     <nciodm:CDISCDefinition>The linear extent in space from one end of the body to the other end, or the extent of the body from beginning to end.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Total Body Length</nciodm:PreferredTerm>
                 </EnumeratedItem>
-                <EnumeratedItem CodedValue="BODYFAT" nciodm:ExtCodeID="C12472">
-                    <nciodm:CDISCSynonym>Adipose Tissue</nciodm:CDISCSynonym>
-                    <nciodm:CDISCSynonym>Body Fat</nciodm:CDISCSynonym>
-                    <nciodm:CDISCSynonym>Fat Tissue</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A specialized form of connective tissue consisting primarily of adipocytes (fat cells), surrounded by a meshwork of collagen fibers. (NCI)</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Adipose Tissue</nciodm:PreferredTerm>
+                <EnumeratedItem CodedValue="BODYFATM" nciodm:ExtCodeID="C122232">
+                    <nciodm:CDISCSynonym>Body Fat Measurement</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the total fat mass within the subject's body. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Body Fat Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="BSA" nciodm:ExtCodeID="C25157">
                     <nciodm:CDISCSynonym>Body Surface Area</nciodm:CDISCSynonym>
@@ -71,7 +69,6 @@
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="KNEEHEEL" nciodm:ExtCodeID="C84372">
                     <nciodm:CDISCSynonym>Knee to Heel Length</nciodm:CDISCSynonym>
-                    <nciodm:CDISCSynonym>Lower Leg Length</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the length of the lower leg from the top of the knee to the bottom of the heel. This measurement may be taken with a knemometer or calipers. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Knee to Heel Length Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
@@ -147,6 +144,6 @@
                 </EnumeratedItem>
                 <nciodm:CDISCSubmissionValue>VSTESTCD</nciodm:CDISCSubmissionValue>
                 <nciodm:CDISCSynonym>Vital Signs Test Code</nciodm:CDISCSynonym>
-                <nciodm:PreferredTerm>CDISC SDTM Vital Sign Terminology by Code</nciodm:PreferredTerm>
+                <nciodm:PreferredTerm>CDISC SDTM Vital Sign Test Code Terminology</nciodm:PreferredTerm>
             </CodeList>
             

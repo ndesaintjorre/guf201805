@@ -22,10 +22,15 @@
                     <nciodm:CDISCDefinition>System of classification based on the nation in which an individual was exposed to a disease, regardless of the nation in which he/she currently resides.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Country of Potential Disease Exposure</nciodm:PreferredTerm>
                 </EnumeratedItem>
-                <EnumeratedItem CodedValue="EDLEVEL" nciodm:ExtCodeID="C17953">
-                    <nciodm:CDISCSynonym>Education Level</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Years of education that a person has completed.</nciodm:CDISCDefinition>
+                <EnumeratedItem CodedValue="EDULEVEL" nciodm:ExtCodeID="C17953">
+                    <nciodm:CDISCSynonym>Level of Education Attained</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Highest level of education that a person has attained.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Education Level</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EDUYRNUM" nciodm:ExtCodeID="C122393">
+                    <nciodm:CDISCSynonym>Number of Years of Education</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The number of years of education that a person has completed.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Number of Years of Education</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="EMPJOB" nciodm:ExtCodeID="C25193">
                     <nciodm:CDISCSynonym>Employee Job</nciodm:CDISCSynonym>

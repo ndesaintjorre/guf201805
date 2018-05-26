@@ -1,0 +1,14 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C122006.CPFATS" Name="COPD Findings About Test Name" DataType="text" nciodm:ExtCodeID="C122006" nciodm:CodeListExtensible="Yes">
+                <Description>
+                    <TranslatedText xml:lang="en">Terminology relevant to the test names that describe findings about a COPD event or intervention.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="Cumulative Exposure" nciodm:ExtCodeID="C94596">
+                    <nciodm:CDISCSynonym>Cumulative Exposure</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The total amount that a subject is exposed to over time.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Cumulative Exposure</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>CPFATS</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>COPD Findings About Test Name</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM COPD Findings About Test Name Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

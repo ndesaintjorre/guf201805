@@ -170,6 +170,11 @@
                     <nciodm:CDISCDefinition>A measurement of the alpha-hydroxybutyrate dehydrogenase in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Alpha Hydroxybutyrate Dehydrogenase Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="ALA" nciodm:ExtCodeID="C122091">
+                    <nciodm:CDISCSynonym>Alanine</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the alanine in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Alanine Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="ALB" nciodm:ExtCodeID="C64431">
                     <nciodm:CDISCSynonym>Albumin</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Microalbumin</nciodm:CDISCSynonym>
@@ -191,6 +196,11 @@
                     <nciodm:CDISCSynonym>Albumin/Globulin</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The ratio of albumin to globulin in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Albumin to Globulin Ratio Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ALBGLYCA" nciodm:ExtCodeID="C122092">
+                    <nciodm:CDISCSynonym>Glycated Albumin</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the glycated albumin present in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Glycated Albumin Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="ALBPROT" nciodm:ExtCodeID="C103453">
                     <nciodm:CDISCSynonym>Albumin/Total Protein</nciodm:CDISCSynonym>
@@ -342,8 +352,13 @@
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="ANA" nciodm:ExtCodeID="C74916">
                     <nciodm:CDISCSynonym>Antinuclear Antibodies</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A measurement of the antinuclear antibodies (antibodies that attack the body's own tissue) in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A measurement of the total antinuclear antibodies (antibodies that attack the body's own tissue) in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Antinuclear Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ANAIGGAB" nciodm:ExtCodeID="C122093">
+                    <nciodm:CDISCSynonym>Antinuclear IgG Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the antinuclear IgG antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Antinuclear IgG Antibody Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="ANCAB" nciodm:ExtCodeID="C120626">
                     <nciodm:CDISCSynonym>Anti-Neutrophil Cytoplasmic Antibody</nciodm:CDISCSynonym>
@@ -441,9 +456,15 @@
                     <nciodm:PreferredTerm>Antiphospholipid Antibody Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="APLSMA2" nciodm:ExtCodeID="C103351">
+                    <nciodm:CDISCSynonym>Alpha-2 Antiplasmin</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Alpha-2 Plasmin Inhibitor</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the alpha-2 antiplasmin in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Alpha-2 Antiplasmin Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="APLSMA2A" nciodm:ExtCodeID="C122094">
+                    <nciodm:CDISCSynonym>Alpha-2 Antiplasmin Activity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the alpha-2 antiplasmin activity in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Alpha-2 Antiplasmin Activity Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="APOA1" nciodm:ExtCodeID="C74733">
                     <nciodm:CDISCSynonym>Apolipoprotein A1</nciodm:CDISCSynonym>
@@ -588,10 +609,26 @@
                     <nciodm:CDISCDefinition>A measurement of the arachidonic acid present in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Arachidonic Acid Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="ARG" nciodm:ExtCodeID="C122095">
+                    <nciodm:CDISCSynonym>Arginine</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the arginine in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Arginine Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="ASCAB" nciodm:ExtCodeID="C81976">
                     <nciodm:CDISCSynonym>Anti-Saccharomyces cerevisiae Antibody</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the anti-Saccharomyces cerevisiae antibody in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Anti-Saccharomyces cerevisiae Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ASN" nciodm:ExtCodeID="C122096">
+                    <nciodm:CDISCSynonym>Asparagine</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the asparagine in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Asparagine Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ASP" nciodm:ExtCodeID="C122097">
+                    <nciodm:CDISCSynonym>Aspartate</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Aspartic Acid</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the aspartic acid in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Aspartic Acid Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="ASSDNA" nciodm:ExtCodeID="C92269">
                     <nciodm:CDISCSynonym>Anti-Single Stranded DNA IgG</nciodm:CDISCSynonym>
@@ -695,6 +732,35 @@
                     <nciodm:CDISCSynonym>Basophils/Leukocytes</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A relative measurement (ratio or percentage) of the basophils to leukocytes in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Basophil to Leukocyte Ratio</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BBRAB" nciodm:ExtCodeID="C122098">
+                    <nciodm:CDISCSynonym>Borrelia burgdorferi Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Lyme Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the total Borrelia burgdorferi antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Borrelia burgdorferi Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BBRIGAAB" nciodm:ExtCodeID="C122099">
+                    <nciodm:CDISCSynonym>Borrelia burgdorferi IgA Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Lyme IgA Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Borrelia burgdorferi IgA antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Borrelia burgdorferi IgA Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BBRIGGAB" nciodm:ExtCodeID="C122100">
+                    <nciodm:CDISCSynonym>Borrelia burgdorferi IgG Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Lyme IgG Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Borrelia burgdorferi IgG antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Borrelia burgdorferi IgG Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BBRIGMAB" nciodm:ExtCodeID="C122101">
+                    <nciodm:CDISCSynonym>Borrelia burgdorferi IgM Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Lyme IgM Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Borrelia burgdorferi IgM antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Borrelia burgdorferi IgM Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BD2" nciodm:ExtCodeID="C122102">
+                    <nciodm:CDISCSynonym>Beta-defensin 2</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the beta-defensin 2 in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Beta-defensin 2 Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="BDNF" nciodm:ExtCodeID="C82004">
                     <nciodm:CDISCSynonym>Brain-Derived Neurotrophic Factor</nciodm:CDISCSynonym>
@@ -909,6 +975,11 @@
                     <nciodm:CDISCDefinition>A relative measurement (ratio or percentage) (ratio) of the blood urea nitrogen (BUN) to the creatinine in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Blood Urea Nitrogen To Creatinine Ratio Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="BUPREN" nciodm:ExtCodeID="C75352">
+                    <nciodm:CDISCSynonym>Buprenorphine</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the buprenorphine drug present in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Buprenorphine Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="BURRCE" nciodm:ExtCodeID="C74701">
                     <nciodm:CDISCSynonym>Burr Cells</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Keratocytes</nciodm:CDISCSynonym>
@@ -1120,6 +1191,12 @@
                     <nciodm:CDISCDefinition>A measurement of the cyclic citrullinated peptide antibody in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Cyclic Citrullinated Peptide Antibody Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="CCR5" nciodm:ExtCodeID="C122103">
+                    <nciodm:CDISCSynonym>C-C Chemokine Receptor Type 5</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>CD195</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the CCR5, chemokine (C-C motif) receptor type 5, in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-C Chemokine Receptor Type 5 Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="CD1" nciodm:ExtCodeID="C103364">
                     <nciodm:CDISCSynonym>CD1</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A count of the CD1 expressing cells per unit of a biological specimen.</nciodm:CDISCDefinition>
@@ -1155,6 +1232,16 @@
                     <nciodm:CDISCSynonym>CD14</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A count of the CD14 expressing cells per unit of a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>CD14 Expressing Cell Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CD161ALY" nciodm:ExtCodeID="C122104">
+                    <nciodm:CDISCSynonym>CD161a/Lymphocytes</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A relative measurement (ratio or percentage) of CD161a expressing cells to all lymphocytes in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CD161a to Lymphocyte Ratio Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CD161LY" nciodm:ExtCodeID="C122105">
+                    <nciodm:CDISCSynonym>CD161/Lymphocytes</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A relative measurement (ratio or percentage) of CD161 expressing cells to all lymphocytes in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CD161 to Lymphocyte Ratio Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="CD19" nciodm:ExtCodeID="C103808">
                     <nciodm:CDISCSynonym>CD19</nciodm:CDISCSynonym>
@@ -1230,6 +1317,16 @@
                     <nciodm:CDISCSynonym>CD40 Ligand</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A count of the CD40 ligand cells per unit in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>CD40 Ligand Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CD45LY" nciodm:ExtCodeID="C122106">
+                    <nciodm:CDISCSynonym>CD45/Lymphocytes</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A relative measurement (ratio or percentage) of CD45 expressing cells to all lymphocytes in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CD45 to Lymphocyte Ratio Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CD45RALY" nciodm:ExtCodeID="C122107">
+                    <nciodm:CDISCSynonym>CD45RA/Lymphocytes</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A relative measurement (ratio or percentage) of CD45RA expressing cells to all lymphocytes in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CD45RA to Lymphocyte Ratio Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="CD4CD8" nciodm:ExtCodeID="C103814">
                     <nciodm:CDISCSynonym>CD4/CD8</nciodm:CDISCSynonym>
@@ -1317,6 +1414,11 @@
                     <nciodm:CDISCDefinition>A measurement of the biological activity of cholesteryl ester transfer protein in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Cholesteryl Ester Transfer Protein Activity Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="CGA" nciodm:ExtCodeID="C122108">
+                    <nciodm:CDISCSynonym>Chromogranin A</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the chromogranin A in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Chromogranin A Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="CGMP" nciodm:ExtCodeID="C111165">
                     <nciodm:CDISCSynonym>Cyclic Guanosine 3,5-Monophosphate</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the cyclic guanosine 3,5-monophosphate in a biological specimen.</nciodm:CDISCDefinition>
@@ -1355,8 +1457,20 @@
                     <nciodm:CDISCDefinition>A measurement of the total chymotrypsin in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Chymotrypsin Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="CIT" nciodm:ExtCodeID="C122109">
+                    <nciodm:CDISCSynonym>Citrulline</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the citrulline in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Citrulline Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CITCREAT" nciodm:ExtCodeID="C122110">
+                    <nciodm:CDISCSynonym>Citrate/Creatinine</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Citric Acid/Creatinine</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A relative measurement (ratio or percentage) of the citrate to creatinine in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Citrate to Creatinine Ratio Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="CITRATE" nciodm:ExtCodeID="C92248">
                     <nciodm:CDISCSynonym>Citrate</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Citric Acid</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the citrate in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Citrate Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
@@ -1450,6 +1564,12 @@
                     <nciodm:CDISCDefinition>A measurement of the cytomegalovirus viral load in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Cytomegalovirus Viral Load Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="CNTIGGAB" nciodm:ExtCodeID="C122111">
+                    <nciodm:CDISCSynonym>Centromere IgG Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Centromere Protein B</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the centromere IgG antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Centromere IgG Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="CO2" nciodm:ExtCodeID="C64545">
                     <nciodm:CDISCSynonym>Carbon Dioxide</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the carbon dioxide gas in a biological specimen.</nciodm:CDISCDefinition>
@@ -1537,6 +1657,11 @@
                     <nciodm:CDISCSynonym>Chlamydia pneumoniae IgM Antibody</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the Chlamydia pneumoniae IgM in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Chlamydia pneumoniae IgM Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CRDIGAAB" nciodm:ExtCodeID="C122112">
+                    <nciodm:CDISCSynonym>Cardiolipin IgA Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the cardiolipin IgA antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Cardiolipin IgA Antibody Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="CRDIGGAB" nciodm:ExtCodeID="C111144">
                     <nciodm:CDISCSynonym>Anti-Cardiolipin IgG Antibody</nciodm:CDISCSynonym>
@@ -1736,6 +1861,11 @@
                     <nciodm:CDISCSynonym>Type II Collagen C-Telopeptides</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the type II collagen C-telopeptides in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Type II Collagen C-Telopeptide Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CTXIICRT" nciodm:ExtCodeID="C122113">
+                    <nciodm:CDISCSynonym>Type II Collagen C-Telopeptides/Creat</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A relative measurement (ratio or percentage) of the type II collagen C-telopeptides to creatinine in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Type II Collagen C-Telopeptides to Creatinine Ratio Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="CXCL10" nciodm:ExtCodeID="C112238">
                     <nciodm:CDISCSynonym>Chemokine (C-X-C Motif) Ligand 10</nciodm:CDISCSynonym>
@@ -1998,6 +2128,16 @@
                     <nciodm:CDISCDefinition>A relative measurement (ratio or percentage) of the dilute Russell's viper venom time in a subject sample to a control sample.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Dilute Russell's Viper Venom Time to Control Ratio Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="DSG1AB" nciodm:ExtCodeID="C122114">
+                    <nciodm:CDISCSynonym>Desmoglein 1 Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the desmoglein 1 antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Desmoglein 1 Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DSG3AB" nciodm:ExtCodeID="C122115">
+                    <nciodm:CDISCSynonym>Desmoglein 3 Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the desmoglein 3 antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Desmoglein 3 Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="DTPACLR" nciodm:ExtCodeID="C100441">
                     <nciodm:CDISCSynonym>DTPA Clearance</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the volume of serum or plasma that would be cleared of Diethylenetriamine pentaacetate (DTPA) through its excretion for a specified unit of time.</nciodm:CDISCDefinition>
@@ -2017,6 +2157,11 @@
                     <nciodm:CDISCSynonym>Epstein-Barr Early Antigen</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the Epstein-Barr early antigen in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Epstein-Barr Early Antigen Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EBEDIGAB" nciodm:ExtCodeID="C122116">
+                    <nciodm:CDISCSynonym>Epstein-Barr Early D Antigen IgG Ab</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Epstein-Barr early diffuse antigen IgG antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Epstein-Barr Early D Antigen IgG Antibody Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="EBN1IGAB" nciodm:ExtCodeID="C106518">
                     <nciodm:CDISCSynonym>Epstein-Barr Nuclear Antigen 1 IgG Ab</nciodm:CDISCSynonym>
@@ -2401,10 +2546,20 @@
                     <nciodm:CDISCDefinition>A measurement of the von Willebrand factor in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>von Willebrand Factor Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="FACTVWA" nciodm:ExtCodeID="C122117">
+                    <nciodm:CDISCSynonym>von Willebrand Factor Activity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the biological activity of von Willebrand factor in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>von Willebrand Factor Activity Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="FACTX" nciodm:ExtCodeID="C98727">
                     <nciodm:CDISCSynonym>Factor X</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the factor X in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Factor X Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FACTXA" nciodm:ExtCodeID="C122118">
+                    <nciodm:CDISCSynonym>Factor X Activity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the factor X activity in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Factor X Activity Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="FACTXIII" nciodm:ExtCodeID="C112277">
                     <nciodm:CDISCSynonym>Factor XIII</nciodm:CDISCSynonym>
@@ -2496,6 +2651,11 @@
                     <nciodm:CDISCDefinition>A measurement of the fractional excretion of potassium that is computed based upon the concentrations of potassium and creatinine in both blood and urine.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Fractional Excretion of Potassium</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="FEMG" nciodm:ExtCodeID="C122119">
+                    <nciodm:CDISCSynonym>Fractional Magnesium Excretion</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the fractional excretion of magnesium that is computed based upon the concentrations of magnesium and creatinine in both blood and urine.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Fractional Excretion of Magnesium</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="FENA" nciodm:ExtCodeID="C107435">
                     <nciodm:CDISCSynonym>Fractional Sodium Excretion</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the fractional excretion of sodium that is computed based upon the concentrations of sodium and creatinine in both blood and urine.</nciodm:CDISCDefinition>
@@ -2534,6 +2694,11 @@
                     <nciodm:CDISCSynonym>Fibrinogen</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the fibrinogen in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Fibrinogen Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FLUORIDE" nciodm:ExtCodeID="C122120">
+                    <nciodm:CDISCSynonym>Fluoride</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the fluoride in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Fluoride Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="FRUCT" nciodm:ExtCodeID="C74678">
                     <nciodm:CDISCSynonym>Fructosamine</nciodm:CDISCSynonym>
@@ -2662,6 +2827,11 @@
                     <nciodm:CDISCDefinition>A measurement of the glutamate dehydrogenase in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Glutamate Dehydrogenase Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="GLN" nciodm:ExtCodeID="C122121">
+                    <nciodm:CDISCSynonym>Glutamine</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the glutamine in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Glutamine Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="GLOBA1" nciodm:ExtCodeID="C92252">
                     <nciodm:CDISCSynonym>A1-Globulin</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Alpha-1 Globulin</nciodm:CDISCSynonym>
@@ -2770,6 +2940,11 @@
                     <nciodm:CDISCSynonym>Glutamic Acid</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the glutamate in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Glutamate Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="GLY" nciodm:ExtCodeID="C122122">
+                    <nciodm:CDISCSynonym>Glycine</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the glycine in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Glycine Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="GLYCRLFR" nciodm:ExtCodeID="C100448">
                     <nciodm:CDISCSynonym>Free Glycerin</nciodm:CDISCSynonym>
@@ -3180,10 +3355,21 @@
                     <nciodm:CDISCDefinition>A measurement of the oxyhemoglobin, oxygen-bound hemoglobin, in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Oxyhemoglobin Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="HGBS" nciodm:ExtCodeID="C122123">
+                    <nciodm:CDISCSynonym>Hemoglobin S</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Sickle Hemoglobin</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the hemoglobin S in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Hemoglobin S Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="HGRNA" nciodm:ExtCodeID="C92272">
                     <nciodm:CDISCSynonym>Hepatitis G RNA</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the Hepatitis G RNA in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Hepatitis G RNA Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HIS" nciodm:ExtCodeID="C122124">
+                    <nciodm:CDISCSynonym>Histidine</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the histidine in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Histidine Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="HIST1AB" nciodm:ExtCodeID="C112293">
                     <nciodm:CDISCSynonym>Histone 1 Antibody</nciodm:CDISCSynonym>
@@ -3228,7 +3414,7 @@
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="HIV12AB" nciodm:ExtCodeID="C74714">
                     <nciodm:CDISCSynonym>HIV-1/2 Antibody</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A measurement of the antibody reaction of a biological specimen to the either the HIV-1 or HIV-2 virus.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A measurement of the antibody reaction of a biological specimen to either the HIV-1 or HIV-2 virus.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>HIV-1 HIV-2 Antibody Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="HIV1AB" nciodm:ExtCodeID="C74713">
@@ -3347,6 +3533,13 @@
                     <nciodm:CDISCDefinition>A measurement of the herpes simplex virus 6 antibody in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Herpes Simplex Virus 6 Antibody Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="HTLV12AB" nciodm:ExtCodeID="C122125">
+                    <nciodm:CDISCSynonym>HTLV-1/2 Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>HTLV-I/II Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Human T-cell Lymphotropic Virus 1/2 Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the antibody reaction of a biological specimen to either the HTLV-1 or HTLV-2 virus.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HTLV-I HTLV-II Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="HTPHAB" nciodm:ExtCodeID="C81984">
                     <nciodm:CDISCSynonym>Heterophile Antibodies</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the heterophile antibodies in a biological specimen.</nciodm:CDISCDefinition>
@@ -3437,6 +3630,11 @@
                     <nciodm:CDISCDefinition>A measurement of the islet cell 512 antigen in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Islet Cell 512 Antigen Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="ICAIGGAB" nciodm:ExtCodeID="C122126">
+                    <nciodm:CDISCSynonym>Islet Cell Cytoplasmic IgG Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the islet cell cytoplasmic IgG antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Islet Cell Cytoplasmic IgG Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="ICTERUSI" nciodm:ExtCodeID="C111232">
                     <nciodm:CDISCSynonym>Icteric Index</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Icterus</nciodm:CDISCSynonym>
@@ -3510,6 +3708,26 @@
                     <nciodm:CDISCSynonym>Immunoglobulin G</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the Immunoglobulin G in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Immunoglobulin G Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IGG1" nciodm:ExtCodeID="C122127">
+                    <nciodm:CDISCSynonym>Immunoglobulin G Subclass 1</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the immunoglobulin G subclass 1 in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Immunoglobulin G Subclass 1 Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IGG2" nciodm:ExtCodeID="C122128">
+                    <nciodm:CDISCSynonym>Immunoglobulin G Subclass 2</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the immunoglobulin G subclass 2 in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Immunoglobulin G Subclass 2 Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IGG3" nciodm:ExtCodeID="C122129">
+                    <nciodm:CDISCSynonym>Immunoglobulin G Subclass 3</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the immunoglobulin G subclass 3 in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Immunoglobulin G Subclass 3 Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IGG4" nciodm:ExtCodeID="C122130">
+                    <nciodm:CDISCSynonym>Immunoglobulin G Subclass 4</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the immunoglobulin G subclass 4 in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Immunoglobulin G Subclass 4 Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="IGGCREAT" nciodm:ExtCodeID="C119285">
                     <nciodm:CDISCSynonym>Immunoglobulin G/Creatinine</nciodm:CDISCSynonym>
@@ -3655,6 +3873,11 @@
                     <nciodm:CDISCSynonym>Interleukin 19</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the interleukin 19 in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Interleukin 19 Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="INTLK1A" nciodm:ExtCodeID="C122131">
+                    <nciodm:CDISCSynonym>Interleukin 1 Alpha</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of interleukin 1 alpha in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Interleukin 1 Alpha Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="INTLK1B" nciodm:ExtCodeID="C112323">
                     <nciodm:CDISCSynonym>IL-1B</nciodm:CDISCSynonym>
@@ -3898,6 +4121,11 @@
                     <nciodm:CDISCDefinition>A measurement of the lactic acid in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Lactic Acid Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="LAP" nciodm:ExtCodeID="C122132">
+                    <nciodm:CDISCSynonym>Leucine Aminopeptidase</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the total leucine aminopeptidase present in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Leucine Aminopeptidase Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="LCN2" nciodm:ExtCodeID="C106539">
                     <nciodm:CDISCSynonym>Lipocalin-2</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of lipocalin-2 in a biological specimen.</nciodm:CDISCDefinition>
@@ -4007,6 +4235,11 @@
                     <nciodm:CDISCSynonym>Leptin</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the leptin hormone in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Leptin Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEU" nciodm:ExtCodeID="C122133">
+                    <nciodm:CDISCSynonym>Leucine</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the leucine in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Leucine Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="LEUKASE" nciodm:ExtCodeID="C64856">
                     <nciodm:CDISCSynonym>Leukocyte Esterase</nciodm:CDISCSynonym>
@@ -4239,6 +4472,11 @@
                     <nciodm:CDISCDefinition>A measurement of the vacuolated lymphocytes in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Vacuolated Lymphocyte Count</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="LYS" nciodm:ExtCodeID="C122134">
+                    <nciodm:CDISCSynonym>Lysine</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the lysine in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Lysine Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="LYSOZYME" nciodm:ExtCodeID="C120640">
                     <nciodm:CDISCSynonym>Lysozyme</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of lysozyme in a biological specimen.</nciodm:CDISCDefinition>
@@ -4264,6 +4502,11 @@
                     <nciodm:CDISCSynonym>May-Hegglin Anomaly</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the May-Hegglin anomaly in a blood sample. This anomaly is characterized by large, misshapen platelets and the presence of Dohle bodies in leukocytes.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>May-Hegglin Anomaly Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MBP" nciodm:ExtCodeID="C122135">
+                    <nciodm:CDISCSynonym>Myelin Basic Protein</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the myelin basic protein in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Myelin Basic Protein Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="MCH" nciodm:ExtCodeID="C64797">
                     <nciodm:CDISCSynonym>Ery. Mean Corpuscular Hemoglobin</nciodm:CDISCSynonym>
@@ -4335,6 +4578,11 @@
                     <nciodm:CDISCSynonym>Meningeal Cells/Total Cells</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A relative measurement (ratio or percentage) of the meningeal cells to total cells in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Meningeal Cell to Total Cell Ratio Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MET" nciodm:ExtCodeID="C122238">
+                    <nciodm:CDISCSynonym>Methionine</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the methionine in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Methionine Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="METAMY" nciodm:ExtCodeID="C74615">
                     <nciodm:CDISCSynonym>Metamyelocytes</nciodm:CDISCSynonym>
@@ -4481,6 +4729,11 @@
                     <nciodm:CDISCSynonym>Matrix Metalloproteinase 9</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the matrix metalloproteinase 9 in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Matrix Metalloproteinase 9 Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MMPIGGAB" nciodm:ExtCodeID="C122136">
+                    <nciodm:CDISCSynonym>Mumps Virus IgG Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the mumps virus IgG antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Mumps Virus IgG Antibody Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="MOCYCE" nciodm:ExtCodeID="C111276">
                     <nciodm:CDISCSynonym>Monocytoid Cells</nciodm:CDISCSynonym>
@@ -4675,6 +4928,11 @@
                     <nciodm:CDISCDefinition>A relative measurement (ratio or percentage) of the N-acetyl glucosamide to creatinine in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>N-Acetyl Glucosamide to Creatinine Ratio Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="NAK" nciodm:ExtCodeID="C122137">
+                    <nciodm:CDISCSynonym>Sodium/Potassium</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A relative measurement (ratio or percentage) of the sodium to potassium in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Sodium to Potassium Ratio Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="NCTD5P" nciodm:ExtCodeID="C79437">
                     <nciodm:CDISCSynonym>5 Prime Nucleotidase</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>5'-Ribonucleotide Phosphohydrolase</nciodm:CDISCSynonym>
@@ -4825,6 +5083,11 @@
                     <nciodm:CDISCDefinition>A measurement of the norepinephrine hormone in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Noradrenaline Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="NORMETA" nciodm:ExtCodeID="C122138">
+                    <nciodm:CDISCSynonym>Normetanephrine</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the normetanephrine in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Normetanephrine Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="NPAP" nciodm:ExtCodeID="C100434">
                     <nciodm:CDISCSynonym>Non-Prostatic Acid Phosphatase</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the non-prostatic acid phosphatase in a biological specimen.</nciodm:CDISCDefinition>
@@ -4877,6 +5140,11 @@
                     <nciodm:CDISCDefinition>A measurement of the blood in body products such as a urine or stool sample, not detectable on gross examination.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Occult Blood Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="OLIGBAND" nciodm:ExtCodeID="C122139">
+                    <nciodm:CDISCSynonym>Oligoclonal Bands</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the oligoclonal bands in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Oligoclonal Bands Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="OPG" nciodm:ExtCodeID="C116206">
                     <nciodm:CDISCSynonym>OCIF</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Osteoclastogenesis Inhibitory Factor</nciodm:CDISCSynonym>
@@ -4890,6 +5158,11 @@
                     <nciodm:CDISCSynonym>Opiate</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of any opiate class drug present in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Opiate Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ORNITHIN" nciodm:ExtCodeID="C122140">
+                    <nciodm:CDISCSynonym>Ornithine</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the ornithine in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Ornithine Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="OSMLTY" nciodm:ExtCodeID="C74801">
                     <nciodm:CDISCSynonym>Osmolality</nciodm:CDISCSynonym>
@@ -5159,11 +5432,21 @@
                     <nciodm:CDISCDefinition>The negative logarithm (base 10) of the concentration of hydronium ions, which is used as a measure of the acidity or alkalinity of a fluid.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>pH</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="PHE" nciodm:ExtCodeID="C81280">
+                    <nciodm:CDISCSynonym>Phenylalanine</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the phenylalanine in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Phenylalanine Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="PHENTHZ" nciodm:ExtCodeID="C74695">
                     <nciodm:CDISCSynonym>Dibenzothiazine</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Phenothiazine</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the phenothiazine present in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Phenothiazine Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PHNBRBTL" nciodm:ExtCodeID="C75368">
+                    <nciodm:CDISCSynonym>Phenobarbital</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the phenobarbital present in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Phenobarbital Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="PHOS" nciodm:ExtCodeID="C64857">
                     <nciodm:CDISCSynonym>Inorganic Phosphate</nciodm:CDISCSynonym>
@@ -5364,6 +5647,11 @@
                     <nciodm:CDISCDefinition>A relative measurement (ratio or percentage) of prolymphocytes to leukocytes in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Prolymphocyte to Leukocyte Ratio</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="PRO" nciodm:ExtCodeID="C122141">
+                    <nciodm:CDISCSynonym>Proline</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the proline in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Proline Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="PROGEST" nciodm:ExtCodeID="C74791">
                     <nciodm:CDISCSynonym>Progesterone</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the progesterone hormone in a biological specimen.</nciodm:CDISCDefinition>
@@ -5459,8 +5747,13 @@
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="PROTS" nciodm:ExtCodeID="C100436">
                     <nciodm:CDISCSynonym>Protein S</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A measurement of the protein S in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A measurement of the total protein S in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Protein S Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PROTSFR" nciodm:ExtCodeID="C122142">
+                    <nciodm:CDISCSynonym>Protein S, Free</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the unbound protein S in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Free Protein S Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="PRTN3AB" nciodm:ExtCodeID="C120649">
                     <nciodm:CDISCSynonym>Proteinase 3 Antibody</nciodm:CDISCSynonym>
@@ -5487,6 +5780,21 @@
                     <nciodm:CDISCSynonym>Soluble P-Selectin</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the soluble P-selectin in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Soluble P-Selectin Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PSIGAAB" nciodm:ExtCodeID="C122143">
+                    <nciodm:CDISCSynonym>Phosphatidylserine IgA Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the phosphatidylserine IgA antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Phosphatidylserine Antibody IgA Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PSIGGAB" nciodm:ExtCodeID="C122144">
+                    <nciodm:CDISCSynonym>Phosphatidylserine IgG Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the phosphatidylserine IgG antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Phosphatidylserine Antibody IgG Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PSIGMAB" nciodm:ExtCodeID="C122145">
+                    <nciodm:CDISCSynonym>Phosphatidylserine IgM Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the phosphatidylserine IgM antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Phosphatidylserine Antibody IgM Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="PSP100AB" nciodm:ExtCodeID="C120651">
                     <nciodm:CDISCSynonym>P100 Polymyositis-scleroderma Autoag Ab</nciodm:CDISCSynonym>
@@ -5794,10 +6102,20 @@
                     <nciodm:CDISCDefinition>A measurement of the ribonucleoprotein Smith complex antibody in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Ribonucleoprotein Smith Complex Antibody Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="ROM" nciodm:ExtCodeID="C122146">
+                    <nciodm:CDISCSynonym>Reactive Oxygen Metabolite</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the reactive oxygen metabolite in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Reactive Oxygen Metabolite Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="ROULEAUX" nciodm:ExtCodeID="C74624">
                     <nciodm:CDISCSynonym>Rouleaux Formation</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the number of stacking red blood cells within a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Rouleaux Formation Count</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="RP3IGGAB" nciodm:ExtCodeID="C122147">
+                    <nciodm:CDISCSynonym>RNA Polymerase III IgG Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the RNA polymerase III IgG antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>RNA Polymerase III IgG Antibody Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="RPPAB" nciodm:ExtCodeID="C120659">
                     <nciodm:CDISCSynonym>Ribosomal P Protein Antibody</nciodm:CDISCSynonym>
@@ -5853,8 +6171,14 @@
                 <EnumeratedItem CodedValue="SCL70AB" nciodm:ExtCodeID="C100458">
                     <nciodm:CDISCSynonym>Scl-70 Antibody</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Scleroderma-70 Antibody</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A measurement of the Scl-70 antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A measurement of the total Scl-70 antibody in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Scl-70 Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SCL70GAB" nciodm:ExtCodeID="C122148">
+                    <nciodm:CDISCSynonym>Scl-70 IgG Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Scleroderma-70 IgG Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Scl-70 IgG antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Scl-70 IgG Antibody Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="SDH" nciodm:ExtCodeID="C79465">
                     <nciodm:CDISCSynonym>Sorbitol Dehydrogenase</nciodm:CDISCSynonym>
@@ -5872,6 +6196,11 @@
                     <nciodm:CDISCSynonym>Sediment Examination</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>An observation, assessment or examination of the sediment in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Sediment Analysis</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SER" nciodm:ExtCodeID="C122149">
+                    <nciodm:CDISCSynonym>Serine</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the serine in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Serine Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="SEZCE" nciodm:ExtCodeID="C74625">
                     <nciodm:CDISCSynonym>Sezary Cells</nciodm:CDISCSynonym>
@@ -5922,6 +6251,11 @@
                     <nciodm:CDISCDefinition>A measurement of the Sjogrens SS-B antibody in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Sjogren's SS-B Antibody Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="SLAIGGAB" nciodm:ExtCodeID="C122150">
+                    <nciodm:CDISCSynonym>Soluble Liver Antigen IgG Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the soluble liver antigen IgG antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Soluble Liver Antigen IgG Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="SLTFRNRC" nciodm:ExtCodeID="C100438">
                     <nciodm:CDISCSynonym>Soluble Transferrin Receptor</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the soluble transferrin receptor in a biological specimen.</nciodm:CDISCDefinition>
@@ -5961,8 +6295,13 @@
                     <nciodm:CDISCSynonym>Actin Antibody</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Anti-Smooth Muscle Antibody</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Smooth Muscle Antibody</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A measurement of the smooth muscle antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A measurement of the total smooth muscle antibody in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Smooth Muscle Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SMUSCGAB" nciodm:ExtCodeID="C122151">
+                    <nciodm:CDISCSynonym>Smooth Muscle IgG Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the smooth muscle IgG antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Smooth Muscle IgG Antibody Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="SO2" nciodm:ExtCodeID="C114224">
                     <nciodm:CDISCSynonym>Sulfur Dioxide</nciodm:CDISCSynonym>
@@ -6015,6 +6354,11 @@
                     <nciodm:CDISCDefinition>A measurement of the type II secretory phospholipase A2 in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Type II Secretory Phospholipase A2 Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="SPNAG" nciodm:ExtCodeID="C122152">
+                    <nciodm:CDISCSynonym>Streptococcus pneumoniae Antigen</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Streptococcus pneumoniae antigen in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Streptococcus pneumoniae Antigen Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="SPWEIGHT" nciodm:ExtCodeID="C106569">
                     <nciodm:CDISCSynonym>Specimen Weight</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the weight of a biological specimen.</nciodm:CDISCDefinition>
@@ -6045,6 +6389,12 @@
                     <nciodm:CDISCSynonym>Streptolysin O Antibody</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of Streptolysin O Antibody in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Streptolysin O Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SULFATE" nciodm:ExtCodeID="C122153">
+                    <nciodm:CDISCSynonym>Sulfate</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Sulphate</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the sulfate in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Sulfate Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="SVCAM1" nciodm:ExtCodeID="C92533">
                     <nciodm:CDISCSynonym>Soluble Vascular Cell Adhesion Molecule 1</nciodm:CDISCSynonym>
@@ -6090,6 +6440,12 @@
                     <nciodm:CDISCSynonym>Thrombin/Antithrombin III</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A relative measurement (ratio or percentage) of the thrombin to antithrombin present in a sample.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Thrombin to Antithrombin Ratio Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TAURINE" nciodm:ExtCodeID="C122154">
+                    <nciodm:CDISCSynonym>Tauric Acid</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Taurine</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the taurine in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Taurine Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="TBG" nciodm:ExtCodeID="C74746">
                     <nciodm:CDISCSynonym>Thyroxine Binding Globulin</nciodm:CDISCSynonym>
@@ -6140,6 +6496,11 @@
                     <nciodm:CDISCDefinition>A measurement of the iron bound to transferrin in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Transferrin Saturation Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="TGFB" nciodm:ExtCodeID="C122155">
+                    <nciodm:CDISCSynonym>Transforming Growth Factor Beta</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the total transforming growth factor beta in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Transforming Growth Factor Beta Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="TGFB1" nciodm:ExtCodeID="C117861">
                     <nciodm:CDISCSynonym>Transforming Growth Factor Beta 1</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the transforming growth factor beta 1 in a biological specimen.</nciodm:CDISCDefinition>
@@ -6155,6 +6516,11 @@
                     <nciodm:CDISCSynonym>Theophylline</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the Theophylline present in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Theophylline Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="THR" nciodm:ExtCodeID="C122156">
+                    <nciodm:CDISCSynonym>Threonine</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the threonine in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Threonine Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="THRMPTN" nciodm:ExtCodeID="C74873">
                     <nciodm:CDISCSynonym>Thrombopoietin</nciodm:CDISCSynonym>
@@ -6208,6 +6574,11 @@
                     <nciodm:CDISCSynonym>Thymidine Kinase</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the thymidine kinase in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Thymidine Kinase Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TLYCE" nciodm:ExtCodeID="C122157">
+                    <nciodm:CDISCSynonym>T-Lymphocytes</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the total thymocyte-derived lymphocytes in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>T-Lymphocyte Count</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="TNF" nciodm:ExtCodeID="C74751">
                     <nciodm:CDISCSynonym>Tumor Necrosis Factor</nciodm:CDISCSynonym>
@@ -6338,6 +6709,12 @@
                     <nciodm:CDISCDefinition>A measurement of the thyrotropin in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Thyrotropin Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="TSHRAB" nciodm:ExtCodeID="C122158">
+                    <nciodm:CDISCSynonym>Thyroid Stimulating Hormone Receptor Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Thyrotropin Receptor Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the thyrotropin receptor antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Thyroid Stimulating Hormone Receptor Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="TT" nciodm:ExtCodeID="C80365">
                     <nciodm:CDISCSynonym>Thrombin Time</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the time it takes a plasma sample to clot after adding the active enzyme thrombin. (NCI)</nciodm:CDISCDefinition>
@@ -6357,6 +6734,11 @@
                     <nciodm:CDISCSynonym>11-Dehydro-Thromboxane B2</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the 11-dehydro-thromboxane B2 in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>11-Dehydro-Thromboxane B2 Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TYR" nciodm:ExtCodeID="C122159">
+                    <nciodm:CDISCSynonym>Tyrosine</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the tyrosine in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Tyrosine Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="UNSPCE" nciodm:ExtCodeID="C112241">
                     <nciodm:CDISCSynonym>Unspecified Cells</nciodm:CDISCSynonym>
@@ -6393,6 +6775,11 @@
                     <nciodm:CDISCSynonym>Urobilinogen</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the urobilinogen in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Urobilinogen Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="VAL" nciodm:ExtCodeID="C122160">
+                    <nciodm:CDISCSynonym>Valine</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the valine in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Valine Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="VCAM1" nciodm:ExtCodeID="C82042">
                     <nciodm:CDISCSynonym>Vascular Cell Adhesion Molecule 1</nciodm:CDISCSynonym>
@@ -6625,6 +7012,6 @@
                 </EnumeratedItem>
                 <nciodm:CDISCSubmissionValue>LBTESTCD</nciodm:CDISCSubmissionValue>
                 <nciodm:CDISCSynonym>Laboratory Test Code</nciodm:CDISCSynonym>
-                <nciodm:PreferredTerm>CDISC SDTM Laboratory Test Terminology by Code</nciodm:PreferredTerm>
+                <nciodm:PreferredTerm>CDISC SDTM Laboratory Test Code Terminology</nciodm:PreferredTerm>
             </CodeList>
             

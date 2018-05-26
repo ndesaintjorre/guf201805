@@ -318,13 +318,13 @@
                     <nciodm:PreferredTerm>QTcB - Bazett's Correction Formula</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="QTCBAG" nciodm:ExtCodeID="C117784">
-                    <nciodm:CDISCSynonym>QTCB Interval, Aggregate</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A QTAG interval corrected for heart rate using Bazett's formula.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCSynonym>QTcB Interval, Aggregate</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A QT Aggregate interval corrected for heart rate using Bazett's formula.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Aggregate QTCB Interval</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="QTCBSB" nciodm:ExtCodeID="C117785">
-                    <nciodm:CDISCSynonym>QTCB Interval, Single Beat</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A QTSB interval corrected for heart rate using Bazett's formula.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCSynonym>QTcB Interval, Single Beat</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A QT Single Beat interval corrected for heart rate using Bazett's formula.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Single Beat QTCB Interval</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="QTCF" nciodm:ExtCodeID="C62113">
@@ -333,8 +333,8 @@
                     <nciodm:PreferredTerm>QTcF - Fridericia's Correction Formula</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="QTCFAG" nciodm:ExtCodeID="C117786">
-                    <nciodm:CDISCSynonym>QTCF Interval, Aggregate</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A QTAG interval corrected for heart rate using Fridericia's formula.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCSynonym>QTcF Interval, Aggregate</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A QT Aggregate interval corrected for heart rate using Fridericia's formula.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Aggregate QTCF Interval</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="QTCFMED" nciodm:ExtCodeID="C102253">
@@ -343,8 +343,8 @@
                     <nciodm:PreferredTerm>Median QTcF</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="QTCFSB" nciodm:ExtCodeID="C117787">
-                    <nciodm:CDISCSynonym>QTCF Interval, Single Beat</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A QTSB interval corrected for heart rate using Fridericia's formula.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCSynonym>QTcF Interval, Single Beat</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A QT Single Beat interval corrected for heart rate using Fridericia's formula.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Single Beat QTCF Interval</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="QTCLC" nciodm:ExtCodeID="C62114">
@@ -659,6 +659,6 @@
                 </EnumeratedItem>
                 <nciodm:CDISCSubmissionValue>EGTESTCD</nciodm:CDISCSubmissionValue>
                 <nciodm:CDISCSynonym>ECG Test Code</nciodm:CDISCSynonym>
-                <nciodm:PreferredTerm>CDISC SDTM ECG Test Terminology by Code</nciodm:PreferredTerm>
+                <nciodm:PreferredTerm>CDISC SDTM ECG Test Code Terminology</nciodm:PreferredTerm>
             </CodeList>
             

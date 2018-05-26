@@ -22,11 +22,6 @@
                     <nciodm:CDISCDefinition>The preferred hand of use for controlled and efficient performance of motor tasks.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Dominant Hand</nciodm:PreferredTerm>
                 </EnumeratedItem>
-                <EnumeratedItem CodedValue="Education Level" nciodm:ExtCodeID="C17953">
-                    <nciodm:CDISCSynonym>Education Level</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Years of education that a person has completed.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Education Level</nciodm:PreferredTerm>
-                </EnumeratedItem>
                 <EnumeratedItem CodedValue="Employee Job" nciodm:ExtCodeID="C25193">
                     <nciodm:CDISCSynonym>Employee Job</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A code specifying the job performed by the employee for the employer. For example, accountant, programmer analyst, patient care associate, staff nurse, etc.</nciodm:CDISCDefinition>
@@ -47,6 +42,11 @@
                     <nciodm:CDISCDefinition>The date on which the subject arrived in the reporting country from the country of potential disease exposure.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Entry Date from Country of Potential Disease Exposure</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="Level of Education Attained" nciodm:ExtCodeID="C17953">
+                    <nciodm:CDISCSynonym>Level of Education Attained</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Highest level of education that a person has attained.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Education Level</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="Marital Status" nciodm:ExtCodeID="C25188">
                     <nciodm:CDISCSynonym>Marital Status</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A demographic parameter indicating a person's current conjugal status.</nciodm:CDISCDefinition>
@@ -61,6 +61,11 @@
                     <nciodm:CDISCSynonym>National Origin</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>System of classification based on nation from which a person originates, regardless of the nation in which he/she currently resides.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>National Origin</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Number of Years of Education" nciodm:ExtCodeID="C122393">
+                    <nciodm:CDISCSynonym>Number of Years of Education</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The number of years of education that a person has completed.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Number of Years of Education</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Premature Birth Indicator" nciodm:ExtCodeID="C112400">
                     <nciodm:CDISCSynonym>Premature Birth Indicator</nciodm:CDISCSynonym>

@@ -91,6 +91,10 @@
                     <nciodm:CDISCDefinition>A microbiological technique for specimen collection and mounting for microscopic examination that utilizes a cellulose-based adhesive ribbon.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Cellulose Tape Method</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="CENTRIFUGATION" nciodm:ExtCodeID="C16410">
+                    <nciodm:CDISCDefinition>A separation technique used to isolate substances of different densities based on centrifugal force.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Centrifugation</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="CHROMATOGRAPHY" nciodm:ExtCodeID="C16431">
                     <nciodm:CDISCDefinition>A technique for the separation of complex mixtures that relies on the differential affinities of substances for a gas or liquid mobile medium and for a stationary adsorbing medium through which they pass.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Chromatography</nciodm:PreferredTerm>
@@ -132,6 +136,10 @@
                     <nciodm:CDISCDefinition>A procedure in which the catheter is passed into the aortic root or other great vessels for the purpose of angiography of the native coronary arteries or bypass grafts supplying native coronary arteries.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Coronary Angiography</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="CRYOSCOPY" nciodm:ExtCodeID="C122162">
+                    <nciodm:CDISCDefinition>A method for measuring the molar concentration of a substance in solution by determining the freezing point of the solution.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Cryoscopy</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="CT SCAN" nciodm:ExtCodeID="C17204">
                     <nciodm:CDISCSynonym>CT</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Computed Tomography</nciodm:CDISCSynonym>
@@ -171,6 +179,10 @@
                     <nciodm:CDISCSynonym>Gene Expression Array</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>An orderly array of DNA samples affixed to a support. The chip is used in various types of hybridization experiments. Used when a more specific microarray methodology is not specified.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>DNA Microarray Chip</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DUKE INCISION METHOD" nciodm:ExtCodeID="C122163">
+                    <nciodm:CDISCDefinition>A method for assessing bleeding time in which a controlled incision is made on the ear or fingertip.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Duke Incision Method</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="DXA SCAN" nciodm:ExtCodeID="C48789">
                     <nciodm:CDISCDefinition>A technique for scanning bone and measuring bone mineral density (BMD).</nciodm:CDISCDefinition>
@@ -212,6 +224,10 @@
                     <nciodm:CDISCDefinition>A method in which electromagnetic radiation, in the form of light emission, is generated from an electrochemical reaction in a solution due to the formation of antigen-antibody complexes.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Electrochemiluminescence Immunoassay</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="ELECTROMYOGRAPHY" nciodm:ExtCodeID="C38056">
+                    <nciodm:CDISCDefinition>A method to assess skeletal muscle function and nerve control, obtained by recording and studying the intrinsic electrical properties of the muscles.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Electromyography</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="ELECTROPHORESIS" nciodm:ExtCodeID="C16536">
                     <nciodm:CDISCDefinition>The motion of charged particles in a colloid under the influence of an electric field; particles with a positive charge go to the cathode and negative to the anode.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Electrophoresis</nciodm:PreferredTerm>
@@ -237,6 +253,10 @@
                 <EnumeratedItem CodedValue="ENZYMATIC COLORIMETRY" nciodm:ExtCodeID="C111195">
                     <nciodm:CDISCDefinition>A type of colorimetry that makes use of an enzymatic reaction to induce a color change. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Enzymatic Colorimetry</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ENZYMATIC ULTRACENTRIFUGATION" nciodm:ExtCodeID="C122164">
+                    <nciodm:CDISCDefinition>A high-speed centrifugation-based method that uses enzymatic catalytic reaction to quantify a substance.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Enzymatic Ultracentrifugation</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="ENZYME MULTIPLIED IMMUNOASSAY TECHNIQUE" nciodm:ExtCodeID="C111196">
                     <nciodm:CDISCSynonym>EMIT</nciodm:CDISCSynonym>
@@ -291,6 +311,11 @@
                 <EnumeratedItem CodedValue="FLUORIMETRY" nciodm:ExtCodeID="C62322">
                     <nciodm:CDISCDefinition>An analytical method that utilizes ultraviolet light to excite the sample and detects the fluorescence emitted during the return of the sample to its ground state. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Fluorimetry</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FORCED OSCILLATION TECHNIQUE" nciodm:ExtCodeID="C122165">
+                    <nciodm:CDISCSynonym>FOT</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A non-invasive method to evaluate respiratory mechanical properties of the lung and airways using small-amplitude pressure oscillations superimposed on the normal, tidal breathing of a subject.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Forced Oscillation Technique</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="FUNCTIONAL MRI" nciodm:ExtCodeID="C17958">
                     <nciodm:CDISCSynonym>fMRI</nciodm:CDISCSynonym>
@@ -417,9 +442,18 @@
                     <nciodm:CDISCDefinition>A method that measures the absorbance of light from a sample which is used for quantifying an amount of analyte based on the level of turbidity produced by the formation and precipitation of an immune complex containing the analyte. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Immunoturbidimetry</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="IMPULSE OSCILLOMETRY" nciodm:ExtCodeID="C122166">
+                    <nciodm:CDISCSynonym>IOS</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A non-invasive method to measure pulmonary resistance and reactance, and the impedance of the respiratory system, using small pressure oscillation of a regular square wave of pressure 5 times per second.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Impulse Oscillometry</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="IN SITU HYBRIDIZATION" nciodm:ExtCodeID="C17562">
                     <nciodm:CDISCDefinition>Use of a DNA or RNA probe to detect the presence of complementary sequences in chromosomes, cells, or tissues. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>In Situ Hybridization</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="INCISION-INDUCED BLEEDING METHOD" nciodm:ExtCodeID="C122039">
+                    <nciodm:CDISCDefinition>A method for assessing bleeding time in which a controlled incision is made in the dermis and the time to bleeding cessation is measured.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Incision-induced Bleeding Method</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="INDIA INK STAIN" nciodm:ExtCodeID="C85642">
                     <nciodm:CDISCDefinition>A microscopy staining method that utilizes India Ink, a water soluble carbon-based black ink, to determine the presence of microorganisms that are surrounded by a gelatinous capsule. This is a negative staining method in which background is stained in black and the microbes and microscopic structures of interest remain white.</nciodm:CDISCDefinition>
@@ -441,6 +475,10 @@
                 <EnumeratedItem CodedValue="IRON HEMATOXYLIN STAIN" nciodm:ExtCodeID="C85650">
                     <nciodm:CDISCDefinition>A microscopy staining method that utilizes a mixture of iron and hematoxylin to visualize intracellular structures in a microscopic sample. In this dye system, iron acts as a mordant to hematoxylin rendering it insoluble, thereby allowing irreversible blue-black colored dyeing to the cell nucleus.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Iron Hematoxylin Staining Method</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IVY INCISION METHOD" nciodm:ExtCodeID="C122167">
+                    <nciodm:CDISCDefinition>A method for assessing bleeding time in which a controlled incision is made on the underside of the arm and blood is drawn off of the incision site with blotting paper every 30 seconds until bleeding stops.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Ivy Incision Method</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="JAFFE REACTION" nciodm:ExtCodeID="C120694">
                     <nciodm:CDISCDefinition>A colorimetric method used to measure creatinine, in which color change is directly related to the amount of creatinine in an alkaline solution containing picric acid.</nciodm:CDISCDefinition>
@@ -465,10 +503,18 @@
                     <nciodm:CDISCDefinition>A technique used for the highly specific and selective capture and isolation of a cell population from a heterogeneous tissue section, cytological preparation, or live cell culture. This technique uses direct visualization of the cells via microscopy as well as a laser energy source for cutting and extraction of the cells.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Laser Capture Microdissection</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="LC-FL" nciodm:ExtCodeID="C122169">
+                    <nciodm:CDISCDefinition>An analytical technique where liquid chromatography with a fluorescence detector is used to separate, identify, and quantify substances in a sample.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Liquid Chromatography-Fluorescence</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="LC/MS" nciodm:ExtCodeID="C18475">
                     <nciodm:CDISCSynonym>Liquid Chromatography/Mass Spectrometry</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>An analytical technique wherein liquid chromatography is coupled to mass spectrometry in order to separate, identify, and quantify substances in a sample.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Liquid Chromatography Mass Spectrometry</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LC/MS/MS" nciodm:ExtCodeID="C122168">
+                    <nciodm:CDISCDefinition>An analytical technique where liquid chromatography is coupled to tandem mass spectrometry in order to separate, identify, and quantify substances in a sample.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Liquid Chromatography/Tandem Mass Spectrometry</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="LEAD CITRATE STAIN" nciodm:ExtCodeID="C92301">
                     <nciodm:CDISCDefinition>A microscopy staining method that utilizes lead citrate, a mixture of lead nitrate and sodium citrate, and has applications for electron microscopy staining.</nciodm:CDISCDefinition>
@@ -488,6 +534,10 @@
                     <nciodm:CDISCSynonym>LiPA</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A microbial identification technique in which polymerase chain reaction is used to amplify specific nucleic acid sequences in a biospecimen. The product of this reaction is then applied to a nitrocellulose test strip containing complementary DNA probes.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Line Probe Assay</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LIQUID SCINTILLATION COUNTING" nciodm:ExtCodeID="C122170">
+                    <nciodm:CDISCDefinition>A method for measuring the amount of ionizing radiation in a liquid substance. Samples are mixed with a mixture of solvent, surfactant and scintillators that can convert beta particles into light energy, which can be measured.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Liquid Scintillation Counting</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="LOOP-MEDIATED ISOTHERMAL AMPLIFICATION" nciodm:ExtCodeID="C102661">
                     <nciodm:CDISCSynonym>LAMP</nciodm:CDISCSynonym>
@@ -677,6 +727,10 @@
                     <nciodm:CDISCDefinition>An endoscopic examination of the pharynx, larynx, trachea and esophagus.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Panendoscopy</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="PEAK FLOWMETRY" nciodm:ExtCodeID="C122171">
+                    <nciodm:CDISCDefinition>A method for measuring the flow of air through the bronchi upon expiration.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Peak Flowmetry</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="PELLI-ROBSON EYE CHART" nciodm:ExtCodeID="C117878">
                     <nciodm:CDISCDefinition>A diagrammatic method to test visual acuity and contrast sensitivity, which uses large letters (at a 20/60 acuity) that decrease in contrast from right to left and top to bottom.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Pelli-Robson Contrast Sensitivity Eye Chart</nciodm:PreferredTerm>
@@ -709,6 +763,10 @@
                     <nciodm:CDISCDefinition>An imaging technique that utilizes positron emission tomography and single-photon emission computed tomography in a single machine.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Positron Emission Tomography and Single Photon Emission Computed Tomography Scan</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="PH METER" nciodm:ExtCodeID="C122172">
+                    <nciodm:CDISCDefinition>An electronic device used to measure the alkalinity or acidity of a liquid or semi-solid substance.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>pH Meter</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="PHASE CONTRAST MICROSCOPY" nciodm:ExtCodeID="C16857">
                     <nciodm:CDISCDefinition>A microscopic technique in which the amplitude shift that occurs when light passes through a specimen highlights structures or details within the specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Phase-Contrast Microscopy</nciodm:PreferredTerm>
@@ -733,6 +791,11 @@
                     <nciodm:CDISCSynonym>Physical Exam</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A systemic evaluation of the body and its functions using visual inspection, palpation, percussion and auscultation. The purpose is to determine the presence or absence of physical signs of disease or abnormality for an individual's health assessment.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Physical Examination</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PLETHYSMOGRAPHY" nciodm:ExtCodeID="C122173">
+                    <nciodm:CDISCSynonym>Body Box</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A method used to measure changes in volume, pressure and resistance within an organ or whole body by means of a plethysmograph.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Plethysmography</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="POLYMERASE CHAIN REACTION" nciodm:ExtCodeID="C17003">
                     <nciodm:CDISCSynonym>PCR</nciodm:CDISCSynonym>
@@ -873,6 +936,10 @@
                     <nciodm:CDISCDefinition>A method used to measure the breathing capacity of the lung by means of a spirometer.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Spirometry</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="TEMPLATE INCISION METHOD" nciodm:ExtCodeID="C122174">
+                    <nciodm:CDISCDefinition>A method for assessing bleeding time in which two controlled incisions are made on the forearm using a template to guide placement of the scalpel or blade.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Template Incision Method</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="TEST STRIP" nciodm:ExtCodeID="C50322">
                     <nciodm:CDISCDefinition>A piece of chemically treated medium designed to react in the presence of specific amounts of a trigger substance.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Test Strip Device Component</nciodm:PreferredTerm>
@@ -897,6 +964,10 @@
                     <nciodm:CDISCDefinition>A diagnostic radiologic test that involves the examination of the entire body in a single procedure.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Total Body Radiography</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="TRANSCRIPTION-MEDIATED AMPLIFICATION" nciodm:ExtCodeID="C122175">
+                    <nciodm:CDISCDefinition>A technique used to selectively replicate nucleic acid sequences from RNA templates using reverse transcriptase and RNA polymerase.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Transcription-mediated Amplification</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="TRANSMISSION ELECTRON MICROSCOPY" nciodm:ExtCodeID="C18216">
                     <nciodm:CDISCDefinition>An electron microscopy imaging technique that is utilized to examine structural components of a sample by passing electrons through the specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Transmission Electron Microscopy</nciodm:PreferredTerm>
@@ -916,6 +987,10 @@
                     <nciodm:CDISCSynonym>Two-color Microarray-based Gene Expression</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A genomic microarray-based method using cDNA from two samples, labeled with two separate fluorophores/dyes at different emission wavelengths, and hybridized to a single microarray. The relative fluorescence intensity of each dye is being measured.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Two Color Microarray</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="U-HPLC/MS/MS" nciodm:ExtCodeID="C122176">
+                    <nciodm:CDISCDefinition>An analytical technique where ultra-high performance liquid chromatography is coupled to tandem mass spectrometry in order to separate, identify, and quantify substances in a sample.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Ultra High-performance Liquid Chromatography/Tandem Mass Spectrometry</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="ULTRASOUND" nciodm:ExtCodeID="C17230">
                     <nciodm:CDISCDefinition>A technique in which high-frequency sound waves are bounced off internal organs and the echo pattern is converted into a 2 dimensional picture of the structures beneath the transducer.</nciodm:CDISCDefinition>

@@ -267,14 +267,14 @@
                     <nciodm:CDISCDefinition>A formula which takes into account the physiologic shortening of the QT interval which occurs as the heart rate increases, permitting comparison of the QT interval across a range of rates. It is mathematically defined as: QTcB = QT/SqRootRR(seconds) and theoretically corrects the QT interval to that which would be observed at a heart rate of 1 cycle per second. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>QTcB - Bazett's Correction Formula</nciodm:PreferredTerm>
                 </EnumeratedItem>
-                <EnumeratedItem CodedValue="QTCB Interval, Aggregate" nciodm:ExtCodeID="C117784">
-                    <nciodm:CDISCSynonym>QTCB Interval, Aggregate</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A QTAG interval corrected for heart rate using Bazett's formula.</nciodm:CDISCDefinition>
+                <EnumeratedItem CodedValue="QTcB Interval, Aggregate" nciodm:ExtCodeID="C117784">
+                    <nciodm:CDISCSynonym>QTcB Interval, Aggregate</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A QT Aggregate interval corrected for heart rate using Bazett's formula.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Aggregate QTCB Interval</nciodm:PreferredTerm>
                 </EnumeratedItem>
-                <EnumeratedItem CodedValue="QTCB Interval, Single Beat" nciodm:ExtCodeID="C117785">
-                    <nciodm:CDISCSynonym>QTCB Interval, Single Beat</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A QTSB interval corrected for heart rate using Bazett's formula.</nciodm:CDISCDefinition>
+                <EnumeratedItem CodedValue="QTcB Interval, Single Beat" nciodm:ExtCodeID="C117785">
+                    <nciodm:CDISCSynonym>QTcB Interval, Single Beat</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A QT Single Beat interval corrected for heart rate using Bazett's formula.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Single Beat QTCB Interval</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="QTcF - Fridericia's Correction Formula" nciodm:ExtCodeID="C62113">
@@ -282,14 +282,14 @@
                     <nciodm:CDISCDefinition>A formula which takes into account the physiologic shortening of the QT interval which occurs as the heart rate increases, permitting comparison of the QT interval across a range of rates. It is mathematically defined as: QTcF = QT/CubeRootRR(seconds) and theoretically corrects the QT interval to that which would be observed at a heart rate of 1 cycle per second. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>QTcF - Fridericia's Correction Formula</nciodm:PreferredTerm>
                 </EnumeratedItem>
-                <EnumeratedItem CodedValue="QTCF Interval, Aggregate" nciodm:ExtCodeID="C117786">
-                    <nciodm:CDISCSynonym>QTCF Interval, Aggregate</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A QTAG interval corrected for heart rate using Fridericia's formula.</nciodm:CDISCDefinition>
+                <EnumeratedItem CodedValue="QTcF Interval, Aggregate" nciodm:ExtCodeID="C117786">
+                    <nciodm:CDISCSynonym>QTcF Interval, Aggregate</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A QT Aggregate interval corrected for heart rate using Fridericia's formula.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Aggregate QTCF Interval</nciodm:PreferredTerm>
                 </EnumeratedItem>
-                <EnumeratedItem CodedValue="QTCF Interval, Single Beat" nciodm:ExtCodeID="C117787">
-                    <nciodm:CDISCSynonym>QTCF Interval, Single Beat</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A QTSB interval corrected for heart rate using Fridericia's formula.</nciodm:CDISCDefinition>
+                <EnumeratedItem CodedValue="QTcF Interval, Single Beat" nciodm:ExtCodeID="C117787">
+                    <nciodm:CDISCSynonym>QTcF Interval, Single Beat</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A QT Single Beat interval corrected for heart rate using Fridericia's formula.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Single Beat QTCF Interval</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="QTcLC - Linear Correction Formula" nciodm:ExtCodeID="C62114">
