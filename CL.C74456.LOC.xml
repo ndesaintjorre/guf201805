@@ -117,6 +117,21 @@
                     <nciodm:CDISCDefinition>A valve that is located between and controls the flow of blood from the left ventricle of the heart and the aorta. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Aortic Valve</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="AORTIC VALVE, LEFT CORONARY CUSP" nciodm:ExtCodeID="C127638">
+                    <nciodm:CDISCSynonym>Aortic Valve, Left Semilunar Cusp</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The cusp of the aortic valve that overlies the left coronary ostium.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Left Coronary Cusp of the Aortic Valve</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="AORTIC VALVE, NON-CORONARY CUSP" nciodm:ExtCodeID="C127639">
+                    <nciodm:CDISCSynonym>Aortic Valve, Posterior Semilunar Cusp</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The cusp of the aortic valve that is positioned posteriorly relative to the left and right aortic cusps.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Non-Coronary Cusp of the Aortic Valve</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="AORTIC VALVE, RIGHT CORONARY CUSP" nciodm:ExtCodeID="C127640">
+                    <nciodm:CDISCSynonym>Aortic Valve, Right Semilunar Cusp</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The cusp of the aortic valve that overlies the right coronary ostium.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Right Coronary Cusp of the Aortic Valve</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="AORTO-ILIAC PERIPHERAL ARTERY" nciodm:ExtCodeID="C116166">
                     <nciodm:CDISCDefinition>The segment of the blood vessels that includes the iliac artery and its origin from the aorta.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Aortoiliac Artery Segment</nciodm:PreferredTerm>
@@ -152,6 +167,26 @@
                     <nciodm:CDISCSynonym>Artery</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A blood vessel that carries blood away from the heart. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Artery</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ARTERY, PULMONARY" nciodm:ExtCodeID="C12774">
+                    <nciodm:CDISCDefinition>Either one of two arteries arising from the pulmonary trunk that carry deoxygenated blood to the lungs.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Pulmonary Artery</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ASCENDING AORTA" nciodm:ExtCodeID="C32150">
+                    <nciodm:CDISCDefinition>The portion of the aorta that emerges from the left ventricle and precedes the aortic arch.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Ascending Aorta</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ASCENDING AORTA, AORTIC ROOT" nciodm:ExtCodeID="C127641">
+                    <nciodm:CDISCDefinition>The portion of the ascending aorta between the aortic annulus and the sinotubular junction.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Aortic Root</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ASCENDING AORTA, SINOTUBULAR JUNCTION" nciodm:ExtCodeID="C127642">
+                    <nciodm:CDISCDefinition>The terminus of the aortic root; the point at which the aorta attains a tubular configuration.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Sinotubular Junction</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ASCENDING AORTA, SINUS OF VALSALVA" nciodm:ExtCodeID="C33557">
+                    <nciodm:CDISCDefinition>Any one of the naturally occurring sinuses of the aortic root distal to the semilunar valve.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Sinus of Valsalva</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="AXIAL SKELETON" nciodm:ExtCodeID="C32172">
                     <nciodm:CDISCDefinition>The part of the skeleton that includes the skull and spinal column and sternum and ribs. (NCI)</nciodm:CDISCDefinition>
@@ -295,9 +330,8 @@
                     <nciodm:PreferredTerm>Brachial Plexus</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="BRAIN" nciodm:ExtCodeID="C12439">
-                    <nciodm:CDISCSynonym>Brain</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Nervous System, Brain</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>An organ composed of grey and white matter containing billions of neurons that is the center for intelligence and reasoning. It is protected by the bony cranium. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>An organ composed of grey and white matter that is the center for intelligence and reasoning. It is protected by the bony cranium.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Brain</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="BRAIN STEM" nciodm:ExtCodeID="C12441">
@@ -379,6 +413,11 @@
                     <nciodm:CDISCDefinition>The largest of eight carpal bones, located in the center of the hand. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Capitate Bone</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="CARDIOVASCULAR SYSTEM" nciodm:ExtCodeID="C12686">
+                    <nciodm:CDISCSynonym>Circulatory System</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A collection of organs including the heart and the blood vessels.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Cardiovascular System</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="CAROTID ARTERY" nciodm:ExtCodeID="C12687">
                     <nciodm:CDISCSynonym>Carotid Artery</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>One of two arteries that supply oxygenated blood to the head and neck; the left common carotid branches from the aorta and the right common carotid from the innominate (brachiocephalic artery). (NCI)</nciodm:CDISCDefinition>
@@ -414,7 +453,7 @@
                     <nciodm:PreferredTerm>Carpometacarpal Joint 5</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="CAUDATE NUCLEUS" nciodm:ExtCodeID="C12451">
-                    <nciodm:CDISCDefinition>An elongated gray mass of the neostriatum located adjacent to the lateral ventricle of the brain. (MeSH)</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>The grey matter adjacent to each lateral ventricle of the brain that comprises the medial dorsal striatum of the basal ganglia.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Caudate Nucleus</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="CECUM" nciodm:ExtCodeID="C12381">
@@ -504,6 +543,10 @@
                     <nciodm:CDISCDefinition>Blood vessels forming villous structures in the third, fourth, and lateral ventricles of the brain. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Choroid Plexus</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="CILIARY BODY" nciodm:ExtCodeID="C12345">
+                    <nciodm:CDISCDefinition>Tissue located behind the iris and composed of muscle and epithelium. Its functions include the production of aqueous humor and changing the shape of the crystalline lens. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Ciliary Body</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="CINGULATE CORTEX" nciodm:ExtCodeID="C52713">
                     <nciodm:CDISCDefinition>Part of the medial aspect of the cerebral cortex. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Cingulate Cortex</nciodm:PreferredTerm>
@@ -519,8 +562,7 @@
                     <nciodm:PreferredTerm>Circumflex Artery and its Branches</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="CLAVICLE" nciodm:ExtCodeID="C12695">
-                    <nciodm:CDISCSynonym>Clavicle</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A bone linking the scapula and the sternum. The clavicle is part of the pectoral girdle.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>The paired bone that is situated between the sternum and the shoulder.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Clavicle</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="CLITORIS" nciodm:ExtCodeID="C12308">
@@ -657,7 +699,8 @@
                     <nciodm:PreferredTerm>Costochondral Joint 7</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="CRANIAL CAVITY" nciodm:ExtCodeID="C77638">
-                    <nciodm:CDISCDefinition>The atrium that is formed by the bones of the skull, and contains the brain.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCSynonym>Intracranial Cavity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The space that is formed by the bones of the skull, and contains the brain.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Cranial Cavity</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="CRANIAL NERVE" nciodm:ExtCodeID="C12700">
@@ -805,8 +848,12 @@
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="ENDOMETRIAL CAVITY" nciodm:ExtCodeID="C32514">
                     <nciodm:CDISCSynonym>Endometrial Cavity</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A space inside the uterus lined by a layer of mucus membranes called the endometrium. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A space inside the uterus lined by a layer of mucous membranes called the endometrium.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Endometrial Cavity</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ENDOMETRIUM" nciodm:ExtCodeID="C12313">
+                    <nciodm:CDISCDefinition>The mucous membrane comprising the inner layer of the uterine wall.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Endometrium</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="ENTORHINAL CORTEX" nciodm:ExtCodeID="C97338">
                     <nciodm:CDISCDefinition>A brain region in the medial temporal lobe near the hippocampus. (NCI)</nciodm:CDISCDefinition>
@@ -1037,6 +1084,10 @@
                     <nciodm:CDISCSynonym>FIRST RIGHT POSTEROLATERAL ARTERY SEGMENT</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>In an individual with a right-dominant heart, this is the first branch that arises from the right coronary artery distal to the right posterior descending artery, when counted from proximal to distal.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>First Right Posterolateral Artery</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FLANK" nciodm:ExtCodeID="C93028">
+                    <nciodm:CDISCDefinition>The region on either side of the body that extends from the last rib to the hip.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Flank</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="FLOOR OF MOUTH" nciodm:ExtCodeID="C54187">
                     <nciodm:CDISCDefinition>The area of the mouth under the ventral surface of the tongue.</nciodm:CDISCDefinition>
@@ -1285,7 +1336,7 @@
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="HEART, ATRIUM" nciodm:ExtCodeID="C12728">
                     <nciodm:CDISCSynonym>Cardiac Atrium</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>The paired upper chambers of the heart. The left atrium receives oxygenated blood from the pulmonary vein and pumps blood into the left ventricle. The right atrium receives venous deoxygenated blood from the entire body via the superior and inferior vena cavae and pumps blood into the right ventricle. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>The smaller chamber(s) of the heart that receives blood from the peripheral circulation and/or the lungs.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Cardiac Atrium</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="HEART, BASE" nciodm:ExtCodeID="C48589">
@@ -1293,15 +1344,51 @@
                     <nciodm:CDISCDefinition>The superior portion of the heart located opposite to the apical portion. It is formed mainly by the left atrium. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Base of the Heart</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="HEART, LEFT ATRIAL APPENDAGE" nciodm:ExtCodeID="C127643">
+                    <nciodm:CDISCDefinition>A small muscular pouch located in the wall of the left atrium.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Left Atrial Appendage</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HEART, LEFT ATRIUM" nciodm:ExtCodeID="C12869">
+                    <nciodm:CDISCDefinition>The smaller chamber on the left side of the heart, which receives oxygenated blood from the pulmonary veins and pumps it through the left atrioventricular valve into the left ventricle.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Left Atrium</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="HEART, LEFT VENTRICLE" nciodm:ExtCodeID="C12871">
                     <nciodm:CDISCSynonym>Left Ventricle</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>The left lower chamber of the heart that receives blood from the left atrium and pumps it through the aorta to the body. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>The larger chamber on the left side of the heart, which receives oxygenated blood from the left atrium and pumps it through the aortic valve into the aorta.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Left Ventricle</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HEART, LEFT VENTRICULAR OUTFLOW TRACT" nciodm:ExtCodeID="C127644">
+                    <nciodm:CDISCDefinition>The structure through which blood flows from the left ventricle into the aortic root.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Left Ventricular Outflow Tract</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HEART, LEFT VENTRICULAR WALL" nciodm:ExtCodeID="C127645">
+                    <nciodm:CDISCDefinition>The wall of the left ventricle, comprising anterior, inferior, lateral, apical, basal wall; and excluding the interventricular septum.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Left Ventricular Wall</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HEART, RIGHT ATRIAL APPENDAGE" nciodm:ExtCodeID="C127646">
+                    <nciodm:CDISCDefinition>A small muscular pouch located in the wall of the right atrium.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Right Atrial Appendage</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HEART, RIGHT ATRIUM" nciodm:ExtCodeID="C12868">
+                    <nciodm:CDISCDefinition>The smaller chamber on the right side of the heart, which receives deoxygenated blood from the body and pumps it through the right atrioventricular valve into the right ventricle.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Right Atrium</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="HEART, RIGHT VENTRICLE" nciodm:ExtCodeID="C12870">
                     <nciodm:CDISCSynonym>Right Ventricle</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>The lower chamber of the heart located in the right side. It receives blood from the right atrium that is no longer oxygenated and it pumps it to the pulmonary artery. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>The larger chamber on the right side of the heart, which receives deoxygenated blood from the right atrium and pumps it through the pulmonic valve into the pulmonary arteries.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Right Ventricle</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HEART, RIGHT VENTRICULAR FREE WALL" nciodm:ExtCodeID="C127647">
+                    <nciodm:CDISCDefinition>The lateral segment of the right ventricular wall, excluding the anterior and inferior right ventricular wall.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Right Ventricular Free Wall</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HEART, RIGHT VENTRICULAR OUTFLOW TRACT" nciodm:ExtCodeID="C127648">
+                    <nciodm:CDISCDefinition>The structure through which blood flows from the right ventricle into the pulmonary trunk.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Right Ventricular Outflow Tract</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HEART, RIGHT VENTRICULAR WALL" nciodm:ExtCodeID="C127649">
+                    <nciodm:CDISCDefinition>The wall of the right ventricle, comprising anterior, inferior, and lateral walls; and excluding the interventricular septum.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Right Ventricular Wall</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="HEART, SEPTUM" nciodm:ExtCodeID="C49485">
                     <nciodm:CDISCSynonym>Cardiac Septum</nciodm:CDISCSynonym>
@@ -1310,7 +1397,7 @@
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="HEART, VENTRICLE" nciodm:ExtCodeID="C12730">
                     <nciodm:CDISCSynonym>Cardiac Ventricle</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>The lower right and left chambers of the heart. The right pumps venous blood into the lungs and the left pumps oxygenated blood into the systemic arterial circulation. (MeSH)</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>The larger chamber(s) of the heart that receives blood from an atrium and pushes it out of the heart into the peripheral circulation and/or the lungs.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Cardiac Ventricle</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="HEART, VENTRICULAR WALL" nciodm:ExtCodeID="C119295">
@@ -1324,6 +1411,10 @@
                 <EnumeratedItem CodedValue="HEPATIC LYMPH NODE" nciodm:ExtCodeID="C77640">
                     <nciodm:CDISCDefinition>Any of the lymph nodes adjacent to the stomach and duodenum. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Hepatic Lymph Node</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HEPATIC VEIN" nciodm:ExtCodeID="C32736">
+                    <nciodm:CDISCDefinition>The blood vessels that drain blood from the central veins of the liver into the inferior vena cava.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Hepatic Vein</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="HILAR" nciodm:ExtCodeID="C25724">
                     <nciodm:CDISCSynonym>Hilar</nciodm:CDISCSynonym>
@@ -1420,6 +1511,10 @@
                     <nciodm:CDISCSynonym>Incus</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>One of the three bones comprising the middle ear. This anvil-shaped bone is positioned between the malleus and the stapes. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Incus</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="INFERIOR VENA CAVA" nciodm:ExtCodeID="C12815">
+                    <nciodm:CDISCDefinition>A large vein that returns blood from the lower half of the body to the heart.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Inferior Vena Cava</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="INFRACLAVICULAR LYMPH NODE" nciodm:ExtCodeID="C63705">
                     <nciodm:CDISCSynonym>Infraclavicular Lymph Node</nciodm:CDISCSynonym>
@@ -1553,6 +1648,7 @@
                     <nciodm:PreferredTerm>Intertrochanteric Region</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="INTERVENTRICULAR SEPTUM" nciodm:ExtCodeID="C32874">
+                    <nciodm:CDISCSynonym>Interventricular Septal Wall</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The wall that separates the left and right ventricles of the heart. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Interventricular Septum</nciodm:PreferredTerm>
                 </EnumeratedItem>
@@ -1783,9 +1879,77 @@
                     <nciodm:CDISCDefinition>In an individual with a left-dominant heart, this branch arises from the circumflex artery atrioventricular groove continuation and supplies the inferior apex of the heart.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Left Posterolateral Descending Artery</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEFT VENTRICULAR APEX SEGMENT" nciodm:ExtCodeID="C127650">
+                    <nciodm:CDISCDefinition>The apical cap division of the left ventricular myocardium as determined using the AHA 17-Segment Model (Cerqueira MD, Weissman NJ, Dilsizian V, Jacobs AK, Kaul S, Laskey WK, Pennell DJ, Rumberger JA, Ryan T, Verani MS; American Heart Association Writing Group on Myocardial Segmentation and Registration for Cardiac Imaging. Standardized myocardial segmentation and nomenclature for tomographic imaging of the heart. A statement for healthcare professionals from the Cardiac Imaging Committee of the Council on Clinical Cardiology of the American Heart Association. Circulation. 2002 Jan 29;105(4):539-42.).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Left Ventricular Apex Segment</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEFT VENTRICULAR APICAL ANTERIOR SEGMENT" nciodm:ExtCodeID="C127651">
+                    <nciodm:CDISCDefinition>The anterior portion of the apical division of the left ventricular myocardium as determined using the AHA 17-Segment Model (Cerqueira MD, Weissman NJ, Dilsizian V, Jacobs AK, Kaul S, Laskey WK, Pennell DJ, Rumberger JA, Ryan T, Verani MS; American Heart Association Writing Group on Myocardial Segmentation and Registration for Cardiac Imaging. Standardized myocardial segmentation and nomenclature for tomographic imaging of the heart. A statement for healthcare professionals from the Cardiac Imaging Committee of the Council on Clinical Cardiology of the American Heart Association. Circulation. 2002 Jan 29;105(4):539-42.).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Left Ventricular Apical Anterior Segment</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEFT VENTRICULAR APICAL INFERIOR SEGMENT" nciodm:ExtCodeID="C127652">
+                    <nciodm:CDISCDefinition>The inferior portion of the apical division of the left ventricular myocardium as determined using the AHA 17-Segment Model (Cerqueira MD, Weissman NJ, Dilsizian V, Jacobs AK, Kaul S, Laskey WK, Pennell DJ, Rumberger JA, Ryan T, Verani MS; American Heart Association Writing Group on Myocardial Segmentation and Registration for Cardiac Imaging. Standardized myocardial segmentation and nomenclature for tomographic imaging of the heart. A statement for healthcare professionals from the Cardiac Imaging Committee of the Council on Clinical Cardiology of the American Heart Association. Circulation. 2002 Jan 29;105(4):539-42.).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Left Ventricular Apical Inferior Segment</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEFT VENTRICULAR APICAL LATERAL SEGMENT" nciodm:ExtCodeID="C127653">
+                    <nciodm:CDISCDefinition>The lateral portion of the apical division of the left ventricular myocardium as determined using the AHA 17-Segment Model (Cerqueira MD, Weissman NJ, Dilsizian V, Jacobs AK, Kaul S, Laskey WK, Pennell DJ, Rumberger JA, Ryan T, Verani MS; American Heart Association Writing Group on Myocardial Segmentation and Registration for Cardiac Imaging. Standardized myocardial segmentation and nomenclature for tomographic imaging of the heart. A statement for healthcare professionals from the Cardiac Imaging Committee of the Council on Clinical Cardiology of the American Heart Association. Circulation. 2002 Jan 29;105(4):539-42.).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Left Ventricular Apical Lateral Segment</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEFT VENTRICULAR APICAL SEPTAL SEGMENT" nciodm:ExtCodeID="C127654">
+                    <nciodm:CDISCDefinition>The septal portion of the apical division of the left ventricular myocardium as determined using the AHA 17-Segment Model (Cerqueira MD, Weissman NJ, Dilsizian V, Jacobs AK, Kaul S, Laskey WK, Pennell DJ, Rumberger JA, Ryan T, Verani MS; American Heart Association Writing Group on Myocardial Segmentation and Registration for Cardiac Imaging. Standardized myocardial segmentation and nomenclature for tomographic imaging of the heart. A statement for healthcare professionals from the Cardiac Imaging Committee of the Council on Clinical Cardiology of the American Heart Association. Circulation. 2002 Jan 29;105(4):539-42.).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Left Ventricular Apical Septal Segment</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEFT VENTRICULAR BASAL ANTERIOR SEGMENT" nciodm:ExtCodeID="C127655">
+                    <nciodm:CDISCDefinition>The anterior portion of the basal division of the left ventricular myocardium as determined using the AHA 17-Segment Model (Cerqueira MD, Weissman NJ, Dilsizian V, Jacobs AK, Kaul S, Laskey WK, Pennell DJ, Rumberger JA, Ryan T, Verani MS; American Heart Association Writing Group on Myocardial Segmentation and Registration for Cardiac Imaging. Standardized myocardial segmentation and nomenclature for tomographic imaging of the heart. A statement for healthcare professionals from the Cardiac Imaging Committee of the Council on Clinical Cardiology of the American Heart Association. Circulation. 2002 Jan 29;105(4):539-42.).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Left Ventricular Basal Anterior Segment</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEFT VENTRICULAR BASAL ANTEROLATERAL SEGMENT" nciodm:ExtCodeID="C127656">
+                    <nciodm:CDISCDefinition>The anterolateral portion of the basal division of the left ventricular myocardium as determined using the AHA 17-Segment Model (Cerqueira MD, Weissman NJ, Dilsizian V, Jacobs AK, Kaul S, Laskey WK, Pennell DJ, Rumberger JA, Ryan T, Verani MS; American Heart Association Writing Group on Myocardial Segmentation and Registration for Cardiac Imaging. Standardized myocardial segmentation and nomenclature for tomographic imaging of the heart. A statement for healthcare professionals from the Cardiac Imaging Committee of the Council on Clinical Cardiology of the American Heart Association. Circulation. 2002 Jan 29;105(4):539-42.).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Left Ventricular Basal Anterolateral Segment</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEFT VENTRICULAR BASAL ANTEROSEPTAL SEGMENT" nciodm:ExtCodeID="C127657">
+                    <nciodm:CDISCDefinition>The anteroseptal portion of the basal division of the left ventricular myocardium as determined using the AHA 17-Segment Model (Cerqueira MD, Weissman NJ, Dilsizian V, Jacobs AK, Kaul S, Laskey WK, Pennell DJ, Rumberger JA, Ryan T, Verani MS; American Heart Association Writing Group on Myocardial Segmentation and Registration for Cardiac Imaging. Standardized myocardial segmentation and nomenclature for tomographic imaging of the heart. A statement for healthcare professionals from the Cardiac Imaging Committee of the Council on Clinical Cardiology of the American Heart Association. Circulation. 2002 Jan 29;105(4):539-42.).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Left Ventricular Basal Anteroseptal Segment</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEFT VENTRICULAR BASAL INFERIOR SEGMENT" nciodm:ExtCodeID="C127658">
+                    <nciodm:CDISCDefinition>The inferior portion of the basal division of the left ventricular myocardium as determined using the AHA 17-Segment Model (Cerqueira MD, Weissman NJ, Dilsizian V, Jacobs AK, Kaul S, Laskey WK, Pennell DJ, Rumberger JA, Ryan T, Verani MS; American Heart Association Writing Group on Myocardial Segmentation and Registration for Cardiac Imaging. Standardized myocardial segmentation and nomenclature for tomographic imaging of the heart. A statement for healthcare professionals from the Cardiac Imaging Committee of the Council on Clinical Cardiology of the American Heart Association. Circulation. 2002 Jan 29;105(4):539-42.).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Left Ventricular Basal Inferior Segment</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEFT VENTRICULAR BASAL INFEROLATERAL SEGMENT" nciodm:ExtCodeID="C127659">
+                    <nciodm:CDISCDefinition>The inferolateral portion of the basal division of the left ventricular myocardium as determined using the AHA 17-Segment Model (Cerqueira MD, Weissman NJ, Dilsizian V, Jacobs AK, Kaul S, Laskey WK, Pennell DJ, Rumberger JA, Ryan T, Verani MS; American Heart Association Writing Group on Myocardial Segmentation and Registration for Cardiac Imaging. Standardized myocardial segmentation and nomenclature for tomographic imaging of the heart. A statement for healthcare professionals from the Cardiac Imaging Committee of the Council on Clinical Cardiology of the American Heart Association. Circulation. 2002 Jan 29;105(4):539-42.).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Left Ventricular Basal Inferolateral Segment</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEFT VENTRICULAR BASAL INFEROSEPTAL SEGMENT" nciodm:ExtCodeID="C127660">
+                    <nciodm:CDISCDefinition>The inferoseptal portion of the basal division of the left ventricular myocardium as determined using the AHA 17-Segment Model (Cerqueira MD, Weissman NJ, Dilsizian V, Jacobs AK, Kaul S, Laskey WK, Pennell DJ, Rumberger JA, Ryan T, Verani MS; American Heart Association Writing Group on Myocardial Segmentation and Registration for Cardiac Imaging. Standardized myocardial segmentation and nomenclature for tomographic imaging of the heart. A statement for healthcare professionals from the Cardiac Imaging Committee of the Council on Clinical Cardiology of the American Heart Association. Circulation. 2002 Jan 29;105(4):539-42.).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Left Ventricular Basal Inferoseptal Segment</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="LEFT VENTRICULAR EPICARDIUM" nciodm:ExtCodeID="C102315">
                     <nciodm:CDISCDefinition>The outermost layer of cardiac tissue lining of the left ventricle.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Left Ventricular Epicardium</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEFT VENTRICULAR MID ANTERIOR SEGMENT" nciodm:ExtCodeID="C127661">
+                    <nciodm:CDISCDefinition>The anterior portion of the mid-cavity division of the left ventricular myocardium as determined using the AHA 17-Segment Model (Cerqueira MD, Weissman NJ, Dilsizian V, Jacobs AK, Kaul S, Laskey WK, Pennell DJ, Rumberger JA, Ryan T, Verani MS; American Heart Association Writing Group on Myocardial Segmentation and Registration for Cardiac Imaging. Standardized myocardial segmentation and nomenclature for tomographic imaging of the heart. A statement for healthcare professionals from the Cardiac Imaging Committee of the Council on Clinical Cardiology of the American Heart Association. Circulation. 2002 Jan 29;105(4):539-42.).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Left Ventricular Mid Anterior Segment</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEFT VENTRICULAR MID ANTEROLATERAL SEGMENT" nciodm:ExtCodeID="C127662">
+                    <nciodm:CDISCDefinition>The anterolateral portion of the mid-cavity division of the left ventricular myocardium as determined using the AHA 17-Segment Model (Cerqueira MD, Weissman NJ, Dilsizian V, Jacobs AK, Kaul S, Laskey WK, Pennell DJ, Rumberger JA, Ryan T, Verani MS; American Heart Association Writing Group on Myocardial Segmentation and Registration for Cardiac Imaging. Standardized myocardial segmentation and nomenclature for tomographic imaging of the heart. A statement for healthcare professionals from the Cardiac Imaging Committee of the Council on Clinical Cardiology of the American Heart Association. Circulation. 2002 Jan 29;105(4):539-42.).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Left Ventricular Mid Anterolateral Segment</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEFT VENTRICULAR MID ANTEROSEPTAL SEGMENT" nciodm:ExtCodeID="C127663">
+                    <nciodm:CDISCDefinition>The anteroseptal portion of the mid-cavity division of the left ventricular myocardium as determined using the AHA 17-Segment Model (Cerqueira MD, Weissman NJ, Dilsizian V, Jacobs AK, Kaul S, Laskey WK, Pennell DJ, Rumberger JA, Ryan T, Verani MS; American Heart Association Writing Group on Myocardial Segmentation and Registration for Cardiac Imaging. Standardized myocardial segmentation and nomenclature for tomographic imaging of the heart. A statement for healthcare professionals from the Cardiac Imaging Committee of the Council on Clinical Cardiology of the American Heart Association. Circulation. 2002 Jan 29;105(4):539-42.).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Left Ventricular Mid Anteroseptal Segment</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEFT VENTRICULAR MID INFERIOR SEGMENT" nciodm:ExtCodeID="C127664">
+                    <nciodm:CDISCDefinition>The inferior portion of the mid-cavity division of the left ventricular myocardium as determined using the AHA 17-Segment Model (Cerqueira MD, Weissman NJ, Dilsizian V, Jacobs AK, Kaul S, Laskey WK, Pennell DJ, Rumberger JA, Ryan T, Verani MS; American Heart Association Writing Group on Myocardial Segmentation and Registration for Cardiac Imaging. Standardized myocardial segmentation and nomenclature for tomographic imaging of the heart. A statement for healthcare professionals from the Cardiac Imaging Committee of the Council on Clinical Cardiology of the American Heart Association. Circulation. 2002 Jan 29;105(4):539-42.).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Left Ventricular Mid Inferior Segment</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEFT VENTRICULAR MID INFEROLATERAL SEGMENT" nciodm:ExtCodeID="C127665">
+                    <nciodm:CDISCDefinition>The inferolateral portion of the mid-cavity division of the left ventricular myocardium as determined using the AHA 17-Segment Model (Cerqueira MD, Weissman NJ, Dilsizian V, Jacobs AK, Kaul S, Laskey WK, Pennell DJ, Rumberger JA, Ryan T, Verani MS; American Heart Association Writing Group on Myocardial Segmentation and Registration for Cardiac Imaging. Standardized myocardial segmentation and nomenclature for tomographic imaging of the heart. A statement for healthcare professionals from the Cardiac Imaging Committee of the Council on Clinical Cardiology of the American Heart Association. Circulation. 2002 Jan 29;105(4):539-42.).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Left Ventricular Mid Inferolateral Segment</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEFT VENTRICULAR MID INFEROSEPTAL SEGMENT" nciodm:ExtCodeID="C127666">
+                    <nciodm:CDISCDefinition>The inferoseptal portion of the mid-cavity division of the left ventricular myocardium as determined using the AHA 17-Segment Model (Cerqueira MD, Weissman NJ, Dilsizian V, Jacobs AK, Kaul S, Laskey WK, Pennell DJ, Rumberger JA, Ryan T, Verani MS; American Heart Association Writing Group on Myocardial Segmentation and Registration for Cardiac Imaging. Standardized myocardial segmentation and nomenclature for tomographic imaging of the heart. A statement for healthcare professionals from the Cardiac Imaging Committee of the Council on Clinical Cardiology of the American Heart Association. Circulation. 2002 Jan 29;105(4):539-42.).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Left Ventricular Mid Inferoseptal Segment</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="LEG" nciodm:ExtCodeID="C32974">
                     <nciodm:CDISCSynonym>Leg</nciodm:CDISCSynonym>
@@ -2065,6 +2229,10 @@
                     <nciodm:CDISCDefinition>A double layer of peritoneum that attaches to the back wall of the abdominal cavity and supports the small intestines. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Mesentery</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="METACARPAL 1 BASE" nciodm:ExtCodeID="C127667">
+                    <nciodm:CDISCDefinition>The proximal end of the first metacarpal bone.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Metacarpal 1 Base</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="METACARPAL BONE" nciodm:ExtCodeID="C12751">
                     <nciodm:CDISCDefinition>Any of the five bones between the wrist and the fingers that form the skeleton of the palm. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Metacarpal Bone</nciodm:PreferredTerm>
@@ -2167,6 +2335,28 @@
                     <nciodm:CDISCDefinition>A dual-flap valve of the heart that regulates the flow of blood between the left atrium and the left ventricle of the heart. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Mitral Valve</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="MITRAL VALVE ANNULUS" nciodm:ExtCodeID="C127306">
+                    <nciodm:CDISCDefinition>A fibrous membrane that attaches to, and provides support for, the mitral valve leaflets.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Mitral Valve Annulus</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MITRAL VALVE, ANTERIOR ANNULUS" nciodm:ExtCodeID="C127668">
+                    <nciodm:CDISCSynonym>Mitral Valve, Anteroseptal Annulus</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The portion of the mitral valve annulus that attaches to the anterior mitral valve leaflet.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Anterior Annulus of the Mitral Valve</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MITRAL VALVE, ANTERIOR CUSP" nciodm:ExtCodeID="C127669">
+                    <nciodm:CDISCDefinition>The cusp of the mitral valve that is anchored to the aortic-mitral curtain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Anterior Cusp of the Mitral Valve</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MITRAL VALVE, POSTERIOR ANNULUS" nciodm:ExtCodeID="C127670">
+                    <nciodm:CDISCSynonym>Mitral Valve, Posterolateral Annulus</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The portion of the mitral valve annulus that attaches to the posterior mitral valve leaflet.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Posterior Annulus of the Mitral Valve</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MITRAL VALVE, POSTERIOR CUSP" nciodm:ExtCodeID="C127671">
+                    <nciodm:CDISCDefinition>The cusp of the mitral valve that is located posterior to the two commissures, and which has no attachment to the aortic root.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Posterior Cusp of the Mitral Valve</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="MOTOR CORTEX" nciodm:ExtCodeID="C97339">
                     <nciodm:CDISCDefinition>A brain region that is located in the dorsal part of the precentral gyrus. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Primary Motor Cortex</nciodm:PreferredTerm>
@@ -2184,6 +2374,10 @@
                 <EnumeratedItem CodedValue="MUSCLE" nciodm:ExtCodeID="C13056">
                     <nciodm:CDISCDefinition>A fibrous soft tissue with the ability to contract to produce force and motion.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Muscle</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MUSCULOSKELETAL SYSTEM" nciodm:ExtCodeID="C12754">
+                    <nciodm:CDISCDefinition>The system of muscles, tendons, ligaments, bones, joints and associated tissues.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Musculoskeletal System</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="MYOMETRIUM" nciodm:ExtCodeID="C12314">
                     <nciodm:CDISCSynonym>Myometrium</nciodm:CDISCSynonym>
@@ -2250,7 +2444,7 @@
                     <nciodm:PreferredTerm>Nucleus of Diagonal Band</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="OCCIPITAL LOBE" nciodm:ExtCodeID="C12355">
-                    <nciodm:CDISCDefinition>The posterior part of the cerebral hemisphere. (MeSH)</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>One of the four regions of cortex in each cerebral hemisphere, located posterior to the temporal lobe and inferior to the parietal lobe.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Occipital Lobe</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="OCCIPITAL LYMPH NODE" nciodm:ExtCodeID="C98188">
@@ -2484,6 +2678,10 @@
                 <EnumeratedItem CodedValue="PERICARDIAL LYMPH NODE" nciodm:ExtCodeID="C117870">
                     <nciodm:CDISCDefinition>A lymph node located anterior to the pericardium, posterior to the xiphoid process, and in the right and left cardiophrenic fat. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Pericardial Lymph Node</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PERICARDIAL WALL" nciodm:ExtCodeID="C127672">
+                    <nciodm:CDISCDefinition>The tissue layers that form the pericardium of the heart, including the fibrous pericardium, and the parietal and visceral layers of the serous pericardium.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Pericardial Wall</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="PERICARDIUM" nciodm:ExtCodeID="C13005">
                     <nciodm:CDISCSynonym>Pericardium</nciodm:CDISCSynonym>
@@ -2743,9 +2941,29 @@
                     <nciodm:CDISCDefinition>Either of the two bones (left and right) that form the front of the pelvis. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Pubic Bone</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="PULMONARY TRUNK" nciodm:ExtCodeID="C116918">
+                    <nciodm:CDISCSynonym>Main Pulmonary Artery</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The artery arising from the right ventricle of the heart that bifurcates into the left and right pulmonary arteries.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Pulmonary Trunk</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="PULMONARY VALVE" nciodm:ExtCodeID="C12775">
                     <nciodm:CDISCDefinition>A valve that is located between and controls the flow of blood from the right ventricle of the heart and the pulmonary artery. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Pulmonary Valve</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PULMONARY VALVE, ANTERIOR CUSP" nciodm:ExtCodeID="C127673">
+                    <nciodm:CDISCSynonym>Pulmonary Valve, Anterior Semilunar Cusp</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The cusp of the pulmonic valve that has no attachment to the cardiac septum.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Anterior Cusp of the Pulmonary Valve</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PULMONARY VALVE, LEFT CUSP" nciodm:ExtCodeID="C127674">
+                    <nciodm:CDISCSynonym>Pulmonary Valve, Left Semilunar Cusp</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The cusp of the pulmonic valve attached to the left side of the cardiac septum.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Left Cusp of the Pulmonary Valve</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PULMONARY VALVE, RIGHT CUSP" nciodm:ExtCodeID="C127675">
+                    <nciodm:CDISCSynonym>Pulmonary Valve, Right Semilunar Cusp</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The cusp of the pulmonic valve attached to the right side of the cardiac septum.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Right Cusp of the Pulmonary Valve</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="PUPIL" nciodm:ExtCodeID="C33429">
                     <nciodm:CDISCDefinition>The round opening in the center of the iris in the eye.</nciodm:CDISCDefinition>
@@ -2753,7 +2971,7 @@
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="PUTAMEN" nciodm:ExtCodeID="C12452">
                     <nciodm:CDISCSynonym>Putamen</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>The largest and most lateral of the basal ganglia lying between the lateral medullary lamina of the globus pallidus and the external capsule. It is part of the neostriatum and forms part of the lentiform nucleus along with the globus pallidus. (MeSH)</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>The grey matter, located between the globus pallidus and the external capsule of the brain, that comprises the lateral dorsal striatum of the basal ganglia.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Putamen</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="PYLORIC SPHINCTER" nciodm:ExtCodeID="C33433">
@@ -2984,6 +3202,18 @@
                     <nciodm:CDISCDefinition>A nut-shaped bone of the wrist located in the radial site of the hand. It is one of the eight carpal bones. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Scaphoid Bone</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="SCAPHOID-CAPITATE JOINT" nciodm:ExtCodeID="C127676">
+                    <nciodm:CDISCDefinition>A condyloid synovial joint within the wrist connecting the scaphoid bone to the capitate bone.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Scaphoid-Capitate Joint</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SCAPHOID-LUNATE-CAPITATE JOINT" nciodm:ExtCodeID="C127677">
+                    <nciodm:CDISCDefinition>A condyloid synovial joint within the wrist connecting the scaphoid, lunate, and capitate bones.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Scaphoid-Lunate-Capitate Joint</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SCAPHOID-TRAPEZIUM JOINT" nciodm:ExtCodeID="C127678">
+                    <nciodm:CDISCDefinition>A condyloid synovial joint within the wrist connecting the scaphoid bone to the trapezium bone.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Scaphoid-Trapezium Joint</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="SCAPULA" nciodm:ExtCodeID="C12783">
                     <nciodm:CDISCSynonym>Scapula</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Shoulder Blade</nciodm:CDISCSynonym>
@@ -3212,6 +3442,10 @@
                     <nciodm:CDISCSynonym>Supraclavicular Lymph Node</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A lymph node which is located above the clavicle. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Supraclavicular Lymph Node</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUPRAGLOTTIS" nciodm:ExtCodeID="C12279">
+                    <nciodm:CDISCDefinition>The upper part of the larynx, including the epiglottis; the area above the vocal cords.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Supraglottis</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="SUPRATENTORIAL BRAIN" nciodm:ExtCodeID="C12512">
                     <nciodm:CDISCDefinition>The part of the brain above the tentorium cerebellum. (NCI)</nciodm:CDISCDefinition>
@@ -3479,7 +3713,7 @@
                     <nciodm:PreferredTerm>Transverse Tarsal Joint</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="TRAPEZIAL BONE" nciodm:ExtCodeID="C12857">
-                    <nciodm:CDISCSynonym>Trapezial Bone</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Trapezium</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A carpal bone on the thumb side of the hand that articulates with the 1st and 2nd metacarpals. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Trapezial Bone</nciodm:PreferredTerm>
                 </EnumeratedItem>
@@ -3501,6 +3735,18 @@
                 <EnumeratedItem CodedValue="TRICUSPID VALVE" nciodm:ExtCodeID="C12805">
                     <nciodm:CDISCDefinition>A three-cusp valve of the heart that regulates the flow of blood between the right atrium and the right ventricle of the heart. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Tricuspid Valve</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TRICUSPID VALVE, ANTERIOR CUSP" nciodm:ExtCodeID="C32799">
+                    <nciodm:CDISCDefinition>The cusp of the tricuspid valve that is located between the atrioventricular orifice and the conus arteriosus.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Anterior Cusp of the Tricuspid Valve</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TRICUSPID VALVE, POSTERIOR CUSP" nciodm:ExtCodeID="C33055">
+                    <nciodm:CDISCDefinition>The cusp of the tricuspid valve that is located posterior and on the margin of the right ventricle.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Posterior Cusp of the Tricuspid Valve</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TRICUSPID VALVE, SEPTAL CUSP" nciodm:ExtCodeID="C33534">
+                    <nciodm:CDISCDefinition>The cusp of the tricuspid valve that is attached to the right and left fibrous trigones and the atrial and ventricular septa.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Septal Cusp of the Tricuspid Valve</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="TRIGEMINAL NERVE" nciodm:ExtCodeID="C12806">
                     <nciodm:CDISCSynonym>Fifth Cranial Nerve</nciodm:CDISCSynonym>
@@ -3685,7 +3931,7 @@
                     <nciodm:PreferredTerm>Ward's Triangle</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="WRIST JOINT" nciodm:ExtCodeID="C33894">
-                    <nciodm:CDISCSynonym>Wrist Joint</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Radiocarpal Joint</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A joint between the distal end of the radius and the proximal row of carpal bones. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Wrist Joint</nciodm:PreferredTerm>
                 </EnumeratedItem>

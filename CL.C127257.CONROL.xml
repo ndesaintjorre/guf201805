@@ -1,0 +1,66 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C127257.CONROL" Name="Contact Role for Clinical Study" DataType="text" nciodm:ExtCodeID="C127257" nciodm:CodeListExtensible="Yes">
+                <Description>
+                    <TranslatedText xml:lang="en">The terminology relevant to the role that the responsible individual or entity plays with respect to being a contact for the study.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="CA APPLICANT" nciodm:ExtCodeID="C127522">
+                    <nciodm:CDISCDefinition>The person responsible for the competent authority application.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Competent Authority Applicant</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CENTRAL CONTACT FOR RECRUITMENT" nciodm:ExtCodeID="C127523">
+                    <nciodm:CDISCDefinition>The contact person providing centralized, coordinated recruitment information for the entire study. (clinicaltrials.gov)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Central Contact for Recruitment</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CENTRAL CONTACT FOR RECRUITMENT BACKUP" nciodm:ExtCodeID="C127524">
+                    <nciodm:CDISCDefinition>The secondary contact person providing centralized, coordinated recruitment information for the entire study. (clinicaltrials.gov)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Central Contact for Recruitment Backup</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CLINICAL NETWORK CONTACT" nciodm:ExtCodeID="C127525">
+                    <nciodm:CDISCDefinition>The main or principal contact person for the clinical investigator network.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Clinical Investigator Network Contact</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CONTACT FOR PUBLIC QUERIES" nciodm:ExtCodeID="C127526">
+                    <nciodm:CDISCDefinition>The study contact person who is responsible for questions from the public.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Public Queries Study Contact</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CONTACT FOR SCIENTIFIC QUERIES" nciodm:ExtCodeID="C127527">
+                    <nciodm:CDISCDefinition>The study contact person who is responsible for questions from the scientific community.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Scientific Queries Study Contact</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FACILITY CONTACT" nciodm:ExtCodeID="C127528">
+                    <nciodm:CDISCDefinition>The main or principal contact person at the facility.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Facility Contact</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FACILITY CONTACT BACKUP" nciodm:ExtCodeID="C127529">
+                    <nciodm:CDISCDefinition>The secondary contact person at the facility.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Facility Contact Backup</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FURTHER INFORMATION CONTACT" nciodm:ExtCodeID="C127530">
+                    <nciodm:CDISCDefinition>The contact person responsible for disseminating additional information about the study.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Study Further Information Contact</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IEC APPLICANT" nciodm:ExtCodeID="C127531">
+                    <nciodm:CDISCDefinition>The person responsible for the independent ethics committee application.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Independent Ethics Committee Applicant</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEGAL REPRESENTATIVE FOR THE STUDY" nciodm:ExtCodeID="C127532">
+                    <nciodm:CDISCDefinition>An individual with expertise in the law who provides legal counsel and representation for a study.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Legal Representative for the Study</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PRIMARY CONTACT" nciodm:ExtCodeID="C127533">
+                    <nciodm:CDISCDefinition>The main or principal contact person for the study.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Primary Study Contact</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="STUDY CHAIR" nciodm:ExtCodeID="C51878">
+                    <nciodm:CDISCSynonym>Study Director</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A person who has overall responsibility for the technical conduct of a study, as well as for the interpretation, analysis, documentation and reporting of results, and represents the single point of study control. (FDA)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Study Chair</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUBCONTRACTOR CONTACT" nciodm:ExtCodeID="C127534">
+                    <nciodm:CDISCDefinition>The main or principal contact person for the subcontractor or subcontracting organization.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Subcontractor Contact</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>CONROL</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Contact Role for Clinical Study</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Contact Role for Clinical Study Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

@@ -1,0 +1,17 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C127265.MODTRN" Name="Mode of Disease Transmission" DataType="text" nciodm:ExtCodeID="C127265" nciodm:CodeListExtensible="Yes">
+                <Description>
+                    <TranslatedText xml:lang="en">The terminology relevant to the mechanism by which a disease is transmitted.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="HORIZONTAL TRANSMISSION" nciodm:ExtCodeID="C127773">
+                    <nciodm:CDISCDefinition>The transmission of a disease from one individual to another within the same species.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Horizontal Transmission</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="VERTICAL TRANSMISSION" nciodm:ExtCodeID="C98977">
+                    <nciodm:CDISCDefinition>The transmission of a disease from the mother to the fetus or newborn.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Maternal Transmission</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>MODTRN</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Mode of Disease Transmission</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Mode of Disease Transmission Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

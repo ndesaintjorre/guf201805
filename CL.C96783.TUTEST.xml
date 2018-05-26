@@ -1,6 +1,6 @@
-<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C96783.TUTEST" Name="Tumor Identification Test Name" DataType="text" nciodm:ExtCodeID="C96783" nciodm:CodeListExtensible="Yes">
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C96783.TUTEST" Name="Tumor or Lesion Identification Test Name" DataType="text" nciodm:ExtCodeID="C96783" nciodm:CodeListExtensible="Yes">
                 <Description>
-                    <TranslatedText xml:lang="en">Terminology relevant to the test names that describe tumor assessments for identification purposes.</TranslatedText>
+                    <TranslatedText xml:lang="en">Terminology relevant to the test names that describe tumor or lesion assessments for identification purposes.</TranslatedText>
                 </Description>
                 <EnumeratedItem CodedValue="Disease Recurrence Relative Location" nciodm:ExtCodeID="C123633">
                     <nciodm:CDISCSynonym>Disease Recurrence Relative Location</nciodm:CDISCSynonym>
@@ -43,7 +43,7 @@
                     <nciodm:PreferredTerm>Vessel Lesion Identification</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <nciodm:CDISCSubmissionValue>TUTEST</nciodm:CDISCSubmissionValue>
-                <nciodm:CDISCSynonym>Tumor Identification Test Name</nciodm:CDISCSynonym>
+                <nciodm:CDISCSynonym>Tumor or Lesion Identification Test Name</nciodm:CDISCSynonym>
                 <nciodm:PreferredTerm>CDISC SDTM Tumor Identification Test Name Terminology</nciodm:PreferredTerm>
             </CodeList>
             

@@ -1,6 +1,6 @@
-<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C66729.ROUTE" Name="Route of Administration" DataType="text" nciodm:ExtCodeID="C66729" nciodm:CodeListExtensible="Yes">
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C66729.ROUTE" Name="Route of Administration Response" DataType="text" nciodm:ExtCodeID="C66729" nciodm:CodeListExtensible="Yes">
                 <Description>
-                    <TranslatedText xml:lang="en">The course by which a substance was administered in order to reach the site of action in the body.</TranslatedText>
+                    <TranslatedText xml:lang="en">A terminology codelist relevant to the course by which a substance is administered in order to reach the site of action in the body.</TranslatedText>
                 </Description>
                 <EnumeratedItem CodedValue="AURICULAR (OTIC)" nciodm:ExtCodeID="C38192">
                     <nciodm:CDISCDefinition>Administration to or by way of the ear. (FDA)</nciodm:CDISCDefinition>
@@ -23,7 +23,7 @@
                     <nciodm:PreferredTerm>Dental Route of Administration</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="DIETARY" nciodm:ExtCodeID="C78373">
-                    <nciodm:CDISCDefinition>Administration by way of food stuff. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>Administration by way of food or water.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Dietary Route of Administration</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="ELECTRO-OSMOSIS" nciodm:ExtCodeID="C38633">
@@ -220,9 +220,17 @@
                     <nciodm:CDISCDefinition>Administration within a muscle. (FDA)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Intramuscular Route of Administration</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="INTRANODAL" nciodm:ExtCodeID="C79141">
+                    <nciodm:CDISCDefinition>Administration within a lymph node.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Intranodal Route of Administration</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="INTRAOCULAR" nciodm:ExtCodeID="C38255">
                     <nciodm:CDISCDefinition>Administration within the eye. (FDA)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Intraocular Route of Administration</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="INTRAOSSEOUS" nciodm:ExtCodeID="C64987">
+                    <nciodm:CDISCDefinition>Administration within the marrow of the bone.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Intraosseous Route of Administration</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="INTRAOVARIAN" nciodm:ExtCodeID="C38256">
                     <nciodm:CDISCDefinition>Administration within the ovary. (FDA)</nciodm:CDISCDefinition>
@@ -280,6 +288,10 @@
                     <nciodm:CDISCDefinition>Administration within the testicle. (FDA)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Intratesticular Route of Administration</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="INTRATHALAMIC" nciodm:ExtCodeID="C128995">
+                    <nciodm:CDISCDefinition>Administration within the thalamus.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Intrathalamic Route of Administration</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="INTRATHECAL" nciodm:ExtCodeID="C38267">
                     <nciodm:CDISCDefinition>Administration within the cerebrospinal fluid at any level of the cerebrospinal axis, including injection into the cerebral ventricles. (FDA)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Intrathecal Route of Administration</nciodm:PreferredTerm>
@@ -304,6 +316,10 @@
                 <EnumeratedItem CodedValue="INTRAUTERINE" nciodm:ExtCodeID="C38272">
                     <nciodm:CDISCDefinition>Administration within the uterus. (FDA)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Intrauterine Route of Administration</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="INTRAVAGINAL" nciodm:ExtCodeID="C128996">
+                    <nciodm:CDISCDefinition>Administration within the vagina.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Intravaginal Route of Administration</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="INTRAVASCULAR" nciodm:ExtCodeID="C38273">
                     <nciodm:CDISCDefinition>Administration within a vessel or vessels. (FDA)</nciodm:CDISCDefinition>
@@ -450,9 +466,17 @@
                     <nciodm:CDISCDefinition>Administration beneath the mucous membrane. (FDA)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Submucosal Route of Administration</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUBRETINAL" nciodm:ExtCodeID="C79143">
+                    <nciodm:CDISCDefinition>Administration beneath the retina.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Subretinal Route of Administration</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="SUBTENON" nciodm:ExtCodeID="C94636">
                     <nciodm:CDISCDefinition>Administration by injection through the membrane covering the muscles and nerves at the back of the eyeball.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Subtenon Route of Administration</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUPRACHOROIDAL" nciodm:ExtCodeID="C128997">
+                    <nciodm:CDISCDefinition>Administration above the choroid.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Suprachoroidal Route of Administration</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="TOPICAL" nciodm:ExtCodeID="C38304">
                     <nciodm:CDISCSynonym>TOP</nciodm:CDISCSynonym>
@@ -504,7 +528,7 @@
                     <nciodm:PreferredTerm>Vaginal Route of Administration</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <nciodm:CDISCSubmissionValue>ROUTE</nciodm:CDISCSubmissionValue>
-                <nciodm:CDISCSynonym>Route of Administration</nciodm:CDISCSynonym>
+                <nciodm:CDISCSynonym>Route of Administration Response</nciodm:CDISCSynonym>
                 <nciodm:PreferredTerm>CDISC SDTM Route of Administration Terminology</nciodm:PreferredTerm>
             </CodeList>
             

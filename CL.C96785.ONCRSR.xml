@@ -97,7 +97,6 @@
                     <nciodm:PreferredTerm>Disease Transformation</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="EQUIVOCAL" nciodm:ExtCodeID="C86071">
-                    <nciodm:CDISCSynonym>EQUIVOCAL</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Open to question.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Equivocal</nciodm:PreferredTerm>
                 </EnumeratedItem>
@@ -199,7 +198,7 @@
                     <nciodm:CDISCDefinition>Unable to be evaluated. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Unevaluable</nciodm:PreferredTerm>
                 </EnumeratedItem>
-                <EnumeratedItem CodedValue="Non-CR/Non-PD" nciodm:ExtCodeID="C96700">
+                <EnumeratedItem CodedValue="NON-CR/NON-PD" nciodm:ExtCodeID="C96700">
                     <nciodm:CDISCSynonym>Non Complete Response/Non Progressive Disease</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Persistence of one or more non-target lesion(s) and/or maintenance of tumor marker levels above the normal limits. (RECIST)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Non Complete Response/Non Progressive Disease</nciodm:PreferredTerm>
@@ -244,6 +243,7 @@
                     <nciodm:PreferredTerm>Pathologic Complete Response</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="PD" nciodm:ExtCodeID="C35571">
+                    <nciodm:CDISCSynonym>Disease Progression</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Progressive Disease</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A disease process that is increasing in extent or severity. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Progressive Disease</nciodm:PreferredTerm>
@@ -284,6 +284,12 @@
                     <nciodm:CDISCSynonym>Partial Response</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A finding indicating that there is a decrease based on a predetermined threshold in the size and the extent of tissue involvement by cancer.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Partial Remission</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PR WITH LYMPHOCYTOSIS" nciodm:ExtCodeID="C128998">
+                    <nciodm:CDISCSynonym>PR-L</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>PRL</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A decrease in the size and the extent of tissue involvement by cancer, accompanied by an increase in blood lymphocyte count above a predetermined threshold.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Partial Response with Lymphocytosis</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="PR-CT" nciodm:ExtCodeID="C123610">
                     <nciodm:CDISCSynonym>Partial Remission, CT-Based</nciodm:CDISCSynonym>

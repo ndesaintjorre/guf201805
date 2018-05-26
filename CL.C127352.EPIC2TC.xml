@@ -1,0 +1,119 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C127352.EPIC2TC" Name="The Expanded Prostate Cancer Index Composite for Clinical Practice Questionnaire Test Code" DataType="text" nciodm:ExtCodeID="C127352" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">The Expanded Prostate Cancer Index Composite for Clinical Practice test code.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="EPIC201" nciodm:ExtCodeID="C127399">
+                    <nciodm:CDISCSynonym>EPIC2-Overall Problem Urinary Function</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Expanded Prostate Cancer Index Composite for Clinical Practice - Overall, how much of a problem has your urinary function been for you?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>EPIC-CP - Overall Problem Urinary Function</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EPIC202" nciodm:ExtCodeID="C127400">
+                    <nciodm:CDISCSynonym>EPIC2-Best Describes Urinary Control</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Expanded Prostate Cancer Index Composite for Clinical Practice - Which of the following best describes your urinary control?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>EPIC-CP - Best Describes Urinary Control</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EPIC203" nciodm:ExtCodeID="C127401">
+                    <nciodm:CDISCSynonym>EPIC2-Pads or Adult Diapers per Day</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Expanded Prostate Cancer Index Composite for Clinical Practice - How many pads or adult diapers per day have you been using for urinary leakage?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>EPIC-CP - Adult Diapers Used per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EPIC204" nciodm:ExtCodeID="C127402">
+                    <nciodm:CDISCSynonym>EPIC2-Problem Urinary Dripping/Leakage</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Expanded Prostate Cancer Index Composite for Clinical Practice - How big a problem, if any, has urinary dripping or leakage been for you?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>EPIC-CP - Problem Urinary Dripping/Leakage</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EPIC205A" nciodm:ExtCodeID="C127403">
+                    <nciodm:CDISCSynonym>EPIC2-Problem Pain/Burning W/ Urination</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Expanded Prostate Cancer Index Composite for Clinical Practice - How big a problem, if any, has each of the following been for you? Pain or burning with urination.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>EPIC-CP - Pain or Burning With Urination</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EPIC205B" nciodm:ExtCodeID="C127404">
+                    <nciodm:CDISCSynonym>EPIC2-Problem Weak Stream/Incompl Empty</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Expanded Prostate Cancer Index Composite for Clinical Practice - How big a problem, if any, has each of the following been for you? Weak urine stream/incomplete bladder emptying.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>EPIC-CP - Weak Urine Stream or Incomplete Bladder Emptying</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EPIC205C" nciodm:ExtCodeID="C127405">
+                    <nciodm:CDISCSynonym>EPIC2-Problem Need to Urinate Frequently</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Expanded Prostate Cancer Index Composite for Clinical Practice - How big a problem, if any, has each of the following been for you? Need to urinate frequently.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>EPIC-CP - Need to Urinate Frequently</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EPIC206A" nciodm:ExtCodeID="C127406">
+                    <nciodm:CDISCSynonym>EPIC2-Problem Rectal Pain/Urgent Bowel</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Expanded Prostate Cancer Index Composite for Clinical Practice - How big a problem, if any, has each of the following been for you? Rectal pain or urgency of bowel movements.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>EPIC-CP - Rectal Pain or Urgency of Bowel Movements</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EPIC206B" nciodm:ExtCodeID="C127407">
+                    <nciodm:CDISCSynonym>EPIC2-Problem Increased Freq Bowel Move</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Expanded Prostate Cancer Index Composite for Clinical Practice - How big a problem, if any, has each of the following been for you? Increased frequency of your bowel movements.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>EPIC-CP - Increased Frequency of Bowel Movements</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EPIC206C" nciodm:ExtCodeID="C127408">
+                    <nciodm:CDISCSynonym>EPIC2-Overall Problem Bowel Habits</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Expanded Prostate Cancer Index Composite for Clinical Practice - How big a problem, if any, has each of the following been for you? Overall problems with your bowel habits.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>EPIC-CP - Overall Problems With Bowel Habits</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EPIC207" nciodm:ExtCodeID="C127409">
+                    <nciodm:CDISCSynonym>EPIC2-Rate Ability to Reach Orgasm</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Expanded Prostate Cancer Index Composite for Clinical Practice - How would you rate your ability to reach orgasm (climax)?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>EPIC-CP - Rate Ability to Reach Orgasm</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EPIC208" nciodm:ExtCodeID="C127410">
+                    <nciodm:CDISCSynonym>EPIC2-Quality of Your Erections</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Expanded Prostate Cancer Index Composite for Clinical Practice - How would you describe the usual quality of your erections?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>EPIC-CP - Quality of Erections</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EPIC209" nciodm:ExtCodeID="C127411">
+                    <nciodm:CDISCSynonym>EPIC2-Overall Problem Sexual Function</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Expanded Prostate Cancer Index Composite for Clinical Practice - Overall, how much of a problem has your sexual function or lack of sexual function been for you?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>EPIC-CP - Problem Lack of Sexual Function</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EPIC210A" nciodm:ExtCodeID="C127412">
+                    <nciodm:CDISCSynonym>EPIC2-Problem Hot Flash/Breast Tender</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Expanded Prostate Cancer Index Composite for Clinical Practice - How big a problem, if any, has each of the following been for you? Hot flashes or breast tenderness/enlargement.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>EPIC-CP - Hot Flashes or Breast Tenderness</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EPIC210B" nciodm:ExtCodeID="C127413">
+                    <nciodm:CDISCSynonym>EPIC2-Problem Feeling Depressed</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Expanded Prostate Cancer Index Composite for Clinical Practice - How big a problem, if any, has each of the following been for you? Feeling depressed.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>EPIC-CP - Feeling Depressed</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EPIC210C" nciodm:ExtCodeID="C127414">
+                    <nciodm:CDISCSynonym>EPIC2-Problem Lack of Energy</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Expanded Prostate Cancer Index Composite for Clinical Practice - How big a problem, if any, has each of the following been for you? Lack of energy.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>EPIC-CP - Lack of Energy</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EPIC211" nciodm:ExtCodeID="C127415">
+                    <nciodm:CDISCSynonym>EPIC2-Urinary Incontinence Symptom Score</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Expanded Prostate Cancer Index Composite for Clinical Practice - Urinary incontinence symptom score.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>EPIC-CP - Urinary Incontinence Symptom Score</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EPIC212" nciodm:ExtCodeID="C127416">
+                    <nciodm:CDISCSynonym>EPIC2-Urinary Irrit/Obstr Symptom Score</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Expanded Prostate Cancer Index Composite for Clinical Practice - Urinary irritation/obstruction symptom score.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>EPIC-CP - Urinary Irritation/Obstruction Symptom Score</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EPIC213" nciodm:ExtCodeID="C127417">
+                    <nciodm:CDISCSynonym>EPIC2-Bowel Symptom Score</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Expanded Prostate Cancer Index Composite for Clinical Practice - Bowel symptom score.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>EPIC-CP - Bowel Symptom Score</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EPIC214" nciodm:ExtCodeID="C127418">
+                    <nciodm:CDISCSynonym>EPIC2-Sexual Symptom Score</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Expanded Prostate Cancer Index Composite for Clinical Practice - Sexual symptom score.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>EPIC-CP - Sexual Symptom Score</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EPIC215" nciodm:ExtCodeID="C127419">
+                    <nciodm:CDISCSynonym>EPIC2-Vitality/Hormonal Symptom Score</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Expanded Prostate Cancer Index Composite for Clinical Practice - Vitality/hormonal symptom score.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>EPIC-CP - Vitality/Hormonal Symptom Score</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EPIC216" nciodm:ExtCodeID="C127420">
+                    <nciodm:CDISCSynonym>EPIC2-Overall Prostate Cancer QOL Score</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Expanded Prostate Cancer Index Composite for Clinical Practice - Overall prostate cancer QOL score.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>EPIC-CP - Overall Score</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>EPIC2TC</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>The Expanded Prostate Cancer Index Composite for Clinical Practice Questionnaire Test Code</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Questionnaire EPIC-CP Test Code Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

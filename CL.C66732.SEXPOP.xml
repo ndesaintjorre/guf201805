@@ -1,6 +1,6 @@
-<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C66732.SEXPOP" Name="Sex of Participants" DataType="text" nciodm:ExtCodeID="C66732" nciodm:CodeListExtensible="No">
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C66732.SEXPOP" Name="Sex of Participants Response" DataType="text" nciodm:ExtCodeID="C66732" nciodm:CodeListExtensible="No">
                 <Description>
-                    <TranslatedText xml:lang="en">The specific sex, either male, female, or mixed of the subject group being studied. (NCI)</TranslatedText>
+                    <TranslatedText xml:lang="en">A terminology codelist relevant to the specific sex, either male, female, or mixed of the subject group being studied.</TranslatedText>
                 </Description>
                 <EnumeratedItem CodedValue="BOTH" nciodm:ExtCodeID="C49636">
                     <nciodm:CDISCDefinition>One and the other; relating to or being two in conjunction. (NCI)</nciodm:CDISCDefinition>
@@ -17,7 +17,7 @@
                     <nciodm:PreferredTerm>Male</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <nciodm:CDISCSubmissionValue>SEXPOP</nciodm:CDISCSubmissionValue>
-                <nciodm:CDISCSynonym>Sex of Participants</nciodm:CDISCSynonym>
+                <nciodm:CDISCSynonym>Sex of Participants Response</nciodm:CDISCSynonym>
                 <nciodm:PreferredTerm>CDISC SDTM Sex of Study Group Terminology</nciodm:PreferredTerm>
             </CodeList>
             

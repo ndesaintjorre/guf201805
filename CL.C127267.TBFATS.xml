@@ -1,0 +1,29 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C127267.TBFATS" Name="Tuberculosis Findings About Test Name" DataType="text" nciodm:ExtCodeID="C127267" nciodm:CodeListExtensible="Yes">
+                <Description>
+                    <TranslatedText xml:lang="en">Terminology relevant to the test names that describe findings about a tuberculosis event or intervention.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="Drug Resistance Status" nciodm:ExtCodeID="C102626">
+                    <nciodm:CDISCSynonym>Drug Resistance Status</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The state or condition of not responding to a pharmacological agent.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Drug Resistance Status</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Longest Diameter" nciodm:ExtCodeID="C96684">
+                    <nciodm:CDISCSynonym>Longest Diameter</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The longest possible length of a straight line passing through the center of a circular or spheroid object that connects two points on the circumference.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Longest Diameter</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Occurrence Indicator" nciodm:ExtCodeID="C127786">
+                    <nciodm:CDISCSynonym>Occurrence Indicator</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An indication as to whether something has happened, such as an event or incident.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Occurrence Indicator</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Total Number" nciodm:ExtCodeID="C127787">
+                    <nciodm:CDISCSynonym>Total Number</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the total number of entities.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Total Number</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>TBFATS</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Tuberculosis Findings About Test Name</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Tuberculosis Findings About Test Name Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

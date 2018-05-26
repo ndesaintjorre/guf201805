@@ -1,0 +1,194 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C129093.FAC005TN" Name="Functional Assessment of Cancer Therapy-Breast Version 4 Questionnaire Test Name" DataType="text" nciodm:ExtCodeID="C129093" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Functional Assessment of Cancer Therapy-Breast Version 4 test name.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="FAC005-Bothered by Treatment Side Effect" nciodm:ExtCodeID="C129192">
+                    <nciodm:CDISCSynonym>FAC005-Bothered by Treatment Side Effect</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Cancer Therapy-Breast Version 4 - Physical Well-Being: I am bothered by side effects of treatment.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FACT-B Version 4 - Bothered by Treatment Side Effect</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC005-Certain Parts of Body Have Pain" nciodm:ExtCodeID="C129224">
+                    <nciodm:CDISCSynonym>FAC005-Certain Parts of Body Have Pain</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Cancer Therapy-Breast Version 4 - Additional Concerns: I have certain parts of my body where I experience pain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FACT-B Version 4 - Certain Parts of Body Have Pain</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC005-Content With Quality of My Life" nciodm:ExtCodeID="C129214">
+                    <nciodm:CDISCSynonym>FAC005-Content With Quality of My Life</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Cancer Therapy-Breast Version 4 - Functional Well-Being: I am content with the quality of my life right now.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FACT-B Version 4 - Content With Quality of My Life</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC005-Enjoy Things I Usually Do for Fun" nciodm:ExtCodeID="C129213">
+                    <nciodm:CDISCSynonym>FAC005-Enjoy Things I Usually Do for Fun</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Cancer Therapy-Breast Version 4 - Functional Well-Being: I am enjoying the things I usually do for fun.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FACT-B Version 4 - Enjoy Things I Usually Do for Fun</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC005-Get Emotional Support From Family" nciodm:ExtCodeID="C129196">
+                    <nciodm:CDISCSynonym>FAC005-Get Emotional Support From Family</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Cancer Therapy-Breast Version 4 - Social/Family Well-Being: I get emotional support from my family.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FACT-B Version 4 - Get Emotional Support From Family</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC005-I Am Able to Enjoy Life" nciodm:ExtCodeID="C129210">
+                    <nciodm:CDISCSynonym>FAC005-I Am Able to Enjoy Life</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Cancer Therapy-Breast Version 4 - Functional Well-Being: I am able to enjoy life.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FACT-B Version 4 - I Am Able to Enjoy Life</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC005-I Am Able to Feel Like a Woman" nciodm:ExtCodeID="C129223">
+                    <nciodm:CDISCSynonym>FAC005-I Am Able to Feel Like a Woman</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Cancer Therapy-Breast Version 4 - Additional Concerns: I am able to feel like a woman.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FACT-B Version 4 - I Am Able to Feel Like a Woman</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC005-I Am Able to Work" nciodm:ExtCodeID="C129208">
+                    <nciodm:CDISCSynonym>FAC005-I Am Able to Work</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Cancer Therapy-Breast Version 4 - Functional Well-Being: I am able to work (include work at home).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FACT-B Version 4 - I Am Able to Work</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC005-I Am Bothered by Change in Weight" nciodm:ExtCodeID="C129222">
+                    <nciodm:CDISCSynonym>FAC005-I Am Bothered by Change in Weight</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Cancer Therapy-Breast Version 4 - Additional Concerns: I am bothered by a change in weight.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FACT-B Version 4 - I Am Bothered by Change in Weight</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC005-I Am Bothered by Hair Loss" nciodm:ExtCodeID="C129219">
+                    <nciodm:CDISCSynonym>FAC005-I Am Bothered by Hair Loss</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Cancer Therapy-Breast Version 4 - Additional Concerns: I am bothered by hair loss.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FACT-B Version 4 - I Am Bothered by Hair Loss</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC005-I Am Forced to Spend Time in Bed" nciodm:ExtCodeID="C129194">
+                    <nciodm:CDISCSynonym>FAC005-I Am Forced to Spend Time in Bed</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Cancer Therapy-Breast Version 4 - Physical Well-Being: I am forced to spend time in bed.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FACT-B Version 4 - I Am Forced to Spend Time in Bed</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC005-I Am Satisfied With My Sex Life" nciodm:ExtCodeID="C129201">
+                    <nciodm:CDISCSynonym>FAC005-I Am Satisfied With My Sex Life</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Cancer Therapy-Breast Version 4 - Social/Family Well-Being: I am satisfied with my sex life.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FACT-B Version 4 - I Am Satisfied With My Sex Life</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC005-I Am Sleeping Well" nciodm:ExtCodeID="C129212">
+                    <nciodm:CDISCSynonym>FAC005-I Am Sleeping Well</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Cancer Therapy-Breast Version 4 - Functional Well-Being: I am sleeping well.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FACT-B Version 4 - I Am Sleeping Well</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC005-I Feel Close to My Friends" nciodm:ExtCodeID="C129195">
+                    <nciodm:CDISCSynonym>FAC005-I Feel Close to My Friends</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Cancer Therapy-Breast Version 4 - Social/Family Well-Being: I feel close to my friends.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FACT-B Version 4 - I Feel Close to My Friends</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC005-I Feel Close to My Partner" nciodm:ExtCodeID="C129200">
+                    <nciodm:CDISCSynonym>FAC005-I Feel Close to My Partner</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Cancer Therapy-Breast Version 4 - Social/Family Well-Being: I feel close to my partner (or the person who is my main support).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FACT-B Version 4 - I Feel Close to My Partner</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC005-I Feel Ill" nciodm:ExtCodeID="C129193">
+                    <nciodm:CDISCSynonym>FAC005-I Feel Ill</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Cancer Therapy-Breast Version 4 - Physical Well-Being: I feel ill.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FACT-B Version 4 - I Feel Ill</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC005-I Feel Nervous" nciodm:ExtCodeID="C129205">
+                    <nciodm:CDISCSynonym>FAC005-I Feel Nervous</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Cancer Therapy-Breast Version 4 - Emotional Well-Being: I feel nervous.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FACT-B Version 4 - I Feel Nervous</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC005-I Feel Sad" nciodm:ExtCodeID="C129202">
+                    <nciodm:CDISCSynonym>FAC005-I Feel Sad</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Cancer Therapy-Breast Version 4 - Emotional Well-Being: I feel sad.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FACT-B Version 4 - I Feel Sad</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC005-I Feel Sexually Attractive" nciodm:ExtCodeID="C129218">
+                    <nciodm:CDISCSynonym>FAC005-I Feel Sexually Attractive</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Cancer Therapy-Breast Version 4 - Additional Concerns: I feel sexually attractive.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FACT-B Version 4 - I Feel Sexually Attractive</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC005-I Get Support From My Friends" nciodm:ExtCodeID="C129197">
+                    <nciodm:CDISCSynonym>FAC005-I Get Support From My Friends</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Cancer Therapy-Breast Version 4 - Social/Family Well-Being: I get support from my friends.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FACT-B Version 4 - I Get Support From My Friends</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC005-I Have a Lack of Energy" nciodm:ExtCodeID="C129188">
+                    <nciodm:CDISCSynonym>FAC005-I Have a Lack of Energy</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Cancer Therapy-Breast Version 4 - Physical Well-Being: I have a lack of energy.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FACT-B Version 4 - I Have a Lack of Energy</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC005-I Have Accepted My Illness" nciodm:ExtCodeID="C129211">
+                    <nciodm:CDISCSynonym>FAC005-I Have Accepted My Illness</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Cancer Therapy-Breast Version 4 - Functional Well-Being: I have accepted my illness.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FACT-B Version 4 - I Have Accepted My Illness</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC005-I Have Been Short of Breath" nciodm:ExtCodeID="C129215">
+                    <nciodm:CDISCSynonym>FAC005-I Have Been Short of Breath</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Cancer Therapy-Breast Version 4 - Additional Concerns: I have been short of breath.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FACT-B Version 4 - I Have Been Short of Breath</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC005-I Have Nausea" nciodm:ExtCodeID="C129189">
+                    <nciodm:CDISCSynonym>FAC005-I Have Nausea</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Cancer Therapy-Breast Version 4 - Physical Well-Being: I have nausea.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FACT-B Version 4 - I Have Nausea</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC005-I Have Pain" nciodm:ExtCodeID="C129191">
+                    <nciodm:CDISCSynonym>FAC005-I Have Pain</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Cancer Therapy-Breast Version 4 - Physical Well-Being: I have pain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FACT-B Version 4 - I Have Pain</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC005-I Worry About Dying" nciodm:ExtCodeID="C129206">
+                    <nciodm:CDISCSynonym>FAC005-I Worry About Dying</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Cancer Therapy-Breast Version 4 - Emotional Well-Being: I worry about dying.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FACT-B Version 4 - I Worry About Dying</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC005-Losing Hope Against Illness" nciodm:ExtCodeID="C129204">
+                    <nciodm:CDISCSynonym>FAC005-Losing Hope Against Illness</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Cancer Therapy-Breast Version 4 - Emotional Well-Being: I am losing hope in the fight against my illness.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FACT-B Version 4 - Losing Hope Against Illness</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC005-My Family Has Accepted My Illness" nciodm:ExtCodeID="C129198">
+                    <nciodm:CDISCSynonym>FAC005-My Family Has Accepted My Illness</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Cancer Therapy-Breast Version 4 - Social/Family Well-Being: My family has accepted my illness.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FACT-B Version 4 - My Family Has Accepted My Illness</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC005-My Work Is Fulfilling" nciodm:ExtCodeID="C129209">
+                    <nciodm:CDISCSynonym>FAC005-My Work Is Fulfilling</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Cancer Therapy-Breast Version 4 - Functional Well-Being: My work (include work at home) is fulfilling.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FACT-B Version 4 - My Work Is Fulfilling</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC005-One/Both Arms Are Swollen/Tender" nciodm:ExtCodeID="C129217">
+                    <nciodm:CDISCSynonym>FAC005-One/Both Arms Are Swollen/Tender</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Cancer Therapy-Breast Version 4 - Additional Concerns: One or both of my arms are swollen or tender.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FACT-B Version 4 - One or Both Arms Are Swollen or Tender</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC005-Satisfied Communication Illness" nciodm:ExtCodeID="C129199">
+                    <nciodm:CDISCSynonym>FAC005-Satisfied Communication Illness</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Cancer Therapy-Breast Version 4 - Social/Family Well-Being: I am satisfied with family communication about my illness.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FACT-B Version 4 - Satisfied Family Communication of Illness</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC005-Satisfied With How I Am Coping" nciodm:ExtCodeID="C129203">
+                    <nciodm:CDISCSynonym>FAC005-Satisfied With How I Am Coping</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Cancer Therapy-Breast Version 4 - Emotional Well-Being: I am satisfied with how I am coping with my illness.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FACT-B Version 4 - Satisfied With How I Am Coping</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC005-Self-conscious About Way I Dress" nciodm:ExtCodeID="C129216">
+                    <nciodm:CDISCSynonym>FAC005-Self-conscious About Way I Dress</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Cancer Therapy-Breast Version 4 - Additional Concerns: I am self-conscious about the way I dress.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FACT-B Version 4 - Self-conscious About Way I Dress</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC005-Trouble Meeting Needs of Family" nciodm:ExtCodeID="C129190">
+                    <nciodm:CDISCSynonym>FAC005-Trouble Meeting Needs of Family</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Cancer Therapy-Breast Version 4 - Physical Well-Being: Because of my physical condition, I have trouble meeting the needs of my family.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FACT-B Version 4 - Trouble Meeting Needs of Family</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC005-Worry About the Effect of Stress" nciodm:ExtCodeID="C129221">
+                    <nciodm:CDISCSynonym>FAC005-Worry About the Effect of Stress</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Cancer Therapy-Breast Version 4 - Additional Concerns: I worry about the effect of stress on my illness.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FACT-B Version 4 - Worry About the Effect of Stress</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC005-Worry Family Will Get Illness" nciodm:ExtCodeID="C129220">
+                    <nciodm:CDISCSynonym>FAC005-Worry Family Will Get Illness</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Cancer Therapy-Breast Version 4 - Additional Concerns: I worry that other members of my family might someday get the same illness I have.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FACT-B Version 4 - Worry Family Will Get Illness</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC005-Worry My Condition Will Get Worse" nciodm:ExtCodeID="C129207">
+                    <nciodm:CDISCSynonym>FAC005-Worry My Condition Will Get Worse</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Cancer Therapy-Breast Version 4 - Emotional Well-Being: I worry that my condition will get worse.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FACT-B Version 4 - Worry My Condition Will Get Worse</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>FAC005TN</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Functional Assessment of Cancer Therapy-Breast Version 4 Questionnaire Test Name</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Questionnaire FACT-B Version 4 Test Name Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

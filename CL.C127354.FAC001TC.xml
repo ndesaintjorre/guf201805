@@ -1,0 +1,144 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C127354.FAC001TC" Name="The Functional Assessment of Cancer Therapy-General Version 4 Questionnaire Test Code" DataType="text" nciodm:ExtCodeID="C127354" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">The Functional Assessment of Cancer Therapy-General Version 4 test code.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="FAC00101" nciodm:ExtCodeID="C127421">
+                    <nciodm:CDISCSynonym>FAC001-I Have a Lack of Energy</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Cancer Therapy-General Version 4 - Physical Well-Being: I have a lack of energy.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FACT-G Version 4 - I Have a Lack of Energy</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC00102" nciodm:ExtCodeID="C127422">
+                    <nciodm:CDISCSynonym>FAC001-I Have Nausea</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Cancer Therapy-General Version 4 - Physical Well-Being: I have nausea.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FACT-G Version 4 - I Have Nausea</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC00103" nciodm:ExtCodeID="C127423">
+                    <nciodm:CDISCSynonym>FAC001-Trouble Meeting Needs of Family</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Cancer Therapy-General Version 4 - Physical Well-Being: Because of my physical condition, I have trouble meeting the needs of my family.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FACT-G Version 4 - Trouble Meeting Needs of Family</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC00104" nciodm:ExtCodeID="C127424">
+                    <nciodm:CDISCSynonym>FAC001-I Have Pain</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Cancer Therapy-General Version 4 - Physical Well-Being: I have pain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FACT-G Version 4 - I have pain</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC00105" nciodm:ExtCodeID="C127425">
+                    <nciodm:CDISCSynonym>FAC001-Bothered by Treatment Side Effect</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Cancer Therapy-General Version 4 - Physical Well-Being: I am bothered by side effects of treatment.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FACT-G Version 4 - Bothered by Treatment Side Effect</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC00106" nciodm:ExtCodeID="C127426">
+                    <nciodm:CDISCSynonym>FAC001-I Feel Ill</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Cancer Therapy-General Version 4 - Physical Well-Being: I feel ill.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FACT-G Version 4 - I Feel Ill</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC00107" nciodm:ExtCodeID="C127427">
+                    <nciodm:CDISCSynonym>FAC001-I Am Forced to Spend Time in Bed</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Cancer Therapy-General Version 4 - Physical Well-Being: I am forced to spend time in bed.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FACT-G Version 4 - I Am Forced to Spend Time in Bed</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC00108" nciodm:ExtCodeID="C127428">
+                    <nciodm:CDISCSynonym>FAC001-I Feel Close to My Friends</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Cancer Therapy-General Version 4 - Social/Family Well-Being: I feel close to my friends.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FACT-G Version 4 - I Feel Close to My Friends</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC00109" nciodm:ExtCodeID="C127429">
+                    <nciodm:CDISCSynonym>FAC001-Get Emotional Support From Family</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Cancer Therapy-General Version 4 - Social/Family Well-Being: I get emotional support from my family.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FACT-G Version 4 - I Get Emotional Support From My Family</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC00110" nciodm:ExtCodeID="C127430">
+                    <nciodm:CDISCSynonym>FAC001-I Get Support From My Friends</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Cancer Therapy-General Version 4 - Social/Family Well-Being: I get support from my friends.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FACT-G Version 4 - I Get Support From My Friends</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC00111" nciodm:ExtCodeID="C127431">
+                    <nciodm:CDISCSynonym>FAC001-My Family Has Accepted My Illness</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Cancer Therapy-General Version 4 - Social/Family Well-Being: My family has accepted my illness.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FACT-G Version 4 - My Family Has Accepted My Illness</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC00112" nciodm:ExtCodeID="C127432">
+                    <nciodm:CDISCSynonym>FAC001-Satisfied Family Comm of Illness</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Cancer Therapy-General Version 4 - Social/Family Well-Being: I am satisfied with family communication about my illness.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FACT-G Version 4 - Satisfied With Family Communication</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC00113" nciodm:ExtCodeID="C127433">
+                    <nciodm:CDISCSynonym>FAC001-I Feel Close to My Partner</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Cancer Therapy-General Version 4 - Social/Family Well-Being: I feel close to my partner (or the person who is my main support).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FACT-G Version 4 - I Feel Close to My Partner</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC00114" nciodm:ExtCodeID="C127434">
+                    <nciodm:CDISCSynonym>FAC001-I Am Satisfied With My Sex Life</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Cancer Therapy-General Version 4 - Social/Family Well-Being: I am satisfied with my sex life.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FACT-G Version 4 - I Am Satisfied With My Sex Life</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC00115" nciodm:ExtCodeID="C127435">
+                    <nciodm:CDISCSynonym>FAC001-I Feel Sad</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Cancer Therapy-General Version 4 - Emotional Well-Being: I feel sad.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FACT-G Version 4 - I Feel Sad</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC00116" nciodm:ExtCodeID="C127436">
+                    <nciodm:CDISCSynonym>FAC001-Satisfied With How I Am Coping</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Cancer Therapy-General Version 4 - Emotional Well-Being: I am satisfied with how I am coping with my illness.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FACT-G Version 4 - Satisfied With How I Am Coping With Illness</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC00117" nciodm:ExtCodeID="C127437">
+                    <nciodm:CDISCSynonym>FAC001-Losing Hope Against Illness</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Cancer Therapy-General Version 4 - Emotional Well-Being: I am losing hope in the fight against my illness.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FACT-G Version 4 - Losing Hope Against Illness</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC00118" nciodm:ExtCodeID="C127438">
+                    <nciodm:CDISCSynonym>FAC001-I Feel Nervous</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Cancer Therapy-General Version 4 - Emotional Well-Being: I feel nervous.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FACT-G Version 4 - I Feel Nervous</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC00119" nciodm:ExtCodeID="C127439">
+                    <nciodm:CDISCSynonym>FAC001-I Worry About Dying</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Cancer Therapy-General Version 4 - Emotional Well-Being: I worry about dying.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FACT-G Version 4 - I Worry About Dying</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC00120" nciodm:ExtCodeID="C127440">
+                    <nciodm:CDISCSynonym>FAC001-Worry My Condition Will Get Worse</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Cancer Therapy-General Version 4 - Emotional Well-Being: I worry that my condition will get worse.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FACT-G Version 4 - Worry My Condition Will Get Worse</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC00121" nciodm:ExtCodeID="C127441">
+                    <nciodm:CDISCSynonym>FAC001-I Am Able to Work</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Cancer Therapy-General Version 4 - Functional Well-Being: I am able to work (include work at home).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FACT-G Version 4 - I Am Able to Work</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC00122" nciodm:ExtCodeID="C127442">
+                    <nciodm:CDISCSynonym>FAC001-My Work Is Fulfilling</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Cancer Therapy-General Version 4 - Functional Well-Being: My work (include work at home) is fulfilling.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FACT-G Version 4 - My Work Is Fulfilling</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC00123" nciodm:ExtCodeID="C127443">
+                    <nciodm:CDISCSynonym>FAC001-I Am Able to Enjoy Life</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Cancer Therapy-General Version 4 - Functional Well-Being: I am able to enjoy life.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FACT-G Version 4 - I Am Able to Enjoy Life</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC00124" nciodm:ExtCodeID="C127444">
+                    <nciodm:CDISCSynonym>FAC001-I Have Accepted My Illness</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Cancer Therapy-General Version 4 - Functional Well-Being: I have accepted my illness.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FACT-G Version 4 - I Have Accepted My Illness</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC00125" nciodm:ExtCodeID="C127445">
+                    <nciodm:CDISCSynonym>FAC001-I Am Sleeping Well</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Cancer Therapy-General Version 4 - Functional Well-Being: I am sleeping well.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FACT-G Version 4 - I Am Sleeping Well</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC00126" nciodm:ExtCodeID="C127446">
+                    <nciodm:CDISCSynonym>FAC001-Enjoy Things I Usually Do for Fun</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Cancer Therapy-General Version 4 - Functional Well-Being: I am enjoying the things I usually do for fun.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FACT-G Version 4 - Enjoy Things I Usually Do for Fun</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC00127" nciodm:ExtCodeID="C127447">
+                    <nciodm:CDISCSynonym>FAC001-Content With Quality of My Life</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Cancer Therapy-General Version 4 - Functional Well-Being: I am content with the quality of my life right now.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FACT-G Version 4 - Content With Quality of My Life</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>FAC001TC</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>The Functional Assessment of Cancer Therapy-General Version 4 Questionnaire Test Code</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Questionnaire FACT-G Version 4 Test Code Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

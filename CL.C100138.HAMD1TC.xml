@@ -1,4 +1,4 @@
-<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C100138.HAMD1TC" Name="Hamilton Depression Rating Scale - 17 Item Questionnaire Test Code" DataType="text" nciodm:ExtCodeID="C100138" nciodm:CodeListExtensible="No">
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C100138.HAMD1TC" Name="Hamilton Depression Rating Scale - 17 Item Clinical Classification Test Code" DataType="text" nciodm:ExtCodeID="C100138" nciodm:CodeListExtensible="No">
                 <Description>
                     <TranslatedText xml:lang="en">The Hamilton Depression Rating Scale - 17 Item test code.</TranslatedText>
                 </Description>
@@ -98,7 +98,7 @@
                     <nciodm:PreferredTerm>HAMD-17 - Total Score</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <nciodm:CDISCSubmissionValue>HAMD1TC</nciodm:CDISCSubmissionValue>
-                <nciodm:CDISCSynonym>Hamilton Depression Rating Scale - 17 Item Questionnaire Test Code</nciodm:CDISCSynonym>
-                <nciodm:PreferredTerm>CDISC Questionnaire HAMD 17 Test Code Terminology</nciodm:PreferredTerm>
+                <nciodm:CDISCSynonym>Hamilton Depression Rating Scale - 17 Item Clinical Classification Test Code</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Clinical Classification HAMD 17 Test Code Terminology</nciodm:PreferredTerm>
             </CodeList>
             

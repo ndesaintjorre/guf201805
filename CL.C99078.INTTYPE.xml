@@ -1,6 +1,6 @@
-<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C99078.INTTYPE" Name="Intervention Type" DataType="text" nciodm:ExtCodeID="C99078" nciodm:CodeListExtensible="No">
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C99078.INTTYPE" Name="Intervention Type Response" DataType="text" nciodm:ExtCodeID="C99078" nciodm:CodeListExtensible="No">
                 <Description>
-                    <TranslatedText xml:lang="en">The kind of product or procedure studied in a trial.</TranslatedText>
+                    <TranslatedText xml:lang="en">A terminology codelist relevant to the kind of product or procedure studied in a trial.</TranslatedText>
                 </Description>
                 <EnumeratedItem CodedValue="BEHAVIORAL THERAPY" nciodm:ExtCodeID="C15184">
                     <nciodm:CDISCDefinition>A technique used to change subjects' behavior, for example, psychotherapy, lifestyle counseling or hypnosis.</nciodm:CDISCDefinition>
@@ -40,7 +40,7 @@
                     <nciodm:PreferredTerm>Radiation Therapy</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <nciodm:CDISCSubmissionValue>INTTYPE</nciodm:CDISCSubmissionValue>
-                <nciodm:CDISCSynonym>Intervention Type</nciodm:CDISCSynonym>
+                <nciodm:CDISCSynonym>Intervention Type Response</nciodm:CDISCSynonym>
                 <nciodm:PreferredTerm>CDISC SDTM Intervention Type Terminology</nciodm:PreferredTerm>
             </CodeList>
             

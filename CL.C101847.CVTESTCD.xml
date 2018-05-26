@@ -27,6 +27,66 @@
                     <nciodm:CDISCDefinition>The second pressure peak in the aortic waveform secondary to pressure wave reflection from the periphery.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Augmentation Pressure Point P2</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="ANNAVEL" nciodm:ExtCodeID="C127535">
+                    <nciodm:CDISCSynonym>Annular a' Velocity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The peak velocity of the annular motion during late ventricular diastole (the active filling of the ventricle).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Annular a' Velocity</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ANNEVEL" nciodm:ExtCodeID="C127536">
+                    <nciodm:CDISCSynonym>Annular e' Velocity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The peak velocity of the annular motion during early ventricular diastole (the passive filling of the ventricle).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Annular e' Velocity</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="AREAEVD" nciodm:ExtCodeID="C127537">
+                    <nciodm:CDISCSynonym>Area, End Ventricular Diastole</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The 2-dimensional surface enclosed within a boundary of a cardiovascular structure and measured at end ventricular diastole.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Area at End Ventricular Diastole</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="AREAEVS" nciodm:ExtCodeID="C127538">
+                    <nciodm:CDISCSynonym>Area, End Ventricular Systole</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The 2-dimensional surface enclosed within a boundary of a cardiovascular structure and measured at end ventricular systole.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Area at End Ventricular Systole</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ARGJWLVD" nciodm:ExtCodeID="C127539">
+                    <nciodm:CDISCSynonym>Aortic Regur Jet Width LVOT Diam Rt</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Aortic Regurgitant Jet Width to Left Ventricular Outflow Tract Diameter Ratio</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A relative measurement (ratio) of the aortic regurgitant jet width to left ventricular outflow tract (LVOT) diameter.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Aortic Regurgitant Jet Width to Left Ventricular Outflow Tract Diameter Ratio</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="AVRGF" nciodm:ExtCodeID="C127540">
+                    <nciodm:CDISCSynonym>Aortic Valve Regurgitant Fraction</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the volume of retrograde blood flow across the orifice of the aortic valve expressed as a percentage of the anterograde flow volume.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Aortic Valve Regurgitant Fraction</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="AVRGJW" nciodm:ExtCodeID="C127541">
+                    <nciodm:CDISCSynonym>Aortic Valve Regurgitant Jet Width</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The measured width of the regurgitant jet of blood into the left ventricular outflow tract.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Aortic Valve Regurgitant Jet Width</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="AVRGVOL" nciodm:ExtCodeID="C127542">
+                    <nciodm:CDISCSynonym>Aortic Valve Regurgitant Volume</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the volume of retrograde blood flow across the orifice of the aortic valve.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Aortic Valve Regurgitant Volume</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="AVVCA" nciodm:ExtCodeID="C127543">
+                    <nciodm:CDISCSynonym>Aortic Valve Vena Contracta Area</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The area of the vena contracta of the aortic valve.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Aortic Valve Vena Contracta Area</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="AVVCW" nciodm:ExtCodeID="C127544">
+                    <nciodm:CDISCSynonym>Aortic Valve Vena Contracta Width</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The width of the vena contracta of the aortic valve.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Aortic Valve Vena Contracta Width</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BLDFLRT" nciodm:ExtCodeID="C94866">
+                    <nciodm:CDISCDefinition>The volume of blood per unit time passing through a specified location, such as a point in a blood vessel or an entire organ.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Blood Flow Rate</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CANRFIND" nciodm:ExtCodeID="C119331">
+                    <nciodm:CDISCSynonym>Coronary Artery No Reflow Indicator</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An indication as to whether there is a new acute reduction in coronary flow (TIMI grade 0-1) in the absence of dissection, thrombus, spasm, or high-grade residual stenosis at the original PCI lesion site.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Coronary No Reflow at PCI Site Indicator</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="CARDIDX" nciodm:ExtCodeID="C119245">
                     <nciodm:CDISCSynonym>Cardiac Index</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The measure of an individual's cardiac output divided by the individual's body surface area (CI= CO/BSA).</nciodm:CDISCDefinition>
@@ -42,6 +102,98 @@
                     <nciodm:CDISCDefinition>The pattern of the epicardial vessels supplying the posterolateral and posterior descending coronary arteries.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Coronary Artery Dominance</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSDIAEVD" nciodm:ExtCodeID="C127545">
+                    <nciodm:CDISCSynonym>Cross-sectional Diameter, End Ventricular Diastole</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The cross sectional diameter of a cardiovascular structure measured at end ventricular diastole.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Cross-sectional Diameter at End Ventricular Diastole</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSDIAEVS" nciodm:ExtCodeID="C127546">
+                    <nciodm:CDISCSynonym>Cross-sec Diameter, EVS</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Cross-sectional Diameter, End Ventricular Systole</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The cross sectional diameter of a cardiovascular structure measured at end ventricular systole.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Cross-sectional Diameter at End Ventricular Systole</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSDIAMVS" nciodm:ExtCodeID="C127547">
+                    <nciodm:CDISCSynonym>Cross-sec Diameter, MVS</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Cross-sectional Diameter, Mid Ventricular Systole</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The cross sectional diameter of a cardiovascular structure measured at mid ventricular systole.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Cross-sectional Diameter at Mid Ventricular Systole</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSPDIND" nciodm:ExtCodeID="C127548">
+                    <nciodm:CDISCSynonym>Cusp Doming Indicator</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An indication as to whether there is doming of a cardiac valve cusp.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Cusp Doming Indicator</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSPDSEV" nciodm:ExtCodeID="C127549">
+                    <nciodm:CDISCSynonym>Cusp Doming Severity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The assessment of the severity of doming of a cardiac valve cusp.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Cusp Doming Severity</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSPFIND" nciodm:ExtCodeID="C127550">
+                    <nciodm:CDISCSynonym>Cusp Flail Indicator</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An indication as to whether there is a flailing cardiac valve cusp.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Cusp Flail Indicator</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSPFSEV" nciodm:ExtCodeID="C127551">
+                    <nciodm:CDISCSynonym>Cusp Flail Severity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The assessment of the severity of a flailing cardiac valve cusp.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Cusp Flail Severity</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSPFT" nciodm:ExtCodeID="C127552">
+                    <nciodm:CDISCSynonym>Cusp Flail Timing</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The time point during the cardiac cycle when the flail of one or more cardiac valve cusps occurs.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Cusp Flail Timing</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSPPIND" nciodm:ExtCodeID="C127553">
+                    <nciodm:CDISCSynonym>Cusp Prolapse Indicator</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An indication as to whether there is a prolapsing cardiac valve cusp.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Cusp Prolapse Indicator</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSPPSEV" nciodm:ExtCodeID="C127554">
+                    <nciodm:CDISCSynonym>Cusp Prolapse Severity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The assessment of the severity of a prolapsing cardiac valve cusp.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Cusp Prolapse Severity</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSPPT" nciodm:ExtCodeID="C127555">
+                    <nciodm:CDISCSynonym>Cusp Prolapse Timing</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The time point during the cardiac cycle when the prolapse of one or more cardiac valve cusps occurs.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Cusp Prolapse Timing</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSPRMIND" nciodm:ExtCodeID="C127556">
+                    <nciodm:CDISCSynonym>Cusp Restricted Motion Indicator</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An indication as to whether there is restricted motion of a cardiac valve cusp.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Cusp Restricted Motion Indicator</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSPRMSEV" nciodm:ExtCodeID="C127557">
+                    <nciodm:CDISCSynonym>Cusp Restricted Motion Severity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The assessment of the severity of restricted motion of a cardiac valve cusp.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Cusp Restricted Motion Severity</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSPTEIND" nciodm:ExtCodeID="C127558">
+                    <nciodm:CDISCSynonym>Cusp Tethering Indicator</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An indication as to whether there is tethering of a cardiac valve cusp.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Cusp Tethering Indicator</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSPTESEV" nciodm:ExtCodeID="C127559">
+                    <nciodm:CDISCSynonym>Cusp Tethering Severity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The assessment of the severity of tethering of a cardiac valve cusp.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Cusp Tethering Severity</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSPTIND" nciodm:ExtCodeID="C127560">
+                    <nciodm:CDISCSynonym>Cusp Thickening Indicator</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An indication as to whether there is a thickened cardiac valve cusp.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Cusp Thickening Indicator</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSPTSEV" nciodm:ExtCodeID="C127561">
+                    <nciodm:CDISCSynonym>Cusp Thickening Severity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The assessment of the severity of a thickening cardiac cusp.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Cusp Thickening Severity</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CTPIND" nciodm:ExtCodeID="C127562">
+                    <nciodm:CDISCSynonym>Chordae Tendineae Prolapse Indicator</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An indication as to whether there is prolapsing of a cardiac valve chordae tendinae.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Chordae Tendineae Prolapse Indicator</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="CVLREGTS" nciodm:ExtCodeID="C102244">
                     <nciodm:CDISCSynonym>Cardiac Valvular Regurgitation Severity</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The qualitative measurement of the severity of cardiac valvular regurgitation.</nciodm:CDISCDefinition>
@@ -52,10 +204,41 @@
                     <nciodm:CDISCDefinition>The qualitative measurement of the severity of cardiac valvular stenosis.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Cardiac Valvular Stenosis Severity</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="CVRGJDR" nciodm:ExtCodeID="C127563">
+                    <nciodm:CDISCSynonym>Cardiac Valve Regur Jet Direction</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Cardiac Valve Regurgitation Jet Direction</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The trajectory of the retrograde blood flow from a cardiac valve.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Cardiac Valve Regurgitant Jet Direction</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CWMTYP" nciodm:ExtCodeID="C127564">
+                    <nciodm:CDISCSynonym>Cardiac Wall Motion Type</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The assessment of the movement of the cardiac muscle, either as a whole or at one or more specific anatomical locations.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Cardiac Wall Motion Type</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DEPTH" nciodm:ExtCodeID="C25333">
+                    <nciodm:CDISCSynonym>Depth</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The extent downward or inward; the perpendicular measurement from the surface downward to determine deepness. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Depth</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EFFRGOA" nciodm:ExtCodeID="C127565">
+                    <nciodm:CDISCSynonym>Effective Regurgitant Orifice Area</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the effective regurgitant orifice area of the valve.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Effective Regurgitant Orifice Area</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="EJWAMP" nciodm:ExtCodeID="C122088">
                     <nciodm:CDISCSynonym>Ejection Wave Amplitude</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The magnitude of the ejection wave that occurs when blood is ejected into the aorta by the left ventricle.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Ejection Wave Amplitude</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="INRSTIND" nciodm:ExtCodeID="C116148">
+                    <nciodm:CDISCSynonym>In-Stent Restenosis Indicator</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An indication as to whether there is re-narrowing of a stent implanted at a lesion site to treat a prior stenosis, to a diameter stenosis of greater than 50% within the stent.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>In-Stent Restenosis Indicator</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="INTP" nciodm:ExtCodeID="C41255">
+                    <nciodm:CDISCSynonym>Interpretation</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An act or process of elucidation; explication, or explanation of the meaning of the event or thing via the assignment of objects from the domain to the constants of a formal language, truth-values to the proposition symbols, truth-functions to the connectives, other functions to the function symbols, and extensions to the predicates, if any. The assignments are result of human logic application and are not native to the symbols of the formal language.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Interpretation</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="ISHMYOP" nciodm:ExtCodeID="C80494">
                     <nciodm:CDISCSynonym>Ischemic Myocardium Percentage</nciodm:CDISCSynonym>
@@ -66,6 +249,33 @@
                     <nciodm:CDISCSynonym>Left Atrium Dimension</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The diameter across the left atrium measured at the end of systole.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Left Atrium Dimension</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LATELOSS" nciodm:ExtCodeID="C116146">
+                    <nciodm:CDISCSynonym>Late Loss</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The difference between the mean minimum lumen diameter (MLD) assessed immediately after an index procedure and the MLD assessed at follow-up angiography.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Late Lumen Loss Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LCDIAEVD" nciodm:ExtCodeID="C127566">
+                    <nciodm:CDISCSynonym>Largest Cross-sec Diameter, EVD</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Largest Cross-sectional Diameter, End Ventricular Diastole</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The largest cross sectional diameter of a vascular structure measured at end ventricular diastole.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Largest Cross-sectional Diameter at End Ventricular Diastole</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LENGTH" nciodm:ExtCodeID="C25334">
+                    <nciodm:CDISCSynonym>Length</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The linear extent in space from one end of something to the other end, or the extent of something from beginning to end. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Length</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LGTHCK" nciodm:ExtCodeID="C127567">
+                    <nciodm:CDISCSynonym>Largest Cross-sec Thickness</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Largest Cross-sectional Thickness</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The assessment of the largest cross-sectional thickness of a tissue.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Largest Cross-sectional Thickness</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LRSTIND" nciodm:ExtCodeID="C116147">
+                    <nciodm:CDISCSynonym>Lesion Restenosis Indicator</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An indication as to whether there is re-narrowing of a lesion site following treatment of a prior stenosis, to a diameter stenosis of greater than 50% at the previously treated lesion site.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Lesion Restenosis Indicator</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="LVDMNED" nciodm:ExtCodeID="C99976">
                     <nciodm:CDISCSynonym>Left Ventricle Dimension, End-Diastole</nciodm:CDISCSynonym>
@@ -82,15 +292,164 @@
                     <nciodm:CDISCDefinition>The percent or fraction of the left ventricular end diastolic volume ejected in systole. The left ventricular ejection fraction is equal to the left ventricular stroke volume divided by the left ventricular end diastolic volume.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Left Ventricular Ejection Fraction</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="LVOTPVEL" nciodm:ExtCodeID="C127568">
+                    <nciodm:CDISCSynonym>LVOT Peak Velocity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Left Ventricular Outflow Tract Peak Velocity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the maximum velocity of blood flow measured in the left ventricular outflow tract during left ventricular systole.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Left Ventricular Outflow Tract Peak Velocity</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LVOTVTI" nciodm:ExtCodeID="C127569">
+                    <nciodm:CDISCSynonym>LVOT Velocity Time Integral</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Left Ventricular Outflow Tract Velocity Time Integral</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The integral of all of the instantaneous flow velocities within the left ventricular outflow tract during left ventricular systole.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Left Ventricular Outflow Tract Velocity Time Integral</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MASS" nciodm:ExtCodeID="C43246">
+                    <nciodm:CDISCSynonym>Mass</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The amount of matter in an object.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Mass</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MBFVEL" nciodm:ExtCodeID="C127570">
+                    <nciodm:CDISCSynonym>Mean Blood Flow Velocity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the mean velocity of blood across an area or tissue.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Mean Blood Flow Velocity</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MEANVDIA" nciodm:ExtCodeID="C116143">
+                    <nciodm:CDISCSynonym>Mean Vessel Diameter</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The mean of the inside diameters of the normal blood vessel segments.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Mean Vessel Diameter</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MINLDIAM" nciodm:ExtCodeID="C116144">
+                    <nciodm:CDISCSynonym>Minimum Vessel Lumen Diameter</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The minimum diameter of the inside of a blood vessel (lumen) derived quantitatively in a single view.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Minimum Vessel Lumen Diameter</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MITRALEA" nciodm:ExtCodeID="C127571">
+                    <nciodm:CDISCSynonym>Mitral E/A Ratio</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The ratio of the peak early ventricular diastolic (E) transmitral velocity to the peak late ventricular diastolic (A) transmitral velocity.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Mitral E/A Ratio</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MITRALEE" nciodm:ExtCodeID="C127572">
+                    <nciodm:CDISCSynonym>Mitral E/e' Ratio</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The ratio of the peak early ventricular diastolic (E) transmitral velocity to the peak early mitral annular motion velocity (e').</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Mitral E/e' Ratio</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MJDIAEVD" nciodm:ExtCodeID="C127573">
+                    <nciodm:CDISCSynonym>Major Axis Cross-sectional Diameter, End Ventricular Diastole</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The cross sectional diameter of a cardiovascular structure measured along the major axis at end ventricular diastole.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Major Axis Cross-sectional Diameter at End Ventricular Diastole</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MJDIAEVS" nciodm:ExtCodeID="C127574">
+                    <nciodm:CDISCSynonym>Major Axis Cross-sectional Diameter, End Ventricular Systole</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The cross sectional diameter of a cardiovascular structure measured along the major axis at end ventricular systole.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Major Axis Cross-sectional Diameter at End Ventricular Systole</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MNDIAEVD" nciodm:ExtCodeID="C127575">
+                    <nciodm:CDISCSynonym>Minor Axis Cross-sectional Diameter, End Ventricular Diastole</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The cross sectional diameter of a cardiovascular structure measured along the minor axis at end ventricular diastole.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Minor Axis Cross-sectional Diameter at End Ventricular Diastole</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MNDIAEVS" nciodm:ExtCodeID="C127576">
+                    <nciodm:CDISCSynonym>Minor Axis Cross-sectional Diameter, End Ventricular Systole</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The cross sectional diameter of a cardiovascular structure measured along the minor axis at end ventricular systole.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Minor Axis Cross-sectional Diameter at End Ventricular Systole</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MRGJALA" nciodm:ExtCodeID="C127577">
+                    <nciodm:CDISCSynonym>Mitral Regur Jet Area L Atrial Area Rt</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Mitral Regurgitant Jet Area to Left Atrial Area Ratio</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A relative measurement (ratio) of the mitral regurgitant jet area to left atrial area.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Mitral Regurgitant Jet Area to Left Atrial Area Ratio</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MVRGF" nciodm:ExtCodeID="C127578">
+                    <nciodm:CDISCSynonym>Mitral Valve Regurgitant Fraction</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the volume of retrograde blood flow across the orifice of the mitral valve expressed as a percentage of the anterograde flow volume.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Mitral Valve Regurgitant Fraction</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MVRGJA" nciodm:ExtCodeID="C127579">
+                    <nciodm:CDISCSynonym>Mitral Valve Regurgitant Jet Area</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The measured area of the regurgitant jet of blood into the left atrium.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Mitral Valve Regurgitant Jet Area</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MVRGVOL" nciodm:ExtCodeID="C127580">
+                    <nciodm:CDISCSynonym>Mitral Valve Regurgitant Volume</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the volume of retrograde blood flow across the orifice of the mitral valve.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Mitral Valve Regurgitant Volume</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MVVCA" nciodm:ExtCodeID="C127581">
+                    <nciodm:CDISCSynonym>Mitral Valve Vena Contracta Area</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The area of the vena contracta of the mitral valve.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Mitral Valve Vena Contracta Area</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MVVCW" nciodm:ExtCodeID="C127582">
+                    <nciodm:CDISCSynonym>Mitral Valve Vena Contracta Width</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The width of the vena contracta of the mitral valve.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Mitral Valve Vena Contracta Width</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="NUMDCAV" nciodm:ExtCodeID="C99996">
                     <nciodm:CDISCSynonym>Number of Diseased Coronary Vessels</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Number of major epicardial vessels with greater than or equal to 70% reduction in diameter or greater than or equal to 50% reduction in cross-sectional area.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Number of Diseased Coronary Artery Vessels</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="PBFVEL" nciodm:ExtCodeID="C127583">
+                    <nciodm:CDISCSynonym>Peak Blood Flow Velocity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the maximum velocity of blood across an area or tissue.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Peak Blood Flow Velocity</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PCTDIAST" nciodm:ExtCodeID="C116145">
+                    <nciodm:CDISCSynonym>Percent Diameter Stenosis</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The value calculated as 100 x (1 - MLD/RVD), using the mean quantitative values for minimum lumen diameter (MLD) and reference vessel diameter (RVD).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Percent Diameter Stenosis Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PKAVEL" nciodm:ExtCodeID="C127584">
+                    <nciodm:CDISCSynonym>Peak A Velocity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The peak velocity of blood flow across a cardiac valve during late ventricular diastole (the active filling of the ventricle).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Peak A Velocity</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PKEVEL" nciodm:ExtCodeID="C127585">
+                    <nciodm:CDISCSynonym>Peak E Velocity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The peak velocity of blood flow across a cardiac valve during early ventricular diastole (the passive filling of the ventricle).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Peak E Velocity</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PRGJWRVD" nciodm:ExtCodeID="C127586">
+                    <nciodm:CDISCSynonym>Pulmonic Regur Jet Width RVOT Diam Rt</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Pulmonic Regurgitant Jet Width to Right Ventricular Outflow Tract Diameter Ratio</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A relative measurement (ratio) of the pulmonic regurgitant jet width to right ventricular outflow tract (RVOT) diameter.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Pulmonic Regurgitant Jet Width to Right Ventricular Outflow Tract Diameter Ratio</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PVEINDOM" nciodm:ExtCodeID="C127587">
+                    <nciodm:CDISCSynonym>Pulmonary Vein Dominance</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The determination of whether blood flow in the pulmonary veins is greater during ventricular systole or diastole.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Pulmonary Vein Dominance</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="PVR" nciodm:ExtCodeID="C119247">
                     <nciodm:CDISCSynonym>Pulmonary Vascular Resistance</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The resistance to blood flow through the pulmonary vasculature.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Pulmonary Vascular Resistance</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PVRGF" nciodm:ExtCodeID="C127588">
+                    <nciodm:CDISCSynonym>Pulmonary Valve Regurgitant Fraction</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the volume of retrograde blood flow across the orifice of the pulmonic valve expressed as a percentage of the anterograde flow volume.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Pulmonary Valve Regurgitant Fraction</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PVRGJW" nciodm:ExtCodeID="C127589">
+                    <nciodm:CDISCSynonym>Pulmonic Valve Regurgitant Jet Width</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The measured width of the regurgitant jet of blood into the right ventricular outflow tract.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Pulmonic Valve Regurgitant Jet Width</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PVRGVOL" nciodm:ExtCodeID="C127590">
+                    <nciodm:CDISCSynonym>Pulmonary Valve Regurgitant Volume</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the volume of retrograde blood flow across the orifice of the pulmonic valve.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Pulmonary Valve Regurgitant Volume</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PVVCA" nciodm:ExtCodeID="C127591">
+                    <nciodm:CDISCSynonym>Pulmonary Valve Vena Contracta Area</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The area of the vena contracta of the pulmonic valve.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Pulmonary Valve Vena Contracta Area</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PVVCW" nciodm:ExtCodeID="C127592">
+                    <nciodm:CDISCSynonym>Pulmonary Valve Vena Contracta Width</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The width of the vena contracta of the pulmonic valve.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Pulmonary Valve Vena Contracta Width</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="PWV" nciodm:ExtCodeID="C122087">
                     <nciodm:CDISCSynonym>Pulse Wave Velocity</nciodm:CDISCSynonym>
@@ -107,6 +466,18 @@
                     <nciodm:CDISCDefinition>The summation of the numerous waves being reflected by sites of impedance mismatch where central elastic arteries join more muscular arteries.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Reflection Wave Amplitude</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="SAMIND" nciodm:ExtCodeID="C127593">
+                    <nciodm:CDISCSynonym>SAM Indicator</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Systolic Anterior Motion Indicator</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An indication as to whether there is systolic anterior motion of a cardiac valve and its associated structures.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Systolic Anterior Motion Indicator</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SAMSEV" nciodm:ExtCodeID="C127594">
+                    <nciodm:CDISCSynonym>SAM Severity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Systolic Anterior Motion Severity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The assessment of the severity of the systolic anterior motion of a cardiac valve and its associated structures.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Systolic Anterior Motion Severity</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="STROKVOL" nciodm:ExtCodeID="C94989">
                     <nciodm:CDISCSynonym>Stroke Volume</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The difference in the volumes of blood between the points of maximum dilation and maximum contraction. This is the end diastolic volume minus the end systolic volume.</nciodm:CDISCDefinition>
@@ -117,6 +488,64 @@
                     <nciodm:CDISCSynonym>Total Peripheral Resistance</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The resistance to blood flow through the systemic vasculature.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Systemic Vascular Resistance</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="THCKEVD" nciodm:ExtCodeID="C127595">
+                    <nciodm:CDISCSynonym>Cross-sec Thickness, EVD</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Cross-sectional Thickness, End Ventricular Diastole</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The cross-sectional thickness of a cardiovascular structure measured at end ventricular diastole.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Cross-sectional Thickness at End Ventricular Diastole</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="THCKEVS" nciodm:ExtCodeID="C127596">
+                    <nciodm:CDISCSynonym>Cross-sec Thickness, EVS</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Cross-sectional Thickness, End Ventricular Systole</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The cross-sectional thickness of a cardiovascular structure measured at end ventricular systole.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Cross-sectional Thickness at End Ventricular Systole</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TRGJARA" nciodm:ExtCodeID="C127597">
+                    <nciodm:CDISCSynonym>Tricus Regur Jet Area R Atrial Area Rt</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Tricuspid Regurgitant Jet Area to Right Atrial Area Ratio</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A relative measurement (ratio) of the tricuspid regurgitant jet area to the right atrial area.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Tricuspid Regurgitant Jet Area to Right Atrial Area Ratio</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TVRGF" nciodm:ExtCodeID="C127598">
+                    <nciodm:CDISCSynonym>Tricuspid Valve Regurgitant Fraction</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the volume of retrograde blood flow across the orifice of the tricuspid valve expressed as a percentage of the anterograde flow volume.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Tricuspid Valve Regurgitant Fraction</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TVRGJA" nciodm:ExtCodeID="C127599">
+                    <nciodm:CDISCSynonym>Tricuspid Valve Regurgitant Jet Area</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The measured area of the regurgitant jet of blood into the right atrium.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Tricuspid Valve Regurgitant Jet Area</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TVRGVOL" nciodm:ExtCodeID="C127600">
+                    <nciodm:CDISCSynonym>Tricuspid Valve Regurgitant Volume</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the volume of retrograde blood flow across the orifice of the tricuspid valve.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Tricuspid Valve Regurgitant Volume</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TVVCA" nciodm:ExtCodeID="C127601">
+                    <nciodm:CDISCSynonym>Tricuspid Valve Vena Contracta Area</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The area of the vena contracta of the tricuspid valve.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Tricuspid Valve Vena Contracta Area</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TVVCW" nciodm:ExtCodeID="C127602">
+                    <nciodm:CDISCSynonym>Tricuspid Valve Vena Contracta Width</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The width of the vena contracta of the tricuspid valve.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Tricuspid Valve Vena Contracta Width</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="VELTI" nciodm:ExtCodeID="C127603">
+                    <nciodm:CDISCSynonym>Velocity Time Integral, Blood Flow</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The integral of all of the forward flow velocities during the time of blood flow across or within a specified area.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Blood Flow Velocity Time Integral</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WEIGHT" nciodm:ExtCodeID="C25208">
+                    <nciodm:CDISCSynonym>Weight</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The vertical force exerted by a mass as a result of gravity. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Weight</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WIDTH" nciodm:ExtCodeID="C25345">
+                    <nciodm:CDISCSynonym>Width</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The extent or measurement of something from side to side. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Width</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <nciodm:CDISCSubmissionValue>CVTESTCD</nciodm:CDISCSubmissionValue>
                 <nciodm:CDISCSynonym>Cardiovascular Test Code</nciodm:CDISCSynonym>

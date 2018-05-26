@@ -1,0 +1,17 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C127260.OBSSSM" Name="Observational Study Sampling Method" DataType="text" nciodm:ExtCodeID="C127260" nciodm:CodeListExtensible="Yes">
+                <Description>
+                    <TranslatedText xml:lang="en">The terminology relevant to the method by which the study population is selected in an observational study.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="NON-PROBABILITY SAMPLE" nciodm:ExtCodeID="C127781">
+                    <nciodm:CDISCDefinition>A non-random process used to select a study population in which the participants have been selected based on convenience or with a particular purpose in mind.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Non-Probability Sampling Method</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PROBABILITY SAMPLE" nciodm:ExtCodeID="C71517">
+                    <nciodm:CDISCDefinition>An exclusively random process to guarantee that each participant or population has specified chance of selection, such as simple random sampling, systematic sampling, stratified random sampling, cluster sampling, and consecutive patient sampling. (clinicaltrials.gov)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Equal Probability Sampling Method</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>OBSSSM</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Observational Study Sampling Method</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Observational Study Sampling Method Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

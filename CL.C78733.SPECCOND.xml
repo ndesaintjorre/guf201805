@@ -16,6 +16,11 @@
                     <nciodm:CDISCDefinition>A specimen that has become coagulated. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Clotted Specimen</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="CONCENTRATED" nciodm:ExtCodeID="C128999">
+                    <nciodm:CDISCSynonym>Concentrated Specimen</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A specimen that has undergone concentration to increase the content of a targeted entity.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Concentrated Specimen</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="CONTAMINATED" nciodm:ExtCodeID="C68768">
                     <nciodm:CDISCDefinition>The presence of any substance or organism that makes a preparation impure. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Contamination</nciodm:PreferredTerm>

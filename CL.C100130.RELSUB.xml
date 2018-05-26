@@ -91,6 +91,10 @@
                     <nciodm:CDISCDefinition>Someone from whom tissue is removed for transplantation or other purpose.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Tissue Donor</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="EDUCATOR" nciodm:ExtCodeID="C102873">
+                    <nciodm:CDISCDefinition>One who instructs or educates others.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Teacher</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="FAMILY MEMBER" nciodm:ExtCodeID="C41256">
                     <nciodm:CDISCSynonym>Family Member</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Any of the individuals who are descended from a common progenitor, related by marriage or other legal tie.</nciodm:CDISCDefinition>
@@ -173,6 +177,14 @@
                     <nciodm:CDISCDefinition>Any individual related biologically or legally to another individual and considered immediate family as in the case of a spouse, parent, sibling or child.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>First Degree Relative</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="RELATIVE, HOUSEHOLD" nciodm:ExtCodeID="C127782">
+                    <nciodm:CDISCDefinition>Any individual related biologically or legally to another individual and residing in the same residence.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Household Relative</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="RELATIVE, NON-HOUSEHOLD" nciodm:ExtCodeID="C127783">
+                    <nciodm:CDISCDefinition>Any individual related biologically or legally to another individual and not residing in the same residence.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Non-household Relative</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="RELATIVE, SECOND DEGREE" nciodm:ExtCodeID="C19811">
                     <nciodm:CDISCSynonym>Second Degree Relative</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Any individual related biologically or legally to another individual and considered one degree removed from the immediate family as in the case of in-laws, grandparents, aunts and uncles.</nciodm:CDISCDefinition>
@@ -182,6 +194,10 @@
                     <nciodm:CDISCSynonym>Third Degree Relative</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Any individual related biologically or legally to another individual and considered two degrees removed from the immediate family as in the case of cousins.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Third Degree Relative</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SCHOOLMATE" nciodm:ExtCodeID="C127784">
+                    <nciodm:CDISCDefinition>Any individual with whom the subject attends or attended the same school.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Schoolmate</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="SEXUAL PARTNER" nciodm:ExtCodeID="C100812">
                     <nciodm:CDISCSynonym>Sexual Partner</nciodm:CDISCSynonym>

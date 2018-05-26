@@ -1,0 +1,61 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C128690.ETHNICC" Name="Ethnicity As Collected" DataType="text" nciodm:ExtCodeID="C128690" nciodm:CodeListExtensible="Yes">
+                <Description>
+                    <TranslatedText xml:lang="en">A terminology codelist relevant to the ethnicity of an individual as collected on the case report form.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="ASHKENAZI JEW" nciodm:ExtCodeID="C17950">
+                    <nciodm:CDISCDefinition>A person of Ashkenazi Jewish descent.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Ashkenazi Jew</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CENTRAL AMERICAN" nciodm:ExtCodeID="C67118">
+                    <nciodm:CDISCDefinition>A person of Central American descent.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Central American</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CUBAN" nciodm:ExtCodeID="C107608">
+                    <nciodm:CDISCDefinition>A person of Cuban descent.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Cuban</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CUBAN AMERICAN" nciodm:ExtCodeID="C67115">
+                    <nciodm:CDISCDefinition>A person of Cuban and American descent.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Cuban or Cuban American</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HISPANIC OR LATINO" nciodm:ExtCodeID="C17459">
+                    <nciodm:CDISCDefinition>A person of Mexican, Puerto Rican, Cuban, Central or South American or other Spanish culture or origin, regardless of race. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Hispanic or Latino</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LATIN AMERICAN" nciodm:ExtCodeID="C126531">
+                    <nciodm:CDISCDefinition>A person of Latin American descent.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Latin American</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MEXICAN" nciodm:ExtCodeID="C67113">
+                    <nciodm:CDISCDefinition>A person of Mexican descent.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Mexican</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MEXICAN AMERICAN" nciodm:ExtCodeID="C67114">
+                    <nciodm:CDISCDefinition>A person of Mexican and American descent.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Mexican American</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NOT HISPANIC OR LATINO" nciodm:ExtCodeID="C41222">
+                    <nciodm:CDISCDefinition>A person not of Cuban, Mexican, Puerto Rican, South or Central American, or other Spanish culture or origin, regardless of race. An arbitrary ethnic classification. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Not Hispanic or Latino</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PUERTO RICAN" nciodm:ExtCodeID="C67112">
+                    <nciodm:CDISCDefinition>A person of Puerto Rican descent.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Puerto Rican</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SEPHARDIC JEW" nciodm:ExtCodeID="C103283">
+                    <nciodm:CDISCDefinition>A person of Sephardic Jewish descent.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Sephardic Jew</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SOUTH AMERICAN" nciodm:ExtCodeID="C126532">
+                    <nciodm:CDISCDefinition>A person of South American descent.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>South American</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SPANISH" nciodm:ExtCodeID="C67120">
+                    <nciodm:CDISCDefinition>A person from Spain or of Spanish descent.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Spanish</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>ETHNICC</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Ethnicity As Collected</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Collected Ethnicity Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

@@ -1,0 +1,69 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C127262.SETTING" Name="Environmental Setting" DataType="text" nciodm:ExtCodeID="C127262" nciodm:CodeListExtensible="Yes">
+                <Description>
+                    <TranslatedText xml:lang="en">Terminology relevant to the surroundings or environment.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="CHILD CARE CENTER" nciodm:ExtCodeID="C127785">
+                    <nciodm:CDISCDefinition>An establishment that provides care for infants and children.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Childcare Center</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FARM" nciodm:ExtCodeID="C48953">
+                    <nciodm:CDISCDefinition>A tract of land cultivated for the purpose of agricultural production or devoted to the raising and breeding of domestic animals.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Farm</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FIELD" nciodm:ExtCodeID="C102650">
+                    <nciodm:CDISCDefinition>A setting outside the clinic or a comparable health care facility, e.g. a doctor's office, the subject's home or workplace, a school, a public park, or a restaurant.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>In the Field</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HEALTH FACILITY" nciodm:ExtCodeID="C21541">
+                    <nciodm:CDISCDefinition>The buildings and organizations where healthcare services are provided.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Healthcare Facility</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HOME" nciodm:ExtCodeID="C18002">
+                    <nciodm:CDISCDefinition>A person's place of residence.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Home</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HOSPITAL" nciodm:ExtCodeID="C16696">
+                    <nciodm:CDISCDefinition>An institution that provides medical, surgical, or psychiatric care and treatment for the sick or the injured.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Hospital</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HOUSEHOLD ENVIRONMENT" nciodm:ExtCodeID="C102647">
+                    <nciodm:CDISCDefinition>The area in which an individual lives.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Household Environment</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="INSTITUTION" nciodm:ExtCodeID="C41206">
+                    <nciodm:CDISCDefinition>An established society, corporation, foundation or other organization founded and united for a specific purpose, e.g. for health-related research; also used to refer to a building or buildings occupied or used by such organization.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Institution</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NON-HOUSEHOLD ENVIRONMENT" nciodm:ExtCodeID="C102679">
+                    <nciodm:CDISCDefinition>An area outside of that in which an individual lives.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Non-household Environment</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="OUTPATIENT CLINIC" nciodm:ExtCodeID="C16281">
+                    <nciodm:CDISCDefinition>A medical care center that provides healthcare services on an outpatient basis.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Ambulatory Care Facility</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PRISON" nciodm:ExtCodeID="C85862">
+                    <nciodm:CDISCDefinition>An institution where persons are confined for punishment and to protect the public.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Correctional Institution</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SCHOOL" nciodm:ExtCodeID="C17118">
+                    <nciodm:CDISCDefinition>An educational institution.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>School</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SHELTER" nciodm:ExtCodeID="C85863">
+                    <nciodm:CDISCDefinition>Temporary housing for displaced or at-risk persons.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Shelter</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SOCIAL SETTING" nciodm:ExtCodeID="C102712">
+                    <nciodm:CDISCDefinition>The surroundings or environment in which social activities occur.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Social Setting</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WORKSITE" nciodm:ExtCodeID="C17556">
+                    <nciodm:CDISCDefinition>Place or physical location of work or employment.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Worksite</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>SETTING</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Environmental Setting</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Environmental Setting Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

@@ -22,12 +22,22 @@
                     <nciodm:CDISCDefinition>A textual description as to whether a biospecimen is retained and/or contains DNA.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Biospecimen Retained and/or Contains DNA Indicator</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="Citation Used in Study" nciodm:ExtCodeID="C127788">
+                    <nciodm:CDISCSynonym>Citation Used in Study</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A bibliographical reference related to a particular study.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Clinical Study Citation</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="Clinical Study Sponsor" nciodm:ExtCodeID="C70793">
                     <nciodm:CDISCSynonym>Clinical Study Sponsor</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Sponsor</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Study Sponsor</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>An entity that is responsible for the initiation, management, and/or financing of a clinical study.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Clinical Study Sponsor</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Commercial Sponsor Status" nciodm:ExtCodeID="C127789">
+                    <nciodm:CDISCSynonym>Commercial Sponsor Status</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The state or condition of the sponsor as pertains to whether the sponsor is considered a commercial entity.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Sponsor Commercial Status</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Comparative Treatment Name" nciodm:ExtCodeID="C68612">
                     <nciodm:CDISCSynonym>Comparative Treatment Name</nciodm:CDISCSynonym>
@@ -41,7 +51,7 @@
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Control Type" nciodm:ExtCodeID="C49647">
                     <nciodm:CDISCSynonym>Control Type</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Comparator against which the study treatment is evaluated (e.g., concurrent (placebo, no treatment, dose-response, active), external (historical, published literature).</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>Comparator against which the study treatment is evaluated.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Control Type</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Country of Manufacture" nciodm:ExtCodeID="C124455">
@@ -64,9 +74,14 @@
                     <nciodm:CDISCDefinition>Text that describes the cutoff date.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Data Cutoff Date Description</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="Data Monitoring Committee Indicator" nciodm:ExtCodeID="C127790">
+                    <nciodm:CDISCSynonym>Data Monitoring Committee Indicator</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An indication as to whether the clinical trial has an appointed data monitoring committee.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Data Monitoring Committee Indicator</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="Diagnosis Group" nciodm:ExtCodeID="C49650">
                     <nciodm:CDISCSynonym>Diagnosis Group</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A grouping of individuals on the basis of a shared procedure or disease, or lack thereof (e.g. healthy volunteers, type 2 diabetic subjects, subjects with renal cell cancer). Standardized naming systems are available that define the groups within which a subject should be placed. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A grouping of individuals on the basis of a shared procedure or disease, or lack thereof.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Diagnosis Group</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Diagnostic Criteria" nciodm:ExtCodeID="C117960">
@@ -135,6 +150,11 @@
                     <nciodm:CDISCDefinition>An alphanumeric code assigned by the European Medicines Agency (EMA) to an EMA regulatory decision for a pediatric investigation plan (PIP).</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>EMA Decision Number for Pediatric Investigation Plan</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="Email Address for XML File" nciodm:ExtCodeID="C127791">
+                    <nciodm:CDISCSynonym>Email Address for XML File</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Email address to which copies of the XML format of the EudraCT application should be sent.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>E-mail Address for XML File Feedback</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="EudraCT Resubmission Indicator" nciodm:ExtCodeID="C126060">
                     <nciodm:CDISCSynonym>EudraCT Resubmission Indicator</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>An indication as to whether the trial being submitted to the EudraCT is a trial that has been previously submitted to the EudraCT system.</nciodm:CDISCDefinition>
@@ -149,6 +169,16 @@
                     <nciodm:CDISCSynonym>EudraVigilance Sender Organization</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The name of the group or institution that is transmitting an adverse drug reaction report to the EudraVigilance system.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>EudraVigilance Sender Organization</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Expanded Access Record NCT Number" nciodm:ExtCodeID="C127792">
+                    <nciodm:CDISCSynonym>Expanded Access Record NCT Number</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The unique alphanumeric identifier for the study with associated expanded access record, as assigned by the clinicaltrials.gov protocol registration and results system (PRS).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Clinicaltrials.gov NCT Number for the Expanded Access Record</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Expanded Access Status" nciodm:ExtCodeID="C127793">
+                    <nciodm:CDISCSynonym>Expanded Access Status</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Status indicating availability of an experimental drug or device outside any clinical trial protocol. (clinicaltrials.gov)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Trial Expanded Access Status</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Exploratory Outcome Measure" nciodm:ExtCodeID="C98724">
                     <nciodm:CDISCSynonym>Exploratory Outcome Measure</nciodm:CDISCSynonym>
@@ -185,10 +215,20 @@
                     <nciodm:CDISCDefinition>The investigational product under study.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Protocol Agent</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="Multiple Site EU State Trial Indicator" nciodm:ExtCodeID="C127794">
+                    <nciodm:CDISCSynonym>Multiple Site EU State Trial Indicator</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An indication as to whether the clinical study is being conducted at multiple sites within the European Union member state concerned by the application.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Multiple Site European Union State Trial Indicator</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="Number of Groups/Cohorts" nciodm:ExtCodeID="C126063">
                     <nciodm:CDISCSynonym>Number of Groups/Cohorts</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The number of groups or cohorts that are part of the study.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Number of Groups or Cohorts</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Number of Trial Sites EU State" nciodm:ExtCodeID="C127795">
+                    <nciodm:CDISCSynonym>Number of Trial Sites EU State</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The total number of trial sites within the European Union member state concerned by the application.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Number of Trial Sites within European Union State</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Obs Study Population Description" nciodm:ExtCodeID="C126066">
                     <nciodm:CDISCSynonym>Obs Study Population Description</nciodm:CDISCSynonym>
@@ -263,6 +303,11 @@
                     <nciodm:CDISCDefinition>The planned number of subjects to be entered in a clinical trial. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Planned Subject Number</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="Planned Trial Duration" nciodm:ExtCodeID="C127796">
+                    <nciodm:CDISCSynonym>Planned Trial Duration</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The approximate period of time over which the clinical trial is expected to occur.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Planned Trial Duration</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="Primary Outcome Measure" nciodm:ExtCodeID="C98772">
                     <nciodm:CDISCSynonym>Primary Outcome Measure</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The primary measurement(s) or observation(s) used to measure the effect of experimental variables in a study, or for observational studies, to describe patterns of diseases or traits or associations with exposures, risk factors or treatment. These are the outcome measures used to assess the primary objective(s).</nciodm:CDISCDefinition>
@@ -272,6 +317,11 @@
                     <nciodm:CDISCSynonym>Protocol Keyword</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A word or small set of words designed to convey the focus of the protocol.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Protocol Keyword</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PubMed ID for Citation Used in Study" nciodm:ExtCodeID="C127797">
+                    <nciodm:CDISCSynonym>PubMed ID for Citation Used in Study</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A globally unique identifier for a biomedical article, as assigned by PubMed.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PubMed Identifier for Citation Used in Study</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Randomization Quotient" nciodm:ExtCodeID="C98775">
                     <nciodm:CDISCSynonym>Randomization Quotient</nciodm:CDISCSynonym>
@@ -293,6 +343,11 @@
                     <nciodm:CDISCDefinition>A standard from which a judgment concerning a disease relapse can be established.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Relapse Criteria</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="Request for XML Copy of Study Indicator" nciodm:ExtCodeID="C127798">
+                    <nciodm:CDISCSynonym>Request for XML Copy of Study Indicator</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An indication as to whether the registrant would like to receive an XML copy of their study as saved on EudraCT.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Study Saved as XML Indicator</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="Resubmission Letter" nciodm:ExtCodeID="C126071">
                     <nciodm:CDISCSynonym>Resubmission Letter</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>An alphabetic character that describes the incremental order of trial resubmissions.</nciodm:CDISCDefinition>
@@ -305,13 +360,18 @@
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Route of Administration" nciodm:ExtCodeID="C38114">
                     <nciodm:CDISCSynonym>Route of Administration</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>The course by which a substance was administered in order to reach the site of action in the body.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>The course by which a substance is administered in order to reach the site of action in the body.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Route of Administration</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Secondary Outcome Measure" nciodm:ExtCodeID="C98781">
                     <nciodm:CDISCSynonym>Secondary Outcome Measure</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Other key measures that will be used to evaluate the intervention(s) or, for observational studies, that are a focus of the study. These are the outcome measures used to assess the secondary objective(s).</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Secondary Outcome Measure</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Secure Delivery XML Required Indicator" nciodm:ExtCodeID="C127799">
+                    <nciodm:CDISCSynonym>Secure Delivery XML Required Indicator</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An indication as to whether the XML copy of the EudraCT application requires secure E-mail delivery.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Requires Secure Email Delivery of XML Indicator</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Severity Criteria" nciodm:ExtCodeID="C117962">
                     <nciodm:CDISCSynonym>Severity Criteria</nciodm:CDISCSynonym>
@@ -322,6 +382,11 @@
                     <nciodm:CDISCSynonym>Sex of Participants</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The specific sex, either male, female, or mixed of the subject group being studied. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Sex of Study Group</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Single Site EU State Trial Indicator" nciodm:ExtCodeID="C127800">
+                    <nciodm:CDISCSynonym>Single Site EU State Trial Indicator</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An indication as to whether the clinical study is being conducted at only one site within the European Union member state concerned by the application.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Single Site European Union State Trial Indicator</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Stable Disease Minimum Duration" nciodm:ExtCodeID="C98783">
                     <nciodm:CDISCSynonym>Stable Disease Minimum Duration</nciodm:CDISCSynonym>
@@ -385,7 +450,7 @@
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Trial Blinding Schema" nciodm:ExtCodeID="C49658">
                     <nciodm:CDISCSynonym>Trial Blinding Schema</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>The name of a code list that contains terms to define the type of blinding for the trial. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>The type of experimental design used to describe the level of awareness of the clinical trial subjects and/or investigators of the intervention(s) that they are receiving and/or administering.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Trial Blinding Schema</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Trial Indication" nciodm:ExtCodeID="C112038">
@@ -410,7 +475,7 @@
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Trial Phase Classification" nciodm:ExtCodeID="C48281">
                     <nciodm:CDISCSynonym>Trial Phase Classification</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Clinical trials are broken into three or four phases: Phase I tests a new drug or treatment for safety in a small group; Phase II expands the study to a larger group of people; Phase III expands the study to an even larger group of people to measure whether the treatment actually benefits patients, and whether its benefits exceed its risks; and Phase IV takes place after the drug or treatment has been licensed and marketed. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>Any defined stage in the lifecycle of a clinical trial.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Trial Phase</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Trial Primary Objective" nciodm:ExtCodeID="C85826">
@@ -430,8 +495,18 @@
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Trial Type" nciodm:ExtCodeID="C49660">
                     <nciodm:CDISCSynonym>Trial Type</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>The type of clinical trial performed e.g. efficacy, safety. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>The type of primary outcome or endpoint that the protocol is designed to evaluate. (clinicaltrials.gov)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Trial Type</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="URL Related to Study" nciodm:ExtCodeID="C127801">
+                    <nciodm:CDISCSynonym>URL Related to Study</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The uniform resource locator (URL) related to a particular study.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Study Protocol Uniform Resource Locator</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="URL Related to Study Description" nciodm:ExtCodeID="C127802">
+                    <nciodm:CDISCSynonym>URL Related to Study Description</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A textual description of the uniform resource locator (URL) related to a particular study.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Study Protocol Uniform Resource Locator Description</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <nciodm:CDISCSubmissionValue>TSPARM</nciodm:CDISCSubmissionValue>
                 <nciodm:CDISCSynonym>Trial Summary Parameter Test Name</nciodm:CDISCSynonym>

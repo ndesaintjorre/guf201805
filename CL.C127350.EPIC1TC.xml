@@ -1,0 +1,139 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C127350.EPIC1TC" Name="The Expanded Prostate Cancer Index Composite Short Form Questionnaire Test Code" DataType="text" nciodm:ExtCodeID="C127350" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">The Expanded Prostate Cancer Index Composite Short Form test code.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="EPIC101" nciodm:ExtCodeID="C127373">
+                    <nciodm:CDISCSynonym>EPIC1-How Often Have You Leaked Urine</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Expanded Prostate Cancer Index Composite Short Form - Over the past 4 weeks, how often have you leaked urine?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>EPIC-26 - How Often Have You Leaked Urine</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EPIC102" nciodm:ExtCodeID="C127374">
+                    <nciodm:CDISCSynonym>EPIC1-Best Describes Urinary Control</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Expanded Prostate Cancer Index Composite Short Form - Which of the following best describes your urinary control during the last 4 weeks?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>EPIC-26 - Best Describes Urinary Control</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EPIC103" nciodm:ExtCodeID="C127375">
+                    <nciodm:CDISCSynonym>EPIC1-Pads or Adult Diapers per Day</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Expanded Prostate Cancer Index Composite Short Form - How many pads or adult diapers per day did you usually use to control leakage during the last 4 weeks?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>EPIC-26 - Pads or Adult Diapers per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EPIC104A" nciodm:ExtCodeID="C127376">
+                    <nciodm:CDISCSynonym>EPIC1-Problem Dripping or Leaking Urine</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Expanded Prostate Cancer Index Composite Short Form - How big a problem, if any, has each of the following been for you during the last 4 weeks? Dripping or leaking urine.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>EPIC-26 - Dripping or Leaking Urine</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EPIC104B" nciodm:ExtCodeID="C127377">
+                    <nciodm:CDISCSynonym>EPIC1-Problem Pain/Burning on Urination</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Expanded Prostate Cancer Index Composite Short Form - How big a problem, if any, has each of the following been for you during the last 4 weeks? Pain or burning on urination.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>EPIC-26 - Pain or Burning on Urination</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EPIC104C" nciodm:ExtCodeID="C127378">
+                    <nciodm:CDISCSynonym>EPIC1-Problem Bleeding With Urination</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Expanded Prostate Cancer Index Composite Short Form - How big a problem, if any, has each of the following been for you during the last 4 weeks? Bleeding with urination.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>EPIC-26 - Bleeding With Urination</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EPIC104D" nciodm:ExtCodeID="C127379">
+                    <nciodm:CDISCSynonym>EPIC1-Problem Weak Urine Stream/Emptying</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Expanded Prostate Cancer Index Composite Short Form - How big a problem, if any, has each of the following been for you during the last 4 weeks? Weak urine stream or incomplete emptying.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>EPIC-26 - Weak Urine Stream or Incomplete Emptying</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EPIC104E" nciodm:ExtCodeID="C127380">
+                    <nciodm:CDISCSynonym>EPIC1-Problem Need to Urinate Frequently</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Expanded Prostate Cancer Index Composite Short Form - How big a problem, if any, has each of the following been for you during the last 4 weeks? Need to urinate frequently during the day.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>EPIC-26 - Urinate Frequently During the Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EPIC105" nciodm:ExtCodeID="C127381">
+                    <nciodm:CDISCSynonym>EPIC1-Overall Problem Urinary Function</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Expanded Prostate Cancer Index Composite Short Form - Overall, how big a problem has your urinary function been for you during the last 4 weeks?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>EPIC-26 - Overall Problem Urinary Function</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EPIC106A" nciodm:ExtCodeID="C127382">
+                    <nciodm:CDISCSynonym>EPIC1-Problem Urgency of Bowel Movement</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Expanded Prostate Cancer Index Composite Short Form - How big a problem, if any, has each of the following been for you? Urgency to have a bowel movement.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>EPIC-26 - Urgency to Have a Bowel Movement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EPIC106B" nciodm:ExtCodeID="C127383">
+                    <nciodm:CDISCSynonym>EPIC1-Problem Increased Freq Bowel Move</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Expanded Prostate Cancer Index Composite Short Form - How big a problem, if any, has each of the following been for you? Increased frequency of bowel movements.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>EPIC-26 - Increased Frequency of Bowel Movements</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EPIC106C" nciodm:ExtCodeID="C127384">
+                    <nciodm:CDISCSynonym>EPIC1-Problem Losing Control of Stools</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Expanded Prostate Cancer Index Composite Short Form - How big a problem, if any, has each of the following been for you? Losing control of your stools.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>EPIC-26 - Losing Control of Stools</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EPIC106D" nciodm:ExtCodeID="C127385">
+                    <nciodm:CDISCSynonym>EPIC1-Problem Bloody Stools</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Expanded Prostate Cancer Index Composite Short Form - How big a problem, if any, has each of the following been for you? Bloody stools.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>EPIC-26 - Bloody Stools</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EPIC106E" nciodm:ExtCodeID="C127386">
+                    <nciodm:CDISCSynonym>EPIC1-Problem Abdom/Pelvic/Rectal Pain</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Expanded Prostate Cancer Index Composite Short Form - How big a problem, if any, has each of the following been for you? Abdominal/pelvic/rectal pain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>EPIC-26 - Abdominal or Pelvic or Rectal Pain</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EPIC107" nciodm:ExtCodeID="C127387">
+                    <nciodm:CDISCSynonym>EPIC1-Overall Problem Bowel Habits</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Expanded Prostate Cancer Index Composite Short Form - Overall, how big a problem have your bowel habits been for you during the last 4 weeks?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>EPIC-26 - Overall Problem Bowel Habits</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EPIC108A" nciodm:ExtCodeID="C127388">
+                    <nciodm:CDISCSynonym>EPIC1-Rate Ability to Have an Erection</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Expanded Prostate Cancer Index Composite Short Form - How would you rate each of the following during the last 4 weeks? Your ability to have an erection?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>EPIC-26 - Ability to Have an Erection</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EPIC108B" nciodm:ExtCodeID="C127389">
+                    <nciodm:CDISCSynonym>EPIC1-Rate Ability to Reach Orgasm</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Expanded Prostate Cancer Index Composite Short Form - How would you rate each of the following during the last 4 weeks? Your ability to reach orgasm (climax)?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>EPIC-26 - Ability to Reach Orgasm</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EPIC109" nciodm:ExtCodeID="C127390">
+                    <nciodm:CDISCSynonym>EPIC1-Quality of Your Erections</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Expanded Prostate Cancer Index Composite Short Form - How would you describe the usual quality of your erections during the last 4 weeks?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>EPIC-26 - Quality of Erections</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EPIC110" nciodm:ExtCodeID="C127391">
+                    <nciodm:CDISCSynonym>EPIC1-Frequency of Your Erections</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Expanded Prostate Cancer Index Composite Short Form - How would you describe the frequency of your erections during the last 4 weeks?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>EPIC-26 - Frequency of Erections</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EPIC111" nciodm:ExtCodeID="C127392">
+                    <nciodm:CDISCSynonym>EPIC1-Rate Ability to Function Sexually</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Expanded Prostate Cancer Index Composite Short Form - Overall, how would you rate your ability to function sexually during the last 4 weeks?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>EPIC-26 - Ability to Function Sexually</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EPIC112" nciodm:ExtCodeID="C127393">
+                    <nciodm:CDISCSynonym>EPIC1-Overall Problem Sexual Function</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Expanded Prostate Cancer Index Composite Short Form - Overall, how big a problem has your sexual function or lack of sexual function been for you during the last 4 weeks?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>EPIC-26 - Overall Problem Sexual Function</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EPIC113A" nciodm:ExtCodeID="C127394">
+                    <nciodm:CDISCSynonym>EPIC1-Problem Hot Flashes</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Expanded Prostate Cancer Index Composite Short Form - How big a problem during the last 4 weeks, if any, has each of the following been for you? Hot flashes.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>EPIC-26 - Hot Flashes</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EPIC113B" nciodm:ExtCodeID="C127395">
+                    <nciodm:CDISCSynonym>EPIC1-Problem Breast Tender/Enlargement</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Expanded Prostate Cancer Index Composite Short Form - How big a problem during the last 4 weeks, if any, has each of the following been for you? Breast tenderness/enlargement.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>EPIC-26 - Breast Tender or Enlargement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EPIC113C" nciodm:ExtCodeID="C127396">
+                    <nciodm:CDISCSynonym>EPIC1-Problem Feeling Depressed</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Expanded Prostate Cancer Index Composite Short Form - How big a problem during the last 4 weeks, if any, has each of the following been for you? Feeling depressed.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>EPIC-26 - Feeling Depressed</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EPIC113D" nciodm:ExtCodeID="C127397">
+                    <nciodm:CDISCSynonym>EPIC1-Problem Lack of Energy</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Expanded Prostate Cancer Index Composite Short Form - How big a problem during the last 4 weeks, if any, has each of the following been for you? Lack of energy.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>EPIC-26 - Lack of Energy</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EPIC113E" nciodm:ExtCodeID="C127398">
+                    <nciodm:CDISCSynonym>EPIC1-Problem Change in Body Weight</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Expanded Prostate Cancer Index Composite Short Form - How big a problem during the last 4 weeks, if any, has each of the following been for you? Change in body weight.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>EPIC-26 - Change in Body Weight</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>EPIC1TC</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>The Expanded Prostate Cancer Index Composite Short Form Questionnaire Test Code</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Questionnaire EPIC-26 Test Code Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

@@ -277,6 +277,16 @@
                     <nciodm:CDISCDefinition>Kurtzke Expanded Disability Status Scale (EDSS) (Kurtzke JF. Rating neurologic impairment in multiple sclerosis: an expanded disability status scale (EDSS). Neurology. 1983 Nov;33(11):1444-52).</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Kurtzke Expanded Disability Status Scale Questionnaire</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="EPIC-26" nciodm:ExtCodeID="C127367">
+                    <nciodm:CDISCSynonym>EPIC1</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Expanded Prostate Cancer Index Composite Short Form (EPIC-26) (Copyright 2002. The University of Michigan. All rights reserved).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>The Expanded Prostate Cancer Index Composite Short Form Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EPIC-CP" nciodm:ExtCodeID="C127368">
+                    <nciodm:CDISCSynonym>EPIC2</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Expanded Prostate Cancer Index Composite for Clinical Practice (EPIC-CP) (Copyright 2016 Beth Israel Deaconess Medical Center 330 Brookline Avenue, Boston, MA 02215).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Expanded Prostate Cancer Index Composite for Clinical Practice Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="EQ-5D-3L" nciodm:ExtCodeID="C66957">
                     <nciodm:CDISCSynonym>EQ5D01</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>European Quality of Life Five Dimension Three Level Scale (EQ-5D-3L) (Copyright 1990 EuroQol Group. EQ-5D is a trade mark of the EuroQol Group).</nciodm:CDISCDefinition>
@@ -307,6 +317,26 @@
                     <nciodm:CDISCDefinition>Expanded Disability Rating Scale - Postacute Interview Survivor Version (EXPANDED DRS-PI SURVIVOR VERSION) (Malec JF, Hammond FM, Giacino JT, Whyte J, Wright J. Structured Interview to Improve the Reliability and Psychometric Integrity of the Disability Rating Scale. Arch Phys Med Rehabil Sept 2012;93:1603-1608).</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Expanded Disability Rating Scale - Postacute Interview Survivor Version Questionnaire</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="FACIT-F V4" nciodm:ExtCodeID="C129105">
+                    <nciodm:CDISCSynonym>FAC071</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Chronic Illness Therapy-Fatigue Version 4 (FACIT-F V4) (Copyright 1987, 1997 David Cella, Ph.D. All Rights Reserved; Questionnaires and all related subscales, translations, and adaptations ('FACIT System') are owned and copyrighted by David Cella, Ph.D. The ownership and copyright of the FACIT System resides strictly with Dr. Cella. Dr. Cella has granted FACIT.org the right to license usage of the FACIT System to other parties).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Functional Assessment of Chronic Illness Therapy-Fatigue Version 4 Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FACT-B V4" nciodm:ExtCodeID="C129108">
+                    <nciodm:CDISCSynonym>FAC005</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Cancer Therapy-Breast Version 4 (FACT-B V4) (Copyright 1987, 1997 David Cella, Ph.D. All Rights Reserved; Questionnaires and all related subscales, translations, and adaptations ('FACIT System') are owned and copyrighted by David Cella, Ph.D. The ownership and copyright of the FACIT System resides strictly with Dr. Cella. Dr. Cella has granted FACIT.org the right to license usage of the FACIT System to other parties).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Functional Assessment of Cancer Therapy-Breast Version 4 Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FACT-G V4" nciodm:ExtCodeID="C127369">
+                    <nciodm:CDISCSynonym>FAC001</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Cancer Therapy-General Version 4 (FACT-G V4) (Copyright 1987, 1997 David Cella, Ph.D. All Rights Reserved; Questionnaires and all related subscales, translations, and adaptations ('FACIT System') are owned and copyrighted by David Cella, Ph.D. The ownership and copyright of the FACIT System resides strictly with Dr. Cella. Dr. Cella has granted FACIT.org the right to license usage of the FACIT System to other parties).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Functional Assessment of Cancer Therapy-General Version 4 Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FACT-P V4" nciodm:ExtCodeID="C127371">
+                    <nciodm:CDISCSynonym>FAC023</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Cancer Therapy-Prostate Version 4 (FACT-P V4) (Copyright 1987, 1997 David Cella, Ph.D. All Rights Reserved; Questionnaires and all related subscales, translations, and adaptations ('FACIT System') are owned and copyrighted by David Cella, Ph.D. The ownership and copyright of the FACIT System resides strictly with Dr. Cella. Dr. Cella has granted FACIT.org the right to license usage of the FACIT System to other parties).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Functional Assessment of Cancer Therapy-Prostate Version 4 Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="FAMS" nciodm:ExtCodeID="C112521">
                     <nciodm:CDISCSynonym>FAMS01</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Functional Assessment of Multiple Sclerosis Version 4 (FAMS) (Cella et al. Validation of the Functional Assessment of Multiple Sclerosis quality of life instrument. NEUROLOGY 1996;47: 129-139). (Questionnaires and all related subscales, translations, and adaptations ('FACIT System') are owned and copyrighted by David Cella, Ph.D. The ownership and copyright of the FACIT System resides strictly with Dr. Cella. Dr. Cella has granted FACIT.org the right to license usage of the FACIT System to other parties).</nciodm:CDISCDefinition>
@@ -336,6 +366,11 @@
                     <nciodm:CDISCSynonym>FLUIQ2</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Influenza Intensity and Impact Questionnaire (Flu-iiQ) Twice Daily (Copyright RH Osborne 2006. No part of the Flu-iiQ may be copied or reproduced in any form without written permission from the author: measuredsolutions@bigpond.com).</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Influenza Intensity and Impact Questionnaire Twice Daily Version</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FOSI" nciodm:ExtCodeID="C129109">
+                    <nciodm:CDISCSynonym>FAC049</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Cancer Therapy-Ovarian Symptom Index (FOSI) (Copyright 1987, 1997 David Cella, Ph.D. All Rights Reserved; Questionnaires and all related subscales, translations, and adaptations ('FACIT System') are owned and copyrighted by David Cella, Ph.D. The ownership and copyright of the FACIT System resides strictly with Dr. Cella. Dr. Cella has granted FACIT.org the right to license usage of the FACIT System to other parties).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Functional Assessment of Cancer Therapy-Ovarian Symptom Index Questionnaire</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="FPSR" nciodm:ExtCodeID="C100766">
                     <nciodm:CDISCSynonym>FPSR1</nciodm:CDISCSynonym>
@@ -421,11 +456,6 @@
                     <nciodm:CDISCSynonym>HAEM08</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Hemophilia Quality of Life (HAEMO-QOL) Questionnaire Parent's Long Version Age Group III (The Haemo-QoL questionnaire-set is a joint property of the Haemo-QoL Study Centre at the University of Hamburg, Germany and Bayer Biological Products, Research Triangle Park, North Carolina, USA. Development of new translations, modified versions or any other derivatives - such as electronic versions - are not permitted without special permission and involvement of the Haemo-QoL Study Group).</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Hemophilia Quality of Life Questionnaire Parent's Long Version Age Group III</nciodm:PreferredTerm>
-                </EnumeratedItem>
-                <EnumeratedItem CodedValue="HAMD 17" nciodm:ExtCodeID="C100767">
-                    <nciodm:CDISCSynonym>HAMD1</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>The Hamilton Depression Rating Scale 17-Item (HAMD 17) (Hamilton M. Development of a rating scale for primary depressive illness. Br J Soc Clin Psychol 1967; 6(4):278-96).</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Hamilton Depression Rating Scale 17 Item Questionnaire</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="HAQ-DI" nciodm:ExtCodeID="C106699">
                     <nciodm:CDISCSynonym>HAQ01</nciodm:CDISCSynonym>
@@ -522,6 +552,26 @@
                     <nciodm:CDISCDefinition>12-Item Multiple Sclerosis Walking Scale (MSWS-12) (Copyright 2000 Neurological Outcome Measures Unit).</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>12-Item Multiple Sclerosis Walking Scale Questionnaire</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="NCCN-FACT FBLSI-18 V2" nciodm:ExtCodeID="C129107">
+                    <nciodm:CDISCSynonym>FAC028</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>National Comprehensive Cancer Network/Functional Assessment of Cancer Therapy-Bladder Symptom Index-18 Version 2 (NCCN-FACT FBlSI-18 V2) (Copyright 2001 David Cella, Ph.D. All Rights Reserved;Questionnaires and all related subscales, translations, and adaptations ('FACIT System') are owned and copyrighted by David Cella, Ph.D. The ownership and copyright of the FACIT System resides strictly with Dr. Cella. Dr. Cella has granted FACIT.org the right to license usage of the FACIT System to other parties).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>National Comprehensive Cancer Network/Functional Assessment of Cancer Therapy-Bladder Symptom Index-18 Version 2 Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NCCN-FACT FKSI-19 V2" nciodm:ExtCodeID="C129106">
+                    <nciodm:CDISCSynonym>FAC042</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>National Comprehensive Cancer Network/Functional Assessment of Cancer Therapy-Kidney Symptom Index-19 Version 2 (NCCN-FACT FKSI-19 V2) (Copyright 2001 David Cella, Ph.D. All Rights Reserved;Questionnaires and all related subscales, translations, and adaptations ('FACIT System') are owned and copyrighted by David Cella, Ph.D. The ownership and copyright of the FACIT System resides strictly with Dr. Cella. Dr. Cella has granted FACIT.org the right to license usage of the FACIT System to other parties).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>National Comprehensive Cancer Network/Functional Assessment of Cancer Therapy-Kidney Symptom Index-19 Version 2 Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NCCN-FACT FOSI-18 V2" nciodm:ExtCodeID="C129110">
+                    <nciodm:CDISCSynonym>FAC050</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>National Comprehensive Cancer Network/Functional Assessment of Cancer Therapy-Ovarian Symptom Index-18 Version 2 (NCCN-FACT FOSI-18 V2) (Copyright 1987, 1997 David Cella, Ph.D. All Rights Reserved; Questionnaires and all related subscales, translations, and adaptations ('FACIT System') are owned and copyrighted by David Cella, Ph.D. The ownership and copyright of the FACIT System resides strictly with Dr. Cella. Dr. Cella has granted FACIT.org the right to license usage of the FACIT System to other parties).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>National Comprehensive Cancer Network/Functional Assessment of Cancer Therapy-Ovarian Symptom Index-18 Version 2 Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NCCN-FACT FPSI-17 V2" nciodm:ExtCodeID="C127370">
+                    <nciodm:CDISCSynonym>FAC052</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>National Comprehensive Cancer Network/Functional Assessment of Cancer Therapy-Prostate Symptom Index 17 Version 2 (NCCN-FACT-FPSI 17 V2) (Copyright 2001 David Cella, Ph.D. All Rights Reserved; Questionnaires and all related subscales, translations, and adaptations ('FACIT System') are owned and copyrighted by David Cella, Ph.D. The ownership and copyright of the FACIT System resides strictly with Dr. Cella. Dr. Cella has granted FACIT.org the right to license usage of the FACIT System to other parties).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>National Comprehensive Cancer Network/Functional Assessment of Cancer Therapy-Prostate Symptom Index 17 Version 2 Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="NPI" nciodm:ExtCodeID="C100772">
                     <nciodm:CDISCSynonym>NPI1</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Neuropsychiatric Inventory (NPI) (copyright JL Cummings, 1994, all rights reserved; permission for commercial use required; npiTEST.net).</nciodm:CDISCDefinition>
@@ -586,6 +636,11 @@
                     <nciodm:CDISCSynonym>PR01</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The Pain Relief (PR) questions were created by STANDARDS (Standardized Analgesic Database for Research, Discovery, and Submissions) and sponsored by ACTTION (Analgesic Clinical Trial Translations, Innovations, Opportunities, and Networks) www.acttion.org; 2012-08-07 v1.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>STANDARDS Pain Relief Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PROSQOLI" nciodm:ExtCodeID="C127372">
+                    <nciodm:CDISCSynonym>PROS01</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Prostate Cancer Specific Quality of Life Instrument (PROSQOLI) (Stockler MR, Osoba D, Corey P, Goodwin PJ, Tannock IF. Convergent discriminitive, and predictive validity of the Prostate Cancer Specific Quality of Life Instrument (PROSQOLI) assessment and comparison with analogous scales from the EORTC QLQ-C30 and a trial-specific module. European Organisation for Research and Treatment of Cancer. Core Quality of Life Questionnaire. JClinEpidemiol 1999;52:653-66)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Prostate Cancer Specific Quality of Life Instrument Questionnaire</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="PSQI" nciodm:ExtCodeID="C103849">
                     <nciodm:CDISCSynonym>PSQI1</nciodm:CDISCSynonym>

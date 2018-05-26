@@ -1,0 +1,14 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C128682.GASTROCD" Name="Gastrointestinal Test Code" DataType="text" nciodm:ExtCodeID="C128682" nciodm:CodeListExtensible="Yes">
+                <Description>
+                    <TranslatedText xml:lang="en">A terminology codelist based on the test codes for physiological findings related to the gastrointestinal system.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="ELASTIC" nciodm:ExtCodeID="C119332">
+                    <nciodm:CDISCSynonym>Elasticity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A quantitative measurement of an organ's ability to deform in response to physiological force and return to its normal shape by passive elastic recoil.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Organ Elasticity</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>GASTROCD</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Gastrointestinal Test Code</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Gastrointestinal Test Code Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

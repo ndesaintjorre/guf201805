@@ -2,20 +2,68 @@
                 <Description>
                     <TranslatedText xml:lang="en">Terminology relevant to the test codes that describe the characteristics of biospecimens and extracted samples.</TranslatedText>
                 </Description>
+                <EnumeratedItem CodedValue="AREA" nciodm:ExtCodeID="C25244">
+                    <nciodm:CDISCSynonym>Area</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The extent of a 2-dimensional surface enclosed within a boundary. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Area</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CONC" nciodm:ExtCodeID="C41185">
+                    <nciodm:CDISCSynonym>Concentration</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The quantity of a specified substance in a unit volume or weight of another substance.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Concentration</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FIXNAM" nciodm:ExtCodeID="C128948">
+                    <nciodm:CDISCDefinition>The name of the substance or material that preserves tissues and cells for study.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Name of Fixative</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LENGTH" nciodm:ExtCodeID="C25334">
+                    <nciodm:CDISCSynonym>Length</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The linear extent in space from one end of something to the other end, or the extent of something from beginning to end. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Length</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MASS" nciodm:ExtCodeID="C43246">
+                    <nciodm:CDISCSynonym>Mass</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The amount of matter in an object.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Mass</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="QUALITY" nciodm:ExtCodeID="C25283">
+                    <nciodm:CDISCDefinition>An assessment of excellence, worth, or fitness for use.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Quality</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="RIN" nciodm:ExtCodeID="C63637">
                     <nciodm:CDISCSynonym>RNA Integrity Number</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A numerical assessment of the integrity of RNA based on the entire electrophoretic trace of the RNA sample, including the presence or absence of degradation products. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>RNA Integrity Number</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SIZE" nciodm:ExtCodeID="C25681">
+                    <nciodm:CDISCSynonym>Size</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The physical magnitude of something. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Size</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SPWEIGHT" nciodm:ExtCodeID="C106569">
+                    <nciodm:CDISCSynonym>Specimen Weight</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the weight of a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Specimen Weight Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="TEMP" nciodm:ExtCodeID="C25206">
                     <nciodm:CDISCSynonym>Temperature</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The property of a body or region of space that determines whether or not there will be a net flow of heat into it or out of it from a neighboring body or region and in which direction (if any) the heat will flow, perceptible by living organism as a somatic sensation of cold or heat. It is a measure of the average translational kinetic energy associated with the disordered microscopic motion of atoms and molecules. Temperature is measured in one of the three standard temperature scales: Celsius, Kelvin, and Fahrenheit. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Temperature</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="THICK" nciodm:ExtCodeID="C41145">
+                    <nciodm:CDISCSynonym>Thickness</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The dimension between two surfaces of an object, usually the smallest dimension as opposed to the width or the length.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Thickness</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="VOLUME" nciodm:ExtCodeID="C25335">
                     <nciodm:CDISCSynonym>Volume</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The amount of three dimensional space occupied by an object or the capacity of a space or container. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Volume</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WIDTH" nciodm:ExtCodeID="C25345">
+                    <nciodm:CDISCSynonym>Width</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The extent or measurement of something from side to side. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Width</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <nciodm:CDISCSubmissionValue>BSTESTCD</nciodm:CDISCSubmissionValue>
                 <nciodm:CDISCSynonym>Biospecimen Characteristics Test Code</nciodm:CDISCSynonym>

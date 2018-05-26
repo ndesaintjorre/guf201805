@@ -1,0 +1,59 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C127360.PROS01TC" Name="The Prostate Cancer Specific Quality of Life Instrument Questionnaire Test Code" DataType="text" nciodm:ExtCodeID="C127360" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">The Prostate Cancer Specific Quality of Life Instrument test code.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="PROS0101" nciodm:ExtCodeID="C127504">
+                    <nciodm:CDISCSynonym>PROS01-Pain</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Prostate Cancer Specific Quality of Life Instrument - Pain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PROSQOLI - Pain</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PROS0102" nciodm:ExtCodeID="C127505">
+                    <nciodm:CDISCSynonym>PROS01-Physical Activity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Prostate Cancer Specific Quality of Life Instrument - Physical activity.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PROSQOLI - Physical Activity</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PROS0103" nciodm:ExtCodeID="C127506">
+                    <nciodm:CDISCSynonym>PROS01-Fatigue</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Prostate Cancer Specific Quality of Life Instrument - Fatigue.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PROSQOLI - Fatigue</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PROS0104" nciodm:ExtCodeID="C127507">
+                    <nciodm:CDISCSynonym>PROS01-Appetite</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Prostate Cancer Specific Quality of Life Instrument - Appetite.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PROSQOLI - Appetite</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PROS0105" nciodm:ExtCodeID="C127508">
+                    <nciodm:CDISCSynonym>PROS01-Constipation</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Prostate Cancer Specific Quality of Life Instrument - Constipation.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PROSQOLI - Constipation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PROS0106" nciodm:ExtCodeID="C127509">
+                    <nciodm:CDISCSynonym>PROS01-Urinary Problems</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Prostate Cancer Specific Quality of Life Instrument - Urinary problems.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PROSQOLI - Urinary Problems</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PROS0107" nciodm:ExtCodeID="C127510">
+                    <nciodm:CDISCSynonym>PROS01-Enjoying Time Friends/Family</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Prostate Cancer Specific Quality of Life Instrument - Enjoying time with friends and family.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PROSQOLI - Enjoying Time with Friends and Family</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PROS0108" nciodm:ExtCodeID="C127511">
+                    <nciodm:CDISCSynonym>PROS01-Mood</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Prostate Cancer Specific Quality of Life Instrument - Mood.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PROSQOLI - Mood</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PROS0109" nciodm:ExtCodeID="C127512">
+                    <nciodm:CDISCSynonym>PROS01-Overall Well-Being</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Prostate Cancer Specific Quality of Life Instrument - Overall Well-Being (How do you feel?).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PROSQOLI - Overall Well-Being</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PROS0110" nciodm:ExtCodeID="C127513">
+                    <nciodm:CDISCSynonym>PROS01-Present Pain Intensity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Prostate Cancer Specific Quality of Life Instrument - Present pain intensity: Please circle the appropriate number according to how much pain you felt on average during the past 24 hours.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PROSQOLI - Present Pain Intensity</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>PROS01TC</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>The Prostate Cancer Specific Quality of Life Instrument Questionnaire Test Code</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Questionnaire PROSQOLI Test Code Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

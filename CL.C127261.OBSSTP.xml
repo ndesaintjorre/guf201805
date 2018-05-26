@@ -1,0 +1,21 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C127261.OBSSTP" Name="Observational Study Time Perspective" DataType="text" nciodm:ExtCodeID="C127261" nciodm:CodeListExtensible="Yes">
+                <Description>
+                    <TranslatedText xml:lang="en">The terminology relevant to the temporal relationship between the observation period and time of subject enrollment in an observational study.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="CROSS SECTIONAL" nciodm:ExtCodeID="C53310">
+                    <nciodm:CDISCDefinition>Studies in which observations or measurements made at a single point in time, usually at subject enrollment. (clinicaltrials.gov)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Cross-Sectional Study</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PROSPECTIVE" nciodm:ExtCodeID="C15273">
+                    <nciodm:CDISCDefinition>Studies that look forward using periodic observations collected predominantly following subject enrollment. (clinicaltrials.gov)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Longitudinal Study</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="RETROSPECTIVE" nciodm:ExtCodeID="C53312">
+                    <nciodm:CDISCDefinition>Studies that look back using observations collected predominantly prior to subject selection and enrollment. (clinicaltrials.gov)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Retrospective Study</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>OBSSTP</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Observational Study Time Perspective</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Observational Study Time Perspective Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

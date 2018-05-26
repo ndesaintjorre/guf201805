@@ -1,0 +1,305 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C128689.RACEC" Name="Race As Collected" DataType="text" nciodm:ExtCodeID="C128689" nciodm:CodeListExtensible="Yes">
+                <Description>
+                    <TranslatedText xml:lang="en">A terminology codelist relevant to the race of an individual as collected on the case report form.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="AFRICAN" nciodm:ExtCodeID="C42331">
+                    <nciodm:CDISCDefinition>A person having origins in any of the original peoples of sub-Saharan Africa.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>African</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="AFRICAN AMERICAN" nciodm:ExtCodeID="C128937">
+                    <nciodm:CDISCDefinition>A person having origins in the original peoples of sub-Saharan Africa and the United States.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>African American</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="AFRICAN CARIBBEAN" nciodm:ExtCodeID="C41226">
+                    <nciodm:CDISCDefinition>A person having origins in the original peoples of sub-Saharan Africa and the Caribbean.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>African Caribbean</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ALASKA NATIVE" nciodm:ExtCodeID="C18237">
+                    <nciodm:CDISCDefinition>The native people of Alaska.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Alaska Native</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="AMERICAN INDIAN" nciodm:ExtCodeID="C43877">
+                    <nciodm:CDISCDefinition>The native people of North America.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>American Indian</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="AMERICAN INDIAN OR ALASKA NATIVE" nciodm:ExtCodeID="C41259">
+                    <nciodm:CDISCDefinition>A person having origins in any of the original peoples of North and South America (including Central America), and who maintains tribal affiliation or community attachment. (FDA)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>American Indian or Alaska Native</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ARAB" nciodm:ExtCodeID="C43876">
+                    <nciodm:CDISCDefinition>A person having origins in any of the original peoples of the Arabian peninsula and surrounding territories in the Middle East and northern Africa.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Arab</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ASIAN" nciodm:ExtCodeID="C41260">
+                    <nciodm:CDISCDefinition>A person having origins in any of the original peoples of the Far East, Southeast Asia, or the Indian subcontinent including, for example, Cambodia, China, India, Japan, Korea, Malaysia, Pakistan, the Philippine Islands, Thailand, and Vietnam. (FDA)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Asian</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ASIAN AMERICAN" nciodm:ExtCodeID="C16310">
+                    <nciodm:CDISCDefinition>A person having origins in the original peoples of Asia and the United States.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Asian American</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BAHAMIAN" nciodm:ExtCodeID="C41262">
+                    <nciodm:CDISCDefinition>A person having origins in any of the original peoples of the Bahamas.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Asian Indian</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BANGLADESHI" nciodm:ExtCodeID="C67271">
+                    <nciodm:CDISCDefinition>A person having origins in any of the original peoples of Bangladesh.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Bahamian</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BARBADIAN" nciodm:ExtCodeID="C43671">
+                    <nciodm:CDISCDefinition>A person having origins in any of the original peoples of Barbados.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Bangladeshi</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BHUTANESE" nciodm:ExtCodeID="C43823">
+                    <nciodm:CDISCDefinition>A person having origins in any of the original peoples of Bhutan.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Barbadian</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BLACK CENTRAL AMERICAN" nciodm:ExtCodeID="C128991">
+                    <nciodm:CDISCDefinition>A person having origins in the original peoples of sub-Saharan Africa and Central America.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Black Central American</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BLACK OR AFRICAN AMERICAN" nciodm:ExtCodeID="C16352">
+                    <nciodm:CDISCDefinition>A person having origins in any of the black racial groups of Africa. Terms such as "Haitian" or "Negro" can be used in addition to "Black or African American." (FDA)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Black or African American</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BLACK SOUTH AMERICAN" nciodm:ExtCodeID="C128992">
+                    <nciodm:CDISCDefinition>A person having origins in the original peoples of sub-Saharan Africa and South America.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Black South American</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BOTSWANAN" nciodm:ExtCodeID="C43830">
+                    <nciodm:CDISCDefinition>A person having origins in any of the original peoples of Botswana.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Botswanan</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BURMESE" nciodm:ExtCodeID="C43674">
+                    <nciodm:CDISCDefinition>A person having origins in any of the original peoples of Myanmar (formerly Burma).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Burmese</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CAMBODIAN" nciodm:ExtCodeID="C43399">
+                    <nciodm:CDISCDefinition>A person having origins in any of the original peoples of Cambodia (formerly Kampuchea).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Cambodian</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CARIBBEAN INDIAN" nciodm:ExtCodeID="C77810">
+                    <nciodm:CDISCDefinition>The native people of the Caribbean.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Caribbean Indian</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CENTRAL AMERICAN INDIAN" nciodm:ExtCodeID="C44950">
+                    <nciodm:CDISCDefinition>The native people of Central America.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Central American Indian</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CHINESE" nciodm:ExtCodeID="C43391">
+                    <nciodm:CDISCDefinition>A person having origins in any of the original peoples of China.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Chinese</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DOMINICA ISLANDER" nciodm:ExtCodeID="C43824">
+                    <nciodm:CDISCDefinition>A person having origins in any of the original peoples of Dominica.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Dominica Islander</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DOMINICAN" nciodm:ExtCodeID="C67117">
+                    <nciodm:CDISCDefinition>A person having origins in any of the original peoples of the Dominican Republic.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Dominican</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EASTERN EUROPEAN" nciodm:ExtCodeID="C77819">
+                    <nciodm:CDISCDefinition>A person having origins in any of the original peoples of Eastern Europe.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Eastern European</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ETHIOPIAN" nciodm:ExtCodeID="C43831">
+                    <nciodm:CDISCDefinition>A person having origins in any of the original peoples of Ethiopia.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Ethiopian</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EUROPEAN" nciodm:ExtCodeID="C43851">
+                    <nciodm:CDISCDefinition>A person having origins in any of the original peoples of Europe.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>European</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FILIPINO" nciodm:ExtCodeID="C43393">
+                    <nciodm:CDISCDefinition>A person having origins in any of the original peoples of the Philippines.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Filipino</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="GREENLAND INUIT" nciodm:ExtCodeID="C44265">
+                    <nciodm:CDISCDefinition>The native people of Greenland.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Greenland Eskimo</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAITIAN" nciodm:ExtCodeID="C43825">
+                    <nciodm:CDISCDefinition>A person having origins in any of the original peoples of Haiti.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Haitian</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HMONG" nciodm:ExtCodeID="C43398">
+                    <nciodm:CDISCDefinition>The native people originating in China around the Yellow River or Hoang Ho.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Hmong</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="INDONESIAN" nciodm:ExtCodeID="C43715">
+                    <nciodm:CDISCDefinition>A person having origins in any of the original peoples of Indonesia.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Indonesian</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="INUPIAT INUIT" nciodm:ExtCodeID="C44268">
+                    <nciodm:CDISCDefinition>The native people inhabiting the territory spanning the Norton Sound on the Bering Sea to the Canadian border.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Inupiat Eskimo</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IWO JIMAN" nciodm:ExtCodeID="C43718">
+                    <nciodm:CDISCDefinition>A person having origins in any of the original peoples of Iwo Jima.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Iwo Jiman</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="JAMAICAN" nciodm:ExtCodeID="C43826">
+                    <nciodm:CDISCDefinition>A person having origins in any of the original peoples of Jamaica.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Jamaican</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="JAPANESE" nciodm:ExtCodeID="C43392">
+                    <nciodm:CDISCDefinition>A person having origins in any of the original peoples of Japan.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Japanese</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="KOREAN" nciodm:ExtCodeID="C43395">
+                    <nciodm:CDISCDefinition>A person having origins in any of the original peoples of North and South Korea.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Korean</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LAOTIAN" nciodm:ExtCodeID="C43397">
+                    <nciodm:CDISCDefinition>A person having origins in any of the original peoples of Laos.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Laotian</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LIBERIAN" nciodm:ExtCodeID="C43832">
+                    <nciodm:CDISCDefinition>A person having origins in any of the original peoples of Liberia.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Liberian</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MALAGASY" nciodm:ExtCodeID="C43722">
+                    <nciodm:CDISCDefinition>A person having origins in any of the original peoples of Madagascar.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Malagasy</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MALAYSIAN" nciodm:ExtCodeID="C43716">
+                    <nciodm:CDISCDefinition>A person having origins in any of the original peoples of Malaysia.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Malaysian</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MALDIVIAN" nciodm:ExtCodeID="C43719">
+                    <nciodm:CDISCDefinition>A person having origins in any of the original peoples of the Maldives.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Maldivian</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MEDITERRANEAN" nciodm:ExtCodeID="C77811">
+                    <nciodm:CDISCDefinition>A person having origins in any of the original peoples of the countries surrounding the Mediterranean sea.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Mediterranean</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MELANESIAN" nciodm:ExtCodeID="C43409">
+                    <nciodm:CDISCDefinition>A person having origins in any of the original peoples of Melanesia.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Melanesian</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MICRONESIAN" nciodm:ExtCodeID="C43402">
+                    <nciodm:CDISCDefinition>A person having origins in any of the original peoples of Micronesia.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Micronesian</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MIDDLE EASTERN" nciodm:ExtCodeID="C77820">
+                    <nciodm:CDISCDefinition>A person having origins in any of the original peoples of the Middle East.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Middle Eastern</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MONGOLIAN" nciodm:ExtCodeID="C43864">
+                    <nciodm:CDISCDefinition>A person having origins in any of the original peoples of Mongolia.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Mongolian</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NAMIBIAN" nciodm:ExtCodeID="C43833">
+                    <nciodm:CDISCDefinition>A person having origins in any of the original peoples of Namibia.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Namibian</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NATIVE HAWAIIAN OR OTHER PACIFIC ISLANDER" nciodm:ExtCodeID="C41219">
+                    <nciodm:CDISCDefinition>Denotes a person having origins in any of the original peoples of Hawaii, Guam, Samoa, or other Pacific Islands. The term covers particularly people who identify themselves as part-Hawaiian, Native Hawaiian, Guamanian or Chamorro, Carolinian, Samoan, Chuu. (FDA)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Native Hawaiian or Other Pacific Islander</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NEPALESE" nciodm:ExtCodeID="C43720">
+                    <nciodm:CDISCDefinition>A person having origins in any of the original peoples of Nepal.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Nepalese</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NIGERIAN" nciodm:ExtCodeID="C43834">
+                    <nciodm:CDISCDefinition>A person having origins in any of the original peoples of Nigeria.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Nigerian</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NORTH AFRICAN" nciodm:ExtCodeID="C77813">
+                    <nciodm:CDISCDefinition>A person having origins in any of the original peoples of North Africa.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>North Coast of Africa</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NORTHERN EUROPEAN" nciodm:ExtCodeID="C77814">
+                    <nciodm:CDISCDefinition>A person having origins in any of the original peoples of Northern Europe.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Northern European</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="OKINAWAN" nciodm:ExtCodeID="C43717">
+                    <nciodm:CDISCDefinition>A person having origins in any of the original peoples of Okinawa.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Okinawan</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PAKISTANI" nciodm:ExtCodeID="C43427">
+                    <nciodm:CDISCDefinition>A person having origins in any of the original peoples of Pakistan.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Pakistani</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="POLYNESIAN" nciodm:ExtCodeID="C43405">
+                    <nciodm:CDISCDefinition>A person having origins in any of the original peoples of Polynesia.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Polynesian</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="RUSSIAN" nciodm:ExtCodeID="C43860">
+                    <nciodm:CDISCDefinition>A person having origins in any of the original peoples of Russia.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Russian</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SIBERIAN ESKIMO" nciodm:ExtCodeID="C44269">
+                    <nciodm:CDISCDefinition>The native Yupik people inhabiting the coast of the Chukchi Peninsula in the far northeast of the Russian Federation and on St. Lawrence Island in Alaska.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Siberian Eskimo</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SINGAPOREAN" nciodm:ExtCodeID="C43721">
+                    <nciodm:CDISCDefinition>A person having origins in any of the original peoples of Singapore.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Singaporean</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SOUTH AMERICAN INDIAN" nciodm:ExtCodeID="C44953">
+                    <nciodm:CDISCDefinition>The native people of South America.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>South American Indian</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SRI LANKAN" nciodm:ExtCodeID="C43672">
+                    <nciodm:CDISCDefinition>A person having origins in any of the original peoples of Sri Lanka.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Sri Lankan</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TAIWANESE" nciodm:ExtCodeID="C43675">
+                    <nciodm:CDISCDefinition>A person having origins in any of the original peoples of Taiwan.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Taiwanese</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="THAI" nciodm:ExtCodeID="C43400">
+                    <nciodm:CDISCDefinition>A person having origins in any of the original peoples of Thailand.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Thai</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TOBAGOAN" nciodm:ExtCodeID="C43827">
+                    <nciodm:CDISCDefinition>A person having origins in any of the original peoples of Tobago.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Tobagoan</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TRINIDADIAN" nciodm:ExtCodeID="C43828">
+                    <nciodm:CDISCDefinition>A person having origins in any of the original peoples of Trinidad.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Trinidadian</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="VIETNAMESE" nciodm:ExtCodeID="C43396">
+                    <nciodm:CDISCDefinition>A person having origins in any of the original peoples of Viet Nam.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Vietnamese</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WEST INDIAN" nciodm:ExtCodeID="C43829">
+                    <nciodm:CDISCDefinition>A person having origins in any of the original peoples of the West Indies.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>West Indian</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WESTERN EUROPEAN" nciodm:ExtCodeID="C77817">
+                    <nciodm:CDISCDefinition>A person having origins in any of the original peoples of Western Europe.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Western European</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WHITE" nciodm:ExtCodeID="C41261">
+                    <nciodm:CDISCDefinition>Denotes a person with European, Middle Eastern, or North African ancestral origin who identifies, or is identified, as White. (FDA)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>White</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WHITE CARIBBEAN" nciodm:ExtCodeID="C77816">
+                    <nciodm:CDISCDefinition>A person having origins in the original peoples of Europe, the Middle East, or North Africa, and the Caribbean.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>White Caribbean</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WHITE CENTRAL AMERICAN" nciodm:ExtCodeID="C128993">
+                    <nciodm:CDISCDefinition>A person having origins in the original peoples of Europe, the Middle East, or North Africa, and Central America.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>White Central American</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WHITE SOUTH AMERICAN" nciodm:ExtCodeID="C128994">
+                    <nciodm:CDISCDefinition>A person having origins in the original peoples of Europe, the Middle East, or North Africa, and South America.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>White South American</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="YUPIK ESKIMO" nciodm:ExtCodeID="C44270">
+                    <nciodm:CDISCDefinition>The native people inhabiting western, southwestern, and southcentral Alaska and the Russian Far East.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Yupik Eskimo</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ZAIREAN" nciodm:ExtCodeID="C43835">
+                    <nciodm:CDISCDefinition>A person having origins in any of the original peoples of Zaire.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Zairean</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>RACEC</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Race As Collected</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Collected Race Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

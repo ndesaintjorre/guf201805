@@ -1,0 +1,801 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C128685.PKUDMG" Name="PK Units of Measure - Dose mg" DataType="text" nciodm:ExtCodeID="C128685" nciodm:CodeListExtensible="Yes">
+                <Description>
+                    <TranslatedText xml:lang="en">Units of measure for pharmacokinetic data and parameters normalized by dose amount in milligrams.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="(L/day)/(mg/day)" nciodm:ExtCodeID="C120728">
+                    <nciodm:CDISCSynonym>(L/day)/(mg/day)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>(mL/day)/(ug/day)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Liters per day (flow rate), divided by milligrams per day (daily dose) or milliliters per day (flow rate), divided by micrograms per day (daily dose).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Liter per Day per Milligram per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="(L/day)/(mg/kg)" nciodm:ExtCodeID="C120729">
+                    <nciodm:CDISCSynonym>(L/day)/(mg/kg)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>(mL/day)/(ug/kg)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Liters per day (flow rate), divided by milligrams per kilogram (dose normalized by body weight) or milliliters per day (flow rate), divided by micrograms per kilogram (dose normalized by body weight).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Liter per Day per Milligram per Kilogram</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="(L/day)/(mg/kg/day)" nciodm:ExtCodeID="C120730">
+                    <nciodm:CDISCSynonym>(L/day)/(mg/kg/day)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>(mL/day)/(ug/kg/day)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Liters per day (flow rate), divided by milligrams per kilogram per day (daily dose normalized by body weight) or milliliters per day (flow rate), divided by micrograms per kilogram per day (daily dose normalized by body weight).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Liter per Day per Milligram per Kilogram per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="(L/day)/(mg/m2)" nciodm:ExtCodeID="C120731">
+                    <nciodm:CDISCSynonym>(L/day)/(mg/m2)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>(mL/day)/(ug/m2)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Liters per day (flow rate), divided by milligrams per meter squared (dose normalized by surface area) or milliliters per day (flow rate), divided by micrograms per meter squared (dose normalized by surface area).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Liter per Day per Milligram per Meter Squared</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="(L/day)/(mg/m2/day)" nciodm:ExtCodeID="C120732">
+                    <nciodm:CDISCSynonym>(L/day)/(mg/m2/day)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>(mL/day)/(ug/m2/day)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Liters per day (flow rate), divided by milligrams per meter squared per day (daily dose normalized by surface area) or milliliters per day (flow rate), divided by micrograms per meter squared per day (daily dose normalized by surface area).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Liter per Day per Milligram per Meter Squared per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="(L/day)/mg" nciodm:ExtCodeID="C85672">
+                    <nciodm:CDISCSynonym>(L/day)/mg</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>(mL/day)/ug</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Liters per day (flow rate), divided by milligrams (dose) or milliliters per day (flow rate), divided by micrograms (dose).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Liter per Milligram per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="(L/h)/(mg/day)" nciodm:ExtCodeID="C120740">
+                    <nciodm:CDISCSynonym>(L/h)/(mg/day)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>(mL/h)/(ug/day)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Liters per hour (flow rate), divided by milligrams per day (daily dose) or milliliters per hour (flow rate), divided by micrograms per day (daily dose).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Liter per Hour per Milligram per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="(L/h)/(mg/kg)" nciodm:ExtCodeID="C120741">
+                    <nciodm:CDISCSynonym>(L/h)/(mg/kg)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>(mL/h)/(ug/kg)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Liters per hour (flow rate), divided by milligrams per kilogram (dose normalized by body weight) or milliliters per hour (flow rate), divided by micrograms per kilogram (dose normalized by body weight).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Liter per Hour per Milligram per Kilogram</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="(L/h)/(mg/kg/day)" nciodm:ExtCodeID="C120742">
+                    <nciodm:CDISCSynonym>(L/h)/(mg/kg/day)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>(mL/h)/(ug/kg/day)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Liters per hour (flow rate), divided by milligrams per kilogram per day (daily dose normalized by body weight) or milliliters per hour (flow rate), divided by micrograms per kilogram per day (daily dose normalized by body weight).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Liter per Hour per Milligram per Kilogram per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="(L/h)/(mg/m2)" nciodm:ExtCodeID="C120743">
+                    <nciodm:CDISCSynonym>(L/h)/(mg/m2)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>(mL/h)/(ug/m2)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Liters per hour (flow rate), divided by milligrams per meter squared (dose normalized by surface area) or milliliters per hour (flow rate), divided by micrograms per meter squared (dose normalized by surface area).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Liter per Hour per Milligram per Meter Squared</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="(L/h)/(mg/m2/day)" nciodm:ExtCodeID="C120744">
+                    <nciodm:CDISCSynonym>(L/h)/(mg/m2/day)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>(mL/h)/(ug/m2/day)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Liters per hour (flow rate), divided by milligrams per meter squared per day (daily dose normalized by surface area) or milliliters per hour (flow rate), divided by micrograms per meter squared per day (daily dose normalized by surface area).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Liter per Hour per Milligram per Meter Squared per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="(L/h)/mg" nciodm:ExtCodeID="C85673">
+                    <nciodm:CDISCSynonym>(L/h)/mg</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>(mL/h)/ug</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Liters per hour (flow rate), divided by milligrams (dose) or milliliters per hour (flow rate), divided by micrograms (dose).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Liter per Milligram per Hour</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="(L/min)/(mg/day)" nciodm:ExtCodeID="C120751">
+                    <nciodm:CDISCSynonym>(L/min)/(mg/day)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>(mL/min)/(ug/day)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Liters per minute (flow rate), divided by milligrams per day (daily dose) or milliliters per minute (flow rate), divided by micrograms per day (daily dose).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Liter per Minute per Milligram per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="(L/min)/(mg/kg)" nciodm:ExtCodeID="C120752">
+                    <nciodm:CDISCSynonym>(L/min)/(mg/kg)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>(mL/min)/(ug/kg)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Liters per minute (flow rate), divided by milligrams per kilogram (dose normalized by body weight) or milliliters per minute (flow rate), divided by micrograms per kilogram (dose normalized by body weight).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Liter per Minute per Milligram per Kilogram</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="(L/min)/(mg/kg/day)" nciodm:ExtCodeID="C120753">
+                    <nciodm:CDISCSynonym>(L/min)/(mg/kg/day)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>(mL/min)/(ug/kg/day)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Liters per minute (flow rate), divided by milligrams per kilogram per day (daily dose normalized by body weight) or milliliters per minute (flow rate), divided by micrograms per kilogram per day (daily dose normalized by body weight).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Liter per Minute per Milligram per Kilogram per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="(L/min)/(mg/m2)" nciodm:ExtCodeID="C120754">
+                    <nciodm:CDISCSynonym>(L/min)/(mg/m2)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>(mL/min)/(ug/m2)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Liters per minute (flow rate), divided by milligrams per meter squared (dose normalized by surface area) or milliliters per minute (flow rate), divided by micrograms per meter squared (dose normalized by surface area).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Liter per Minute per Milligram per Meter Squared</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="(L/min)/(mg/m2/day)" nciodm:ExtCodeID="C120755">
+                    <nciodm:CDISCSynonym>(L/min)/(mg/m2/day)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>(mL/min)/(ug/m2/day)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Liters per minute (flow rate), divided by milligrams per meter squared per day (daily dose normalized by surface area) or milliliters per minute (flow rate), divided by micrograms per meter squared per day (daily dose normalized by surface area).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Liter per Minute per Milligram per Meter Squared per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="(L/min)/mg" nciodm:ExtCodeID="C85674">
+                    <nciodm:CDISCSynonym>(L/min)/mg</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>(mL/min)/ug</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Liters per minute (flow rate), divided by milligrams (dose) or milliliters per minute (flow rate), divided by micrograms (dose).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Liter per Milligram per Minute</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="(mL/day)/(mg/day)" nciodm:ExtCodeID="C120762">
+                    <nciodm:CDISCDefinition>Milliliters per day (flow rate), divided by milligrams per day (daily dose).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Milliliter per Day per Milligram per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="(mL/day)/(mg/kg)" nciodm:ExtCodeID="C120763">
+                    <nciodm:CDISCDefinition>Milliliters per day (flow rate), divided by milligrams per kilogram (dose normalized by body weight).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Milliliter per Day per Milligram per Kilogram</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="(mL/day)/(mg/kg/day)" nciodm:ExtCodeID="C120764">
+                    <nciodm:CDISCDefinition>Milliliters per day (flow rate), divided by milligrams per kilogram per day (daily dose normalized by body weight).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Milliliter per Day per Milligram per Kilogram per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="(mL/day)/(mg/m2)" nciodm:ExtCodeID="C120765">
+                    <nciodm:CDISCDefinition>Milliliters per day (flow rate), divided by milligrams per meter squared (dose normalized by surface area).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Milliliter per Day per Milligram per Meter Squared</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="(mL/day)/(mg/m2/day)" nciodm:ExtCodeID="C120766">
+                    <nciodm:CDISCDefinition>Milliliters per day (flow rate), divided by milligrams per meter squared per day (daily dose normalized by surface area).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Milliliter per Day per Milligram per Meter Squared per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="(mL/day)/mg" nciodm:ExtCodeID="C85657">
+                    <nciodm:CDISCSynonym>(L/day)/g</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>(mL/day)/mg</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Liters per day (flow rate), divided by grams (weight) or milliliters per day (flow rate), divided by milligrams (dose).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Liter per Gram per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="(mL/h)/(mg/day)" nciodm:ExtCodeID="C120777">
+                    <nciodm:CDISCDefinition>Milliliters per hour (flow rate), divided by milligrams per day (daily dose).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Milliliter per Hour per Milligram per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="(mL/h)/(mg/kg)" nciodm:ExtCodeID="C120778">
+                    <nciodm:CDISCDefinition>Milliliters per hour (flow rate), divided by milligrams per kilogram (dose normalized by body weight).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Milliliter per Hour per Milligram per Kilogram</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="(mL/h)/(mg/kg/day)" nciodm:ExtCodeID="C120779">
+                    <nciodm:CDISCDefinition>Milliliters per hour (flow rate), divided by milligrams per kilogram per day (daily dose normalized by body weight).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Milliliter per Hour per Milligram per Kilogram per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="(mL/h)/(mg/m2)" nciodm:ExtCodeID="C120780">
+                    <nciodm:CDISCDefinition>Milliliters per hour (flow rate), divided by milligrams per meter squared (dose normalized by surface area).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Milliliter per Hour per Milligram per Meter Squared</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="(mL/h)/(mg/m2/day)" nciodm:ExtCodeID="C120781">
+                    <nciodm:CDISCDefinition>Milliliters per hour (flow rate), divided by milligrams per meter squared per day (daily dose normalized by surface area).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Milliliter per Hour per Milligram per Meter Squared per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="(mL/h)/mg" nciodm:ExtCodeID="C85658">
+                    <nciodm:CDISCSynonym>(L/h)/g</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>(mL/h)/mg</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Liters per hour (flow rate), divided by grams (weight) or milliliters per hour (flow rate), divided by milligrams (dose).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Liter per Gram per Hour</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="(mL/min)/(mg/day)" nciodm:ExtCodeID="C120792">
+                    <nciodm:CDISCDefinition>Milliliters per minute (flow rate), divided by milligrams per day (daily dose).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Milliliter per Minute per Milligram per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="(mL/min)/(mg/kg)" nciodm:ExtCodeID="C120793">
+                    <nciodm:CDISCDefinition>Milliliters per minute (flow rate), divided by milligrams per kilogram (dose normalized by body weight).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Milliliter per Minute per Milligram per Kilogram</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="(mL/min)/(mg/kg/day)" nciodm:ExtCodeID="C120794">
+                    <nciodm:CDISCDefinition>Milliliters per minute (flow rate), divided by milligrams per kilogram per day (daily dose normalized by body weight).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Milliliter per Minute per Milligram per Kilogram per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="(mL/min)/(mg/m2)" nciodm:ExtCodeID="C120795">
+                    <nciodm:CDISCDefinition>Milliliters per minute (flow rate), divided by milligrams per meter squared (dose normalized by surface area).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Milliliter per Minute per Milligram per Meter Squared</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="(mL/min)/(mg/m2/day)" nciodm:ExtCodeID="C120796">
+                    <nciodm:CDISCDefinition>Milliliters per minute (flow rate), divided by milligrams per meter squared per day (daily dose normalized by surface area).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Milliliter per Minute per Milligram per Meter Squared per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="(mL/min)/mg" nciodm:ExtCodeID="C85659">
+                    <nciodm:CDISCSynonym>(L/min)/g</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>(mL/min)/mg</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Liters per minute (flow rate), divided by grams (weight) or milliliters per minute (flow rate), divided by milligrams (dose).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Liter per Gram per Minute</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="fg/mL/(mg/day)" nciodm:ExtCodeID="C119337">
+                    <nciodm:CDISCDefinition>Femtograms per milliliter (concentration), divided by milligrams per day (daily dose).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Femtogram per Milliliter per Milligram per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="fg/mL/(mg/kg)" nciodm:ExtCodeID="C119338">
+                    <nciodm:CDISCDefinition>Femtograms per milliliter (concentration), divided by milligrams per kilogram (dose normalized by body weight).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Femtogram per Milliliter per Milligram per Kilogram</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="fg/mL/(mg/kg/day)" nciodm:ExtCodeID="C119339">
+                    <nciodm:CDISCDefinition>Femtograms per milliliter (concentration), divided by milligrams per kilogram per day (daily dose normalized by body weight).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Femtogram per Milliliter per Milligram per Kilogram per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="fg/mL/(mg/m2)" nciodm:ExtCodeID="C119340">
+                    <nciodm:CDISCDefinition>Femtograms per milliliter (concentration), divided by milligrams per meter squared (dose normalized by surface area).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Femtogram per Milliliter per Milligram per Meter Squared</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="fg/mL/(mg/m2/day)" nciodm:ExtCodeID="C119341">
+                    <nciodm:CDISCDefinition>Femtograms per milliliter (concentration), divided by milligrams per meter squared per day (daily dose normalized by surface area).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Femtogram per Milliliter per Milligram per Meter Squared per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="fg/mL/mg" nciodm:ExtCodeID="C85746">
+                    <nciodm:CDISCSynonym>fg/mL/mg</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>ng/mL/kg</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>pg/mL/g</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Nanograms per milliliter (concentration), divided by kilograms (weight) or picograms per milliliter (concentration), divided by grams (weight) or femtograms per milliliter (concentration), divided by milligrams (dose).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Nanogram per Milliliter per Kilogram</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="g/mL/(mg/day)" nciodm:ExtCodeID="C119353">
+                    <nciodm:CDISCSynonym>g/mL/(mg/day)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>mg/mL/(ug/day)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Grams per milliliter (concentration), divided by milligrams per day (daily dose) or milligrams per milliliter (concentration), divided by micrograms per day (daily dose).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Gram per Milliliter per Milligram per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="g/mL/(mg/kg)" nciodm:ExtCodeID="C105462">
+                    <nciodm:CDISCSynonym>g/mL/(mg/kg)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>mg/mL/(ug/kg)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Grams per milliliter (concentration), divided by milligrams per kilogram (dose normalized by body weight) or milligrams per milliliter (concentration), divided by micrograms per kilogram (dose normalized by body weight).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Gram Per Milliliter Per Milligram Per Kilogram</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="g/mL/(mg/kg/day)" nciodm:ExtCodeID="C105463">
+                    <nciodm:CDISCSynonym>g/mL/(mg/kg/day)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>mg/mL/(ug/kg/day)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Grams per milliliter (concentration), divided by milligrams per kilogram per day (daily dose normalized by body weight) or milligrams per milliliter (concentration), divided by micrograms per kilogram per day (daily dose normalized by body weight).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Gram Per Milliliter Per Milligram Per Kilogram Per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="g/mL/(mg/m2)" nciodm:ExtCodeID="C119354">
+                    <nciodm:CDISCSynonym>g/mL/(mg/m2)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>mg/mL/(ug/m2)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Grams per milliliter (concentration), divided by milligrams per meter squared (dose normalized by surface area) or milligrams per milliliter (concentration), divided by micrograms per meter squared (dose normalized by surface area).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Gram per Milliliter per Milligram per Meter Squared</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="g/mL/(mg/m2/day)" nciodm:ExtCodeID="C119355">
+                    <nciodm:CDISCSynonym>g/mL/(mg/m2/day)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>mg/mL/(ug/m2/day)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Grams per milliliter (concentration), divided by milligrams per meter squared per day (daily dose normalized by surface area) or milligrams per milliliter (concentration), divided by micrograms per meter squared per day (daily dose normalized by surface area).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Gram per Milliliter per Milligram per Meter Squared per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="g/mL/mg" nciodm:ExtCodeID="C119364">
+                    <nciodm:CDISCSynonym>g/mL/mg</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>mg/mL/ug</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Grams per milliliter (concentration), divided by milligrams (dose) or milligrams per milliliter (concentration), divided by micrograms (dose).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Gram per Milliliter per Milligram</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="h*g/mL/(mg/kg)" nciodm:ExtCodeID="C105464">
+                    <nciodm:CDISCDefinition>Hours times grams per milliliter (area under the curve), divided by milligrams per kilogram (dose normalized by body weight).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Hour Times Gram Per Milliliter Per Milligram Per Kilogram</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="h*g/mL/(mg/kg/day)" nciodm:ExtCodeID="C105465">
+                    <nciodm:CDISCDefinition>Hours times grams per milliliter (area under the curve), divided by milligrams per kilogram per day (daily dose normalized by body weight).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Hour Times Gram Per Milliliter Per Milligram Per Kilogram Per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="h*mg/mL/(mg/kg)" nciodm:ExtCodeID="C105468">
+                    <nciodm:CDISCDefinition>Hours times milligrams per milliliter (area under the curve), divided by milligrams per kilogram (dose normalized by body weight).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Hour Times Milligram Per Milliliter Per Milligram Per Kilogram</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="h*mg/mL/(mg/kg/day)" nciodm:ExtCodeID="C105469">
+                    <nciodm:CDISCDefinition>Hours times milligrams per milliliter (area under the curve), divided by milligrams per kilogram per day (daily dose normalized by body weight).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Hour Times Milligram Per Milliliter Per Milligram Per Kilogram Per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="h*ng/mL/(mg/kg)" nciodm:ExtCodeID="C85628">
+                    <nciodm:CDISCDefinition>Hours times nanograms per milliliter (area under the curve), divided by milligrams per kilogram (dose normalized by body weight).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Hour Times Nanogram per Milliliter per Milligram per Kilogram</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="h*ng/mL/(mg/kg/day)" nciodm:ExtCodeID="C105470">
+                    <nciodm:CDISCDefinition>Hours times nanograms per milliliter (area under the curve), divided by milligrams per kilogram per day (daily dose normalized by body weight).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Hour Times Nanogram Per Milliliter Per Milligram Per Kilogram Per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="h*ng/mL/(mg/m2)" nciodm:ExtCodeID="C85629">
+                    <nciodm:CDISCDefinition>Hours times nanograms per milliliter (area under the curve), divided by milligrams per meter squared (dose normalized by surface area).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Hour Times Nanogram per Milliliter per Milligram per Meter Squared</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="h*ng/mL/mg" nciodm:ExtCodeID="C85627">
+                    <nciodm:CDISCSynonym>h*mg/mL/kg</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>h*ng/mL/mg</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>h*ug/mL/g</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hours times milligrams per milliliter (area under the curve), divided by kilograms (weight) or hours times micrograms per milliliter (area under the curve), divided by grams (weight) or hours times nanograms per milliliter (area under the curve), divided by milligrams (dose).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Hour Times Nanogram per Milliliter per Milligram</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="h*pg/mL/(mg/kg)" nciodm:ExtCodeID="C105471">
+                    <nciodm:CDISCDefinition>Hours times picograms per milliliter (area under the curve), divided by milligrams per kilogram (dose normalized by body weight).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Hour Times Picogram Per Milliliter Per Milligram Per Kilogram</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="h*pg/mL/(mg/kg/day)" nciodm:ExtCodeID="C105472">
+                    <nciodm:CDISCDefinition>Hours times picograms per milliliter (area under the curve), divided by milligrams per kilogram per day (daily dose normalized by body weight).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Hour Times Picogram Per Milliliter Per Milligram Per Kilogram Per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="h*pg/mL/mg" nciodm:ExtCodeID="C85625">
+                    <nciodm:CDISCSynonym>h*ng/mL/g</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>h*pg/mL/mg</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>h*ug/mL/kg</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hours times micrograms per milliliter (area under the curve), divided by kilograms (weight) or hours times nanograms per milliliter (area under the curve), divided by grams (weight) or hours times picograms per milliliter (area under the curve), divided by milligrams (dose).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Hour Times Nanogram per Milliliter per Gram</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="h*ug/mL/(mg/kg)" nciodm:ExtCodeID="C105466">
+                    <nciodm:CDISCDefinition>Hours times micrograms per milliliter (area under the curve), divided by milligrams per kilogram (dose normalized by body weight).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Hour Times Microgram Per Milliliter Per Milligram Per Kilogram</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="h*ug/mL/(mg/kg/day)" nciodm:ExtCodeID="C105467">
+                    <nciodm:CDISCDefinition>Hours times micrograms per milliliter (area under the curve), divided by milligrams per kilogram per day (daily dose normalized by body weight).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Hour Times Microgram Per Milliliter Per Milligram Per Kilogram Per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="h*ug/mL/mg" nciodm:ExtCodeID="C85617">
+                    <nciodm:CDISCSynonym>h*g/mL/kg</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>h*mg/mL/g</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>h*ug/mL/mg</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hours times grams per milliliter (area under the curve), divided by kilograms (weight) or hours times milligrams per milliliter (area under the curve), divided by grams (weight) or hours times micrograms per milliliter (area under the curve), divided by milligrams (dose).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Hour Times Microgram per Milliliter per Milligram</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IU/mL/(mg/day)" nciodm:ExtCodeID="C119367">
+                    <nciodm:CDISCSynonym>IU/mL/(mg/day)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>mIU/mL/(ug/day)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International units per milliliter (concentration), divided by milligrams per day (daily dose) or milli-international units per milliliter (concentration), divided by micrograms per day (daily dose).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>International Unit per Milliliter per Milligram per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IU/mL/(mg/kg)" nciodm:ExtCodeID="C119368">
+                    <nciodm:CDISCSynonym>IU/mL/(mg/kg)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>mIU/mL/(ug/kg)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International units per milliliter (concentration), divided by milligrams per kilogram (dose normalized by body weight) or milli-international units per milliliter (concentration), divided by micrograms per kilogram (dose normalized by body weight).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>International Unit per Milliliter per Milligram per Kilogram</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IU/mL/(mg/kg/day)" nciodm:ExtCodeID="C119369">
+                    <nciodm:CDISCSynonym>IU/mL/(mg/kg/day)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>mIU/mL/(ug/kg/day)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International units per milliliter (concentration), divided by milligrams per kilogram per day (daily dose normalized by body weight) or milli-international units per milliliter (concentration), divided by micrograms per kilogram per day (daily dose normalized by body weight).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>International Unit per Milliliter per Milligram per Kilogram per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IU/mL/(mg/m2)" nciodm:ExtCodeID="C119370">
+                    <nciodm:CDISCSynonym>IU/mL/(mg/m2)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>mIU/mL/(ug/m2)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International units per milliliter (concentration), divided by milligrams per meter squared (dose normalized by surface area) or milli-international units per milliliter (concentration), divided by micrograms per meter squared (dose normalized by surface area).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>International Unit per Milliliter per Milligram per Meter Squared</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IU/mL/(mg/m2/day)" nciodm:ExtCodeID="C119371">
+                    <nciodm:CDISCSynonym>IU/mL/(mg/m2/day)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>mIU/mL/(ug/m2/day)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International units per milliliter (concentration), divided by milligrams per meter squared per day (daily dose normalized by surface area) or milli-international units per milliliter (concentration), divided by micrograms per meter squared per day (daily dose normalized by surface area).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>International Unit per Milliliter per Milligram per Meter Squared per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IU/mL/mg" nciodm:ExtCodeID="C119380">
+                    <nciodm:CDISCSynonym>IU/mL/mg</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>mIU/mL/ug</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International units per milliliter (concentration), divided by milligrams (dose) or milli-international units per milliliter (concentration), divided by micrograms (dose).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>International Unit per Milliliter per Milligram</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="L/(mg/kg)" nciodm:ExtCodeID="C120807">
+                    <nciodm:CDISCDefinition>Liters (volume), divided by milligrams per kilogram (dose normalized by body weight).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Liter per Milligram per Kilogram</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="L/(mg/kg/day)" nciodm:ExtCodeID="C120808">
+                    <nciodm:CDISCSynonym>L/(mg/kg/day)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>mL/(ug/kg/day)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Liters (volume), divided by milligrams per kilogram per day (daily dose normalized by body weight) or milliliters (volume), divided by micrograms per kilogram per day (daily dose normalized by body weight).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Liter per Milligram per Kilogram per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="L/(mg/m2/day)" nciodm:ExtCodeID="C120809">
+                    <nciodm:CDISCSynonym>L/(mg/m2/day)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>mL/(ug/m2/day)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Liters (volume), divided by milligrams per meter squared per day (daily dose normalized by surface area) or milliliters (volume), divided by micrograms per meter squared per day (daily dose normalized by surface area).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Liter per Milligram per Meter Squared per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="L/mg" nciodm:ExtCodeID="C124417">
+                    <nciodm:CDISCSynonym>L/mg</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>mL/ug</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Liters (volume), divided by milligrams (dose) or milliliters (volume), divided by micrograms (dose).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Liter per Milligram</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="mg/mL/(mg/day)" nciodm:ExtCodeID="C119383">
+                    <nciodm:CDISCSynonym>mg/mL/(mg/day)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>ug/mL/(ug/day)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Milligrams per milliliter (concentration), divided by milligrams per day (daily dose) or micrograms per milliliter (concentration), divided by micrograms per day (daily dose).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Milligram per Milliliter per Milligram per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="mg/mL/(mg/kg)" nciodm:ExtCodeID="C105475">
+                    <nciodm:CDISCSynonym>mg/mL/(mg/kg)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>ug/mL/(ug/kg)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Milligrams per milliliter (concentration), divided by milligrams per kilogram (dose normalized by body weight) or micrograms per milliliter (concentration), divided by micrograms per kilogram (dose normalized by body weight).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Milligram Per Milliliter Per Milligram Per Kilogram</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="mg/mL/(mg/kg/day)" nciodm:ExtCodeID="C105476">
+                    <nciodm:CDISCSynonym>mg/mL/(mg/kg/day)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>ug/mL/(ug/kg/day)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Milligrams per milliliter (concentration), divided by milligrams per kilogram per day (daily dose normalized by body weight) or micrograms per milliliter (concentration), divided by micrograms per kilogram per day (daily dose normalized by body weight).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Milligram Per Milliliter Per Milligram Per Kilogram Per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="mg/mL/(mg/m2)" nciodm:ExtCodeID="C119384">
+                    <nciodm:CDISCSynonym>mg/mL/(mg/m2)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>ug/mL/(ug/m2)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Milligrams per milliliter (concentration), divided by milligrams per meter squared (dose normalized by surface area) or micrograms per milliliter (concentration), divided by micrograms per meter squared (dose normalized by surface area).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Milligram per Milliliter per Milligram per Meter Squared</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="mg/mL/(mg/m2/day)" nciodm:ExtCodeID="C119385">
+                    <nciodm:CDISCSynonym>mg/mL/(mg/m2/day)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>ug/mL/(ug/m2/day)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Milligrams per milliliter (concentration), divided by milligrams per meter squared per day (daily dose normalized by surface area) or micrograms per milliliter (concentration), divided by micrograms per meter squared per day (daily dose normalized by surface area).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Milligram per Milliliter per Milligram per Meter Squared per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="mg/mL/mg" nciodm:ExtCodeID="C119361">
+                    <nciodm:CDISCSynonym>g/mL/g</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>mg/mL/mg</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>ug/mL/ug</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Grams per milliliter (concentration), divided by grams (weight) or milligrams per milliliter (concentration), divided by milligrams (dose) or micrograms per milliliter (concentration), divided by micrograms (dose).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Gram per Milliliter per Gram</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="mIU/mL/(mg/day)" nciodm:ExtCodeID="C119397">
+                    <nciodm:CDISCSynonym>mIU/mL/(mg/day)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>uIU/mL/(ug/day)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Milli-international units per milliliter (concentration), divided by milligrams per day (daily dose) or micro-international units per milliliter (concentration), divided by micrograms per day (daily dose).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Milli-International Unit per Milliliter per Milligram per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="mIU/mL/(mg/kg)" nciodm:ExtCodeID="C119398">
+                    <nciodm:CDISCSynonym>mIU/mL/(mg/kg)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>uIU/mL/(ug/kg)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Milli-international units per milliliter (concentration), divided by milligrams per kilogram (dose normalized by body weight) or micro-international units per milliliter (concentration), divided by micrograms per kilogram (dose normalized by body weight).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Milli-International Unit per Milliliter per Milligram per Kilogram</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="mIU/mL/(mg/kg/day)" nciodm:ExtCodeID="C119399">
+                    <nciodm:CDISCSynonym>mIU/mL/(mg/kg/day)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>uIU/mL/(ug/kg/day)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Milli-international units per milliliter (concentration), divided by milligrams per kilogram per day (daily dose normalized by body weight) or micro-international units per milliliter (concentration), divided by micrograms per kilogram per day (daily dose normalized by body weight).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Milli-International Unit per Milliliter per Milligram per Kilogram per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="mIU/mL/(mg/m2)" nciodm:ExtCodeID="C119400">
+                    <nciodm:CDISCSynonym>mIU/mL/(mg/m2)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>uIU/mL/(ug/m2)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Milli-international units per milliliter (concentration), divided by milligrams per meter squared (dose normalized by surface area) or micro-international units per milliliter (concentration), divided by micrograms per meter squared (dose normalized by surface area).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Milli-International Unit per Milliliter per Milligram per Meter Squared</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="mIU/mL/(mg/m2/day)" nciodm:ExtCodeID="C119401">
+                    <nciodm:CDISCSynonym>mIU/mL/(mg/m2/day)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>uIU/mL/(ug/m2/day)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Milli-international units per milliliter (concentration), divided by milligrams per meter squared per day (daily dose normalized by surface area) or micro-international units per milliliter (concentration), divided by micrograms per meter squared per day (daily dose normalized by surface area).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Milli-International Unit per Milliliter per Milligram per Meter Squared per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="mIU/mL/mg" nciodm:ExtCodeID="C119377">
+                    <nciodm:CDISCSynonym>IU/mL/g</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>mIU/mL/mg</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>uIU/mL/ug</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International units per milliliter (concentration), divided by grams (weight) or milli-international units per milliliter (concentration), divided by milligrams (dose) or micro-international units per milliliter (concentration), divided by micrograms (dose).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>International Unit per Milliliter per Gram</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="mL/(mg/day)" nciodm:ExtCodeID="C120817">
+                    <nciodm:CDISCDefinition>Milliliters (volume), divided by milligrams per day (daily dose).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Milliliter per Milligram per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="mL/(mg/kg)" nciodm:ExtCodeID="C120818">
+                    <nciodm:CDISCDefinition>Milliliters (volume), divided by milligrams per kilogram (dose normalized by body weight).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Milliliter per Milligram per Kilogram</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="mL/(mg/kg/day)" nciodm:ExtCodeID="C120819">
+                    <nciodm:CDISCDefinition>Milliliters (volume), divided by milligrams per kilogram per day (daily dose normalized by body weight).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Milliliter per Milligram per Kilogram per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="mL/(mg/m2)" nciodm:ExtCodeID="C120820">
+                    <nciodm:CDISCDefinition>Milliliters (volume), divided by milligrams per meter squared (dose normalized by surface area).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Milliliter per Milligram per Meter Squared</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="mL/(mg/m2/day)" nciodm:ExtCodeID="C120821">
+                    <nciodm:CDISCDefinition>Milliliters (volume), divided by milligrams per meter squared per day (daily dose normalized by surface area).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Milliliter per Milligram per Meter Squared per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="mmol/L/(mg/day)" nciodm:ExtCodeID="C119413">
+                    <nciodm:CDISCSynonym>mmol/L/(mg/day)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>umol/L/(ug/day)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Millimoles per liter (concentration), divided by milligrams per day (daily dose) or micromoles per liter (concentration), divided by micrograms per day (daily dose).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Millimole per Liter per Milligram per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="mmol/L/(mg/kg)" nciodm:ExtCodeID="C119414">
+                    <nciodm:CDISCSynonym>mmol/L/(mg/kg)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>umol/L/(ug/kg)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Millimoles per liter (concentration), divided by milligrams per kilogram (dose normalized by body weight) or micromoles per liter (concentration), divided by micrograms per kilogram (dose normalized by body weight).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Millimole per Liter per Milligram per Kilogram</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="mmol/L/(mg/kg/day)" nciodm:ExtCodeID="C119415">
+                    <nciodm:CDISCSynonym>mmol/L/(mg/kg/day)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>umol/L/(ug/kg/day)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Millimoles per liter (concentration), divided by milligrams per kilogram per day (daily dose normalized by body weight) or micromoles per liter (concentration), divided by micrograms per kilogram per day (daily dose normalized by body weight).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Millimole per Liter per Milligram per Kilogram per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="mmol/L/(mg/m2)" nciodm:ExtCodeID="C119416">
+                    <nciodm:CDISCSynonym>mmol/L/(mg/m2)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>umol/L/(ug/m2)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Millimoles per liter (concentration), divided by milligrams per meter squared (dose normalized by surface area) or micromoles per liter (concentration), divided by micrograms per meter squared (dose normalized by surface area).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Millimole per Liter per Milligram per Meter Squared</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="mmol/L/(mg/m2/day)" nciodm:ExtCodeID="C119417">
+                    <nciodm:CDISCSynonym>mmol/L/(mg/m2/day)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>umol/L/(ug/m2/day)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Millimoles per liter (concentration), divided by milligrams per meter squared per day (daily dose normalized by surface area) or micromoles per liter (concentration), divided by micrograms per meter squared per day (daily dose normalized by surface area).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Millimole per Liter per Milligram per Meter Squared per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="mmol/L/mg" nciodm:ExtCodeID="C119426">
+                    <nciodm:CDISCSynonym>mmol/L/mg</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>mol/L/g</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>umol/L/ug</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Moles per liter (concentration), divided by grams (weight) or millimoles per liter (concentration), divided by milligrams (dose) or micromoles per liter (concentration), divided by micrograms (dose).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Millimole per Liter per Milligram</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="mol/L/(mg/day)" nciodm:ExtCodeID="C119418">
+                    <nciodm:CDISCSynonym>mmol/L/(ug/day)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>mol/L/(mg/day)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Moles per liter (concentration), divided by milligrams per day (daily dose) or millimoles per liter (concentration), divided by micrograms per day (daily dose).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Millimole per Liter per Microgram per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="mol/L/(mg/kg)" nciodm:ExtCodeID="C119419">
+                    <nciodm:CDISCSynonym>mmol/L/(ug/kg)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>mol/L/(mg/kg)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Moles per liter (concentration), divided by milligrams per kilogram (dose normalized by body weight) or millimoles per liter (concentration), divided by micrograms per kilogram (dose normalized by body weight).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Millimole per Liter per Microgram per Kilogram</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="mol/L/(mg/kg/day)" nciodm:ExtCodeID="C119420">
+                    <nciodm:CDISCSynonym>mmol/L/(ug/kg/day)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>mol/L/(mg/kg/day)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Moles per liter (concentration), divided by milligrams per kilogram per day (daily dose normalized by body weight) or millimoles per liter (concentration), divided by micrograms per kilogram per day (daily dose normalized by body weight).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Millimole per Liter per Microgram per Kilogram per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="mol/L/(mg/m2)" nciodm:ExtCodeID="C119421">
+                    <nciodm:CDISCSynonym>mmol/L/(ug/m2)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>mol/L/(mg/m2)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Moles per liter (concentration), divided by milligrams per meter squared (dose normalized by surface area) or millimoles per liter (concentration), divided by micrograms per meter squared (dose normalized by surface area).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Millimole per Liter per Microgram per Meter Squared</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="mol/L/(mg/m2/day)" nciodm:ExtCodeID="C119422">
+                    <nciodm:CDISCSynonym>mmol/L/(ug/m2/day)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>mol/L/(mg/m2/day)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Moles per liter (concentration), divided by milligrams per meter squared per day (daily dose normalized by surface area) or millimoles per liter (concentration), divided by micrograms per meter squared per day (daily dose normalized by surface area).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Millimole per Liter per Microgram per Meter Squared per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="mol/L/mg" nciodm:ExtCodeID="C119427">
+                    <nciodm:CDISCSynonym>mmol/L/ug</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>mol/L/mg</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Moles per liter (concentration), divided by milligrams (dose) or millimoles per liter (concentration), divided by micrograms (dose).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Millimole per Liter per Microgram</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ng/mL/(mg/day)" nciodm:ExtCodeID="C119445">
+                    <nciodm:CDISCSynonym>ng/mL/(mg/day)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>pg/mL/(ug/day)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Nanograms per milliliter (concentration), divided by milligrams per day (daily dose) or picograms per milliliter (concentration), divided by micrograms per day (daily dose).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Nanogram per Milliliter per Milligram per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ng/mL/(mg/kg)" nciodm:ExtCodeID="C105477">
+                    <nciodm:CDISCSynonym>ng/mL/(mg/kg)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>pg/mL/(ug/kg)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Nanograms per milliliter (concentration), divided by milligrams per kilogram (dose normalized by body weight) or picograms per milliliter (concentration), divided by micrograms per kilogram (dose normalized by body weight).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Nanogram Per Milliliter Per Milligram Per Kilogram</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ng/mL/(mg/kg/day)" nciodm:ExtCodeID="C105478">
+                    <nciodm:CDISCSynonym>ng/mL/(mg/kg/day)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>pg/mL/(ug/kg/day)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Nanograms per milliliter (concentration), divided by milligrams per kilogram per day (daily dose normalized by body weight) or picograms per milliliter (concentration), divided by micrograms per kilogram per day (daily dose normalized by body weight).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Nanogram Per Milliliter Per Milligram Per Kilogram Per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ng/mL/(mg/m2)" nciodm:ExtCodeID="C119446">
+                    <nciodm:CDISCSynonym>ng/mL/(mg/m2)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>pg/mL/(ug/m2)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Nanograms per milliliter (concentration), divided by milligrams per meter squared (dose normalized by surface area) or picograms per milliliter (concentration), divided by micrograms per meter squared (dose normalized by surface area).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Nanogram per Milliliter per Milligram per Meter Squared</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ng/mL/(mg/m2/day)" nciodm:ExtCodeID="C119447">
+                    <nciodm:CDISCSynonym>ng/mL/(mg/m2/day)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>pg/mL/(ug/m2/day)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Nanograms per milliliter (concentration), divided by milligrams per meter squared per day (daily dose normalized by surface area) or picograms per milliliter (concentration), divided by micrograms per meter squared per day (daily dose normalized by surface area).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Nanogram per Milliliter per Milligram per Meter Squared per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ng/mL/mg" nciodm:ExtCodeID="C85747">
+                    <nciodm:CDISCSynonym>mg/mL/kg</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>ng/mL/mg</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>pg/mL/ug</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>ug/mL/g</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Milligrams per milliliter (concentration), divided by kilograms (weight) or micrograms per milliliter (concentration), divided by grams (weight) or nanograms per milliliter (concentration), divided by milligrams (dose) or picograms per milliliter (concentration), divided by micrograms (dose).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Nanogram per Milliliter per Milligram</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="nmol/L/(mg/day)" nciodm:ExtCodeID="C119457">
+                    <nciodm:CDISCSynonym>nmol/L/(mg/day)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>pmol/L/(ug/day)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Nanomoles per liter (concentration), divided by milligrams per day (daily dose) or picomoles per liter (concentration), divided by micrograms per day (daily dose).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Nanomole per Liter per Milligram per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="nmol/L/(mg/kg)" nciodm:ExtCodeID="C119458">
+                    <nciodm:CDISCSynonym>nmol/L/(mg/kg)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>pmol/L/(ug/kg)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Nanomoles per liter (concentration), divided by milligrams per kilogram (dose normalized by body weight) or picomoles per liter (concentration), divided by micrograms per kilogram (dose normalized by body weight).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Nanomole per Liter per Milligram per Kilogram</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="nmol/L/(mg/kg/day)" nciodm:ExtCodeID="C119459">
+                    <nciodm:CDISCSynonym>nmol/L/(mg/kg/day)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>pmol/L/(ug/kg/day)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Nanomoles per liter (concentration), divided by milligrams per kilogram per day (daily dose normalized by body weight) or picomoles per liter (concentration), divided by micrograms per kilogram per day (daily dose normalized by body weight).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Nanomole per Liter per Milligram per Kilogram per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="nmol/L/(mg/m2)" nciodm:ExtCodeID="C119460">
+                    <nciodm:CDISCSynonym>nmol/L/(mg/m2)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>pmol/L/(ug/m2)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Nanomoles per liter (concentration), divided by milligrams per meter squared (dose normalized by surface area) or picomoles per liter (concentration), divided by micrograms per meter squared (dose normalized by surface area).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Nanomole per Liter per Milligram per Meter Squared</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="nmol/L/(mg/m2/day)" nciodm:ExtCodeID="C119461">
+                    <nciodm:CDISCSynonym>nmol/L/(mg/m2/day)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>pmol/L/(ug/m2/day)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Nanomoles per liter (concentration), divided by milligrams per meter squared per day (daily dose normalized by surface area) or picomoles per liter (concentration), divided by micrograms per meter squared per day (daily dose normalized by surface area).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Nanomole per Liter per Milligram per Meter Squared per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="nmol/L/mg" nciodm:ExtCodeID="C85784">
+                    <nciodm:CDISCSynonym>mmol/L/kg</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>nmol/L/mg</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>pmol/L/ug</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>umol/L/g</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Millimoles per liter (concentration), divided by kilograms (weight) or micromoles per liter (concentration), divided by grams (weight) or nanomoles per liter (concentration), divided by milligrams (dose) or picomoles per liter (concentration), divided by micrograms (dose).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Picomole per Liter per Microgram</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="pg/mg" nciodm:ExtCodeID="C67396">
+                    <nciodm:CDISCSynonym>Microgram per Kilogram</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>mcg/kg</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>ng/g</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>pg/mg</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>ug/kg</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A unit of a mass fraction expressed as a number of micrograms of substance per kilogram of mixture. The unit is also used as a dose calculation unit.(NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Microgram per Kilogram</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="pg/mL/(mg/day)" nciodm:ExtCodeID="C119342">
+                    <nciodm:CDISCSynonym>fg/mL/(ug/day)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>pg/mL/(mg/day)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Picograms per milliliter (concentration), divided by milligrams per day (daily dose) or femtograms per milliliter (concentration), divided by micrograms per day (daily dose).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Femtogram per Milliliter per Microgram per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="pg/mL/(mg/kg)" nciodm:ExtCodeID="C105479">
+                    <nciodm:CDISCSynonym>fg/mL/(ug/kg)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>pg/mL/(mg/kg)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Picograms per milliliter (concentration), divided by milligrams per kilogram (dose normalized by body weight) or femtograms per milliliter (concentration), divided by micrograms per kilogram (dose normalized by body weight).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Picogram Per Milliliter Per Milligram Per Kilogram</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="pg/mL/(mg/kg/day)" nciodm:ExtCodeID="C105480">
+                    <nciodm:CDISCSynonym>fg/mL/(ug/kg/day)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>pg/mL/(mg/kg/day)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Picograms per milliliter (concentration), divided by milligrams per kilogram per day (daily dose normalized by body weight) or femtograms per milliliter (concentration), divided by micrograms per kilogram per day (daily dose normalized by body weight).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Picogram Per Milliliter Per Milligram Per Kilogram Per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="pg/mL/(mg/m2)" nciodm:ExtCodeID="C119345">
+                    <nciodm:CDISCSynonym>fg/mL/(ug/m2)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>pg/mL/(mg/m2)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Picograms per milliliter (concentration), divided by milligrams per meter squared (dose normalized by surface area) or femtograms per milliliter (concentration), divided by micrograms per meter squared (dose normalized by surface area).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Femtogram per Milliliter per Microgram per Meter Squared</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="pg/mL/(mg/m2/day)" nciodm:ExtCodeID="C119346">
+                    <nciodm:CDISCSynonym>fg/mL/(ug/m2/day)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>pg/mL/(mg/m2/day)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Picograms per milliliter (concentration), divided by milligrams per meter squared per day (daily dose normalized by surface area) or femtograms per milliliter (concentration), divided by micrograms per meter squared per day (daily dose normalized by surface area).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Femtogram per Milliliter per Microgram per Meter Squared per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="pg/mL/mg" nciodm:ExtCodeID="C119351">
+                    <nciodm:CDISCSynonym>fg/mL/ug</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>ng/mL/g</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>pg/mL/mg</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>ug/mL/kg</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Micrograms per milliliter (concentration), divided by kilograms (weight) or nanograms per milliliter (concentration), divided by grams (weight) or picograms per milliliter (concentration), divided by milligrams (dose) or femtograms per milliliter (concentration), divided by micrograms (dose).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Femtogram per Milliliter per Microgram</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="pmol/L/(mg/day)" nciodm:ExtCodeID="C119486">
+                    <nciodm:CDISCDefinition>Picomoles per liter (concentration), divided by milligrams per day (daily dose).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Picomole per Liter per Milligram per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="pmol/L/(mg/kg)" nciodm:ExtCodeID="C119487">
+                    <nciodm:CDISCDefinition>Picomoles per liter (concentration), divided by milligrams per kilogram (dose normalized by body weight).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Picomole per Liter per Milligram per Kilogram</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="pmol/L/(mg/kg/day)" nciodm:ExtCodeID="C119488">
+                    <nciodm:CDISCDefinition>Picomoles per liter (concentration), divided by milligrams per kilogram per day (daily dose normalized by body weight).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Picomole per Liter per Milligram per Kilogram per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="pmol/L/(mg/m2)" nciodm:ExtCodeID="C119489">
+                    <nciodm:CDISCDefinition>Picomoles per liter (concentration), divided by milligrams per meter squared (dose normalized by surface area).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Picomole per Liter per Milligram per Meter Squared</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="pmol/L/(mg/m2/day)" nciodm:ExtCodeID="C119490">
+                    <nciodm:CDISCDefinition>Picomoles per liter (concentration), divided by milligrams per meter squared per day (daily dose normalized by surface area).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Picomole per Liter per Milligram per Meter Squared per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="pmol/L/mg" nciodm:ExtCodeID="C119467">
+                    <nciodm:CDISCSynonym>nmol/L/g</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>pmol/L/mg</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>umol/L/kg</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Micromoles per liter (concentration), divided by kilograms (weight) or nanomoles per liter (concentration), divided by grams (weight) or picomoles per liter (concentration), divided by milligrams (dose).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Nanomole per Liter per Gram</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ug/mL/(mg/day)" nciodm:ExtCodeID="C119448">
+                    <nciodm:CDISCSynonym>ng/mL/(ug/day)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>ug/mL/(mg/day)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Micrograms per milliliter (concentration), divided by milligrams per day (daily dose) or nanograms per milliliter (concentration), divided by micrograms per day (daily dose).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Nanogram per Milliliter per Microgram per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ug/mL/(mg/kg)" nciodm:ExtCodeID="C105473">
+                    <nciodm:CDISCSynonym>ng/mL/(ug/kg)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>ug/mL/(mg/kg)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Micrograms per milliliter (concentration), divided by milligrams per kilogram (dose normalized by body weight) or nanograms per milliliter (concentration), divided by micrograms per kilogram (dose normalized by body weight).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Microgram Per Milliliter Per Milligram Per Kilogram</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ug/mL/(mg/kg/day)" nciodm:ExtCodeID="C105474">
+                    <nciodm:CDISCSynonym>ng/mL/(ug/kg/day)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>ug/mL/(mg/kg/day)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Micrograms per milliliter (concentration), divided by milligrams per kilogram per day (daily dose normalized by body weight) or nanograms per milliliter (concentration), divided by micrograms per kilogram per day (daily dose normalized by body weight).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Microgram Per Milliliter Per Milligram Per Kilogram Per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ug/mL/(mg/m2)" nciodm:ExtCodeID="C119451">
+                    <nciodm:CDISCSynonym>ng/mL/(ug/m2)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>ug/mL/(mg/m2)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Micrograms per milliliter (concentration), divided by milligrams per meter squared (dose normalized by surface area) or nanograms per milliliter (concentration), divided by micrograms per meter squared (dose normalized by surface area).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Nanogram per Milliliter per Microgram per Meter Squared</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ug/mL/(mg/m2/day)" nciodm:ExtCodeID="C119452">
+                    <nciodm:CDISCSynonym>ng/mL/(ug/m2/day)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>ug/mL/(mg/m2/day)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Micrograms per milliliter (concentration), divided by milligrams per meter squared per day (daily dose normalized by surface area) or nanograms per milliliter (concentration), divided by micrograms per meter squared per day (daily dose normalized by surface area).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Nanogram per Milliliter per Microgram per Meter Squared per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ug/mL/mg" nciodm:ExtCodeID="C85710">
+                    <nciodm:CDISCSynonym>g/mL/kg</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>mg/mL/g</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>ng/mL/ug</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>ug/mL/mg</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Grams per milliliter (concentration), divided by kilograms (weight) or milligrams per milliliter (concentration), divided by grams (weight) or micrograms per milliliter (concentration), divided by milligrams (dose) or nanograms per milliliter (concentration), divided by micrograms (dose).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Milligram per Liter per Milligram</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="uIU/mL/(mg/day)" nciodm:ExtCodeID="C119514">
+                    <nciodm:CDISCDefinition>Micro-international units per milliliter (concentration), divided by milligrams per day (daily dose).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Micro-International Units per Milliliter per Milligram per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="uIU/mL/(mg/kg)" nciodm:ExtCodeID="C119515">
+                    <nciodm:CDISCDefinition>Micro-international units per milliliter (concentration), divided by milligrams per kilogram (dose normalized by body weight).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Micro-International Units per Milliliter per Milligram per Kilogram</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="uIU/mL/(mg/kg/day)" nciodm:ExtCodeID="C119516">
+                    <nciodm:CDISCDefinition>Micro-international units per milliliter (concentration), divided by milligrams per kilogram per day (daily dose normalized by body weight).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Micro-International Units per Milliliter per Milligram per Kilogram per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="uIU/mL/(mg/m2)" nciodm:ExtCodeID="C119517">
+                    <nciodm:CDISCDefinition>Micro-international units per milliliter (concentration), divided by milligrams per meter squared (dose normalized by surface area).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Micro-International Units per Milliliter per Milligram per Meter Squared</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="uIU/mL/(mg/m2/day)" nciodm:ExtCodeID="C119518">
+                    <nciodm:CDISCDefinition>Micro-international units per milliliter (concentration), divided by milligrams per meter squared per day (daily dose normalized by surface area).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Micro-International Units per Milliliter per Milligram per Meter Squared per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="uIU/mL/mg" nciodm:ExtCodeID="C119378">
+                    <nciodm:CDISCSynonym>IU/mL/kg</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>mIU/mL/g</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>uIU/mL/mg</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International units per milliliter (concentration), divided by kilograms (weight) or milli-international units per milliliter (concentration), divided by grams (weight) or micro-international units per milliliter (concentration), divided by milligrams (dose).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>International Unit per Milliliter per Kilogram</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="umol/L/(mg/day)" nciodm:ExtCodeID="C119462">
+                    <nciodm:CDISCSynonym>nmol/L/(ug/day)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>umol/L/(mg/day)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Micromoles per liter (concentration), divided by milligrams per day (daily dose) or nanomoles per liter (concentration), divided by micrograms per day (daily dose).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Nanomole per Liter per Microgram per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="umol/L/(mg/kg)" nciodm:ExtCodeID="C119463">
+                    <nciodm:CDISCSynonym>nmol/L/(ug/kg)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>umol/L/(mg/kg)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Micromoles per liter (concentration), divided by milligrams per kilogram (dose normalized by body weight) or nanomoles per liter (concentration), divided by micrograms per kilogram (dose normalized by body weight).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Nanomole per Liter per Microgram per Kilogram</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="umol/L/(mg/kg/day)" nciodm:ExtCodeID="C119464">
+                    <nciodm:CDISCSynonym>nmol/L/(ug/kg/day)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>umol/L/(mg/kg/day)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Micromoles per liter (concentration), divided by milligrams per kilogram per day (daily dose normalized by body weight) or nanomoles per liter (concentration), divided by micrograms per kilogram per day (daily dose normalized by body weight).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Nanomole per Liter per Microgram per Kilogram per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="umol/L/(mg/m2)" nciodm:ExtCodeID="C119465">
+                    <nciodm:CDISCSynonym>nmol/L/(ug/m2)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>umol/L/(mg/m2)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Micromoles per liter (concentration), divided by milligrams per meter squared (dose normalized by surface area) or nanomoles per liter (concentration), divided by micrograms per meter squared (dose normalized by surface area).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Nanomole per Liter per Microgram per Meter Squared</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="umol/L/(mg/m2/day)" nciodm:ExtCodeID="C119466">
+                    <nciodm:CDISCSynonym>nmol/L/(ug/m2/day)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>umol/L/(mg/m2/day)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Micromoles per liter (concentration), divided by milligrams per meter squared per day (daily dose normalized by surface area) or nanomoles per liter (concentration), divided by micrograms per meter squared per day (daily dose normalized by surface area).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Nanomole per Liter per Microgram per Meter Squared per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="umol/L/mg" nciodm:ExtCodeID="C119423">
+                    <nciodm:CDISCSynonym>mmol/L/g</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>mol/L/kg</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>nmol/L/ug</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>umol/L/mg</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Moles per liter (concentration), divided by kilograms (weight) or millimoles per liter (concentration), divided by grams (weight) or micromoles per liter (concentration), divided by milligrams (dose) or nanomoles per liter (concentration), divided by micrograms (dose).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Millimole per Liter per Gram</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>PKUDMG</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>PK Units of Measure - Dose mg</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM PK Unit of Measure Milligram Dose Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

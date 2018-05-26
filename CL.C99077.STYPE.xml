@@ -1,6 +1,6 @@
-<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C99077.STYPE" Name="Study Type" DataType="text" nciodm:ExtCodeID="C99077" nciodm:CodeListExtensible="No">
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C99077.STYPE" Name="Study Type Response" DataType="text" nciodm:ExtCodeID="C99077" nciodm:CodeListExtensible="No">
                 <Description>
-                    <TranslatedText xml:lang="en">Describes the role the study plays in determining the interventions a subject receives.</TranslatedText>
+                    <TranslatedText xml:lang="en">A terminology codelist relevant to the role the study plays in determining the interventions a subject receives.</TranslatedText>
                 </Description>
                 <EnumeratedItem CodedValue="EXPANDED ACCESS" nciodm:ExtCodeID="C98722">
                     <nciodm:CDISCDefinition>Studies that provide a means for obtaining an experimental drug or device for patients who are not adequately treated by existing therapy, who do not meet the eligibility criteria for enrollment, or who are otherwise unable to participate in another clinical study. Expanded Access studies include individual-patient IND, treatment IND, compassionate use, emergency use or continued access.</nciodm:CDISCDefinition>
@@ -14,8 +14,12 @@
                     <nciodm:CDISCDefinition>Studies in which biomedical and/or health outcomes are assessed in pre-defined groups of individuals. Subjects in the study may receive diagnostic, therapeutic, or other interventions, but the investigator does not assign specific interventions to the subjects of the study.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Observational Study</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="PATIENT REGISTRY" nciodm:ExtCodeID="C129000">
+                    <nciodm:CDISCDefinition>Observational studies which include an organized system that uses observational methods to collect uniform data (clinical and other) prospectively for a population defined by a particular disorder/disease, condition (including susceptibility to a disorder), or exposure (including products, health care services, and/or procedures) and that serves a predetermined scientific, clinical, or policy purpose. Patient registries may be single purpose or on-going data collection programs that address one or more questions. (AHRQ)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Patient Registry Study</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <nciodm:CDISCSubmissionValue>STYPE</nciodm:CDISCSubmissionValue>
-                <nciodm:CDISCSynonym>Study Type</nciodm:CDISCSynonym>
+                <nciodm:CDISCSynonym>Study Type Response</nciodm:CDISCSynonym>
                 <nciodm:PreferredTerm>CDISC SDTM Study Type Terminology</nciodm:PreferredTerm>
             </CodeList>
             

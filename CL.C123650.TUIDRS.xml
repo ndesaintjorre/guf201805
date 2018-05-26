@@ -1,6 +1,6 @@
-<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C123650.TUIDRS" Name="Tumor and Lesion Identification Test Results" DataType="text" nciodm:ExtCodeID="C123650" nciodm:CodeListExtensible="Yes">
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C123650.TUIDRS" Name="Tumor or Lesion Identification Test Results" DataType="text" nciodm:ExtCodeID="C123650" nciodm:CodeListExtensible="Yes">
                 <Description>
-                    <TranslatedText xml:lang="en">Terminology relevant to tumor and lesion identification test results.</TranslatedText>
+                    <TranslatedText xml:lang="en">Terminology relevant to tumor or lesion identification test results.</TranslatedText>
                 </Description>
                 <EnumeratedItem CodedValue="BENIGN" nciodm:ExtCodeID="C14172">
                     <nciodm:CDISCSynonym>Benign</nciodm:CDISCSynonym>
@@ -60,7 +60,7 @@
                     <nciodm:PreferredTerm>Target Nodule Tumor Identification</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <nciodm:CDISCSubmissionValue>TUIDRS</nciodm:CDISCSubmissionValue>
-                <nciodm:CDISCSynonym>Tumor and Lesion Identification Test Results</nciodm:CDISCSynonym>
+                <nciodm:CDISCSynonym>Tumor or Lesion Identification Test Results</nciodm:CDISCSynonym>
                 <nciodm:PreferredTerm>CDISC SDTM Tumor and Lesion Identification Test Result Terminology</nciodm:PreferredTerm>
             </CodeList>
             

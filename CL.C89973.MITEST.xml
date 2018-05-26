@@ -2,10 +2,15 @@
                 <Description>
                     <TranslatedText xml:lang="en">Terminology for the test names concerned with the findings from a specimen that are visible by microscopic analysis.</TranslatedText>
                 </Description>
-                <EnumeratedItem CodedValue="Batts-Ludwig Fibrosis Score" nciodm:ExtCodeID="C119570">
-                    <nciodm:CDISCSynonym>Batts-Ludwig Fibrosis Score</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>The histopathological evaluation of the liver based on the Batts-Ludwig scoring system.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Batts-Ludwig Fibrosis Score</nciodm:PreferredTerm>
+                <EnumeratedItem CodedValue="Abnormal Cells" nciodm:ExtCodeID="C111124">
+                    <nciodm:CDISCSynonym>Abnormal Cells</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the abnormal cells in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Abnormal Cell Count</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Beta-defensin 2" nciodm:ExtCodeID="C122102">
+                    <nciodm:CDISCSynonym>Beta-defensin 2</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the beta-defensin 2 in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Beta-defensin 2 Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Breast Cancer Type 1 Susceptibility Prot" nciodm:ExtCodeID="C123555">
                     <nciodm:CDISCSynonym>Breast Cancer Type 1 Susceptibility Prot</nciodm:CDISCSynonym>
@@ -17,6 +22,16 @@
                     <nciodm:CDISCDefinition>A relative measurement (ratio or percentage) of the neoplastic cells to total cells in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Cancer Cellularity Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="Cytokeratin 16" nciodm:ExtCodeID="C127763">
+                    <nciodm:CDISCSynonym>Cytokeratin 16</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the cytokeratin 16 in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Cytokeratin 16 Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Dendritic Cell-Lysosomal-Assoc Memb Prot" nciodm:ExtCodeID="C127764">
+                    <nciodm:CDISCSynonym>Dendritic Cell-Lysosomal-Assoc Memb Prot</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the dendritic cell-lysosomal-associated membrane protein in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Dendritic Cell Lysosomal-Associated Membrane Protein Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="Estrogen Receptor" nciodm:ExtCodeID="C112274">
                     <nciodm:CDISCSynonym>ER</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>ESR</nciodm:CDISCSynonym>
@@ -25,6 +40,11 @@
                     <nciodm:CDISCDefinition>A measurement of estrogen receptor protein in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Estrogen Receptor Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="Fibrosis" nciodm:ExtCodeID="C127765">
+                    <nciodm:CDISCSynonym>Fibrosis</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An evaluation of fibrosis in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Fibrosis Assessment</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="Human Epidermal Growth Factor Receptor 2" nciodm:ExtCodeID="C112312">
                     <nciodm:CDISCSynonym>ERBB2</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>HER2/NEU</nciodm:CDISCSynonym>
@@ -32,25 +52,20 @@
                     <nciodm:CDISCDefinition>A measurement of HER2 protein in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Human Epidermal Growth Factor Receptor 2 Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
-                <EnumeratedItem CodedValue="Ishak Fibrosis Score" nciodm:ExtCodeID="C95149">
-                    <nciodm:CDISCSynonym>Ishak Fibrosis Score</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>The histopathological evaluation of the liver based on the Ishak scoring system.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Ishak Score</nciodm:PreferredTerm>
-                </EnumeratedItem>
                 <EnumeratedItem CodedValue="Ki-67" nciodm:ExtCodeID="C123557">
                     <nciodm:CDISCSynonym>Ki-67</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the Ki-67 protein in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Ki67 Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
-                <EnumeratedItem CodedValue="Knodell Fibrosis Score" nciodm:ExtCodeID="C119571">
-                    <nciodm:CDISCSynonym>Knodell Fibrosis Score</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>The histopathological evaluation of the liver based on the Knodell scoring system.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Knodell Fibrosis Score</nciodm:PreferredTerm>
+                <EnumeratedItem CodedValue="Lipocalin-2" nciodm:ExtCodeID="C106539">
+                    <nciodm:CDISCSynonym>Lipocalin-2</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of lipocalin-2 in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Lipocalin-2 Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
-                <EnumeratedItem CodedValue="Metavir Fibrosis Score" nciodm:ExtCodeID="C119572">
-                    <nciodm:CDISCSynonym>Metavir Fibrosis Score</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>The histopathological evaluation of the liver based on the Meta-analysis of Histological Data in Viral Hepatitis (Metavir) scoring system.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>METAVIR Fibrosis Score</nciodm:PreferredTerm>
+                <EnumeratedItem CodedValue="Lymphatic Invasion" nciodm:ExtCodeID="C127766">
+                    <nciodm:CDISCSynonym>Lymphatic Invasion</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An evaluation of lymphatic invasion in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Lymphatic Invasion Assessment</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Microscopic Examination" nciodm:ExtCodeID="C90424">
                     <nciodm:CDISCSynonym>Microscopic Examination</nciodm:CDISCSynonym>
@@ -65,10 +80,20 @@
                     <nciodm:CDISCDefinition>A measurement of NK2 homeobox 1 protein in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>NK2 Homeobox 1 Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="Normal Cells/Total Cells" nciodm:ExtCodeID="C127767">
+                    <nciodm:CDISCSynonym>Normal Cells/Total Cells</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A relative measurement (ratio or percentage) of the normal cells to total cells in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Normal Cell to Total Cell Ratio Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="Percentage of In situ Carcinoma" nciodm:ExtCodeID="C123559">
                     <nciodm:CDISCSynonym>Percentage of In situ Carcinoma</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A relative measurement (percentage) of in situ component present in a carcinoma compared to the entire malignant cellular proliferation. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Percentage of in situ Carcinoma</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Perineural Invasion" nciodm:ExtCodeID="C127768">
+                    <nciodm:CDISCSynonym>Perineural Invasion</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An evaluation of perineural invasion in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Perineural Invasion Assessment</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Progesterone Receptor" nciodm:ExtCodeID="C117846">
                     <nciodm:CDISCSynonym>NR3C3</nciodm:CDISCSynonym>
@@ -77,15 +102,35 @@
                     <nciodm:CDISCDefinition>A measurement of the progesterone receptor protein in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Progesterone Receptor Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
-                <EnumeratedItem CodedValue="Scheuer Fibrosis Score" nciodm:ExtCodeID="C119573">
-                    <nciodm:CDISCSynonym>Scheuer Fibrosis Score</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>The histopathological evaluation of the liver based on the Scheuer scoring system.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Scheuer Fibrosis Score</nciodm:PreferredTerm>
+                <EnumeratedItem CodedValue="S100 Calcium Binding Protein A7" nciodm:ExtCodeID="C127769">
+                    <nciodm:CDISCSynonym>S100 Calcium Binding Protein A7</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the S100 calcium binding protein A7 in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>S100 Calcium Binding Protein A7 Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Stromal Cells/Total Cells" nciodm:ExtCodeID="C127770">
+                    <nciodm:CDISCSynonym>Stromal Cells/Total Cells</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A relative measurement (ratio or percentage) of the stromal cells to total cells in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Stromal Cell to Total Cell Ratio Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Surgical Margins Status" nciodm:ExtCodeID="C123560">
                     <nciodm:CDISCSynonym>Surgical Margins Status</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The determination of the presence of actual or potential neoplastic tissue which has been left outside the boundary of a resected specimen within the patient. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Surgical Margins Status</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Thickness" nciodm:ExtCodeID="C41145">
+                    <nciodm:CDISCSynonym>Thickness</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The dimension between two surfaces of an object, usually the smallest dimension as opposed to the width or the length.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Thickness</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Tumor Cells/Total Cells" nciodm:ExtCodeID="C127771">
+                    <nciodm:CDISCSynonym>Tumor Cells/Total Cells</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A relative measurement (ratio or percentage) of the tumor cells to total cells in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Tumor Cell to Total Cell Ratio Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Vascular Invasion" nciodm:ExtCodeID="C127772">
+                    <nciodm:CDISCSynonym>Vascular Invasion</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An evaluation of vascular invasion in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Vascular Invasion Assessment</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <nciodm:CDISCSubmissionValue>MITEST</nciodm:CDISCSubmissionValue>
                 <nciodm:CDISCSynonym>Microscopic Findings Test Name</nciodm:CDISCSynonym>

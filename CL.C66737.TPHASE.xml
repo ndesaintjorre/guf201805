@@ -1,6 +1,6 @@
-<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C66737.TPHASE" Name="Trial Phase" DataType="text" nciodm:ExtCodeID="C66737" nciodm:CodeListExtensible="Yes">
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C66737.TPHASE" Name="Trial Phase Response" DataType="text" nciodm:ExtCodeID="C66737" nciodm:CodeListExtensible="Yes">
                 <Description>
-                    <TranslatedText xml:lang="en">Clinical trials are broken into three or four phases: Phase I tests a new drug or treatment for safety in a small group; Phase II expands the study to a larger group of people; Phase III expands the study to an even larger group of people to measure whether the treatment actually benefits patients, and whether its benefits exceed its risks; and Phase IV takes place after the drug or treatment has been licensed and marketed. (NCI)</TranslatedText>
+                    <TranslatedText xml:lang="en">A terminology codelist relevant to the phase, or stage, of the clinical trial.</TranslatedText>
                 </Description>
                 <EnumeratedItem CodedValue="NOT APPLICABLE" nciodm:ExtCodeID="C48660">
                     <nciodm:CDISCSynonym>NA</nciodm:CDISCSynonym>
@@ -75,7 +75,7 @@
                     <nciodm:PreferredTerm>Phase V Trial</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <nciodm:CDISCSubmissionValue>TPHASE</nciodm:CDISCSubmissionValue>
-                <nciodm:CDISCSynonym>Trial Phase</nciodm:CDISCSynonym>
+                <nciodm:CDISCSynonym>Trial Phase Response</nciodm:CDISCSynonym>
                 <nciodm:PreferredTerm>CDISC SDTM Trial Phase Terminology</nciodm:PreferredTerm>
             </CodeList>
             

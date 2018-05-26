@@ -1,0 +1,21 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C127258.OBSSBSR" Name="Observational Study Biospecimen Retention" DataType="text" nciodm:ExtCodeID="C127258" nciodm:CodeListExtensible="Yes">
+                <Description>
+                    <TranslatedText xml:lang="en">The terminology relevant to whether biospecimens were retained and contain DNA within an observational study.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="SAMPLES NOT RETAINED" nciodm:ExtCodeID="C127776">
+                    <nciodm:CDISCDefinition>An indication that no biospecimen samples were retained.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Biospecimens Not Retained</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SAMPLES WITH DNA RETAINED" nciodm:ExtCodeID="C127777">
+                    <nciodm:CDISCDefinition>An indication that the retained biospecimens contain DNA.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Retained Specimens Contain DNA</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SAMPLES WITHOUT DNA RETAINED" nciodm:ExtCodeID="C127778">
+                    <nciodm:CDISCDefinition>An indication that the retained biospecimens do not contain DNA.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Retained Specimens Do Not Contain DNA</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>OBSSBSR</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Observational Study Biospecimen Retention</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Observational Study Biospecimen Retention Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

@@ -14,9 +14,29 @@
                     <nciodm:CDISCDefinition>The histopathological evaluation of staining in tissue based on the Allred scoring system (Allred DC, Harvey JM, Berardo M, Clark GM. Prognostic and predictive factors in breast cancer by immunohistochemical analysis. Mod Pathol. 1998 Feb;11(2):155-68).</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Allred Total Score</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="BATTS-LUDWIG FIBROSIS SCORE" nciodm:ExtCodeID="C119570">
+                    <nciodm:CDISCSynonym>Batts-Ludwig Fibrosis Score</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The histopathological evaluation of the liver based on the Batts-Ludwig scoring system.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Batts-Ludwig Fibrosis Score</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="H SCORE TOTAL SCORE" nciodm:ExtCodeID="C125988">
                     <nciodm:CDISCDefinition>The histopathological evaluation of staining in tissue based on the H Score scoring system (McCarty KS Jr, Miller LS, Cox EB, et al. Estrogen receptor analyses: correlation of biochemical and immunohistochemical methods using monoclonal antireceptor antibodies. Arch Pathol Lab Med. 1985;109(8):716-721).</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>H Score Total Score</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ISHAK FIBROSIS SCORE" nciodm:ExtCodeID="C95149">
+                    <nciodm:CDISCSynonym>Ishak Fibrosis Score</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The histopathological evaluation of the liver based on the Ishak scoring system.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Ishak Score</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="KNODELL FIBROSIS SCORE" nciodm:ExtCodeID="C119571">
+                    <nciodm:CDISCSynonym>Knodell Fibrosis Score</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The histopathological evaluation of the liver based on the Knodell scoring system.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Knodell Fibrosis Score</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="METAVIR FIBROSIS SCORE" nciodm:ExtCodeID="C119572">
+                    <nciodm:CDISCSynonym>Metavir Fibrosis Score</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The histopathological evaluation of the liver based on the Meta-analysis of Histological Data in Viral Hepatitis (Metavir) scoring system.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>METAVIR Fibrosis Score</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="PERCENT POSITIVE CELL" nciodm:ExtCodeID="C70460">
                     <nciodm:CDISCDefinition>A measurement of the proportion of cells that are positive for a given protein.</nciodm:CDISCDefinition>
@@ -25,6 +45,15 @@
                 <EnumeratedItem CodedValue="RECEPTOR OVERALL STATUS" nciodm:ExtCodeID="C125989">
                     <nciodm:CDISCDefinition>An assessment of the status of a biological specimen with regards to a given receptor.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Receptor Overall Status</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SCHEUER FIBROSIS SCORE" nciodm:ExtCodeID="C119573">
+                    <nciodm:CDISCSynonym>Scheuer Fibrosis Score</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The histopathological evaluation of the liver based on the Scheuer scoring system.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Scheuer Fibrosis Score</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="STAINING INTENSITY" nciodm:ExtCodeID="C127762">
+                    <nciodm:CDISCDefinition>The degree or magnitude of staining within a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Staining Intensity</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <nciodm:CDISCSubmissionValue>MIFTSDTL</nciodm:CDISCSubmissionValue>
                 <nciodm:CDISCSynonym>Microscopic Findings Test Details</nciodm:CDISCSynonym>

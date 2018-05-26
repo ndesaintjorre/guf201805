@@ -7,20 +7,85 @@
                     <nciodm:CDISCDefinition>A measurement of the location, in degrees, of the flatter principal meridian on a 180-degree scale, where 90 degrees designates the vertical meridian and 180 degrees designates the horizontal meridian.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Astigmatism Axis</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="Cell Density" nciodm:ExtCodeID="C120538">
+                    <nciodm:CDISCSynonym>Cell Density</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the number of cells contained in a unit of volume.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Cell Density</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Cell Density, Maximum" nciodm:ExtCodeID="C120710">
+                    <nciodm:CDISCSynonym>Cell Density, Maximum</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The maximum number in a group of values that represent the cell density.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Maximum Cell Density</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Cell Density, Mean" nciodm:ExtCodeID="C120712">
+                    <nciodm:CDISCSynonym>Cell Density, Mean</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The mean number in a group of values that represent the cell density.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Mean Cell Density</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Cell Density, Minimum" nciodm:ExtCodeID="C120711">
+                    <nciodm:CDISCSynonym>Cell Density, Minimum</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The minimum number in a group of values that represent the cell density.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Minimum Cell Density</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Cell Density, Standard Deviation" nciodm:ExtCodeID="C120713">
+                    <nciodm:CDISCSynonym>Cell Density, Standard Deviation</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The standard deviation in a group of values that represent the cell density.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Standard Deviation of Cell Density</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Color" nciodm:ExtCodeID="C37927">
+                    <nciodm:CDISCSynonym>Color</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The appearance of objects (or light sources) described in terms of a person's perception of their hue and lightness (or brightness) and saturation. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Color</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Cup to Disc Ratio" nciodm:ExtCodeID="C120714">
+                    <nciodm:CDISCSynonym>Cup to Disc Ratio</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The ratio of the diameter of the optic cup compared to the diameter of the optic disc. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Optic Cup to Disc Ratio</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="Cylindrical Refraction Error" nciodm:ExtCodeID="C117892">
                     <nciodm:CDISCSynonym>Cylindrical Refraction Error</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the extent of defect in vision caused by a mismatch of optical power between the cylindrical and horizontal meridians, resulting in sub-optimal reflection of light onto the retina. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Cylindrical Refractive Error</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Diameter" nciodm:ExtCodeID="C25285">
+                    <nciodm:CDISCSynonym>Diameter</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The length of a straight line passing through the center of a circle or sphere and connecting two points on the circumference. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Diameter</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Diameter, Mean" nciodm:ExtCodeID="C120716">
+                    <nciodm:CDISCSynonym>Diameter, Mean</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The mean number in a group of values that represent the diameter of an object.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Mean Diameter</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Diameter, Minimum" nciodm:ExtCodeID="C120715">
+                    <nciodm:CDISCSynonym>Diameter, Minimum</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The minimum number in a group of values that represent the diameter of an object.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Minimum Diameter</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Diameter, Standard Deviation" nciodm:ExtCodeID="C120717">
+                    <nciodm:CDISCSynonym>Diameter, Standard Deviation</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The standard deviation in a group of values that represent the diameter of an object.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Standard Deviation of Diameter</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Intraocular Pressure" nciodm:ExtCodeID="C87143">
                     <nciodm:CDISCSynonym>Intraocular Pressure</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The fluid pressure within the eye.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Intraocular Pressure</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="Lens Status" nciodm:ExtCodeID="C120718">
+                    <nciodm:CDISCSynonym>Lens Status</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The condition or state of the lens of the eye. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Lens Status</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="Log Score" nciodm:ExtCodeID="C117890">
                     <nciodm:CDISCSynonym>Log Score</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A number or range of numeric values on the log scale that measures performance, function, quality, or ability.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Log Score</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Longest Diameter" nciodm:ExtCodeID="C96684">
+                    <nciodm:CDISCSynonym>Longest Diameter</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The longest possible length of a straight line passing through the center of a circular or spheroid object that connects two points on the circumference.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Longest Diameter</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Number of Letters Correct" nciodm:ExtCodeID="C117891">
                     <nciodm:CDISCSynonym>Number of Letters Correct</nciodm:CDISCSynonym>
@@ -32,10 +97,40 @@
                     <nciodm:CDISCDefinition>A description of the action in response to some kind of stimulus.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Reaction</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="Shape" nciodm:ExtCodeID="C25677">
+                    <nciodm:CDISCSynonym>Shape</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The spatial arrangement of something as distinct from its substance. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Shape</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="Spherical Refractive Error" nciodm:ExtCodeID="C117893">
                     <nciodm:CDISCSynonym>Spherical Refractive Error</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the extent of defect in vision caused by a mismatch of optimal power between the cornea and/or lens and the length of the eyeball, resulting in sub-optimal reflection of light onto the retina. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Spherical Refractive Error</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Thickness" nciodm:ExtCodeID="C41145">
+                    <nciodm:CDISCSynonym>Thickness</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The dimension between two surfaces of an object, usually the smallest dimension as opposed to the width or the length.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Thickness</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Thickness, Maximum" nciodm:ExtCodeID="C120719">
+                    <nciodm:CDISCSynonym>Thickness, Maximum</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The maximum number in a group of values that represent the thickness of an object.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Maximum Thickness</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Thickness, Mean" nciodm:ExtCodeID="C120721">
+                    <nciodm:CDISCSynonym>Thickness, Mean</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The mean number in a group of values that represent the thickness of an object.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Mean Thickness</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Thickness, Minimum" nciodm:ExtCodeID="C120720">
+                    <nciodm:CDISCSynonym>Thickness, Minimum</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The minimum number in a group of values that represent the thickness of an object.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Minimum Thickness</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Thickness, Standard Deviation" nciodm:ExtCodeID="C120722">
+                    <nciodm:CDISCSynonym>Thickness, Standard Deviation</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The standard deviation in a group of values that represent the thickness of an object.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Standard Deviation of Thickness</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <nciodm:CDISCSubmissionValue>OETEST</nciodm:CDISCSubmissionValue>
                 <nciodm:CDISCSynonym>Ophthalmic Exam Test Name</nciodm:CDISCSynonym>

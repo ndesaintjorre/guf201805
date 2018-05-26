@@ -154,6 +154,11 @@
                     <nciodm:CDISCDefinition>The maximal flow achieved during the maximally forced expiration initiated at maximum inhalation.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Peak Expiratory Flow</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="Peak Inspiratory Flow" nciodm:ExtCodeID="C120939">
+                    <nciodm:CDISCSynonym>Peak Inspiratory Flow</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The maximum rate of inhalation.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Peak Inspiratory Flow Rate</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="Peak Nasal Inspiratory Flow" nciodm:ExtCodeID="C119547">
                     <nciodm:CDISCSynonym>Peak Nasal Inspiratory Flow</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The maximal flow achieved during the maximally forced inspiration through the nose initiated at maximum exhalation. (NCI)</nciodm:CDISCDefinition>

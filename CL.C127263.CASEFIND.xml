@@ -1,0 +1,17 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C127263.CASEFIND" Name="Case Finding" DataType="text" nciodm:ExtCodeID="C127263" nciodm:CodeListExtensible="Yes">
+                <Description>
+                    <TranslatedText xml:lang="en">Terminology relevant to how actively a search was performed for identifying individuals with a particular disease.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="ACTIVE CASE SEARCH" nciodm:ExtCodeID="C127515">
+                    <nciodm:CDISCDefinition>Purposefully looking for subjects with a particular characteristic or disease.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Active Case Search</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PASSIVE CASE SEARCH" nciodm:ExtCodeID="C127516">
+                    <nciodm:CDISCDefinition>Finding subjects with a particular characteristic or disease without actively searching.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Passive Case Search</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>CASEFIND</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Case Finding</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Case Finding Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

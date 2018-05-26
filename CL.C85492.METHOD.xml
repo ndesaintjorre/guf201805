@@ -103,6 +103,10 @@
                     <nciodm:CDISCDefinition>A technique for the separation of complex mixtures that relies on the differential affinities of substances for a gas or liquid mobile medium and for a stationary adsorbing medium through which they pass.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Chromatography</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="CINEANGIOGRAPHY" nciodm:ExtCodeID="C127679">
+                    <nciodm:CDISCDefinition>A type of angiography in which motion picture camera technology is used to record the passage of dye (usually fluorescent) through blood vessels and the heart.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Cineangiography</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="CISH" nciodm:ExtCodeID="C40960">
                     <nciodm:CDISCSynonym>Chromogenic in Situ Hybridization</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A laboratory procedure that combines the sequence-specific detection aspects of FISH with the simple detection methods of immunohistochemistry. Briefly, sequence-specific probes are hybridized to cells fixed on slides and the sequestered probe is visualized by a peroxidase reaction. It has the advantage of being a less costly assay that does not require fluorescence microscopy with results that are stable over time.</nciodm:CDISCDefinition>
@@ -151,7 +155,7 @@
                 <EnumeratedItem CodedValue="CT SCAN" nciodm:ExtCodeID="C17204">
                     <nciodm:CDISCSynonym>CT</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Computed Tomography</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A series of detailed pictures of areas inside the body; the pictures are created by a computer linked to an x-ray machine.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>An imaging technique for examining structures within the body by scanning them with X rays and using a computer to construct a series of cross-sectional scans along a single axis.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Computed Tomography</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="CYSTOSCOPY" nciodm:ExtCodeID="C16482">
@@ -211,7 +215,7 @@
                     <nciodm:CDISCDefinition>A type of spectroscopy that utilizes a laser beam to irradiate a sample containing particles in suspension, resulting in light scattering.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Photon Correlation Spectroscopy</nciodm:PreferredTerm>
                 </EnumeratedItem>
-                <EnumeratedItem CodedValue="ECHOCARDIOGRAM" nciodm:ExtCodeID="C16525">
+                <EnumeratedItem CodedValue="ECHOCARDIOGRAPHY" nciodm:ExtCodeID="C16525">
                     <nciodm:CDISCDefinition>A procedure that uses high-frequency sound waves (ultrasound) to create an image of the heart.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Echocardiography</nciodm:PreferredTerm>
                 </EnumeratedItem>
@@ -702,6 +706,10 @@
                     <nciodm:CDISCDefinition>A type of specular microscopy in which the specular microscope does not make contact with the cornea of the eye.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Non-Contact Specular Microscopy</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="NUCLEAR RADIOLOGY" nciodm:ExtCodeID="C127514">
+                    <nciodm:CDISCDefinition>Any type of imaging method that uses radioactive materials.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Nuclear Radiology Imaging Procedure</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="NUCLEIC ACID AMPLIFICATION TEST" nciodm:ExtCodeID="C20055">
                     <nciodm:CDISCSynonym>NAAT</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Any of a number of molecular biological techniques that are used to copy nucleic acid sequences within a specimen, leading to an increase in the number of copies of that sequence of interest. These techniques may be used for detection of a particular gene or microorganism of interest.</nciodm:CDISCDefinition>
@@ -749,6 +757,11 @@
                 <EnumeratedItem CodedValue="PANENDOSCOPY" nciodm:ExtCodeID="C94528">
                     <nciodm:CDISCDefinition>An endoscopic examination of the pharynx, larynx, trachea and esophagus.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Panendoscopy</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PAP STAIN" nciodm:ExtCodeID="C128984">
+                    <nciodm:CDISCSynonym>Papanicolau Stain</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A microscopy staining method that utilizes a mixture of dyes including hematoxylin, orange G (OG), and eosin azure, which contains variable portions of Eosin Y, light green SF yellowish, and Bismarck brown Y. This multichromatic staining method is used to differentially stain samples containing mixed cell populations.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Papanicolau Staining Method</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="PARTICLE-ENHANCED NEPHELOMETRIC IMMUNOASSAY" nciodm:ExtCodeID="C125952">
                     <nciodm:CDISCSynonym>PENIA</nciodm:CDISCSynonym>
@@ -865,6 +878,11 @@
                     <nciodm:CDISCDefinition>A quantitative technique used to detect and estimate the concentration of an antigen by measuring the diameter of the ring of precipitation (precipitin ring) which is formed as a result of the interaction of the antigen and an antibody at optimal concentration. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Radial Immunodiffusion</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="RADIOGRAPHY" nciodm:ExtCodeID="C128940">
+                    <nciodm:CDISCSynonym>Radiographic Exam</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A radiographic procedure using the emission of penetrating energy waves to form an image of the structure.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Radiographic Examination</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="REAL-TIME POLYMERASE CHAIN REACTION ASSAY" nciodm:ExtCodeID="C51962">
                     <nciodm:CDISCSynonym>Quantitative PCR</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Real Time-PCR</nciodm:CDISCSynonym>
@@ -973,6 +991,10 @@
                     <nciodm:CDISCDefinition>A method used to measure the breathing capacity of the lung by means of a spirometer.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Spirometry</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="STRESS ECHOCARDIOGRAPHY" nciodm:ExtCodeID="C80407">
+                    <nciodm:CDISCDefinition>An echocardiographic technique in which an image of the heart is produced by ultrasonography under conditions (e.g., exercise, pharmacologic agents or pacing) intended to elicit signs and symptoms of myocardial ischemia.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Stress Echocardiography</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="TEMPLATE INCISION METHOD" nciodm:ExtCodeID="C122174">
                     <nciodm:CDISCDefinition>A method for assessing bleeding time in which two controlled incisions are made on the forearm using a template to guide placement of the scalpel or blade.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Template Incision Method</nciodm:PreferredTerm>
@@ -1005,9 +1027,19 @@
                     <nciodm:CDISCDefinition>A technique used to selectively replicate nucleic acid sequences from RNA templates using reverse transcriptase and RNA polymerase.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Transcription-mediated Amplification</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="TRANSESOPHAGEAL ECHOCARDIOGRAPHY" nciodm:ExtCodeID="C80405">
+                    <nciodm:CDISCSynonym>TEE</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A cardiac ultrasound performed by passing a specialized probe containing a transducer into the patient's esophagus.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Transesophageal Echocardiography</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="TRANSMISSION ELECTRON MICROSCOPY" nciodm:ExtCodeID="C18216">
                     <nciodm:CDISCDefinition>An electron microscopy imaging technique that is utilized to examine structural components of a sample by passing electrons through the specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Transmission Electron Microscopy</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TRANSTHORACIC ECHOCARDIOGRAPHY" nciodm:ExtCodeID="C80404">
+                    <nciodm:CDISCSynonym>TTE</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A non-invasive cardiac ultrasound performed by placing the transducer on the chest.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Transthoracic Echocardiography</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="TRICHROME STAIN" nciodm:ExtCodeID="C23012">
                     <nciodm:CDISCDefinition>A microscopy staining method that utilizes two or more colored, acidic dyes of contrasting colors. Masson trichrome is a mixture of three dyes including aniline blue, Beibrich scarlet and Weigert's iron hematoxylin. Other related, modified trichrome staining methods include Lillie's trichrome, Gomori's trichrome and Mallory's trichrome.</nciodm:CDISCDefinition>
@@ -1054,9 +1086,9 @@
                     <nciodm:PreferredTerm>Wright-Giemsa Staining Method</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="X-RAY" nciodm:ExtCodeID="C38101">
-                    <nciodm:CDISCSynonym>Radiography</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A radiographic procedure using the emission of x-rays to form an image of the structure penetrated by the radiation.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Radiography</nciodm:PreferredTerm>
+                    <nciodm:CDISCSynonym>Static X-Ray</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A radiographic procedure using the emission of x-rays, a type of penetrating energy wave.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>X-Ray</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="X-RAY FLUORESCENCE SPECTROMETRY" nciodm:ExtCodeID="C85830">
                     <nciodm:CDISCDefinition>A spectrometric method that determines the type and concentration of elements or chemicals in a sample, based upon the principle that each element emits fluorescent light of a particular wavelength when exposed to an X-ray.</nciodm:CDISCDefinition>

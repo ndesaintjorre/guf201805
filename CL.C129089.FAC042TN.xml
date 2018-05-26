@@ -1,0 +1,104 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C129089.FAC042TN" Name="National Comprehensive Cancer Network/Functional Assessment of Cancer Therapy-Kidney Symptom Index-19 Version 2 Questionnaire Test Name" DataType="text" nciodm:ExtCodeID="C129089" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">National Comprehensive Cancer Network/Functional Assessment of Cancer Therapy-Kidney Symptom Index-19 Version 2 test name.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="FAC042-Bothered by Treatment Side Effect" nciodm:ExtCodeID="C129166">
+                    <nciodm:CDISCSynonym>FAC042-Bothered by Treatment Side Effect</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>National Comprehensive Cancer Network/Functional Assessment of Cancer Therapy-Kidney Symptom Index-19 Version 2 - I am bothered by side effects of treatment.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NCCN-FACT FKSI-19 Version 2 - Bothered by Treatment Side Effect</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC042-Content With Quality of My Life" nciodm:ExtCodeID="C129169">
+                    <nciodm:CDISCSynonym>FAC042-Content With Quality of My Life</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>National Comprehensive Cancer Network/Functional Assessment of Cancer Therapy-Kidney Symptom Index-19 Version 2 - I am content with the quality of my life right now.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NCCN-FACT FKSI-19 Version 2 - Content With Quality of My Life</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC042-I Am Able to Enjoy Life" nciodm:ExtCodeID="C129168">
+                    <nciodm:CDISCSynonym>FAC042-I Am Able to Enjoy Life</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>National Comprehensive Cancer Network/Functional Assessment of Cancer Therapy-Kidney Symptom Index-19 Version 2 - I am able to enjoy life.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NCCN-FACT FKSI-19 Version 2 - I Am Able to Enjoy Life</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC042-I Am Able to Work" nciodm:ExtCodeID="C129167">
+                    <nciodm:CDISCSynonym>FAC042-I Am Able to Work</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>National Comprehensive Cancer Network/Functional Assessment of Cancer Therapy-Kidney Symptom Index-19 Version 2 - I am able to work (include work at home).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NCCN-FACT FKSI-19 Version 2 - I Am Able to Work</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC042-I Am Bothered by Fevers" nciodm:ExtCodeID="C129156">
+                    <nciodm:CDISCSynonym>FAC042-I Am Bothered by Fevers</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>National Comprehensive Cancer Network/Functional Assessment of Cancer Therapy-Kidney Symptom Index-19 Version 2 - I am bothered by fevers (episodes of high body temperature).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NCCN-FACT FKSI-19 Version 2 - I Am Bothered by Fevers</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC042-I Am Losing Weight" nciodm:ExtCodeID="C129153">
+                    <nciodm:CDISCSynonym>FAC042-I Am Losing Weight</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>National Comprehensive Cancer Network/Functional Assessment of Cancer Therapy-Kidney Symptom Index-19 Version 2 - I am losing weight.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NCCN-FACT FKSI-19 Version 2 - I Am Losing Weight</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC042-I Am Sleeping Well" nciodm:ExtCodeID="C129162">
+                    <nciodm:CDISCSynonym>FAC042-I Am Sleeping Well</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>National Comprehensive Cancer Network/Functional Assessment of Cancer Therapy-Kidney Symptom Index-19 Version 2 - I am sleeping well.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NCCN-FACT FKSI-19 Version 2 - I Am Sleeping Well</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC042-I Feel Fatigued" nciodm:ExtCodeID="C129154">
+                    <nciodm:CDISCSynonym>FAC042-I Feel Fatigued</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>National Comprehensive Cancer Network/Functional Assessment of Cancer Therapy-Kidney Symptom Index-19 Version 2 - I feel fatigued.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NCCN-FACT FKSI-19 Version 2 - I Feel Fatigued</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC042-I Feel Weak All Over" nciodm:ExtCodeID="C129159">
+                    <nciodm:CDISCSynonym>FAC042-I Feel Weak All Over</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>National Comprehensive Cancer Network/Functional Assessment of Cancer Therapy-Kidney Symptom Index-19 Version 2 - I feel weak all over.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NCCN-FACT FKSI-19 Version 2 - I Feel Weak All Over</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC042-I Have a Good Appetite" nciodm:ExtCodeID="C129161">
+                    <nciodm:CDISCSynonym>FAC042-I Have a Good Appetite</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>National Comprehensive Cancer Network/Functional Assessment of Cancer Therapy-Kidney Symptom Index-19 Version 2 - I have a good appetite.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NCCN-FACT FKSI-19 Version 2 - I Have a Good Appetite</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC042-I Have a Lack of Energy" nciodm:ExtCodeID="C129151">
+                    <nciodm:CDISCSynonym>FAC042-I Have a Lack of Energy</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>National Comprehensive Cancer Network/Functional Assessment of Cancer Therapy-Kidney Symptom Index-19 Version 2 - I have a lack of energy.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NCCN-FACT FKSI-19 Version 2 - I Have a Lack of Energy</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC042-I Have Been Coughing" nciodm:ExtCodeID="C129158">
+                    <nciodm:CDISCSynonym>FAC042-I Have Been Coughing</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>National Comprehensive Cancer Network/Functional Assessment of Cancer Therapy-Kidney Symptom Index-19 Version 2 - I have been coughing.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NCCN-FACT FKSI-19 Version 2 - I Have Been Coughing</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC042-I Have Been Short of Breath" nciodm:ExtCodeID="C129155">
+                    <nciodm:CDISCSynonym>FAC042-I Have Been Short of Breath</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>National Comprehensive Cancer Network/Functional Assessment of Cancer Therapy-Kidney Symptom Index-19 Version 2 - I have been short of breath.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NCCN-FACT FKSI-19 Version 2 - I Have Been Short of Breath</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC042-I Have Bone Pain" nciodm:ExtCodeID="C129157">
+                    <nciodm:CDISCSynonym>FAC042-I Have Bone Pain</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>National Comprehensive Cancer Network/Functional Assessment of Cancer Therapy-Kidney Symptom Index-19 Version 2 - I have bone pain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NCCN-FACT FKSI-19 Version 2 - I Have Bone Pain</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC042-I Have Diarrhea" nciodm:ExtCodeID="C129165">
+                    <nciodm:CDISCSynonym>FAC042-I Have Diarrhea</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>National Comprehensive Cancer Network/Functional Assessment of Cancer Therapy-Kidney Symptom Index-19 Version 2 - I have diarrhea (diarrhoea).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NCCN-FACT FKSI-19 Version 2 - I Have Diarrhea</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC042-I Have Had Blood in My Urine" nciodm:ExtCodeID="C129160">
+                    <nciodm:CDISCSynonym>FAC042-I Have Had Blood in My Urine</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>National Comprehensive Cancer Network/Functional Assessment of Cancer Therapy-Kidney Symptom Index-19 Version 2 - I have had blood in my urine.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NCCN-FACT FKSI-19 Version 2 - I Have Had Blood in My Urine</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC042-I Have Nausea" nciodm:ExtCodeID="C129164">
+                    <nciodm:CDISCSynonym>FAC042-I Have Nausea</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>National Comprehensive Cancer Network/Functional Assessment of Cancer Therapy-Kidney Symptom Index-19 Version 2 - I have nausea.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NCCN-FACT FKSI-19 Version 2 - I Have Nausea</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC042-I Have Pain" nciodm:ExtCodeID="C129152">
+                    <nciodm:CDISCSynonym>FAC042-I Have Pain</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>National Comprehensive Cancer Network/Functional Assessment of Cancer Therapy-Kidney Symptom Index-19 Version 2 - I have pain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NCCN-FACT FKSI-19 Version 2 - I Have Pain</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC042-Worry My Condition Will Get Worse" nciodm:ExtCodeID="C129163">
+                    <nciodm:CDISCSynonym>FAC042-Worry My Condition Will Get Worse</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>National Comprehensive Cancer Network/Functional Assessment of Cancer Therapy-Kidney Symptom Index-19 Version 2 - I worry that my condition will get worse.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NCCN-FACT FKSI-19 Version 2 - Worry My Condition Will Get Worse</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>FAC042TN</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>National Comprehensive Cancer Network/Functional Assessment of Cancer Therapy-Kidney Symptom Index-19 Version 2 Questionnaire Test Name</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Questionnaire NCCN-FACT FKSI-19 Version 2 Test Name Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

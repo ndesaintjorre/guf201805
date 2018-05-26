@@ -234,6 +234,11 @@
                     <nciodm:CDISCDefinition>The change in PEF following administration of a bronchodilator relative to the pre-treatment PEF value.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Peak Expiratory Flow Reversibility</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="PIF" nciodm:ExtCodeID="C120939">
+                    <nciodm:CDISCSynonym>Peak Inspiratory Flow</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The maximum rate of inhalation.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Peak Inspiratory Flow Rate</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="PLMXRS" nciodm:ExtCodeID="C123567">
                     <nciodm:CDISCSynonym>Pulmonary Reactance</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the ability of the lung to store energy, which is required for passive expiration.</nciodm:CDISCDefinition>

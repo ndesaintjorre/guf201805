@@ -1,6 +1,6 @@
-<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C76351.SKINCLAS" Name="Skin Classification" DataType="text" nciodm:ExtCodeID="C76351" nciodm:CodeListExtensible="Yes">
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C76351.SKINCLAS" Name="Fitzpatrick Skin Classification Response" DataType="text" nciodm:ExtCodeID="C76351" nciodm:CodeListExtensible="Yes">
                 <Description>
-                    <TranslatedText xml:lang="en">A classification system used to categorize the sensitivity of a subject's skin to sunlight.</TranslatedText>
+                    <TranslatedText xml:lang="en">A terminology codelist relevant to the classification system used to categorize the sensitivity of a subject's skin to sunlight.  (Fitzpatrick TB. The validity and practicality of sun-reactive skin types I through VI. Arch. Dermatol. 1998 124: 869-871.)</TranslatedText>
                 </Description>
                 <EnumeratedItem CodedValue="TYPEI" nciodm:ExtCodeID="C74569">
                     <nciodm:CDISCSynonym>TYPE1</nciodm:CDISCSynonym>
@@ -33,7 +33,7 @@
                     <nciodm:PreferredTerm>Fitzpatrick Skin Type VI</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <nciodm:CDISCSubmissionValue>SKINCLAS</nciodm:CDISCSubmissionValue>
-                <nciodm:CDISCSynonym>Skin Classification</nciodm:CDISCSynonym>
+                <nciodm:CDISCSynonym>Fitzpatrick Skin Classification Response</nciodm:CDISCSynonym>
                 <nciodm:PreferredTerm>CDISC SDTM Skin Classification Terminology</nciodm:PreferredTerm>
             </CodeList>
             

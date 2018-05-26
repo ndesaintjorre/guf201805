@@ -1,0 +1,33 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C127259.OBSSMO" Name="Observational Study Model" DataType="text" nciodm:ExtCodeID="C127259" nciodm:CodeListExtensible="Yes">
+                <Description>
+                    <TranslatedText xml:lang="en">The terminology relevant to the trial design for observational studies.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="CASE CONTROL" nciodm:ExtCodeID="C15197">
+                    <nciodm:CDISCDefinition>A study that compares groups of people with generally similar characteristics, those with the condition under study (case) and those without the condition under study (control).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Case-Control Study</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CASE CROSSOVER" nciodm:ExtCodeID="C127779">
+                    <nciodm:CDISCDefinition>A study in which the subject characteristics of the case, immediately prior to disease onset (sometimes called the hazard period), are compared to characteristics of same case at a prior time (i.e., control period). (ClinicalTrials.gov)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Observational Case-Crossover Study</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CASE ONLY" nciodm:ExtCodeID="C15362">
+                    <nciodm:CDISCDefinition>A study in which the subject with the condition under study (the case) is compared against a theoretical/historical model of distribution that serves as a control.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Case Study</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="COHORT" nciodm:ExtCodeID="C15208">
+                    <nciodm:CDISCDefinition>A study in which subjects are grouped based on a predefined personal or administrative characteristic.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Cohort Study</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ECOLOGIC OR COMMUNITY" nciodm:ExtCodeID="C127780">
+                    <nciodm:CDISCDefinition>A study in which geographically distinct study populations are compared with respect to a particular outcome.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Ecologic or Community Based Study</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAMILY BASED" nciodm:ExtCodeID="C15407">
+                    <nciodm:CDISCDefinition>A study in which related or non-related family members are compared with respect to a particular outcome.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Family Study</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>OBSSMO</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Observational Study Model</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Observational Study Model Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

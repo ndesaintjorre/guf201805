@@ -1,0 +1,25 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C127268.DSPRTYP" Name="Disease Presentation Type" DataType="text" nciodm:ExtCodeID="C127268" nciodm:CodeListExtensible="Yes">
+                <Description>
+                    <TranslatedText xml:lang="en">Terminology relevant to the symptoms and/or clinical manifestation of a disease.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="COMPLEX CYSTIC LESION" nciodm:ExtCodeID="C127606">
+                    <nciodm:CDISCDefinition>A lesion that demonstrates both cystic and solid components; the solid components can range from thin walls (septae) to a solid tissue mass.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Complex Cystic Lesion</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EFFUSION" nciodm:ExtCodeID="C3003">
+                    <nciodm:CDISCDefinition>Abnormal collection of fluid in a body cavity.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Effusion</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="INCREASING ABDOMINAL DISTENTION OR ASCITES" nciodm:ExtCodeID="C2885">
+                    <nciodm:CDISCDefinition>Abnormal collection of fluid in the peritoneal cavity.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Ascites</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEPTOMENINGEAL DISEASE" nciodm:ExtCodeID="C4958">
+                    <nciodm:CDISCDefinition>A malignant neoplasm that has spread from its original site to the arachnoid mater and the pia mater, the two innermost layers of tissue that cover the brain and spinal cord.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Leptomeningeal Neoplasm</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>DSPRTYP</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Disease Presentation Type</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Disease Presentation Type Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

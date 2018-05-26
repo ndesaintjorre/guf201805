@@ -2,6 +2,11 @@
                 <Description>
                     <TranslatedText xml:lang="en">Terminology relevant to the test codes that describe nervous system physiology findings.</TranslatedText>
                 </Description>
+                <EnumeratedItem CodedValue="BSI" nciodm:ExtCodeID="C114183">
+                    <nciodm:CDISCSynonym>Boundary Shift Integral</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of change in volume of an organ or anatomical feature as determined by a shift in tissue boundary over time.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Boundary Shift Integral</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="N145LAT" nciodm:ExtCodeID="C117886">
                     <nciodm:CDISCSynonym>N145 Latency</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>An assessment of the latency of the N145 or N2 wave of the visual evoked potential assessment waveform.</nciodm:CDISCDefinition>
@@ -21,6 +26,16 @@
                     <nciodm:CDISCSynonym>Standard Uptake Value Ratio</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The ratio between the uptake or binding of a radiopharmaceutical agent in an anatomical region of interest and a context-defined reference anatomical region.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Standard Uptake Value Ratio</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="THICK" nciodm:ExtCodeID="C41145">
+                    <nciodm:CDISCSynonym>Thickness</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The dimension between two surfaces of an object, usually the smallest dimension as opposed to the width or the length.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Thickness</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="VOLUME" nciodm:ExtCodeID="C25335">
+                    <nciodm:CDISCSynonym>Volume</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The amount of three dimensional space occupied by an object or the capacity of a space or container. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Volume</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <nciodm:CDISCSubmissionValue>NVTESTCD</nciodm:CDISCSubmissionValue>
                 <nciodm:CDISCSynonym>Nervous System Physiology Test Code</nciodm:CDISCSynonym>
