@@ -1,0 +1,33 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C101834.NORMABNM" Name="Normal Abnormal Response" DataType="text" nciodm:ExtCodeID="C101834" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">A terminology codelist to describe a normal or abnormal response.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="ABNORMAL" nciodm:ExtCodeID="C25401">
+                    <nciodm:CDISCDefinition>Deviating in any way from the state, position, structure, condition, behavior, or rule which is considered a norm. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Abnormal</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="INDETERMINATE" nciodm:ExtCodeID="C48658">
+                    <nciodm:CDISCSynonym>Inconclusive</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Cannot distinguish between two or more possible values in the current context. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Indeterminate</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NORMAL" nciodm:ExtCodeID="C14165">
+                    <nciodm:CDISCDefinition>Being approximately average or within certain limits; conforming with or constituting a norm or standard or level or type or social norm. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Normal</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NOT EVALUABLE" nciodm:ExtCodeID="C62222">
+                    <nciodm:CDISCSynonym>Not Evaluable</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Unable to be evaluated. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Unevaluable</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UNKNOWN" nciodm:ExtCodeID="C17998">
+                    <nciodm:CDISCSynonym>U</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Unknown</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Not known, not observed, not recorded, or refused. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Unknown</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>NORMABNM</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Normal Abnormal Response</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Normal Abnormal Response Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

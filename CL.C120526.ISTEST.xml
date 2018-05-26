@@ -1,0 +1,28 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C120526.ISTEST" Name="Immunogenicity Specimen Assessments Test Name" DataType="text" nciodm:ExtCodeID="C120526" nciodm:CodeListExtensible="Yes">
+                <Description>
+                    <TranslatedText xml:lang="en">Terminology relevant to the immunogenicity specimen test names of the CDISC Study Data Tabulation Model.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="H1 Specific IgG Antibody Secreting Cells" nciodm:ExtCodeID="C120622">
+                    <nciodm:CDISCSynonym>H1 Specific IgG ASCs</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>H1 Specific IgG Antibody Secreting Cells</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>H1 Specific IgG ASCs</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the H1 specific IgG antibody secreting cells in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Influenza Hemagglutinin 1 Specific IgG Antibody Secreting Cell Count</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="H3 Specific IgG Antibody Secreting Cells" nciodm:ExtCodeID="C120623">
+                    <nciodm:CDISCSynonym>H3 Specific IgG ASCs</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>H3 Specific IgG Antibody Secreting Cells</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the H3 specific IgG antibody secreting cells in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Influenza Hemagglutinin 3 Specific IgG Antibody Secreting Cell Count</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Total IgG Antibody Secreting Cells" nciodm:ExtCodeID="C120624">
+                    <nciodm:CDISCSynonym>Total IgG ASCs</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Total IgG Antibody Secreting Cells</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the total IgG antibody secreting cells in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Total IgG Antibody Secreting Cell Count</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>ISTEST</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Immunogenicity Specimen Assessments Test Name</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Immunogenicity Specimen Assessments Test Name Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

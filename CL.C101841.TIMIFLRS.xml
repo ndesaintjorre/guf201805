@@ -1,0 +1,29 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C101841.TIMIFLRS" Name="TIMI Flow Responses" DataType="text" nciodm:ExtCodeID="C101841" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">A terminology codelist of acceptable values to describe TIMI Flow.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="TIMI GRADE 0" nciodm:ExtCodeID="C100040">
+                    <nciodm:CDISCSynonym>Thrombolysis in Myocardial Infarction Flow - 0</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>No perfusion. There is no antegrade flow beyond the point of occlusion. (Chesebro JH, Knatterud GL, Roberts R, et al, Thrombolysis in Myocardial Infarction (TIMI) Trial, Phase I: a comparison between intravenous tissue plasminogen activator and intravenous streptokinase: Clinical findings through hospital discharge, Circulation 76, No. 1, 142-154, 1987)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Thrombolysis in Myocardial Infarction Flow-0</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TIMI GRADE 1" nciodm:ExtCodeID="C100041">
+                    <nciodm:CDISCSynonym>Thrombolysis in Myocardial Infarction Flow - 1</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Penetration without perfusion. Contrast material passes beyond the area of obstruction but "hangs up" and fails to opacify the entire coronary bed distal to the obstruction for the duration of the cineangiographic filming sequence. (Chesebro JH, Knatterud GL, Roberts R, et al, Thrombolysis in Myocardial Infarction (TIMI) Trial, Phase I: a comparison between intravenous tissue plasminogen activator and intravenous streptokinase: Clinical findings through hospital discharge, Circulation 76, No. 1, 142-154, 1987)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Thrombolysis in Myocardial Infarction Flow-1</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TIMI GRADE 2" nciodm:ExtCodeID="C100042">
+                    <nciodm:CDISCSynonym>Thrombolysis in Myocardial Infarction Flow - 2</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Partial perfusion. The contrast material passes across the obstruction and opacifies the coronary bed distal to the obstruction. However, the rate of entry of contrast material into the vessel distal to the obstruction or its rate of clearance from the distal bed (or both) is perceptibly slower than its entry into or clearance from comparable areas not perfused by the previously occluded vessel (e.g., the opposite coronary artery or the coronary bed proximal to the obstruction). (Chesebro JH, Knatterud GL, Roberts R, et al, Thrombolysis in Myocardial Infarction (TIMI) Trial, Phase I: a comparison between intravenous tissue plasminogen activator and intravenous streptokinase: Clinical findings through hospital discharge, Circulation 76, No. 1, 142-154, 1987)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Thrombolysis in Myocardial Infarction Flow-2</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TIMI GRADE 3" nciodm:ExtCodeID="C100043">
+                    <nciodm:CDISCSynonym>Thrombolysis in Myocardial Infarction Flow - 3</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Complete perfusion. Antegrade flow into the bed distal to the obstruction occurs as promptly as into the bed from the involved bed and is as rapid as clearance from an uninvolved bed in the same vessel or the opposite artery. (Chesebro JH, Knatterud GL, Roberts R, et al, Thrombolysis in Myocardial Infarction (TIMI) Trial, Phase I: a comparison between intravenous tissue plasminogen activator and intravenous streptokinase: Clinical findings through hospital discharge, Circulation 76, No. 1, 142-154, 1987)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Thrombolysis in Myocardial Infarction Flow-3</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>TIMIFLRS</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>TIMI Flow Responses</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Thrombolysis in Myocardial Infarction Flow Responses Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

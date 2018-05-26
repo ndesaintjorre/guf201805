@@ -1,0 +1,24 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C102577.DRSTAT" Name="Drug Resistance Status" DataType="text" nciodm:ExtCodeID="C102577" nciodm:CodeListExtensible="Yes">
+                <Description>
+                    <TranslatedText xml:lang="en">Terminology relevant to the state or condition of the microbe or lesion to indicate whether it is resistant to drugs normally used in treatment.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="EXTENSIVE DRUG RESISTANCE" nciodm:ExtCodeID="C102633">
+                    <nciodm:CDISCSynonym>XDR</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Resistance to nearly all known drugs, particularly the most efficacious or non-first line drugs, used in the treatment of a particular disease.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Extensively Drug Resistance Process</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MULTIPLE DRUG RESISTANCE" nciodm:ExtCodeID="C17745">
+                    <nciodm:CDISCSynonym>MDR</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Simultaneous resistance to a spectrum of unrelated drugs following exposure to a single agent. Mechanisms involve expression of multidrug efflux pumps (p-glycoprotein), altered glutathione metabolism, decreased topoisomerase II activity, and changes in various cellular proteins.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Multidrug Resistance Process</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUSCEPTIBLE" nciodm:ExtCodeID="C85563">
+                    <nciodm:CDISCSynonym>Susceptible</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The growth of microorganisms are inhibited by the usually achievable concentrations of antimicrobial agent when the recommended dosage is used for the site of infection.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Antimicrobial Susceptibility Result</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>DRSTAT</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Drug Resistance Status</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Drug Resistance Status Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

@@ -1,0 +1,47 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C103329.GNRLOBSC" Name="General Observation Class" DataType="text" nciodm:ExtCodeID="C103329" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Terminology related to the classification of a CDISC domain.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="ADAM OTHER" nciodm:ExtCodeID="C103375">
+                    <nciodm:CDISCDefinition>An ADaM analysis dataset that doesn't conform to the ADSL or BDS structure.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC Other ADaM Dataset</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BASIC DATA STRUCTURE" nciodm:ExtCodeID="C103371">
+                    <nciodm:CDISCSynonym>BDS</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An ADaM BDS dataset contains one or more records per subject, per analysis parameter, per analysis time point. Variables include the value being analyzed (e.g., AVAL) and the description of the value being analyzed (e.g., PARAM). Other variables in the dataset provide more information about the value being analyzed (e.g., the subject identification) or describe and trace the derivation of it (e.g., DTYPE) or support the analysis of it (e.g., treatment variables, covariates).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC Basic Data Structure Dataset</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EVENTS" nciodm:ExtCodeID="C103372">
+                    <nciodm:CDISCDefinition>This SDTM class captures planned protocol milestones such as randomization and study completion, and occurrences, conditions, or incidents independent of planned study evaluations occurring during the trial (e.g., adverse events) or prior to the trial (e.g., medical history).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC Events Class</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FINDINGS" nciodm:ExtCodeID="C103373">
+                    <nciodm:CDISCDefinition>This SDTM class captures the observations resulting from planned evaluations to address specific tests or questions such as laboratory tests, ECG testing, and questions listed on questionnaires.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC Findings Class</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="INTERVENTIONS" nciodm:ExtCodeID="C103374">
+                    <nciodm:CDISCDefinition>This SDTM class captures investigational, therapeutic and other treatments that are administered to the subject (with some actual or expected physiological effect) either as specified by the study protocol (e.g., exposure to study drug), coincident with the study assessment period (e.g., concomitant medications), or self-administered by the subject (such as use of alcohol, tobacco, or caffeine).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC Interventions Class</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="RELATIONSHIP" nciodm:ExtCodeID="C103376">
+                    <nciodm:CDISCDefinition>This SDTM class provides a means to link related records between datasets. It includes the RELREC and SUPPQUAL datasets.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC Relationship Class</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SPECIAL PURPOSE" nciodm:ExtCodeID="C103377">
+                    <nciodm:CDISCDefinition>This SDTM class contains a set of domains which do not conform to the Findings, Events or Interventions observation classes. The domains included are DM, CO, SE and SV.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC Special Purpose Class</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUBJECT LEVEL ANALYSIS DATASET" nciodm:ExtCodeID="C103378">
+                    <nciodm:CDISCSynonym>ADSL</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Subject-Level Analysis Dataset (ADSL) is a one-record-per-subject dataset which contains variables that describe subject demographic characteristics and group the subjects for analysis. ADSL is the primary source for subject-level variables included in other analysis datasets such as population flags and treatment variables.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC Subject Level Analysis Dataset</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TRIAL DESIGN" nciodm:ExtCodeID="C103379">
+                    <nciodm:CDISCDefinition>This SDTM class describes the plan for the procedures to be followed in a clinical trial, including planned and actual timing of events, control group, method of allocating treatments, blinding methods, assignment of epochs that subjects pass through in the course of a trial.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC Trial Design Class</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>GNRLOBSC</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>General Observation Class</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM General Observation Class Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

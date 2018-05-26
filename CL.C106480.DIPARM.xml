@@ -1,0 +1,62 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C106480.DIPARM" Name="Device Identifier Long Name" DataType="text" nciodm:ExtCodeID="C106480" nciodm:CodeListExtensible="Yes">
+                <Description>
+                    <TranslatedText xml:lang="en">A terminology codelist for the long name of the identifier characteristic of the device.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="Batch Number" nciodm:ExtCodeID="C104504">
+                    <nciodm:CDISCSynonym>Batch Identifier</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Batch Number</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A distinctive alpha-numeric identification code assigned by the manufacturer or distributor to a specific quantity of manufactured material or product that is produced in a manner that is expected to render it homogeneous.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Batch Number</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Device Type" nciodm:ExtCodeID="C53265">
+                    <nciodm:CDISCSynonym>Device Type</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Generic category of medical device within the device classification established by a regulatory authority.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Type of Device</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FDA Unique Device Identification" nciodm:ExtCodeID="C112279">
+                    <nciodm:CDISCSynonym>FDA Unique Device Identification</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A UDI is a unique numeric or alphanumeric code that includes a device identifier, which is specific to a device model, and a production identifier, which includes the current production information for that specific device, such as the lot or batch number, the serial number and/or expiration date. (FDA)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FDA Unique Device Identifier</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Lot Number" nciodm:ExtCodeID="C70848">
+                    <nciodm:CDISCSynonym>Lot Identifier</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Lot Number</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A distinctive alpha-numeric identification code assigned by the manufacturer or distributor to a specific quantity of manufactured material or product within a batch.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Lot Number</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Manufacturer" nciodm:ExtCodeID="C25392">
+                    <nciodm:CDISCSynonym>Manufacturer</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The organization defined as being responsible for creating the product as stated on the package in which the product is supplied. (BRIDG)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Manufacturer</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Model Number" nciodm:ExtCodeID="C99285">
+                    <nciodm:CDISCSynonym>Model Identifier</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Model Number</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The identifier assigned to a particular design of a device, usually an alphanumeric text string.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Model Number</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Secure Lead Type" nciodm:ExtCodeID="C111191">
+                    <nciodm:CDISCSynonym>Secure Lead Type</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The type of locking device used to securely fasten the electrical leads to the device. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Electrical Lead Locking Type</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Serial Number" nciodm:ExtCodeID="C73518">
+                    <nciodm:CDISCSynonym>Serial Number</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A unique identifier assigned to an individual object.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Serial Number</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Stereotactic Surgery Frame Type" nciodm:ExtCodeID="C106570">
+                    <nciodm:CDISCSynonym>Stereotactic Surgery Frame Type</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The classification of the cage structure used to immobilize the head or other body part in preparation for stereotactic surgery. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Stereotactic Surgery Frame Type</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Trade Name" nciodm:ExtCodeID="C71898">
+                    <nciodm:CDISCSynonym>Trade Name</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The part of the name or logo associated with a specific product or service identifying and distinguishing it from varieties of the same product or service marketed by competing companies.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Proprietary Name</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>DIPARM</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Device Identifier Long Name</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Device Identifier Long Name Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

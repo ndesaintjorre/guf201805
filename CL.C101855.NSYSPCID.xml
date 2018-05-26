@@ -1,0 +1,36 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C101855.NSYSPCID" Name="Non-system Reason for PCI Delay" DataType="text" nciodm:ExtCodeID="C101855" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">A terminology codelist that contains reasons for non-system PCI delay.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="CARDIAC ARREST BEFORE PCI" nciodm:ExtCodeID="C99920">
+                    <nciodm:CDISCDefinition>Cardiac arrest which occurs before a percutaneous coronary intervention can take place.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Cardiac Arrest Prior to Percutaneous Coronary Intervention</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DIFFICULT VASCULAR ACCESS" nciodm:ExtCodeID="C99945">
+                    <nciodm:CDISCDefinition>Access to the subject's vasculature is troublesome or formidable.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Difficult Vascular Access</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DIFFICULTY CROSSING THE CULPRIT LESION DURING THE PCI PROCEDURE" nciodm:ExtCodeID="C99946">
+                    <nciodm:CDISCDefinition>Placement of intracoronary devices across the coronary stenosis is troublesome or formidable.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Difficulty Crossing Culprit Lesion During Percutaneous Coronary Intervention</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ENDOTRACHEAL INTUBATION BEFORE PCI" nciodm:ExtCodeID="C99950">
+                    <nciodm:CDISCSynonym>Intubation before PCI</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Endotracheal intubation which occurs before a percutaneous coronary intervention can take place.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Endotracheal Intubation before Percutaneous Coronary Intervention</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="OTHER" nciodm:ExtCodeID="C17649">
+                    <nciodm:CDISCSynonym>Other</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Different than the one(s) previously specified or mentioned. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Other</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUBJECT DELAY IN PROVIDING CONSENT" nciodm:ExtCodeID="C100016">
+                    <nciodm:CDISCSynonym>Patient Delay in Providing Consent</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The subject has not provided consent in a timely manner for the procedure to take place.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Subject Delay in Providing Consent</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>NSYSPCID</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Non-system Reason for PCI Delay</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Non-system Reason for PCI Delay Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

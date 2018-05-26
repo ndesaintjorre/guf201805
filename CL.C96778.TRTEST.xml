@@ -1,0 +1,195 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C96778.TRTEST" Name="Tumor or Lesion Properties Test Name" DataType="text" nciodm:ExtCodeID="C96778" nciodm:CodeListExtensible="Yes">
+                <Description>
+                    <TranslatedText xml:lang="en">Terminology relevant to the test codes that describe the assessment or measurement of a tumor, lesion or site of disease.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="Absolute Change From Nadir" nciodm:ExtCodeID="C103347">
+                    <nciodm:CDISCSynonym>Absolute Change From Nadir</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The current value minus the lowest value previously recorded.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Absolute Change From Nadir</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Absolute Change Nadir in Sum of Diam" nciodm:ExtCodeID="C112218">
+                    <nciodm:CDISCSynonym>Absolute Change Nadir in Sum of Diam</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The current sum of diameters minus the lowest sum of diameters previously recorded.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Absolute Change From Nadir in Sum of Diameter</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Area" nciodm:ExtCodeID="C25244">
+                    <nciodm:CDISCSynonym>Area</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The extent of a 2-dimensional surface enclosed within a boundary. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Area</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Average Metabolic Standard Uptake Value" nciodm:ExtCodeID="C96566">
+                    <nciodm:CDISCSynonym>Average Metabolic Standard Uptake Value</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A semiquantitative analysis of the average uptake of analyte by body tissue in relation to the total administered dose of the analyte.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Average Metabolic Standard Uptake Value</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Diameter" nciodm:ExtCodeID="C25285">
+                    <nciodm:CDISCSynonym>Diameter</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The length of a straight line passing through the center of a circle or sphere and connecting two points on the circumference. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Diameter</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Lesion Failure Indicator" nciodm:ExtCodeID="C119551">
+                    <nciodm:CDISCSynonym>Lesion Failure Indicator</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An indication as to whether lesion failure occurred.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Lesion Failure Indicator</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Lesion Revas Clinical Indicator" nciodm:ExtCodeID="C119556">
+                    <nciodm:CDISCSynonym>Lesion Revas Clinical Indicator</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An indication as to whether an appropriate clinical context was present before lesion revascularization occurred.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Lesion Revascularization Clinical Indicator</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Lesion Revas Ischemia Indicator" nciodm:ExtCodeID="C119555">
+                    <nciodm:CDISCSynonym>Lesion Revas Ischemia Indicator</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An indication as to whether clinical or functional ischemia is present before lesion revascularization occurred.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Lesion Revascularization Ischemia Indicator</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Lesion Revascularization Indicator" nciodm:ExtCodeID="C119552">
+                    <nciodm:CDISCSynonym>Lesion Revascularization Indicator</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An indication as to whether repeat revascularization of a lesion occurred.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Lesion Revascularization Indicator</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Lesion Success Indicator" nciodm:ExtCodeID="C119553">
+                    <nciodm:CDISCSynonym>Lesion Success Indicator</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An indication as to whether a performed procedure of a target lesion is considered successful.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Lesion Success Indicator</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Limb Failure Indicator" nciodm:ExtCodeID="C119554">
+                    <nciodm:CDISCSynonym>Limb Failure Indicator</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An indication as to whether limb failure occurred.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Limb Failure Indicator</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Longest Diameter" nciodm:ExtCodeID="C96684">
+                    <nciodm:CDISCSynonym>Longest Diameter</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The longest possible length of a straight line passing through the center of a circular or spheroid object that connects two points on the circumference.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Longest Diameter</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Longest Perpendicular" nciodm:ExtCodeID="C96685">
+                    <nciodm:CDISCSynonym>Longest Perpendicular</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The longest possible straight line or plane through a body or figure that is at a right angle to a given line or plane.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Longest Perpendicular</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="New Tumor Confirmed" nciodm:ExtCodeID="C103421">
+                    <nciodm:CDISCSynonym>New Tumor Confirmed</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The verification/confirmation by other methods or modalities that a tumor, which has not been previously seen or characterized, is present in the subject.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>New Tumor Confirmation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Percent Change Baseline in Sum of Area" nciodm:ExtCodeID="C112369">
+                    <nciodm:CDISCSynonym>Percent Change Baseline in Sum of Area</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The (current sum of areas minus the baseline sum of areas) divided by the baseline sum of areas, multiplied by 100.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Percent Change From Baseline in Sum of Area</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Percent Change Baseline in Sum of Diam" nciodm:ExtCodeID="C112370">
+                    <nciodm:CDISCSynonym>Percent Change Baseline in Sum of Diam</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The (current sum of diameters minus the baseline sum of diameters) divided by the baseline sum of diameters, multiplied by 100.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Percent Change From Baseline in Sum of Diameter</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Percent Change Baseline in Sum of Volume" nciodm:ExtCodeID="C112372">
+                    <nciodm:CDISCSynonym>Percent Change Baseline in Sum of Volume</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The (current sum of volumes minus the baseline sum of volumes) divided by the baseline sum of volumes, multiplied by 100.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Percent Change From Baseline in Sum of Volume</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Percent Change Baseline Sum Longest Diam" nciodm:ExtCodeID="C112371">
+                    <nciodm:CDISCSynonym>Percent Change Baseline Sum Longest Diam</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The (current sum of longest diameters minus the baseline sum of longest diameters) divided by the baseline sum of longest diameters, multiplied by 100.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Percent Change From Baseline in Sum of Longest Diameter</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Percent Change From Baseline" nciodm:ExtCodeID="C96621">
+                    <nciodm:CDISCSynonym>Percent Change From Baseline</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The (current value minus the baseline value) divided by the baseline value, multiplied by 100.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Percent Change From Baseline</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Percent Change From Nadir" nciodm:ExtCodeID="C96622">
+                    <nciodm:CDISCSynonym>Percent Change From Nadir</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The (current value minus the lowest value previously recorded) divided by the lowest value previously recorded, multiplied by 100.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Percent Change From Nadir</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Percent Change Nadir in Sum Longest Diam" nciodm:ExtCodeID="C112374">
+                    <nciodm:CDISCSynonym>Percent Change Nadir in Sum Longest Diam</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The (current sum of longest diameters minus the lowest sum of longest diameters previously recorded) divided by the lowest sum of longest diameters previously recorded, multiplied by 100.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Percent Change From Nadir in Sum of Longest Diameter</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Percent Change Nadir in Sum of Diam" nciodm:ExtCodeID="C112373">
+                    <nciodm:CDISCSynonym>Percent Change Nadir in Sum of Diam</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The (current sum of diameters minus the lowest sum of diameters previously recorded) divided by the lowest sum of diameters previously recorded, multiplied by 100.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Percent Change From Nadir in Sum of Diameter</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Radiodensity" nciodm:ExtCodeID="C96627">
+                    <nciodm:CDISCSynonym>Radiodensity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The transparency of a material to the passage of X-rays and other forms of radiation.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Radiodensity</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Short Axis" nciodm:ExtCodeID="C94982">
+                    <nciodm:CDISCSynonym>Short Axis</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The plane through a body or figure that is at the shortest width of that body or figure.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Short Axis</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Sum Diameters of Non Lymph Node Tumors" nciodm:ExtCodeID="C103441">
+                    <nciodm:CDISCSynonym>Sum Diameters of Non Lymph Node Tumors</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A calculation of the aggregated diameter values for tumors other than the lymph nodes.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Sum of Diameters of Non Lymph Node Tumors</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Sum of Area" nciodm:ExtCodeID="C96630">
+                    <nciodm:CDISCSynonym>Sum of Area</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Sum of Products of Perpendicular Diameters</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A calculation of the aggregated area values.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Sum of Areas</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Sum of Diameter" nciodm:ExtCodeID="C96631">
+                    <nciodm:CDISCSynonym>Sum of Diameter</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A calculation of the aggregated diameter values.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Sum of Diameters</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Sum of Longest Diameter" nciodm:ExtCodeID="C96632">
+                    <nciodm:CDISCSynonym>Sum of Longest Diameter</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A calculation of the aggregated longest diameter values.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Sum of Longest Diameters</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Sum of Longest Perpendicular" nciodm:ExtCodeID="C96633">
+                    <nciodm:CDISCSynonym>Sum of Longest Perpendicular</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A calculation of the aggregated longest perpendicular values.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Sum of Longest Perpendiculars</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Sum of Viable Diameter" nciodm:ExtCodeID="C96634">
+                    <nciodm:CDISCSynonym>Sum of Viable Diameter</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A calculation of the aggregated diameter values taken from the viable portion of the tumor mass.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Sum of Viable Diameters</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Sum of Volume" nciodm:ExtCodeID="C96635">
+                    <nciodm:CDISCSynonym>Sum of Volume</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A calculation of the aggregated volume values.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Sum of Volumes</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Tumor State" nciodm:ExtCodeID="C96643">
+                    <nciodm:CDISCSynonym>Tumor State</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A condition or state of a tumor at a particular time.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Tumor Status</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Vessel Failure Indicator" nciodm:ExtCodeID="C119557">
+                    <nciodm:CDISCSynonym>Vessel Failure Indicator</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An indication as to whether vessel failure occurred.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Vessel Failure Indicator</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Vessel Patency Indicator" nciodm:ExtCodeID="C119558">
+                    <nciodm:CDISCSynonym>Vessel Patency Indicator</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An indication as to whether an artery is patent (free of TLR or restenosis) following intervention.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Vessel Patency Indicator</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Vessel Revascularization Indicator" nciodm:ExtCodeID="C119559">
+                    <nciodm:CDISCSynonym>Vessel Revascularization Indicator</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An indication as to whether repeat revascularization of an artery containing a lesion occurred.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Vessel Revascularization Indicator</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Viable Diameter" nciodm:ExtCodeID="C96646">
+                    <nciodm:CDISCSynonym>Viable Diameter</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The diameter of the portion of the tumor mass that is capable of growth, proliferation and metastasis.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Viable Tumor Diameter</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Volume" nciodm:ExtCodeID="C25335">
+                    <nciodm:CDISCSynonym>Volume</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The amount of three dimensional space occupied by an object or the capacity of a space or container. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Volume</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>TRTEST</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Tumor or Lesion Properties Test Name</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Tumor or Lesion Properties Test Name Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

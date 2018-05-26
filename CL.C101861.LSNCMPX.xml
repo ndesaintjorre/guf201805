@@ -1,0 +1,24 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C101861.LSNCMPX" Name="Lesion Complexity" DataType="text" nciodm:ExtCodeID="C101861" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Terminology related to the risk of percutaneous coronary intervention for a particular lesion.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="ACC/AHA LESION COMPLEXITY SCORE A" nciodm:ExtCodeID="C100037">
+                    <nciodm:CDISCSynonym>Low Risk</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Discrete (less than 10 mm length) and concentric and readily accessible and non-angulated segment less than 45 degrees and smooth contour and little or no calcification and less than totally occlusive and not ostial in location and no major branch involvement and absence of thrombus.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>American College of Cardiology/American Heart Association Lesion Complexity Score A</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ACC/AHA LESION COMPLEXITY SCORE B" nciodm:ExtCodeID="C100038">
+                    <nciodm:CDISCSynonym>Medium Risk</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Tubular (10-20 mm length) or eccentric or moderate tortuosity of proximal segment or moderately angulated segment, 45-90 degrees or irregular contour or moderate to heavy calcification or ostial in location or bifurcation lesions requiring double guidewires or some thrombus present or total occlusion less than3 months old.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>American College of Cardiology/American Heart Association Lesion Complexity Score B</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ACC/AHA LESION COMPLEXITY SCORE C" nciodm:ExtCodeID="C100039">
+                    <nciodm:CDISCSynonym>High Risk</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Diffuse (length greater than 2cm) or excessive tortuosity of proximal segment or extremely angulated segments greater than 90 degrees or total occlusions greater than 3 months old and/or bridging collaterals or inability to protect major side branches or degenerated vein grafts with friable lesions.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>American College of Cardiology/American Heart Association Lesion Complexity Score C</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>LSNCMPX</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Lesion Complexity</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Lesion Complexity Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

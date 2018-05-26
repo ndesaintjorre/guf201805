@@ -1,0 +1,89 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C106478.RPTEST" Name="Reproductive System Findings Test Name" DataType="text" nciodm:ExtCodeID="C106478" nciodm:CodeListExtensible="Yes">
+                <Description>
+                    <TranslatedText xml:lang="en">A terminology codelist for the physiological test names related to the male and female reproductive systems.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="Birth Control Method" nciodm:ExtCodeID="C106501">
+                    <nciodm:CDISCSynonym>Birth Control Method</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The method by which conception or impregnation is prevented.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Birth Control Method</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Childbearing Potential" nciodm:ExtCodeID="C106508">
+                    <nciodm:CDISCSynonym>Childbearing Potential</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An indicator as to whether the female subject has the potential to become pregnant. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Childbearing Potential</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Estimated Date of Conception" nciodm:ExtCodeID="C120833">
+                    <nciodm:CDISCSynonym>Estimated Date of Conception</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An approximate calculated date at which the conception event took place.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Estimated Date of Conception</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Menarche Age" nciodm:ExtCodeID="C19666">
+                    <nciodm:CDISCSynonym>Menarche Age</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The age at which the first menstruation event occurred. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Age at Menarche</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Menopause Age" nciodm:ExtCodeID="C106497">
+                    <nciodm:CDISCSynonym>Menopause Age</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The age at which permanent cessation of menses occurred. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Age at Menopause</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Menopause Status" nciodm:ExtCodeID="C106541">
+                    <nciodm:CDISCSynonym>Menopause Status</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The status of a female with respect to menopause.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Menopause Status</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Menstrual Cycle Duration" nciodm:ExtCodeID="C119549">
+                    <nciodm:CDISCSynonym>Menstrual Cycle Duration</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The length of time of the menses cycle, measured from the beginning of one menstrual period to the beginning of the next.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Menstrual Cycle Duration</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Number of Abortions" nciodm:ExtCodeID="C106550">
+                    <nciodm:CDISCSynonym>Number of Abortions</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the total number of instances in which there has been a spontaneous termination of pregnancy (miscarriage) or elective termination of pregnancy.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Number of Abortions</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Number of Ectopic Pregnancies" nciodm:ExtCodeID="C120832">
+                    <nciodm:CDISCSynonym>Number of Ectopic Pregnancies</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the total number of ectopic pregnancies experienced by a female subject.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Number of Ectopic Pregnancies</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Number of Induced Abortions" nciodm:ExtCodeID="C120835">
+                    <nciodm:CDISCSynonym>Number of Induced Abortions</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the total number of induced abortions experienced by a female subject.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Number of Induced Abortions</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Number of Late Fetal Deaths" nciodm:ExtCodeID="C120834">
+                    <nciodm:CDISCSynonym>Number of Late Fetal Deaths</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the total number of fetal deaths (in which the fetus is greater than or equal to 20 weeks gestational age) experienced by a female subject.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Number of Late Fetal Deaths</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Number of Live Births" nciodm:ExtCodeID="C16955">
+                    <nciodm:CDISCSynonym>Number of Live Births</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the total number of live-born offspring a female has delivered.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Parity</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Number of Pregnancies" nciodm:ExtCodeID="C106551">
+                    <nciodm:CDISCSynonym>Number of Pregnancies</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the total number of pregnancy events experienced by a female.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Number of Pregnancies</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Number of Previous Pregnancies" nciodm:ExtCodeID="C120836">
+                    <nciodm:CDISCSynonym>Number of Previous Pregnancies</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the total number of pregnancy events experienced by the female subject prior to the current pregnancy.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Number of Previous Pregnancies</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Number of Spontaneous Abortions" nciodm:ExtCodeID="C120837">
+                    <nciodm:CDISCSynonym>Number of Spontaneous Abortions</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the total number of spontaneous abortions (in which the fetus is less than 20 weeks gestational age) experienced by a female subject.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Number of Spontaneous Abortions</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Pregnant During the Study" nciodm:ExtCodeID="C106561">
+                    <nciodm:CDISCSynonym>Pregnant During the Study</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An indicator as to whether a female is pregnant during the study period. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Pregnant During the Study</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>RPTEST</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Reproductive System Findings Test Name</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Reproductive System Findings Test Name Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

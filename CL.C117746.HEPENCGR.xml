@@ -1,0 +1,29 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C117746.HEPENCGR" Name="West Haven Hepatic Encephalopathy Grade" DataType="text" nciodm:ExtCodeID="C117746" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">A grading system to describe the severity of hepatic encephalopathy based on the level of mental status by the West Haven Hepatic Encephalopathy Grade.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="GRADE 0" nciodm:ExtCodeID="C117824">
+                    <nciodm:CDISCDefinition>Minimal - symptoms or pathological characteristics include minimal hepatic encephalopathy, lack of detectable changes in personality or behavior, minimal changes in memory, concentration and intellectual function, and absence of coordination asterixis. (Adapted from: Hepatic Encephalopathy. David C Wolf. http://emedicine.medscape.com/article/186101-overview)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>West Haven Hepatic Encephalopathy Grade 0</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="GRADE 1" nciodm:ExtCodeID="C117825">
+                    <nciodm:CDISCDefinition>Mild - symptoms or pathological characteristics include trivial lack of awareness, shortened attention span, impaired ability to perform addition or subtraction, hypersomnia, insomnia, or inversion of sleep pattern, euphoria, depression or irritability, mild confusion, slowing of ability to perform mental tasks. (Adapted from: Hepatic Encephalopathy. David C Wolf. http://emedicine.medscape.com/article/186101-overview.)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>West Haven Hepatic Encephalopathy Grade 1</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="GRADE 2" nciodm:ExtCodeID="C117826">
+                    <nciodm:CDISCDefinition>Moderate - symptoms or pathological characteristics include lethargy or apathy, disorientation, inappropriate behavior, slurred speech, obvious asterixis, drowsiness, lethargy, gross deficits in ability to perform mental tasks, obvious personality changes, inappropriate behavior, and intermittent disorientation, unsurely regarding time. (Adapted from: Hepatic Encephalopathy. David C Wolf. http://emedicine.medscape.com/article/186101-overview.)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>West Haven Hepatic Encephalopathy Grade 2</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="GRADE 3" nciodm:ExtCodeID="C117827">
+                    <nciodm:CDISCDefinition>Severe - symptoms or pathological characteristics include somnolence with some arousability, inability to perform mental tasks, disorientation about time and place, marked confusion, amnesia, occasional fits of rage, present but incomprehensible speech. (Adapted from: Hepatic Encephalopathy. David C Wolf. http://emedicine.medscape.com/article/186101-overview.)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>West Haven Hepatic Encephalopathy Grade 3</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="GRADE 4" nciodm:ExtCodeID="C117828">
+                    <nciodm:CDISCDefinition>Coma - symptoms or pathological characteristics include coma with or without response to painful stimuli. (Adapted from: Hepatic Encephalopathy. David C Wolf. http://emedicine.medscape.com/article/186101-overview.)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>West Haven Hepatic Encephalopathy Grade 4</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>HEPENCGR</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>West Haven Hepatic Encephalopathy Grade</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM West Haven Hepatic Encephalopathy Grade Terminology</nciodm:PreferredTerm>
+            </CodeList>
+        

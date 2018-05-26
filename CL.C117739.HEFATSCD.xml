@@ -1,0 +1,14 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C117739.HEFATSCD" Name="Hepatic Findings About Test Code" DataType="text" nciodm:ExtCodeID="C117739" nciodm:CodeListExtensible="Yes">
+                <Description>
+                    <TranslatedText xml:lang="en">Terminology relevant to the test codes that describe hepatic findings.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="WHHEGR" nciodm:ExtCodeID="C117747">
+                    <nciodm:CDISCSynonym>West Haven Hepatic Encephalopathy Grade</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A grading system to describe the severity of hepatic encephalopathy based on the level of mental status, per the West Haven Criteria. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>West Haven Hepatic Encephalopathy Grade</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>HEFATSCD</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Hepatic Findings About Test Code</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Hepatic Findings About Test Code Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

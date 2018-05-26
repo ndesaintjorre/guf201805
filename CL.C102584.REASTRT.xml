@@ -1,0 +1,26 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C102584.REASTRT" Name="Reason For Treatment" DataType="text" nciodm:ExtCodeID="C102584" nciodm:CodeListExtensible="Yes">
+                <Description>
+                    <TranslatedText xml:lang="en">Terminology relevant to the reason the treatment was administered.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="FAILURE AFTER FIRST TREATMENT" nciodm:ExtCodeID="C102635">
+                    <nciodm:CDISCDefinition>A lack of response to the first cycle of therapy.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Failure After First Treatment</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAILURE AFTER MULTIPLE TREATMENTS" nciodm:ExtCodeID="C102636">
+                    <nciodm:CDISCDefinition>A lack of response to more than one cycle of therapy.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Failure After Multiple Treatments</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PREVIOUS PATIENT NONCOMPLIANCE" nciodm:ExtCodeID="C102698">
+                    <nciodm:CDISCDefinition>A previous episode of failure by a patient to follow medical advice, take medication as directed, or adhere to a prescribed course of treatment.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Previous Patient Noncompliance</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="RECURRENT DISEASE" nciodm:ExtCodeID="C38155">
+                    <nciodm:CDISCSynonym>Recurrent Disease</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The return of a disease after a period of remission.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Recurrent Disease</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>REASTRT</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Reason For Treatment</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Reason For Treatment Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

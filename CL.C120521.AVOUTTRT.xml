@@ -1,0 +1,48 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C120521.AVOUTTRT" Name="Anti-Viral Outcome of Treatment" DataType="text" nciodm:ExtCodeID="C120521" nciodm:CodeListExtensible="Yes">
+                <Description>
+                    <TranslatedText xml:lang="en">A terminology codelist to describe the anti-viral outcome of treatment.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="RAPID VIROLOGIC RESPONSE" nciodm:ExtCodeID="C120597">
+                    <nciodm:CDISCSynonym>RVR</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A finding of aviremia at a specified timepoint, early during the treatment period.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Rapid Virologic Response</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUSTAINED VIROLOGIC RESPONSE" nciodm:ExtCodeID="C120598">
+                    <nciodm:CDISCSynonym>SVR</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A finding of aviremia at a predetermined time point after the end of planned or actual treatment.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Sustained Virologic Response</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="VIRAL BREAKTHROUGH" nciodm:ExtCodeID="C120599">
+                    <nciodm:CDISCSynonym>VBT</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The subject becomes viremic during the treatment period after a period of treatment-induced aviremia or has an increase in viral load from nadir above a predetermined threshold during the treatment period.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Viral Breakthrough</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="VIRAL RELAPSE" nciodm:ExtCodeID="C120600">
+                    <nciodm:CDISCDefinition>A recurrence of the same virus after a finding of aviremia at the end of planned or actual treatment.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Viral Relapse</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="VIROLOGIC END OF TREATMENT RESPONSE" nciodm:ExtCodeID="C120601">
+                    <nciodm:CDISCDefinition>A finding of aviremia at the end of the planned or actual end of treatment period.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Virologic End Of Treatment Response</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="VIROLOGIC FAILURE" nciodm:ExtCodeID="C120602">
+                    <nciodm:CDISCDefinition>A finding of viremia at or after end of planned or actual treatment, excluding treatment discontinuations for non-virologic reasons.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Virologic Failure</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="VIROLOGIC NON-RESPONSE" nciodm:ExtCodeID="C120603">
+                    <nciodm:CDISCDefinition>The subject remains viremic during the treatment period.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Virologic Non-Response</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="VIROLOGIC NULL-RESPONSE" nciodm:ExtCodeID="C120604">
+                    <nciodm:CDISCDefinition>The subject remains viremic during the treatment period and the decrease in viral load from baseline at a specified timepoint is below or equal to a predetermined threshold.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Virologic Null-Response</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="VIROLOGIC PARTIAL RESPONSE" nciodm:ExtCodeID="C120605">
+                    <nciodm:CDISCDefinition>The subject remains viremic during the treatment period and the decrease in viral load from baseline at a specified timepoint is above a predetermined threshold.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Virologic Partial Response</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>AVOUTTRT</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Anti-Viral Outcome of Treatment</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Anti-Viral Outcome of Treatment Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

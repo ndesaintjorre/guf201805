@@ -1,0 +1,33 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C101865.ACSPCAT" Name="Acute Coronary Syndrome Presentation Category" DataType="text" nciodm:ExtCodeID="C101865" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">A classification of the presentation of acute coronary syndrome.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="NON-ST ELEVATION MYOCARDIAL INFARCTION" nciodm:ExtCodeID="C80383">
+                    <nciodm:CDISCSynonym>NON-STEMI</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>NSTEMI</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A myocardial infarction that does not produce elevation in the ST segments of the ECG.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Non-ST Elevation Myocardial Infarction by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="OTHER" nciodm:ExtCodeID="C17649">
+                    <nciodm:CDISCSynonym>Other</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Different than the one(s) previously specified or mentioned. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Other</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ST ELEVATION MYOCARDIAL INFARCTION" nciodm:ExtCodeID="C101888">
+                    <nciodm:CDISCSynonym>STEMI</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A myocardial infarction that produces elevation in the ST segments of the ECG.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ST Elevation Myocardial Infarction by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="STABLE ANGINA" nciodm:ExtCodeID="C66914">
+                    <nciodm:CDISCDefinition>Angina pectoris which has not recently changed in frequency, duration or intensity. Stable angina pectoris is relieved by rest or administration of oral, sublingual or transdermal antianginal medications.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Stable Angina</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UNSTABLE ANGINA" nciodm:ExtCodeID="C66911">
+                    <nciodm:CDISCDefinition>Angina pectoris (or equivalent type of ischemic discomfort) which has recently changed in frequency, duration, intensity, or occurs at rest.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Unstable Angina</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>ACSPCAT</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Acute Coronary Syndrome Presentation Category</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Acute Coronary Syndrome Presentation Category Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

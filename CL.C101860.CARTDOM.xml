@@ -1,0 +1,21 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C101860.CARTDOM" Name="Coronary Artery Dominance" DataType="text" nciodm:ExtCodeID="C101860" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">A codelist to describe the pattern of the epicardial vessels supplying the posterior descending artery and the posterolateral branches.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="CO-DOMINANT" nciodm:ExtCodeID="C99941">
+                    <nciodm:CDISCDefinition>The right coronary artery supplies the posterior descending artery and the circumflex supplies the posterolateral branches.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Co-Dominant Artery</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEFT DOMINANT" nciodm:ExtCodeID="C99971">
+                    <nciodm:CDISCDefinition>The left circumflex artery supplies the posterior descending artery and the posterolateral branches.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Left Cardiac Artery Dominance</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="RIGHT DOMINANT" nciodm:ExtCodeID="C99942">
+                    <nciodm:CDISCDefinition>The right coronary artery supplies the posterior descending artery and the posterolateral branches.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Coronary Artery Right Dominance</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>CARTDOM</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Coronary Artery Dominance</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Coronary Artery Dominance Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

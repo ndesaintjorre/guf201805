@@ -1,0 +1,25 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C101854.CVLSTSEV" Name="Cardiac Valvular Stenosis Severity" DataType="text" nciodm:ExtCodeID="C101854" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">A terminology codelist to describe the severity of cardiac valvular stenosis.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="MILD CARDIAC VALVE STENOSIS" nciodm:ExtCodeID="C99986">
+                    <nciodm:CDISCDefinition>The cardiac valve orifice is abnormally narrow, to a mild degree.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Mild Cardiac Valve Stenosis</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MODERATE CARDIAC VALVE STENOSIS" nciodm:ExtCodeID="C99990">
+                    <nciodm:CDISCDefinition>The cardiac valve orifice is abnormally narrow, to a moderate degree.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Moderate Cardiac Valve Stenosis</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NO CARDIAC VALVE STENOSIS" nciodm:ExtCodeID="C99992">
+                    <nciodm:CDISCDefinition>The cardiac valve orifice is not abnormally narrow.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>No Cardiac Valve Stenosis</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SEVERE CARDIAC VALVE STENOSIS" nciodm:ExtCodeID="C100013">
+                    <nciodm:CDISCDefinition>The cardiac valve orifice is abnormally narrow, to a severe degree.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Severe Cardiac Valve Stenosis</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>CVLSTSEV</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Cardiac Valvular Stenosis Severity</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Cardiac Valvular Stenosis Severity Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

@@ -1,0 +1,61 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C102587.RISKSOC" Name="Social Risk Factor" DataType="text" nciodm:ExtCodeID="C102587" nciodm:CodeListExtensible="Yes">
+                <Description>
+                    <TranslatedText xml:lang="en">Terminology relevant to the social factors such as personal behavior, lifestyle, or environment belonging to the subject which are known to increase the likelihood of infection and disease.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="CONTACT WITH TUBERCULOSIS SOURCE" nciodm:ExtCodeID="C102714">
+                    <nciodm:CDISCDefinition>An individual that came into contact with a source of Tuberculosis.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Subject in Contact With Tuberculosis Source</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CURRENT OR RECENT EMPLOYEE OR VOLUNTEER IN HOMELESS SHELTER" nciodm:ExtCodeID="C102613">
+                    <nciodm:CDISCDefinition>An individual who is presently or not long ago worked or offered to assist without pay at a temporary housing facility for persons without a stable or permanent residence.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Current or Recent Employee or Volunteer in Homeless Shelter</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CURRENT OR RECENT EMPLOYEE OR VOLUNTEER IN JAIL OR PRISON" nciodm:ExtCodeID="C102614">
+                    <nciodm:CDISCDefinition>An individual who is presently or not long ago worked or offered to assist without pay at an institution where persons are confined for punishment and to protect the public.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Current or Recent Employee or Volunteer in Jail or Prison</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CURRENT OR RECENT EMPLOYEE OR VOLUNTEER IN NURSING HOME" nciodm:ExtCodeID="C102615">
+                    <nciodm:CDISCDefinition>An individual who is presently or not long ago worked or offered to assist without pay at a residential health care facility for persons with chronic illness or disability.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Current or Recent Employee or Volunteer in Nursing Home</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HOMELESS DURING PAST YEAR" nciodm:ExtCodeID="C102645">
+                    <nciodm:CDISCDefinition>An individual without a stable or permanent residence within the last 365 days.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Homeless During Past Year</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IMMIGRANT FROM HIGH TUBERCULOSIS PREVALENT AREA" nciodm:ExtCodeID="C102648">
+                    <nciodm:CDISCDefinition>An individual that has migrated from a country with a high occurrence of tuberculosis.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Immigrant From High Tuberculosis Prevalent Area</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="INCARCERATION" nciodm:ExtCodeID="C85521">
+                    <nciodm:CDISCDefinition>The state of being confined to jail or prison.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Incarceration</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LIVED IN REFUGEE CAMP" nciodm:ExtCodeID="C102657">
+                    <nciodm:CDISCDefinition>An individual that resided in a camp for those displaced from their homeland.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Lived in Refugee Camp</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LONG-TERM FACILITY RESIDENT" nciodm:ExtCodeID="C102660">
+                    <nciodm:CDISCDefinition>An individual that lives at a healthcare facility that provides rehabilitative, restorative, and/or ongoing skilled nursing care to patients or residents in need of assistance with activities of daily living.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Long-term Facility Resident</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MIGRATORY WORKER" nciodm:ExtCodeID="C102670">
+                    <nciodm:CDISCDefinition>An individual who moves from one location to another location within or outside of their homeland for work.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Migratory Worker</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="REFUGEE FROM HIGH TUBERCULOSIS PREVALENT AREA" nciodm:ExtCodeID="C102705">
+                    <nciodm:CDISCDefinition>An individual that has fled a country for their own safety which has a high occurrence of tuberculosis.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Refugee From High Tuberculosis Prevalent Area</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TRAVEL TO HIGH BURDEN COUNTRY" nciodm:ExtCodeID="C102719">
+                    <nciodm:CDISCDefinition>Entry into one or more of the 22 countries that have a relatively high prevalence of tuberculosis cases.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Travel To High Burden Tuberculosis Country</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UNEMPLOYMENT" nciodm:ExtCodeID="C75563">
+                    <nciodm:CDISCDefinition>The state of not having a job.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Unemployment</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>RISKSOC</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Social Risk Factor</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Social Risk Factor Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

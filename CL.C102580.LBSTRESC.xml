@@ -1,0 +1,30 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C102580.LBSTRESC" Name="Laboratory Test Standard Character Result" DataType="text" nciodm:ExtCodeID="C102580" nciodm:CodeListExtensible="Yes">
+                <Description>
+                    <TranslatedText xml:lang="en">Terminology relevant to the standardized results, in character format, for laboratory tests.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="BORDERLINE" nciodm:ExtCodeID="C14157">
+                    <nciodm:CDISCDefinition>Straddling the dividing line between two categories.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Borderline</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="INDETERMINATE" nciodm:ExtCodeID="C48658">
+                    <nciodm:CDISCSynonym>Inconclusive</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Cannot distinguish between two or more possible values in the current context. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Indeterminate</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="INVALID" nciodm:ExtCodeID="C50913">
+                    <nciodm:CDISCDefinition>Not valid data.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Invalid Data</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NEGATIVE" nciodm:ExtCodeID="C38757">
+                    <nciodm:CDISCDefinition>A finding of normality following an examination or investigation looking for the presence of a microorganism, disease, or condition.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Negative Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="POSITIVE" nciodm:ExtCodeID="C38758">
+                    <nciodm:CDISCDefinition>An observation confirming something, such as the presence of a disease, condition, or microorganism.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Positive Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>LBSTRESC</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Laboratory Test Standard Character Result</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Laboratory Test Standard Character Result Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

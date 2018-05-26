@@ -1,0 +1,25 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C102585.REASTRTF" Name="Treatment Failure Reason" DataType="text" nciodm:ExtCodeID="C102585" nciodm:CodeListExtensible="Yes">
+                <Description>
+                    <TranslatedText xml:lang="en">Terminology relevant to the reason the drug or therapy was unsuccessful in treating the condition.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="ANTIBIOTIC RESISTANCE" nciodm:ExtCodeID="C17449">
+                    <nciodm:CDISCDefinition>The mechanisms, functions, activities, or processes exhibited by microorganisms, especially bacteria, to resist or to become tolerant to antibiotics.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Antibiotic Resistance</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRUG INTERRUPTED" nciodm:ExtCodeID="C49501">
+                    <nciodm:CDISCDefinition>An indication that a medication schedule was modified by temporarily terminating a prescribed regimen of medication. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Drug Interrupted</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PATIENT NONCOMPLIANCE" nciodm:ExtCodeID="C91752">
+                    <nciodm:CDISCDefinition>Failure of a patient to follow medical advice, take medication as directed, or adhere to a prescribed course of treatment.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Patient Noncompliance</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUB-THERAPEUTIC DRUG LEVEL" nciodm:ExtCodeID="C102715">
+                    <nciodm:CDISCDefinition>A drug serum concentration below therapeutic levels.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Sub-therapeutic Drug Level</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>REASTRTF</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Treatment Failure Reason</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Treatment Failure Reason Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

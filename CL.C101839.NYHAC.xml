@@ -1,0 +1,29 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C101839.NYHAC" Name="New York Heart Association Classification" DataType="text" nciodm:ExtCodeID="C101839" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">A terminology codelist based on the functional classification developed by the New York Heart Association (NYHA), for categorizing patients with defined or presumed cardiac disease.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="NYHA CLASS I" nciodm:ExtCodeID="C66904">
+                    <nciodm:CDISCSynonym>New York Heart Association Class I</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Without limitations of physical activity. Ordinary physical activity does not cause undue fatigue, palpitations, or dyspnea.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>New York Heart Association Class I</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NYHA CLASS II" nciodm:ExtCodeID="C66905">
+                    <nciodm:CDISCSynonym>New York Heart Association Class II</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Slight limitation of physical activity. The patient is comfortable at rest. Ordinary physical activity results in fatigue, palpitations, or dyspnea.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>New York Heart Association Class II</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NYHA CLASS III" nciodm:ExtCodeID="C66907">
+                    <nciodm:CDISCSynonym>New York Heart Association Class III</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Marked limitation of physical activity. The patient is comfortable at rest. Less than ordinary activity causes fatigue, palpitations, or dyspnea.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>New York Heart Association Class III</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NYHA CLASS IV" nciodm:ExtCodeID="C66908">
+                    <nciodm:CDISCSynonym>New York Heart Association Class IV</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Inability to carry on any physical activity without discomfort. Heart failure symptoms are present even at rest or with minimal exertion.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>New York Heart Association Class IV</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>NYHAC</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>New York Heart Association Classification</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM New York Heart Association Class Responses Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

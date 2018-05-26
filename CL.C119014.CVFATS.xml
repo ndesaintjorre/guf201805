@@ -1,0 +1,99 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C119014.CVFATS" Name="Cardiovascular Findings About Test Name" DataType="text" nciodm:ExtCodeID="C119014" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Terminology relevant to the test names that describe findings about a cardiovascular event or intervention.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="Acute Myocardial Infarction Type" nciodm:ExtCodeID="C118936">
+                    <nciodm:CDISCSynonym>Acute Myocardial Infarction Type</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Categorization of the type of acute myocardial infarction.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Acute Myocardial Infarction Type</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Coronary Artery Thrombosis Method Ident" nciodm:ExtCodeID="C119229">
+                    <nciodm:CDISCSynonym>Coronary Artery Thrombosis Method Ident</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The method by which the coronary artery thrombosis event is determined or diagnosed.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Coronary Artery Thrombosis Method of Identification</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Endpoint Event Indicator" nciodm:ExtCodeID="C119230">
+                    <nciodm:CDISCSynonym>Endpoint Event Indicator</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An indication as to whether the event meets the criteria for being a clinical endpoint.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Endpoint Event Indicator</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Exclusion of Type 1 and Type 2 MI" nciodm:ExtCodeID="C119237">
+                    <nciodm:CDISCSynonym>Exclusion of Type 1 and Type 2 MI</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An indication of whether a Type 1 and Type 2 myocardial infarction is excluded as a diagnosis.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Exclusion of Type 1 and Type 2 Myocardial Infarction Diagnosis Indicator</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Healthcare Encounter Type" nciodm:ExtCodeID="C119231">
+                    <nciodm:CDISCSynonym>Healthcare Encounter Type</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Categorization of the type of healthcare encounter.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Healthcare Encounter Type</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Heart Failure New/Worsening Lab Findings" nciodm:ExtCodeID="C119232">
+                    <nciodm:CDISCSynonym>Heart Failure New/Worsening Lab Findings</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Categorization of the type(s) of new and/or worsening laboratory findings of heart failure present at the time of patient presentation.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Lab Findings of New or Worsening Heart Failure</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Heart Failure New/Worsening PE Findings" nciodm:ExtCodeID="C119233">
+                    <nciodm:CDISCSynonym>Heart Failure New/Worsening PE Findings</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Categorization of the type(s) of new and/or worsening physical exam findings of heart failure present at the time of patient presentation.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Physical Examination Findings of New or Worsening Heart Failure</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Heart Failure Therapy, Intensification" nciodm:ExtCodeID="C119234">
+                    <nciodm:CDISCSynonym>Heart Failure Therapy, Intensification</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Categorization of the type(s) of new and/or intensified treatment administered for heart failure management.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Heart Failure Therapy Intensification Type</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Ischemic Discomfort Indicator" nciodm:ExtCodeID="C119235">
+                    <nciodm:CDISCSynonym>Ischemic Discomfort Indicator</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An indicator as to whether the subject has symptoms of ischemic discomfort.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Ischemic Discomfort Indicator</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Ischemic Evidence Type" nciodm:ExtCodeID="C119236">
+                    <nciodm:CDISCSynonym>Ischemic Evidence Type</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Categorization of the type of objective evidence of new or worsening ischemia.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Ischemic Evidence Type</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="New or Worsening Symptoms" nciodm:ExtCodeID="C119238">
+                    <nciodm:CDISCSynonym>New or Worsening Symptoms</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A description of the new or worsening symptoms related to a clinical event.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>New or Worsening Symptom</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PCI Acute Angiographic Complication" nciodm:ExtCodeID="C119239">
+                    <nciodm:CDISCSynonym>PCI Acute Angiographic Complication</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Categorization of the type of acute PCI angiographic complication resulting in acute myocardial ischemia.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Acute Myocardial Infarction From PCI Complication Type</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Procedure Success Indicator" nciodm:ExtCodeID="C119240">
+                    <nciodm:CDISCSynonym>Procedure Success Indicator</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An indication as to whether the procedure is considered successful.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Procedure Success Indicator</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Procedure Urgency Status Type" nciodm:ExtCodeID="C101230">
+                    <nciodm:CDISCSynonym>Procedure Urgency Status Type</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The degree of urgency in which a medical procedure must be performed.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Triage Status</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Stroke Type" nciodm:ExtCodeID="C119579">
+                    <nciodm:CDISCSynonym>Stroke Type</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Categorization of the type of stroke.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Stroke Type</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Symptom Indicator" nciodm:ExtCodeID="C119241">
+                    <nciodm:CDISCSynonym>Symptom Indicator</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An indication as to whether the subject had symptoms related to the clinical event.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Symptom Indicator</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Symptom Onset Date" nciodm:ExtCodeID="C119242">
+                    <nciodm:CDISCSynonym>Symptom Onset Date</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The date time of the onset of symptoms of the clinical event.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Symptom Onset Date</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Vessel Occlusion After CABG 48 Ind" nciodm:ExtCodeID="C119243">
+                    <nciodm:CDISCSynonym>Vessel Occlusion After CABG 48 Ind</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An indication as to whether vessel occlusion, in the native or bypass graft, occurred within 48 hours after the coronary artery bypass graft procedure.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Vessel Occlusion 48 Hours after CABG Indicator</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>CVFATS</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Cardiovascular Findings About Test Name</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Cardiovascular Findings About Test Name Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

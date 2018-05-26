@@ -1,0 +1,25 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C101853.CVLVRSEV" Name="Cardiac Valvular Regurgitation Severity" DataType="text" nciodm:ExtCodeID="C101853" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">A terminology codelist to describe the severity of cardiac valvular regurgitation.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="MILD CARDIAC VALVE REGURGITATION" nciodm:ExtCodeID="C99985">
+                    <nciodm:CDISCDefinition>Evidence of mild retrograde blood flow through the valve(s) of the heart.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Mild Cardiac Valve Regurgitation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MODERATE CARDIAC VALVE REGURGITATION" nciodm:ExtCodeID="C99989">
+                    <nciodm:CDISCDefinition>Evidence of moderate retrograde blood flow through the valve(s) of the heart.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Moderate Cardiac Valve Regurgitation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NO CARDIAC VALVE REGURGITATION" nciodm:ExtCodeID="C99991">
+                    <nciodm:CDISCDefinition>No evidence of any retrograde blood flow through the valve(s) in the heart.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>No Cardiac Valve Regurgitation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SEVERE CARDIAC VALVE REGURGITATION" nciodm:ExtCodeID="C100012">
+                    <nciodm:CDISCDefinition>Evidence of severe retrograde blood flow through the valve(s) of the heart.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Severe Cardiac Valve Regurgitation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>CVLVRSEV</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Cardiac Valvular Regurgitation Severity</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Cardiac Valvular Regurgitation Severity Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

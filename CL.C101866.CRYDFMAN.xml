@@ -1,0 +1,25 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C101866.CRYDFMAN" Name="Cardiac Rhythm Device Failure Manifestation" DataType="text" nciodm:ExtCodeID="C101866" nciodm:CodeListExtensible="Yes">
+                <Description>
+                    <TranslatedText xml:lang="en">The effect that a cardiac rhythm device malfunction had on the ability to stimulate the heart.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="ATRIAL PACING MALFUNCTION" nciodm:ExtCodeID="C99921">
+                    <nciodm:CDISCDefinition>The cardiac rhythm device malfunction affected atrial pacing.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Cardiac Atrial Pacing Malfunction</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DEFIBRILLATION MALFUNCTION" nciodm:ExtCodeID="C99923">
+                    <nciodm:CDISCDefinition>The cardiac rhythm device malfunction affected the defibrillator.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Cardiac Defibrillator Malfunction</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEFT VENTRICULAR PACING MALFUNCTION" nciodm:ExtCodeID="C99973">
+                    <nciodm:CDISCDefinition>The cardiac rhythm device malfunction affected the left ventricular (LV) pacing.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Left Cardiac Ventricular Pacing Malfunction</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="RIGHT VENTRICULAR PACING MALFUNCTION" nciodm:ExtCodeID="C100011">
+                    <nciodm:CDISCDefinition>The cardiac rhythm device malfunction affected the right ventricular (RV) pacing.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Right Cardiac Ventricle Pacing Malfunction</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>CRYDFMAN</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Cardiac Rhythm Device Failure Manifestation</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Cardiac Rhythm Device Failure Manifestation Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

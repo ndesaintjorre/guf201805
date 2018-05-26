@@ -1,0 +1,25 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C102586.RSTRTNA" Name="Reason Treatment Not Administered" DataType="text" nciodm:ExtCodeID="C102586" nciodm:CodeListExtensible="Yes">
+                <Description>
+                    <TranslatedText xml:lang="en">Terminology relevant to the reason the treatment was not administered.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="MEDICATION LOST" nciodm:ExtCodeID="C102663">
+                    <nciodm:CDISCDefinition>The medication is no longer held or possessed by the subject and is incapable of being recovered or regained.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Medication Lost</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NOT OFFERED" nciodm:ExtCodeID="C102682">
+                    <nciodm:CDISCDefinition>Is not an option.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Not Offered</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="REFUSE" nciodm:ExtCodeID="C49161">
+                    <nciodm:CDISCDefinition>To decline to do, accept, give, or allow something.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Refuse</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="RELOCATION" nciodm:ExtCodeID="C77951">
+                    <nciodm:CDISCDefinition>The act of changing your residence or place of business.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Relocation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>RSTRTNA</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Reason Treatment Not Administered</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Reason Treatment Not Administered Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

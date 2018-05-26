@@ -1,0 +1,25 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C101856.PRURGNCY" Name="Procedure Urgency Status" DataType="text" nciodm:ExtCodeID="C101856" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">A terminology codelist that describes the degree of urgency for a procedure.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="ELECTIVE" nciodm:ExtCodeID="C51996">
+                    <nciodm:CDISCDefinition>Elective procedures can be deferred without increased risk of compromised outcome. Patient's clinical condition is currently stable and has been stable in the days/weeks prior. The clinical situation does not demand that the procedure take place at a specified time.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Elective Surgical Procedure</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EMERGENCY" nciodm:ExtCodeID="C62648">
+                    <nciodm:CDISCDefinition>Emergency procedures must be performed as soon as possible because of substantial concerns that delay could lead to death. Clinical situation demands that procedure should be performed immediately or in next available room, even if it means another case must be rescheduled.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Emergency</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SALVAGE" nciodm:ExtCodeID="C15359">
+                    <nciodm:CDISCDefinition>Performing a salvage procedure is the last resort. The clinical situation involves either ongoing life support measures, life support measures for more than 60 seconds during the prior 10 minutes, or unanticipated institution of extracorporeal circulatory support.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Salvage Therapy</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="URGENT" nciodm:ExtCodeID="C100031">
+                    <nciodm:CDISCDefinition>Deferring an urgent procedure increases risk of adverse outcome or clinical deterioration. Clinical situation warrants performing urgent procedures during the current episode of care to avoid compromising patient safety.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Urgent Procedure</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>PRURGNCY</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Procedure Urgency Status</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Procedure Urgency Status Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

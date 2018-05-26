@@ -1,0 +1,14 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C116106.PFTESTCD" Name="Pharmacogenomics Findings Test Code" DataType="text" nciodm:ExtCodeID="C116106" nciodm:CodeListExtensible="Yes">
+                <Description>
+                    <TranslatedText xml:lang="en">Terminology relevant to the test codes that describe pharmacogenomics findings.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="ALLELE" nciodm:ExtCodeID="C16277">
+                    <nciodm:CDISCSynonym>Allele</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Mutually exclusive alternative forms of the same gene occupying the same locus on homologous chromosomes, differing in nucleotide sequence and governing the same biochemical and developmental process. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Allele</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>PFTESTCD</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Pharmacogenomics Findings Test Code</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Pharmacogenomics Findings Test Code Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

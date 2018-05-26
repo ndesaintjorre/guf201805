@@ -1,0 +1,49 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C112023.SRTEST" Name="Skin Response Test Name" DataType="text" nciodm:ExtCodeID="C112023" nciodm:CodeListExtensible="Yes">
+                <Description>
+                    <TranslatedText xml:lang="en">A terminology codelist based on the test names for dermal responses to antigens.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="Allergen Skin Response Index" nciodm:ExtCodeID="C112221">
+                    <nciodm:CDISCSynonym>Allergen Skin Response Index</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A relative measurement (ratio or percentage) of the allergen wheal size to the positive control wheal size in an allergen skin test.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Allergen Skin Response Index</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Allergen Skin Response Intensity" nciodm:ExtCodeID="C112222">
+                    <nciodm:CDISCSynonym>Allergen Skin Response Intensity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A semi-quantitative assessment of the intensity of the wheal and flare reaction.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Allergen Skin Response Intensity</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Flare Longest Diameter" nciodm:ExtCodeID="C112281">
+                    <nciodm:CDISCSynonym>Flare Longest Diameter</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The longest diameter of the area of redness that forms around the site of an antigenic challenge to the skin.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Flare Longest Diameter</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Flare Mean Diameter" nciodm:ExtCodeID="C112282">
+                    <nciodm:CDISCSynonym>Flare Mean Diameter</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The mean diameter of the area of redness that forms around the site of an antigenic challenge to the skin.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Flare Mean Diameter</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Flare Size" nciodm:ExtCodeID="C112283">
+                    <nciodm:CDISCSynonym>Flare Size</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The size of the area of redness that forms around the site of an antigenic challenge to the skin.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Flare Size</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Wheal Longest Diameter" nciodm:ExtCodeID="C112427">
+                    <nciodm:CDISCSynonym>Wheal Longest Diameter</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The longest diameter of the flat, circular, slightly raised area that forms around the site of an antigenic challenge to the skin.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Wheal Longest Diameter</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Wheal Mean Diameter" nciodm:ExtCodeID="C112428">
+                    <nciodm:CDISCSynonym>Wheal Mean Diameter</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The mean diameter of the flat, circular, slightly raised area that forms around the site of an antigenic challenge to the skin.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Wheal Mean Diameter</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Wheal Size" nciodm:ExtCodeID="C112429">
+                    <nciodm:CDISCSynonym>Wheal Size</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A semi-quantitative size assessment of the flat, circular, slightly raised area that forms around the site of an antigenic challenge to the skin.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Wheal Size</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>SRTEST</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Skin Response Test Name</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Skin Response Test Name Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

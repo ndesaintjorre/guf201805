@@ -1,0 +1,21 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C111110.DEACNDEV" Name="Device Events Action Taken with Device" DataType="text" nciodm:ExtCodeID="C111110" nciodm:CodeListExtensible="Yes">
+                <Description>
+                    <TranslatedText xml:lang="en">A terminology codelist based on the action taken with respect to the device.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="CALIBRATION" nciodm:ExtCodeID="C69187">
+                    <nciodm:CDISCDefinition>The act of checking or adjusting (by comparison with a standard) the accuracy of a measuring instrument. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Calibration</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="REMOVAL" nciodm:ExtCodeID="C61575">
+                    <nciodm:CDISCDefinition>The act of taking out, extracting, or withdrawing an entity from a location.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Extraction</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="REPROGRAMMING" nciodm:ExtCodeID="C111306">
+                    <nciodm:CDISCDefinition>The act of rewriting program code or application software. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Reprogram</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>DEACNDEV</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Device Events Action Taken with Device</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Device Events Action Taken with Device Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

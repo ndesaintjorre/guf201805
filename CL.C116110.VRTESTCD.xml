@@ -1,0 +1,54 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C116110.VRTESTCD" Name="Viral Resistance Findings Test Code" DataType="text" nciodm:ExtCodeID="C116110" nciodm:CodeListExtensible="Yes">
+                <Description>
+                    <TranslatedText xml:lang="en">Terminology used for virology test codes of the CDISC Study Data Tabulation Model.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="IC50FCB" nciodm:ExtCodeID="C116250">
+                    <nciodm:CDISCSynonym>IC50 Fold Change from Baseline</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A fold change based on a concentration of a specific drug expected to produce 50% inhibition of the standard growth of a viral organism, or of a biological/biochemical reaction. It is a ratio calculated by the current IC50 Subject Result divided by the IC50 Subject Result from the baseline visit.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Half Maximal Inhibitory Concentration Fold Change from Baseline Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IC50FCR" nciodm:ExtCodeID="C116249">
+                    <nciodm:CDISCSynonym>IC50 Fold Change from Reference</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A fold change based on a concentration of a specific drug expected to produce 50% inhibition of the standard growth of a viral organism, or of a biological/biochemical reaction. It is a ratio calculated by the IC50 Subject Result divided by the IC50 Reference Control Result.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Half Maximal Inhibitory Concentration Fold Change from Reference Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IC50R" nciodm:ExtCodeID="C116248">
+                    <nciodm:CDISCSynonym>IC50 Reference Control Result</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A reference control sample response based on a concentration of a specific drug expected to produce 50% inhibition of the standard growth of a viral organism, or of a biological/biochemical reaction.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Half Maximal Inhibitory Concentration Reference Control Result Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IC50S" nciodm:ExtCodeID="C116247">
+                    <nciodm:CDISCSynonym>IC50 Subject Result</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of titer of a viral organism or biological/biochemical reaction that has been exposed to a concentration of a specific drug expected to produce 50% inhibition of the standard growth of the viral organism, or of a reaction.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Half Maximal Inhibitory Concentration Subject Result Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IC95FCB" nciodm:ExtCodeID="C116254">
+                    <nciodm:CDISCSynonym>IC95 Fold Change from Baseline</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A fold change based on a concentration of a specific drug expected to produce 95% inhibition of the standard growth of a viral organism, or of a biological/biochemical reaction. It is a ratio calculated by the current IC95 Subject Result divided by the IC95 Subject Result from the baseline visit.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>95 Percent Maximal Inhibitory Concentration Fold Change from Baseline Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IC95FCR" nciodm:ExtCodeID="C116253">
+                    <nciodm:CDISCSynonym>IC95 Fold Change from Reference</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A fold change based on a concentration of a specific drug expected to produce 95% inhibition of the standard growth of a viral organism, or of a biological/biochemical reaction. It is a ratio calculated by the IC95 Subject Result divided by the IC95 Reference Control Result.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>95 Percent Maximal Inhibitory Concentration Fold Change from Reference Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IC95R" nciodm:ExtCodeID="C116252">
+                    <nciodm:CDISCSynonym>IC95 Reference Control Result</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A reference control sample response based on a concentration of a specific drug expected to produce 95% inhibition of the standard growth of a viral organism, or of a biological/biochemical reaction.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>95 Percent Maximal Inhibitory Concentration Reference Control Result Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IC95S" nciodm:ExtCodeID="C116251">
+                    <nciodm:CDISCSynonym>IC95 Subject Result</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of titer of a viral organism or biological/biochemical reaction that has been exposed to a concentration of a specific drug expected to produce 95% inhibition of the standard growth of the viral organism, or of a reaction.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>95 Percent Maximal Inhibitory Concentration Subject Result Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ICNETAS" nciodm:ExtCodeID="C116255">
+                    <nciodm:CDISCSynonym>Inhibitory Concentration Net Assessment</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An indication of reduced or increased susceptibility of a viral organism, or activity of a biological/biochemical reaction in response to the inhibitory concentration (IC50 and/or IC95) of a specific drug.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Inhibitory Concentration Net Assessment Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>VRTESTCD</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Viral Resistance Findings Test Code</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Viral Resistance Findings Test Code Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

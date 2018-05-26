@@ -1,0 +1,27 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C114119.PBSTMT" Name="Pharmacogenomics Biomarker Medical Statement" DataType="text" nciodm:ExtCodeID="C114119" nciodm:CodeListExtensible="Yes">
+                <Description>
+                    <TranslatedText xml:lang="en">A terminology codelist relevant to the medical conclusion such as confirmation of a diagnosis or drug resistance based on genetic biological markers.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="NEGATIVE" nciodm:ExtCodeID="C38757">
+                    <nciodm:CDISCDefinition>A finding of normality following an examination or investigation looking for the presence of a microorganism, disease, or condition.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Negative Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="POSITIVE" nciodm:ExtCodeID="C38758">
+                    <nciodm:CDISCDefinition>An observation confirming something, such as the presence of a disease, condition, or microorganism.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Positive Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="RESISTANT" nciodm:ExtCodeID="C85562">
+                    <nciodm:CDISCSynonym>Resistant</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The growth of microorganisms are not inhibited by the usually achievable concentrations of the antimicrobial agent with normal dosages, and/or microorganisms demonstrate MICs or zone diameters that fall in the range where specific microbial resistance mechanisms (e.g. Beta-lactamases) are likely, and clinical efficacy of the agent against the microorganism has not been reliably shown in treatment studies.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Antimicrobial Resistance Result</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUSCEPTIBLE" nciodm:ExtCodeID="C85563">
+                    <nciodm:CDISCSynonym>Susceptible</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The growth of microorganisms are inhibited by the usually achievable concentrations of antimicrobial agent when the recommended dosage is used for the site of infection.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Antimicrobial Susceptibility Result</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>PBSTMT</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Pharmacogenomics Biomarker Medical Statement</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Pharmacogenomics Biomarker Medical Statement Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

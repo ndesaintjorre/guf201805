@@ -1,0 +1,221 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C111107.RETEST" Name="Respiratory Test Name" DataType="text" nciodm:ExtCodeID="C111107" nciodm:CodeListExtensible="Yes">
+                <Description>
+                    <TranslatedText xml:lang="en">A terminology codelist based on the test names for physiological findings related to the respiratory system, including the organs that are involved in breathing such as the nose, throat, larynx, trachea, bronchi and lungs.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="Diffusion Capacity of Lung for CO" nciodm:ExtCodeID="C38083">
+                    <nciodm:CDISCSynonym>Diffusion Capacity of Lung for CO</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The volume of the carbon monoxide that is transferred from inspired air into the pulmonary capillary blood.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Carbon Monoxide Diffusing Capability Test</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DLCO/VA" nciodm:ExtCodeID="C120830">
+                    <nciodm:CDISCSynonym>DLCO/VA</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The diffusing capacity of the lungs for carbon monoxide expressed as a proportion of the alveolar volume.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Diffusion Capacity of the Lung for Carbon Monoxide/Alveolar Volume Ratio</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Expiratory Reserve Volume" nciodm:ExtCodeID="C111200">
+                    <nciodm:CDISCSynonym>Expiratory Reserve Volume</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The maximum volume of air a subject can exhale from the lungs after a tidal exhalation.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Expiratory Reserve Volume</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FEV1 Reversibility" nciodm:ExtCodeID="C112285">
+                    <nciodm:CDISCSynonym>FEV1 Reversibility</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The change in FEV1 following administration of a bronchodilator relative to the pre-treatment FEV1 value.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Forced Expiratory Volume in 1 Second Reversibility</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FEV1/FVC" nciodm:ExtCodeID="C111359">
+                    <nciodm:CDISCSynonym>FEV1/FVC</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The proportion of total forced vital capacity that is expelled during the first second of a forced exhalation.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Forced Expiratory Volume in 1 Second to Forced Vital Capacity Ratio Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Forced Expiratory Flow 25-75%" nciodm:ExtCodeID="C119545">
+                    <nciodm:CDISCSynonym>Forced Expiratory Flow 25-75%</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The mean forced expiratory flow rate at 25-75% of the forced vital capacity. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Forced Expiratory Flow at 25-75 Percent</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Forced Expiratory Volume in 1 Second" nciodm:ExtCodeID="C38084">
+                    <nciodm:CDISCSynonym>Forced Expiratory Volume in 1 Second</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The volume of air that a subject can breathe out during the first second of exhalation after maximum inhalation.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Forced Expiratory Volume in 1 Second</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Forced Expiratory Volume in 6 Seconds" nciodm:ExtCodeID="C47843">
+                    <nciodm:CDISCSynonym>Forced Expiratory Volume in 6 Seconds</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The volume of air that a subject can breathe out during the first 6 seconds of exhalation after maximum inhalation.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Forced Expiratory Volume in 6 Seconds</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Forced Inspiratory Volume in 1 Second" nciodm:ExtCodeID="C111360">
+                    <nciodm:CDISCSynonym>Forced Inspiratory Volume in 1 Second</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The volume of air that a subject can breathe in during the first second of inhalation after maximum exhalation.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Forced Inspiratory Volume in 1 Second</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Forced Vital Capacity" nciodm:ExtCodeID="C111361">
+                    <nciodm:CDISCSynonym>Forced Vital Capacity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The maximum volume of air that can be exhaled after forced maximum inhalation.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Forced Vital Capacity</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HGB Corrected DLCO" nciodm:ExtCodeID="C120825">
+                    <nciodm:CDISCSynonym>DLCO Corrected for Hemoglobin</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>HGB Corrected DLCO</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The diffusing capacity of the lungs for carbon monoxide adjusted for hemoglobin concentration.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Hemoglobin Corrected Diffusion Capacity of the Lung for Carbon Monoxide</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HGB Corrected DLCO/VA" nciodm:ExtCodeID="C120827">
+                    <nciodm:CDISCSynonym>DLCO/VA Corrected for Hemoglobin</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>HGB Corrected DLCO/VA</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The diffusing capacity of the lungs for carbon monoxide expressed as a proportion of the alveolar volume, adjusted for hemoglobin concentration.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Hemoglobin Corrected Diffusion Capacity of the Lung for Carbon Monoxide/Alveolar Volume Ratio</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IC Reversibility" nciodm:ExtCodeID="C112321">
+                    <nciodm:CDISCSynonym>IC Reversibility</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The change in IC following administration of a bronchodilator relative to the pre-treatment IC value.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Inspiratory Capacity Reversibility</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Inspiratory Capacity" nciodm:ExtCodeID="C111362">
+                    <nciodm:CDISCSynonym>Inspiratory Capacity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The maximum volume of air a subject can inhale into the lungs after a tidal exhalation (IRV plus TV).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Inspiratory Capacity</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Inspiratory Reserve Volume" nciodm:ExtCodeID="C111237">
+                    <nciodm:CDISCSynonym>Inspiratory Reserve Volume</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The maximum volume of air a subject can inhale into the lungs after a tidal inhalation.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Inspiratory Reserve Volume</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Maximum Forced Inspiratory Flow" nciodm:ExtCodeID="C112333">
+                    <nciodm:CDISCSynonym>Maximum Forced Inspiratory Flow</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Forced inspiratory flow for a portion of the FVC curve at the point where the maximum portion of FVC is already inhaled.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Maximum Forced Inspiratory Flow</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Peak Expiratory Flow" nciodm:ExtCodeID="C41372">
+                    <nciodm:CDISCSynonym>Peak Expiratory Flow</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The maximal flow achieved during the maximally forced expiration initiated at maximum inhalation.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Peak Expiratory Flow</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Peak Nasal Inspiratory Flow" nciodm:ExtCodeID="C119547">
+                    <nciodm:CDISCSynonym>Peak Nasal Inspiratory Flow</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The maximal flow achieved during the maximally forced inspiration through the nose initiated at maximum exhalation. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Peak Nasal Inspiratory Flow</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PEF Reversibility" nciodm:ExtCodeID="C112368">
+                    <nciodm:CDISCSynonym>PEF Reversibility</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The change in PEF following administration of a bronchodilator relative to the pre-treatment PEF value.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Peak Expiratory Flow Reversibility</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Percent Predicted DLCO" nciodm:ExtCodeID="C120829">
+                    <nciodm:CDISCSynonym>Percent Predicted DLCO</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The diffusing capacity of the lungs for carbon monoxide expressed as a proportion of the predicted normal value.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Percent Predicted Diffusion Capacity of the Lung for Carbon Monoxide</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Percent Predicted DLCO/VA" nciodm:ExtCodeID="C120831">
+                    <nciodm:CDISCSynonym>Percent Predicted DLCO/VA</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The proportion of the diffusing capacity of the lungs for carbon monoxide to alveolar volume, expressed as a proportion of the predicted normal value.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Percent Predicted Diffusion Capacity of the Lung for Carbon Monoxide/Alveolar Volume Ratio</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Percent Predicted ERV" nciodm:ExtCodeID="C112375">
+                    <nciodm:CDISCSynonym>Percent Predicted ERV</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The maximum volume of air a subject can exhale from the lungs after a tidal exhalation as a proportion of the predicted normal value.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Percent Predicted Expiratory Reserve Volume</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Percent Predicted FEF25-75" nciodm:ExtCodeID="C119546">
+                    <nciodm:CDISCSynonym>Percent Predicted FEF25-75</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The mean forced expiratory flow rate at 25-75% of the forced vital capacity as a proportion of the predicted normal value. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Percent Predicted Forced Expiratory Flow at 25-75 Percent</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Percent Predicted FEV1" nciodm:ExtCodeID="C112376">
+                    <nciodm:CDISCSynonym>Percent Predicted FEV1</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Forced expiratory volume in one second as a proportion of the predicted normal value.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Percent Predicted Forced Expiratory Volume in 1 Second</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Percent Predicted FEV1/FVC" nciodm:ExtCodeID="C112377">
+                    <nciodm:CDISCSynonym>Percent Predicted FEV1/FVC</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The proportion of total forced vital capacity that is expelled during the first second of a forced exhalation as a proportion of the predicted normal value.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Percent Predicted Forced Expiratory Volume in 1 Second Divided by Forced Vital Capacity</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Percent Predicted FEV6" nciodm:ExtCodeID="C112378">
+                    <nciodm:CDISCSynonym>Percent Predicted FEV6</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Forced expiratory volume in six seconds as a proportion of the predicted normal value.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Percent Predicted Forced Expiratory Volume in 6 Seconds</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Percent Predicted FIFmax" nciodm:ExtCodeID="C112379">
+                    <nciodm:CDISCSynonym>Percent Predicted FIFmax</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Forced inspiratory flow for a portion of the FVC curve at the point where the maximum portion of FVC is already inhaled as a proportion of the predicted normal value.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Percent Predicted Forced Inspiratory Flow Maximum</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Percent Predicted FIV1" nciodm:ExtCodeID="C112380">
+                    <nciodm:CDISCSynonym>Percent Predicted FIV1</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The volume of air that a subject can breathe in during the first second of inhalation after maximum exhalation as a proportion of the predicted normal value.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Percent Predicted Forced Inspiratory Volume in 1 Second</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Percent Predicted Forced Vital Capacity" nciodm:ExtCodeID="C112381">
+                    <nciodm:CDISCSynonym>Percent Predicted Forced Vital Capacity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Forced vital capacity as a proportion of the predicted normal value.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Percent Predicted Forced Vital Capacity</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Percent Predicted HGB Corrected DLCO" nciodm:ExtCodeID="C120826">
+                    <nciodm:CDISCSynonym>Percent Predicted HGB Corrected DLCO</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The diffusing capacity of the lungs for carbon monoxide expressed as a proportion of the predicted normal value, adjusted for hemoglobin concentration.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Percent Predicted Hemoglobin Corrected Diffusion Capacity of the Lung for Carbon Monoxide</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Percent Predicted HGB Corrected DLCO/VA" nciodm:ExtCodeID="C120828">
+                    <nciodm:CDISCSynonym>Percent Predicted HGB Corrected DLCO/VA</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The proportion of diffusing capacity of the lungs for carbon monoxide to the alveolar volume expressed as a proportion of the predicted normal value, adjusted for hemoglobin concentration.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Percent Predicted Hemoglobin Corrected Diffusion Capacity of the Lung for Carbon Monoxide/Alveolar Volume Ratio</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Percent Predicted Inspiratory Capacity" nciodm:ExtCodeID="C112382">
+                    <nciodm:CDISCSynonym>Percent Predicted Inspiratory Capacity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The maximum volume of air a subject can inhale into the lungs after a tidal exhalation (IRV plus TV) as a proportion of the predicted normal value.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Percent Predicted Inspiratory Capacity</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Percent Predicted IRV" nciodm:ExtCodeID="C112383">
+                    <nciodm:CDISCSynonym>Percent Predicted IRV</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The maximum volume of air a subject can inhale into the lungs after a tidal inhalation as a proportion of the predicted normal value.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Percent Predicted Inspiratory Reserve Volume</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Percent Predicted Peak Expiratory Flow" nciodm:ExtCodeID="C112384">
+                    <nciodm:CDISCSynonym>Percent Predicted Peak Expiratory Flow</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The maximal flow achieved during the maximally forced expiration initiated at maximum inhalation as a proportion of the predicted normal value.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Percent Predicted Peak Expiratory Flow</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Percent Predicted Residual Volume" nciodm:ExtCodeID="C112385">
+                    <nciodm:CDISCSynonym>Percent Predicted Residual Volume</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The volume of air remaining in the lungs after maximum exhalation as a proportion of the predicted normal value.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Percent Predicted Residual Volume</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Percent Predicted Slow Vital Capacity" nciodm:ExtCodeID="C112386">
+                    <nciodm:CDISCSynonym>Percent Predicted Slow Vital Capacity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The maximum volume of air that can be exhaled after slow maximum inhalation as a proportion of the predicted normal value.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Percent Predicted Slow Vital Capacity</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Percent Predicted Tidal Volume" nciodm:ExtCodeID="C112387">
+                    <nciodm:CDISCSynonym>Percent Predicted Tidal Volume</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The volume of air moved into and out of the lungs during breathing at rest as a proportion of the predicted normal value.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Percent Predicted Tidal Volume</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Percent Predicted Total Lung Capacity" nciodm:ExtCodeID="C112388">
+                    <nciodm:CDISCSynonym>Percent Predicted Total Lung Capacity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The total volume of air in the lungs after maximum inhalation as a proportion of the predicted normal value.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Percent Predicted Total Lung Capacity</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Residual Volume" nciodm:ExtCodeID="C89836">
+                    <nciodm:CDISCSynonym>Residual Volume</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The volume of air remaining in the lungs after maximum exhalation.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Residual Volume</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Slow Vital Capacity" nciodm:ExtCodeID="C111315">
+                    <nciodm:CDISCSynonym>Slow Vital Capacity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The maximum volume of air that can be exhaled after slow maximum inhalation.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Slow Vital Capacity</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Tidal Volume" nciodm:ExtCodeID="C111324">
+                    <nciodm:CDISCSynonym>Tidal Volume</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The volume of air moved into and out of the lungs during breathing at rest.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Tidal Volume</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Total Lung Capacity" nciodm:ExtCodeID="C111325">
+                    <nciodm:CDISCSynonym>Total Lung Capacity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The total volume of air in the lungs after maximum inhalation.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Total Lung Capacity</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>RETEST</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Respiratory Test Name</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Respiratory Test Name Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

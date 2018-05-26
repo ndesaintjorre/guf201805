@@ -1,0 +1,34 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C101838.CCRCLSCD" Name="Consensus Cardiac Classification System Test Code" DataType="text" nciodm:ExtCodeID="C101838" nciodm:CodeListExtensible="Yes">
+                <Description>
+                    <TranslatedText xml:lang="en">Classification system test code for cardiac parameters that are authored or endorsed by organizations.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="CCSGRDS" nciodm:ExtCodeID="C66910">
+                    <nciodm:CDISCSynonym>Canadian CV Society Grading Scale</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A finding associated with a patient based on the functional classification developed by the Canadian Cardiovascular Society (CCS), for categorizing patients with angina. The classification system comprises four classes, which are defined in terms of the level of physical activity associated with the subject's anginal symptoms.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Canadian Cardiovascular Society Grading Scale Class</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="KILLIPCL" nciodm:ExtCodeID="C66916">
+                    <nciodm:CDISCSynonym>Killip Class</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A finding associated with a patient based on the classification developed by Killip and Kimball, which classifies patients with myocardial infarction based on routine physical examination parameters, such as the presence or absence of rales, or a decreased systolic blood pressure.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Killip Class</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LSNCPCLS" nciodm:ExtCodeID="C100032">
+                    <nciodm:CDISCSynonym>ACC/AHA Lesion Complexity Class</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A classification system for coronary stenosis based upon characteristics that influence the difficulty of percutaneous coronary revascularization.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>American College of Cardiology/American Heart Association Lesion Complexity Class</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NYHACLS" nciodm:ExtCodeID="C66909">
+                    <nciodm:CDISCSynonym>New York Heart Association Class</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A finding associated with a patient based on the functional classification developed by the New York Heart Association (NYHA), for categorizing patients with defined or presumed cardiac disease. The classification system is based on the ability to engage in physical activity. The classification system comprises four classes, though NYHA Class III and Class IV are often aggregated for the purpose of outcomes analysis.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>New York Heart Association Class</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TIMIFLOW" nciodm:ExtCodeID="C100021">
+                    <nciodm:CDISCSynonym>TIMI Flow</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A grading system for coronary blood flow based on the classification developed by the Thrombolysis in Myocardial Infarction Group. It classifies coronary blood flow into four classes based upon the angiographic appearance of the blood vessels.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Thrombolysis in Myocardial Infarction Flow</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>CCRCLSCD</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Consensus Cardiac Classification System Test Code</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Consensus Cardiac Classification Systems Test Code Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

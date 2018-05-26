@@ -1,0 +1,29 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C101845.MCRCSPTM" Name="Mechanical Circulatory Support Placement Timing" DataType="text" nciodm:ExtCodeID="C101845" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">A terminology codelist to describe the timing of mechanical circulatory support placement.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="IN PLACE AT START OF PROCEDURE" nciodm:ExtCodeID="C99981">
+                    <nciodm:CDISCSynonym>In Place at Start of Procedure</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Mechanical Circulatory Support was in place at the start of the procedure.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Mechanical Circulatory Support in Place at Start of Procedure</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="INSERTED DURING A NON-PERCUTANEOUS CORONARY INTERVENTION PROCEDURE" nciodm:ExtCodeID="C99962">
+                    <nciodm:CDISCSynonym>Inserted during a Non PCI Procedure</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Mechanical Circulatory Support was inserted during a non-Percutaneous Coronary Intervention (PCI) procedure.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Inserted During a Non-Percutaneous Coronary Intervention</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="INSERTED DURING PROCEDURE AND AFTER PERCUTANEOUS CORONARY INTERVENTION STARTED" nciodm:ExtCodeID="C99964">
+                    <nciodm:CDISCSynonym>Inserted during Procedure and after PCI Started</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Mechanical Circulatory Support was inserted during the procedure after Percutaneous Coronary Intervention (PCI) started.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Inserted During Procedure and After Percutaneous Coronary Intervention Began</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="INSERTED DURING PROCEDURE BUT PRIOR TO PERCUTANEOUS CORONARY INTERVENTION" nciodm:ExtCodeID="C99963">
+                    <nciodm:CDISCSynonym>Inserted during Procedure but Prior to PCI</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Mechanical Circulatory Support was inserted during the procedure prior to percutaneous coronary intervention (PCI).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Inserted During a Procedure but Prior to Percutaneous Coronary Intervention</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>MCRCSPTM</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Mechanical Circulatory Support Placement Timing</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Mechanical Circulatory Support Placement Timing Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

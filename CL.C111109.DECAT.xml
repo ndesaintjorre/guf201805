@@ -1,0 +1,42 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C111109.DECAT" Name="Device Events Category" DataType="text" nciodm:ExtCodeID="C111109" nciodm:CodeListExtensible="Yes">
+                <Description>
+                    <TranslatedText xml:lang="en">A terminology codelist based on the category of related records for the device event.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="CALIBRATION FAILURE" nciodm:ExtCodeID="C62994">
+                    <nciodm:CDISCSynonym>Calibrate, Failure To</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Failure to Calibrate</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Issue associated with the failure of the device to perform a self-calibration procedure or process designed to assure the accuracy and proper performance of the device. (FDA)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Medical Device Failure to Calibrate</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="COMPUTER SOFTWARE ISSUE" nciodm:ExtCodeID="C63269">
+                    <nciodm:CDISCSynonym>Software Malfunction</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Issue associated with written programs, codes, and/or software system that affects device performance or communication with another device. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Computer Software Problem Associated with Medical Device</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DATA STORAGE FAILURE" nciodm:ExtCodeID="C116121">
+                    <nciodm:CDISCDefinition>Issue associated with the failure of the software to store collected data.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Data Storage Failure</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DEVICE OPERATIONAL ISSUE" nciodm:ExtCodeID="C62954">
+                    <nciodm:CDISCSynonym>Device Operational Malfunction</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Issue associated with any deviations from specifications relating to device operations (e.g. deployment, connection, electrical, computer software, infusion/flow, output, protective-measure, and incompatibility issues).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Medical Device Operational Issue</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NON-STUDY EQUIPMENT ISSUE" nciodm:ExtCodeID="C112361">
+                    <nciodm:CDISCSynonym>Non-Study Equipment Malfunction</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Issue associated with any deviations from specifications relating to non-study device or equipment operations.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Non-Study Device Issue</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SCHEDULED MAINTENANCE" nciodm:ExtCodeID="C111309">
+                    <nciodm:CDISCDefinition>An inspection and/or surveillance activity that has been anticipated to occur and was assigned a time or date when that activity is to be performed. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Scheduled Maintenance</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SOFTWARE UPDATE" nciodm:ExtCodeID="C67227">
+                    <nciodm:CDISCDefinition>All program coding after initial deployment to correct coding errors, enhance the functionality of the software, and perfect the functioning of the software. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Software Maintenance</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>DECAT</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Device Events Category</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Device Events Category Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

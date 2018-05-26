@@ -1,0 +1,19 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C116107.DDTEST" Name="Death Details Test Name" DataType="text" nciodm:ExtCodeID="C116107" nciodm:CodeListExtensible="Yes">
+                <Description>
+                    <TranslatedText xml:lang="en">Terminology relevant to the death detail assessment name.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="Primary Cause of Death" nciodm:ExtCodeID="C99531">
+                    <nciodm:CDISCSynonym>Primary Cause of Death</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The primary significant event which ultimately led to death.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Primary Cause of Death</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Secondary Cause of Death" nciodm:ExtCodeID="C116142">
+                    <nciodm:CDISCSynonym>Secondary Cause of Death</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The secondary significant event which ultimately led to death.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Secondary Cause of Death</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>DDTEST</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Death Details Test Name</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Death Details Test Name Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

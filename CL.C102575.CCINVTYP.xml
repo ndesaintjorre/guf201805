@@ -1,0 +1,29 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C102575.CCINVTYP" Name="Contact Case Investigation Contact Type" DataType="text" nciodm:ExtCodeID="C102575" nciodm:CodeListExtensible="Yes">
+                <Description>
+                    <TranslatedText xml:lang="en">Terminology relevant to the identification and clinical investigation of disease contacts.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="CASUAL CONTACT" nciodm:ExtCodeID="C102606">
+                    <nciodm:CDISCDefinition>A way of contracting a disease through everyday interactions (nonsexual) with an infected person.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Casual Contact</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CONTACT WITH EXPOSURE DURING MEDICAL PROCEDURE" nciodm:ExtCodeID="C102609">
+                    <nciodm:CDISCDefinition>A way of contracting a disease by interacting with an individual that has been exposed to the disease while undergoing a medical procedure.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Contact With Exposure During Medical Procedure</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CONTACT WITH EXPOSURE IN CROWD SETTING" nciodm:ExtCodeID="C102610">
+                    <nciodm:CDISCDefinition>A way of contracting a disease by physically associating with an infected group of individuals.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Contact With Exposure In Crowd Setting</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CONTACT WITH MEDICAL RISK FACTOR" nciodm:ExtCodeID="C102611">
+                    <nciodm:CDISCDefinition>A way of contracting a disease by interacting with an individual that is considered at high risk for having the disease.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Contact With Medical Risk Factor</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HOUSEHOLD CONTACT" nciodm:ExtCodeID="C102646">
+                    <nciodm:CDISCDefinition>A way of contracting a disease through interactions with an infected person in the same residence.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Household Contact</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>CCINVTYP</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Contact Case Investigation Contact Type</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Contact Case Investigation Contact Type Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

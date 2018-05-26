@@ -1,0 +1,39 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C117742.OETEST" Name="Ophthalmic Exam Test Name" DataType="text" nciodm:ExtCodeID="C117742" nciodm:CodeListExtensible="Yes">
+                <Description>
+                    <TranslatedText xml:lang="en">Terminology relevant to the test names that describe findings from ophthalmic examinations.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="Astigmatism Axis" nciodm:ExtCodeID="C117889">
+                    <nciodm:CDISCSynonym>Astigmatism Axis</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the location, in degrees, of the flatter principal meridian on a 180-degree scale, where 90 degrees designates the vertical meridian and 180 degrees designates the horizontal meridian.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Astigmatism Axis</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Cylindrical Refraction Error" nciodm:ExtCodeID="C117892">
+                    <nciodm:CDISCSynonym>Cylindrical Refraction Error</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the extent of defect in vision caused by a mismatch of optical power between the cylindrical and horizontal meridians, resulting in sub-optimal reflection of light onto the retina. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Cylindrical Refractive Error</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Intraocular Pressure" nciodm:ExtCodeID="C87143">
+                    <nciodm:CDISCSynonym>Intraocular Pressure</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The fluid pressure within the eye.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Intraocular Pressure</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Log Score" nciodm:ExtCodeID="C117890">
+                    <nciodm:CDISCSynonym>Log Score</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A number or range of numeric values on the log scale that measures performance, function, quality, or ability.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Log Score</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Number of Letters Correct" nciodm:ExtCodeID="C117891">
+                    <nciodm:CDISCSynonym>Number of Letters Correct</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The integer that describes the number of letters correctly identified by the subject during an eye chart assessment.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Number of Correct Eye Chart Letters</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Spherical Refractive Error" nciodm:ExtCodeID="C117893">
+                    <nciodm:CDISCSynonym>Spherical Refractive Error</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the extent of defect in vision caused by a mismatch of optimal power between the cornea and/or lens and the length of the eyeball, resulting in sub-optimal reflection of light onto the retina. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Spherical Refractive Error</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>OETEST</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Ophthalmic Exam Test Name</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Ophthalmic Exam Test Name Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

@@ -1,0 +1,30 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C102578.DSSOUT" Name="Disease Outcome" DataType="text" nciodm:ExtCodeID="C102578" nciodm:CodeListExtensible="Yes">
+                <Description>
+                    <TranslatedText xml:lang="en">Terminology relevant to the measurable result or effect of treatment on a disease.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="BACTERIOLOGICAL CURE" nciodm:ExtCodeID="C102600">
+                    <nciodm:CDISCDefinition>There are no indicators of bacterial infection in an individual who previously had an infection.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Bacteriological Cure</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BACTERIOLOGICAL FAILURE" nciodm:ExtCodeID="C102601">
+                    <nciodm:CDISCDefinition>There are indicators of bacterial infection in the individual who previously had an infection.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Bacteriological Failure</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CLINICAL CURE" nciodm:ExtCodeID="C102607">
+                    <nciodm:CDISCDefinition>There are no signs or symptoms of disease in the individual who previously had a disease.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Clinical Cure</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CLINICAL FAILURE" nciodm:ExtCodeID="C102608">
+                    <nciodm:CDISCDefinition>There are still signs or symptoms of disease in the individual who previously had an infection.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Clinical Failure</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="RECURRENT DISEASE" nciodm:ExtCodeID="C38155">
+                    <nciodm:CDISCSynonym>Recurrent Disease</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The return of a disease after a period of remission.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Recurrent Disease</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>DSSOUT</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Disease Outcome</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Disease Outcome Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

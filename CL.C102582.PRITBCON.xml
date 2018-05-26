@@ -1,0 +1,21 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C102582.PRITBCON" Name="Priority of Tuberculosis Contact" DataType="text" nciodm:ExtCodeID="C102582" nciodm:CodeListExtensible="Yes">
+                <Description>
+                    <TranslatedText xml:lang="en">Terminology relevant to the prioritization of tuberculosis contacts.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="HIGH-PRIORITY TUBERCULOSIS CONTACT" nciodm:ExtCodeID="C102644">
+                    <nciodm:CDISCDefinition>An individual that has tested positive for pulmonary, laryngeal, or pleural tuberculosis and may or may not present with cavitary disease.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>High-priority Tuberculosis Subject</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LOW-PRIORITY TUBERCULOSIS CONTACT" nciodm:ExtCodeID="C102662">
+                    <nciodm:CDISCDefinition>An individual that has had limited exposure to an individual with tuberculosis and has a low probability of having had a recent infection.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Low-priority Tuberculosis Subject</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MEDIUM-PRIORITY TUBERCULOSIS CONTACT" nciodm:ExtCodeID="C102665">
+                    <nciodm:CDISCDefinition>An individual that has tested negative for pulmonary, laryngeal, or pleural tuberculosis but has had a non-cavitary chest x-ray that is consistent with tuberculosis.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Medium-priority Tuberculosis Subject</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>PRITBCON</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Priority of Tuberculosis Contact</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Priority of Tuberculosis Contact Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

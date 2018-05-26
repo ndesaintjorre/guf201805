@@ -1,0 +1,24 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C117741.MSFATSCD" Name="Multiple Sclerosis Findings About Test Code" DataType="text" nciodm:ExtCodeID="C117741" nciodm:CodeListExtensible="Yes">
+                <Description>
+                    <TranslatedText xml:lang="en">Terminology relevant to the test codes that describe multiple sclerosis findings.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="DXCRITMT" nciodm:ExtCodeID="C117883">
+                    <nciodm:CDISCSynonym>Diagnostic Criteria Met</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A description of the diagnostic criteria that the subject fulfilled in order to establish a medical diagnosis.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Which Diagnostic Criteria Met</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LOCONSET" nciodm:ExtCodeID="C117884">
+                    <nciodm:CDISCSynonym>Localization of Onset</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The anatomical location of the beginning or early stages of a disease.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Location of Disease Onset</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="OUNIMULT" nciodm:ExtCodeID="C117885">
+                    <nciodm:CDISCSynonym>Onset Unifocal or Multifocal</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A categorization of the number of lesions present in the Central Nervous System at the time of diagnosis of a specific disease.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Focality of Disease Onset</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>MSFATSCD</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Multiple Sclerosis Findings About Test Code</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Multiple Sclerosis Findings About Test Code Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

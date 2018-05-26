@@ -1,0 +1,29 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C101842.CACRDSC" Name="Canadian Cardiovascular Society Classification" DataType="text" nciodm:ExtCodeID="C101842" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">The anginal classifications as measured by the Canadian Cardiovascular Society grading scale.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="CCS CLASS 1" nciodm:ExtCodeID="C77265">
+                    <nciodm:CDISCSynonym>Canadian Cardiovascular Society Classification 1</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Ordinary physical activity, such as walking or climbing stairs, does not cause angina. Angina occurs with strenuous, rapid, or prolonged exertion at work or recreation.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Canadian Cardiovascular Society Grading Scale Class I</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CCS CLASS 2" nciodm:ExtCodeID="C77266">
+                    <nciodm:CDISCSynonym>Canadian Cardiovascular Society Classification 2</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Slight limitation of ordinary activity. Angina occurs on walking or climbing stairs rapidly, walking uphill, walking or climbing stairs after meals, or in cold, in wind, or under emotional stress, or only during the few hours after awakening. Angina occurs on walking more than 2 blocks on the level and climbing more than 1 flight of ordinary stairs at a normal pace and in normal conditions.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Canadian Cardiovascular Society Grading Scale Class II</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CCS CLASS 3" nciodm:ExtCodeID="C77267">
+                    <nciodm:CDISCSynonym>Canadian Cardiovascular Society Classification 3</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Marked limitations of ordinary physical activity. Angina occurs on walking 1 to 2 blocks on the level and climbing 1 flight of stairs in normal conditions and at a normal pace.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Canadian Cardiovascular Society Grading Scale Class III</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CCS CLASS 4" nciodm:ExtCodeID="C77268">
+                    <nciodm:CDISCSynonym>Canadian Cardiovascular Society Classification 4</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Inability to perform any physical activity without discomfort - anginal symptoms may be present at rest.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Canadian Cardiovascular Society Grading Scale Class IV</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>CACRDSC</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Canadian Cardiovascular Society Classification</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Canadian Cardiovascular Society Classification Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

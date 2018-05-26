@@ -1,0 +1,22 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C101851.GRSTNLOC" Name="Location of Most Severe Stenosis Within a Graft" DataType="text" nciodm:ExtCodeID="C101851" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Terminology used to describe the part of the graft that is most severely stenotic.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="AORTIC ANASTOMOSIS OF THE GRAFT" nciodm:ExtCodeID="C99915">
+                    <nciodm:CDISCDefinition>The connection where the graft joins the aorta usually less than or equal to 3 mm from insertion point.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Aortic Anastomosis of Graft</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BODY OF THE GRAFT" nciodm:ExtCodeID="C99918">
+                    <nciodm:CDISCDefinition>The portion of the graft that lies between its anastomoses.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Body of Graft</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CORONARY ANASTOMOSIS OF THE GRAFT" nciodm:ExtCodeID="C80476">
+                    <nciodm:CDISCSynonym>Coronary Graft Anastomoses</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The connection where the graft joins the coronary artery usually less than or equal to 3 mm from insertion point.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Coronary Graft Anastomoses</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>GRSTNLOC</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Location of Most Severe Stenosis Within a Graft</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Location of Most Severe Stenosis Within a Graft Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

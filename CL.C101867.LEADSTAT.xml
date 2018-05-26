@@ -1,0 +1,21 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C101867.LEADSTAT" Name="Lead Status" DataType="text" nciodm:ExtCodeID="C101867" nciodm:CodeListExtensible="Yes">
+                <Description>
+                    <TranslatedText xml:lang="en">The status of the lead.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="ABANDONED" nciodm:ExtCodeID="C99906">
+                    <nciodm:CDISCDefinition>The lead has been left in situ but is not in use.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Abandoned Lead</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EXTRACTED" nciodm:ExtCodeID="C102283">
+                    <nciodm:CDISCDefinition>The lead has been removed from the body.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Extracted Lead</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="REUSED" nciodm:ExtCodeID="C102284">
+                    <nciodm:CDISCDefinition>The lead has been left in situ and reused.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Reused Lead</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>LEADSTAT</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Lead Status</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Lead Status Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

@@ -1,0 +1,179 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C111114.GENSMP" Name="Genetic Sample Type" DataType="text" nciodm:ExtCodeID="C111114" nciodm:CodeListExtensible="Yes">
+                <Description>
+                    <TranslatedText xml:lang="en">Terminology relevant to the type of nucleic acid which was derived from the collected sample.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="7SK RNA" nciodm:ExtCodeID="C95951">
+                    <nciodm:CDISCSynonym>7SK Small Nuclear RNA</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>7SK snRNA</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>7SK small nuclear RNA is encoded by the human RN7SK gene. This oligoribonucleotide may play a role in the regulation of the enzymatic activity of RNA polymerase II.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>7SK Small Nuclear RNA</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="cDNA" nciodm:ExtCodeID="C324">
+                    <nciodm:CDISCSynonym>Complementary DNA</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Single-stranded DNA that is complementary to messenger RNA or DNA that has been synthesized from messenger RNA by reverse transcriptase.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>cDNA</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="cpDNA" nciodm:ExtCodeID="C111158">
+                    <nciodm:CDISCSynonym>Chloroplast DNA</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The DNA that is located in the photosynthetic, chlorophyll-containing organelle in the cells of young leaves and stems of higher plants. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Chloroplast DNA</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DNA" nciodm:ExtCodeID="C449">
+                    <nciodm:CDISCSynonym>Deoxyribonucleic Acid</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Double-stranded DNA</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>dsDNA</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A long linear double-stranded polymer formed from nucleotides attached to a deoxyribose backbone; associated with the transmission of genetic information.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DNA</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="dsRNA" nciodm:ExtCodeID="C95938">
+                    <nciodm:CDISCSynonym>Double-stranded RNA</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An RNA complex consisting of two base-paired strands of complementary RNA.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Double-Stranded RNA</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="gDNA" nciodm:ExtCodeID="C95940">
+                    <nciodm:CDISCSynonym>Genomic DNA</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The DNA that is part of the normal chromosomal complement of an organism.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Genomic DNA</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="gRNA" nciodm:ExtCodeID="C95952">
+                    <nciodm:CDISCSynonym>Guide RNA</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A small RNA involved in post-transcriptional mitochondrial RNA modification (RNA editing) in kinetoplastids.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Guide RNA</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="hnRNA" nciodm:ExtCodeID="C28454">
+                    <nciodm:CDISCSynonym>Heterogeneous Nuclear RNA</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A diverse assortment of nascent, immature, unprocessed RNA transcripts synthesized from DNA templates that are found in eukaryotic nuclei before post-transcriptional modifications.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>hnRNA</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="miRNA" nciodm:ExtCodeID="C25966">
+                    <nciodm:CDISCSynonym>MicroRNA</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A sequence of single-stranded RNA which is typically 20-25 nucleotides in length and may regulate the expression of other genes. miRNAs are transcribed from DNA, but are not translated into proteins.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MicroRNA</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="mRNA" nciodm:ExtCodeID="C813">
+                    <nciodm:CDISCSynonym>Messenger RNA</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A class of RNA molecule containing protein-coding information in its nucleotide sequence that can be translated into the amino acid sequence of a protein.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Messenger RNA</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="msDNA" nciodm:ExtCodeID="C111279">
+                    <nciodm:CDISCSynonym>Multicopy Single-stranded DNA</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A DNA/RNA chimera comprised of a single-stranded DNA molecule covalently bound to an internal guanosine of a RNA molecule. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Multicopy Single-stranded DNA</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="msdRNA" nciodm:ExtCodeID="C111278">
+                    <nciodm:CDISCSynonym>MSR</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The RNA portion of the msDNA molecule, which contains two stem-loop stuctures and varies widely in length across bacterial species. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>msdRNA</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="mtDNA" nciodm:ExtCodeID="C28512">
+                    <nciodm:CDISCSynonym>Mitochondrial DNA</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>mDNA</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Typically small, circular, intronless, and maternally inherited, mitochondrial DNA (mtDNA) is the multicopy deoxyribonucleic acid genome of mitochondria, intracellular organelles responsible for vital respiratory chain and oxidative phosphorylation reactions in higher eukaryotes. Replicated and transcribed by a separate enzymatic machinery from that of nuclear DNA, mtDNA encodes only a subset of mitochondrial functions.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Mitochondrial DNA</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="nDNA" nciodm:ExtCodeID="C95941">
+                    <nciodm:CDISCSynonym>Nuclear DNA</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The DNA that is normally located in the nucleus of a eukaryotic cell.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Nuclear DNA</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="pDNA" nciodm:ExtCodeID="C754">
+                    <nciodm:CDISCSynonym>Plasmid</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Plasmid DNA</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A small cellular inclusion consisting of a ring of DNA that is not in a chromosome but is capable of autonomous replication.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Plasmid</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="piRNA" nciodm:ExtCodeID="C95953">
+                    <nciodm:CDISCSynonym>Piwi-Interacting RNA</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Single-stranded RNA molecules that are expressed in animal cells and form complexes with Piwi proteins. They are involved in transcriptional gene silencing.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Piwi-Interacting RNA</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="pre-mRNA" nciodm:ExtCodeID="C111298">
+                    <nciodm:CDISCSynonym>Precursor mRNA</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A primary RNA transcript synthesized from a DNA template in eukaryotic nuclei which is post-transcriptionally modified and spliced to produce a mature mRNA. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Precursor mRNA</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="pri-miRNA" nciodm:ExtCodeID="C25967">
+                    <nciodm:CDISCSynonym>Pri-MIR</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Pri-miRNA</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Pri-microRNA</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Primary MicroRNA</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The pri-miRNA is a primary transcript derived from a gene whose sole products are miRNA(s). A unique pathway involving the nuclear microprocessor complex participates in the cleavage of such transcripts, which can be substantially longer than the 65-110 nt pre-miRNA.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Pri-miRNA</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="rDNA" nciodm:ExtCodeID="C95943">
+                    <nciodm:CDISCSynonym>Ribosomal DNA</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Ribosomal RNA Genes</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The genomic sequences that code for ribosomal RNA molecules.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Ribosomal RNA Gene</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="RIBOZYME" nciodm:ExtCodeID="C1292">
+                    <nciodm:CDISCSynonym>Catalytic RNA</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Ribonucleic Enzyme</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>RNA that contains an intron sequence which has an enzyme-like catalytic activity. This intron sequence can function like an enzyme in reactions with other RNA molecules and thus synthesize new molecules even in the absence of protein.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Ribozyme</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="RNA" nciodm:ExtCodeID="C812">
+                    <nciodm:CDISCSynonym>Ribonucleic Acid</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Single-stranded long chain of nucleotides containing ribose. It is the end product of DNA transcription by the enzyme RNA polymerase. It is essential in protein synthesis.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Ribonucleic Acid</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="rRNA" nciodm:ExtCodeID="C814">
+                    <nciodm:CDISCSynonym>Ribosomal RNA</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An RNA molecule that does not contain protein-coding sequence information and constitutes the majority of the cellular RNA (~80%). This nucleic acid associates with multiple proteins to form ribosomes, which are the organelles that drive mRNA-directed protein synthesis.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Ribosomal RNA</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="siRNA" nciodm:ExtCodeID="C2191">
+                    <nciodm:CDISCSynonym>Small Interfering RNA</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A 20 to 25-nucleotide double-stranded RNA which is involved in a sequence-specific messenger RNA degradation process known as RNA interference.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Small Interfering RNA</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="snoRNA" nciodm:ExtCodeID="C111316">
+                    <nciodm:CDISCSynonym>Small Nucleolar RNA</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Small RNA molecules that are present in the nucleolus. They associate with proteins to form small nucleolar ribonucleoprotein particles that are involved in modification of other RNAs. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Small Nucleolar RNA</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="snRNA" nciodm:ExtCodeID="C815">
+                    <nciodm:CDISCSynonym>Small Nuclear RNA</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Small Nuclear Ribonucleic Acid</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>U-RNA</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A small RNA molecule (100-300 nucleotides) located in the cell nucleus. This nucleic acid plays a role in RNA splicing, transcriptional regulation, telomere maintenance and rRNA modification.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Small Nuclear RNA</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SRP RNA" nciodm:ExtCodeID="C95950">
+                    <nciodm:CDISCSynonym>7SL RNA</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>SRP RNA</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Signal Recognition Particle RNA</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>srpRNA</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A non-coding RNA that is part of the signal recognition particle. It is involved in the co-translational targeting of proteins to membranes.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Signal Recognition Particle RNA</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ssDNA" nciodm:ExtCodeID="C111311">
+                    <nciodm:CDISCSynonym>Single-stranded DNA</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A long linear single-stranded polymer formed from nucleotides attached to a deoxyribose backbone. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Single-stranded DNA</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="tmRNA" nciodm:ExtCodeID="C95954">
+                    <nciodm:CDISCSynonym>10Sa RNA</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>SsrA</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Transfer-Messenger RNA</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An RNA encoded by the bacterial ssrA gene. It is involved in the recycling of stalled ribosomes and the targeting of both defective mRNA molecules and incomplete nascent proteins for degradation.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Transfer-Messenger RNA</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TRANSPOSON" nciodm:ExtCodeID="C95942">
+                    <nciodm:CDISCSynonym>Jumping Gene</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Jumping Genes</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Transposable Element</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A class of mobile genetic elements that can move from one genomic position to another.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Transposon</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="tRNA" nciodm:ExtCodeID="C816">
+                    <nciodm:CDISCSynonym>Transfer RNA</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Triplet Codon-Amino Acid Adaptor</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A class of short adaptor RNAs that transfers a specific amino acid to a growing polypeptide chain at the ribosomal site of protein synthesis during translation. Each transfer RNA comprises a three-nucleotide sequence that is complementary to the triplet nucleotide coding sequence of an mRNA, conferring specificity to the amino acid being incorporated into the assembling protein.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Transfer RNA</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>GENSMP</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Genetic Sample Type</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Genetic Sample Type Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

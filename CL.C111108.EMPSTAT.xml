@@ -1,0 +1,21 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C111108.EMPSTAT" Name="Employment Status" DataType="text" nciodm:ExtCodeID="C111108" nciodm:CodeListExtensible="Yes">
+                <Description>
+                    <TranslatedText xml:lang="en">Terminology relevant to the state of being engaged in an activity or service for wages or salary.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="FULL-TIME" nciodm:ExtCodeID="C52658">
+                    <nciodm:CDISCDefinition>Employment involving the standard or customary working time.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Full Time Employment</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NOT EMPLOYED" nciodm:ExtCodeID="C75563">
+                    <nciodm:CDISCDefinition>The state of not having a job.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Unemployment</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PART-TIME" nciodm:ExtCodeID="C75562">
+                    <nciodm:CDISCDefinition>Employment involving less than the standard or customary working time.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Part Time Employment</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>EMPSTAT</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Employment Status</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Employment Status Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

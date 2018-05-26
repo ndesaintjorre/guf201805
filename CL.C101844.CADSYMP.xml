@@ -1,0 +1,25 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C101844.CADSYMP" Name="Coronary Artery Disease Symptoms" DataType="text" nciodm:ExtCodeID="C101844" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">A terminology codelist that contains symptoms associated with coronary artery disease.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="ATYPICAL CORONARY ARTERY DISEASE SYMPTOMS" nciodm:ExtCodeID="C99917">
+                    <nciodm:CDISCDefinition>Sharp stabbing chest pain or reproduction of pain on palpation. Less common isolated presentations, primarily in older adults, include nausea and vomiting, diaphoresis, and unexplained fatigue. J Am Coll Cardiol, 2007; 50:1-157, doi:10.1016/j.jacc.2007.02.013 (Published online 6 August 2007).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Atypical Coronary Artery Disease Symptom</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NO SYMPTOMS" nciodm:ExtCodeID="C3833">
+                    <nciodm:CDISCDefinition>The finding of no indications of a particular disease or injury.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Asymptomatic</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NON-CARDIAC CHEST PAIN" nciodm:ExtCodeID="C78504">
+                    <nciodm:CDISCDefinition>A discomfort in the chest area that is not related to the heart.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Non-Cardiac Chest Pain</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TYPICAL CORONARY ARTERY DISEASE SYMPTOMS" nciodm:ExtCodeID="C100024">
+                    <nciodm:CDISCDefinition>Deep, poorly localized chest or arm discomfort that is reproducibly associated with physical exertion or emotional stress and is relieved promptly (ie, in less than 5 minutes) with rest and/or the use of sublingual nitroglycerin. Some patients may have no chest discomfort but present solely with jaw, neck, ear, arm, shoulder, back, or epigastric discomfort or with unexplained dyspnea without discomfort. If these symptoms have a clear relationship to exertion or stress or are relieved promptly with nitrates, they should be considered equivalent to angina. J Am Coll Cardiol, 2007; 50:1-157, doi:10.1016/j.jacc.2007.02.013 (Published online 6 August 2007).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Typical Coronary Artery Disease Symptom</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>CADSYMP</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Coronary Artery Disease Symptoms</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Coronary Artery Disease Symptoms Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

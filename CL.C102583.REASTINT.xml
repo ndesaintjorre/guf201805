@@ -1,0 +1,33 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C102583.REASTINT" Name="Reason for Treatment Interruption" DataType="text" nciodm:ExtCodeID="C102583" nciodm:CodeListExtensible="Yes">
+                <Description>
+                    <TranslatedText xml:lang="en">Terminology relevant to the reason the drug or therapy was temporarily ceased.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="FORGOT TO TAKE MEDICATION DOSE" nciodm:ExtCodeID="C102638">
+                    <nciodm:CDISCDefinition>A patient's failure to remember to take a dose of medication.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Forgot to Take Medication Dose</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="INTOLERANCE" nciodm:ExtCodeID="C71437">
+                    <nciodm:CDISCDefinition>An inability to absorb or metabolize certain substances in the normal way.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Intolerance</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MEDICATION MISPLACED" nciodm:ExtCodeID="C102664">
+                    <nciodm:CDISCDefinition>Medications that were lost because they were put in the wrong place.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Medication Misplaced</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PATIENT NONCOMPLIANCE" nciodm:ExtCodeID="C91752">
+                    <nciodm:CDISCDefinition>Failure of a patient to follow medical advice, take medication as directed, or adhere to a prescribed course of treatment.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Patient Noncompliance</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TREATMENT FAILURE" nciodm:ExtCodeID="C48226">
+                    <nciodm:CDISCDefinition>The lack of expected or desired effect related to a therapy. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Lack of Efficacy</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="VACATION" nciodm:ExtCodeID="C80227">
+                    <nciodm:CDISCDefinition>Leisure time away from work devoted to rest or pleasure.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Vacation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>REASTINT</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Reason for Treatment Interruption</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Reason for Treatment Interruption Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

@@ -1,0 +1,664 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C71152.EGTEST" Name="ECG Test Name" DataType="text" nciodm:ExtCodeID="C71152" nciodm:CodeListExtensible="Yes">
+                <Description>
+                    <TranslatedText xml:lang="en">Terminology codelist used with ECG Test Names within CDISC.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="Acute Myocardial Ischemia ECG Change" nciodm:ExtCodeID="C116140">
+                    <nciodm:CDISCSynonym>Acute Myocardial Ischemia ECG Change</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding assessment of new or presumed new significant ST-segment-T wave (ST-T) changes or new left bundle branch block consistent with acute myocardial ischemia. (Thygesen K, Alpert JS, Jaffe AS, et al.: the Writing Group on behalf of the Joint ESC/ACCF/AHA/WHF Task Force for the Universal Definition of Myocardial Infarction. J Am Coll Cardiol 60(16):1-18, 2012)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Acute Myocardial Ischemia by ECG Assessment</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Atrioventricular Conduction" nciodm:ExtCodeID="C111131">
+                    <nciodm:CDISCSynonym>Atrioventricular Conduction</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic assessment of cardiac atrioventricular conduction.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Atrioventricular Conduction ECG Assessment</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Axis and Voltage" nciodm:ExtCodeID="C111132">
+                    <nciodm:CDISCSynonym>Axis and Voltage</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic assessment of mean cardiac electrical vector and the ECG voltage.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Axis and Voltage ECG Assessment</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Chamber Hypertrophy or Enlargement" nciodm:ExtCodeID="C111155">
+                    <nciodm:CDISCSynonym>Chamber Hypertrophy or Enlargement</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic assessment of chamber hypertrophy or enlargement.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Chamber Hypertrophy or Enlargement ECG Assessment</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Comparison to a Prior ECG" nciodm:ExtCodeID="C117761">
+                    <nciodm:CDISCSynonym>Comparison to a Prior ECG</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A comparative interpretation of an ECG relative to a previous (comparator) ECG. The definition of the comparator ECG may be specified elsewhere. Common comparator result values include improved, no change, deteriorated.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Comparison to a Prior ECG</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ECG Maximum Atrial Rate" nciodm:ExtCodeID="C119253">
+                    <nciodm:CDISCSynonym>ECG Maximum Atrial Rate</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic measurement of the maximum rate of atrial depolarizations (P waves) recorded during an interval of time, usually expressed in beats per minute.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Maximum Atrial Rate by Electrocardiogram</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ECG Maximum Heart Rate" nciodm:ExtCodeID="C119257">
+                    <nciodm:CDISCSynonym>ECG Maximum Heart Rate</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic measurement of the maximum rate of depolarization of a specific region of the heart during an interval of time, usually expressed in beats per minute. Unless otherwise specified, this is usually the maximum ventricular rate.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Maximum Heart Rate by Electrocardiogram</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ECG Maximum Ventricular Rate" nciodm:ExtCodeID="C119260">
+                    <nciodm:CDISCSynonym>ECG Maximum Ventricular Rate</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic measurement of the maximum rate of ventricular depolarizations (QRS complexes) recorded during an interval of time, usually expressed in beats per minute.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Maximum Ventricular Rate by Electrocardiogram</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ECG Mean Atrial Rate" nciodm:ExtCodeID="C119256">
+                    <nciodm:CDISCSynonym>ECG Mean Atrial Rate</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic measurement of the average rate of atrial depolarizations (P waves) recorded during an interval of time, usually expressed in beats per minute.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Mean Atrial Rate by Electrocardiogram</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ECG Mean Heart Rate" nciodm:ExtCodeID="C119259">
+                    <nciodm:CDISCSynonym>ECG Mean Heart Rate</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic measurement of the average rate of depolarization of a specific region of the heart during an interval of time, usually expressed in beats per minute. Unless otherwise specified, this is usually the mean ventricular rate.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Mean Heart Rate by Electrocardiogram</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ECG Mean Ventricular Rate" nciodm:ExtCodeID="C119263">
+                    <nciodm:CDISCSynonym>ECG Mean Ventricular Rate</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic measurement of the average rate of ventricular depolarizations (QRS complexes) recorded during an interval of time, usually expressed in beats per minute.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Mean Ventricular Rate by Electrocardiogram</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ECG Median Atrial Rate" nciodm:ExtCodeID="C119254">
+                    <nciodm:CDISCSynonym>ECG Median Atrial Rate</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic measurement of the median rate of atrial depolarizations (P waves) recorded during an interval of time, usually expressed in beats per minute.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Median Atrial Rate by Electrocardiogram</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ECG Median Ventricular Rate" nciodm:ExtCodeID="C119261">
+                    <nciodm:CDISCSynonym>ECG Median Ventricular Rate</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic measurement of the median rate of ventricular depolarizations (QRS complexes) recorded during an interval of time, usually expressed in beats per minute.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Median Ventricular Rate by Electrocardiogram</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ECG Minimum Atrial Rate" nciodm:ExtCodeID="C119255">
+                    <nciodm:CDISCSynonym>ECG Minimum Atrial Rate</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic measurement of the minimum rate of atrial depolarizations (P waves) recorded during an interval of time, usually expressed in beats per minute.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Minimum Atrial Rate by Electrocardiogram</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ECG Minimum Heart Rate" nciodm:ExtCodeID="C119258">
+                    <nciodm:CDISCSynonym>ECG Minimum Heart Rate</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic measurement of the minimum rate of depolarization of a specific region of the heart during an interval of time, usually expressed in beats per minute. Unless otherwise specified, this is usually the minimum ventricular rate.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Minimum Heart Rate by Electrocardiogram</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ECG Minimum Ventricular Rate" nciodm:ExtCodeID="C119262">
+                    <nciodm:CDISCSynonym>ECG Minimum Ventricular Rate</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic measurement of the minimum rate of ventricular depolarizations (QRS complexes) recorded during an interval of time, usually expressed in beats per minute.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Minimum Ventricular Rate by Electrocardiogram</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Interpretation" nciodm:ExtCodeID="C41255">
+                    <nciodm:CDISCSynonym>Interpretation</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An act or process of elucidation; explication, or explanation of the meaning of the event or thing via the assignment of objects from the domain to the constants of a formal language, truth-values to the proposition symbols, truth-functions to the connectives, other functions to the function symbols, and extensions to the predicates, if any. The assignments are result of human logic application and are not native to the symbols of the formal language.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Interpretation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Intraventricular-Intraatrial Conduction" nciodm:ExtCodeID="C111238">
+                    <nciodm:CDISCSynonym>Intraventricular-Intraatrial Conduction</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic assessment of intraventricular and intra-atrial conduction.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Intraventricular and Intraatrial Conduction ECG Assessment</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="J-Tpeak Interval, Aggregate" nciodm:ExtCodeID="C117767">
+                    <nciodm:CDISCSynonym>J-Tpeak Interval, Aggregate</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An aggregate J-Tpeak value based on the measurement of J-Tpeak intervals from multiple beats within a single ECG. The method of aggregation, which can vary, is typically a measure of central tendency such as the mean.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Aggregate J-T Peak Interval</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="J-Tpeak Interval, Single Beat" nciodm:ExtCodeID="C117768">
+                    <nciodm:CDISCSynonym>J-Tpeak Interval, Single Beat</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic interval measured from the J point to the peak of the T wave of a single beat utilizing one or more leads.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Single Beat J-T Peak Interval</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="JT Interval, Aggregate" nciodm:ExtCodeID="C117762">
+                    <nciodm:CDISCSynonym>JT Interval, Aggregate</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An aggregate JT value based on the measurement of JT intervals from multiple beats within a single ECG. The method of aggregation, which can vary, is typically a measure of central tendency such as the mean.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Aggregate JT Interval</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="JT Interval, Single Beat" nciodm:ExtCodeID="C117769">
+                    <nciodm:CDISCSynonym>JT Interval, Single Beat</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic interval measured from the J point to the offset of the T wave of a single beat utilizing one or more leads.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Single Beat JT Interval</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="JTcB - Bazett's Correction Formula" nciodm:ExtCodeID="C62118">
+                    <nciodm:CDISCSynonym>JTcB - Bazett's Correction Formula</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A formula which takes into account the physiologic shortening of the JT interval which occurs as the heart rate increases, permitting comparison of the JT interval across a range of rates. It is mathematically defined as: JTcB = JT/SqRootRR(seconds) and theoretically corrects the JT interval to that which would be observed at a heart rate of 1 cycle per second. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>JTcB - Bazett's Correction Formula</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="JTCB Interval, Aggregate" nciodm:ExtCodeID="C117763">
+                    <nciodm:CDISCSynonym>JTCB Interval, Aggregate</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A JTAG interval corrected for heart rate using Bazett's formula.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Aggregate JTCB Interval</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="JTCB Interval, Single Beat" nciodm:ExtCodeID="C117764">
+                    <nciodm:CDISCSynonym>JTCB Interval, Single Beat</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A JTSB interval corrected for heart rate using Bazett's formula.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Single Beat JTCB Interval</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="JTcF - Fridericia's Correction Formula" nciodm:ExtCodeID="C62119">
+                    <nciodm:CDISCSynonym>JTcF - Fridericia's Correction Formula</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A formula which takes into account the physiologic shortening of the JT interval which occurs as the heart rate increases, permitting comparison of the JT interval across a range of rates. It is mathematically defined as: JTcF = JT/CubeRootRR(seconds) and theoretically corrects the JT interval to that which would be observed at a heart rate of 1 cycle per second. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>JTcF - Fridericia's Correction Formula</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="JTCF Interval, Aggregate" nciodm:ExtCodeID="C117765">
+                    <nciodm:CDISCSynonym>JTCF Interval, Aggregate</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A JTAG interval corrected for heart rate using Fridericia's formula.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Aggregate JTCF Interval</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="JTCF Interval, Single Beat" nciodm:ExtCodeID="C117766">
+                    <nciodm:CDISCSynonym>JTCF Interval, Single Beat</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A JTSB interval corrected for heart rate using Fridericia's formula.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Single Beat JTCF Interval</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="JTcLC - Linear Correction Formula" nciodm:ExtCodeID="C62120">
+                    <nciodm:CDISCSynonym>JTcLC - Linear Correction Formula</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A formula which takes into account the physiologic shortening of the JT interval which occurs as the heart rate increases, permitting comparison of the JT interval across a range of rates. The linear correction formula uses population-based data obtained and validated using a large cohort of subjects. Using this method, the corrected JT interval is independent of the ventricular rate. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>JTcLC - Linear Correction Formula</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Myocardial Infarction" nciodm:ExtCodeID="C111280">
+                    <nciodm:CDISCSynonym>Myocardial Infarction</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic assessment of findings suggestive of myocardial infarction.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Myocardial Infarction ECG Assessment</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="New Q Wave" nciodm:ExtCodeID="C117770">
+                    <nciodm:CDISCSynonym>New Q Wave</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding assessment of new or presumed new pathologic Q waves suggestive of myocardial infarction. (Thygesen K, Alpert JS, Jaffe AS, et al.: the Writing Group on behalf of the Joint ESC/ACCF/AHA/WHF Task Force for the Universal Definition of Myocardial Infarction. J Am Coll Cardiol 60(16):1-18, 2012).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>New Q Wave</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="P Wave Amplitude, Aggregate" nciodm:ExtCodeID="C117777">
+                    <nciodm:CDISCSynonym>P Wave Amplitude, Aggregate</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An aggregate P wave amplitude value based on the measurement of P wave amplitudes from multiple beats within a single ECG. The method of aggregation, which can vary, is typically a measure of central tendency such as the mean.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Aggregate P Wave Amplitude</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="P Wave Amplitude, Single Beat" nciodm:ExtCodeID="C117778">
+                    <nciodm:CDISCSynonym>P Wave Amplitude, Single Beat</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic measurement of the mean amplitude (usually measured in mV) of the P wave measured from the isoelectric baseline to the peak of the P wave of a single beat utilizing one or more leads. Based on the recording gain, this measurement may also be reported in mm.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Single Beat P Wave Amplitude</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="P Wave Axis" nciodm:ExtCodeID="C118164">
+                    <nciodm:CDISCSynonym>P Wave Axis</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A numerical representation of the electrocardiographic vector assessed at maximum deviation of the P wave from the isoelectric baseline, usually reported for the frontal plane.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>P Wave Axis</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="P Wave Duration, Aggregate" nciodm:ExtCodeID="C117775">
+                    <nciodm:CDISCSynonym>P Wave Duration, Aggregate</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An aggregate P wave duration value based on the measurement of P wave duration intervals from multiple beats within a single ECG. The method of aggregation, which can vary, is typically a measure of central tendency such as the mean.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Aggregate P Wave Duration</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="P Wave Duration, Single Beat" nciodm:ExtCodeID="C117776">
+                    <nciodm:CDISCSynonym>P Wave Duration, Single Beat</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic interval measured from the onset of the P wave to the offset of the P wave of a single beat utilizing one or more leads.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Single Beat P Wave Duration</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Pacemaker" nciodm:ExtCodeID="C111285">
+                    <nciodm:CDISCSynonym>Pacemaker</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic assessment of presence of artificial electronic pacing.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Pacemaker ECG Assessment</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PP Interval, Aggregate" nciodm:ExtCodeID="C117771">
+                    <nciodm:CDISCSynonym>PP Interval, Aggregate</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An aggregate PP value based on the measurement of PP intervals from multiple beats within a single ECG. The method of aggregation, which can vary, is typically a measure of central tendency such as the mean.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Aggregate PP Interval</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PP Interval, Single Measurement" nciodm:ExtCodeID="C117772">
+                    <nciodm:CDISCSynonym>PP Interval, Single Measurement</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic measurement of the interval between the onsets of two consecutive P waves.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Single Measurement PP Interval</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PR Interval, Aggregate" nciodm:ExtCodeID="C117773">
+                    <nciodm:CDISCSynonym>PR Interval, Aggregate</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An aggregate PR value based on the measurement of PR intervals from multiple beats within a single ECG. The method of aggregation, which can vary, is typically a measure of central tendency such as the mean.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Aggregate PR Interval</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PR Interval, Single Beat" nciodm:ExtCodeID="C117774">
+                    <nciodm:CDISCSynonym>PR Interval, Single Beat</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic interval measured from the onset of the P wave to the onset of the QRS complex of a single beat utilizing one or more leads.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Single Beat PR Interval</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Q Wave Amplitude, Aggregate" nciodm:ExtCodeID="C117789">
+                    <nciodm:CDISCSynonym>Q Wave Amplitude, Aggregate</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An aggregate Q wave amplitude value based on the measurement of Q wave amplitudes from multiple beats within a single ECG. The method of aggregation, which can vary, is typically a measure of central tendency such as the mean.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Aggregate Q Wave Amplitude</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Q Wave Amplitude, Single Beat" nciodm:ExtCodeID="C117790">
+                    <nciodm:CDISCSynonym>Q Wave Amplitude, Single Beat</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic measurement of the mean amplitude (usually measured in mV) of the Q wave measured from the isoelectric baseline to the peak of the Q wave of a single beat utilizing one or more leads. Based on the recording gain, this measurement may also be reported in mm.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Single Beat Q Wave Amplitude</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="QRS Axis" nciodm:ExtCodeID="C118165">
+                    <nciodm:CDISCSynonym>QRS Axis</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A numerical representation of the electrocardiographic vector assessed at maximum deviation of the QRS complex from the isoelectric baseline, usually reported for the frontal plane.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>QRS Axis</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="QRS Duration Ventricular Paced" nciodm:ExtCodeID="C100390">
+                    <nciodm:CDISCSynonym>QRS Duration Ventricular Paced</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The average (mean) duration (time) of the QRS interval, obtained from a set of measurements of the QRS interval while the ventricle rhythm is controlled by an electrical impulse from a mechanical cardiac pacemaker. The QRS interval is defined as the time from the beginning of the QRS complex to the end of the QRS complex, representing the time it takes for the ventricles to depolarize.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Mean QRS Duration Ventricular Paced</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="QRS Duration, Aggregate" nciodm:ExtCodeID="C117779">
+                    <nciodm:CDISCSynonym>QRS Duration, Aggregate</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An aggregate QRS value based on the measurement of QRS intervals from multiple beats within a single ECG. The method of aggregation, which can vary, is typically a measure of central tendency such as the mean.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Aggregate QRS Duration</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="QRS Duration, Single Beat" nciodm:ExtCodeID="C117780">
+                    <nciodm:CDISCSynonym>QRS Duration, Single Beat</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic interval measured from the onset of the QRS complex to the offset of the QRS complex of a single beat utilizing one or more leads.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Single Beat QRS Duration</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="QRS Duration, Ventr. Paced, Aggregate" nciodm:ExtCodeID="C117781">
+                    <nciodm:CDISCSynonym>QRS Duration, Ventr. Paced, Aggregate</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An aggregate paced QRS duration value based on the measurement of paced QRS duration intervals from multiple beats within a single ECG. The method of aggregation, which can vary, is typically a measure of central tendency such as the mean.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Paced Ventricular Aggregate QRS Duration</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="QRS Duration, Ventr. Paced, Single Beat" nciodm:ExtCodeID="C117782">
+                    <nciodm:CDISCSynonym>QRS Duration, Ventr. Paced, Single Beat</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic interval measured from the onset of the paced QRS complex to the offset of the QRS complex of a single beat utilizing one or more leads.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Paced Ventricular Single Beat QRS Duration</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="QT Interval, Aggregate" nciodm:ExtCodeID="C117783">
+                    <nciodm:CDISCSynonym>QT Interval, Aggregate</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An aggregate QT value based on the measurement of QT intervals from multiple beats within a single ECG. The method of aggregation, which can vary, is typically a measure of central tendency such as the mean.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Aggregate QT Interval</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="QT Interval, Corrected" nciodm:ExtCodeID="C100391">
+                    <nciodm:CDISCSynonym>QT Interval, Corrected</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The time interval between the start of the Q wave and the end of the T wave in the cardiac cycle as corrected with a non-specified correction formula.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Corrected QT Interval</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="QT Interval, Single Beat" nciodm:ExtCodeID="C117788">
+                    <nciodm:CDISCSynonym>QT Interval, Single Beat</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic interval measured from the onset of the QRS complex to the offset of the T wave of a single beat utilizing one or more leads.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Single Beat QT Interval</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="QTcB - Bazett's Correction Formula" nciodm:ExtCodeID="C62112">
+                    <nciodm:CDISCSynonym>QTcB - Bazett's Correction Formula</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A formula which takes into account the physiologic shortening of the QT interval which occurs as the heart rate increases, permitting comparison of the QT interval across a range of rates. It is mathematically defined as: QTcB = QT/SqRootRR(seconds) and theoretically corrects the QT interval to that which would be observed at a heart rate of 1 cycle per second. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>QTcB - Bazett's Correction Formula</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="QTCB Interval, Aggregate" nciodm:ExtCodeID="C117784">
+                    <nciodm:CDISCSynonym>QTCB Interval, Aggregate</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A QTAG interval corrected for heart rate using Bazett's formula.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Aggregate QTCB Interval</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="QTCB Interval, Single Beat" nciodm:ExtCodeID="C117785">
+                    <nciodm:CDISCSynonym>QTCB Interval, Single Beat</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A QTSB interval corrected for heart rate using Bazett's formula.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Single Beat QTCB Interval</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="QTcF - Fridericia's Correction Formula" nciodm:ExtCodeID="C62113">
+                    <nciodm:CDISCSynonym>QTcF - Fridericia's Correction Formula</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A formula which takes into account the physiologic shortening of the QT interval which occurs as the heart rate increases, permitting comparison of the QT interval across a range of rates. It is mathematically defined as: QTcF = QT/CubeRootRR(seconds) and theoretically corrects the QT interval to that which would be observed at a heart rate of 1 cycle per second. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>QTcF - Fridericia's Correction Formula</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="QTCF Interval, Aggregate" nciodm:ExtCodeID="C117786">
+                    <nciodm:CDISCSynonym>QTCF Interval, Aggregate</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A QTAG interval corrected for heart rate using Fridericia's formula.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Aggregate QTCF Interval</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="QTCF Interval, Single Beat" nciodm:ExtCodeID="C117787">
+                    <nciodm:CDISCSynonym>QTCF Interval, Single Beat</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A QTSB interval corrected for heart rate using Fridericia's formula.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Single Beat QTCF Interval</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="QTcLC - Linear Correction Formula" nciodm:ExtCodeID="C62114">
+                    <nciodm:CDISCSynonym>QTcLC - Linear Correction Formula</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A formula which takes into account the physiologic shortening of the QT interval which occurs as the heart rate increases, permitting comparison of the QT interval across a range of rates. The linear correction formula uses population-based data obtained and validated using a large cohort of subjects. This method theoretically corrects the QT interval to that which would be observed at a heart rate of 1 cycle per second. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>QTcLC - Linear Correction Formula</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="QTcV - Van de Water's Correction Formula" nciodm:ExtCodeID="C90442">
+                    <nciodm:CDISCSynonym>QTcV - Van de Water's Correction Formula</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A mathematic formula defined as: QTcV = QT-0.087[(60/Heart Rate)-1](seconds). It permits comparison of the QT interval across a range of rates, while accounting for the progressive shortening of the QT interval which occurs as the heart rate increases. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>QTcV - Van de Water's Correction Formula</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="R Wave Amplitude, Aggregate" nciodm:ExtCodeID="C117795">
+                    <nciodm:CDISCSynonym>R Wave Amplitude, Aggregate</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An aggregate R wave amplitude value based on the measurement of R wave amplitudes from multiple beats within a single ECG. The method of aggregation, which can vary, is typically a measure of central tendency such as the mean.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>R Wave Amplitude Aggregate</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="R Wave Amplitude, Single Beat" nciodm:ExtCodeID="C117796">
+                    <nciodm:CDISCSynonym>R Wave Amplitude, Single Beat</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic measurement of the mean amplitude (usually measured in mV) of the R wave measured from the isoelectric baseline to the peak of the R wave of a single beat utilizing one or more leads. Based on the recording gain, this measurement may also be reported in mm.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>R Wave Amplitude Single Beat</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Rhythm Not Otherwise Specified" nciodm:ExtCodeID="C111307">
+                    <nciodm:CDISCSynonym>Rhythm Not Otherwise Specified</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic assessment of cardiac rhythm not otherwise specified.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Rhythm Not Otherwise Specified ECG Assessment</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="RR Interval, Aggregate" nciodm:ExtCodeID="C117791">
+                    <nciodm:CDISCSynonym>RR Interval, Aggregate</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An aggregate RR value based on the measurement of RR intervals from multiple beats within a single ECG. The method of aggregation, which can vary, is typically a measure of central tendency such as the mean.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Aggregate RR Interval</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="RR Interval, Single Measurement" nciodm:ExtCodeID="C117792">
+                    <nciodm:CDISCSynonym>RR Interval, Single Measurement</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic measurement of the interval between two consecutive R waves. If R waves are not present, this measurement may utilize the interval between the most easily identified components of the QRS complex within two consecutive beats.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>RR Interval Single Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="RS Wave Amplitude, Aggregate" nciodm:ExtCodeID="C117793">
+                    <nciodm:CDISCSynonym>RS Wave Amplitude, Aggregate</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An aggregate RS wave amplitude value based on measurements from multiple beats from a single ECG. The method of aggregation, which can vary, is typically a measure of central tendency such as the mean.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>RS Wave Amplitude Aggregate</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="RS Wave Amplitude, Single Beat" nciodm:ExtCodeID="C117794">
+                    <nciodm:CDISCSynonym>RS Wave Amplitude, Single Beat</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic measurement of the sum of the amplitudes of the R and S waves, obtained from a single beat in one particular lead or set of leads.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>RS Wave Amplitude Single Beat</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="S Wave Amplitude, Aggregate" nciodm:ExtCodeID="C117805">
+                    <nciodm:CDISCSynonym>S Wave Amplitude, Aggregate</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An aggregate S wave amplitude value based on the measurement of S wave amplitudes from multiple beats within a single ECG. The method of aggregation, which can vary, is typically a measure of central tendency such as the mean.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>S Wave Amplitude Aggregate</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="S Wave Amplitude, Single Beat" nciodm:ExtCodeID="C117806">
+                    <nciodm:CDISCSynonym>S Wave Amplitude, Single Beat</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic measurement of the mean amplitude (usually measured in mV) of the S wave measured from the isoelectric baseline to the peak of the S wave of a single beat utilizing one or more leads. Based on the recording gain, this measurement may also be reported in mm.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>S Wave Amplitude Single Beat</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Single RR Heart Rate" nciodm:ExtCodeID="C120608">
+                    <nciodm:CDISCSynonym>Single RR Heart Rate</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic measurement of a heart rate derived from a single RR interval (interval between two consecutive QRS complexes).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Single Beat RR Extrapolated Heart Rate by ECG Assessment</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Sinus Node Rhythms and Arrhythmias" nciodm:ExtCodeID="C111312">
+                    <nciodm:CDISCSynonym>Sinus Node Rhythms and Arrhythmias</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic assessment of sinus node rhythms and arrhythmias.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Sinus Node Rhythm and Arrhythmia ECG Assessment</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ST Segment Depression, Aggregate" nciodm:ExtCodeID="C117797">
+                    <nciodm:CDISCSynonym>ST Segment Depression, Aggregate</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An aggregate ST segment depression value based on the measurement of ST segment depression from multiple beats within a single ECG. The method of aggregation, which can vary, is typically a measure of central tendency such as the mean.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ST Segment Depression Aggregate</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ST Segment Depression, Single Beat" nciodm:ExtCodeID="C117798">
+                    <nciodm:CDISCSynonym>ST Segment Depression, Single Beat</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic measurement of the mean amplitude (usually measured in mV) of the ST segment depression below the isoelectric baseline measured from the baseline to the ST segment of a single beat utilizing one or more leads. Based on the recording gain, this measurement may also be reported in mm.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ST Segment Depression Single Beat</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ST Segment Deviation, Aggregate" nciodm:ExtCodeID="C117799">
+                    <nciodm:CDISCSynonym>ST Segment Deviation, Aggregate</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An aggregate ST segment deviation value based on the measurement of ST segment deviation from multiple beats within a single ECG. The method of aggregation, which can vary, is typically a measure of central tendency such as the mean.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ST Segment Deviation Aggregate</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ST Segment Deviation, Single Beat" nciodm:ExtCodeID="C117800">
+                    <nciodm:CDISCSynonym>ST Segment Deviation, Single Beat</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic measurement of the mean amplitude (usually measured in mV) of the ST segment deviation above or below the isoelectric baseline measured from the baseline to the ST segment of a single beat utilizing one or more leads. Based on the recording gain, this measurement may also be reported in mm.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ST Segment Deviation Single Beat</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ST Segment Duration, Aggregate" nciodm:ExtCodeID="C117803">
+                    <nciodm:CDISCSynonym>ST Segment Duration, Aggregate</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An aggregate ST segment duration value based on the measurement of ST segment duration intervals from multiple beats within a single ECG. The method of aggregation, which can vary, is typically a measure of central tendency such as the mean.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ST Segment Duration Aggregate</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ST Segment Duration, Single Beat" nciodm:ExtCodeID="C117804">
+                    <nciodm:CDISCSynonym>ST Segment Duration, Single Beat</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic interval measured from the J point to the onset of the T wave of a single beat utilizing one or more leads.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ST Segment Duration Single Beat</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ST Segment Elevation, Aggregate" nciodm:ExtCodeID="C117801">
+                    <nciodm:CDISCSynonym>ST Segment Elevation, Aggregate</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An aggregate ST segment elevation value based on the measurement of ST segment elevation from multiple beats within a single ECG. The method of aggregation, which can vary, is typically a measure of central tendency such as the mean.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ST Segment Elevation Aggregate</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ST Segment Elevation, Single Beat" nciodm:ExtCodeID="C117802">
+                    <nciodm:CDISCSynonym>ST Segment Elevation, Single Beat</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic measurement of the mean amplitude (usually measured in mV) of the ST segment elevation above the isoelectric baseline measured from the baseline to the ST segment of a single beat utilizing one or more leads. Based on the recording gain, this measurement may also be reported in mm.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ST Segment Elevation Single Beat</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ST Segment, T wave, and U wave" nciodm:ExtCodeID="C111363">
+                    <nciodm:CDISCSynonym>ST Segment, T wave, and U wave</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic assessment of the characteristics of the ST segment, T wave, and U wave.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ST Segment, T wave, and U wave ECG Assessment</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Summary (Max) JT Interval" nciodm:ExtCodeID="C62117">
+                    <nciodm:CDISCSynonym>Summary (Max) JT Interval</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The maximum duration (time) of the JT interval, obtained from a set of measurements of the JT interval. The JT interval is defined as the time from the J point (end of ventricular depolarization, the point at which the QRS meets the ST segment) to the end of the T wave (representing the end of ventricular repolarization). (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Maximum JT Duration</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Summary (Max) PR Duration" nciodm:ExtCodeID="C62131">
+                    <nciodm:CDISCSynonym>Summary (Max) PR Duration</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The maximum duration (time) of the PR interval, obtained from a set of measurements of the PR interval. The PR interval is defined as the time from the beginning of the P wave (representing the onset of atrial depolarization) to the beginning of the R wave (representing the onset of ventricular depolarization). In some cases, a Q wave will precede the R wave, in which case the PR interval is measured from the beginning of the P wave to the beginning of the Q wave. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Maximum PR Duration</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Summary (Max) QT Duration" nciodm:ExtCodeID="C62135">
+                    <nciodm:CDISCSynonym>Summary (Max) QT Duration</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The maximum duration (time) of the QT interval, obtained from a set of measurements of the QT interval. The QT interval is defined as the time from the beginning of the QRS complex to the end of the T wave, representing the time it takes for the ventricles to depolarize and subsequently repolarize. In some cases, the Q wave will be absent, in which case the QT interval is measured from the beginning of the R wave to the end of the T wave. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Maximum QT Duration</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Summary (Max) RR Duration" nciodm:ExtCodeID="C62094">
+                    <nciodm:CDISCSynonym>Summary (Max) RR Duration</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The maximum duration (time) between successive peaks of R waves in a particular set of RR intervals. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Maximum RR Duration</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Summary (Max) ST Depression" nciodm:ExtCodeID="C62163">
+                    <nciodm:CDISCSynonym>Summary (Max) ST Depression</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The maximum depression (negative deflection from baseline, usually measured in mm) of the ST segment, obtained from a set of measurements of the depression of the ST segment. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Maximum ST Segment Depression by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Summary (Max) ST Deviation" nciodm:ExtCodeID="C62157">
+                    <nciodm:CDISCSynonym>Summary (Max) ST Deviation</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The maximum deviation (distance from baseline, positive or negative, usually measured in mm) of the ST segment, obtained from a set of measurements of the deviation of the ST segment. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Maximum ST Deviation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Summary (Max) ST Elevation" nciodm:ExtCodeID="C62160">
+                    <nciodm:CDISCSynonym>Summary (Max) ST Elevation</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The maximum elevation (positive deflection from baseline, usually measured in mm) of the ST segment, obtained from a set of measurements of the elevation of the ST segment. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Maximum ST Segment Elevation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Summary (Mean) JT Interval" nciodm:ExtCodeID="C62115">
+                    <nciodm:CDISCSynonym>Summary (Mean) JT Interval</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The average (mean) duration (time) of the JT interval, obtained from a set of measurements of the JT interval. The JT interval is defined as the time from the J point (end of ventricular depolarization, the point at which the QRS meets the ST segment) to the end of the T wave (representing the end of ventricular repolarization). (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Mean JT Duration</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Summary (Mean) P Wave Duration" nciodm:ExtCodeID="C62123">
+                    <nciodm:CDISCSynonym>Summary (Mean) P Wave Duration</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The average (mean) duration (time) from the onset of atrial depolarization to the completion of atrial depolarization (length of the P wave), obtained from a set of measurements of the time from beginning to end of atrial depolarization. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Mean P Wave Duration</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Summary (Mean) P Wave Height" nciodm:ExtCodeID="C62124">
+                    <nciodm:CDISCSynonym>Summary (Mean) P Wave Height</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The average (mean) height (usually measured in mm) of the maximum deflection from baseline of the P wave (representing atrial depolarization), obtained from a set of measurements of the P wave, from a single lead or set of leads. Typically this measurement is obtained by analysis of Lead II. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Mean P Wave Height</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Summary (Mean) PR Duration" nciodm:ExtCodeID="C62086">
+                    <nciodm:CDISCSynonym>Summary (Mean) PR Duration</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The average (mean) duration (time) of the PR interval, obtained from a set of measurements of the PR interval. The PR interval is defined as the time from the beginning of the P wave (representing the onset of atrial depolarization) to the beginning of the R wave (representing the onset of ventricular depolarization). In some cases, a Q wave will precede the R wave, in which case the PR interval is measured from the beginning of the P wave to the beginning of the Q wave. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Mean PR Duration</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Summary (Mean) QRS Duration" nciodm:ExtCodeID="C62087">
+                    <nciodm:CDISCSynonym>Summary (Mean) QRS Duration</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The average (mean) duration (time) of the QRS interval, obtained from a set of measurements of the QRS interval. The QRS interval is defined as the time from the beginning of the QRS complex to the end of the QRS complex, representing the time it takes for the ventricles to depolarize. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Mean QRS Duration</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Summary (Mean) QT Duration" nciodm:ExtCodeID="C62089">
+                    <nciodm:CDISCSynonym>Summary (Mean) QT Duration</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The average (mean) duration (time) of the QT interval, obtained from a set of measurements of the QT interval. The QT interval is defined as the time from the beginning of the QRS complex to the end of the T wave, representing the time it takes for the ventricles to depolarize and subsequently repolarize. In some cases, the Q wave will be absent, in which case the QT interval is measured from the beginning of the R wave to the end of the T wave. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Mean QT Duration</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Summary (Mean) R Wave Amplitude" nciodm:ExtCodeID="C62136">
+                    <nciodm:CDISCSynonym>Summary (Mean) R Wave Amplitude</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The average (mean) amplitude (usually in mm) of the R wave, obtained from a set of measurements of the R wave, in a particular lead or set of leads. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Mean R Wave Amplitude</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Summary (Mean) R+S Amplitude" nciodm:ExtCodeID="C62144">
+                    <nciodm:CDISCSynonym>Summary (Mean) R+S Amplitude</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The average (mean) amplitude (usually in mm) of the summation of the R and S waves, obtained from a set of measurements of the R and S waves, in a particular lead or set of leads. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Mean R+S Amplitude</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Summary (Mean) RR Duration" nciodm:ExtCodeID="C62090">
+                    <nciodm:CDISCSynonym>Summary (Mean) RR Duration</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The average (mean) duration (time) of the RR interval, obtained from a set of measurements of the RR interval. The RR interval is defined as the time between successive peaks of the R wave and can be used to measure the ventricular rate. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Mean RR Duration</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Summary (Mean) S Wave Amplitude" nciodm:ExtCodeID="C62137">
+                    <nciodm:CDISCSynonym>Summary (Mean) S Wave Amplitude</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The average (mean) amplitude (usually in mm) of the S wave, obtained from a set of measurements of the S wave, in a particular lead or set of leads. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Mean S Wave Amplitude</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Summary (Mean) ST Depression" nciodm:ExtCodeID="C62161">
+                    <nciodm:CDISCSynonym>Summary (Mean) ST Depression</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The average (mean) depression (negative deflection from baseline, usually measured in mm) of the ST segment, obtained from a set of measurements of the depression of the ST segment. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Mean ST Segment Depression by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Summary (Mean) ST Deviation" nciodm:ExtCodeID="C62155">
+                    <nciodm:CDISCSynonym>Summary (Mean) ST Deviation</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The average (mean) deviation (distance from baseline, positive or negative, usually measured in mm) of the ST segment, obtained from a set of measurements of the deviation of the ST segment. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Mean ST Deviation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Summary (Mean) ST Elevation" nciodm:ExtCodeID="C62158">
+                    <nciodm:CDISCSynonym>Summary (Mean) ST Elevation</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The average (mean) elevation (positive deflection from baseline, usually measured in mm) of the ST segment, obtained from a set of measurements of the elevation of the ST segment. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Mean ST Segment Elevation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Summary (Mean) ST Segment Duration" nciodm:ExtCodeID="C62145">
+                    <nciodm:CDISCSynonym>Summary (Mean) ST Segment Duration</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The average (mean) duration (time) of the ST segment, measured from the J point at the end of the QRS complex to the beginning of the T wave.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Mean ST Segment Duration</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Summary (Mean) T Wave Area" nciodm:ExtCodeID="C62148">
+                    <nciodm:CDISCSynonym>Summary (Mean) T Wave Area</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The average (mean) area under the curve of the deflection from baseline of the T wave (representing ventricular repolarization), obtained from a set of measurements of the T wave, from a single lead or set of leads. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Mean T Wave Area</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Summary (Mean) T Wave Duration" nciodm:ExtCodeID="C62147">
+                    <nciodm:CDISCSynonym>Summary (Mean) T Wave Duration</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The average (mean) duration (time) from the onset of ventricular repolarization to the completion of ventricular repolarization (length of the T wave), obtained from a set of measurements of the time from beginning to end of ventricular repolarization. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Mean T Wave Duration</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Summary (Mean) T Wave Height" nciodm:ExtCodeID="C62149">
+                    <nciodm:CDISCSynonym>Summary (Mean) T Wave Height</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The average (mean) height (usually measured in mm) of the maximum deflection from baseline of the T wave (representing ventricular repolarization), obtained from a set of measurements of the T wave, from a single lead or set of leads. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Mean T Wave Height</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Summary (Median) Heart Rate" nciodm:ExtCodeID="C102249">
+                    <nciodm:CDISCSynonym>Summary (Median) Heart Rate</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The median number of cycles of contraction and subsequent relaxation of the heart, usually expressed as beats per minute, obtained from a set of measurements of the heart rate.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Median Heart Rate</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Summary (Median) PR Duration" nciodm:ExtCodeID="C102250">
+                    <nciodm:CDISCSynonym>Summary (Median) PR Duration</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The median duration (time) of the PR interval, obtained from a set of measurements of the PR interval. The PR interval is defined as the time from the beginning of the P wave (representing the onset of atrial depolarization) to the beginning of the R wave (representing the onset of ventricular depolarization). In some cases, a Q wave will precede the R wave, in which case the PR interval is measured from the beginning of the P wave to the beginning of the Q wave.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Median PR Duration</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Summary (Median) QRS Duration" nciodm:ExtCodeID="C102251">
+                    <nciodm:CDISCSynonym>Summary (Median) QRS Duration</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The median duration (time) of the QRS interval, obtained from a set of measurements of the QRS interval. The QRS interval is defined as the time from the beginning of the QRS complex to the end of the QRS complex, representing the time it takes for the ventricles to depolarize.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Median QRS Duration</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Summary (Median) QT Duration" nciodm:ExtCodeID="C102252">
+                    <nciodm:CDISCSynonym>Summary (Median) QT Duration</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The median duration (time) of the QT interval, obtained from a set of measurements of the QT interval. The QT interval is defined as the time from the beginning of the QRS complex to the end of the T wave, representing the time it takes for the ventricles to depolarize and subsequently repolarize. In some cases, the Q wave will be absent, in which case the QT interval is measured from the beginning of the R wave to the end of the T wave.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Median QT Duration</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Summary (Median) QTcF" nciodm:ExtCodeID="C102253">
+                    <nciodm:CDISCSynonym>Summary (Median) QTcF</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The median duration (time) of the QTc interval, obtained from a set of measurements of the QT interval and corrected using the Fridericia's correction Formula.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Median QTcF</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Summary (Median) RR Duration" nciodm:ExtCodeID="C102254">
+                    <nciodm:CDISCSynonym>Summary (Median) RR Duration</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The median duration (time) of the RR interval, obtained from a set of measurements of the RR interval. The RR interval is defined as the time between successive peaks of the R wave and can be used to measure the ventricular rate.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Median RR Duration</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Summary (Min) JT Interval" nciodm:ExtCodeID="C62116">
+                    <nciodm:CDISCSynonym>Summary (Min) JT Interval</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The minimum duration (time) of the JT interval, obtained from a set of measurements of the JT interval. The JT interval is defined as the time from the J point (end of ventricular depolarization, the point at which the QRS meets the ST segment) to the end of the T wave (representing the end of ventricular repolarization). (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Minimum JT Duration</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Summary (Min) PR Duration" nciodm:ExtCodeID="C62125">
+                    <nciodm:CDISCSynonym>Summary (Min) PR Duration</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The minimum duration (time) of the PR interval, obtained from a set of measurements of the PR interval. The PR interval is defined as the time from the beginning of the P wave (representing the onset of atrial depolarization) to the beginning of the R wave (representing the onset of ventricular depolarization). In some cases, a Q wave will precede the R wave, in which case the PR interval is measured from the beginning of the P wave to the beginning of the Q wave. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Minimum PR Duration</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Summary (Min) QT Duration" nciodm:ExtCodeID="C62133">
+                    <nciodm:CDISCSynonym>Summary (Min) QT Duration</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The minimum duration (time) of the QT interval, obtained from a set of measurements of the QT interval. The QT interval is defined as the time from the beginning of the QRS complex to the end of the T wave, representing the time it takes for the ventricles to depolarize and subsequently repolarize. In some cases, the Q wave will be absent, in which case the QT interval is measured from the beginning of the R wave to the end of the T wave. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Minimum QT Duration</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Summary (Min) RR Duration" nciodm:ExtCodeID="C62093">
+                    <nciodm:CDISCSynonym>Summary (Min) RR Duration</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The minimum duration (time) between successive peaks of R waves in a particular set of RR intervals. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Minimum RR Duration</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Summary (Min) ST Depression" nciodm:ExtCodeID="C62162">
+                    <nciodm:CDISCSynonym>Summary (Min) ST Depression</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The minimum depression (negative deflection from baseline, usually measured in mm) of the ST segment, obtained from a set of measurements of the depression of the ST segment. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Minimum ST Segment Depression by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Summary (Min) ST Deviation" nciodm:ExtCodeID="C62156">
+                    <nciodm:CDISCSynonym>Summary (Min) ST Deviation</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The minimum deviation (distance from baseline, positive or negative, usually measured in mm) of the ST segment, obtained from a set of measurements of the deviation of the ST segment. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Minimum ST Deviation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Summary (Min) ST Elevation" nciodm:ExtCodeID="C62159">
+                    <nciodm:CDISCSynonym>Summary (Min) ST Elevation</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The minimum elevation (positive deflection from baseline, usually measured in mm) of the ST segment, obtained from a set of measurements of the elevation of the ST segment. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Minimum ST Segment Elevation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Supraventricular Arrhythmias" nciodm:ExtCodeID="C111320">
+                    <nciodm:CDISCSynonym>Supraventricular Arrhythmias</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic assessment of supraventricular arrhythmias excluding tachycardias.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Supraventricular Arrhythmia ECG Assessment</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Supraventricular Tachyarrhythmias" nciodm:ExtCodeID="C111321">
+                    <nciodm:CDISCSynonym>Supraventricular Tachyarrhythmias</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic assessment of supraventricular tachyarrhythmias.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Supraventricular Tachyarrhythmia ECG Assessment</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="T Wave Amplitude, Aggregate" nciodm:ExtCodeID="C117814">
+                    <nciodm:CDISCSynonym>T Wave Amplitude, Aggregate</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An aggregate T wave amplitude value based on the measurement of T wave amplitudes from multiple beats within a single ECG. The method of aggregation, which can vary, is typically a measure of central tendency such as the mean.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>T Wave Amplitude Aggregate</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="T Wave Amplitude, Single Beat" nciodm:ExtCodeID="C117815">
+                    <nciodm:CDISCSynonym>T Wave Amplitude, Single Beat</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic measurement of the mean amplitude (usually measured in mV) of the T wave measured from the isoelectric baseline to the peak of the T wave of a single beat utilizing one or more leads. Based on the recording gain, this measurement may also be reported in mm.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>T Wave Amplitude Single Beat</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="T Wave Area, Aggregate" nciodm:ExtCodeID="C117810">
+                    <nciodm:CDISCSynonym>T Wave Area, Aggregate</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An aggregate T wave area value based on the measurement of T wave areas from multiple beats within a single ECG. The method of aggregation, which can vary, is typically a measure of central tendency such as the mean.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>T Wave Area Aggregate</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="T Wave Area, Single Beat" nciodm:ExtCodeID="C117811">
+                    <nciodm:CDISCSynonym>T Wave Area, Single Beat</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic measurement of the area of the T wave of a single beat utilizing one or more leads.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>T Wave Area Single Beat</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="T Wave Axis" nciodm:ExtCodeID="C118166">
+                    <nciodm:CDISCSynonym>T Wave Axis</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A numerical representation of the electrocardiographic vector assessed at maximum deviation of the T wave from the isoelectric baseline, usually reported for the frontal plane.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>T Wave Axis</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="T Wave Duration, Aggregate" nciodm:ExtCodeID="C117812">
+                    <nciodm:CDISCSynonym>T Wave Duration, Aggregate</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An aggregate T wave duration value based on the measurement of T wave duration intervals from multiple beats within a single ECG. The method of aggregation, which can vary, is typically a measure of central tendency such as the mean.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>T Wave Duration Aggregate</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="T Wave Duration, Single Beat" nciodm:ExtCodeID="C117813">
+                    <nciodm:CDISCSynonym>T Wave Duration, Single Beat</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic interval measured from the onset of the T wave to the offset of the T wave of a single beat utilizing one or more leads.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>T Wave Duration Single Beat</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Technical Quality" nciodm:ExtCodeID="C117807">
+                    <nciodm:CDISCSynonym>Technical Quality</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A statement about an electrocardiographic recording describing technical issues or interference during the recording, processing, or transmission of the data. This does not represent an electrocardiographic diagnosis.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ECG Technical Quality</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Tpeak-Tend Interval, Aggregate" nciodm:ExtCodeID="C117808">
+                    <nciodm:CDISCSynonym>Tpeak-Tend Interval, Aggregate</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An aggregate Tpeak-Tend value based on the measurement of Tpeak-Tend from multiple beats within a single ECG. The method of aggregation, which can vary, is typically a measure of central tendency such as the mean.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>T Peak-T End Interval Aggregate</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Tpeak-Tend Interval, Single Beat" nciodm:ExtCodeID="C117809">
+                    <nciodm:CDISCSynonym>Tpeak-Tend Interval, Single Beat</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic interval measured from the peak of the T wave to the offset of the T wave of a single beat utilizing one or more leads.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>T Peak-T End Interval Single Beat</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Ventricular Arrhythmias" nciodm:ExtCodeID="C111330">
+                    <nciodm:CDISCSynonym>Ventricular Arrhythmias</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic assessment of ventricular arrhythmias excluding tachycardias.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Ventricular Arrhythmia ECG Assessment</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Ventricular Tachyarrhythmias" nciodm:ExtCodeID="C111331">
+                    <nciodm:CDISCSynonym>Ventricular Tachyarrhythmias</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic assessment of supraventricular tachyarrhythmias.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Ventricular Tachyarrhythmia ECG Assessment</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>EGTEST</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>ECG Test Name</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM ECG Test Name Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

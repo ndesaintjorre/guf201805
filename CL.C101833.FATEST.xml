@@ -1,0 +1,14 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C101833.FATEST" Name="Findings About Test Name" DataType="text" nciodm:ExtCodeID="C101833" nciodm:CodeListExtensible="Yes">
+                <Description>
+                    <TranslatedText xml:lang="en">Terminology relevant to the test names that describe findings about an event or intervention.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="Drug Resistance Status" nciodm:ExtCodeID="C102626">
+                    <nciodm:CDISCSynonym>Drug Resistance Status</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The state or condition of not responding to a pharmacological agent.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Drug Resistance Status</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>FATEST</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Findings About Test Name</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Findings About Test Name Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

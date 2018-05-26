@@ -1,0 +1,39 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C89974.MITESTCD" Name="Microscopic Findings Test Code" DataType="text" nciodm:ExtCodeID="C89974" nciodm:CodeListExtensible="Yes">
+                <Description>
+                    <TranslatedText xml:lang="en">Terminology for the test codes concerned with the findings from a specimen that are visible by microscopic analysis.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="FIBSCBAL" nciodm:ExtCodeID="C119570">
+                    <nciodm:CDISCSynonym>Batts-Ludwig Fibrosis Score</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The histopathological evaluation of the liver based on the Batts-Ludwig scoring system.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Batts-Ludwig Fibrosis Score</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FIBSCISH" nciodm:ExtCodeID="C95149">
+                    <nciodm:CDISCSynonym>Ishak Fibrosis Score</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The histopathological evaluation of the liver based on the Ishak scoring system.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Ishak Score</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FIBSCKNO" nciodm:ExtCodeID="C119571">
+                    <nciodm:CDISCSynonym>Knodell Fibrosis Score</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The histopathological evaluation of the liver based on the Knodell scoring system.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Knodell Fibrosis Score</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FIBSCMET" nciodm:ExtCodeID="C119572">
+                    <nciodm:CDISCSynonym>Metavir Fibrosis Score</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The histopathological evaluation of the liver based on the Meta-analysis of Histological Data in Viral Hepatitis (Metavir) scoring system.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>METAVIR Fibrosis Score</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FIBSCSCH" nciodm:ExtCodeID="C119573">
+                    <nciodm:CDISCSynonym>Scheuer Fibrosis Score</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The histopathological evaluation of the liver based on the Scheuer scoring system.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Scheuer Fibrosis Score</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MIEXAM" nciodm:ExtCodeID="C90424">
+                    <nciodm:CDISCSynonym>Microscopic Examination</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An assessment by microscope (e.g., light, electron, confocal, etc.).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Microscopic Examination</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>MITESTCD</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Microscopic Findings Test Code</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SEND Microscopic Findings Test Code Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

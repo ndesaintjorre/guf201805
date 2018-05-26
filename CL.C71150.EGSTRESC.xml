@@ -1,0 +1,1165 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C71150.EGSTRESC" Name="ECG Result" DataType="text" nciodm:ExtCodeID="C71150" nciodm:CodeListExtensible="Yes">
+                <Description>
+                    <TranslatedText xml:lang="en">Terminology codelist used with ECG Findings and Abnormalities within CDISC.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="1ST DEGREE AV BLOCK" nciodm:ExtCodeID="C111088">
+                    <nciodm:CDISCSynonym>1st degree AV block</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>PR Prolongation</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Prolonged PR interval</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of prolonged PR interval for a specific population. For adults one common threshold is a PR interval greater than 0.20 seconds. Note that other thresholds may be applicable.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>AV Block First Degree by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="2:1 AV BLOCK" nciodm:ExtCodeID="C71044">
+                    <nciodm:CDISCSynonym>2:1 AV block</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of a supraventricular rhythm where the ratio of impulses generated above the atrioventricular node to the number of impulses conducted through to the ventricles is 2:1. This is manifest on the ECG as 2 P waves per QRS complex.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>2:1 Atrioventricular Block by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="2ND DEGREE AV BLOCK" nciodm:ExtCodeID="C62016">
+                    <nciodm:CDISCSynonym>Second Degree AV Block</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of intermittent failure of atrial electrical impulse conduction to the ventricles. This is manifest on the ECG by regular P waves which intermittently are not followed by QRS complexes.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>AV Block Second Degree by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="3RD DEGREE AV BLOCK" nciodm:ExtCodeID="C111091">
+                    <nciodm:CDISCSynonym>3rd Degree Heart Block</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>AV block, complete (third-degree)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Complete Heart Block</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of complete failure of atrial electrical impulse conduction to the ventricles. This is manifest on the ECG by disassociation of atrial and ventricular rhythms. The atrial rate must be faster than the ventricular rate.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>AV Block Third Degree by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="50 Hz NOISE" nciodm:ExtCodeID="C114165">
+                    <nciodm:CDISCSynonym>50 Hz Artifact</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>50 Hz Noise</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic recording showing power line interference with the electrocardiographic signal. The artifact amplitude modulation has the same frequency as the AC power system present (50 Hz).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>50 Hertz Noise by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="60 Hz NOISE" nciodm:ExtCodeID="C114164">
+                    <nciodm:CDISCSynonym>60 Hz Artifact</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>60 Hz Noise</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic recording showing power line interference with the electrocardiographic signal. The artifact amplitude modulation has the same frequency as the AC power system present (60 Hz).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>60 Hertz Noise by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ABERRANTLY CONDUCTED COMPLEXES" nciodm:ExtCodeID="C116132">
+                    <nciodm:CDISCSynonym>Aberrantly Conducted Beats</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of an abnormally wide QRS complex(es) of supraventricular origin with prolonged QRS duration due to aberrant AV conduction.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Aberrantly Conducted Complexes by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="AC NOISE" nciodm:ExtCodeID="C114149">
+                    <nciodm:CDISCSynonym>AC Noise</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic recording showing power line interference with the electrocardiographic signal. The artifact amplitude modulation has the same frequency as the AC power system present (usually 50 Hz or 60 Hz).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Alternating Current Noise by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ACCELERATED IDIOVENTRICULAR RHYTHM" nciodm:ExtCodeID="C62266">
+                    <nciodm:CDISCSynonym>Accelerated idioventricular rhythm</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of idioventricular rhythm with a rate greater than 50 beats per minute.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Accelerated Idioventricular Rhythm by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ACUTE ANTERIOR WALL MYOCARDIAL INFARCTION" nciodm:ExtCodeID="C71065">
+                    <nciodm:CDISCSynonym>Acute Anterior MI</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Acute Anterior Wall Myocardial Infarction</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of pathologic Q waves with accompanying ST elevation in leads V3 and V4, which is suggestive of acute myocardial infarction of the anterior wall of the left ventricle.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Acute Anterior Myocardial Infarction by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ACUTE ANTEROLATERAL WALL MYOCARDIAL INFARCTION" nciodm:ExtCodeID="C102591">
+                    <nciodm:CDISCSynonym>Acute Anterolateral Wall Myocardial Infarction</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of pathologic Q waves with accompanying ST elevation in leads V3 through V6, which is suggestive of acute myocardial infarction of the anterolateral wall of the left ventricle.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Acute Anterolateral Myocardial Infarction by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ACUTE ANTEROSEPTAL WALL MYOCARDIAL INFARCTION" nciodm:ExtCodeID="C102592">
+                    <nciodm:CDISCSynonym>Acute Anteroseptal Wall Myocardial Infarction</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Acute anteroseptal MI</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of pathologic Q waves with accompanying ST elevation in leads V1 through V4, which is suggestive of acute myocardial infarction of the anteroseptal wall of the left ventricle.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Acute Anteroseptal Myocardial Infarction by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ACUTE EXTENSIVE ANTERIOR WALL MYOCARDIAL INFARCTION" nciodm:ExtCodeID="C106496">
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of pathologic Q waves with accompanying ST elevation in leads V1 to V6, I and aVL, which is suggestive of acute myocardial infarction involving the anterior and anterolateral walls of the left ventricle.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Acute Extensive Anterior Wall Myocardial Infarction by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ACUTE HIGH LATERAL WALL MYOCARDIAL INFARCTION" nciodm:ExtCodeID="C102593">
+                    <nciodm:CDISCSynonym>Acute High Lateral Wall Myocardial Infarction</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of pathologic Q waves with accompanying ST elevation in leads I and aVL, which is suggestive of acute myocardial infarction of the high lateral wall of the left ventricle.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Acute High Lateral Myocardial Infarction by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ACUTE INFERIOR WALL MYOCARDIAL INFARCTION" nciodm:ExtCodeID="C71066">
+                    <nciodm:CDISCSynonym>Acute Inferior MI</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Acute Inferior Wall Myocardial Infarction</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of pathologic Q waves with accompanying ST elevation in leads III, aVF and often II, which is suggestive of acute myocardial infarction of the inferior wall of the left ventricle.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Acute Inferior Myocardial Infarction by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ACUTE LATERAL WALL MYOCARDIAL INFARCTION" nciodm:ExtCodeID="C71067">
+                    <nciodm:CDISCSynonym>Acute Lateral MI</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Acute Lateral Wall Myocardial Infarction</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of pathologic Q waves with accompanying ST elevation in leads V5, V6, I and aVL, which is suggestive of acute myocardial infarction of the lateral wall of the left ventricle.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Acute Lateral Myocardial Infarction by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ACUTE MYOCARDIAL INFARCTION" nciodm:ExtCodeID="C101596">
+                    <nciodm:CDISCSynonym>Acute Myocardial Infarction</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding showing a current of injury with ST elevation. No specification is provided for localization.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Acute Myocardial Infarction by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ACUTE POSTERIOR WALL MYOCARDIAL INFARCTION" nciodm:ExtCodeID="C71068">
+                    <nciodm:CDISCSynonym>Acute Posterior MI</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Acute Posterior Wall Myocardial Infarction</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding in leads V1 or V2 of an initial R wave duration greater than or equal to 40 ms, R wave greater than S wave, upright T wave, with accompanying ST elevation, which is suggestive of acute myocardial infarction of the posterior wall of the left ventricle. Evidence of inferior or lateral myocardial infarction is usually also present.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Acute Posterior Myocardial Infarction by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ACUTE RIGHT VENTRICULAR WALL MYOCARDIAL INFARCTION" nciodm:ExtCodeID="C102594">
+                    <nciodm:CDISCSynonym>Acute Right Ventricular Wall Myocardial Infarction</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Acute Right ventricular MI</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding in leads V1 or V2 of an initial R wave duration greater than or equal to 40 ms, R wave greater than S wave, upright T wave, with accompanying ST elevation, which is suggestive of acute myocardial infarction of the ventricular wall of the left ventricle. Evidence of inferior or lateral myocardial infarction is usually also present. Additional criteria include ST elevation &gt; 100 microvolts in the right precordial leads V4R through V6R.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Acute Right Ventricular Myocardial Infarction by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ACUTE SEPTAL WALL MYOCARDIAL INFARCTION" nciodm:ExtCodeID="C102595">
+                    <nciodm:CDISCSynonym>Acute Septal Wall Myocardial Infarction</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of pathologic Q waves with accompanying ST elevation in leads V1, V2 and often V3, which is suggestive of acute myocardial infarction of the intraventricular septum.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Acute Septal Myocardial Infarction by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ADVANCED/HIGH GRADE AV BLOCK" nciodm:ExtCodeID="C102642">
+                    <nciodm:CDISCSynonym>Advanced/High Grade AV Block</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of intermittent failure of atrial electrical impulse conduction to the ventricles, characterized by two or more consecutive non-conducted P waves.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>High Grade Atrioventricular Block by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ALL PRECORDIAL ELECTRODES DISCONNECTED" nciodm:ExtCodeID="C114159">
+                    <nciodm:CDISCDefinition>An electrocardiographic recording in which all precordial electrodes are disconnected resulting in missing waveforms (flat line) of all leads V1 - V6.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>All Precordial Electrodes Are Disconnected by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ANTERIOR WALL MYOCARDIAL INFARCTION" nciodm:ExtCodeID="C71069">
+                    <nciodm:CDISCSynonym>Anterior MI</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Anterior Wall Myocardial Infarction</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of pathologic Q waves in leads V3 and V4, which is suggestive of myocardial infarction of the anterior wall of the left ventricle.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Anterior Myocardial Infarction by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ANTEROLATERAL WALL MYOCARDIAL INFARCTION" nciodm:ExtCodeID="C35303">
+                    <nciodm:CDISCSynonym>Anterolateral Wall Myocardial Infarction</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of pathologic Q waves in leads V3 through V6, which is suggestive of myocardial infarction of the anterolateral wall of the left ventricle.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Anterolateral Myocardial Infarction by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ANTEROSEPTAL WALL MYOCARDIAL INFARCTION" nciodm:ExtCodeID="C35304">
+                    <nciodm:CDISCSynonym>Anteroseptal MI</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Anteroseptal Wall Myocardial Infarction</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of pathologic Q waves in leads V1 through V4, which is suggestive of myocardial infarction of the anteroseptal wall of the left ventricle.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Anteroseptal Myocardial Infarction by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ARTIFACT" nciodm:ExtCodeID="C114162">
+                    <nciodm:CDISCDefinition>An electrocardiographic recording in which one or more leads display extraneous signals which do not represent cardiac electrical activity.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Artifact Lead Signal by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ASYSTOLE" nciodm:ExtCodeID="C116130">
+                    <nciodm:CDISCDefinition>An electrocardiographic finding showing no cardiac electrical activity on the ECG for the entire duration of the recording.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Asystole by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ATRIAL BIGEMINY" nciodm:ExtCodeID="C102596">
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of a sinus beat followed by a premature atrial complex for three or more consecutive cycles; a regularly irregular rhythm of normal and abnormal P waves in a 1-1 ratio.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Atrial Bigeminy by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ATRIAL COUPLETS" nciodm:ExtCodeID="C102597">
+                    <nciodm:CDISCSynonym>Atrial Couplets</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding in which two premature atrial complexes occur sequentially.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Atrial Couplet by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ATRIAL ENLARGEMENT" nciodm:ExtCodeID="C71039">
+                    <nciodm:CDISCSynonym>Atrial Enlargement</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding which comprises left, right or bilateral atrial enlargement. This is may be characterized by prolonged P wave duration, increased P wave amplitude, or multi-component P waves.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Atrial Enlargement by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ATRIAL FIBRILLATION" nciodm:ExtCodeID="C111092">
+                    <nciodm:CDISCSynonym>Atrial fibrillation</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of a supraventricular arrhythmia characterized by the replacement of consistent P waves by rapid oscillations or fibrillatory waves that vary in size, shape and timing and are accompanied by an irregularly irregular ventricular response.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Atrial Fibrillation by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ATRIAL FLUTTER" nciodm:ExtCodeID="C111094">
+                    <nciodm:CDISCSynonym>Atrial flutter</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of an organized, regular atrial rhythm with atrial rate of 240-340 beats per minute. Multiple P waves typically appear in the inferior leads in a saw tooth like pattern between the QRS complexes.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Atrial Flutter by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ATRIAL TACHYCARDIA" nciodm:ExtCodeID="C111105">
+                    <nciodm:CDISCSynonym>Atrial tachycardia</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of an organized, regular atrial rhythm with atrial rate between 101 and 240 beats per minute. The P wave morphology must be distinct from the sinus P wave morphology.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Atrial Tachycardia by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ATRIAL TACHYCARDIA WITH AV BLOCK" nciodm:ExtCodeID="C119249">
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of an atrial tachycardia which does not display 1:1 AV conduction.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Atrial Tachycardia With AV Block by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ATRIAL TRIGEMINY" nciodm:ExtCodeID="C102598">
+                    <nciodm:CDISCSynonym>Atrial Trigeminy</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of two sinus beats followed by a premature atrial complex for 3 or more consecutive cycles; a regularly irregular rhythm of normal and abnormal P waves in a 2-1 ratio.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Atrial Trigeminy by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ATRIOVENTRICULAR DISSOCIATION" nciodm:ExtCodeID="C71045">
+                    <nciodm:CDISCSynonym>AV Dissociation</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Atrioventricular dissociation</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding in which the electrical activity of the atria and ventricles are independent of one another.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Atrioventricular Dissociation by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="AV MOBITZ I" nciodm:ExtCodeID="C111089">
+                    <nciodm:CDISCSynonym>AV Mobitz I</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Mobitz I Second Degree AV Block</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Second degree AV block- Mobitz type I</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Second-degree AV block, Mobitz type I (Wenckebach)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Type 1 2nd degree AV Block</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Wenckebach</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of intermittent failure of atrial electrical impulse conduction to the ventricles, characterized by a progressively lengthening PR interval prior to the block of an atrial impulse.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>AV Block Second Degree Mobitz Type I by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="AV MOBITZ II" nciodm:ExtCodeID="C111090">
+                    <nciodm:CDISCSynonym>Mobitz II AV Block</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Mobitz II Second Degree AV Block</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Type 2 2nd degree AV Block</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of intermittent failure of atrial electrical impulse conduction to the ventricles, characterized by a relatively constant PR interval prior to the block of an atrial impulse.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>AV Block Second Degree Mobitz Type II by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="AV NODE RE-ENTRY" nciodm:ExtCodeID="C35058">
+                    <nciodm:CDISCSynonym>AV Node Reentrant Supraventricular Tachycardia</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of a regular supraventricular tachycardia due to reentry within the AV node. It is characterized by P waves which typically occurs nearly simultaneously with the QRS complex, resulting in a P wave which is obscured by the QRS, merged with the QRS or which may follow the QRS.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Atrioventricular Nodal Reentry Tachycardia by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="AV RE-ENTRANT TACHYCARDIA" nciodm:ExtCodeID="C62261">
+                    <nciodm:CDISCSynonym>AV Reentrant Supraventricular Tachycardia</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of a regular supraventricular tachycardia which utilizes an atrioventricular bypass tract as its retrograde limb (orthodromic tachycardia) or as its antegrade limb (antidromic tachycardia). QRS complexes during sinus rhythm may show preexcitation. During orthodromic tachycardia the preexcitation is not present and a retrograde P wave may appear after the QRS complex. During antidromic tachycardia the QRS complex is preexcited.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Atrioventricular Reentrant Tachycardia by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BASELINE WANDER" nciodm:ExtCodeID="C114147">
+                    <nciodm:CDISCDefinition>An electrocardiographic recording in which the isoelectric line in one or more leads is vertically displaced resulting in low frequency upward and downward movements of the signal with varying amplitudes.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Baseline Wander by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BIFASCICULAR BLOCK" nciodm:ExtCodeID="C71046">
+                    <nciodm:CDISCSynonym>Bifascicular block</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding comprising right bundle branch block and left anterior fascicular block, or right bundle branch block and left posterior fascicular block. Defects occurring in two of the three divisions of the conduction system of the heart are considered bifascicular blocks. Technically left bundle branch block may be considered a bifascicular block. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Bifascicular Block by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BIVENTRICULAR HYPERTROPHY" nciodm:ExtCodeID="C106502">
+                    <nciodm:CDISCDefinition>An electrocardiographic finding suggestive of enlargement or thickening of both ventricles, with a combination of findings which are related to LVH and RVH, such as voltage criteria for LVH in the presence of marked right axis deviation.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Biventricular Hypertrophy by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BORDERLINE QTcB" nciodm:ExtCodeID="C92228">
+                    <nciodm:CDISCSynonym>Borderline QTcB</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding in which the QT interval corrected for heart rate using Bazett's formula is slightly prolonged. Thresholds for different age, gender, and patient populations exist.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Borderline QTcB</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BORDERLINE QTcF" nciodm:ExtCodeID="C92229">
+                    <nciodm:CDISCSynonym>Borderline QTcF</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding in which the QT interval corrected for heart rate using Fridericia's formula is slightly prolonged. Thresholds for different age, gender, and patient populations exist.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Borderline QTcF</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BRADYCARDIA" nciodm:ExtCodeID="C111120">
+                    <nciodm:CDISCSynonym>Bradycardia</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of abnormally slow heart rate. Thresholds for different age, gender, and patient populations exist.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Bradycardia by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BRUGADA SYNDROME PATTERN" nciodm:ExtCodeID="C106503">
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of complete or incomplete right bundle branch block accompanied by ST elevation in leads V1-V3. This may be noted at rest or can be provoked by medication challenge.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Brugada Syndrome Pattern by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CV ENDPOINTS ISCHEMIC ECG CHANGES" nciodm:ExtCodeID="C116138">
+                    <nciodm:CDISCDefinition>An electrocardiographic finding, in the absence of left ventricular hypertrophy (LVH) and left bundle branch block pattern on ECG, of either a) new (or presumed new) ST elevation at the J point in two contiguous leads with the following cut-points: &gt;=0.1 mV in all leads other than leads V2-V3 where the following cut points apply: &gt;=0.2 mV in men &gt;=40 years; &gt;=0.25 mV in men &lt;40 years, or &gt;=0.15 mV in women; or b) new (or presumed new) horizontal or down-sloping ST depression &gt;=0.05 mV in two contiguous leads and/or T inversion &gt;=0.1 mV in two contiguous leads with prominent R wave or R/S ratio &gt;1. (Thygesen K, Alpert JS, Jaffe AS, et al.: the Writing Group on behalf of the Joint ESC/ACCF/AHA/WHF Task Force for the Universal Definition of Myocardial Infarction. J Am Coll Cardiol 60(16):1-18, 2012)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ACC/AHA Ischemic ECG Changes</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DELTA WAVE" nciodm:ExtCodeID="C62258">
+                    <nciodm:CDISCSynonym>Delta wave</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of initial slurring (delta wave) of the QRS complex due to the presence of an accessory pathway. This characteristic ECG pattern is typically seen in Wolff-Parkinson-White syndrome.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Delta Wave by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DEXTROCARDIA" nciodm:ExtCodeID="C102623">
+                    <nciodm:CDISCSynonym>Dextrocardia</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding suggestive of dextrocardia with situs inversus, characterized by reversal of normal anterior R wave progression and the appearance of reversal of the right and left arm electrodes.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Dextrocardia by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EARLY R WAVE TRANSITION" nciodm:ExtCodeID="C102628">
+                    <nciodm:CDISCSynonym>Early R Wave Progression</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Early R Wave Transition</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding where the amplitude of the R wave becomes greater than the amplitude of the S wave in the QRS complex at an unusually early point in the precordial leads, usually in leads V1 or V2.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Early R Wave Transition by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EARLY REPOLARIZATION" nciodm:ExtCodeID="C102629">
+                    <nciodm:CDISCSynonym>Early Repolarization</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of J point and ST segment elevation in the absence of other signs of acute ischemia or pericarditis.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Early Repolarization</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ECG ACQUIRED WITH PRECORDIAL ELECTRODES PLACED ON RIGHT CHEST" nciodm:ExtCodeID="C114175">
+                    <nciodm:CDISCDefinition>An electrocardiographic recording in which the precordial electrodes have been placed over the right chest and record a right sided ECG.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ECG Acquired with Precordial Electrodes Placed on the Right Chest</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ECG EVALUATION NOT PERFORMED DUE TO CORRUPTED DIGITAL ECG FILE" nciodm:ExtCodeID="C114181">
+                    <nciodm:CDISCDefinition>A digital electrocardiographic recording which is corrupted (i.e. ECG signal cannot be restored) such that measurements and/or interpretation cannot be performed.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ECG Evaluation Not Performed Due to Corrupted Digital ECG File</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ECG EVALUATION NOT PERFORMED DUE TO POOR QUALITY OF PRINTED ECG" nciodm:ExtCodeID="C114180">
+                    <nciodm:CDISCDefinition>A printed electrocardiographic recording with poor printout quality (e.g. a faded paper ECG tracing or ECG with inconsistent printing speed) such that measurements and/or interpretation cannot be performed.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ECG Evaluation Not Performed Due to Poor Quality of Printed ECG</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ECG EVALUATION NOT PERFORMED DUE TO UNKNOWN ECG AMPLITUDE GAIN OR RECORDING SPEED" nciodm:ExtCodeID="C114178">
+                    <nciodm:CDISCDefinition>An electrocardiographic recording in which measurements and/or interpretation are not performed because the ECG amplitude gain and/or recording speed are not known.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ECG Evaluation Not Performed Due to Unknown ECG Amplitude Gain or Recording Speed</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ECTOPIC ATRIAL RHYTHM" nciodm:ExtCodeID="C62245">
+                    <nciodm:CDISCSynonym>Ectopic atrial rhythm</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of a regular atrial rhythm with atrial rate of less than 101 beats per minute which does not originate in the sinus node, and which is characterized by P waves whose morphology differs from the P wave morphology during sinus rhythm.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Ectopic Atrial Rhythm by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ECTOPIC VENTRICULAR RHYTHM" nciodm:ExtCodeID="C71042">
+                    <nciodm:CDISCSynonym>Ectopic ventricular rhythm</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of three or more consecutive complexes of ventricular origin. The QRS complexes are wide and have an abnormal morphology.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Ectopic Ventricular Rhythm by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ELECTRICAL ALTERNANS" nciodm:ExtCodeID="C71035">
+                    <nciodm:CDISCSynonym>Electrical alternans</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding in which there is an alternating pattern of any of the waveform components. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Electrical Alternans by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EXTENSIVE ANTERIOR WALL MYOCARDIAL INFARCTION" nciodm:ExtCodeID="C106520">
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of pathologic Q waves in leads V1 to V6, I and aVL, which is suggestive of myocardial infarction involving the anterior and anterolateral walls of the left ventricle.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Extensive Anterior Wall Myocardial Infarction by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FUSION COMPLEX" nciodm:ExtCodeID="C102639">
+                    <nciodm:CDISCSynonym>Fusion Complex</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Fusion complex(es)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding that occurs when electrical activation of the atria or ventricles occurs from two separate sites. This results in a P wave or QRS complex that displays merged characteristics of beats originating from the two different sites.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Fusion Complex</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HIGH LATERAL WALL MYOCARDIAL INFARCTION" nciodm:ExtCodeID="C102643">
+                    <nciodm:CDISCSynonym>High Lateral Wall Myocardial Infarction</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of pathologic Q waves in leads I and aVL, which is suggestive of myocardial infarction of the high lateral wall of the left ventricle.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>High Lateral Myocardial Infarction by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IDIOVENTRICULAR RHYTHM" nciodm:ExtCodeID="C50599">
+                    <nciodm:CDISCSynonym>Idioventricular Rhythm</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of three or more consecutive complexes of ventricular origin with a rate less than a certain threshold (100 or 120 beats per minute are commonly used). The QRS complexes are wide and have an abnormal morphology.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Idioventricular Rhythm</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="INCOMPLETE ECG" nciodm:ExtCodeID="C114167">
+                    <nciodm:CDISCDefinition>An electrocardiographic recording which is limited in duration or which does not display all of the expected leads.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Incomplete ECG</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="INCOMPLETE LEFT BUNDLE BRANCH BLOCK" nciodm:ExtCodeID="C71047">
+                    <nciodm:CDISCSynonym>Incomplete left bundle branch block</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of a wide QRS complex with evidence of delayed conduction to the left ventricle, manifest as a widened initial portion of the QRS complex in leads V5, V6, I and aVL and with QRS duration less than 120 ms.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Incomplete Left Bundle Branch Block by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="INCOMPLETE MEASUREMENTS DUE TO TRUNCATION OF QRS COMPLEXES" nciodm:ExtCodeID="C114179">
+                    <nciodm:CDISCDefinition>An electrocardiographic recording in which measurements (particularly of QRS amplitudes) and/or interpretations are not performed because QRS complexes have been truncated.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Incomplete ECG Measurements Due to Truncation of QRS Complexes</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="INCOMPLETE RIGHT BUNDLE BRANCH BLOCK" nciodm:ExtCodeID="C71048">
+                    <nciodm:CDISCSynonym>Incomplete right bundle branch block</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Incomplete right bundle-branch block</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of a wide QRS complex with evidence of delayed conduction to the right ventricle, manifest by a widened initial portion of the QRS in V1 and V2, a widened S wave in V5, V6, I and aVL, and with QRS duration less than 120 ms.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Incomplete Right Bundle Branch Block by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="INCOMPLETELY DIGITIZED ECG LEAD(S)" nciodm:ExtCodeID="C114169">
+                    <nciodm:CDISCDefinition>A digital electrocardiographic recording which was digitized from paper ECG tracings and which does not contain all leads present on the original paper printout.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Incompletely Digitized ECG Leads</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="INCORRECTLY SCALED ECG" nciodm:ExtCodeID="C114168">
+                    <nciodm:CDISCDefinition>An electrocardiographic recording in which the ECG signal is not displayed at the indicated recording speed and/or amplitude resolution.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Incorrectly Scaled ECG</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="INDETERMINATE QRS AXIS" nciodm:ExtCodeID="C102701">
+                    <nciodm:CDISCSynonym>Indeterminate Axis</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Indeterminate QRS Axis</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>QRS Axis Indeterminate</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding in which the frontal plane QRS axis cannot be calculated.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>QRS Axis Indeterminate</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="INFERIOR WALL MYOCARDIAL INFARCTION" nciodm:ExtCodeID="C35398">
+                    <nciodm:CDISCSynonym>Inferior MI</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Inferior Wall Myocardial Infarction</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of pathologic Q waves in leads III, aVF and often II, which is suggestive of myocardial infarction of the inferior wall of the left ventricle.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Inferior Myocardial Infarction by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="INSUFFICENT NUMBER OF BEATS TO COMPLETELY EVALUATE ECG" nciodm:ExtCodeID="C114177">
+                    <nciodm:CDISCDefinition>An electrocardiographic recording in which fewer than the required number of cardiac complexes are available for measurement and/or interpretation due to a shorter than planned recording or due to cardiac complexes which are present but are not suitable for measurement and/or interpretation.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Insufficient Number of Beats for Complete ECG Evaluation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="INTRAATRIAL CONDUCTION DELAY" nciodm:ExtCodeID="C71073">
+                    <nciodm:CDISCSynonym>Intraatrial Conduction Delay</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of a delay in impulse propagation through the atria. This is characterized by broad P waves which are often biphasic in V1.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Intra-Atrial Conduction Delay by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="INTRAVENTRICULAR CONDUCTION DELAY, NONSPECIFIC" nciodm:ExtCodeID="C62271">
+                    <nciodm:CDISCSynonym>Intraventricular Conduction Defect</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Intraventricular conduction delay</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of a widened QRS duration typically greater than 110 ms which does not meet the morphologic criteria for any of the standard bundle branch or fascicular block patterns.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Nonspecific Intraventricular Conduction Delay by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="INVALID ECG WAVEFORMS" nciodm:ExtCodeID="C114171">
+                    <nciodm:CDISCDefinition>An electrocardiographic recording for which the displayed leads do not represent the individual's true ECG lead information.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Invalid ECG Waveforms</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ISORHYTHMIC DISSOCIATION" nciodm:ExtCodeID="C62248">
+                    <nciodm:CDISCSynonym>Isorhythmic dissociation</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of a type of atrioventricular dissociation characterized by the atria (P waves) and ventricles (QRS complexes) beating at similar rates, although independently.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Isorhythmic Atrioventricular Dissociation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="J POINT ELEVATION" nciodm:ExtCodeID="C71030">
+                    <nciodm:CDISCSynonym>J point elevation</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of a significant elevation above the baseline of the J point.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>J Point Elevation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="JUNCTIONAL BRADYCARDIA" nciodm:ExtCodeID="C71074">
+                    <nciodm:CDISCSynonym>Junctional bradycardia</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of a junctional rhythm with a heat rate which is abnormally low.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Junctional Bradycardia by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="JUNCTIONAL ESCAPE COMPLEXES" nciodm:ExtCodeID="C116129">
+                    <nciodm:CDISCSynonym>Junctional Escape Beats</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of an escape beat following a pause which originates in the AV junction. This is manifest as a QRS complex of supraventricular origin not preceded by a P wave.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Junctional Escape Complexes by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="JUNCTIONAL PREMATURE COMPLEX" nciodm:ExtCodeID="C102652">
+                    <nciodm:CDISCSynonym>Junctional Extra Beat</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Junctional Premature Complex</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Junctional premature complex(es)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of an ectopic impulse originating in the AV junction presenting as a QRS complex of supraventricular origin which is not preceded by a P wave.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Junctional Premature Complex by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="JUNCTIONAL RHYTHM" nciodm:ExtCodeID="C71051">
+                    <nciodm:CDISCSynonym>Junctional rhythm</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of a rhythm which originates in the AV junction and results in a normal heart rate. It is characterized by retrograde P waves which may be obscured by or may follow the QRS complexes. The QRS complexes may be narrow or may demonstrate aberration.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Junctional Rhythm by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="JUNCTIONAL TACHYCARDIA" nciodm:ExtCodeID="C35059">
+                    <nciodm:CDISCSynonym>Junctional tachycardia</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of a junctional rhythm with a heart rate which is abnormally elevated.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Junctional Tachycardia by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LATE R WAVE TRANSITION" nciodm:ExtCodeID="C102653">
+                    <nciodm:CDISCSynonym>Late R Wave Transition</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding where the amplitude of the R wave does not become greater than the amplitude of the S wave until an unusually late point in the precordial leads, usually in leads V4 to V6.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Late R Wave Transition by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LATERAL WALL MYOCARDIAL INFARCTION" nciodm:ExtCodeID="C35586">
+                    <nciodm:CDISCSynonym>Lateral MI</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Lateral Wall Myocardial Infarction</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of pathologic Q waves in leads V5, V6, I and aVL, which is suggestive of myocardial infarction of the lateral wall of the left ventricle.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Lateral Myocardial Infarction by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEFT ANTERIOR FASCICULAR BLOCK" nciodm:ExtCodeID="C62267">
+                    <nciodm:CDISCSynonym>Left Anterior Hemiblock</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Left anterior fascicular block</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of a slightly widened QRS duration (typically less than 120 ms) with leftward frontal plane QRS axis and typically small Q waves in leads I and aVL.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Left Anterior Fascicular Block by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEFT ATRIAL ABNORMALITY" nciodm:ExtCodeID="C71040">
+                    <nciodm:CDISCSynonym>Left Atrial Enlargement</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>P-mitrale</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding suggesting underlying hypertrophy or dilatation of the left atrium. Electrocardiographic criteria used for the diagnosis of left atrial abnormality may include a bifid p wave, a biphasic p wave and/or a p wave duration of greater than 0.12 seconds. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>P-mitrale by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEFT BUNDLE BRANCH BLOCK" nciodm:ExtCodeID="C62269">
+                    <nciodm:CDISCSynonym>Complete LBBB</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Left bundle branch block</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Left bundle-branch block</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of a wide QRS complex with evidence of delayed conduction to the left ventricle, manifest as a widened initial portion of the QRS complex in leads V5, V6, I and aVL and with QRS duration greater than or equal to 120 ms.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Left Bundle Branch Block by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEFT POSTERIOR FASCICULAR BLOCK" nciodm:ExtCodeID="C62268">
+                    <nciodm:CDISCSynonym>Left Posterior Hemiblock</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Left posterior fascicular block</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of an S1Q3 pattern and QRS axis greater than or equal to 120 degrees. It is usually seen in association with other abnormalities (e.g. RBBB or RVH).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Left Posterior Fascicular Block by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEFT VENTRICULAR CONDUCTION DELAY" nciodm:ExtCodeID="C92231">
+                    <nciodm:CDISCSynonym>Left Ventricular Conduction Delay</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding in which there is evidence that electrical transmission through the left ventricle is impaired.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Left Ventricular Conduction Delay by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEFT VENTRICULAR HYPERTROPHY" nciodm:ExtCodeID="C71076">
+                    <nciodm:CDISCSynonym>Left Ventricular Hypertrophy</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding suggestive of a hypertrophied left ventricle, characterized by large QRS amplitudes and secondary findings of left atrial enlargement, left axis deviation, or typical pattern of ST depression and T wave inversion.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Left Ventricular Hypertrophy by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEFT VENTRICULAR HYPERTROPHY WITH STRAIN" nciodm:ExtCodeID="C102655">
+                    <nciodm:CDISCSynonym>Left Ventricular Hypertrophy With Strain</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding suggestive of a hypertrophied left ventricle, characterized by large QRS amplitudes, ST depression and T wave inversion.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Left Ventricular Hypertrophy with Strain by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LIMB ELECTRODE(S) DISCONNECTED" nciodm:ExtCodeID="C114151">
+                    <nciodm:CDISCDefinition>An electrocardiographic recording in which one or more of the limb electrodes are disconnected resulting in missing waveforms (often flat lines) of the respective leads.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Disconnected Limb Electrodes by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LIMB ELECTRODES INTERCHANGED" nciodm:ExtCodeID="C114150">
+                    <nciodm:CDISCSynonym>Limb Lead Reversal</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic recording in which two or more of the limb electrodes are switched resulting in improper representation of the affected leads.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Interchanged Limb Electrodes by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LOW AMPLITUDE SIGNAL" nciodm:ExtCodeID="C114166">
+                    <nciodm:CDISCSynonym>Low Amplitude QRS Complex</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic recording showing smaller than usual QRS complexes in one or more leads. This may represent a technical issue with the ECG acquisition or characteristics of the individual.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Low Amplitude QRS Complex by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LOW QRS VOLTAGE" nciodm:ExtCodeID="C71078">
+                    <nciodm:CDISCSynonym>Low QRS voltage</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of a QRS amplitude less than or equal to 0.5 mV in the limb leads or QRS amplitude less than or equal to 1 mV in the precordial leads.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Low QRS Voltage by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LOW VOLTAGE - LIMB LEADS ONLY" nciodm:ExtCodeID="C116133">
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of small QRS amplitudes (less than 500 microvolts) in all limb leads.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Low Voltage in Limb Leads Only by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MULTIFOCAL ATRIAL TACHYCARDIA" nciodm:ExtCodeID="C71050">
+                    <nciodm:CDISCSynonym>Multifocal atrial tachycardia</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of a supraventricular arrhythmia characterized by 3 or more distinct P wave morphologies with an isoelectric baseline, variable PR intervals and no predominant atrial rhythm. The ventricular rate is typically 100-150 beats per minute.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Multifocal Atrial Tachycardia by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MUSCLE TREMOR" nciodm:ExtCodeID="C114148">
+                    <nciodm:CDISCDefinition>An electrocardiographic recording with intermittent mid to high frequency artifact in one or more leads due to muscular tremor or movement rather than cardiac activity.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Muscle Tremor Artifact</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MYOCARDIAL INFARCTION" nciodm:ExtCodeID="C101589">
+                    <nciodm:CDISCSynonym>Myocardial Infarction</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of pathologic Q waves, which is suggestive of myocardial infarction of one or more regions of the heart. No specification is provided for localization.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Myocardial Infarction by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NEW ANTERIOR WALL MYOCARDIAL INFARCTION" nciodm:ExtCodeID="C102732">
+                    <nciodm:CDISCSynonym>New Anterior MI</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>New Anterior Wall Myocardial Infarction</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of pathologic Q waves in leads V3 and V4, which is suggestive of myocardial infarction of the anterior wall of the left ventricle and which is new compared to prior ECGs.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>New Anterior Myocardial Infarction by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NEW ANTEROLATERAL WALL MYOCARDIAL INFARCTION" nciodm:ExtCodeID="C102733">
+                    <nciodm:CDISCSynonym>New Anterolateral Wall Myocardial Infarction</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of pathologic Q waves in leads V3 through V6, which is suggestive of myocardial infarction of the anterolateral wall of the left ventricle and which is new compared to prior ECGs.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>New Anterolateral Myocardial Infarction by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NEW ANTEROSEPTAL WALL MYOCARDIAL INFARCTION" nciodm:ExtCodeID="C102734">
+                    <nciodm:CDISCSynonym>New Anteroseptal Wall Myocardial Infarction</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of pathologic Q waves in leads V1 through V4, which is suggestive of myocardial infarction of the anteroseptal wall of the left ventricle and which is new compared to prior ECGs.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>New Anteroseptal Myocardial Infarction by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NEW EXTENSIVE ANTERIOR WALL MYOCARDIAL INFARCTION" nciodm:ExtCodeID="C102735">
+                    <nciodm:CDISCSynonym>New Extensive Anterior Wall Myocardial Infarction</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of pathologic Q waves in leads V1 to V6, I and aVL, which is suggestive of myocardial infarction involving the anterior and anterolateral walls of the left ventricle and which is new compared to prior ECGs.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>New Extensive Anterior Myocardial Infarction by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NEW HIGH LATERAL WALL MYOCARDIAL INFARCTION" nciodm:ExtCodeID="C102736">
+                    <nciodm:CDISCSynonym>New High Lateral Wall Myocardial Infarction</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of pathologic Q waves in leads I and aVL, which is suggestive of myocardial infarction of the high lateral wall of the left ventricle and which is new compared to prior ECGs.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>New High Lateral Myocardial Infarction by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NEW INFERIOR WALL MYOCARDIAL INFARCTION" nciodm:ExtCodeID="C102737">
+                    <nciodm:CDISCSynonym>New Inferior Wall Myocardial Infarction</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of pathologic Q waves in leads III, aVF and often II, which is suggestive of myocardial infarction of the inferior wall of the left ventricle and which is new compared to prior ECGs.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>New Inferior Myocardial Infarction by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NEW LATERAL WALL MYOCARDIAL INFARCTION" nciodm:ExtCodeID="C102738">
+                    <nciodm:CDISCSynonym>New Lateral Wall Myocardial Infarction</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of pathologic Q waves in leads V5, V6, I and aVL, which is suggestive of myocardial infarction of the lateral wall of the left ventricle and which is new compared to prior ECGs.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>New Lateral Myocardial Infarction by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NEW MYOCARDIAL INFARCTION" nciodm:ExtCodeID="C102731">
+                    <nciodm:CDISCSynonym>New Myocardial Infarction</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of pathologic Q waves, which is suggestive of myocardial infarction of one or more regions of the heart and which is new compared to prior ECGs. No specification is provided for localization.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>New Myocardial Infarction by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NEW POSTERIOR WALL MYOCARDIAL INFARCTION" nciodm:ExtCodeID="C106548">
+                    <nciodm:CDISCDefinition>An electrocardiographic finding in leads V1 or V2 of an initial R wave duration greater than or equal to 40 ms, R wave greater than S wave, and upright T wave, which is suggestive of myocardial infarction of the posterior wall of the left ventricle, and which is new compared to prior ECGs. Evidence of inferior or lateral myocardial infarction is usually also present.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>New Posterior Wall Myocardial Infarction by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NEW SEPTAL WALL MYOCARDIAL INFARCTION" nciodm:ExtCodeID="C102739">
+                    <nciodm:CDISCSynonym>New Septal Wall Myocardial Infarction</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of pathologic Q waves in leads V1, V2 and often V3, which is suggestive of myocardial infarction of the intraventricular septum and which is new compared to prior ECGs.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>New Septal Myocardial Infarction by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NO ECG WAVEFORMS PRESENT" nciodm:ExtCodeID="C114163">
+                    <nciodm:CDISCDefinition>An electrocardiographic recording that displays flat lines (no waveforms are visible) in all leads present.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ECG Waveforms Not Present</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NON Q WAVE MYOCARDIAL INFARCTION" nciodm:ExtCodeID="C71080">
+                    <nciodm:CDISCSynonym>Non Q Wave Myocardial Infarction</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of ST and T wave abnormalities in the absence of pathologic Q waves, which is suggestive of myocardial infarction in one or more regions of the heart.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Non Q Wave Myocardial Infarction by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NON-DIAGNOSTIC Q WAVES" nciodm:ExtCodeID="C116134">
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of Q waves which are insufficient for the diagnosis of myocardial infarction. In such cases a myocardial infarction may be suspected, even though ECG criteria are not met.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Non-Diagnostic Q Waves by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NON-SPECIFIC ST-T CHANGES" nciodm:ExtCodeID="C71031">
+                    <nciodm:CDISCSynonym>Non-specific ST-T changes</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of changes in the ST segment and T wave that do not meet criteria for ischemia or infarction. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Non-Specific ST-T Changes by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NON-SUSTAINED ATRIAL TACHYCARDIA" nciodm:ExtCodeID="C102680">
+                    <nciodm:CDISCSynonym>Non-Sustained Atrial Tachycardia</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of an atrial tachycardia which terminates in less than 30 seconds.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Non-Sustained Atrial Tachycardia by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NON-SUSTAINED VENTRICULAR TACHYCARDIA" nciodm:ExtCodeID="C71053">
+                    <nciodm:CDISCSynonym>Non-sustained ventricular tachycardia</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Ventricular tachycardia, unsustained</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of ventricular tachycardia less than 30 seconds in duration. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Non-Sustained Ventricular Tachycardia by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NORMAL SINUS RHYTHM" nciodm:ExtCodeID="C102681">
+                    <nciodm:CDISCSynonym>Normal Sinus Rhythm</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of an atrial rhythm which originates from the sinoatrial node that is considered normal for the population. There are no extra beats or conduction abnormalities.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Normal Sinus Rhythm</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NORTHWEST AXIS" nciodm:ExtCodeID="C102634">
+                    <nciodm:CDISCSynonym>Northwest Axis</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Right superior axis</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of a frontal plane QRS axis from -90 to +180 degrees.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Extreme Right Axis Deviation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NOTCHED T WAVES" nciodm:ExtCodeID="C71032">
+                    <nciodm:CDISCSynonym>Notched T Waves</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of an irregular, u or v shaped deflection within the contour of the T wave.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>T Wave Notched by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="OLD OR AGE INDETERMINATE ANTERIOR WALL MYOCARDIAL INFARCTION" nciodm:ExtCodeID="C102684">
+                    <nciodm:CDISCSynonym>Old Or Age Indeterminate Anterior Wall Myocardial Infarction</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of pathologic Q waves in leads V3 and V4, which is suggestive of myocardial infarction of the anterior wall of the left ventricle, without evidence of current or ongoing acute infarction.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Old or Age Indeterminate Anterior Myocardial Infarction by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="OLD OR AGE INDETERMINATE ANTEROLATERAL WALL MYOCARDIAL INFARCTION" nciodm:ExtCodeID="C102685">
+                    <nciodm:CDISCSynonym>Old Or Age Indeterminate Anterolateral Wall Myocardial Infarction</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of pathologic Q waves in leads V3 through V6, which is suggestive of myocardial infarction of the anterolateral wall of the left ventricle, without evidence of current or ongoing acute infarction.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Old or Age Indeterminate Anterolateral Myocardial Infarction by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="OLD OR AGE INDETERMINATE ANTEROSEPTAL WALL MYOCARDIAL INFARCTION" nciodm:ExtCodeID="C102686">
+                    <nciodm:CDISCSynonym>Old Or Age Indeterminate Anteroseptal Wall Myocardial Infarction</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of pathologic Q waves in leads V1 through V4, which is suggestive of myocardial infarction of the anteroseptal wall of the left ventricle, without evidence of current or ongoing acute infarction.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Old or Age Indeterminate Anteroseptal Myocardial Infarction by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="OLD OR AGE INDETERMINATE EXTENSIVE ANTERIOR WALL MYOCARDIAL INFARCTION" nciodm:ExtCodeID="C102687">
+                    <nciodm:CDISCSynonym>Old Or Age Indeterminate Extensive Anterior Wall Myocardial Infarction</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of pathologic Q waves in leads V1 to V6, I and aVL, which is suggestive of myocardial infarction involving the anterior and anterolateral walls of the left ventricle, without evidence of current or ongoing acute infarction.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Old or Age Indeterminate Extensive Anterior Myocardial Infarction by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="OLD OR AGE INDETERMINATE HIGH LATERAL WALL MYOCARDIAL INFARCTION" nciodm:ExtCodeID="C102688">
+                    <nciodm:CDISCSynonym>Old Or Age Indeterminate High Lateral Wall Myocardial Infarction</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of pathologic Q waves in leads I and aVL, which is suggestive of myocardial infarction of the high lateral wall of the left ventricle, without evidence of current or ongoing acute infarction.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Old or Age Indeterminate High Lateral Myocardial Infarction by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="OLD OR AGE INDETERMINATE INFERIOR WALL MYOCARDIAL INFARCTION" nciodm:ExtCodeID="C102689">
+                    <nciodm:CDISCSynonym>Old Or Age Indeterminate Inferior Wall Myocardial Infarction</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of pathologic Q waves in leads III, aVF and often II, which is suggestive of myocardial infarction of the inferior wall of the left ventricle, without evidence of current or ongoing acute infarction.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Old or Age Indeterminate Inferior Myocardial Infarction by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="OLD OR AGE INDETERMINATE LATERAL WALL MYOCARDIAL INFARCTION" nciodm:ExtCodeID="C102690">
+                    <nciodm:CDISCSynonym>Old Or Age Indeterminate Lateral Wall Myocardial Infarction</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of pathologic Q waves in leads V5, V6, I and aVL, which is suggestive of myocardial infarction of the lateral wall of the left ventricle, without evidence of current or ongoing acute infarction.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Old or Age Indeterminate Lateral Myocardial Infarction by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="OLD OR AGE INDETERMINATE POSTERIOR WALL MYOCARDIAL INFARCTION" nciodm:ExtCodeID="C102691">
+                    <nciodm:CDISCSynonym>Old Or Age Indeterminate Posterior Wall Myocardial Infarction</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding in leads V1 or V2 of an initial R wave duration greater than or equal to 40 ms, R wave greater than S wave, and upright T wave, which is suggestive of myocardial infarction of the posterior wall of the left ventricle, without evidence of current or ongoing acute infarction. Evidence of inferior or lateral myocardial infarction is usually also present.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Old or Age Indeterminate Posterior Myocardial Infarction by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="OLD OR AGE INDETERMINATE SEPTAL WALL MYOCARDIAL INFARCTION" nciodm:ExtCodeID="C102693">
+                    <nciodm:CDISCSynonym>Old Or Age Indeterminate Septal Wall Myocardial Infarction</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of pathologic Q waves in leads V1, V2 and often V3, which is suggestive of myocardial infarction of the intraventricular septum, without evidence of current or ongoing acute infarction.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Old or Age Indeterminate Septal Myocardial Infarction by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="OLD OR AGE INDETERMINATE WALL MYOCARDIAL INFARCTION" nciodm:ExtCodeID="C101597">
+                    <nciodm:CDISCSynonym>Old Or Age Indeterminate Wall Myocardial Infarction</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of pathologic Q waves, which is suggestive of myocardial infarction of one or more regions of the heart, without evidence of current or ongoing acute infarction. No specification is provided for localization.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Old Myocardial Infarction by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="OLD OR AGE UNDETERMINED RIGHT VENTRICULAR MYOCARDIAL INFARCTION" nciodm:ExtCodeID="C102692">
+                    <nciodm:CDISCDefinition>An electrocardiographic finding, in the presence of an old or age indeterminate inferior wall myocardial infarction, of Q waves greater than or equal to 40 ms in duration in the right ventricular leads V4R through V6R.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Old or Age Indeterminate Right Ventricular Myocardial Infarction by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="OTHER INCORRECT ELECTRODE PLACEMENT" nciodm:ExtCodeID="C114176">
+                    <nciodm:CDISCDefinition>An electrocardiographic recording in which one or more electrodes are incorrectly placed but further details are not provided.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Other Incorrect Electrode Placement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="P WAVE ABNORMALITY" nciodm:ExtCodeID="C90430">
+                    <nciodm:CDISCSynonym>P Wave Abnormality</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding for the P wave that is atypical either for the shape, duration, amplitude, axis or polarity. Abnormality of the P wave signifies aberrant propagation of the electrical impulse through the atria. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>P Wave Abnormality by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="P WAVE NOTCHED" nciodm:ExtCodeID="C90431">
+                    <nciodm:CDISCSynonym>P Wave Notched</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of P waves with two peaks longer in duration than normal and amplitude greater than normal.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>P Wave Notched by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PACED ATRIAL AND VENTRICULAR RHYTHM" nciodm:ExtCodeID="C92232">
+                    <nciodm:CDISCSynonym>AV dual-paced complex(es) or rhythm</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Paced Atrial And Ventricular Rhythm</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding in which both the atrial and ventricular rhythm are controlled by an electrical impulse from an artificial cardiac pacemaker.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Paced Atrial And Ventricular Rhythm</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PACED ATRIAL RHYTHM" nciodm:ExtCodeID="C92233">
+                    <nciodm:CDISCSynonym>Atrial-paced complex(es) or rhythm</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Paced Atrial Rhythm</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding in which the atrial rhythm is controlled by an electrical impulse from an artificial cardiac pacemaker.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Paced Atrial Rhythm</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PACED RHYTHM" nciodm:ExtCodeID="C88140">
+                    <nciodm:CDISCSynonym>Atrial and/or Ventricular Paced Rhythm</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Paced Rhythm</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding in which the cardiac rhythm is controlled by an electrical impulse from an artificial cardiac pacemaker.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Paced Rhythm</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PACED VENTRICULAR RHYTHM" nciodm:ExtCodeID="C92234">
+                    <nciodm:CDISCSynonym>Paced Ventricular Rhythm</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Ventricular-paced complex(es) or rhythm</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding in which the ventricular rhythm is controlled by an electrical impulse from an artificial cardiac pacemaker.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Paced Ventricular Rhythm</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PAROXYSMAL AV BLOCK" nciodm:ExtCodeID="C62250">
+                    <nciodm:CDISCSynonym>Paroxysmal AV block</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of the sudden onset of transient AV block, which is often associated with preexisting conduction disorders.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Paroxysmal Atrioventricular Block by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PAROXYSMAL VENTRICULAR TACHYCARDIA" nciodm:ExtCodeID="C34902">
+                    <nciodm:CDISCSynonym>Paroxysmal Ventricular Tachycardia</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An episodic form of ventricular tachycardia, with abrupt onset and termination. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Paroxysmal Ventricular Tachycardia by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PAUSE" nciodm:ExtCodeID="C119250">
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of an RR interval which exceeds a predefined duration threshold, regardless of the underlying rhythm.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Pause by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PAUSE GREATER THAN 3.0 SECONDS" nciodm:ExtCodeID="C119251">
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of an RR interval with duration greater than 3.0 seconds, regardless of the underlying rhythm.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Pause Greater Than Three Seconds by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="POOR QUALITY ECG" nciodm:ExtCodeID="C114172">
+                    <nciodm:CDISCDefinition>An electrocardiographic recording that does not show proper quality for reasons that are not otherwise described.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Poor Quality ECG</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="POOR R WAVE PROGRESSION" nciodm:ExtCodeID="C71033">
+                    <nciodm:CDISCSynonym>Poor R Wave Progression</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of a lack of progression of R wave height across precordial leads.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Poor R Wave Progression by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="POSTERIOR WALL MYOCARDIAL INFARCTION" nciodm:ExtCodeID="C35399">
+                    <nciodm:CDISCSynonym>Posterior MI</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Posterior Wall Myocardial Infarction</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding in leads V1 or V2 of an initial R wave duration greater than or equal to 40 ms, R wave greater than S wave, and upright T wave, which is suggestive of myocardial infarction of the posterior wall of the left ventricle. Evidence of inferior or lateral myocardial infarction is usually also present.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Posterior Myocardial Infarction by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PR SEGMENT DEPRESSION" nciodm:ExtCodeID="C116135">
+                    <nciodm:CDISCSynonym>PR Depression</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of PR segment depression below the iso-electric line in multiple precordial and/or limb leads.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PR Segment Depression by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PRE-EXCITATION" nciodm:ExtCodeID="C34940">
+                    <nciodm:CDISCSynonym>Pre-excitation</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Ventricular preexcitation</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding characterized by a premature activation of the whole or some part of the ventricle. The PR interval is usually shortened and delta waves are frequently present.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Pre-Excitation Syndrome</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PRECORDIAL ELECTRODE V1 DISCONNECTED" nciodm:ExtCodeID="C114153">
+                    <nciodm:CDISCDefinition>An electrocardiographic recording in which the electrode for lead V1 is disconnected resulting in missing waveforms (flat line) for lead V1.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Disconnected Precordial Electrode V1 by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PRECORDIAL ELECTRODE V2 DISCONNECTED" nciodm:ExtCodeID="C114154">
+                    <nciodm:CDISCDefinition>An electrocardiographic recording in which the electrode for lead V2 is disconnected resulting in missing waveforms (flat line) for lead V2.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Disconnected Precordial Electrode V2 by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PRECORDIAL ELECTRODE V3 DISCONNECTED" nciodm:ExtCodeID="C114155">
+                    <nciodm:CDISCDefinition>An electrocardiographic recording in which the electrode for lead V3 is disconnected resulting in missing waveforms (flat line) for lead V3.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Disconnected Precordial Electrode V3 by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PRECORDIAL ELECTRODE V4 DISCONNECTED" nciodm:ExtCodeID="C114156">
+                    <nciodm:CDISCDefinition>An electrocardiographic recording in which the electrode for lead V4 is disconnected resulting in missing waveforms (flat line) for lead V4.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Disconnected Precordial Electrode V4 by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PRECORDIAL ELECTRODE V5 DISCONNECTED" nciodm:ExtCodeID="C114157">
+                    <nciodm:CDISCDefinition>An electrocardiographic recording in which the electrode for lead V5 is disconnected resulting in missing waveforms (flat line) for lead V5.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Disconnected Precordial Electrode V5 by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PRECORDIAL ELECTRODE V6 DISCONNECTED" nciodm:ExtCodeID="C114158">
+                    <nciodm:CDISCDefinition>An electrocardiographic recording in which the electrode for lead V6 is disconnected resulting in missing waveforms (flat line) for lead V6.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Disconnected Precordial Electrode V6 by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PRECORDIAL ELECTRODE(S) POSITIONED INCORRECTLY" nciodm:ExtCodeID="C114160">
+                    <nciodm:CDISCDefinition>An electrocardiographic recording in which one or more precordial electrodes are placed incorrectly with respect to the standard chest electrode positions resulting in improper representation of the affected leads.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Incorrectly Positioned Precordial Electrodes by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PRECORDIAL ELECTRODES INTERCHANGED" nciodm:ExtCodeID="C114152">
+                    <nciodm:CDISCSynonym>Precordial Lead Reversal</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic recording in which two or more of the precordial electrodes are switched resulting in improper representation of the affected leads.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Interchanged Precordial Electrodes by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PREMATURE ATRIAL COMPLEXES" nciodm:ExtCodeID="C62257">
+                    <nciodm:CDISCSynonym>APC</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Atrial premature complex(es)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>PAC</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Premature atrial complex</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>SVE</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Supraventricular Extra Beat</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of an ectopic impulse originating in the atria and not specifically in the sinus node. The P wave morphology of these complexes is often different from a sinus P wave and the RR intervals preceding these complexes is also shorter than those of the regular beats.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Atrial Premature Complex by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PREMATURE ATRIAL COMPLEXES BLOCKED" nciodm:ExtCodeID="C102603">
+                    <nciodm:CDISCSynonym>Atrial premature complexes, nonconducted</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Non-conducted SVE</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Premature Atrial Complexes Blocked</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Premature Atrial Complexes Non-conducted</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of premature atrial complexes which are not conducted to the ventricle, and which are not followed by a QRS complex.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Blocked Atrial Premature Complex by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PREMATURE ATRIAL COMPLEXES MULTIFOCAL" nciodm:ExtCodeID="C102672">
+                    <nciodm:CDISCSynonym>Multifocal SVE</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Multifocal Supraventricular Extra Beats</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Premature Atrial Complexes Multiform</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of premature atrial complexes which have 2 or more distinct morphologies, suggesting origin at more than one atrial site.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Multifocal Atrial Premature Complex by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PREMATURE ATRIAL COMPLEXES UNIFOCAL" nciodm:ExtCodeID="C102724">
+                    <nciodm:CDISCSynonym>Premature Atrial Complexes Unifocal</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of premature atrial complexes which have a single distinct morphology, suggesting origin at one atrial site.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Unifocal Atrial Premature Complex by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PREMATURE VENTRICULAR COMPLEX" nciodm:ExtCodeID="C62256">
+                    <nciodm:CDISCSynonym>PVC</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>VE</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>VPC</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Ventricular Extra Beat</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Ventricular premature complex(es)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of an ectopic impulse originating in the ventricles. The QRS morphology of these complexes is different from those of supraventricular origin. The QRS duration is often longer and the RR interval preceding the complexes is usually shorter than that of supraventricular beats.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Ventricular Premature Complex by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PREMATURE VENTRICULAR COMPLEX INTERPOLATED" nciodm:ExtCodeID="C107100">
+                    <nciodm:CDISCSynonym>Interpolated VE</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Interpolated VPC</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Interpolated Ventricular Extra Beat</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Premature Ventricular Complexes Interpolated</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of a premature ventricular complex which occurs between two normal QRS complexes which have normal timing.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Interpolated Premature Ventricular Complex by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PREMATURE VENTRICULAR COMPLEXES MULTIFOCAL" nciodm:ExtCodeID="C102673">
+                    <nciodm:CDISCSynonym>Multifocal VES</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Multifocal VPCS</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Multifocal Ventricular Extra Beats</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Premature Ventricular Complexes Multifocal</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of premature ventricular complexes which have two or more distinct morphologies, suggesting origin at more than one ventricular site.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Multifocal Ventricular Premature Complex by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PREMATURE VENTRICULAR COMPLEXES UNIFOCAL" nciodm:ExtCodeID="C102725">
+                    <nciodm:CDISCSynonym>Premature Ventricular Complexes Unifocal</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Unifocal VES</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Unifocal VPCS</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Unifocal Ventricular Extra Beats</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of premature ventricular complexes which have a single distinct morphology, suggesting origin at one ventricular site.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Unifocal Ventricular Premature Complex by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PROLONGED QT" nciodm:ExtCodeID="C71034">
+                    <nciodm:CDISCSynonym>Prolonged QT</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Prolonged QT interval</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding in which the QT interval not corrected for heart rate is prolonged. Thresholds for different age, gender, and patient populations exist.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Prolonged QT Interval by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PROLONGED ST SEGMENT" nciodm:ExtCodeID="C116137">
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of a prolonged ST segment, resulting in a long QT interval, without lengthening of the T wave duration.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Prolonged ST Segment by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Q AXIS, LEFT AXIS DEVIATION" nciodm:ExtCodeID="C71094">
+                    <nciodm:CDISCSynonym>Left-axis deviation</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Q Axis, Left axis deviation</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>QRS axis, left axis deviation</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of a frontal plane QRS axis from -30 to -90 degrees.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Q Axis Left Axis Deviation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Q AXIS, RIGHT AXIS DEVIATION" nciodm:ExtCodeID="C71095">
+                    <nciodm:CDISCSynonym>Q Axis, Right axis deviation</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>QRS axis, right axis deviation</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Right-axis deviation</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of a frontal plane QRS axis from +90 to +180 degrees.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Q Axis Right Axis Deviation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="QRS COMPLEX ABNORMALITY" nciodm:ExtCodeID="C90440">
+                    <nciodm:CDISCSynonym>QRS Complex Abnormality</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of a non-specific abnormality of the QRS complex, which is atypical in shape, duration, amplitude, axis or polarity.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>QRS Complex Abnormality by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="QTC PROLONGATION" nciodm:ExtCodeID="C83817">
+                    <nciodm:CDISCSynonym>QTc Prolongation</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding in which the QTc interval corrected for heart rate is prolonged. Thresholds for different age, gender, and patient populations exist.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Corrected Prolonged QT Interval by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="QTCB PROLONGATION" nciodm:ExtCodeID="C107098">
+                    <nciodm:CDISCSynonym>PROLONGED QTcB</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding in which the QT interval corrected for heart rate using Bazett's formula is prolonged. Thresholds for different age, gender, and patient populations exist.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>QTcB Prolongation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="QTCF PROLONGATION" nciodm:ExtCodeID="C107099">
+                    <nciodm:CDISCSynonym>PROLONGED QTcF</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding in which the QT interval corrected for heart rate using Fridericia's formula is prolonged. Thresholds for different age, gender, and patient populations exist.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>QTcF Prolongation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="QUALITY PROBLEM NOT OTHERWISE SPECIFIED" nciodm:ExtCodeID="C114161">
+                    <nciodm:CDISCSynonym>Unknown Quality Problem</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic artifact or recording error with unknown origin or which is not described otherwise.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Quality Problem Not Otherwise Specified by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="R ON T PHENOMENON" nciodm:ExtCodeID="C61395">
+                    <nciodm:CDISCSynonym>R on T phenomenon</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding in which the R wave of a premature ventricular complex occurs on top of the T wave of the preceding beat.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>R On T Phenomenon by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="R WAVE NOTCHED" nciodm:ExtCodeID="C90444">
+                    <nciodm:CDISCSynonym>R Wave Notched</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of an R wave variant in which there is a small deflection of the R wave, with changing polarity, within the QRS complex. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>R Wave Notched by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="REPOLARIZATION ABNORMALITY" nciodm:ExtCodeID="C102574">
+                    <nciodm:CDISCSynonym>Repolarization Abnormality</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of an abnormality of T wave duration or morphology or of early repolarization.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Ventricular Repolarization Abnormality</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="REPOLARIZATION ABNORMALITY SECONDARY TO VENTRICULAR HYPERTROPHY" nciodm:ExtCodeID="C102706">
+                    <nciodm:CDISCSynonym>Repolarization Abnormality Secondary To Ventricular Hypertrophy</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>ST-T change due to ventricular hypertrophy</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of ST depression and T wave inversion in the presence of increased QRS amplitude which are thought to be due to left ventricular hypertrophy.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Repolarization Abnormality Secondary To Ventricular Hypertrophy</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="RIGHT ATRIAL ABNORMALITY" nciodm:ExtCodeID="C71041">
+                    <nciodm:CDISCSynonym>P-pulmonale</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Right Atrial Enlargement</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding suggesting underlying hypertrophy or dilatation of the right atrium. Electrocardiographic criteria used for the diagnosis of right atrial abnormality may include a peaked p wave greater than 2.5 millimeters in amplitude in the inferior leads. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>P-pulmonale by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="RIGHT BUNDLE BRANCH BLOCK" nciodm:ExtCodeID="C62270">
+                    <nciodm:CDISCSynonym>Complete RBBB</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Right bundle branch block</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Right bundle-branch block</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of a wide QRS complex with evidence of delayed conduction to the right ventricle, manifest by a widened initial portion of the QRS in V1 and V2, a widened S wave in V5, V6, I and aVL, and with QRS duration greater than or equal to 120 ms. An RsR' complex is typically present in leads V1 and V2.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Right Bundle Branch Block by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="RIGHT VENTRICULAR CONDUCTION DELAY" nciodm:ExtCodeID="C92235">
+                    <nciodm:CDISCSynonym>Right Ventricular Conduction Delay</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Right Ventricular Delay</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding in which there is evidence that electrical transmission through the right ventricle is impaired with a maximal QRS duration of 110 ms and which does not meet the criteria for Incomplete Right Bundle Branch Block.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Right Ventricular Conduction Delay by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="RIGHT VENTRICULAR HYPERTROPHY" nciodm:ExtCodeID="C71077">
+                    <nciodm:CDISCSynonym>Right ventricular Hypertrophy</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding suggestive of a hypertrophied right ventricle, characterized by large R wave amplitudes in the right precordial leads and secondary findings of right atrial enlargement, right axis deviation, and typical pattern of ST depression and T wave inversion in the right precordial leads.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Right Ventricular Hypertrophy by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="RSR PRIME" nciodm:ExtCodeID="C92227">
+                    <nciodm:CDISCSynonym>RSR'</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding in which there are two R waves, which are two deflections above the baseline resulting from a single ventricular depolarization. The first upward deflection in the complex is the R wave. The S is the first downward deflection. A second upward deflection is called the R-prime wave.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>RSR' by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SEPTAL MYOCARDIAL INFARCTION" nciodm:ExtCodeID="C35519">
+                    <nciodm:CDISCSynonym>Septal myocardial infarction</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding suggesting an infarction in the anatomic location of the cardiac septum. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Septal Myocardial Infarction by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SHORT PR INTERVAL" nciodm:ExtCodeID="C62246">
+                    <nciodm:CDISCSynonym>Short PR interval</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of an abnormally short PR interval. Thresholds for different age, gender, and patient populations exist.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Short PR Interval by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SHORT QTC INTERVAL" nciodm:ExtCodeID="C102709">
+                    <nciodm:CDISCSynonym>Short QTc Interval</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of a QT interval corrected for heart rate that is shorter than the lower limit of normal. Thresholds for different age, gender, and patient populations exist.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Short QTc Interval</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SHORT QTCB" nciodm:ExtCodeID="C112402">
+                    <nciodm:CDISCDefinition>An electrocardiographic finding in which the QT interval corrected for heart rate using Bazett's formula is shortened. Thresholds for different age, gender, and patient populations exist.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>QTcB Shortened</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SHORT QTCF" nciodm:ExtCodeID="C112403">
+                    <nciodm:CDISCDefinition>An electrocardiographic finding in which the QT interval corrected for heart rate using Fridericia's formula is shortened. Thresholds for different age, gender, and patient populations exist.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>QTcF Shortened</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SHORT ST SEGMENT" nciodm:ExtCodeID="C116136">
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of a short or absent ST segment, resulting in a short QT interval, without changes in T wave morphology.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Short ST Segment by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SINOATRIAL EXIT BLOCK" nciodm:ExtCodeID="C50553">
+                    <nciodm:CDISCSynonym>SA Block</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Sinoatrial Block</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Sinoatrial exit block</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding in which impaired conduction or automaticity within the sinus node results in the failure of impulse transmission from the sinoatrial node. This is manifest as dropped P waves during sinus rhythm.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Exit Block by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SINUS ARREST/PAUSE" nciodm:ExtCodeID="C62242">
+                    <nciodm:CDISCSynonym>Sinus arrest/pause</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Sinus pause or arrest</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding in which a failure of impulse formation or conduction in the sinus node produces prolongation of the P-P interval or dropped P waves. The threshold for the prolongation of the P-P interval is not well defined.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Sinus Arrest by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SINUS ARRHYTHMIA" nciodm:ExtCodeID="C62239">
+                    <nciodm:CDISCSynonym>Respiratory Sinus Arrhythmia</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Sinus arrhythmia</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding in which the sinus rate fluctuates with the respiratory cycle.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Sinus Arrhythmia by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SINUS BRADYCARDIA" nciodm:ExtCodeID="C111097">
+                    <nciodm:CDISCSynonym>Sinus bradycardia</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of abnormally slow heart rate with its origin in the sinus node. Thresholds for different age, gender, and patient populations exist.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Sinus Bradycardia by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SINUS RHYTHM" nciodm:ExtCodeID="C100076">
+                    <nciodm:CDISCSynonym>Sinus Rhythm</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of an atrial rhythm which originates from the sinoatrial node that is considered normal for the population.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Sinus Rhythm</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SINUS TACHYCARDIA" nciodm:ExtCodeID="C111104">
+                    <nciodm:CDISCSynonym>Sinus tachycardia</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of abnormally rapid heart rate with its origin in the sinus node. Thresholds for different age, gender, and patient populations exist.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Sinus Tachycardia by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ST DEPRESSION" nciodm:ExtCodeID="C41330">
+                    <nciodm:CDISCSynonym>ST depression</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of ST segment depression below the baseline, often described as up sloping, down sloping or horizontal. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ST Segment Depression by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ST ELEVATION" nciodm:ExtCodeID="C50540">
+                    <nciodm:CDISCSynonym>ST elevation</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of ST segment elevation above the baseline. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ST Segment Elevation by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ST ELEVATION PERICARDITIS" nciodm:ExtCodeID="C71029">
+                    <nciodm:CDISCSynonym>ST elevation pericarditis</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of ST elevation which is concave upwards, and which is often accompanied by PR segment depression.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ST Elevation Pericarditis by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUPRAVENTRICULAR COUPLET" nciodm:ExtCodeID="C119252">
+                    <nciodm:CDISCDefinition>An electrocardiographic finding in which two premature atrial complexes occur sequentially.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Supraventricular Couplet by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUPRAVENTRICULAR TACHYCARDIA" nciodm:ExtCodeID="C111100">
+                    <nciodm:CDISCSynonym>Supraventricular tachycardia</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of a tachycardia which does not originate in the ventricles or His Purkinje system. There is an abnormally high heart rate and QRS complexes are typically narrow, but aberration or preexcitation may be present.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Supraventricular Tachycardia by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUSPECT LIMB ELECTRODES REVERSED, INTERPRETATION ASSUMES NO REVERSAL" nciodm:ExtCodeID="C114173">
+                    <nciodm:CDISCDefinition>An electrocardiographic recording in which an interchange of one or more limb lead electrodes is suspected, but for which an interpretation is performed as though the lead placement is correct.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Suspicion of Limb Electrodes Reversal But Interpretation Assumes No Reversal by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUSPECT LIMB ELECTRODES REVERSED, INTERPRETATION ASSUMES REVERSAL" nciodm:ExtCodeID="C114174">
+                    <nciodm:CDISCDefinition>An electrocardiographic recording in which an interchange of one or more limb lead electrodes is suspected, and for which an interpretation is performed as though the leads have in fact been interchanged.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Suspicion of Limb Electrodes Reversal But Interpretation Assumes Reversal by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUSTAINED VENTRICULAR TACHYCARDIA" nciodm:ExtCodeID="C71052">
+                    <nciodm:CDISCSynonym>Sustained ventricular tachycardia</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of ventricular tachycardia greater than 30 seconds in duration. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Sustained Ventricular Tachycardia by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="T WAVE ALTERNANS" nciodm:ExtCodeID="C102718">
+                    <nciodm:CDISCSynonym>T Wave Alternans</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding in which there are variations in the shape, amplitude, or direction of the T wave from one beat to the next.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>T Wave Alternans by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="T WAVE INVERSION" nciodm:ExtCodeID="C71085">
+                    <nciodm:CDISCSynonym>T Wave Inversion</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of an inversion of the T wave from the expected axis. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>T Wave Inversion by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="T WAVE PEAKED" nciodm:ExtCodeID="C71086">
+                    <nciodm:CDISCSynonym>T wave peaked</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding in which the T wave appears increased in amplitude and cresting at a point. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>T Wave Peaked by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="T WAVES BIPHASIC" nciodm:ExtCodeID="C71087">
+                    <nciodm:CDISCSynonym>T waves biphasic</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of a T wave with both positive and negative components.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>T Waves Biphasic by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="T WAVES FLAT" nciodm:ExtCodeID="C71088">
+                    <nciodm:CDISCSynonym>T waves flat</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding in which the T wave appears decreased in amplitude. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>T Waves Flat by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TACHYCARDIA" nciodm:ExtCodeID="C111121">
+                    <nciodm:CDISCSynonym>Tachycardia</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of abnormally rapid heart rate. Thresholds for different age, gender, and patient populations exist.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Tachycardia by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TORSADES DE POINTES" nciodm:ExtCodeID="C50779">
+                    <nciodm:CDISCSynonym>Torsades de pointes</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Ventricular tachycardia, torsades de pointes</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of an atypical rapid polymorphic ventricular tachycardia with a characteristic rotation of the QRS complex around the isoelectric baseline, occurring in the setting of a prolonged QT interval. In addition, the QRS complex displays a periodic waxing and waning of amplitude on the electrogram.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Torsades De Pointes by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="U WAVE ABNORMALITY" nciodm:ExtCodeID="C106579">
+                    <nciodm:CDISCSynonym>Abnormal U Wave</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of U waves which have increased amplitude, are inverted, or merged with the preceding T wave.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>U Wave Abnormality by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UNABLE TO DIGITIZE ECG LEADS" nciodm:ExtCodeID="C114170">
+                    <nciodm:CDISCDefinition>A statement indicating the inability to digitize a paper ECG.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Inability to Digitize ECG Leads</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UNDETERMINED RHYTHM" nciodm:ExtCodeID="C116131">
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of a cardiac rhythm whose mechanism cannot be determined from the ECG.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Undetermined Rhythm by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UNDETERMINED SUPRAVENTRICULAR RHYTHM" nciodm:ExtCodeID="C120607">
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of a rhythm which does not originate in the ventricles or His Purkinje system, but whose specific electrophysiologic mechanism cannot be determined from the ECG. The QRS complexes are typically narrow, but aberration or preexcitation may be present.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Undetermined Supraventricular Rhythm by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="VENTRICULAR BIGEMINY" nciodm:ExtCodeID="C71054">
+                    <nciodm:CDISCSynonym>Bigeminy</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of a normal QRS complex followed by a premature ventricular complex for 3 or more consecutive cycles; a regularly irregular rhythm of normal and abnormal QRS complexes in a 1-1 ratio.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Ventricular Bigeminy by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="VENTRICULAR COUPLET" nciodm:ExtCodeID="C62259">
+                    <nciodm:CDISCSynonym>Ventricular Pair</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Ventricular couplet</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding in which two premature ventricular complexes occur sequentially.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Ventricular Couplet by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="VENTRICULAR ESCAPE BEAT" nciodm:ExtCodeID="C90483">
+                    <nciodm:CDISCSynonym>Ventricular Escape Beat</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Ventricular escape complex(es)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of a compensatory ventricular complex that occurs following a prolonged RR interval.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Ventricular Escape Beat by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="VENTRICULAR FIBRILLATION" nciodm:ExtCodeID="C111102">
+                    <nciodm:CDISCSynonym>Ventricular fibrillation</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of a rapid grossly irregular ventricular rhythm with marked variability in QRS cycle length, morphology, and amplitude. The rate is typically greater than 300 bpm.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Ventricular Fibrillation by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="VENTRICULAR FLUTTER" nciodm:ExtCodeID="C111115">
+                    <nciodm:CDISCSynonym>Ventricular flutter</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A ventricular tachyarrhythmia characterized by a high ventricular rate (180 to 250 beats per minute) with a regular rhythm. The electrocardiogram shows large oscillating sine wave-like complexes occurring as a result of QRS complexes and T waves being merged. The P wave is not visible. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Ventricular Flutter by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="VENTRICULAR PARASYSTOLE" nciodm:ExtCodeID="C102728">
+                    <nciodm:CDISCSynonym>Parasystole</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Ventricular Parasystole</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of normal sinus rhythm coexisting with a regular ectopic ventricular rhythm.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Ventricular Parasystole by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="VENTRICULAR TACHYCARDIA" nciodm:ExtCodeID="C111103">
+                    <nciodm:CDISCSynonym>Ventricular tachycardia</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of three or more consecutive complexes of ventricular organ with a rate greater than a certain threshold (100 or 120 beats per minute are commonly used). The QRS complexes are wide and have an abnormal morphology.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Ventricular Tachycardia by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="VENTRICULAR TACHYCARDIA, MONOMORPHIC" nciodm:ExtCodeID="C62234">
+                    <nciodm:CDISCSynonym>Ventricular tachycardia, monomorphic</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of a ventricular tachycardia in which the QRS complexes have a uniform morphology.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Monomorphic Ventricular Tachycardia by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="VENTRICULAR TACHYCARDIA, POLYMORPHIC" nciodm:ExtCodeID="C62236">
+                    <nciodm:CDISCSynonym>Ventricular tachycardia, polymorphic</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Ventricular tachycardia, polymorphous</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of a ventricular tachycardia in which the QRS complexes have a variable morphology and often rate.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Polymorphic Ventricular Tachycardia by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="VENTRICULAR TRIGEMINY" nciodm:ExtCodeID="C71055">
+                    <nciodm:CDISCSynonym>Trigeminy</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of two normal QRS complexes followed by a premature ventricular complex for 3 or more consecutive cycles; a regularly irregular rhythm of normal and abnormal QRS complexes in a 2-1 ratio.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Ventricular Trigeminy by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WANDERING ATRIAL PACEMAKER" nciodm:ExtCodeID="C62240">
+                    <nciodm:CDISCSynonym>Wandering atrial pacemaker</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of a supraventricular arrhythmia characterized by 3 or more distinct P wave morphologies with an isoelectric baseline, variable PR intervals and no predominant atrial rhythm. The ventricular rate is typically below 100 beats per minute.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Wandering Atrial Pacemaker by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WIDE QRS TACHYCARDIA" nciodm:ExtCodeID="C71090">
+                    <nciodm:CDISCSynonym>Wide QRS tachycardia</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Wide-QRS tachycardia</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of three or more consecutive wide QRS complexes of uncertain origin with a rate greater than a certain threshold (100 or 120 beats per minute are commonly used).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Wide QRS Tachycardia by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WOLFF-PARKINSON-WHITE SYNDROME" nciodm:ExtCodeID="C35132">
+                    <nciodm:CDISCSynonym>WPW</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Wolff-Parkinson-White syndrome</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of ventricular pre-excitation. The syndrome is characterized by a short PR interval and a long QRS interval with a delta wave.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Wolff-Parkinson-White Syndrome</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>EGSTRESC</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>ECG Result</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM ECG Finding Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

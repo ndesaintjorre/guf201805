@@ -1,0 +1,159 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C106482.DUTEST" Name="Device-In-Use Test Name" DataType="text" nciodm:ExtCodeID="C106482" nciodm:CodeListExtensible="Yes">
+                <Description>
+                    <TranslatedText xml:lang="en">A terminology codelist for the test name of the test or examination used to obtain the measurement or finding of the device in use.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="Anatomical Plane" nciodm:ExtCodeID="C102516">
+                    <nciodm:CDISCSynonym>Anatomical Plane</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The position and orientation of the image slice relative to the patient-based coordinate system. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Image Plane</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Attenuation Correction Type" nciodm:ExtCodeID="C94862">
+                    <nciodm:CDISCSynonym>Attenuation Correction Type</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The adjustment for the effect of tissue thicknesses through which gamma's travel from an activity concentration origin to the scanner's detectors. The count rates of a detector are adjusted to values as if there were no attenuation along the gamma's path. This makes possible accurate quantitation in image analysis. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Attenuation Correction</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Checkerboard Square Size" nciodm:ExtCodeID="C117759">
+                    <nciodm:CDISCSynonym>Checkerboard Square Size</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A visual stimulus that uses a checkerboard pattern which reverses every half-second (or other specified frequency). The check size can be changed to allow for testing of specific segments of the visual pathway.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Checkerboard Square Size</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Coil Strength" nciodm:ExtCodeID="C106510">
+                    <nciodm:CDISCSynonym>Coil Strength</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The maximum voltage allowable to pass through an electromagnetic coil. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Coil Strength</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Decay Correction Indicator" nciodm:ExtCodeID="C116127">
+                    <nciodm:CDISCSynonym>Decay Correction Indicator</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An indication as to whether the image reconstruction took into account the time-activity curve during which the radiolabeled tracer decayed as it spread through the body during the image acquisition.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Decay Correction Indicator</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Echo Time" nciodm:ExtCodeID="C82331">
+                    <nciodm:CDISCSynonym>Echo Time</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The time in milliseconds between the application of the excitation pulse and the recording of the peak echo signal. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Echo Time</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Field of View" nciodm:ExtCodeID="C74298">
+                    <nciodm:CDISCSynonym>Field of View</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The extent of an area that is visible. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Field of View</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Flip Angle" nciodm:ExtCodeID="C73792">
+                    <nciodm:CDISCSynonym>Flip Angle</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>In magnetic resonance imaging, the rotation of the average axis of the protons, relative to the main magnetic field direction, induced by radiofrequency signals. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Flip Angle</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Image Acquisition Dimensionality" nciodm:ExtCodeID="C116126">
+                    <nciodm:CDISCSynonym>Image Acquisition Dimensionality</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The number of dimensions that the acquired image(s) are presented in.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Image Acquisition Dimensionality</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Image Acquisition Matrix Size" nciodm:ExtCodeID="C106533">
+                    <nciodm:CDISCSynonym>Image Acquisition Matrix Size</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the number of data fields, pixels or data points assigned to each linear dimension in a digital image. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Image Acquisition Matrix Size</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Image Weighting Type" nciodm:ExtCodeID="C116122">
+                    <nciodm:CDISCSynonym>Image Weighting Type</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A classification of the technique used to enhance image contrast based on differences in magnetic resonance tissue properties. This can be achieved by changing the echo time or repetition time after the tissue has returned to its equilibrium state.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Image Weighting Type</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Interslice Distance" nciodm:ExtCodeID="C116123">
+                    <nciodm:CDISCSynonym>Interslice Distance</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the distance between slices within an image sequence, calculated by subtracting the nominal slice thickness from the couch increment.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Interslice Distance Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Inversion Time" nciodm:ExtCodeID="C116124">
+                    <nciodm:CDISCSynonym>Inversion Time</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The time between the inversion and excitation pulses in an inversion recovery pulse sequence.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Inversion Time</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Number of Coil Channels" nciodm:ExtCodeID="C112364">
+                    <nciodm:CDISCSynonym>Number of Coil Channels</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The number of channels, or elements, in the coil component of the device.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Number of Coil Channels</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Number of Slices" nciodm:ExtCodeID="C116125">
+                    <nciodm:CDISCSynonym>Number of Slices</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The number of planar cross-sections in an imaging sequence; each slice corresponds to a single image.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Number of Slices</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Pulse Sequence" nciodm:ExtCodeID="C106562">
+                    <nciodm:CDISCSynonym>Pulse Sequence</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A serially recurrent arrangement of radiofrequency pulses that are applied to the sample. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Pulse Sequence</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Randoms Correction Indicator" nciodm:ExtCodeID="C116128">
+                    <nciodm:CDISCSynonym>Randoms Correction Indicator</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An indication as to whether the device was set to correct for random noise generated by deflected positrons.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Randoms Correction Indicator</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Receiver Bandwidth" nciodm:ExtCodeID="C106563">
+                    <nciodm:CDISCSynonym>Receiver Bandwidth</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The range between the minimum and maximum cut-off frequencies for a particular receiver, commonly measured in Hertz. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Receiver Bandwidth</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Reconstruction Filter Type" nciodm:ExtCodeID="C106564">
+                    <nciodm:CDISCSynonym>Reconstruction Filter Type</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A classification of the reconstruction filter used to suppress noise, enhance edges, resolution recovery and smooth an image.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Reconstruction Filter Type</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Reconstruction of Raw Data Type" nciodm:ExtCodeID="C111303">
+                    <nciodm:CDISCSynonym>Reconstruction of Raw Data Type</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The type of mathematical process used to produce the displayed image from the raw k-space data obtained from the receiver circuitry. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Reconstruction of Raw Data Type</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Repetition Time" nciodm:ExtCodeID="C82330">
+                    <nciodm:CDISCSynonym>Repetition Time</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The amount of time in milliseconds between successive pulse sequences applied to the same slice.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Repetition Time</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Signal Amplitude" nciodm:ExtCodeID="C112416">
+                    <nciodm:CDISCSynonym>Signal Amplitude</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the height of the signal.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Signal Amplitude</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Signal Frequency" nciodm:ExtCodeID="C112417">
+                    <nciodm:CDISCSynonym>Signal Frequency</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the number of cycles of a periodic wave or pulse per unit of time.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Signal Frequency</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Signal Width" nciodm:ExtCodeID="C112418">
+                    <nciodm:CDISCSynonym>Signal Width</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the range of values seen in the time interval between the beginning and end of the pulse wave.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Signal Width</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Slice Number" nciodm:ExtCodeID="C111314">
+                    <nciodm:CDISCSynonym>Slice Number</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The numeric identifier used to identify an image slice. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Slice Number</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Slice Thickness" nciodm:ExtCodeID="C106534">
+                    <nciodm:CDISCSynonym>Slice Thickness</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The dimension between two surfaces of an imaging plane. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Image Slice Thickness</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Software Version" nciodm:ExtCodeID="C111093">
+                    <nciodm:CDISCSynonym>Software Version</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A form or variant of software; one of a sequence of copies of a software program, each incorporating new modifications. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Software Version</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Stimulation Parameter" nciodm:ExtCodeID="C114145">
+                    <nciodm:CDISCSynonym>Stimulation Parameter</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The type of electrode (monopolar or bipolar) used on the subject during electrical stimulation of the body or organ.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Electrical Stimulation Electrode Type</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="X-axis Pixel Spacing" nciodm:ExtCodeID="C69201">
+                    <nciodm:CDISCSynonym>X-axis Pixel Spacing</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the distance between the centers of two adjacent pixels located along the X-axis.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Horizontal Pixel Spacing</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Y-axis Pixel Spacing" nciodm:ExtCodeID="C69210">
+                    <nciodm:CDISCSynonym>Y-axis Pixel Spacing</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the distance between the centers of two adjacent pixels located along the Y-axis.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Vertical Pixel Spacing</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>DUTEST</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Device-In-Use Test Name</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Device-In-Use Test Name Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

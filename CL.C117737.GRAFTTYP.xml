@@ -1,0 +1,42 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C117737.GRAFTTYP" Name="Graft Type" DataType="text" nciodm:ExtCodeID="C117737" nciodm:CodeListExtensible="Yes">
+                <Description>
+                    <TranslatedText xml:lang="en">A terminology codelist relevant to the type of graft implanted in the subject.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="ARTERIAL GRAFT, FREE" nciodm:ExtCodeID="C117816">
+                    <nciodm:CDISCDefinition>A vessel graft comprised of an artery that has been completely detached from its original location.  (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Free Arterial Graft</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ARTERIAL GRAFT, IN-SITU" nciodm:ExtCodeID="C117817">
+                    <nciodm:CDISCDefinition>A vessel graft comprised of an artery whose origin remains intact.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>In Situ Arterial Graft</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="AUTOLOGOUS VEIN GRAFT" nciodm:ExtCodeID="C117818">
+                    <nciodm:CDISCDefinition>A vessel graft comprised of a vein harvested from a different anatomical location.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Autologous Vein Graft</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CADAVERIC GRAFT, ARTERIAL" nciodm:ExtCodeID="C117819">
+                    <nciodm:CDISCDefinition>An arterial graft harvested from a cadaver. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Cadaveric Arterial Graft</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CADAVERIC GRAFT, VENOUS" nciodm:ExtCodeID="C117820">
+                    <nciodm:CDISCDefinition>A venous graft harvested from a cadaver. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Cadaveric Venous Graft</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="COMPOSITE GRAFT" nciodm:ExtCodeID="C117821">
+                    <nciodm:CDISCDefinition>A vessel graft comprised of two or more conduit materials.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Composite Vessel Graft</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SAPHENOUS VEIN GRAFT" nciodm:ExtCodeID="C117822">
+                    <nciodm:CDISCSynonym>SVG</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A vessel graft comprised of the saphenous vein.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Saphenous Vein Graft</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SYNTHETIC GRAFT" nciodm:ExtCodeID="C117823">
+                    <nciodm:CDISCDefinition>A vessel graft comprised of non-biological material.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Synthetic Vessel Graft</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>GRAFTTYP</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Graft Type</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Graft Type Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

@@ -1,0 +1,25 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C101857.DIABTHPY" Name="Diabetes Therapy" DataType="text" nciodm:ExtCodeID="C101857" nciodm:CodeListExtensible="Yes">
+                <Description>
+                    <TranslatedText xml:lang="en">A terminology codelist that describes the treatment method for diabetes.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="DIET" nciodm:ExtCodeID="C15383">
+                    <nciodm:CDISCDefinition>A form of therapy which includes dietary approaches and special diets.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Special Diet Therapy</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="INSULIN" nciodm:ExtCodeID="C581">
+                    <nciodm:CDISCDefinition>A synthetic or animal-derived form of insulin used in the treatment of diabetes mellitus.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Therapeutic Insulin</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NO TREATMENT" nciodm:ExtCodeID="C99994">
+                    <nciodm:CDISCDefinition>No treatment for diabetes.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>No Treatment for Diabetes</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ORAL MEDICATION" nciodm:ExtCodeID="C102246">
+                    <nciodm:CDISCDefinition>A pharmacological medication intended for administration through the mouth.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Oral Medication</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>DIABTHPY</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Diabetes Therapy</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Diabetes Therapy Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

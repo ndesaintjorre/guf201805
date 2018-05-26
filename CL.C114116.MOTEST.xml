@@ -1,0 +1,179 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C114116.MOTEST" Name="Morphology Test Name" DataType="text" nciodm:ExtCodeID="C114116" nciodm:CodeListExtensible="Yes">
+                <Description>
+                    <TranslatedText xml:lang="en">A terminology codelist based on the test names for macroscopic assessments that are seen by the naked eye or observed via procedures such as imaging modalities, endoscopy, or other technologies.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="Boundary Shift Integral" nciodm:ExtCodeID="C114183">
+                    <nciodm:CDISCSynonym>Boundary Shift Integral</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of change in volume of an organ or anatomical feature as determined by a shift in tissue boundary over time.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Boundary Shift Integral</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Cell Density" nciodm:ExtCodeID="C120538">
+                    <nciodm:CDISCSynonym>Cell Density</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the number of cells contained in a unit of volume.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Cell Density</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Cell Density, Maximum" nciodm:ExtCodeID="C120710">
+                    <nciodm:CDISCSynonym>Cell Density, Maximum</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The maximum number in a group of values that represent the cell density.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Maximum Cell Density</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Cell Density, Mean" nciodm:ExtCodeID="C120712">
+                    <nciodm:CDISCSynonym>Cell Density, Mean</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The mean number in a group of values that represent the cell density.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Mean Cell Density</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Cell Density, Minimum" nciodm:ExtCodeID="C120711">
+                    <nciodm:CDISCSynonym>Cell Density, Minimum</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The minimum number in a group of values that represent the cell density.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Minimum Cell Density</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Cell Density, Standard Deviation" nciodm:ExtCodeID="C120713">
+                    <nciodm:CDISCSynonym>Cell Density, Standard Deviation</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The standard deviation in a group of values that represent the cell density.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Standard Deviation of Cell Density</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Color" nciodm:ExtCodeID="C37927">
+                    <nciodm:CDISCSynonym>Color</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The appearance of objects (or light sources) described in terms of a person's perception of their hue and lightness (or brightness) and saturation. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Color</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Coronary Artery No Reflow Indicator" nciodm:ExtCodeID="C119331">
+                    <nciodm:CDISCSynonym>Coronary Artery No Reflow Indicator</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An indication as to whether there is a new acute reduction in coronary flow (TIMI grade 0-1) in the absence of dissection, thrombus, spasm, or high-grade residual stenosis at the original PCI lesion site.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Coronary No Reflow at PCI Site Indicator</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Cup to Disc Ratio" nciodm:ExtCodeID="C120714">
+                    <nciodm:CDISCSynonym>Cup to Disc Ratio</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The ratio of the diameter of the optic cup compared to the diameter of the optic disc. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Optic Cup to Disc Ratio</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Depth" nciodm:ExtCodeID="C25333">
+                    <nciodm:CDISCSynonym>Depth</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The extent downward or inward; the perpendicular measurement from the surface downward to determine deepness. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Depth</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Diameter" nciodm:ExtCodeID="C25285">
+                    <nciodm:CDISCSynonym>Diameter</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The length of a straight line passing through the center of a circle or sphere and connecting two points on the circumference. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Diameter</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Diameter, Mean" nciodm:ExtCodeID="C120716">
+                    <nciodm:CDISCSynonym>Diameter, Mean</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The mean number in a group of values that represent the diameter of an object.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Mean Diameter</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Diameter, Minimum" nciodm:ExtCodeID="C120715">
+                    <nciodm:CDISCSynonym>Diameter, Minimum</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The minimum number in a group of values that represent the diameter of an object.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Minimum Diameter</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Diameter, Standard Deviation" nciodm:ExtCodeID="C120717">
+                    <nciodm:CDISCSynonym>Diameter, Standard Deviation</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The standard deviation in a group of values that represent the diameter of an object.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Standard Deviation of Diameter</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Elasticity" nciodm:ExtCodeID="C119332">
+                    <nciodm:CDISCSynonym>Elasticity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A quantitative measurement of an organ's ability to deform in response to physiological force and return to its normal shape by passive elastic recoil.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Organ Elasticity</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="In-Stent Restenosis Indicator" nciodm:ExtCodeID="C116148">
+                    <nciodm:CDISCSynonym>In-Stent Restenosis Indicator</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An indication as to whether there is re-narrowing of a stent implanted at a lesion site to treat a prior stenosis, to a diameter stenosis of greater than 50% within the stent.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>In-Stent Restenosis Indicator</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Interpretation" nciodm:ExtCodeID="C41255">
+                    <nciodm:CDISCSynonym>Interpretation</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An act or process of elucidation; explication, or explanation of the meaning of the event or thing via the assignment of objects from the domain to the constants of a formal language, truth-values to the proposition symbols, truth-functions to the connectives, other functions to the function symbols, and extensions to the predicates, if any. The assignments are result of human logic application and are not native to the symbols of the formal language.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Interpretation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Late Loss" nciodm:ExtCodeID="C116146">
+                    <nciodm:CDISCSynonym>Late Loss</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The difference between the mean minimum lumen diameter (MLD) assessed immediately after an index procedure and the MLD assessed at follow-up angiography.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Late Lumen Loss Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Length" nciodm:ExtCodeID="C25334">
+                    <nciodm:CDISCSynonym>Length</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The linear extent in space from one end of something to the other end, or the extent of something from beginning to end. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Length</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Lens Status" nciodm:ExtCodeID="C120718">
+                    <nciodm:CDISCSynonym>Lens Status</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The condition or state of the lens of the eye. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Lens Status</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Lesion Restenosis Indicator" nciodm:ExtCodeID="C116147">
+                    <nciodm:CDISCSynonym>Lesion Restenosis Indicator</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An indication as to whether there is re-narrowing of a lesion site following treatment of a prior stenosis, to a diameter stenosis of greater than 50% at the previously treated lesion site.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Lesion Restenosis Indicator</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Longest Diameter" nciodm:ExtCodeID="C96684">
+                    <nciodm:CDISCSynonym>Longest Diameter</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The longest possible length of a straight line passing through the center of a circular or spheroid object that connects two points on the circumference.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Longest Diameter</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Mass" nciodm:ExtCodeID="C43246">
+                    <nciodm:CDISCSynonym>Mass</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The amount of matter in an object.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Mass</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Mean Vessel Diameter" nciodm:ExtCodeID="C116143">
+                    <nciodm:CDISCSynonym>Mean Vessel Diameter</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The mean of the inside diameters of the normal blood vessel segments.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Mean Vessel Diameter</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Minimum Vessel Lumen Diameter" nciodm:ExtCodeID="C116144">
+                    <nciodm:CDISCSynonym>Minimum Vessel Lumen Diameter</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The minimum diameter of the inside of a blood vessel (lumen) derived quantitatively in a single view.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Minimum Vessel Lumen Diameter</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Percent Diameter Stenosis" nciodm:ExtCodeID="C116145">
+                    <nciodm:CDISCSynonym>Percent Diameter Stenosis</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The value calculated as 100 x (1 - MLD/RVD), using the mean quantitative values for minimum lumen diameter (MLD) and reference vessel diameter (RVD).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Percent Diameter Stenosis Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Thickness" nciodm:ExtCodeID="C41145">
+                    <nciodm:CDISCSynonym>Thickness</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The dimension between two surfaces of an object, usually the smallest dimension as opposed to the width or the length.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Thickness</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Thickness, Maximum" nciodm:ExtCodeID="C120719">
+                    <nciodm:CDISCSynonym>Thickness, Maximum</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The maximum number in a group of values that represent the thickness of an object.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Maximum Thickness</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Thickness, Mean" nciodm:ExtCodeID="C120721">
+                    <nciodm:CDISCSynonym>Thickness, Mean</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The mean number in a group of values that represent the thickness of an object.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Mean Thickness</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Thickness, Minimum" nciodm:ExtCodeID="C120720">
+                    <nciodm:CDISCSynonym>Thickness, Minimum</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The minimum number in a group of values that represent the thickness of an object.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Minimum Thickness</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Thickness, Standard Deviation" nciodm:ExtCodeID="C120722">
+                    <nciodm:CDISCSynonym>Thickness, Standard Deviation</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The standard deviation in a group of values that represent the thickness of an object.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Standard Deviation of Thickness</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Volume" nciodm:ExtCodeID="C25335">
+                    <nciodm:CDISCSynonym>Volume</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The amount of three dimensional space occupied by an object or the capacity of a space or container. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Volume</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Weight" nciodm:ExtCodeID="C25208">
+                    <nciodm:CDISCSynonym>Weight</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The vertical force exerted by a mass as a result of gravity. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Weight</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Width" nciodm:ExtCodeID="C25345">
+                    <nciodm:CDISCSynonym>Width</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The extent or measurement of something from side to side. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Width</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>MOTEST</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Morphology Test Name</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Morphology Test Name Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

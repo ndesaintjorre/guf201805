@@ -1,0 +1,119 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C103330.SCTEST" Name="Subject Characteristic Test Name" DataType="text" nciodm:ExtCodeID="C103330" nciodm:CodeListExtensible="Yes">
+                <Description>
+                    <TranslatedText xml:lang="en">The test name representing each subject characteristic.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="Breast Fed Indicator" nciodm:ExtCodeID="C112233">
+                    <nciodm:CDISCSynonym>Breast Fed Indicator</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An indication as to whether the subject was breast fed (received mother's milk) as an infant.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Breast Fed Indicator</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Contact Investigation" nciodm:ExtCodeID="C102625">
+                    <nciodm:CDISCSynonym>Contact Investigation</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A public health activity whereby individuals who have been exposed to a person with a suspected or confirmed contagious illness are identified, usually for the purpose of identifying additional cases of the illness, or to offer some form of prophylactic intervention to either prevent or ameliorate disease in the exposed individual.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Disease Contact Investigation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Country of Potential Disease Exposure" nciodm:ExtCodeID="C102612">
+                    <nciodm:CDISCSynonym>Country of Potential Disease Exposure</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>System of classification based on the nation in which an individual was exposed to a disease, regardless of the nation in which he/she currently resides.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Country of Potential Disease Exposure</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Dominant Hand" nciodm:ExtCodeID="C114182">
+                    <nciodm:CDISCSynonym>Dominant Hand</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The preferred hand of use for controlled and efficient performance of motor tasks.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Dominant Hand</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Education Level" nciodm:ExtCodeID="C17953">
+                    <nciodm:CDISCSynonym>Education Level</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Years of education that a person has completed.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Education Level</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Employee Job" nciodm:ExtCodeID="C25193">
+                    <nciodm:CDISCSynonym>Employee Job</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A code specifying the job performed by the employee for the employer. For example, accountant, programmer analyst, patient care associate, staff nurse, etc.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Occupation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Employee Job Class" nciodm:ExtCodeID="C74565">
+                    <nciodm:CDISCSynonym>Employee Job Class</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A code qualifying the employment in various ways, such as, full-time vs. part time, etc.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Employee Job Class</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Employee Salary Type" nciodm:ExtCodeID="C74566">
+                    <nciodm:CDISCSynonym>Employee Salary Type</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A code specifying the method used by the employer to compute the employee's salary or wages. For example, hourly, annual, or commission.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Employee Salary Type</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Entry Date from Ptntl Cntry Disease Exp" nciodm:ExtCodeID="C102631">
+                    <nciodm:CDISCSynonym>Entry Date from Ptntl Cntry Disease Exp</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The date on which the subject arrived in the reporting country from the country of potential disease exposure.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Entry Date from Country of Potential Disease Exposure</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Marital Status" nciodm:ExtCodeID="C25188">
+                    <nciodm:CDISCSynonym>Marital Status</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A demographic parameter indicating a person's current conjugal status.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Marital Status</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Member of High Risk Population" nciodm:ExtCodeID="C102666">
+                    <nciodm:CDISCSynonym>Member of High Risk Population</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An indication that a subject is part of a population group that has a greater chance of contracting a disease or disorder.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Member Of High Risk Population</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="National Origin" nciodm:ExtCodeID="C28407">
+                    <nciodm:CDISCSynonym>National Origin</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>System of classification based on nation from which a person originates, regardless of the nation in which he/she currently resides.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>National Origin</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Premature Birth Indicator" nciodm:ExtCodeID="C112400">
+                    <nciodm:CDISCSynonym>Premature Birth Indicator</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An indication as to whether the subject was born prior to 38 weeks gestation.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Premature Birth Indicator</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Priority of Disease Contact" nciodm:ExtCodeID="C102699">
+                    <nciodm:CDISCSynonym>Priority of Disease Contact</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The categorization of individuals with or without the potential for having a particular disease.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Priority of Disease Contact</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Setting of Contact" nciodm:ExtCodeID="C102708">
+                    <nciodm:CDISCSynonym>Setting of Contact</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The environment within which the person may have come into contact with a disease carrier, or played the role of a disease carrier.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Setting of Disease Contact</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Skin Classification" nciodm:ExtCodeID="C74563">
+                    <nciodm:CDISCSynonym>Skin Classification</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A classification system used to categorize the sensitivity of a subject's skin to sunlight.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Fitzpatrick Classification Scale</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Skin Type" nciodm:ExtCodeID="C74580">
+                    <nciodm:CDISCSynonym>Skin Type</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A distinctive characteristic of the skin marked by the amount of sebum secreted by sebaceous glands.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Skin Type</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Social Risk Factor" nciodm:ExtCodeID="C102711">
+                    <nciodm:CDISCSynonym>Social Risk Factor</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Social factors such as personal behavior, lifestyle, or environment belonging to the subject which are known to increase the likelihood of infection and disease.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Social Risk Factor</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Source Case Investigation" nciodm:ExtCodeID="C102713">
+                    <nciodm:CDISCSynonym>Source Case Investigation</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A public health activity for the determination of who transmitted a disease to another subject and whether this person: is still infectious; was reported to the health department as a disease case or suspect; or has infected others.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Source Case Investigation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Symptom" nciodm:ExtCodeID="C4876">
+                    <nciodm:CDISCSynonym>Symptom</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Subjective evidence of disease perceived by the patient.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Symptom</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Twin Type" nciodm:ExtCodeID="C112424">
+                    <nciodm:CDISCSynonym>Twin Type</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The classification of the two offspring born from the same pregnancy.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Twin Type</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Type of Contact" nciodm:ExtCodeID="C102723">
+                    <nciodm:CDISCSynonym>Type of Contact</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Identification and clinical investigation of disease contacts.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Type of Contagion Contact</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>SCTEST</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Subject Characteristic Test Name</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Subject Characteristic Test Name Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

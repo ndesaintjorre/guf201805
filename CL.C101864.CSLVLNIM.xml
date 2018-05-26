@@ -1,0 +1,37 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C101864.CSLVLNIM" Name="Reason CS/LV Lead Not Implanted" DataType="text" nciodm:ExtCodeID="C101864" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">The reason that a Coronary Sinus Access or Left Ventricular (CS/LV) lead was not implanted.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="COULD NOT OBTAIN ACCEPTABLE PACING THRESHOLDS" nciodm:ExtCodeID="C100025">
+                    <nciodm:CDISCDefinition>The coronary sinus/left ventricular lead was not implanted because the operator was unable to obtain acceptable pacing thresholds.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Unable to Obtain Acceptable Pacing Thresholds</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEAD POSITION RESULTS IN UNDESIRABLE STIMULATION OF THE DIAPHRAGM" nciodm:ExtCodeID="C99933">
+                    <nciodm:CDISCDefinition>The coronary sinus/left ventricular lead was not implanted because the lead position resulted in undesirable stimulation of the diaphragm.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Cardiac Lead Position Results in Undesirable Stimulation of Diaphragm</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PREVIOUSLY IMPLANTED" nciodm:ExtCodeID="C100007">
+                    <nciodm:CDISCDefinition>The coronary sinus/left ventricular lead was not implanted because a lead had been previously implanted.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Previously Implanted Cardiac Lead</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UNABLE TO OBTAIN SATISFACTORY CORONARY SINUS ACCESS" nciodm:ExtCodeID="C100026">
+                    <nciodm:CDISCDefinition>The coronary sinus/left ventricular lead was not implanted because the operator was unable to obtain satisfactory coronary sinus access.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Unable to Obtain Satisfactory Coronary Sinus Access</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UNABLE TO OBTAIN SATISFACTORY VASCULAR ACCESS" nciodm:ExtCodeID="C100027">
+                    <nciodm:CDISCDefinition>The coronary sinus/left ventricular lead was not implanted because the operator was unable to obtain satisfactory vascular access.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Unable to Obtain Satisfactory Vascular Access</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UNABLE TO POSITION LEAD DUE TO CORONARY SINUS DISSECTION" nciodm:ExtCodeID="C100028">
+                    <nciodm:CDISCDefinition>The coronary sinus/left ventricular lead was not implanted because the coronary sinus was dissected.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Unable to Position Lead Due to Coronary Sinus Dissection</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UNABLE TO POSITION LEAD IN TRIBUTARY VEIN OF CORONARY SINUS" nciodm:ExtCodeID="C100029">
+                    <nciodm:CDISCDefinition>The coronary sinus/left ventricular lead was not implanted because the operator was unable to position the lead in the tributary vein of the coronary sinus.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Unable to Position Lead In tributary Vein of Coronary Sinus</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>CSLVLNIM</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Reason CS/LV Lead Not Implanted</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Reason Coronary Sinus Access or Left Ventricular Lead Not Implanted Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

@@ -1,0 +1,29 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C101868.LVEFMRE" Name="Left Ventricular Ejection Fraction Measurement Result" DataType="text" nciodm:ExtCodeID="C101868" nciodm:CodeListExtensible="Yes">
+                <Description>
+                    <TranslatedText xml:lang="en">Terminology for results of left ventricular ejection fraction assessments.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="HYPERDYNAMIC" nciodm:ExtCodeID="C99512">
+                    <nciodm:CDISCDefinition>A pathologically high percentage of blood that is forced from the heart ventricle to produce cardiac output. This is often the result of ventricular dilation due to hypertrophic cardiomyopathy. Quantitatively, the ejection fraction is considered higher than 70%.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Hyperdynamic Ventricular Ejection Fraction</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MILD DYSFUNCTION" nciodm:ExtCodeID="C99507">
+                    <nciodm:CDISCDefinition>Slightly less than normal amount of blood that is forced from the heart ventricle to produce cardiac output. Quantitatively, the ejection fraction is considered between 40% to 49%.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Mildly Abnormal Ejection Fraction</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MODERATE DYSFUNCTION" nciodm:ExtCodeID="C99508">
+                    <nciodm:CDISCDefinition>Moderately less than normal amount of blood that is forced from the heart ventricle to produce cardiac output. Quantitatively, the ejection fraction is considered between 30% to 39%.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Moderately Abnormal Ejection Fraction</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NORMAL EJECTION FRACTION" nciodm:ExtCodeID="C99513">
+                    <nciodm:CDISCDefinition>The usual amount of blood that is forced from the heart ventricle to produce cardiac output. Quantitatively, the ejection fraction is considered between 50% to 70%.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Normal Ventricular Ejection Fraction</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SEVERE DYSFUNCTION" nciodm:ExtCodeID="C99509">
+                    <nciodm:CDISCDefinition>Severely less than normal amount of blood that is forced from the heart ventricle to produce cardiac output. Quantitatively, the ejection fraction is considered less than 30%.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Severely Abnormal Ventricular Ejection Fraction</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>LVEFMRE</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Left Ventricular Ejection Fraction Measurement Result</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Left Ventricular Ejection Fraction Measurement Result Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

@@ -1,0 +1,588 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C116111.SPCIES" Name="SDTM Species" DataType="text" nciodm:ExtCodeID="C116111" nciodm:CodeListExtensible="Yes">
+                <Description>
+                    <TranslatedText xml:lang="en">Terminology relevant to the species of the pathogen to which the subject is a host when the pathogen is the focus of the test or interpretation.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="ACINETOBACTER LWOFFII" nciodm:ExtCodeID="C86095">
+                    <nciodm:CDISCSynonym>ACINETOBACTER CALCOACETICUS SUBSP. LWOFFII</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Acinetobacter lwoffii.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Acinetobacter lwoffii</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ACTINOBACILLUS PLEUROPNEUMONIAE" nciodm:ExtCodeID="C86101">
+                    <nciodm:CDISCSynonym>HAEMOPHILUS PLEUROPNEUMONIAE</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Actinobacillus pleuropneumoniae.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Actinobacillus pleuropneumoniae</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BACILLUS ANTHRACIS" nciodm:ExtCodeID="C86160">
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Bacillus anthracis.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Bacillus anthracis</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BARMAH FOREST VIRUS" nciodm:ExtCodeID="C112232">
+                    <nciodm:CDISCDefinition>Any viral organism that can be assigned to the species Barmah Forest virus.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Barmah Forest Virus</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BK POLYOMAVIRUS" nciodm:ExtCodeID="C89820">
+                    <nciodm:CDISCSynonym>BK Virus</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any viral organism that can be assigned to the species BK polyomavirus.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BK Virus</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BORDETELLA PERTUSSIS" nciodm:ExtCodeID="C76205">
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Bordetella pertussis.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Bordetella pertussis</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BUTTIAUXELLA AGRESTIS" nciodm:ExtCodeID="C86229">
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Buttiauxella agrestis.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Buttiauxella agrestis</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CHLAMYDIA TRACHOMATIS" nciodm:ExtCodeID="C86253">
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Chlamydia trachomatis.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Chlamydia trachomatis</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CHLAMYDOPHILA PNEUMONIAE" nciodm:ExtCodeID="C76272">
+                    <nciodm:CDISCSynonym>CHLAMYDIA PNEUMONIAE</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Chlamydophila pneumoniae.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Chlamydophila pneumoniae</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CLOSTRIDIUM GLYCOLICUM" nciodm:ExtCodeID="C86280">
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Clostridium glycolicum.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Clostridium glycolicum</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CLOSTRIDIUM HISTOLYTICUM" nciodm:ExtCodeID="C86282">
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Clostridium histolyticum.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Clostridium histolyticum</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CLOSTRIDIUM NOVYI" nciodm:ExtCodeID="C86285">
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Clostridium novyi.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Clostridium novyi</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CLOSTRIDIUM TERTIUM" nciodm:ExtCodeID="C86297">
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Clostridium tertium.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Clostridium tertium</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="COLORADO TICK FEVER VIRUS" nciodm:ExtCodeID="C112240">
+                    <nciodm:CDISCSynonym>CTFV</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any viral organism that can be assigned to the species Colorado tick fever virus.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Colorado Tick Fever Virus</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CORYNEBACTERIUM AMYCOLATUM" nciodm:ExtCodeID="C86308">
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Corynebacterium amycolatum.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Corynebacterium amycolatum</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CORYNEBACTERIUM DIPHTHERIAE" nciodm:ExtCodeID="C86312">
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Corynebacterium diphtheriae.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Corynebacterium diphtheriae</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CORYNEBACTERIUM MACGINLEYI" nciodm:ExtCodeID="C86315">
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Corynebacterium macginleyi.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Corynebacterium macginleyi</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CORYNEBACTERIUM UREALYTICUM" nciodm:ExtCodeID="C86325">
+                    <nciodm:CDISCSynonym>CDC GROUP D2</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>CORYNEBACTERIUM GROUP D-2</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Corynebacterium urealyticum.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Corynebacterium urealyticum</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CORYNEBACTERIUM XEROSIS" nciodm:ExtCodeID="C86326">
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Corynebacterium xerosis.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Corynebacterium xerosis</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="COXIELLA BURNETII" nciodm:ExtCodeID="C86328">
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Coxiella burnetii.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Coxiella burnetii</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DENGUE VIRUS" nciodm:ExtCodeID="C112036">
+                    <nciodm:CDISCDefinition>Any viral organism that can be assigned to the species Dengue virus.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Dengue Virus</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ECHOVIRUS" nciodm:ExtCodeID="C112272">
+                    <nciodm:CDISCDefinition>Any viral organism that can be assigned to the species Echovirus.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Echovirus</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ENTEROBACTER AEROGENES" nciodm:ExtCodeID="C86356">
+                    <nciodm:CDISCSynonym>AEROBACTER AEROGENES</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Enterobacter aerogenes.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Enterobacter aerogenes</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ENTEROBACTER ASBURIAE" nciodm:ExtCodeID="C86358">
+                    <nciodm:CDISCSynonym>CDC ENTERIC GROUP 17</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Enterobacter asburiae.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Enterobacter asburiae</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ESCHERICHIA COLI" nciodm:ExtCodeID="C14206">
+                    <nciodm:CDISCSynonym>E. COLI</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Escherichia coli.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Escherichia coli</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ESCHERICHIA FERGUSONII" nciodm:ExtCodeID="C86380">
+                    <nciodm:CDISCSynonym>CDC ENTERIC GROUP 10</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Escherichia fergusonii.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Escherichia fergusonii</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ESCHERICHIA VULNERIS" nciodm:ExtCodeID="C86382">
+                    <nciodm:CDISCSynonym>CDC ENTERIC GROUP 1</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Escherichia vulneris.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Escherichia vulneris</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EWINGELLA AMERICANA" nciodm:ExtCodeID="C86391">
+                    <nciodm:CDISCSynonym>CDC ENTERIC GROUP 40</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Ewingella americana.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Ewingella americana</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EXIGUOBACTERIUM ACETYLICUM" nciodm:ExtCodeID="C86886">
+                    <nciodm:CDISCSynonym>BREVIBACTERIUM ACETYLICUM</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Exiguobacterium acetylicum.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Exiguobacterium acetylicum</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="GORDONIA BRONCHIALIS" nciodm:ExtCodeID="C86416">
+                    <nciodm:CDISCSynonym>GORDONA BRONCHIALIS</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>RHODOCOCCUS BRONCHIALIS</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Gordonia bronchialis.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Gordonia bronchialis</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="GORDONIA SPUTI" nciodm:ExtCodeID="C86418">
+                    <nciodm:CDISCSynonym>GORDONA SPUTI</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Gordonia sputi.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Gordonia sputi</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAEMOPHILUS AEGYPTIUS" nciodm:ExtCodeID="C86428">
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Haemophilus aegyptius.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Haemophilus aegyptius</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAEMOPHILUS INFLUENZAE" nciodm:ExtCodeID="C86431">
+                    <nciodm:CDISCSynonym>H-FLU</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Haemophilus influenzae.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Haemophilus influenzae</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HENDRA VIRUS" nciodm:ExtCodeID="C112289">
+                    <nciodm:CDISCDefinition>Any viral organism that can be assigned to the species Hendra virus.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Hendra Virus</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HEPATITIS A VIRUS" nciodm:ExtCodeID="C14325">
+                    <nciodm:CDISCSynonym>HAV</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any viral organism that can be assigned to the species Hepatitis A virus.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Hepatitis A Virus</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HEPATITIS B VIRUS" nciodm:ExtCodeID="C14215">
+                    <nciodm:CDISCSynonym>HBV</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any viral organism that can be assigned to the species Hepatitis B virus.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Hepatitis B Virus</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HEPATITIS C VIRUS" nciodm:ExtCodeID="C14312">
+                    <nciodm:CDISCSynonym>HCV</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any viral organism that can be assigned to the species Hepatitis C virus.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Hepatitis C Virus</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HEPATITIS D VIRUS" nciodm:ExtCodeID="C93324">
+                    <nciodm:CDISCSynonym>HDV</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any viral organism that can be assigned to the species Hepatitis D virus.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Hepatitis D Virus</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HEPATITIS E VIRUS" nciodm:ExtCodeID="C14295">
+                    <nciodm:CDISCSynonym>HEV</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any viral organism that can be assigned to the species Hepatitis E virus.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Hepatitis E Virus</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HUMAN HERPESVIRUS 1" nciodm:ExtCodeID="C14311">
+                    <nciodm:CDISCSynonym>HHV-1</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>HSV-1</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Herpes Simplex Virus type 1</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any viral organism that can be assigned to the species Human Herpesvirus 1 within the genus Simplexvirus.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Human Herpesvirus 1</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HUMAN HERPESVIRUS 2" nciodm:ExtCodeID="C112313">
+                    <nciodm:CDISCSynonym>HHV-2</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>HSV-2</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Herpes Simplex Virus type 2</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any viral organism that can be assigned to the species Human Herpesvirus 2 within the genus Simplexvirus.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Human Herpesvirus 2</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HUMAN HERPESVIRUS 3" nciodm:ExtCodeID="C71091">
+                    <nciodm:CDISCSynonym>HHV-3</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>VZV</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Varicella Zoster Virus</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any viral organism that can be assigned to the species Human Herpesvirus 3.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Varicella Zoster Virus</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HUMAN HERPESVIRUS 4" nciodm:ExtCodeID="C14204">
+                    <nciodm:CDISCSynonym>EBV</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Epstein-Barr Virus</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>HHV-4</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any viral organism that can be assigned to the species Human Herpesvirus 4.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Epstein-Barr Virus</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HUMAN HERPESVIRUS 5" nciodm:ExtCodeID="C112314">
+                    <nciodm:CDISCSynonym>HCMV</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>HHV-5</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Human Cytomegalovirus</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any viral organism that can be assigned to the species Human Herpesvirus 5.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Human Herpesvirus 5</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HUMAN HERPESVIRUS 6" nciodm:ExtCodeID="C14218">
+                    <nciodm:CDISCSynonym>HHV-6</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any viral organism that can be assigned to the species Human Herpesvirus 6.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Human Herpesvirus 6</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HUMAN HERPESVIRUS 7" nciodm:ExtCodeID="C112315">
+                    <nciodm:CDISCSynonym>HHV-7</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any viral organism that can be assigned to the species Human Herpesvirus 7.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Human Herpesvirus 7</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HUMAN HERPESVIRUS 8" nciodm:ExtCodeID="C14327">
+                    <nciodm:CDISCSynonym>HHV-8</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>KSHV</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Kaposi's sarcoma-associated herpesvirus</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any viral organism that can be assigned to the species Human herpesvirus 8.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Human Herpesvirus 8</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HUMAN IMMUNODEFICIENCY VIRUS 1" nciodm:ExtCodeID="C14220">
+                    <nciodm:CDISCSynonym>HIV-1</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>LAV-1</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any viral organism that can be assigned to the species Human Immunodeficiency virus 1.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Human Immunodeficiency Virus 1</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HUMAN IMMUNODEFICIENCY VIRUS 2" nciodm:ExtCodeID="C14221">
+                    <nciodm:CDISCSynonym>HIV-2</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>LAV-2</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any viral organism that can be assigned to the species Human Immunodeficiency virus 2.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Human Immunodeficiency Virus 2</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HUMAN PARVOVIRUS B19" nciodm:ExtCodeID="C89772">
+                    <nciodm:CDISCSynonym>B19 Virus</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Human Erythrovirus B19</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Parvovirus B19</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any viral organism that can be assigned to the species Human Parvovirus B19.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Parvovirus B19</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HUMAN RESPIRATORY SYNCYTIAL VIRUS" nciodm:ExtCodeID="C14267">
+                    <nciodm:CDISCSynonym>Human RSV</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>RSV</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>hRSV</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any viral organism that can be assigned to the species Human Respiratory Syncitial virus.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Human Respiratory Syncytial Virus</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="INFLUENZA A VIRUS" nciodm:ExtCodeID="C53454">
+                    <nciodm:CDISCSynonym>FLUAV</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Influenza Virus Type A</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any viral organism that can be assigned to the species Influenza A virus.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Influenza A Virus</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="INFLUENZA B VIRUS" nciodm:ExtCodeID="C53468">
+                    <nciodm:CDISCSynonym>FLUBV</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Influenza Virus Type B</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any viral organism that can be assigned to the species Influenza B virus.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Influenza B Virus</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="INFLUENZA C VIRUS" nciodm:ExtCodeID="C97157">
+                    <nciodm:CDISCSynonym>FLUCV</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Influenza Virus Type C</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any viral organism that can be assigned to the species Influenza C virus.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Influenza C Virus</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="JC VIRUS" nciodm:ExtCodeID="C14229">
+                    <nciodm:CDISCSynonym>Human polyomavirus (type JC)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Polyomavirus hominis 2</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>polyomavirus JC</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any viral organism that can be assigned to the species JC polyomavirus.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>JC Virus</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="KLEBSIELLA OZAENAE" nciodm:ExtCodeID="C86456">
+                    <nciodm:CDISCSynonym>KLEBSIELLA PNEUMONIAE SUBSP. OZAENAE</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Klebsiella ozaenae.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Klebsiella ozaenae</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="KLEBSIELLA PNEUMONIAE" nciodm:ExtCodeID="C86457">
+                    <nciodm:CDISCSynonym>K. PNEUMONIAE</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Klebsiella pneumoniae.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Klebsiella pneumoniae</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="KLEBSIELLA RHINOSCLEROMATIS" nciodm:ExtCodeID="C86458">
+                    <nciodm:CDISCSynonym>KLEBSIELLA PNEUMONIAE SUBSP. RHINOSCLEROMATIS</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Klebsiella rhinoscleromatis.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Klebsiella rhinoscleromatis</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="KLEBSIELLA SINGAPORENSIS" nciodm:ExtCodeID="C86459">
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Klebsiella singaporensis.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Klebsiella singaporensis</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="KLEBSIELLA VARIICOLA" nciodm:ExtCodeID="C86460">
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Klebsiella variicola.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Klebsiella variicola</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="KLUYVERA ASCORBATA" nciodm:ExtCodeID="C86462">
+                    <nciodm:CDISCSynonym>CDC ENTERIC GROUP 8</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Kluyvera ascorbata.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Kluyvera ascorbata</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="KLUYVERA CRYOCRESCENS" nciodm:ExtCodeID="C86463">
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Kluyvera cryocrescens.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Kluyvera cryocrescens</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="KOCURIA KRISTINAE" nciodm:ExtCodeID="C86468">
+                    <nciodm:CDISCSynonym>MICROCOCCUS KRISTINAE</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Kocuria kristinae.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Kocuria kristinae</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="KOCURIA RHIZOPHILA" nciodm:ExtCodeID="C86513">
+                    <nciodm:CDISCSynonym>MICROCOCCUS LUTEUS</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>SARCINA LUTEA</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Kocuria rhizophila.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Micrococcus luteus</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="KOCURIA ROSEA" nciodm:ExtCodeID="C86469">
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Kocuria rosea.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Kocuria rosea</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="KOCURIA VARIANS" nciodm:ExtCodeID="C86470">
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Kocuria varians.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Kocuria varians</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEGIONELLA PNEUMOPHILA" nciodm:ExtCodeID="C86489">
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Legionella pneumophila.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Legionella pneumophila</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MANNHEIMIA HAEMOLYTICA" nciodm:ExtCodeID="C86508">
+                    <nciodm:CDISCSynonym>PASTEURELLA HAEMOLYTICA</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Mannheimia haemolytica.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Mannheimia haemolytica</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MEASLES VIRUS" nciodm:ExtCodeID="C14237">
+                    <nciodm:CDISCSynonym>Rubeola Virus</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>SSPEV</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>rougeole virus</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>subacute sclerosing panencephalitis virus</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any viral organism that can be assigned to the species Measles virus.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Measles Virus</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MEGASPHAERA ELSDENII" nciodm:ExtCodeID="C86896">
+                    <nciodm:CDISCSynonym>PEPTOSTREPTOCOCCUS ELSDENII</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Megasphaera elsdenii.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Megasphaera elsdenii</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="METHYLOBACTERIUM MESOPHILICUM" nciodm:ExtCodeID="C86510">
+                    <nciodm:CDISCSynonym>PSEUDOMONAS MESOPHILICA</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Methylobacterium mesophilicum.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Methylobacterium mesophilicum</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MICROBACTERIUM PARAOXYDANS" nciodm:ExtCodeID="C86512">
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Microbacterium paraoxydans.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Microbacterium paraoxydans</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MICROCOCCUS LYLAE" nciodm:ExtCodeID="C86514">
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Micrococcus lylae.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Micrococcus lylae</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MITSUOKELLA MULTACIDA" nciodm:ExtCodeID="C86516">
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Mitsuokella multacida.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Mitsuokella multacida</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MOLLUSCUM CONTAGIOSUM VIRUS" nciodm:ExtCodeID="C112357">
+                    <nciodm:CDISCSynonym>MCV</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>MOCV</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any viral organism that can be assigned to the species Molluscum contagiosum virus.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Molluscum Contagiosum Virus</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MORAXELLA BOVIS" nciodm:ExtCodeID="C86524">
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Moraxella bovis.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Moraxella bovis</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MORAXELLA CATARRHALIS" nciodm:ExtCodeID="C76210">
+                    <nciodm:CDISCSynonym>BRANHAMELLA CATARRHALIS</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Moraxella catarrhalis.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Moraxella catarrhalis</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MORAXELLA LACUNATA" nciodm:ExtCodeID="C86526">
+                    <nciodm:CDISCSynonym>MORAXELLA LIQUEFACIENS</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Moraxella lacunata.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Moraxella lacunata</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MYCOBACTERIUM FORTUITUM" nciodm:ExtCodeID="C86538">
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Mycobacterium fortuitum.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Mycobacterium fortuitum</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MYCOBACTERIUM PEREGRINUM" nciodm:ExtCodeID="C86546">
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Mycobacterium peregrinum.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Mycobacterium peregrinum</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MYCOBACTERIUM SMEGMATIS" nciodm:ExtCodeID="C86590">
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Mycobacterium smegmatis.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Mycobacterium smegmatis</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MYCOPLASMA PNEUMONIAE" nciodm:ExtCodeID="C86599">
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Mycoplasma pneumoniae.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Mycoplasma pneumoniae</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MYROIDES ODORATUS" nciodm:ExtCodeID="C86954">
+                    <nciodm:CDISCSynonym>FLAVOBACTERIUM ODORATUM</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Myroides odoratus.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Myroides odoratus</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NEISSERIA GONORRHOEAE" nciodm:ExtCodeID="C86603">
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Neisseria gonorrhoeae.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Neisseria gonorrhoeae</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NEWCASTLE DISEASE VIRUS" nciodm:ExtCodeID="C93023">
+                    <nciodm:CDISCSynonym>Avian Paramyxovirus Type 1</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>NDV</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any viral organism that can be assigned to the species Newcastle disease virus.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Newcastle Disease Virus</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NIPAH VIRUS" nciodm:ExtCodeID="C112359">
+                    <nciodm:CDISCSynonym>NiV</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any viral organism that can be assigned to the species Nipah virus.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Nipah Virus</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NORWALK VIRUS" nciodm:ExtCodeID="C112363">
+                    <nciodm:CDISCSynonym>NV</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Norwalk calicivirus</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any viral organism that can be assigned to the species Norwalk virus.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Norwalk Virus</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="POLIOVIRUS" nciodm:ExtCodeID="C14259">
+                    <nciodm:CDISCSynonym>Enterovirus C</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Human enterovirus C</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any viral organism that can be assigned to the species Poliovirus.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Poliovirus</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PROTEUS MIRABILIS" nciodm:ExtCodeID="C86019">
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Proteus mirabilis.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Proteus mirabilis</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PROTEUS PENNERI" nciodm:ExtCodeID="C86688">
+                    <nciodm:CDISCSynonym>INDOLE NEGATIVE PROTEUS VULGARIS</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Proteus penneri.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Proteus penneri</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PSEUDOCOWPOX VIRUS" nciodm:ExtCodeID="C112401">
+                    <nciodm:CDISCSynonym>Paravaccinia virus</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Pseudocowpoxvirus</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any viral organism that can be assigned to the species Pseudocowpox virus.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Pseudocowpox Virus</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PSEUDOMONAS AERUGINOSA" nciodm:ExtCodeID="C86696">
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Pseudomonas aeruginosa.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Pseudomonas aeruginosa</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="RABIES VIRUS" nciodm:ExtCodeID="C112405">
+                    <nciodm:CDISCDefinition>Any viral organism that can be assigned to the species Rabies virus.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Rabies Virus</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="RHINOVIRUS A" nciodm:ExtCodeID="C112407">
+                    <nciodm:CDISCSynonym>Human Rhinovirus A</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any viral organism that can be assigned to the species Rhinovirus A.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Rhinovirus A</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="RHINOVIRUS B" nciodm:ExtCodeID="C112408">
+                    <nciodm:CDISCSynonym>Human Rhinovirus B</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any viral organism that can be assigned to the species Rhinovirus B.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Rhinovirus B</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="RHINOVIRUS C" nciodm:ExtCodeID="C112409">
+                    <nciodm:CDISCSynonym>Human Rhinovirus C</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any viral organism that can be assigned to the species Rhinovirus C.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Rhinovirus C</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ROSS RIVER VIRUS" nciodm:ExtCodeID="C112411">
+                    <nciodm:CDISCSynonym>RRV</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any viral organism that can be assigned to the species Ross River virus.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Ross River Virus</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="RUBELLA VIRUS" nciodm:ExtCodeID="C77198">
+                    <nciodm:CDISCSynonym>German Measles Virus</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any viral organism that can be assigned to the species Rubella virus.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Rubella Virus</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SAPPORO VIRUS" nciodm:ExtCodeID="C112415">
+                    <nciodm:CDISCSynonym>Human calicivirus SLV</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Human calicivirus Sapporo-like Virus</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any viral organism that can be assigned to the species Sapporo virus.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Sapporo Virus</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SARS CORONAVIRUS" nciodm:ExtCodeID="C112432">
+                    <nciodm:CDISCSynonym>HCoV-SARS</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>SARS</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Severe Acute Respiratory Syndrome Coronavirus</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any viral organism that can be assigned to the species SARS coronavirus.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SARS Coronavirus</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SERRATIA PLYMUTHICA" nciodm:ExtCodeID="C86740">
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Serratia plymuthica.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Serratia plymuthica</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="STAPHYLOCOCCUS AUREUS" nciodm:ExtCodeID="C50921">
+                    <nciodm:CDISCSynonym>STAPH. AUREUS</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Staphylococcus aureus.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Staphylococcus aureus</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="STAPHYLOCOCCUS CAPITIS" nciodm:ExtCodeID="C86752">
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Staphylococcus capitis.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Staphylococcus capitis</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="STAPHYLOCOCCUS COHNII" nciodm:ExtCodeID="C86756">
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Staphylococcus cohnii.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Staphylococcus cohnii</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="STREPTOCOCCUS PNEUMONIAE" nciodm:ExtCodeID="C76384">
+                    <nciodm:CDISCSynonym>DIPLOCOCCUS PNEUMONIAE</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Streptococcus pneumoniae.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Streptococcus pneumoniae</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUTTONELLA INDOLOGENES" nciodm:ExtCodeID="C86816">
+                    <nciodm:CDISCSynonym>KINGELLA INDOLOGENES</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Suttonella indologenes.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Suttonella indologenes</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TATLOCKIA MICDADEI" nciodm:ExtCodeID="C86817">
+                    <nciodm:CDISCSynonym>LEGIONELLA MICDADEI</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Legionella micdadei.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Tatlockia micdadei</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TICK-BORNE ENCEPHALITIS VIRUS" nciodm:ExtCodeID="C112422">
+                    <nciodm:CDISCSynonym>FSME virus</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>TBEV</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any viral organism that can be assigned to the species Tick-borne encephalitis virus.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Tick-Borne Encephalitis Virus</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="VACCINIA VIRUS" nciodm:ExtCodeID="C14281">
+                    <nciodm:CDISCSynonym>VV</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any viral organism that can be assigned to the species Vaccinia virus.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Vaccinia Virus</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="VARIOLA VIRUS" nciodm:ExtCodeID="C96527">
+                    <nciodm:CDISCSynonym>Smallpox Virus</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Variola Virus VAR</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any viral organism that can be assigned to the species Variola virus.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Variola Virus</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="VIBRIO ALGINOLYTICUS" nciodm:ExtCodeID="C86840">
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Vibrio alginolyticus.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Vibrio alginolyticus</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="VIBRIO PARAHAEMOLYTICUS" nciodm:ExtCodeID="C86846">
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Vibrio parahaemolyticus.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Vibrio parahaemolyticus</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="VIBRIO VULNIFICUS" nciodm:ExtCodeID="C86847">
+                    <nciodm:CDISCSynonym>BENECKEA VULNIFICA</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Vibrio vulnificus.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Vibrio vulnificus</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WEST NILE VIRUS" nciodm:ExtCodeID="C71877">
+                    <nciodm:CDISCSynonym>WNV</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any viral organism that can be assigned to the species West Nile virus.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>West Nile Virus</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="YELLOW FEVER VIRUS" nciodm:ExtCodeID="C97156">
+                    <nciodm:CDISCSynonym>Flavivirus febricis</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>YFV</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any viral organism that can be assigned to the species Yellow fever virus.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Yellow Fever Virus</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="YERSINIA PESTIS" nciodm:ExtCodeID="C86860">
+                    <nciodm:CDISCSynonym>PASTEURELLA PESTIS</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Yersinia pestis.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Yersinia pestis</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>SPCIES</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>SDTM Species</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Species Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

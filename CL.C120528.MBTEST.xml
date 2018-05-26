@@ -1,0 +1,29 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C120528.MBTEST" Name="Microbiology Test Name" DataType="text" nciodm:ExtCodeID="C120528" nciodm:CodeListExtensible="Yes">
+                <Description>
+                    <TranslatedText xml:lang="en">Terminology relevant to the microbiology test names of the CDISC Study Data Tabulation Model.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="Influenza A Antigen" nciodm:ExtCodeID="C120677">
+                    <nciodm:CDISCSynonym>Influenza A Antigen</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the influenza A antigen in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Influenza A Antigen Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Influenza A/B Antigen" nciodm:ExtCodeID="C120678">
+                    <nciodm:CDISCSynonym>Influenza A/B Antigen</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the influenza A/B antigen in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Influenza A/B Antigen Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Influenza B Antigen" nciodm:ExtCodeID="C120679">
+                    <nciodm:CDISCSynonym>Influenza B Antigen</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the influenza B antigen in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Influenza B Antigen Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Viral Identification" nciodm:ExtCodeID="C120680">
+                    <nciodm:CDISCSynonym>Viral Identification</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The identification of the type of a viral organism in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Viral Identification</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>MBTEST</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Microbiology Test Name</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Microbiology Test Name Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

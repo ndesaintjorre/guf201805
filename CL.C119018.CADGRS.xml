@@ -1,0 +1,33 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C119018.CADGRS" Name="Coronary Artery Dissection NHLBI Grade Responses" DataType="text" nciodm:ExtCodeID="C119018" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">A terminology codelist relevant to the National Heart, Lung, and Blood Institute grade for coronary artery dissection and perforation.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="CORONARY DISSECTION NHLBI GRADE A" nciodm:ExtCodeID="C119588">
+                    <nciodm:CDISCDefinition>Minor radiolucencies within the lumen during contrast injection with no persistence after dye clearance. (Adapted from: Coronary artery angiographic changes after PTCA: Manual of Operations NHLBI PTCA Registry 1985-6:9)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NHLBI Coronary Artery Dissection Type A</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CORONARY DISSECTION NHLBI GRADE B" nciodm:ExtCodeID="C119589">
+                    <nciodm:CDISCDefinition>Parallel tracts or double lumen separated by a radiolucent area during contrast injection with no persistence after dye clearance. (Adapted from: Coronary artery angiographic changes after PTCA: Manual of Operations NHLBI PTCA Registry 1985-6:9)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NHLBI Coronary Artery Dissection Type B</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CORONARY DISSECTION NHLBI GRADE C" nciodm:ExtCodeID="C119590">
+                    <nciodm:CDISCDefinition>Extraluminal cap with persistence of contrast after dye clearance from the lumen. (Adapted from: Coronary artery angiographic changes after PTCA: Manual of Operations NHLBI PTCA Registry 1985-6:9)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NHLBI Coronary Artery Dissection Type C</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CORONARY DISSECTION NHLBI GRADE D" nciodm:ExtCodeID="C119591">
+                    <nciodm:CDISCDefinition>Spiral luminal filling defect with delayed but complete distal flow. (Adapted from: Coronary artery angiographic changes after PTCA: Manual of Operations NHLBI PTCA Registry 1985-6:9)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NHLBI Coronary Artery Dissection Type D</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CORONARY DISSECTION NHLBI GRADE E" nciodm:ExtCodeID="C119592">
+                    <nciodm:CDISCDefinition>New persistent filling defect with delayed antegrade flow. May represent thrombus. (Adapted from: Coronary artery angiographic changes after PTCA: Manual of Operations NHLBI PTCA Registry 1985-6:9)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NHLBI Coronary Artery Dissection Type E</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CORONARY DISSECTION NHLBI GRADE F" nciodm:ExtCodeID="C119593">
+                    <nciodm:CDISCDefinition>Non-A-E types with total coronary occlusion and no distal antegrade flow. May represent thrombus. (Adapted from: Coronary artery angiographic changes after PTCA: Manual of Operations NHLBI PTCA Registry 1985-6:9)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NHLBI Coronary Artery Dissection Type F</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>CADGRS</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Coronary Artery Dissection NHLBI Grade Responses</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM NHLBI Coronary Artery Dissection Grade Responses Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

@@ -1,0 +1,37 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C102588.SETCON" Name="Contact Setting" DataType="text" nciodm:ExtCodeID="C102588" nciodm:CodeListExtensible="Yes">
+                <Description>
+                    <TranslatedText xml:lang="en">Terminology relevant to the environment within which the subject may have come into contact with a disease carrier, or played the role of a disease carrier.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="FARM" nciodm:ExtCodeID="C48953">
+                    <nciodm:CDISCDefinition>A tract of land cultivated for the purpose of agricultural production or devoted to the raising and breeding of domestic animals.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Farm</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HOUSEHOLD ENVIRONMENT" nciodm:ExtCodeID="C102647">
+                    <nciodm:CDISCDefinition>The area in which an individual lives.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Household Environment</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NON-HOUSEHOLD ENVIRONMENT" nciodm:ExtCodeID="C102679">
+                    <nciodm:CDISCDefinition>An area outside of that in which an individual lives.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Non-household Environment</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PRISON" nciodm:ExtCodeID="C85862">
+                    <nciodm:CDISCDefinition>An institution where persons are confined for punishment and to protect the public.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Correctional Institution</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SCHOOL" nciodm:ExtCodeID="C17118">
+                    <nciodm:CDISCDefinition>An educational institution.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>School</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SOCIAL SETTING" nciodm:ExtCodeID="C102712">
+                    <nciodm:CDISCDefinition>The surroundings or environment in which social activities occur.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Social Setting</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WORKSITE" nciodm:ExtCodeID="C17556">
+                    <nciodm:CDISCDefinition>Place or physical location of work or employment.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Worksite</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>SETCON</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Contact Setting</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Contact Setting Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

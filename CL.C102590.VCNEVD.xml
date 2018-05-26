@@ -1,0 +1,21 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C102590.VCNEVD" Name="Vaccination Evidence Source" DataType="text" nciodm:ExtCodeID="C102590" nciodm:CodeListExtensible="Yes">
+                <Description>
+                    <TranslatedText xml:lang="en">Terminology relevant to the source of information regarding the subject's vaccination status.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="SCAR" nciodm:ExtCodeID="C34483">
+                    <nciodm:CDISCDefinition>A mark left (usually on the skin) by the healing of injured tissue.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Scar</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SELF-REPORT" nciodm:ExtCodeID="C74528">
+                    <nciodm:CDISCDefinition>An individual's perspective or subjective interpretation of an event or information.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Self-Report</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WRITTEN DOCUMENTATION" nciodm:ExtCodeID="C86042">
+                    <nciodm:CDISCDefinition>The collecting, abstracting, and coding of printed or written information for future reference.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Written Documentation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>VCNEVD</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Vaccination Evidence Source</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Vaccination Evidence Source Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

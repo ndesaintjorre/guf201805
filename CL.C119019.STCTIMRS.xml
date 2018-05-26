@@ -1,0 +1,25 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C119019.STCTIMRS" Name="Stent Thrombosis, Coronary, ARC Timing Responses" DataType="text" nciodm:ExtCodeID="C119019" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">A terminology codelist relevant to the Academic Research Council grade for the timing of the stent thrombosis after stent implantation.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="STENT THROMBOSIS ARC ACUTE" nciodm:ExtCodeID="C119594">
+                    <nciodm:CDISCDefinition>0 to 24 hours after stent implantation. (Cutlip DE, Windecker S, Mehran R, et al. Clinical Endpoints in Coronary Stent Trials : A Case for Standardized Definitions. Circulation. 2007;115:2344-2351)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ARC Stent Thrombosis Timing Acute</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="STENT THROMBOSIS ARC LATE" nciodm:ExtCodeID="C119596">
+                    <nciodm:CDISCDefinition>Greater than 30 days to 1 year after stent implantation. (Cutlip DE, Windecker S, Mehran R, et al. Clinical Endpoints in Coronary Stent Trials : A Case for Standardized Definitions. Circulation. 2007;115:2344-2351)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ARC Stent Thrombosis Timing Late</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="STENT THROMBOSIS ARC SUBACUTE" nciodm:ExtCodeID="C119595">
+                    <nciodm:CDISCDefinition>Greater than 24 hours to 30 days after stent implantation. (Cutlip DE, Windecker S, Mehran R, et al. Clinical Endpoints in Coronary Stent Trials : A Case for Standardized Definitions. Circulation. 2007;115:2344-2351)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ARC Stent Thrombosis Timing Subacute</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="STENT THROMBOSIS ARC VERY LATE" nciodm:ExtCodeID="C119597">
+                    <nciodm:CDISCDefinition>Greater than 1 year after stent implantation. (Cutlip DE, Windecker S, Mehran R, et al. Clinical Endpoints in Coronary Stent Trials : A Case for Standardized Definitions. Circulation. 2007;115:2344-2351)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ARC Stent Thrombosis Timing Very Late</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>STCTIMRS</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Stent Thrombosis, Coronary, ARC Timing Responses</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM ARC Coronary Stent Thrombosis Timing Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

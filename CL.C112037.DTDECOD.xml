@@ -1,0 +1,41 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C112037.DTDECOD" Name="Device Tracking and Disposition Event Dictionary Derived Term" DataType="text" nciodm:ExtCodeID="C112037" nciodm:CodeListExtensible="Yes">
+                <Description>
+                    <TranslatedText xml:lang="en">A terminology codelist based on the verbatim or preprinted term for the device tracking and disposition event that occurs.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="DEPLOYED" nciodm:ExtCodeID="C101231">
+                    <nciodm:CDISCDefinition>The act of instantiating, positioning or activating a medical device inside of the body.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Medical Device Deployment</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DESTROYED" nciodm:ExtCodeID="C112270">
+                    <nciodm:CDISCDefinition>A finding referring to a product that has been demolished.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Destroyed Medical Device</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EXPLANTED" nciodm:ExtCodeID="C114146">
+                    <nciodm:CDISCDefinition>A status indicating that a device is removed from a surgically or naturally formed cavity of the human body.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Explanted Medical Device</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IMPLANTED" nciodm:ExtCodeID="C80457">
+                    <nciodm:CDISCDefinition>A status indicating that a device is placed into a surgically or naturally formed cavity of the human body.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Implanted Medical Device</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="INTENDED BUT NOT USED" nciodm:ExtCodeID="C117758">
+                    <nciodm:CDISCDefinition>A status indicating that a device was introduced to the subject for use but did not meet its intended goal and was removed. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Device Intended But Not Used</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LOST" nciodm:ExtCodeID="C112329">
+                    <nciodm:CDISCDefinition>A finding referring to a product that is no longer held or possessed; incapable of being recovered or regained.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Lost Medical Device</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="RECEIVED" nciodm:ExtCodeID="C25639">
+                    <nciodm:CDISCDefinition>The status of coming into possession of or acting as the receptacle or recipient of an item conveyed by an intermediary to the intended destination, from a sender.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Receive</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SHIPPED" nciodm:ExtCodeID="C40353">
+                    <nciodm:CDISCDefinition>The status of being transported or conveyed by an intermediary to a destination, from the sender to the intended receiver.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Shipping</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>DTDECOD</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Device Tracking and Disposition Event Dictionary Derived Term</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Device Tracking and Disposition Event Dictionary Derived Term Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

@@ -1,0 +1,61 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C101862.LEADABN" Name="Lead Abnormality" DataType="text" nciodm:ExtCodeID="C101862" nciodm:CodeListExtensible="Yes">
+                <Description>
+                    <TranslatedText xml:lang="en">Terminology related to the complications of cardiac lead systems.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="CONDUCTOR FAILURE" nciodm:ExtCodeID="C99924">
+                    <nciodm:CDISCDefinition>Conductor failure manifests by high lead impedance either absolutely (above manufacturer's product specifications) or by a significant increase from previously stable chronic values.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Cardiac Device Conductor Failure</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DEFIBRILLATION ISSUES" nciodm:ExtCodeID="C99922">
+                    <nciodm:CDISCDefinition>The cardiac lead is not performing as expected with issues such as oversensing with or without shock or ATP, or failed shocks or inadequate DFT safety margins defibrillation activity.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Cardiac Defibrillator Issue</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EXTRACARDIAC STIMULATION" nciodm:ExtCodeID="C99951">
+                    <nciodm:CDISCDefinition>This manifests as stimulation by the lead of non-cardiac structures such as the diaphragm, chest wall, or pectoral muscle.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Extracardiac Stimulation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAILED TO SHOCK WITH INADEQUATE DFT SAFETY MARGIN" nciodm:ExtCodeID="C99954">
+                    <nciodm:CDISCDefinition>The cardiac lead failed to administer a shock and had an inadequate defibrillator threshold safety margin.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Failure to Shock with Inadequate Defibrillator Threshold Safety Margin</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAILURE TO CAPTURE WITH ACCEPTABLE SAFETY MARGIN" nciodm:ExtCodeID="C99953">
+                    <nciodm:CDISCDefinition>Failure to capture manifests as a high pacing threshold that results in either intermittent failure to capture at maximal programmed output or excessive battery drain leading to premature battery exhaustion.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Failure to Capture with Acceptable Safety Margin</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAILURE TO PACE" nciodm:ExtCodeID="C99528">
+                    <nciodm:CDISCDefinition>Failure to pace manifests as absence of pacemaker stimulation artifacts on electrocardiographic recordings despite rates below pacemaker programmed rate.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Failure of Cardiac Pacemaker to Pace</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="INSULATION FAILURE" nciodm:ExtCodeID="C99932">
+                    <nciodm:CDISCDefinition>Insulation failure manifests as low lead impedance either absolutely (below manufacturer's product specifications) or by a significant decrease from previously stable chronic values.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Cardiac Lead Insulation Failure</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEAD DISLODGEMENT REQUIRING REPOSITION/REOPERATION" nciodm:ExtCodeID="C100034">
+                    <nciodm:CDISCDefinition>The movement (macroscopic or microscopic) of an existing lead within the heart or vascular tree away from the original implantation site.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Cardiac Lead Dislodgement Requiring Reposition/Reoperation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="OVERSENSING" nciodm:ExtCodeID="C99926">
+                    <nciodm:CDISCDefinition>Oversensing manifests as sensing of electrical signals not related to cardiac depolarization of the lead chamber that cannot be resolved acceptably by device reprogramming.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Cardiac Device Oversensing</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="OVERSENSING WITH SHOCK OR ATP" nciodm:ExtCodeID="C99927">
+                    <nciodm:CDISCDefinition>This manifests as sensing of non-cardiac depolarization signals that met arrhythmia detection criteria and elicited programmed tachyarrhythmia therapy.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Cardiac Device Oversensing with Shock or Anti-Tachycardia Pacing</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="OVERSENSING WITHOUT SHOCK OR ATP" nciodm:ExtCodeID="C99928">
+                    <nciodm:CDISCDefinition>This manifests as sensing of non-cardiac depolarization signals that did not meet arrhythmia detection criteria and do not elicit programmed tachyarrhythmia therapy.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Cardiac Device Oversensing without Shock or Anti-Tachycardia Pacing</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SET SCREW PROBLEM" nciodm:ExtCodeID="C99929">
+                    <nciodm:CDISCDefinition>The pacing and/or sensing problem associated with high impedance due to a poor connection between a lead and generator caused by a loose set screw.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Cardiac Device Set Screw Problem</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UNDERSENSING" nciodm:ExtCodeID="C99930">
+                    <nciodm:CDISCDefinition>Undersensing manifests as failure to sense appropriate cardiac depolarizations that cannot be resolved with reprogramming.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Cardiac Device Undersensing</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>LEADABN</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Lead Abnormality</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Lead Abnormality Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

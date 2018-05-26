@@ -1,0 +1,62 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C96785.RSSTRESC" Name="Tumor Response Result" DataType="text" nciodm:ExtCodeID="C96785" nciodm:CodeListExtensible="Yes">
+                <Description>
+                    <TranslatedText xml:lang="en">The result of an assessment of tumor response to treatment or therapy.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="CR" nciodm:ExtCodeID="C4870">
+                    <nciodm:CDISCSynonym>Complete Remission</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Complete Response</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The disappearance of all signs of cancer in response to treatment. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Complete Remission</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CRi" nciodm:ExtCodeID="C103385">
+                    <nciodm:CDISCSynonym>Complete Remission with Incomplete Blood Count Recovery</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Complete Response with Incomplete Bone Marrow Recovery</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The disappearance of all signs of cancer in response to treatment accompanied by incomplete bone marrow recovery, as evidenced by persistent anemia, thrombocytopenia or neutropenia.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Complete Response with Incomplete Bone Marrow Recovery</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EQUIVOCAL" nciodm:ExtCodeID="C86071">
+                    <nciodm:CDISCSynonym>EQUIVOCAL</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Open to question.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Equivocal</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NE" nciodm:ExtCodeID="C62222">
+                    <nciodm:CDISCSynonym>Not Evaluable</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Unable to be evaluated. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Unevaluable</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Non-CR/Non-PD" nciodm:ExtCodeID="C96700">
+                    <nciodm:CDISCSynonym>Non Complete Response/Non Progressive Disease</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Persistence of one or more non-target lesion(s) and/or maintenance of tumor marker levels above the normal limits. (RECIST)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Non Complete Response/Non Progressive Disease</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NOT ALL EVALUATED" nciodm:ExtCodeID="C103424">
+                    <nciodm:CDISCSynonym>Not All Evaluated</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Not all target tumors were assessed. Or not all non-target tumors were assessed.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Not All Tumors Evaluated</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="nPR" nciodm:ExtCodeID="C103422">
+                    <nciodm:CDISCSynonym>Nodular Partial Response</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Remission with remaining lymphoid nodules reflecting residual disease.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Nodular Partial Response</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PD" nciodm:ExtCodeID="C35571">
+                    <nciodm:CDISCSynonym>Progressive Disease</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A disease process that is increasing in scope or severity. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Progressive Disease</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PR" nciodm:ExtCodeID="C18058">
+                    <nciodm:CDISCSynonym>Partial Remission</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Partial Response</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A finding indicating that there is a decrease in the size and the extent of tissue involvement by cancer.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Partial Remission</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SD" nciodm:ExtCodeID="C18213">
+                    <nciodm:CDISCSynonym>Stable Disease</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Cancer that is neither decreasing nor increasing in extent or severity based on predetermined boundaries. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Stable Disease</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>RSSTRESC</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Tumor Response Result</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Tumor Response Result Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

@@ -1,0 +1,40 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C101850.CVSLDEXT" Name="Coronary Vessel Disease Extent" DataType="text" nciodm:ExtCodeID="C101850" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">A terminology codelist to describe the extent of coronary artery disease.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="INDETERMINATE" nciodm:ExtCodeID="C48658">
+                    <nciodm:CDISCSynonym>Inconclusive</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Cannot distinguish between two or more possible values in the current context. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Indeterminate</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="INSIGNIFICANT DISEASE" nciodm:ExtCodeID="C119244">
+                    <nciodm:CDISCDefinition>A finding of stenosis of less than 70 percent reduction in diameter (or 50 percent reduction in cross-sectional area) in a major epicardial vessel, without stenosis of greater than or equal to 70 percent reduction in diameter (or 50 percent reduction in cross-sectional area) in any major epicardial vessel. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Insignificant Disease by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NO DISEASE" nciodm:ExtCodeID="C99993">
+                    <nciodm:CDISCDefinition>There was no stenosis in any coronary artery or branch vessel.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>No Evidence of Coronary Artery Disease</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ONE VESSEL DISEASE" nciodm:ExtCodeID="C99997">
+                    <nciodm:CDISCDefinition>There was stenosis of greater than or equal to 70 percent reduction in diameter (or 50 percent reduction in cross-sectional area) in one major epicardial vessel or its major branches.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>One Vessel Coronary Disease</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="THREE VESSEL DISEASE" nciodm:ExtCodeID="C100020">
+                    <nciodm:CDISCDefinition>There was one of the following: Stenosis of greater than or equal to 70 percent reduction in diameter (or 50 percent reduction in cross-sectional area) in all three major epicardial vessels (anterior descending, posterior descending, circumflex) or their major branches; Stenosis of greater than or equal to 50 percent reduction in diameter of the left main and greater than or equal to 70 percent reduction in diameter, or 50 percent reduction in cross-sectional area of the right coronary artery with a right dominant or co-dominant circulation; Stenosis of greater than or equal to 50 percent reduction in diameter of the left main with a left dominant circulation.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Three Vessel Coronary Disease</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TWO VESSEL DISEASE" nciodm:ExtCodeID="C100023">
+                    <nciodm:CDISCDefinition>There was one of the following: Stenosis of greater than or equal to 70 percent reduction in diameter (or 50 percent reduction in cross-sectional area) in two major epicardial vessels or their major branches; Stenosis of greater than or equal to 50 percent reduction in diameter of the left main with a right dominant or co-dominant circulation, and no stenosis of greater than or equal to 70 percent reduction in diameter, or 50 percent reduction in cross-sectional area in the right coronary artery.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Two Vessel Coronary Disease</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UNKNOWN" nciodm:ExtCodeID="C17998">
+                    <nciodm:CDISCSynonym>U</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Unknown</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Not known, not observed, not recorded, or refused. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Unknown</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>CVSLDEXT</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Coronary Vessel Disease Extent</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Coronary Vessel Disease Extent Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

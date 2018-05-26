@@ -1,0 +1,143 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C101859.CVPRCIND" Name="Cardiac Procedure Indication" DataType="text" nciodm:ExtCodeID="C101859" nciodm:CodeListExtensible="Yes">
+                <Description>
+                    <TranslatedText xml:lang="en">The reason that a subject had a cardiac procedure.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="CANDIDATE TO RECEIVE CARDIAC TRANSPLANT" nciodm:ExtCodeID="C99919">
+                    <nciodm:CDISCDefinition>The intended recipient of a heart transplant.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Candidate to Receive Cardiac Transplant</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CARDIAC ARREST/ARRHYTHMIA ETIOLOGY UNKNOWN" nciodm:ExtCodeID="C100033">
+                    <nciodm:CDISCDefinition>An episode of cardiac arrest or arrhythmia where the etiology was unknown.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Cardiac Arrest/Arrhythmia Etiology Unknown</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CARDIOMYOPATHY" nciodm:ExtCodeID="C34830">
+                    <nciodm:CDISCDefinition>A disease of the heart muscle or myocardium proper. Cardiomyopathies may be classified as either primary or secondary, on the basis of etiology, or on the pathophysiology of the lesion: hypertrophic, dilated, or restrictive.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Cardiomyopathy</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CHRONIC TOTAL OCCLUSION" nciodm:ExtCodeID="C99938">
+                    <nciodm:CDISCDefinition>A longstanding, complete blockage of a vessel.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Chronic Total Occlusion Vessel</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DONOR FOR CARDIAC TRANSPLANT" nciodm:ExtCodeID="C99947">
+                    <nciodm:CDISCDefinition>The subject contributing a heart for a cardiac transplant.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Donor for Cardiac Transplant</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="END OF EXPECTED BATTERY LIFE" nciodm:ExtCodeID="C99949">
+                    <nciodm:CDISCDefinition>The battery that supplies the device has reached the end of its life.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>End of Expected Battery Life</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAULTY CONNECTOR/HEADER" nciodm:ExtCodeID="C100035">
+                    <nciodm:CDISCDefinition>There is a faulty connector/header in the device.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Faulty Device Connector/Header</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="GENERATOR IS BEING REPLACED AT THE TIME OF LEAD REVISION" nciodm:ExtCodeID="C99925">
+                    <nciodm:CDISCDefinition>A cardiac lead requires revision, at which time the generator to the device will be replaced.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Cardiac Device Generator is Being Replaced at Time of Lead Revision</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="GENERATOR MALFUNCTION" nciodm:ExtCodeID="C99943">
+                    <nciodm:CDISCDefinition>The device has a generator malfunction.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Device Generator Malfunction</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IMMEDIATE PERCUTANEOUS CORONARY INTERVENTION (PCI) FOR ST ELEVATION MYOCARDIAL INFARCTION (STEMI)" nciodm:ExtCodeID="C99961">
+                    <nciodm:CDISCDefinition>An immediate percutaneous coronary intervention is necessary for a myocardial infarction that presents with ST segment elevation.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Immediate Percutaneous Coronary Intervention for ST Elevation Myocardial Infarction</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="INFECTION" nciodm:ExtCodeID="C26726">
+                    <nciodm:CDISCDefinition>A disorder resulting from the presence and activity of a microbial, viral, or parasitic agent. It can be transmitted by direct or indirect contact. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Infectious Disorder</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEAD EROSION" nciodm:ExtCodeID="C99931">
+                    <nciodm:CDISCDefinition>A cardiac lead has damaged local tissue enough to require treatment.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Cardiac Lead Erosion</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEFT VENTRICULAR SYSTOLIC DYSFUNCTION" nciodm:ExtCodeID="C64251">
+                    <nciodm:CDISCDefinition>The degree of impairment of the left cardiac ventricle to contract efficiently.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Left Ventricular Systolic Dysfunction</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MANUFACTURER RECALL" nciodm:ExtCodeID="C100045">
+                    <nciodm:CDISCDefinition>An imperative issued by the manufacturer of a device that the device needs to be returned to a designated source for repair or replacement.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Manufacturer Recall</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MANUFACTURER RECOGNIZED A RECURRING PERFORMANCE FAILURE" nciodm:ExtCodeID="C99980">
+                    <nciodm:CDISCDefinition>The device manufacturer had recognized a recurrent performance failure in the device.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Manufacturer Recognized a Recurring Performance Failure</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MEDICAL CONDITION OR PROCEDURE AFFECTS IMPLANTATION SITE" nciodm:ExtCodeID="C99982">
+                    <nciodm:CDISCDefinition>The medical condition or the procedure affects the device implantation site.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Medical Condition or Procedure Affects Implantation Site</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MEDICAL OR SURGICAL PROCEDURE REQUIRING RELOCATION OF LEAD" nciodm:ExtCodeID="C99983">
+                    <nciodm:CDISCDefinition>An intended medical or surgical procedure necessitates the relocation of a cardiac lead.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Medical or Surgical Procedure Requiring Relocation of Lead</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PERCUTANEOUS CORONARY INTERVENTION (PCI) FOR HIGH RISK NON-ST ELEVATION MYOCARDIAL INFARCTION OR UNSTABLE ANGINA" nciodm:ExtCodeID="C99999">
+                    <nciodm:CDISCDefinition>Includes patients with unstable angina or Non-STEMI who have high risk features for short-term risk of death or nonfatal MI. High risk features includes at least one of the following: history of accelerating tempo of ischemic symptoms in preceding 48 hours; character of pain - prolonged ongoing (greater than 20 minutes) rest pain; clinical findings - pulmonary edema, most likely due to ischemia or new or worsening mitral regurgitation murmur; or S3 or new worsening rales or Hypotension, bradycardia, tachycardia or age greater than 75 years; ECG - angina at rest with transient ST-segment changes greater than 0.5 mm or bundle-branch block, new or presumed new or sustained ventricular tachycardia; cardiac markers - NSTEMI patients with elevated cardiac TnT, Tnl, or CK-MB.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Percutaneous Coronary Intervention for High Risk Non-ST Elevation Myocardial Infarction or Unstable Angina</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PERCUTANEOUS CORONARY INTERVENTION (PCI) FOR ST ELEVATION MYOCARDIAL INFARCTION (STEMI) (STABLE AFTER SUCCESSFUL FULL-DOSE THROMBOLYTICS)" nciodm:ExtCodeID="C100001">
+                    <nciodm:CDISCDefinition>A percutaneous coronary intervention is necessary for a myocardial infarction that presents with ST segment elevation and the subject does not have recurrent or persistent symptoms, symptoms of heart failure or ventricular arrhythmia after a successful dose of thrombolytic therapy.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Percutaneous Coronary Intervention for ST Elevation Myocardial Infarction-Stable After Successful Full-Dose Thrombolytic Therapy</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PERCUTANEOUS CORONARY INTERVENTION (PCI) FOR ST ELEVATION MYOCARDIAL INFARCTION (STEMI) (STABLE, &gt;12 HRS FROM SYMPTOM ONSET)" nciodm:ExtCodeID="C100000">
+                    <nciodm:CDISCDefinition>A percutaneous coronary intervention is necessary for a myocardial infarction that presents with ST segment elevation and the subject does not have recurrent or persistent symptoms, symptoms of heart failure or ventricular arrhythmia. The presentation is past twelve hours since onset of symptoms.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Percutaneous Coronary Intervention for ST Elevation Myocardial Infarction-Stable-Over 12 Hours From Symptom Onset</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PERCUTANEOUS CORONARY INTERVENTION (PCI) FOR ST ELEVATION MYOCARDIAL INFARCTION (STEMI) (UNSTABLE, &gt;12 HRS FROM SYMPTOM ONSET)" nciodm:ExtCodeID="C100002">
+                    <nciodm:CDISCDefinition>A percutaneous coronary intervention is necessary for a myocardial infarction that presents with ST segment elevation and the subject has recurrent or persistent symptoms, symptoms of heart failure or ventricular arrhythmia. The presentation is past twelve hours since onset of symptoms.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Percutaneous Coronary Intervention for ST Elevation Myocardial Infarction-Unstable-Over 12 Hours From Symptom Onset</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="POST-CARDIAC TRANSPLANT" nciodm:ExtCodeID="C100005">
+                    <nciodm:CDISCDefinition>A procedure to evaluate the health of the an individual after receiving a heart transplant.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Post-Cardiac Transplant Evaluation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PRE-OPERATIVE EVALUATION FOR NON-CARDIOVASCULAR SURGERY" nciodm:ExtCodeID="C100006">
+                    <nciodm:CDISCDefinition>A procedure to evaluate the health of the cardiac system to determine feasibility of a non-cardiac related surgical procedure.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Pre-Operative Evaluation for Non-Cardiovascular Surgery</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PRIMARY PREVENTION" nciodm:ExtCodeID="C15306">
+                    <nciodm:CDISCDefinition>A procedure performed to avoid the first occurrence of a disease condition.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Primary Prevention</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="RESCUE PERCUTANEOUS CORONARY INTERVENTION (PCI) FOR ST ELEVATION MYOCARDIAL INFARCTION (STEMI) (AFTER FAILED FULL-DOSE THROMBOLYTICS)" nciodm:ExtCodeID="C100008">
+                    <nciodm:CDISCDefinition>A percutaneous coronary intervention is imperative for a myocardial infarction that presents with ST segment elevation after an unsatisfactory response to a full dose of thrombolytic therapy.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Rescue Percutaneous Coronary Intervention for ST Elevation Myocardial Infarction After Failed Full-Dose Thrombolytic Therapy</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SECONDARY PREVENTION" nciodm:ExtCodeID="C15712">
+                    <nciodm:CDISCDefinition>A procedure performed to avoid a subsequent occurrence of a disease condition.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Secondary Prevention</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SPONTANEOUS SUSTAINED VENTRICULAR TACHYCARDIA" nciodm:ExtCodeID="C100014">
+                    <nciodm:CDISCDefinition>Ventricular tachycardia that occurs without provocation and does not resolve spontaneously.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Spontaneous Sustained Ventricular Tachycardia by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="STAGED PERCUTANEOUS CORONARY INTERVENTION (PCI)" nciodm:ExtCodeID="C100015">
+                    <nciodm:CDISCDefinition>A subsequent Percutaneous Coronary Intervention in a planned series of procedures, where the first PCI could have been during a prior admission, or during this admission.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Staged Percutaneous Coronary Intervention</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SYNCOPE WITH HIGH RISK CHARACTERISTICS" nciodm:ExtCodeID="C100018">
+                    <nciodm:CDISCDefinition>A sudden loss of consciousness with loss of postural tone not related to anesthesia with high risk characteristics. High risk characteristics include non-ischemic dilated cardiomyopathy, or ischemic heart disease with significant ventricular dysfunction, hypertrophic cardiomyopathy, Brugada Syndrome, or Long QT Syndrome.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Syncope with High Risk Cardiac Characteristics</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SYNCOPE WITH INDUCIBLE VENTRICULAR TACHYCARDIA" nciodm:ExtCodeID="C100019">
+                    <nciodm:CDISCDefinition>Sudden loss of consciousness with loss of postural tone not related to anesthesia with ventricular tachycardia (VT) that can be induced during an electrophysiological study.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Syncope with Inducible Ventricular Tachycardia by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UNKNOWN" nciodm:ExtCodeID="C17998">
+                    <nciodm:CDISCSynonym>U</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Unknown</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Not known, not observed, not recorded, or refused. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Unknown</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPGRADE TO A DEVICE WITH ADDITIONAL PACING CAPABILITIES" nciodm:ExtCodeID="C100030">
+                    <nciodm:CDISCDefinition>A device with additional pacing capabilities is replacing the current device.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Upgrade to Cardiac Device with Additional Pacing Capabilities</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="VENTRICULAR FIBRILLATION" nciodm:ExtCodeID="C50799">
+                    <nciodm:CDISCDefinition>Ventricular Fibrillation is characterized by rapid, usually more than 300 bpm (cycle length: 180 ms or less), grossly irregular ventricular rhythm with marked variability in QRS cycle length, morphology, and amplitude.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Ventricular Fibrillation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>CVPRCIND</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Cardiac Procedure Indication</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Cardiac Procedure Indication Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

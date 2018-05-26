@@ -1,0 +1,17 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C102576.DOBSTLOC" Name="Directly Observed Therapy Location" DataType="text" nciodm:ExtCodeID="C102576" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Terminology relevant to the physical location at which the medication or therapy was observed, by the healthcare provider, as being taken by the subject.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="FIELD" nciodm:ExtCodeID="C102650">
+                    <nciodm:CDISCDefinition>A setting outside the clinic or a comparable health care facility, e.g. a doctor's office, the subject's home or workplace, a school, a public park, or a restaurant.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>In the Field</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HEALTH FACILITY" nciodm:ExtCodeID="C21541">
+                    <nciodm:CDISCDefinition>The buildings and organizations where healthcare services are provided.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Healthcare Facility</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>DOBSTLOC</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Directly Observed Therapy Location</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Directly Observed Therapy Location Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

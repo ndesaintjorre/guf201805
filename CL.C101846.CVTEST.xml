@@ -1,0 +1,74 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C101846.CVTEST" Name="Cardiovascular Test Name" DataType="text" nciodm:ExtCodeID="C101846" nciodm:CodeListExtensible="Yes">
+                <Description>
+                    <TranslatedText xml:lang="en">A terminology codelist to describe the test name for a physiological examination of the cardiovascular system.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="Cardiac Index" nciodm:ExtCodeID="C119245">
+                    <nciodm:CDISCSynonym>Cardiac Index</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The measure of an individual's cardiac output divided by the individual's body surface area (CI= CO/BSA).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Cardiac Index</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Cardiac Output" nciodm:ExtCodeID="C119246">
+                    <nciodm:CDISCSynonym>Cardiac Output</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The total volume of blood pumped by the heart over a set period of time, conventionally one minute; it is calculated as heart rate times stroke volume (CO= HR x SV).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Cardiac Output</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Cardiac Valvular Regurgitation Severity" nciodm:ExtCodeID="C102244">
+                    <nciodm:CDISCSynonym>Cardiac Valvular Regurgitation Severity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The qualitative measurement of the severity of cardiac valvular regurgitation.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Cardiac Valvular Regurgitation Severity</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Cardiac Valvular Stenosis Severity" nciodm:ExtCodeID="C102245">
+                    <nciodm:CDISCSynonym>Cardiac Valvular Stenosis Severity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The qualitative measurement of the severity of cardiac valvular stenosis.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Cardiac Valvular Stenosis Severity</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Coronary Artery Dominance" nciodm:ExtCodeID="C100086">
+                    <nciodm:CDISCSynonym>Coronary Artery Dominance</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The pattern of the epicardial vessels supplying the posterolateral and posterior descending coronary arteries.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Coronary Artery Dominance</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Ischemic Myocardium Percentage" nciodm:ExtCodeID="C80494">
+                    <nciodm:CDISCSynonym>Ischemic Myocardium Percentage</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The percentage of myocardial tissue which exhibits characteristics of inadequate blood flow (ischemia).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Ischemic Myocardium Percentage</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Left Atrium Dimension" nciodm:ExtCodeID="C99970">
+                    <nciodm:CDISCSynonym>Left Atrium Dimension</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The diameter across the left atrium measured at the end of systole.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Left Atrium Dimension</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Left Ventricle Dimension, End-Diastole" nciodm:ExtCodeID="C99976">
+                    <nciodm:CDISCSynonym>Left Ventricle Dimension, End-Diastole</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The diameter across the ventricle at the end of diastole, excluding the thickness of the walls.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Left Ventricle Dimension at End-Diastole</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Left Ventricular Dimension, End-Systole" nciodm:ExtCodeID="C99977">
+                    <nciodm:CDISCSynonym>Left Ventricular Dimension, End-Systole</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The diameter across the ventricle at the end of systole, excluding the thickness of the walls.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Left Ventricular Dimension at End-Systole</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Left Ventricular Ejection Fraction" nciodm:ExtCodeID="C99524">
+                    <nciodm:CDISCSynonym>Left Ventricular Ejection Fraction</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The percent or fraction of the left ventricular end diastolic volume ejected in systole. The left ventricular ejection fraction is equal to the left ventricular stroke volume divided by the left ventricular end diastolic volume.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Left Ventricular Ejection Fraction</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Number of Diseased Coronary Vessels" nciodm:ExtCodeID="C99996">
+                    <nciodm:CDISCSynonym>Number of Diseased Coronary Vessels</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Number of major epicardial vessels with greater than or equal to 70% reduction in diameter or greater than or equal to 50% reduction in cross-sectional area.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Number of Diseased Coronary Artery Vessels</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Pulmonary Vascular Resistance" nciodm:ExtCodeID="C119247">
+                    <nciodm:CDISCSynonym>Pulmonary Vascular Resistance</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The resistance to blood flow through the pulmonary vasculature.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Pulmonary Vascular Resistance</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Systemic Vascular Resistance" nciodm:ExtCodeID="C119248">
+                    <nciodm:CDISCSynonym>Systemic Vascular Resistance</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The resistance to blood flow through the systemic vasculature.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Systemic Vascular Resistance</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>CVTEST</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Cardiovascular Test Name</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Cardiovascular Test Name Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

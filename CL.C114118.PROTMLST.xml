@@ -1,0 +1,17 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C114118.PROTMLST" Name="Protocol Milestone" DataType="text" nciodm:ExtCodeID="C114118" nciodm:CodeListExtensible="Yes">
+                <Description>
+                    <TranslatedText xml:lang="en">A terminology codelist relevant to protocol-specified, point-in-time events during a study.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="INFORMED CONSENT OBTAINED" nciodm:ExtCodeID="C16735">
+                    <nciodm:CDISCDefinition>Consent by a patient for participation in a clinical study after achieving an understanding of the relevant medical facts and the risks involved.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Informed Consent</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="RANDOMIZED" nciodm:ExtCodeID="C114209">
+                    <nciodm:CDISCDefinition>Participants are assigned to arms of a clinical trial by chance.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Subject is Randomized</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>PROTMLST</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Protocol Milestone</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Protocol Milestone Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

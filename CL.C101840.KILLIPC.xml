@@ -1,0 +1,25 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C101840.KILLIPC" Name="Killip Class Responses" DataType="text" nciodm:ExtCodeID="C101840" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">A terminology codelist based on the classification developed by Killip and Kimball, which classifies patients with myocardial infarction based on routine physical examination parameters, such as the presence or absence of rales, or a decreased systolic blood pressure.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="KILLIP CLASS I" nciodm:ExtCodeID="C77269">
+                    <nciodm:CDISCDefinition>The absence of rales over the lung fields and absence of third heart sound (S3). (ACC/AHA)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Killip Class I</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="KILLIP CLASS II" nciodm:ExtCodeID="C77270">
+                    <nciodm:CDISCDefinition>The presence of rales over 50% or less of the lung fields or the presence of a third heart sound (S3).(ACC/AHA)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Killip Class II</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="KILLIP CLASS III" nciodm:ExtCodeID="C77271">
+                    <nciodm:CDISCDefinition>The presence of rales over more than 50% of the lung fields. (ACC/AHA)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Killip Class III</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="KILLIP CLASS IV" nciodm:ExtCodeID="C77272">
+                    <nciodm:CDISCDefinition>The presence of cardiogenic shock (systolic BP less than 90 mm Hg) for greater than 30 minutes, not responsive to fluid resuscitation alone, and felt to be secondary to cardiac dysfunction. (ACC/AHA)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Killip Class IV</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>KILLIPC</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Killip Class Responses</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Killip Class Responses Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

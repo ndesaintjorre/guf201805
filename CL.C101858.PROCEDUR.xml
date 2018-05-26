@@ -1,0 +1,229 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C101858.PROCEDUR" Name="Procedure" DataType="text" nciodm:ExtCodeID="C101858" nciodm:CodeListExtensible="Yes">
+                <Description>
+                    <TranslatedText xml:lang="en">A terminology codelist to describe any activity considered to be a therapeutic or diagnostic procedure.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="ABLATION" nciodm:ExtCodeID="C20985">
+                    <nciodm:CDISCDefinition>Removal, separation, detachment, extirpation or eradication of a body part, pathway or function by surgery, chemical destruction, morbid process, or noxious substance. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Ablation Therapy</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ABLATION, ACCESSORY PATHWAYS" nciodm:ExtCodeID="C99907">
+                    <nciodm:CDISCDefinition>An invasive therapeutic procedure to destroy tissue in an accessory pathways in the atrioventricular conduction system that contributes to arrhythmia.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Ablation of Cardiac Accessory Pathway</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ABLATION, ATRIAL" nciodm:ExtCodeID="C80432">
+                    <nciodm:CDISCDefinition>An invasive therapeutic procedure to destroy tissue in the cardiac atria that is the source of an arrhythmia.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Atrial Ablation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ABLATION, AV NODE" nciodm:ExtCodeID="C99908">
+                    <nciodm:CDISCDefinition>An invasive therapeutic procedure to destroy tissue in the AV-node that contributes to arrhythmia.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Ablation of Cardiac Atrioventricular Node</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ABLATION, CHEMICAL" nciodm:ExtCodeID="C111157">
+                    <nciodm:CDISCDefinition>Removal, separation, detachment, extirpation or eradication of a body part, pathway or function by chemical means. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Chemical Ablation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ABLATION, LASER" nciodm:ExtCodeID="C111241">
+                    <nciodm:CDISCDefinition>Removal, separation, detachment, extirpation or eradication of a body part, pathway or function by light amplification by stimulated emission of radiation. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Laser Ablation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ABLATION, VENTRICULAR" nciodm:ExtCodeID="C80433">
+                    <nciodm:CDISCDefinition>An invasive therapeutic procedure to destroy tissue in the cardiac ventricles that is the source of an arrhythmia.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Ventricular Ablation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="AORTIC BALLOON VALVOTOMY" nciodm:ExtCodeID="C99916">
+                    <nciodm:CDISCDefinition>Dilation of the valve between the left ventricle of the heart and the aorta by inflating a balloon.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Aortic Balloon Valvotomy</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="AORTIC VALVE REPLACEMENT" nciodm:ExtCodeID="C50815">
+                    <nciodm:CDISCDefinition>Surgery performed with the purpose of replacing a degenerated, calcified, malformed, dysfunctional, etc. aortic valve with a bioprosthetic, homograft, or autograft valve.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Aortic Valve Replacement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ATRIAL SEPTAL CLOSURE" nciodm:ExtCodeID="C99939">
+                    <nciodm:CDISCDefinition>Repair of atrial septum.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Closure of Cardiac Atrial Septum</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CARDIAC RESYNCHRONIZATION THERAPY" nciodm:ExtCodeID="C80436">
+                    <nciodm:CDISCDefinition>An invasive procedure that includes an electronic device that stimulates both right and left cardiac ventricles to improve coordination of ventricular contraction.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Cardiac Resynchronization Therapy</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CARDIAC STENT PLACEMENT" nciodm:ExtCodeID="C100080">
+                    <nciodm:CDISCDefinition>A procedure performed during a percutaneous coronary intervention in which a device is deployed into the lumen of a coronary artery to expand and support the vessel wall such that the vessel remains patent and blood flow is uninhibited.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Cardiac Stent Placement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CARDIAC TRANSPLANT" nciodm:ExtCodeID="C15246">
+                    <nciodm:CDISCSynonym>Heart Transplant</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A surgical procedure in which a damaged heart is removed and replaced by another heart from a suitable donor.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Heart Transplantation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CARDIOVERSION, CHEMICAL" nciodm:ExtCodeID="C99937">
+                    <nciodm:CDISCSynonym>CHEMICAL CARDIOVERSION</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The administration of pharmacologic agents to correct abnormal heart rhythm.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Chemical Cardioversion</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CARDIOVERSION, ELECTRICAL" nciodm:ExtCodeID="C99948">
+                    <nciodm:CDISCSynonym>ELECTRICAL CARDIOVERSION</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The administration of electric current to correct abnormal heart rhythm.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Electric Cardioversion</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CORONARY ARTERY BYPASS GRAFT" nciodm:ExtCodeID="C51998">
+                    <nciodm:CDISCSynonym>Aortocoronary Bypass</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>CAB</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>CABG</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Coronary Artery Bypass</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Coronary Artery Bypass Graft</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Coronary Artery Bypass Graft Surgery</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Coronary Artery Bypass Grafting</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Heart Bypass</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A procedure performed to bypass partially or completely occluded coronary arteries with veins and/or arteries harvested from elsewhere in the body, thereby improving the blood supply to the coronary circulation supplying the myocardium (heart muscle).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Coronary Artery Bypass Surgery</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CRYOABLATION" nciodm:ExtCodeID="C15215">
+                    <nciodm:CDISCDefinition>Removal, separation, detachment, extirpation or eradication of a body part, pathway or function by freezing. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Cryosurgery</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CRYOTHERAPY" nciodm:ExtCodeID="C40030">
+                    <nciodm:CDISCDefinition>The therapeutic use of cold or refrigeration.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Cryotherapy</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ELECTROCAUTERIZATION" nciodm:ExtCodeID="C111192">
+                    <nciodm:CDISCDefinition>A procedure for destroying tissue using an electrical current.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Electrocauterization</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ENDARTERECTOMY" nciodm:ExtCodeID="C52002">
+                    <nciodm:CDISCDefinition>Excision of an atheromatous plaque. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Endarterectomy</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EXCISION" nciodm:ExtCodeID="C15232">
+                    <nciodm:CDISCDefinition>The act of cutting out; the surgical removal of part or all of a structure or organ. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Excision</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IMMUNOTHERAPY" nciodm:ExtCodeID="C15262">
+                    <nciodm:CDISCDefinition>A therapy designed to induce changes in a patient's immune status.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Immunotherapy</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IMPLANTABLE CARDIOVERTER DEFIBRILLATOR" nciodm:ExtCodeID="C80435">
+                    <nciodm:CDISCSynonym>Implantable Cardioverter Defibrillator Procedure</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A procedure involving an electronic device implanted in the body that delivers electrical stimulation to the heart to treat tachycardia. It may also have the capability to treat bradycardia.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Implantable Cardioverter-Defibrillator Placement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="INFRARED PHOTO COAGULATION" nciodm:ExtCodeID="C62730">
+                    <nciodm:CDISCSynonym>Infrared Coagulation</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The use of an intense beam of light, such as a laser, to seal off blood vessels or destroy tissue. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Infrared Photocoagulation Therapy</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEAD" nciodm:ExtCodeID="C99934">
+                    <nciodm:CDISCSynonym>Lead Procedure</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A procedure involving one or more wires used for pacemaker or implantable defibrillator devices.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Cardiac Lead Procedure</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEFT ATRIAL APPENDAGE OCCLUSION" nciodm:ExtCodeID="C99965">
+                    <nciodm:CDISCDefinition>The therapeutic blockage of the muscular pouch in the left atrium.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Intentional Left Cardiac Atrial Appendage Occlusion Procedure</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEFT VENTRICULAR ASSIST DEVICE" nciodm:ExtCodeID="C80473">
+                    <nciodm:CDISCSynonym>LVAD</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A procedure involving a mechanical cardiac pump which receives blood from the left ventricle and delivers it to the aorta.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Left Ventricular Assist Device</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEFT VENTRICULAR SYSTOLIC DYSFUNCTION EVALUATION" nciodm:ExtCodeID="C99975">
+                    <nciodm:CDISCDefinition>An examination and assessment of the inability of the left ventricle to effectively pump blood to the body.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Left Cardiac Ventricular Systolic Dysfunction Evaluation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MITRAL BALLOON VALVOTOMY" nciodm:ExtCodeID="C99987">
+                    <nciodm:CDISCDefinition>Dilation of the valve between the left atrium and the left ventricle of the heart by inflating a balloon.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Mitral Balloon Valvotomy</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MITRAL COMMISSUROTOMY" nciodm:ExtCodeID="C99988">
+                    <nciodm:CDISCDefinition>Dilation of the valve between the left atrium and the left ventricle of the heart by use of a surgeon's finger or rigid instrument.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Mitral Commissurotomy</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MITRAL VALVE REPAIR" nciodm:ExtCodeID="C80449">
+                    <nciodm:CDISCDefinition>Surgery performed for the purpose of reducing regurgitation of the mitral valve.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Mitral Valve Repair</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MITRAL VALVE REPLACEMENT" nciodm:ExtCodeID="C50825">
+                    <nciodm:CDISCDefinition>Surgery performed with the purpose of replacing a degenerated, calcified, malformed, dysfunctional, etc. mitral valve with bioprosthetic, homograft or autograft valve.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Mitral Valve Replacement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NON-CARDIOVASCULAR SURGERY" nciodm:ExtCodeID="C99995">
+                    <nciodm:CDISCDefinition>An operative procedure that does not involve the heart or the blood vessels.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Non-Cardiovascular Surgery</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PACEMAKER" nciodm:ExtCodeID="C99998">
+                    <nciodm:CDISCSynonym>Pacemaker Procedure</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A procedure involving an electronic device that delivers electrical stimulation to the heart to treat bradycardia.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Pacemaker Procedure</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PERCUTANEOUS CORONARY INTERVENTION" nciodm:ExtCodeID="C99521">
+                    <nciodm:CDISCSynonym>PCI</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A percutaneous coronary intervention (PCI) is the placement of an angioplasty guide wire, balloon, or other device (e.g. stent, atherectomy, brachytherapy, or thrombectomy catheter) into a native coronary artery or coronary artery bypass graft for the purpose of mechanical coronary revascularization. Examples of things not considered to be PCI procedures include intravascular ultrasound, measurements of coronary flow reserve, or measurements of fractional flow reserve.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Percutaneous Coronary Intervention</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PERCUTANEOUS MITRAL REPAIR" nciodm:ExtCodeID="C100003">
+                    <nciodm:CDISCDefinition>Invasive procedure through a puncture in the skin, performed for the purpose of reducing regurgitation of the mitral valve.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Percutaneous Mitral Valve Repair</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PERICARDIAL STRIPPING" nciodm:ExtCodeID="C100004">
+                    <nciodm:CDISCDefinition>Removal or resection of the pericardium.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Pericardial Stripping</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PERICARDIAL WINDOW" nciodm:ExtCodeID="C51618">
+                    <nciodm:CDISCDefinition>A procedure in which an opening is made in the pericardium.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Pericardial Window Procedure</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PERICARDIOCENTESIS" nciodm:ExtCodeID="C52010">
+                    <nciodm:CDISCDefinition>The aspiration of excess fluid between the pericardium and the heart.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Pericardiocentesis</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PERIPHERAL VASCULAR INTERVENTION" nciodm:ExtCodeID="C116150">
+                    <nciodm:CDISCSynonym>PVI</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A peripheral vascular intervention is a catheter-based or open surgical procedure designed to improve arterial or venous blood flow or otherwise modify or revise vascular conduits. In general, the intention to perform percutaneous vascular intervention is denoted by the insertion of a guide wire into an artery or vein. For the sake of simplicity, this definition applies to the extracranial carotid artery and other non-cardiac arteries and veins, while it excludes the lymphatics and intracranial vessels.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Peripheral Vascular Intervention</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PULMONARY VALVE REPLACEMENT" nciodm:ExtCodeID="C50817">
+                    <nciodm:CDISCDefinition>Surgery performed with the purpose of replacing a degenerated, calcified, malformed, dysfunctional, etc. pulmonary valve with bioprosthetic, homograft or autograft valve.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Pulmonary Valve Replacement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PULMONIC VALVULOPLASTY" nciodm:ExtCodeID="C100044">
+                    <nciodm:CDISCDefinition>Dilation of the valve between the right ventricle and the pulmonary artery of the heart by inflating a balloon.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Pulmonic Valvuloplasty</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="RIGHT VENTRICULAR ASSIST DEVICE" nciodm:ExtCodeID="C100010">
+                    <nciodm:CDISCSynonym>RVAD</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A procedure involving a mechanical pump which receives blood from the right ventricle and delivers it to the pulmonary artery.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Right Cardiac Ventricle Assist Device Procedure</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SEPTAL ABLATION" nciodm:ExtCodeID="C80439">
+                    <nciodm:CDISCDefinition>A cardiac catheterization procedure to relieve symptoms in patients with severe obstructive hypertrophic cardiomyopathy. A catheter is used to inject alcohol into a septal artery supplying the heart muscle responsible for the obstruction, destroying the muscle tissue and relieving the obstruction.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Septal Ablation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SURGICAL MAZE" nciodm:ExtCodeID="C100017">
+                    <nciodm:CDISCSynonym>Cox Maze</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A cardiac procedure intended to inhibit atrial fibrillation, in which a series of incisions are made in the atria to block abnormal electrical circuits that contribute to atrial fibrillation.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Surgical Maze Procedure</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TRANSCATHETER AORTIC VALVE IMPLANT" nciodm:ExtCodeID="C100022">
+                    <nciodm:CDISCDefinition>Use of a thin tube to deliver an artificial valve apparatus between the left ventricle of the heart and the aorta.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Transcatheter Aortic Valve Implantation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TRICUSPID VALVE REPAIR" nciodm:ExtCodeID="C99935">
+                    <nciodm:CDISCDefinition>Surgery performed for the purpose of reducing regurgitation of the cardiac valve between the right atrium and right ventricle.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Cardiac Tricuspid Valve Repair</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TRICUSPID VALVE REPLACEMENT" nciodm:ExtCodeID="C50816">
+                    <nciodm:CDISCDefinition>Surgery performed with the purpose of replacing a degenerated, calcified, malformed, dysfunctional, etc. tricuspid valve with bioprosthetic, homograft or autograft valve.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Tricuspid Valve Replacement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="VENTRICULAR ANEURYSM RESECTION" nciodm:ExtCodeID="C80451">
+                    <nciodm:CDISCDefinition>Cardiac surgical procedure performed for the removal of an aneurysm from the ventricular wall.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Ventricular Aneurysm Resection</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="VENTRICULAR SEPTAL CLOSURE" nciodm:ExtCodeID="C99940">
+                    <nciodm:CDISCDefinition>Repair of ventricular septum.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Closure of Cardiac Ventricle Septum</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>PROCEDUR</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Procedure</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Procedure Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

@@ -1,0 +1,17 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C102589.TRTEPSD" Name="Treatment Episode" DataType="text" nciodm:ExtCodeID="C102589" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Terminology relevant to whether an individual is being treated for a disease for the first time.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="NEW" nciodm:ExtCodeID="C25586">
+                    <nciodm:CDISCDefinition>Having no previous example or precedent or parallel; of a kind not seen before.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>New</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="RETREATMENT" nciodm:ExtCodeID="C54055">
+                    <nciodm:CDISCDefinition>The repeated act of the dispensing, applying, or tendering of something to another after an initial treatment.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Retreatment</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>TRTEPSD</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Treatment Episode</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Treatment Episode Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

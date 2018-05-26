@@ -1,0 +1,89 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C120523.HETESTCD" Name="Holter ECG Test Code" DataType="text" nciodm:ExtCodeID="C120523" nciodm:CodeListExtensible="Yes">
+                <Description>
+                    <TranslatedText xml:lang="en">Terminology relevant to the test codes that describe Holter ECG interpretative findings.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="AVCOND" nciodm:ExtCodeID="C111131">
+                    <nciodm:CDISCSynonym>Atrioventricular Conduction</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic assessment of cardiac atrioventricular conduction.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Atrioventricular Conduction ECG Assessment</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="AXISVOLT" nciodm:ExtCodeID="C111132">
+                    <nciodm:CDISCSynonym>Axis and Voltage</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic assessment of mean cardiac electrical vector and the ECG voltage.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Axis and Voltage ECG Assessment</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CHYPTENL" nciodm:ExtCodeID="C111155">
+                    <nciodm:CDISCSynonym>Chamber Hypertrophy or Enlargement</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic assessment of chamber hypertrophy or enlargement.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Chamber Hypertrophy or Enlargement ECG Assessment</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EGCOMP" nciodm:ExtCodeID="C117761">
+                    <nciodm:CDISCSynonym>Comparison to a Prior ECG</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A comparative interpretation of an ECG relative to a previous (comparator) ECG. The definition of the comparator ECG may be specified elsewhere. Common comparator result values include improved, no change, deteriorated.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Comparison to a Prior ECG</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="INTP" nciodm:ExtCodeID="C41255">
+                    <nciodm:CDISCSynonym>Interpretation</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An act or process of elucidation; explication, or explanation of the meaning of the event or thing via the assignment of objects from the domain to the constants of a formal language, truth-values to the proposition symbols, truth-functions to the connectives, other functions to the function symbols, and extensions to the predicates, if any. The assignments are result of human logic application and are not native to the symbols of the formal language.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Interpretation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IVTIACD" nciodm:ExtCodeID="C111238">
+                    <nciodm:CDISCSynonym>Intraventricular-Intraatrial Conduction</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic assessment of intraventricular and intra-atrial conduction.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Intraventricular and Intraatrial Conduction ECG Assessment</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MI" nciodm:ExtCodeID="C111280">
+                    <nciodm:CDISCSynonym>Myocardial Infarction</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic assessment of findings suggestive of myocardial infarction.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Myocardial Infarction ECG Assessment</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PACEMAKR" nciodm:ExtCodeID="C111285">
+                    <nciodm:CDISCSynonym>Pacemaker</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic assessment of presence of artificial electronic pacing.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Pacemaker ECG Assessment</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="RHYNOS" nciodm:ExtCodeID="C111307">
+                    <nciodm:CDISCSynonym>Rhythm Not Otherwise Specified</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic assessment of cardiac rhythm not otherwise specified.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Rhythm Not Otherwise Specified ECG Assessment</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SNRARRY" nciodm:ExtCodeID="C111312">
+                    <nciodm:CDISCSynonym>Sinus Node Rhythms and Arrhythmias</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic assessment of sinus node rhythms and arrhythmias.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Sinus Node Rhythm and Arrhythmia ECG Assessment</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SPRARRY" nciodm:ExtCodeID="C111320">
+                    <nciodm:CDISCSynonym>Supraventricular Arrhythmias</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic assessment of supraventricular arrhythmias excluding tachycardias.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Supraventricular Arrhythmia ECG Assessment</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SPRTARRY" nciodm:ExtCodeID="C111321">
+                    <nciodm:CDISCSynonym>Supraventricular Tachyarrhythmias</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic assessment of supraventricular tachyarrhythmias.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Supraventricular Tachyarrhythmia ECG Assessment</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="STSTWUW" nciodm:ExtCodeID="C111363">
+                    <nciodm:CDISCSynonym>ST Segment, T wave, and U wave</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic assessment of the characteristics of the ST segment, T wave, and U wave.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ST Segment, T wave, and U wave ECG Assessment</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TECHQUAL" nciodm:ExtCodeID="C117807">
+                    <nciodm:CDISCSynonym>Technical Quality</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A statement about an electrocardiographic recording describing technical issues or interference during the recording, processing, or transmission of the data. This does not represent an electrocardiographic diagnosis.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ECG Technical Quality</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="VTARRY" nciodm:ExtCodeID="C111330">
+                    <nciodm:CDISCSynonym>Ventricular Arrhythmias</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic assessment of ventricular arrhythmias excluding tachycardias.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Ventricular Arrhythmia ECG Assessment</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="VTTARRY" nciodm:ExtCodeID="C111331">
+                    <nciodm:CDISCSynonym>Ventricular Tachyarrhythmias</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic assessment of supraventricular tachyarrhythmias.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Ventricular Tachyarrhythmia ECG Assessment</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>HETESTCD</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Holter ECG Test Code</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Holter ECG Test Code Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

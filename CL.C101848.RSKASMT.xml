@@ -1,0 +1,27 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C101848.RSKASMT" Name="Risk Assessment" DataType="text" nciodm:ExtCodeID="C101848" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">A terminology codelist to describe the risk of a disease, disorder or abnormal condition.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="HIGH RISK" nciodm:ExtCodeID="C102401">
+                    <nciodm:CDISCDefinition>The potential future harm that may arise from some present action or attribute or condition is almost certain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>High Risk</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="INTERMEDIATE RISK" nciodm:ExtCodeID="C102402">
+                    <nciodm:CDISCDefinition>The potential future harm that may arise from some present action or attribute or condition is moderate.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Intermediate Risk</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LOW RISK" nciodm:ExtCodeID="C102403">
+                    <nciodm:CDISCDefinition>The potential future harm that may arise from some present action or attribute or condition is small.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Low Risk</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UNKNOWN" nciodm:ExtCodeID="C17998">
+                    <nciodm:CDISCSynonym>U</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Unknown</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Not known, not observed, not recorded, or refused. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Unknown</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>RSKASMT</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Risk Assessment</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Risk Assessment Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

@@ -1,0 +1,84 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C111112.DOTEST" Name="Device Properties Test Name" DataType="text" nciodm:ExtCodeID="C111112" nciodm:CodeListExtensible="Yes">
+                <Description>
+                    <TranslatedText xml:lang="en">A terminology codelist based on the test name used to obtain the device property.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="Composition" nciodm:ExtCodeID="C53414">
+                    <nciodm:CDISCSynonym>Composition</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The materials from which something is made.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Composition</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FDA Device Classification" nciodm:ExtCodeID="C112278">
+                    <nciodm:CDISCSynonym>FDA Device Classification</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The class of medical device as determined by the US Food and Drug Administration, based upon the level of control necessary to ensure safety and effectiveness (21 CFR 860).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FDA Device Classification</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Indication for Use" nciodm:ExtCodeID="C41184">
+                    <nciodm:CDISCSynonym>Indication for Use</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A general description of the disease or condition the product will diagnose, treat, prevent, cure, or mitigate.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Indication</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Luminescence Type" nciodm:ExtCodeID="C120606">
+                    <nciodm:CDISCSynonym>Luminescence Type</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A classification of light emission.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Luminescence Type</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MRI Coil Type" nciodm:ExtCodeID="C116119">
+                    <nciodm:CDISCSynonym>MRI Coil Type</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The classification of the coil that is used in an magnetic resonance imaging procedure. Usually refers to the anatomical location for where the coil is placed such as head, body or breast.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MRI Coil Type</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Multiplex Probe Parameter" nciodm:ExtCodeID="C116118">
+                    <nciodm:CDISCSynonym>Multiplex Probe Parameter</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A descriptor referring to the number of unique molecular probes contained in each assay component from which results are obtained, such as each well in a 96-well plate.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Multiplex Probe Parameter</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Pore Size" nciodm:ExtCodeID="C112332">
+                    <nciodm:CDISCSynonym>Pore Size</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A quantitative or qualitative measurement of the physical dimensions of the pores in a material.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Material Pore Size</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Reagent Lot" nciodm:ExtCodeID="C112406">
+                    <nciodm:CDISCSynonym>Reagent Lot</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The lot number of the reagent.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Reagent Lot Number</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Scintillation Crystal Type" nciodm:ExtCodeID="C116120">
+                    <nciodm:CDISCSynonym>Scintillation Crystal Type</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The classification of the crystalline material, which emits light in response to radiation exposure, used in the imaging procedure.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Scintillation Crystal Type</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Shelf Life" nciodm:ExtCodeID="C70855">
+                    <nciodm:CDISCSynonym>Shelf Life</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The period during which a medical product retains its properties and stated performance within specified limits if stored under defined conditions. The stability period is determined from the date the product was manufactured.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Medical Product Shelf Life</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Size" nciodm:ExtCodeID="C25681">
+                    <nciodm:CDISCSynonym>Size</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The physical magnitude of something. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Size</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Software Version" nciodm:ExtCodeID="C111093">
+                    <nciodm:CDISCSynonym>Software Version</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A form or variant of software; one of a sequence of copies of a software program, each incorporating new modifications. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Software Version</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Surgical Mesh Open Area" nciodm:ExtCodeID="C112421">
+                    <nciodm:CDISCSynonym>Surgical Mesh Open Area</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A quantitative or qualitative measurement of the physical dimensions of the open spaces in a loosely woven sheet of inorganic or biological materials, which is used to physically support organs or tissue during a surgical procedure.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Surgical Mesh Open Area</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Temperature" nciodm:ExtCodeID="C25206">
+                    <nciodm:CDISCSynonym>Temperature</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The property of a body or region of space that determines whether or not there will be a net flow of heat into it or out of it from a neighboring body or region and in which direction (if any) the heat will flow, perceptible by living organism as a somatic sensation of cold or heat. It is a measure of the average translational kinetic energy associated with the disordered microscopic motion of atoms and molecules. Temperature is measured in one of the three standard temperature scales: Celsius, Kelvin, and Fahrenheit. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Temperature</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Thickness" nciodm:ExtCodeID="C41145">
+                    <nciodm:CDISCSynonym>Thickness</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The dimension between two surfaces of an object, usually the smallest dimension as opposed to the width or the length.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Thickness</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>DOTEST</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Device Properties Test Name</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Device Properties Test Name Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            
