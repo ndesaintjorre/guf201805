@@ -1003,6 +1003,11 @@
                     <nciodm:CDISCDefinition>A unit of mass equal to 1/16 Avoirdupois ounce or 1/256 Avoirdupois pound. One dram equals approximately 1.7718451953125 grams.(NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Dram Mass Unit</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="DROP" nciodm:ExtCodeID="C69441">
+                    <nciodm:CDISCSynonym>Drip</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A unit of measure of volume defined as the amount of liquid dispensed as one drop from a dropper dispenser. The volume of a drop depends on the physical properties of the liquid dispensed, the dispenser device, and the technique used to produce the drop. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Drop</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="DRUM" nciodm:ExtCodeID="C48492">
                     <nciodm:CDISCSynonym>Drum Dosing Unit</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A dosing measurement based on the drum unit.(NCI)</nciodm:CDISCDefinition>
@@ -1290,6 +1295,10 @@
                     <nciodm:CDISCDefinition>A unit of specific radioactivity (massic activity) equal to activity of one gigabecquerel of the sample with total mass of one microgram.(NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Gigabecquerel per Microgram</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="GLOBULE" nciodm:ExtCodeID="C91803">
+                    <nciodm:CDISCDefinition>A dosing measurement based on the globule unit.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Globule Unit</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="gpELISA unit/mL" nciodm:ExtCodeID="C130190">
                     <nciodm:CDISCDefinition>A unit for measuring potency of immunologically active substance in a product determined as reactivity in a glycoprotein enzyme-linked immunosorbent assay for particular antigen or antibody and expressed per unit volume equal to one milliliter.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Glycoprotein-ELISA Unit Per Milliliter</nciodm:PreferredTerm>
@@ -1323,6 +1332,10 @@
                     <nciodm:CDISCSynonym>Gray</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A unit of absorbed radiation dose. One gray is equal to an absorbed dose of one joule per kilogram of matter, or to 100 rads.(NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Gray</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="h*%" nciodm:ExtCodeID="C139131">
+                    <nciodm:CDISCDefinition>A unit of measure for the area under an effect curve (AUEC) defined as hours times percent.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Hour Times Percent</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Henry" nciodm:ExtCodeID="C42558">
                     <nciodm:CDISCSynonym>Henry</nciodm:CDISCSynonym>
@@ -1482,6 +1495,10 @@
                     <nciodm:CDISCDefinition>A unit of energy defined as the amount of heat required to raise the temperature of one kilogram of pure water by one degree Centigrade under standard conditions (the specific heat of the water at 15 degrees Celsius and the constant pressure of 101.325 kilopascals or one atm being defined as unity), equal to approximately 4.1855 kJ. It is also is used by nutritionists in measuring the energy-producing potential of food as a unit of potential energy contained by a substance, which can be liberated when the material is oxidized, usually by combustion in the presence of oxygen.(NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Calorie</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="kcal/day" nciodm:ExtCodeID="C139135">
+                    <nciodm:CDISCDefinition>A unit of energy equal to one kilocalorie per day. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Kilocalorie per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="kDa" nciodm:ExtCodeID="C105491">
                     <nciodm:CDISCSynonym>Kilodalton</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Kilounified Atomic Mass Unit</nciodm:CDISCSynonym>
@@ -1572,7 +1589,7 @@
                     <nciodm:PreferredTerm>Kilosecond</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="kUSP" nciodm:ExtCodeID="C71202">
-                    <nciodm:CDISCSynonym>Kilo United States Pharmacopoeia Unit</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Kilo United States Pharmacopeia Unit</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A unit of potency equal to one thousand US Pharmacopoeia Units.(NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Kilo United States Pharmacopeia Unit</nciodm:PreferredTerm>
                 </EnumeratedItem>
@@ -1624,10 +1641,21 @@
                     <nciodm:CDISCDefinition>Liters per second.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Liter per Second</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="L/s/kPa" nciodm:ExtCodeID="C139133">
+                    <nciodm:CDISCDefinition>A unit of conductance equal to the number of liters per unit of time equal to one second per unit of pressure equal to one kilopascal.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Liter per Second per Kilopascal</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="LB" nciodm:ExtCodeID="C48531">
                     <nciodm:CDISCSynonym>Pound</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A traditional unit of mass. By international agreement, one avoirdupois pound is equal to exactly 0.453 592 37 kilogram, 16 ounces, or 1.215 28 troy pounds. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Pound</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Linear ft*LB" nciodm:ExtCodeID="C139134">
+                    <nciodm:CDISCSynonym>Linear Foot-pound</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Linear Pounds Feet</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Linear ft*lbf</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A unit of measure that equals the work required to move one pound a linear distance of one foot in the direction of the applied force.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Linear Foot Pound</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="lm" nciodm:ExtCodeID="C42560">
                     <nciodm:CDISCSynonym>Lumen</nciodm:CDISCSynonym>
@@ -1718,6 +1746,11 @@
                     <nciodm:CDISCSynonym>Cubic Meter</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A unit of volume or capacity equal to the volume of a cube with edges one meter in length. It is equal to 1,000 liters; 1,000 cubic decimeters; 10(E6) cubic centimeters; 25.3 cubic feet; 6.29 barrels.(NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Cubic Meter</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MAC50" nciodm:ExtCodeID="C139130">
+                    <nciodm:CDISCSynonym>Minimum Alveolar Concentration 50%</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A unit of potency for inhalational gases defined as the concentration of gas in the lung required to immobilize 50 percent of individuals in response to a stimulus, such as pain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Minimum Alveolar Concentration 50 Percent</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="mAnson U/mL" nciodm:ExtCodeID="C122211">
                     <nciodm:CDISCDefinition>A unit of enzymatic activity defined a one milli-Anson unit per unit volume equal to one milliliter.</nciodm:CDISCDefinition>
@@ -2788,6 +2821,10 @@
                     <nciodm:CDISCDefinition>A unit of frequency equal to one revolution per unit of time equal to one minute.(NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Revolution per Minute</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="s*kPa" nciodm:ExtCodeID="C139132">
+                    <nciodm:CDISCDefinition>A unit of resistance equal to one second times one kilopascal.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Second Times Kilopascal</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="s^-1(%O2)^-1" nciodm:ExtCodeID="C130194">
                     <nciodm:CDISCDefinition>A unit of oxygen transfer function expressed as the reciprocal of time in seconds, times the reciprocal of oxygen concentration.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Reciprocal of Seconds Times Percent O2 Concentration</nciodm:PreferredTerm>
@@ -3414,7 +3451,6 @@
                     <nciodm:PreferredTerm>Wafer Dosing Unit</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Watt" nciodm:ExtCodeID="C42549">
-                    <nciodm:CDISCSynonym>Watt</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A unit of power equal to the power which in one second produces or transfers the energy of one joule. The unit is used in measurements of power emitted, transferred or received as radiation, sound waves, heat flow rate, and rate of energy transfer. Equal to 1/746 of horsepower.(NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Watt</nciodm:PreferredTerm>
                 </EnumeratedItem>

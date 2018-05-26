@@ -7,6 +7,11 @@
                     <nciodm:CDISCDefinition>An indication as to whether the subject was breast fed (received mother's milk) as an infant.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Breast Fed Indicator</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="CDC HIV High Risk Donor Indicator" nciodm:ExtCodeID="C139271">
+                    <nciodm:CDISCSynonym>CDC HIV High Risk Donor Indicator</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An indication as to whether an organ donor may fall into one or more behavioral categories associated with increased risk of human immunodeficiency virus (HIV) infection, as defined by the 1994 Centers for Disease Control (CDC) Public Health Service Criteria for High Risk Behavior (Guidelines for preventing transmission of human immunodeficiency virus through transplantation of human tissue and organs. Centers for Disease Control and Prevention. MMWR Recomm Rep 1994; 43: 1-17).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDC HIV High Risk Donor Indicator</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="Contact Investigation" nciodm:ExtCodeID="C102625">
                     <nciodm:CDISCSynonym>Contact Investigation</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A public health activity whereby individuals who have been exposed to a person with a suspected or confirmed contagious illness are identified, usually for the purpose of identifying additional cases of the illness, or to offer some form of prophylactic intervention to either prevent or ameliorate disease in the exposed individual.</nciodm:CDISCDefinition>
@@ -17,10 +22,20 @@
                     <nciodm:CDISCDefinition>System of classification based on the nation in which an individual was exposed to a disease, regardless of the nation in which he/she currently resides.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Country of Potential Disease Exposure</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="Deceased Donor Donation Type" nciodm:ExtCodeID="C139270">
+                    <nciodm:CDISCSynonym>Deceased Donor Donation Type</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The conditions under which an organ is harvested from a dead donor, including the condition of the donor and the environment.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Deceased Donor Donation Condition</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="Dominant Hand" nciodm:ExtCodeID="C114182">
                     <nciodm:CDISCSynonym>Dominant Hand</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The preferred hand of use for controlled and efficient performance of motor tasks.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Dominant Hand</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Donor Status at Time of Organ Donation" nciodm:ExtCodeID="C139269">
+                    <nciodm:CDISCSynonym>Donor Status at Time of Organ Donation</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The donor's state or condition of being either living or brain dead at the time of organ harvesting.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Donor Status at Time of Organ Donation</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Employee Job" nciodm:ExtCodeID="C25193">
                     <nciodm:CDISCSynonym>Employee Job</nciodm:CDISCSynonym>

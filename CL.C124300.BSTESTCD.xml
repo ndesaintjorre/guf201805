@@ -2,6 +2,16 @@
                 <Description>
                     <TranslatedText xml:lang="en">Terminology relevant to the test codes that describe the characteristics of biospecimens and extracted samples.</TranslatedText>
                 </Description>
+                <EnumeratedItem CodedValue="A260A230" nciodm:ExtCodeID="C139281">
+                    <nciodm:CDISCSynonym>A260/A230 Ratio</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An assessment of nucleic acid purity that is measured by determining the ratio of light absorbance of the nucleic acid sample at 260nm and 230nm respectively.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>A260 to A230 Ratio</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="A260A280" nciodm:ExtCodeID="C139280">
+                    <nciodm:CDISCSynonym>A260/A280 Ratio</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An assessment of nucleic acid purity that is measured by determining the ratio of light absorbance of the nucleic acid sample at 260nm and 280nm respectively.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>A260 to A280 Ratio</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="AREA" nciodm:ExtCodeID="C25244">
                     <nciodm:CDISCSynonym>Area</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The extent of a 2-dimensional surface enclosed within a boundary. (NCI)</nciodm:CDISCDefinition>
@@ -16,6 +26,11 @@
                     <nciodm:CDISCSynonym>Fixative Name</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The name of the substance or material that preserves tissues and cells for study.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Name of Fixative</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FLUORLBL" nciodm:ExtCodeID="C139282">
+                    <nciodm:CDISCSynonym>Fluorescent Label</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The type of fluorescent label or dye that is used in a fluorescence-based assay.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Fluorescent Tag Type</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="LENGTH" nciodm:ExtCodeID="C25334">
                     <nciodm:CDISCSynonym>Length</nciodm:CDISCSynonym>
@@ -61,6 +76,16 @@
                     <nciodm:CDISCSynonym>Tumor Tissue Origin</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A characterization of the tumor tissue sample based upon whether it was taken from a tumor that originated after the disease spread.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Tumor Tissue Origin</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="VBLSIND" nciodm:ExtCodeID="C139279">
+                    <nciodm:CDISCSynonym>Sample Viability Indicator</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An indication as to whether the sample contains viable (capable of life or normal growth and development) cells or tissues.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Sample Viability Indicator</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="VBLSPCT" nciodm:ExtCodeID="C139278">
+                    <nciodm:CDISCSynonym>Sample Viability Percent</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the percent of a sample that is viable (capable of life or normal growth and development) for further processing or testing.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Sample Viability Percent Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="VOLUME" nciodm:ExtCodeID="C25335">
                     <nciodm:CDISCSynonym>Volume</nciodm:CDISCSynonym>

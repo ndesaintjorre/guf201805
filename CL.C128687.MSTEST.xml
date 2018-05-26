@@ -2,50 +2,76 @@
                 <Description>
                     <TranslatedText xml:lang="en">Terminology relevant to the test names that define microorganism responses to antimicrobial agents.</TranslatedText>
                 </Description>
-                <EnumeratedItem CodedValue="IC50 Fold Change from Baseline" nciodm:ExtCodeID="C116250">
-                    <nciodm:CDISCSynonym>IC50 Fold Change from Baseline</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A fold change based on a concentration of a specific drug expected to produce 50 percent inhibition of the standard growth of a microbial organism, or of a biological/biochemical reaction. It is a ratio calculated by the current IC50 Subject Result divided by the IC50 Subject Result from the baseline visit.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Half Maximal Inhibitory Concentration Fold Change from Baseline Measurement</nciodm:PreferredTerm>
-                </EnumeratedItem>
-                <EnumeratedItem CodedValue="IC50 Fold Change from Reference" nciodm:ExtCodeID="C116249">
-                    <nciodm:CDISCSynonym>IC50 Fold Change from Reference</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A fold change based on a concentration of a specific drug expected to produce 50 percent inhibition of the standard growth of a microbial organism, or of a biological/biochemical reaction. It is a ratio calculated by the IC50 Subject Result divided by the IC50 Reference Control Result.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Half Maximal Inhibitory Concentration Fold Change from Reference Measurement</nciodm:PreferredTerm>
-                </EnumeratedItem>
-                <EnumeratedItem CodedValue="IC50 Reference Control Result" nciodm:ExtCodeID="C116248">
-                    <nciodm:CDISCSynonym>IC50 Reference Control Result</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A reference control sample response based on a concentration of a specific drug expected to produce 50 percent inhibition of the standard growth of a microbial organism, or of a biological/biochemical reaction.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Half Maximal Inhibitory Concentration Reference Control Result Measurement</nciodm:PreferredTerm>
-                </EnumeratedItem>
-                <EnumeratedItem CodedValue="IC50 Subject Result" nciodm:ExtCodeID="C116247">
-                    <nciodm:CDISCSynonym>IC50 Subject Result</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A measurement of titer of a microbial organism or biological/biochemical reaction that has been exposed to a concentration of a specific drug expected to produce 50 percent inhibition of the standard growth of the microbial organism, or of a reaction.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Half Maximal Inhibitory Concentration Subject Result Measurement</nciodm:PreferredTerm>
-                </EnumeratedItem>
-                <EnumeratedItem CodedValue="IC95 Fold Change from Baseline" nciodm:ExtCodeID="C116254">
-                    <nciodm:CDISCSynonym>IC95 Fold Change from Baseline</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A fold change based on a concentration of a specific drug expected to produce 95 percent inhibition of the standard growth of a microbial organism, or of a biological/biochemical reaction. It is a ratio calculated by the current IC95 Subject Result divided by the IC95 Subject Result from the baseline visit.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>95 Percent Maximal Inhibitory Concentration Fold Change from Baseline Measurement</nciodm:PreferredTerm>
-                </EnumeratedItem>
-                <EnumeratedItem CodedValue="IC95 Fold Change from Reference" nciodm:ExtCodeID="C116253">
-                    <nciodm:CDISCSynonym>IC95 Fold Change from Reference</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A fold change based on a concentration of a specific drug expected to produce 95 percent inhibition of the standard growth of a microbial organism, or of a biological/biochemical reaction. It is a ratio calculated by the IC95 Subject Result divided by the IC95 Reference Control Result.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>95 Percent Maximal Inhibitory Concentration Fold Change from Reference Measurement</nciodm:PreferredTerm>
-                </EnumeratedItem>
-                <EnumeratedItem CodedValue="IC95 Reference Control Result" nciodm:ExtCodeID="C116252">
-                    <nciodm:CDISCSynonym>IC95 Reference Control Result</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A reference control sample response based on a concentration of a specific drug expected to produce 95 percent inhibition of the standard growth of a microbial organism, or of a biological/biochemical reaction.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>95 Percent Maximal Inhibitory Concentration Reference Control Result Measurement</nciodm:PreferredTerm>
-                </EnumeratedItem>
-                <EnumeratedItem CodedValue="IC95 Subject Result" nciodm:ExtCodeID="C116251">
-                    <nciodm:CDISCSynonym>IC95 Subject Result</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A measurement of titer of a microbial organism or biological/biochemical reaction that has been exposed to a concentration of a specific drug expected to produce 95 percent inhibition of the standard growth of the microbial organism, or of a reaction.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>95 Percent Maximal Inhibitory Concentration Subject Result Measurement</nciodm:PreferredTerm>
-                </EnumeratedItem>
                 <EnumeratedItem CodedValue="Inhibitory Concentration Net Assessment" nciodm:ExtCodeID="C116255">
                     <nciodm:CDISCSynonym>Inhibitory Concentration Net Assessment</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>An indication of reduced or increased susceptibility of a microbial organism, or activity of a biological/biochemical reaction in response to the inhibitory concentration (IC50 and/or IC95) of a specific drug.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Inhibitory Concentration Net Assessment Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Microbial EC50 Fold Change from Baseline" nciodm:ExtCodeID="C139114">
+                    <nciodm:CDISCSynonym>Microbial EC50 Fold Change from Baseline</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A fold change based on the concentration of a specific drug expected to produce 50 percent inhibition of population growth or replication of a microbial organism. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Microbial EC50 Fold Change from Baseline</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Microbial EC50 Fold Change from Ref" nciodm:ExtCodeID="C139115">
+                    <nciodm:CDISCSynonym>Microbial EC50 Fold Change from Ref</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Microbial EC50 Fold Change from Reference</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A fold change based on the concentration of a specific drug expected to produce 50 percent inhibition of the population growth or replication of a microbial organism. It is a ratio calculated by the EC50 Subject Result divided by the EC50 Reference Control Result. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Microbial EC50 Fold Change from Reference</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Microbial EC50 Reference Control Result" nciodm:ExtCodeID="C139116">
+                    <nciodm:CDISCSynonym>Microbial EC50 Reference Control Result</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A reference control sample response based on the concentration of a specific drug expected to produce 50 percent inhibition of the population growth or replication of a microbial organism. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Microbial EC50 Reference Control Result</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Microbial EC50 Subject Result" nciodm:ExtCodeID="C139117">
+                    <nciodm:CDISCSynonym>Microbial EC50 Subject Result</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of titer of a microbial organism that has been exposed to the concentration of a specific drug expected to produce 50 percent inhibition of the population growth or replication of a microbial organism. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Microbial EC50 Subject Result</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Microbial IC50 Fold Change from Baseline" nciodm:ExtCodeID="C139118">
+                    <nciodm:CDISCSynonym>Microbial IC50 Fold Change from Baseline</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A fold change based on the concentration of a specific drug expected to produce 50 percent inhibition on the enzymatic activity of a microbial organism. It is a ratio calculated by the current IC50 Subject Result divided by the IC50 Subject Result from the baseline visit.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Microbial IC50 Fold Change from Baseline</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Microbial IC50 Fold Change from Ref" nciodm:ExtCodeID="C139119">
+                    <nciodm:CDISCSynonym>Microbial IC50 Fold Change from Ref</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Microbial IC50 Fold Change from Reference</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A fold change based on the concentration of a specific drug expected to produce 50 percent inhibition on the enzymatic activity of a microbial organism. It is a ratio calculated by the IC50 Subject Result divided by the IC50 Reference Control Result.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Microbial IC50 Fold Change from Reference</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Microbial IC50 Reference Control Result" nciodm:ExtCodeID="C139120">
+                    <nciodm:CDISCSynonym>Microbial IC50 Reference Control Result</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A reference control sample response based on the concentration of a specific drug expected to produce 50 percent inhibition on the enzymatic activity of a microbial organism.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Microbial IC50 Reference Control Result</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Microbial IC50 Subject Result" nciodm:ExtCodeID="C139121">
+                    <nciodm:CDISCSynonym>Microbial IC50 Subject Result</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of biological/biochemical reaction of a microbial organism that has been exposed to the concentration of a specific drug expected to produce 50 percent inhibition on the enzymatic activity of a microbial organism.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Microbial IC50 Subject Result</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Microbial IC95 Fold Change from Baseline" nciodm:ExtCodeID="C139122">
+                    <nciodm:CDISCSynonym>IC95 Fold Change from Baseline</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Microbial IC95 Fold Change from Baseline</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A fold change based on the concentration of a specific drug expected to produce 95 percent inhibition on the enzymatic activity of a microbial organism. It is a ratio calculated by the current IC95 Subject Result divided by the IC95 Subject Result from the baseline visit.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Microbial IC95 Fold Change from Baseline</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Microbial IC95 Fold Change from Ref" nciodm:ExtCodeID="C139123">
+                    <nciodm:CDISCSynonym>IC95 Fold Change from Reference</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Microbial IC95 Fold Change from Ref</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A fold change based on the concentration of a specific drug expected to produce 95 percent inhibition on the enzymatic activity of a microbial organism. It is a ratio calculated by the IC95 Subject Result divided by the IC95 Reference Control Result.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Microbial IC95 Fold Change from Ref</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Microbial IC95 Reference Control Result" nciodm:ExtCodeID="C139124">
+                    <nciodm:CDISCSynonym>IC95 Reference Control Result</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Microbial IC95 Reference Control Result</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A reference control sample response based on the concentration of a specific drug expected to produce 95 percent inhibition on the enzymatic activity of a microbial organism.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Microbial IC95 Reference Control Result</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Microbial IC95 Subject Result" nciodm:ExtCodeID="C139125">
+                    <nciodm:CDISCSynonym>IC95 Subject Result</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Microbial IC95 Subject Result</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of biological/biochemical reaction of a microbial organism that has been exposed to the concentration of a specific drug expected to produce 95 percent inhibition on the enzymatic activity of a microbial organism.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Microbial IC95 Subject Result</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Microbial Susceptibility" nciodm:ExtCodeID="C85540">
                     <nciodm:CDISCSynonym>Microbial Susceptibility</nciodm:CDISCSynonym>

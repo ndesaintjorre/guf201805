@@ -64,6 +64,24 @@
                     <nciodm:CDISCDefinition>The maximum volume of air a subject can exhale from the lungs after a tidal exhalation as a proportion of the predicted normal value.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Percent Predicted Expiratory Reserve Volume</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="EV_05FVC" nciodm:ExtCodeID="C139243">
+                    <nciodm:CDISCSynonym>Forced Expiratory Volume in 0.05 S/FVC</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Forced Expiratory Volume in 0.05 Seconds over FVC</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The ratio of the volume of gas that is forcibly exhaled during the first 0.05 seconds following maximal inhalation to that of the forced vital capacity.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Forced Expiratory Volume in 0.05 Second to FVC Ratio Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EV_1FVC" nciodm:ExtCodeID="C139244">
+                    <nciodm:CDISCSynonym>Forced Expiratory Volume in 0.1 S/FVC</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Forced Expiratory Volume in 0.1 Seconds over FVC</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The ratio of the volume of gas that is forcibly exhaled during the first 0.1 seconds following maximal inhalation to that of the forced vital capacity.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Forced Expiratory Volume in 0.1 Second to FVC Ratio Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EV_2FVC" nciodm:ExtCodeID="C139245">
+                    <nciodm:CDISCSynonym>Forced Expiratory Volume in 0.2 S/FVC</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Forced Expiratory Volume in 0.2 Seconds over FVC</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The ratio of the volume of gas that is forcibly exhaled during the first 0.2 seconds following maximal inhalation to that of the forced vital capacity.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Forced Expiratory Volume in 0.2 Second to FVC Ratio Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="FEF2575" nciodm:ExtCodeID="C119545">
                     <nciodm:CDISCSynonym>Forced Expiratory Flow 25-75%</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The mean forced expiratory flow rate at 25-75% of the forced vital capacity. (NCI)</nciodm:CDISCDefinition>
@@ -73,6 +91,26 @@
                     <nciodm:CDISCSynonym>Percent Predicted FEF25-75</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The mean forced expiratory flow rate at 25-75% of the forced vital capacity as a proportion of the predicted normal value. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Percent Predicted Forced Expiratory Flow at 25-75 Percent</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FEF50" nciodm:ExtCodeID="C139253">
+                    <nciodm:CDISCSynonym>Forced Expiratory Flow 50%</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The mean forced expiratory flow rate at 50% of the forced vital capacity. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Forced Expiratory Flow at 50 Percent Forced Vital Capacity</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FEF_05" nciodm:ExtCodeID="C139250">
+                    <nciodm:CDISCSynonym>Forced Expiratory Flow in 0.05 Second</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The forced expiratory flow rate during the first 0.05 second of a forced exhalation.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Forced Expiratory Flow in 0.05 Second</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FEF_1" nciodm:ExtCodeID="C139251">
+                    <nciodm:CDISCSynonym>Forced Expiratory Flow in 0.1 Second</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The forced expiratory flow rate during the first 0.1 second of a forced exhalation.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Forced Expiratory Flow in 0.1 Second</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FEF_2" nciodm:ExtCodeID="C139252">
+                    <nciodm:CDISCSynonym>Forced Expiratory Flow in 0.2 Second</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The forced expiratory flow rate during the first 0.2 second of a forced exhalation.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Forced Expiratory Flow in 0.2 Second</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="FEV1" nciodm:ExtCodeID="C38084">
                     <nciodm:CDISCSynonym>Forced Expiratory Volume in 1 Second</nciodm:CDISCSynonym>
@@ -119,6 +157,32 @@
                     <nciodm:CDISCDefinition>Forced expiratory volume in six seconds as a proportion of the predicted normal value.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Percent Predicted Forced Expiratory Volume in 6 Seconds</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="FEV_05" nciodm:ExtCodeID="C139246">
+                    <nciodm:CDISCSynonym>Forced Expiratory Volume in 0.05 Second</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The volume of air that can be forcibly exhaled during the first 0.05 second following maximal inhalation.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Forced Expiratory Volume in 0.05 Second</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FEV_1" nciodm:ExtCodeID="C139247">
+                    <nciodm:CDISCSynonym>Forced Expiratory Volume in 0.1 Second</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The volume of air that can be forcibly exhaled during the first 0.1 second following maximal inhalation.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Forced Expiratory Volume in 0.1 Second</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FEV_2" nciodm:ExtCodeID="C139248">
+                    <nciodm:CDISCSynonym>Forced Expiratory Volume in 0.2 Second</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The volume of air that can be forcibly exhaled during the first 0.2 second following maximal inhalation.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Forced Expiratory Volume in 0.2 Second</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FEV_5" nciodm:ExtCodeID="C139262">
+                    <nciodm:CDISCSynonym>Forced Expiratory Volume in 0.5 Second</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The volume of air that can be forcibly exhaled during the first half second following maximal inhalation.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Forced Expiratory Volume in 0.5 Second</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FEV_PEF" nciodm:ExtCodeID="C139249">
+                    <nciodm:CDISCSynonym>FEV at PEF</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Forced Expiratory Volume at Peak Expiratory Flow</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The volume of gas that is forcibly exhaled at the peak of expiratory flow.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Forced Expiratory Volume at Peak Expiratory Flow</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="FIF25" nciodm:ExtCodeID="C124418">
                     <nciodm:CDISCSynonym>Forced Inspiratory Flow at 25%</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The forced inspiratory flow rate at the point on the inspiratory flow-volume curve where 25 percent of the total volume of air has been inhaled.</nciodm:CDISCDefinition>
@@ -153,6 +217,11 @@
                     <nciodm:CDISCSynonym>Percent Predicted FIV1</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The volume of air that a subject can breathe in during the first second of inhalation after maximum exhalation as a proportion of the predicted normal value.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Percent Predicted Forced Inspiratory Volume in 1 Second</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FIVC" nciodm:ExtCodeID="C139263">
+                    <nciodm:CDISCSynonym>Forced Inspiratory Vital Capacity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The difference in lung volume between maximal expiration to residual volume followed immediately by full inspiration to total lung capacity during forceful inhalation.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Forced Inspiratory Vital Capacity</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="FRC" nciodm:ExtCodeID="C89800">
                     <nciodm:CDISCSynonym>Functional Residual Capacity</nciodm:CDISCSynonym>
@@ -198,6 +267,11 @@
                     <nciodm:CDISCSynonym>IC Reversibility</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The change in IC following administration of a bronchodilator relative to the pre-treatment IC value.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Inspiratory Capacity Reversibility</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="INERTANC" nciodm:ExtCodeID="C139254">
+                    <nciodm:CDISCSynonym>Inertance</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The measure of the force of the column of air in the conducting airways.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Pulmonary Inertance</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="IRV" nciodm:ExtCodeID="C111237">
                     <nciodm:CDISCSynonym>Inspiratory Reserve Volume</nciodm:CDISCSynonym>
@@ -271,6 +345,11 @@
                     <nciodm:CDISCDefinition>The change in PEF following administration of a bronchodilator relative to the pre-treatment PEF value.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Peak Expiratory Flow Reversibility</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="PEFTIME" nciodm:ExtCodeID="C139259">
+                    <nciodm:CDISCSynonym>Peak Expiratory Flow Time</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The time from the start of the test until the subject reaches his maximum expiratory gas flow rate.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Peak Expiratory Flow Time</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="PIF" nciodm:ExtCodeID="C120939">
                     <nciodm:CDISCSynonym>Peak Inspiratory Flow</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The maximum rate of inhalation.</nciodm:CDISCDefinition>
@@ -290,6 +369,11 @@
                     <nciodm:CDISCSynonym>Peak Nasal Inspiratory Flow</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The maximal flow achieved during the maximally forced inspiration through the nose initiated at maximum exhalation. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Peak Nasal Inspiratory Flow</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="QUASCOMP" nciodm:ExtCodeID="C139255">
+                    <nciodm:CDISCSynonym>Quasi-Static Compliance</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The static elastic recoil pressure of the lungs at a given lung volume.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Quasi-Static Compliance</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="RAW" nciodm:ExtCodeID="C120927">
                     <nciodm:CDISCSynonym>Airway Resistance</nciodm:CDISCSynonym>
@@ -315,6 +399,21 @@
                     <nciodm:CDISCSynonym>Percent Predicted Residual Volume</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The volume of air remaining in the lungs after maximum exhalation as a proportion of the predicted normal value.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Percent Predicted Residual Volume</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SALKA" nciodm:ExtCodeID="C139256">
+                    <nciodm:CDISCSynonym>Salazar-Knowles Equation Parameter A</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A representation of the exponential function described by the Salazar-Knowles equation, and an estimation of a subject's inspiratory capacity.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Salazar-Knowles Equation Parameter A</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SALKB" nciodm:ExtCodeID="C139257">
+                    <nciodm:CDISCSynonym>Salazar-Knowles Equation Parameter B</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The difference between the volume at total lung capacity and the hypothesized volume at a transpulmonary pressure of zero.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Salazar-Knowles Equation Parameter B</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SALKK" nciodm:ExtCodeID="C139258">
+                    <nciodm:CDISCSynonym>Salazar-Knowles Equation, K</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The reflection of the curvature of the upper portion of the deflationary limb of the pressure-volume curve.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Salazar-Knowles Equation, K Parameter</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="SGAW" nciodm:ExtCodeID="C122186">
                     <nciodm:CDISCSynonym>Specific Airway Conductance</nciodm:CDISCSynonym>
@@ -350,6 +449,16 @@
                     <nciodm:CDISCSynonym>Percent Predicted Total Lung Capacity</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The total volume of air in the lungs after maximum inhalation as a proportion of the predicted normal value.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Percent Predicted Total Lung Capacity</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TSUELAS" nciodm:ExtCodeID="C139260">
+                    <nciodm:CDISCSynonym>Tissue Elastance</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the reflection of energy conservation within a given tissue.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Tissue Elastance</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TSUHYS" nciodm:ExtCodeID="C139261">
+                    <nciodm:CDISCSynonym>Tissue Hysteresivity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The energy dissipated relative to the elastic energy stored in the tissue in a P-V cycle. (Fredberg JJ, Stamenovic D. On the imperfect elasticity of lung tissue. J Appl Physiol (1985). 1989 Dec;67(6):2408-19).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Tissue Hysteresivity Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="TV" nciodm:ExtCodeID="C111324">
                     <nciodm:CDISCSynonym>Tidal Volume</nciodm:CDISCSynonym>

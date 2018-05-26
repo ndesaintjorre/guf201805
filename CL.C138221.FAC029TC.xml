@@ -1,0 +1,84 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C138221.FAC029TC" Name="Functional Assessment of Cancer Therapy-Brain Symptom Index Questionnaire Test Code" DataType="text" nciodm:ExtCodeID="C138221" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Functional Assessment of Cancer Therapy-Brain Symptom Index test code.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="FAC02901" nciodm:ExtCodeID="C138429">
+                    <nciodm:CDISCSynonym>FAC029-I Get Headaches</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Cancer Therapy-Brain Symptom Index - I get headaches.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FBRSI - I Get Headaches</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC02902" nciodm:ExtCodeID="C138430">
+                    <nciodm:CDISCSynonym>FAC029-I Have Had Seizures</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Cancer Therapy-Brain Symptom Index - I have had seizures (convulsions).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FBRSI - I Have Had Seizures</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC02903" nciodm:ExtCodeID="C138431">
+                    <nciodm:CDISCSynonym>FAC029-Have Weakness in My Arms or Legs</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Cancer Therapy-Brain Symptom Index - I have weakness in my arms or legs.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FBRSI - Have Weakness in My Arms or Legs</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC02904" nciodm:ExtCodeID="C138432">
+                    <nciodm:CDISCSynonym>FAC029-I Need Help in Caring for Myself</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Cancer Therapy-Brain Symptom Index - I need help in caring for myself (bathing, dressing, eating, etc.).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FBRSI - I Need Help in Caring for Myself</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC02905" nciodm:ExtCodeID="C138433">
+                    <nciodm:CDISCSynonym>FAC029-I Have a Lack of Energy</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Cancer Therapy-Brain Symptom Index - I have a lack of energy.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FBRSI - I Have a Lack of Energy</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC02906" nciodm:ExtCodeID="C138434">
+                    <nciodm:CDISCSynonym>FAC029-Difficulty Expressing My Thoughts</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Cancer Therapy-Brain Symptom Index - I have difficulty expressing my thoughts.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FBRSI - Difficulty Expressing My Thoughts</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC02907" nciodm:ExtCodeID="C138435">
+                    <nciodm:CDISCSynonym>FAC029-I Have Trouble With Coordination</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Cancer Therapy-Brain Symptom Index - I have trouble with coordination.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FBRSI - I Have Trouble With Coordination</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC02908" nciodm:ExtCodeID="C138436">
+                    <nciodm:CDISCSynonym>FAC029-Frustrated I Cannot Do Things</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Cancer Therapy-Brain Symptom Index - I get frustrated that I cannot do things I used to.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FBRSI - Frustrated I Cannot Do Things</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC02909" nciodm:ExtCodeID="C138437">
+                    <nciodm:CDISCSynonym>FAC029-I Have Nausea</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Cancer Therapy-Brain Symptom Index - I have nausea.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FBRSI - I Have Nausea</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC02910" nciodm:ExtCodeID="C138438">
+                    <nciodm:CDISCSynonym>FAC029-Able to Find the Right Words</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Cancer Therapy-Brain Symptom Index - I am able to find the right word(s) to say what I mean.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FBRSI - Able to Find the Right Words</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC02911" nciodm:ExtCodeID="C138439">
+                    <nciodm:CDISCSynonym>FAC029-Losing Hope Against Illness</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Cancer Therapy-Brain Symptom Index - I am losing hope in the fight against my illness.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FBRSI - Losing Hope Against Illness</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC02912" nciodm:ExtCodeID="C138440">
+                    <nciodm:CDISCSynonym>FAC029-Trouble Meeting Needs of Family</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Cancer Therapy-Brain Symptom Index - Because of my physical condition, I have trouble meeting the needs of my family.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FBRSI - Trouble Meeting Needs of Family</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC02913" nciodm:ExtCodeID="C138441">
+                    <nciodm:CDISCSynonym>FAC029-Worry My Condition Will Get Worse</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Cancer Therapy-Brain Symptom Index - I worry that my condition will get worse.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FBRSI - Worry My Condition Will Get Worse</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC02914" nciodm:ExtCodeID="C138442">
+                    <nciodm:CDISCSynonym>FAC029-I Am Afraid of Having a Seizure</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Cancer Therapy-Brain Symptom Index - I am afraid of having a seizure (convulsion).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FBRSI - I Am Afraid of Having a Seizure</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAC02915" nciodm:ExtCodeID="C138443">
+                    <nciodm:CDISCSynonym>FAC029-I Am Able to Enjoy Life</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Cancer Therapy-Brain Symptom Index - I am able to enjoy life.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FBRSI - I Am Able to Enjoy Life</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>FAC029TC</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Functional Assessment of Cancer Therapy-Brain Symptom Index Questionnaire Test Code</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Questionnaire FBRSI Test Code Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

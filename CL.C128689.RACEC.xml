@@ -38,6 +38,10 @@
                     <nciodm:CDISCDefinition>A person having origins in the original peoples of Asia and the United States.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Asian American</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="ASIAN INDIAN" nciodm:ExtCodeID="C41262">
+                    <nciodm:CDISCDefinition>A person having origins in any of the original peoples of the Indian subcontinent.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Asian Indian</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="BAHAMIAN" nciodm:ExtCodeID="C67271">
                     <nciodm:CDISCDefinition>A person having origins in any of the original peoples of the Bahamas.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Bahamian</nciodm:PreferredTerm>
@@ -53,6 +57,10 @@
                 <EnumeratedItem CodedValue="BHUTANESE" nciodm:ExtCodeID="C43673">
                     <nciodm:CDISCDefinition>A person having origins in any of the original peoples of Bhutan.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Bhutanese</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BLACK" nciodm:ExtCodeID="C128938">
+                    <nciodm:CDISCDefinition>A person having origins in the original peoples of sub-Saharan Africa or the Caribbean.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Black</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="BLACK CENTRAL AMERICAN" nciodm:ExtCodeID="C128991">
                     <nciodm:CDISCDefinition>A person having origins in the original peoples of sub-Saharan Africa and Central America.</nciodm:CDISCDefinition>
@@ -261,6 +269,12 @@
                 <EnumeratedItem CodedValue="TRINIDADIAN" nciodm:ExtCodeID="C43828">
                     <nciodm:CDISCDefinition>A person having origins in any of the original peoples of Trinidad.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Trinidadian</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UNKNOWN" nciodm:ExtCodeID="C17998">
+                    <nciodm:CDISCSynonym>U</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Unknown</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Not known, not observed, not recorded, or refused. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Unknown</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="VIETNAMESE" nciodm:ExtCodeID="C43396">
                     <nciodm:CDISCDefinition>A person having origins in any of the original peoples of Viet Nam.</nciodm:CDISCDefinition>

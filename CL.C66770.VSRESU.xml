@@ -42,6 +42,10 @@
                     <nciodm:CDISCDefinition>A traditional unit of length equal to 2.54 centimeters. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Inch</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="kcal/day" nciodm:ExtCodeID="C139135">
+                    <nciodm:CDISCDefinition>A unit of energy equal to one kilocalorie per day. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Kilocalorie per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="kg" nciodm:ExtCodeID="C28252">
                     <nciodm:CDISCSynonym>Kilogram</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The base unit of mass in the International System of Units (SI) equal to the mass of the international prototype kilogram, a platinum-iridium cylinder in the custody of the International Bureau of Weights and Measures.</nciodm:CDISCDefinition>
@@ -71,6 +75,10 @@
                     <nciodm:CDISCSynonym>Millimeter of Mercury</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A unit of pressure equal to 0.001316 atmosphere and equal to the pressure indicated by one millimeter rise of mercury in a barometer at the Earth's surface. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Millimeter of Mercury</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Watt" nciodm:ExtCodeID="C42549">
+                    <nciodm:CDISCDefinition>A unit of power equal to the power which in one second produces or transfers the energy of one joule. The unit is used in measurements of power emitted, transferred or received as radiation, sound waves, heat flow rate, and rate of energy transfer. Equal to 1/746 of horsepower.(NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Watt</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <nciodm:CDISCSubmissionValue>VSRESU</nciodm:CDISCSubmissionValue>
                 <nciodm:CDISCSynonym>Units for Vital Signs Results</nciodm:CDISCSynonym>

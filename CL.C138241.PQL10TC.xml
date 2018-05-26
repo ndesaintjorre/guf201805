@@ -1,0 +1,134 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C138241.PQL10TC" Name="Pediatric Quality of Life Neuromuscular Module Acute Version 3 Young Adult Questionnaire Test Code" DataType="text" nciodm:ExtCodeID="C138241" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Pediatric Quality of Life Neuromuscular Module Acute Version 3 Young Adult test code.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="PQL1001" nciodm:ExtCodeID="C138640">
+                    <nciodm:CDISCSynonym>PQL10-Hard to Breathe</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Quality of Life Neuromuscular Module Acute Version 3 Young Adult - In the past 7 days, how much of a problem has this been for you: It is hard to breathe.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PedsQL Neuromuscular Module Acute Version 3.0 Young Adult Report - Hard to Breathe</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PQL1002" nciodm:ExtCodeID="C138641">
+                    <nciodm:CDISCSynonym>PQL10-Get Sick Easily</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Quality of Life Neuromuscular Module Acute Version 3 Young Adult - In the past 7 days, how much of a problem has this been for you: I get sick easily.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PedsQL Neuromuscular Module Acute Version 3.0 Young Adult Report - Get Sick Easily</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PQL1003" nciodm:ExtCodeID="C138642">
+                    <nciodm:CDISCSynonym>PQL10-Get Sores and/or Rashes</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Quality of Life Neuromuscular Module Acute Version 3 Young Adult - In the past 7 days, how much of a problem has this been for you: I get sores and/or rashes.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PedsQL Neuromuscular Module Acute Version 3.0 Young Adult Report - Get Sores and/or Rashes</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PQL1004" nciodm:ExtCodeID="C138643">
+                    <nciodm:CDISCSynonym>PQL10-Legs Hurt</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Quality of Life Neuromuscular Module Acute Version 3 Young Adult - In the past 7 days, how much of a problem has this been for you: My legs hurt.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PedsQL Neuromuscular Module Acute Version 3.0 Young Adult Report - Legs Hurt</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PQL1005" nciodm:ExtCodeID="C138644">
+                    <nciodm:CDISCSynonym>PQL10-Feel Tired</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Quality of Life Neuromuscular Module Acute Version 3 Young Adult - In the past 7 days, how much of a problem has this been for you: I feel tired.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PedsQL Neuromuscular Module Acute Version 3.0 Young Adult Report - Feel Tired</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PQL1006" nciodm:ExtCodeID="C138645">
+                    <nciodm:CDISCSynonym>PQL10-Back Feels Stiff</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Quality of Life Neuromuscular Module Acute Version 3 Young Adult - In the past 7 days, how much of a problem has this been for you: My back feels stiff.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PedsQL Neuromuscular Module Acute Version 3.0 Young Adult Report - Back Feels Stiff</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PQL1007" nciodm:ExtCodeID="C138646">
+                    <nciodm:CDISCSynonym>PQL10-Wake Up Tired</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Quality of Life Neuromuscular Module Acute Version 3 Young Adult - In the past 7 days, how much of a problem has this been for you: I wake up tired.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PedsQL Neuromuscular Module Acute Version 3.0 Young Adult Report - Wake Up Tired</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PQL1008" nciodm:ExtCodeID="C138647">
+                    <nciodm:CDISCSynonym>PQL10-Hands Are Weak</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Quality of Life Neuromuscular Module Acute Version 3 Young Adult - In the past 7 days, how much of a problem has this been for you: My hands are weak.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PedsQL Neuromuscular Module Acute Version 3.0 Young Adult Report - Hands Are Weak</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PQL1009" nciodm:ExtCodeID="C138648">
+                    <nciodm:CDISCSynonym>PQL10-Hard to Use Bathroom</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Quality of Life Neuromuscular Module Acute Version 3 Young Adult - In the past 7 days, how much of a problem has this been for you: It is hard to use the bathroom.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PedsQL Neuromuscular Module Acute Version 3.0 Young Adult Report - Hard to Use Bathroom</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PQL1010" nciodm:ExtCodeID="C138649">
+                    <nciodm:CDISCSynonym>PQL10-Hard to Gain/Lose Weight</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Quality of Life Neuromuscular Module Acute Version 3 Young Adult - In the past 7 days, how much of a problem has this been for you: It is hard to gain or lose weight when I want to.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PedsQL Neuromuscular Module Acute Version 3.0 Young Adult Report - Hard to Gain or Lose Weight</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PQL1011" nciodm:ExtCodeID="C138650">
+                    <nciodm:CDISCSynonym>PQL10-Hard to Use Hands</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Quality of Life Neuromuscular Module Acute Version 3 Young Adult - In the past 7 days, how much of a problem has this been for you: It is hard to use my hands.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PedsQL Neuromuscular Module Acute Version 3.0 Young Adult Report - Hard to Use Hands</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PQL1012" nciodm:ExtCodeID="C138651">
+                    <nciodm:CDISCSynonym>PQL10-Hard to Swallow Food</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Quality of Life Neuromuscular Module Acute Version 3 Young Adult - In the past 7 days, how much of a problem has this been for you: It is hard to swallow food.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PedsQL Neuromuscular Module Acute Version 3.0 Young Adult Report - Hard to Swallow Food</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PQL1013" nciodm:ExtCodeID="C138652">
+                    <nciodm:CDISCSynonym>PQL10-Long Time to Bathe/Shower</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Quality of Life Neuromuscular Module Acute Version 3 Young Adult - In the past 7 days, how much of a problem has this been for you: It takes me a long time to bathe or shower.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PedsQL Neuromuscular Module Acute Version 3.0 Young Adult Report - Long Time to Bathe or Shower</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PQL1014" nciodm:ExtCodeID="C138653">
+                    <nciodm:CDISCSynonym>PQL10-Get Hurt Accidentally</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Quality of Life Neuromuscular Module Acute Version 3 Young Adult - In the past 7 days, how much of a problem has this been for you: I get hurt accidentally.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PedsQL Neuromuscular Module Acute Version 3.0 Young Adult Report - Get Hurt Accidentally</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PQL1015" nciodm:ExtCodeID="C138654">
+                    <nciodm:CDISCSynonym>PQL10-Take Long Time to Eat</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Quality of Life Neuromuscular Module Acute Version 3 Young Adult - In the past 7 days, how much of a problem has this been for you: I take a long time to eat.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PedsQL Neuromuscular Module Acute Version 3.0 Young Adult Report - Take Long Time to Eat</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PQL1016" nciodm:ExtCodeID="C138655">
+                    <nciodm:CDISCSynonym>PQL10-Hard to Turn During Night</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Quality of Life Neuromuscular Module Acute Version 3 Young Adult - In the past 7 days, how much of a problem has this been for you: It is hard to turn myself during the night.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PedsQL Neuromuscular Module Acute Version 3.0 Young Adult Report - Hard to Turn During Night</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PQL1017" nciodm:ExtCodeID="C138656">
+                    <nciodm:CDISCSynonym>PQL10-Hard to Go Places With Equipment</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Quality of Life Neuromuscular Module Acute Version 3 Young Adult - In the past 7 days, how much of a problem has this been for you: It is hard for me to go places with my equipment.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PedsQL Neuromuscular Module Acute Version 3.0 Young Adult Report - Hard to Go Places With Equipment</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PQL1018" nciodm:ExtCodeID="C138657">
+                    <nciodm:CDISCSynonym>PQL10-Hard Tell Doctors/Nurses How Feel</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Quality of Life Neuromuscular Module Acute Version 3 Young Adult - In the past 7 days, how much of a problem has this been for you: It is hard for me to tell the doctors and nurses how I feel.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PedsQL Neuromuscular Module Acute Version 3.0 Young Adult Report - Hard Tell Doctors and Nurses How Feel</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PQL1019" nciodm:ExtCodeID="C138658">
+                    <nciodm:CDISCSynonym>PQL10-Hard Ask Doctors/Nurses Questions</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Quality of Life Neuromuscular Module Acute Version 3 Young Adult - In the past 7 days, how much of a problem has this been for you: It is hard for me to ask the doctors and nurses questions.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PedsQL Neuromuscular Module Acute Version 3.0 Young Adult Report - Hard Ask Doctors and Nurses Questions</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PQL1020" nciodm:ExtCodeID="C138659">
+                    <nciodm:CDISCSynonym>PQL10-Hard Explain Illness to People</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Quality of Life Neuromuscular Module Acute Version 3 Young Adult - In the past 7 days, how much of a problem has this been for you: It is hard for me to explain my illness to other people.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PedsQL Neuromuscular Module Acute Version 3.0 Young Adult Report - Hard Explain Illness to People</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PQL1021" nciodm:ExtCodeID="C138660">
+                    <nciodm:CDISCSynonym>PQL10-Hard for Family to Plan Activities</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Quality of Life Neuromuscular Module Acute Version 3 Young Adult - In the past 7 days, how much of a problem has this been for you: It is hard for my family to plan activities like vacations.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PedsQL Neuromuscular Module Acute Version 3.0 Young Adult Report - Hard for Family to Plan Activities</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PQL1022" nciodm:ExtCodeID="C138661">
+                    <nciodm:CDISCSynonym>PQL10-Hard for Family to Rest</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Quality of Life Neuromuscular Module Acute Version 3 Young Adult - In the past 7 days, how much of a problem has this been for you: It is hard for my family to get enough rest.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PedsQL Neuromuscular Module Acute Version 3.0 Young Adult Report - Hard for Family to Rest</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PQL1023" nciodm:ExtCodeID="C138662">
+                    <nciodm:CDISCSynonym>PQL10-Money Problem in Our Family</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Quality of Life Neuromuscular Module Acute Version 3 Young Adult - In the past 7 days, how much of a problem has this been for you: I think money is a problem in our family.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PedsQL Neuromuscular Module Acute Version 3.0 Young Adult Report - Money Problem in Our Family</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PQL1024" nciodm:ExtCodeID="C138663">
+                    <nciodm:CDISCSynonym>PQL10-Family Has Lot of Problems</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Quality of Life Neuromuscular Module Acute Version 3 Young Adult - In the past 7 days, how much of a problem has this been for you: I think my family has a lot of problems.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PedsQL Neuromuscular Module Acute Version 3.0 Young Adult Report - Family Has Lot of Problems</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PQL1025" nciodm:ExtCodeID="C138664">
+                    <nciodm:CDISCSynonym>PQL10-Do Not Have Equipment Need</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Quality of Life Neuromuscular Module Acute Version 3 Young Adult - In the past 7 days, how much of a problem has this been for you: I do not have the equipment I need.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PedsQL Neuromuscular Module Acute Version 3.0 Young Adult Report - Do Not Have Equipment Need</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>PQL10TC</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Pediatric Quality of Life Neuromuscular Module Acute Version 3 Young Adult Questionnaire Test Code</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Questionnaire PedsQL Neuromuscular Module Acute Version 3.0 Young Adult Report Test Code Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

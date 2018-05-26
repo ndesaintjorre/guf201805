@@ -8,6 +8,13 @@
                     <nciodm:CDISCDefinition>Determination of a value is not relevant in the current context. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Not Applicable</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="PHASE 0 TRIAL" nciodm:ExtCodeID="C54721">
+                    <nciodm:CDISCSynonym>0</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Pre-clinical Trial</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Trial Phase 0</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>First-in-human trials, in a small number of subjects, that are conducted before Phase 1 trials and are intended to assess new candidate therapeutic and imaging agents. The study agent is administered at a low dose for a limited time, and there is no therapeutic or diagnostic intent. NOTE: FDA Guidance for Industry, Investigators, and Reviewers: Exploratory IND Studies, January 2006 classifies such studies as Phase 1. NOTE: A Phase 0 study might not include any drug delivery but may be an exploration of human material from a study (e.g., tissue samples or biomarker determinations). [Improving the Quality of Cancer Clinical Trials: Workshop summary-Proceedings of the National Cancer Policy Forum Workshop, improving the Quality of Cancer Clinical Trials (Washington, DC, Oct 2007)] (CDISC glossary)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Phase 0 Trial</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="PHASE I TRIAL" nciodm:ExtCodeID="C15600">
                     <nciodm:CDISCSynonym>1</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Trial Phase 1</nciodm:CDISCSynonym>

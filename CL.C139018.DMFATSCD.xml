@@ -1,0 +1,14 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C139018.DMFATSCD" Name="Duchenne Muscular Dystrophy Findings About Test Code" DataType="text" nciodm:ExtCodeID="C139018" nciodm:CodeListExtensible="Yes">
+                <Description>
+                    <TranslatedText xml:lang="en">Terminology relevant to the test codes that describe findings about a Duchenne muscular dystrophy event or intervention.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="AGEFTUSE" nciodm:ExtCodeID="C139175">
+                    <nciodm:CDISCSynonym>Age at Full-Time Use</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The age at which the full-time use of a pre-specified object first occurred.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Age at Full-Time Use</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>DMFATSCD</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Duchenne Muscular Dystrophy Findings About Test Code</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Duchenne Muscular Dystrophy Findings About Test Code Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

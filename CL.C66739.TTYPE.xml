@@ -11,7 +11,7 @@
                     <nciodm:PreferredTerm>Therapeutic Equivalency Study</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="DIAGNOSIS" nciodm:ExtCodeID="C49653">
-                    <nciodm:CDISCDefinition>A type of study protocol designed to evaluate intervention(s) aimed at identifying a disease or condition. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A type of study designed to evaluate intervention(s) aimed at identifying a disease or condition.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Diagnosis Study</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="DOSE RESPONSE" nciodm:ExtCodeID="C127803">
@@ -51,6 +51,7 @@
                     <nciodm:PreferredTerm>Pharmacokinetic Study</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="PREVENTION" nciodm:ExtCodeID="C49657">
+                    <nciodm:CDISCSynonym>Prophylaxis Study</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A type of study designed to identify actions necessary to permanently eliminate or reduce the long-term risk to human life as a result of a particular medication or treatment regimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Prevention Study</nciodm:PreferredTerm>
                 </EnumeratedItem>
@@ -64,7 +65,7 @@
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="TREATMENT" nciodm:ExtCodeID="C49656">
                     <nciodm:CDISCSynonym>Therapy Trial</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A type of study protocol designed to evaluate intervention(s) for treatment of disease, syndrome or condition.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A type of study designed to evaluate intervention(s) for treatment of disease, syndrome or condition.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Treatment Study</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <nciodm:CDISCSubmissionValue>TTYPE</nciodm:CDISCSubmissionValue>

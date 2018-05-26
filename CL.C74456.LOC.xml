@@ -19,6 +19,10 @@
                     <nciodm:CDISCDefinition>Any lymph node within the abdomen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Intra-Abdominal Lymph Node</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="ABDOMINAL REGION" nciodm:ExtCodeID="C139186">
+                    <nciodm:CDISCDefinition>Any portion of the body that lies within the boundary, either internally or externally, of the abdomen: superior margin, the thorax; inferior margin, the pelvis; lateral margins, the ribs.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Abdominal Region</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="ABDOMINAL SKIN" nciodm:ExtCodeID="C52758">
                     <nciodm:CDISCSynonym>Abdominal Skin</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The skin or integument surrounding the abdomen. (NCI)</nciodm:CDISCDefinition>
@@ -91,6 +95,23 @@
                     <nciodm:CDISCSynonym>Talar Mortise</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A rectangular socket or bony arch that connects the ends of the tibia and fibula to the talus.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Ankle Mortise</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ANTERIOR CINGULATE CORTEX" nciodm:ExtCodeID="C139185">
+                    <nciodm:CDISCDefinition>The part of the cingulate cortex that lies most frontal, with the most anterior portion of the cortex bending in a horseshoe shape around the genu of the corpus callosum.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Anterior Cingulate Cortex</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ANTERIOR CINGULATE GYRUS" nciodm:ExtCodeID="C96217">
+                    <nciodm:CDISCDefinition>The part of the cingulate gyrus that lies inferior to the superior frontal gyrus, and is separated from it by the cingulate sulcus; it ends inferior to the rostrum of the corpus callosum.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Cingulate Gyrus</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ANTERIOR HORN OF THE LATERAL VENTRICLE" nciodm:ExtCodeID="C32637">
+                    <nciodm:CDISCSynonym>Frontal Horn of the Lateral Ventricle</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The part of the lateral ventricle located in the frontal lobe, anterior to the interventricular foramen of Monroe, and bounded by the septum pellucidum, fornix, and genu of the corpus callosum.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Frontal Horn of the Lateral Ventricle</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ANTERIOR SUPERIOR ILIAC SPINE" nciodm:ExtCodeID="C139187">
+                    <nciodm:CDISCDefinition>A bony projection from the anterior region of the iliac crest, and is the site of attachment for the sartorius and tensor fascia latae muscles and the inguinal ligament.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Anterior Superior Iliac Spine</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="ANTERIOR TIBIAL ARTERY" nciodm:ExtCodeID="C12825">
                     <nciodm:CDISCDefinition>An artery of the lower extremity that supplies blood to the anterior part of the leg and the foot.</nciodm:CDISCDefinition>
@@ -175,10 +196,6 @@
                     <nciodm:CDISCSynonym>Artery</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A blood vessel that carries blood away from the heart. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Artery</nciodm:PreferredTerm>
-                </EnumeratedItem>
-                <EnumeratedItem CodedValue="ARTERY, PULMONARY" nciodm:ExtCodeID="C12774">
-                    <nciodm:CDISCDefinition>One of the arteries of the thorax; in general it arises from the pulmonary trunk and branches into the lungs.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Pulmonary Artery</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="ASCENDING AORTA" nciodm:ExtCodeID="C32150">
                     <nciodm:CDISCDefinition>The portion of the aorta that emerges from the left ventricle and precedes the aortic arch.</nciodm:CDISCDefinition>
@@ -344,9 +361,17 @@
                     <nciodm:CDISCDefinition>The four connected cavities (hollow spaces) centrally located within the brain that connect posteriorly with the central canal of the spinal cord. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Brain Ventricle</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="BRAIN VENTRICLE, LATERAL" nciodm:ExtCodeID="C12834">
+                    <nciodm:CDISCDefinition>The rostral extensions of the ventricular system of the brain consisting of two cavities, one on each side of the brain within the central regions of each cerebral hemisphere. Cerebrospinal fluid flows from the lateral ventricles into the centrally third ventricle via the foramen of Monroe. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Lateral Ventricle</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="BRAIN, PERIVENTRICULAR REGION" nciodm:ExtCodeID="C132390">
                     <nciodm:CDISCDefinition>The area of the body surrounding the ventricles of the brain.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Periventricular Region</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BRAIN, THIRD VENTRICLE" nciodm:ExtCodeID="C12827">
+                    <nciodm:CDISCDefinition>A centrally placed component of the ventricular system of the brain that is located in the diencephalon; the thalamus and the hypothalamus border the third ventricle.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Third Ventricle</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="BREAST" nciodm:ExtCodeID="C12971">
                     <nciodm:CDISCSynonym>Breast</nciodm:CDISCSynonym>
@@ -357,6 +382,10 @@
                     <nciodm:CDISCSynonym>Bronchi</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Tubular structure in continuation with the trachea, serving as an air passage.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Bronchus</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BUCCAL MUCOSA" nciodm:ExtCodeID="C12505">
+                    <nciodm:CDISCDefinition>The mucosal membranes located on the inside of the cheek, in the buccal cavity. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Buccal Mucosa</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="BUTTOCK" nciodm:ExtCodeID="C89806">
                     <nciodm:CDISCSynonym>Buttock</nciodm:CDISCSynonym>
@@ -416,6 +445,22 @@
                     <nciodm:CDISCDefinition>The largest of eight carpal bones, located in the center of the hand. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Capitate Bone</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="CAPITATE-HAMATE JOINT" nciodm:ExtCodeID="C139188">
+                    <nciodm:CDISCDefinition>A condyloid synovial joint within the wrist connecting the capitate bone to the hamate bone.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Capitate-Hamate Joint</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CAPITATE-LUNATE JOINT" nciodm:ExtCodeID="C139189">
+                    <nciodm:CDISCDefinition>A condyloid synovial joint within the wrist connecting the capitate bone to the lunate bone.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Capitate-Lunate Joint</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CARDIAC VALVE" nciodm:ExtCodeID="C12729">
+                    <nciodm:CDISCDefinition>A valve located in the heart.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Cardiac Valve</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CARDIAC WALL" nciodm:ExtCodeID="C139201">
+                    <nciodm:CDISCDefinition>All of the tissue that comprises the solid, outer structure of the heart, including the epicardium, the myocardium, and the endocardium.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Cardiac Wall</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="CARDIOVASCULAR SYSTEM" nciodm:ExtCodeID="C12686">
                     <nciodm:CDISCSynonym>Circulatory System</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A collection of organs including the heart and the blood vessels.</nciodm:CDISCDefinition>
@@ -429,6 +474,10 @@
                 <EnumeratedItem CodedValue="CARPAL BONE" nciodm:ExtCodeID="C12688">
                     <nciodm:CDISCDefinition>Any of the bones of the joint located between the radius and ulna and metacarpus.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Carpal Bone</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CARPOMETACARPAL JOINT" nciodm:ExtCodeID="C32265">
+                    <nciodm:CDISCDefinition>The articulation of the proximal bases of the metacarpal bones and the distal carpal bones in the fingers, and the first metacarpal bone and the trapezium bone of the wrist in the thumb.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Carpometacarpal Joint</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="CARPOMETACARPAL JOINT 1" nciodm:ExtCodeID="C103912">
                     <nciodm:CDISCSynonym>CMC1</nciodm:CDISCSynonym>
@@ -482,6 +531,10 @@
                     <nciodm:CDISCDefinition>The portion of the brain that extends from the brainstem through the cerebellar folia.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Cerebellum</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="CEREBRAL ARTERY" nciodm:ExtCodeID="C12691">
+                    <nciodm:CDISCDefinition>Any artery supplying the cerebral cortex.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Cerebral Artery</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="CEREBRAL CORTEX" nciodm:ExtCodeID="C12443">
                     <nciodm:CDISCSynonym>Cerebral Cortex</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The outer layer of the cerebrum composed of neurons and unmyelinated nerve fibers. It is responsible for memory, attention, consciousness and other higher levels of mental function.</nciodm:CDISCDefinition>
@@ -508,6 +561,10 @@
                     <nciodm:CDISCDefinition>Lymph node(s) in the cervical region, or neck.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Cervical Lymph Node</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="CERVICAL SPINE" nciodm:ExtCodeID="C69313">
+                    <nciodm:CDISCDefinition>The vertebrae located above the thoracic vertebrae.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Cervical Spine</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="CERVICAL VERTEBRA" nciodm:ExtCodeID="C12693">
                     <nciodm:CDISCDefinition>Any one of the vertebrae situated between the skull and the thoracic vertebrae.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Cervical Vertebra</nciodm:PreferredTerm>
@@ -531,6 +588,10 @@
                     <nciodm:CDISCSynonym>Chest Wall</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The total system of structures outside the lungs that move as a part of breathing; it includes all structures from the skin to the parietal pleura. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Chest Wall</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CHIN" nciodm:ExtCodeID="C81169">
+                    <nciodm:CDISCDefinition>The part of the face below the lower lip and including the protruding part of the lower jaw.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Mentum</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="CHOROID" nciodm:ExtCodeID="C12344">
                     <nciodm:CDISCDefinition>A blood vessel-containing membrane of the eye that lies between the retina and the sclera. (NCI)</nciodm:CDISCDefinition>
@@ -669,6 +730,18 @@
                     <nciodm:CDISCDefinition>A white matter structure within the brain that connects the left and right cerebral hemispheres.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Corpus Callosum</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="CORPUS CALLOSUM, BODY" nciodm:ExtCodeID="C32216">
+                    <nciodm:CDISCDefinition>An area within the corpus callosum between the genu (anterior region) and the splenium (posterior region).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Body of the Corpus Callosum</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CORPUS CALLOSUM, GENU" nciodm:ExtCodeID="C32675">
+                    <nciodm:CDISCDefinition>The anterior portion of the corpus callosum that bends down and back.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Genu of the Corpus Callosum</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CORPUS CALLOSUM, SPLENIUM" nciodm:ExtCodeID="C33610">
+                    <nciodm:CDISCDefinition>The thick, convex posterior region of the corpus callosum.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Splenium of the Corpus Callosum</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="CORPUS LUTEUM" nciodm:ExtCodeID="C26465">
                     <nciodm:CDISCSynonym>Corpus Luteum</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A group of cells that remain of the Graafian follicle following ovulation. This structure is composed of endocrine tissue and produces progesterone. This is needed to prepare the uterine lining for implantation by the fertilized egg. (NCI)</nciodm:CDISCDefinition>
@@ -722,6 +795,10 @@
                     <nciodm:CDISCSynonym>DISTAL CIRCUMFLEX ARTERY SEGMENT</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The segment of the left circumflex artery that is between the second and third obtuse marginal branches.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Distal Circumflex Artery</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DISTAL FEMUR R1" nciodm:ExtCodeID="C139208">
+                    <nciodm:CDISCDefinition>The portion of the distal femur, identified during a dual x-ray absorptiometry (DXA) scan, that contains primarily metaphyseal or trabecular bone.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Distal Femur R1</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="DISTAL INTERPHALANGEAL JOINT 2" nciodm:ExtCodeID="C102291">
                     <nciodm:CDISCSynonym>DIP2</nciodm:CDISCSynonym>
@@ -788,6 +865,26 @@
                     <nciodm:CDISCSynonym>DLAD</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The segment of the left anterior descending (LAD) artery that is distal to the third diagonal branch.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Distal Left Anterior Descending Artery</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DISTAL PHALANX 2 OF THE HAND" nciodm:ExtCodeID="C139190">
+                    <nciodm:CDISCDefinition>The bone that forms the tip of the second finger, as counted from the thenar side of the hand.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Hand Digit 2 Distal Phalanx</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DISTAL PHALANX 3 OF THE HAND" nciodm:ExtCodeID="C139191">
+                    <nciodm:CDISCDefinition>The bone that forms the tip of the third finger, as counted from the thenar side of the hand.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Hand Digit 3 Distal Phalanx</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DISTAL PHALANX 4 OF THE HAND" nciodm:ExtCodeID="C139192">
+                    <nciodm:CDISCDefinition>The bone that forms the tip of the fourth finger, as counted from the thenar side of the hand.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Hand Digit 4 Distal Phalanx</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DISTAL PHALANX 5 OF THE HAND" nciodm:ExtCodeID="C139193">
+                    <nciodm:CDISCDefinition>The bone that forms the tip of the fifth finger, as counted from the thenar side of the hand.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Hand Digit 5 Distal Phalanx</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DISTAL RADIOULNAR JOINT" nciodm:ExtCodeID="C139194">
+                    <nciodm:CDISCDefinition>The articulation of the distal head of the ulna bone and the ulnar notch of the radius.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Distal Radioulnar Joint</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="DISTAL RIGHT CORONARY ARTERY CONDUIT" nciodm:ExtCodeID="C102296">
                     <nciodm:CDISCSynonym>DISTAL RIGHT CORONARY ARTERY CONDUIT SEGMENT</nciodm:CDISCSynonym>
@@ -871,6 +968,14 @@
                     <nciodm:CDISCDefinition>The body space between the dura mater and the walls of the vertebral canal.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Epidural Spinal Canal Space</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="EPIGASTRIC LYMPH NODE" nciodm:ExtCodeID="C139195">
+                    <nciodm:CDISCDefinition>A parietal lymph node located along the inferior epigastric vessels.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Epigastric Lymph Node</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EPIGASTRIC REGION" nciodm:ExtCodeID="C32525">
+                    <nciodm:CDISCDefinition>The most superior, central area of the abdomen, lying immediately superior to the umbilicus and bounded laterally by the costal margins.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Epigastric Region</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="EPIGLOTTIS" nciodm:ExtCodeID="C12709">
                     <nciodm:CDISCSynonym>Epiglottis</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A small cartilagenous flap-like valve that closes over the larynx during swallowing to prevent food entering the lungs. (NCI)</nciodm:CDISCDefinition>
@@ -879,6 +984,10 @@
                 <EnumeratedItem CodedValue="EPITROCHLEAR LYMPH NODE" nciodm:ExtCodeID="C98182">
                     <nciodm:CDISCDefinition>A lymph node located above and adjacent to the elbow. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Epitrochlear Lymph Node</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ESOPHAGEAL LYMPH NODE" nciodm:ExtCodeID="C139196">
+                    <nciodm:CDISCDefinition>Any lymph node located near the esophagus, including cervical, and upper, middle, and lower thoracic lymph nodes.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Esophageal Lymph Node</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="ESOPHAGUS" nciodm:ExtCodeID="C12389">
                     <nciodm:CDISCDefinition>The portion of the digestive tract between the pharynx and stomach.</nciodm:CDISCDefinition>
@@ -1063,6 +1172,14 @@
                     <nciodm:CDISCDefinition>The first artery arising from the left anterior descending (LAD) artery that supplies the anterolateral wall, when counted from proximal to distal.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>First Diagonal Branch Artery</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="FIRST DORSAL INTEROSSEOUS MUSCLE OF THE FOOT" nciodm:ExtCodeID="C139197">
+                    <nciodm:CDISCDefinition>A dorsal interosseous muscle of the foot that originates on the lateral side of the first metatarsal and the medial side of the second metatarsal, and inserts into the medial side of the base of the proximal phalanx of the second toe.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>First Dorsal Interosseous Muscle of the Foot</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FIRST DORSAL INTEROSSEOUS MUSCLE OF THE HAND" nciodm:ExtCodeID="C139198">
+                    <nciodm:CDISCDefinition>A dorsal interosseous muscle of the hand that originates on the proximal half of the lateral border of the index metacarpal and the full length of the medial border of the thumb metacarpal, and inserts into the lateral side of the index finger.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>First Dorsal Interosseous Muscle of the Hand</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="FIRST LEFT POSTEROLATERAL BRANCH ARTERY" nciodm:ExtCodeID="C102298">
                     <nciodm:CDISCSynonym>1ST LPL</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>FIRST LEFT POSTEROLATERAL BRANCH ARTERY SEGMENT</nciodm:CDISCSynonym>
@@ -1147,6 +1264,10 @@
                     <nciodm:CDISCDefinition>The paired, mucosal lined air spaces located above the orbit and communicating with the nasal passages. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Frontal Sinus</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="FUNDUS OF THE EYE" nciodm:ExtCodeID="C135172">
+                    <nciodm:CDISCDefinition>The portion of the interior of the eye that includes the sensory retina, the optic disc, and the macula.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Eye Fundus</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="FUNDUS OF THE STOMACH" nciodm:ExtCodeID="C12257">
                     <nciodm:CDISCDefinition>The blind sac region of the glandular stomach.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Fundus of the Stomach</nciodm:PreferredTerm>
@@ -1200,10 +1321,18 @@
                     <nciodm:CDISCDefinition>The soft tissue surrounding the neck of individual teeth as well as covering the alveolar bone. The tissue is fibrous and continuous with the periodontal ligament and mucosal covering. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Gingiva</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="GINGIVAL MUCOSA" nciodm:ExtCodeID="C139199">
+                    <nciodm:CDISCDefinition>The portion of the oral mucosa that surrounds the cervical aspect of teeth and the alveolar process of the jaw.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Gingival Mucosa</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="GLENOID FOSSA" nciodm:ExtCodeID="C32682">
                     <nciodm:CDISCSynonym>Glenoid Fossa</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The trough in the head of the scapula that receives the head of the humerus to form the shoulder joint. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Glenoid Fossa</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="GLOBUS PALLIDUS" nciodm:ExtCodeID="C12449">
+                    <nciodm:CDISCDefinition>Paired nuclei at the base of the forebrain that, along with the putamen, form the lentiform nucleus of the basal ganglia.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Globus Pallidus</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="GLOMERULUS" nciodm:ExtCodeID="C13250">
                     <nciodm:CDISCDefinition>A cluster of convoluted capillaries beginning at each nephric tubule in the kidney and held together by connective tissue.</nciodm:CDISCDefinition>
@@ -1478,6 +1607,10 @@
                     <nciodm:CDISCDefinition>Lymph node(s) adjacent to the iliac vessels in the iliosacral region and cranial to the iliofemoral lymph node.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Iliac Lymph Node</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="ILIOTIBIAL BAND" nciodm:ExtCodeID="C139207">
+                    <nciodm:CDISCDefinition>A dense band of avascular, regular connective tissue. It is formed as the union of the superficial and deep layers of the tensor fascia latae, creating a thick band that extends inferiorly, taking its origins from the iliac crest, the tensor fascia latae, and the gluteus maximus, travelling inferiolaterally along the thigh, and inserting on Gerdy's tubercle on the lateral aspect of the tibia. Functionally, the iliotibial band helps to flex, abduct, and medially rotate the femur at the hip joint, and it also helps to stabilize the knee laterally.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Iliotibial Band</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="ILIUM" nciodm:ExtCodeID="C32765">
                     <nciodm:CDISCSynonym>Ilium</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The broad, dorsal, upper, and widest of the three principal bones composing either half of the pelvis. (NCI)</nciodm:CDISCDefinition>
@@ -1522,6 +1655,11 @@
                     <nciodm:CDISCSynonym>Groin</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The lower region of the anterior abdominal wall located laterally to the pubic region. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Inguinal Region</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="INSULAR CORTEX" nciodm:ExtCodeID="C32278">
+                    <nciodm:CDISCSynonym>Central Lobe</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A distinct cerebral lobe positioned in the depth of the Sylvian fissures and overlaid entirely by adjacent regions of the cerebral hemispheres.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Central Lobe</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="INTERNAL ILIAC ARTERY" nciodm:ExtCodeID="C32845">
                     <nciodm:CDISCDefinition>A short thick blood vessel arising from the bifurcation of the common iliac artery with numerous branches that supply the organs, walls and viscera of the pelvis as well as the inner thigh.</nciodm:CDISCDefinition>
@@ -1789,6 +1927,10 @@
                     <nciodm:CDISCSynonym>LATERAL FIRST OBTUSE MARGINAL BRANCH ARTERY SEGMENT</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The lateral branch distal to a bifurcation of the first obtuse marginal artery.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Lateral First Obtuse Marginal Branch Artery</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LATERAL HUMERAL EPICONDYLE" nciodm:ExtCodeID="C139202">
+                    <nciodm:CDISCDefinition>A bone prominence at the distal end of the humerus to which the radial collateral ligament of the elbow joint, the anconeus and supinator muscles, and the common extensor tendon are attached.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Lateral Humeral Epicondyle</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="LATERAL RAMUS INTERMEDIUS ARTERY" nciodm:ExtCodeID="C102309">
                     <nciodm:CDISCSynonym>LAT RAMUS</nciodm:CDISCSynonym>
@@ -2226,6 +2368,10 @@
                     <nciodm:CDISCDefinition>A pyramidal-shaped, thin-walled, air-filled cavity located in the maxilla. It is lined by mucus membrane and periosteum (mucoperiosteum) which contains cilia. It is adjacent to the nasal cavity and communicates with the middle meatus of the nose. It is the largest paranasal sinus and is composed of three recesses: alveolar, zygomatic, and infraorbital. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Maxillary Sinus</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="MEDIAL FEMORAL CONDYLE" nciodm:ExtCodeID="C139204">
+                    <nciodm:CDISCDefinition>A rounded, bony projection on the inner side of the distal end of the femur to which the medial collateral and the posterior cruciate ligaments are attached.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Medial Femoral Condyle</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="MEDIAN OR LOWER CERVICAL LYMPH NODE" nciodm:ExtCodeID="C103417">
                     <nciodm:CDISCDefinition>A lymph node located in the median or lower region of the neck. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Median Or Lower Cervical Lymph Node</nciodm:PreferredTerm>
@@ -2285,6 +2431,26 @@
                 <EnumeratedItem CodedValue="METACARPAL BONE" nciodm:ExtCodeID="C12751">
                     <nciodm:CDISCDefinition>Any of the five bones between the wrist and the fingers that form the skeleton of the palm. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Metacarpal Bone</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="METACARPAL BONE 1" nciodm:ExtCodeID="C52796">
+                    <nciodm:CDISCDefinition>The first of the five long bones located in the palm of the hand, as counted from the thenar side of the hand; it articulates proximally with the trapezium and distally with the thenar phalanx (thumb).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Metacarpal Bone Digit 1</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="METACARPAL BONE 2" nciodm:ExtCodeID="C52795">
+                    <nciodm:CDISCDefinition>The second of the five long bones located in the palm of the hand, as counted from the thenar side of the hand; it articulates proximally with the trapezoid and distally with the second phalanx (index finger).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Metacarpal Bone Digit 2</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="METACARPAL BONE 3" nciodm:ExtCodeID="C52794">
+                    <nciodm:CDISCDefinition>The third of the five long bones located in the palm of the hand, as counted from the thenar side of the hand; it articulates proximally with the capitate and the second and fourth metacarpals, and distally with the third phalanx (middle finger).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Metacarpal Bone Digit 3</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="METACARPAL BONE 4" nciodm:ExtCodeID="C52793">
+                    <nciodm:CDISCDefinition>The fourth of the five long bones located in the palm of the hand, as counted from the thenar side of the hand; it articulates proximally with the capitate, hamate, and third and fifth metacarpal bones, and distally with the fourth phalanx (ring finger).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Metacarpal Bone Digit 4</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="METACARPAL BONE 5" nciodm:ExtCodeID="C52792">
+                    <nciodm:CDISCDefinition>The fifth of the five long bones located in the palm of the hand, as counted from the thenar side of the hand; it articulates proximally with the hamate and fourth metacarpal, and distally with the fifth phalanx (small finger).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Metacarpal Bone Digit 5</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="METACARPOPHALANGEAL JOINT 1" nciodm:ExtCodeID="C102316">
                     <nciodm:CDISCSynonym>MCP1</nciodm:CDISCSynonym>
@@ -2483,6 +2649,10 @@
                     <nciodm:CDISCDefinition>One of the two channels of the nose, from the point where they divide to the external opening. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Nostril</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="NUCLEUS ACCUMBENS" nciodm:ExtCodeID="C52733">
+                    <nciodm:CDISCDefinition>A nucleus comprising neurons in the forebrain, ventral to the dorsal caudate and putamen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Accumbens Nucleus</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="NUCLEUS OF DIAGONAL BAND" nciodm:ExtCodeID="C97342">
                     <nciodm:CDISCSynonym>BASAL NUCLEUS/DIAGONAL BAND</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A brain structure that is part of the septal nuclear complex. It is connected with the hippocampus, hypothalamus and amygdala.</nciodm:CDISCDefinition>
@@ -2515,11 +2685,6 @@
                 <EnumeratedItem CodedValue="OCULOMOTOR NERVE" nciodm:ExtCodeID="C12758">
                     <nciodm:CDISCDefinition>The third cranial nerve.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Oculomotor Nerve</nciodm:PreferredTerm>
-                </EnumeratedItem>
-                <EnumeratedItem CodedValue="ODONTOGENIC TISSUE" nciodm:ExtCodeID="C33794">
-                    <nciodm:CDISCSynonym>Teeth</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>The tissue that forms the tooth. It consists of the dental pulp, dentin, enamel, cementum, odontogenic epithelium, and periodontium. (NCI)</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Odontogenic Tissue</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="OLECRANON" nciodm:ExtCodeID="C33200">
                     <nciodm:CDISCSynonym>Olecranon</nciodm:CDISCSynonym>
@@ -2621,6 +2786,10 @@
                     <nciodm:CDISCSynonym>Tail of the Pancreas</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The left extremity of the pancreas within the lienorenal ligament. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Tail of the Pancreas</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PANCREATIC DUCT" nciodm:ExtCodeID="C12272">
+                    <nciodm:CDISCDefinition>A duct that conveys pancreatic secretions from the pancreas to the duodenum.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Pancreatic Duct</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="PARA-AORTIC LYMPH NODE" nciodm:ExtCodeID="C77643">
                     <nciodm:CDISCSynonym>Lymph Node, Para-Aortic</nciodm:CDISCSynonym>
@@ -2759,6 +2928,10 @@
                     <nciodm:CDISCDefinition>The membrane that lines the abdominal and pelvic cavities.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Peritoneum</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="PERIUMBILICAL REGION" nciodm:ExtCodeID="C139205">
+                    <nciodm:CDISCDefinition>The region of the body that immediately surrounds the umbilicus.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Periumbilical Region</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="PERIURETERAL REGION" nciodm:ExtCodeID="C132412">
                     <nciodm:CDISCDefinition>The tissue surrounding the ureter.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Periureteral Region</nciodm:PreferredTerm>
@@ -2853,6 +3026,10 @@
                     <nciodm:CDISCSynonym>POSTERIOR DESCENDING SEPTAL PERFORATORS ARTERY SEGMENT</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The arteries arising from the right posterior descending artery that supply the interventricular septum.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Septal Perforator Artery</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="POSTERIOR SUPERIOR ILIAC SPINE" nciodm:ExtCodeID="C139206">
+                    <nciodm:CDISCDefinition>A bony projection from the posterior region of the iliac crest that lies over the sacroiliac joint and is the site of attachment for the thoracolumbar fascia and the posterior sacroiliac and sacrotuberous ligaments.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Posterior Superior Iliac Spine</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="POSTERIOR TIBIAL ARTERY" nciodm:ExtCodeID="C12826">
                     <nciodm:CDISCDefinition>A terminal branch of the popliteal artery that runs along the tibia from the lower portion of the popliteus muscle to the lower ankle with numerous branches supplying the lower leg and foot.</nciodm:CDISCDefinition>
@@ -2990,6 +3167,10 @@
                 <EnumeratedItem CodedValue="PUBIC BONE" nciodm:ExtCodeID="C33423">
                     <nciodm:CDISCDefinition>Either of the two bones (left and right) that form the front of the pelvis. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Pubic Bone</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PULMONARY ARTERY BRANCH" nciodm:ExtCodeID="C12774">
+                    <nciodm:CDISCDefinition>One of the arteries of the thorax; in general it arises from the pulmonary trunk and branches into the lungs.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Pulmonary Artery</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="PULMONARY TRUNK" nciodm:ExtCodeID="C116918">
                     <nciodm:CDISCSynonym>Main Pulmonary Artery</nciodm:CDISCSynonym>
@@ -3376,6 +3557,10 @@
                     <nciodm:CDISCDefinition>The undersurface of the foot. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Plantar Region</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="SOLEUS MUSCLE" nciodm:ExtCodeID="C53075">
+                    <nciodm:CDISCDefinition>A muscle in the crus, in general extending from the tibia and fibula to the calcaneous; primary function is plantarflexion of the foot.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Soleus</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="SPINAL ACCESSORY NERVE" nciodm:ExtCodeID="C32041">
                     <nciodm:CDISCSynonym>ACCESSORY NERVE</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>CRANIAL ACCESSORY NERVE</nciodm:CDISCSynonym>
@@ -3737,6 +3922,10 @@
                     <nciodm:CDISCDefinition>A secondary lymphoid tissue in the mucosa of the pharynx.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Tonsil</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="TOOTH" nciodm:ExtCodeID="C12506">
+                    <nciodm:CDISCDefinition>A hard calcified structure in the jaw; primarily used for eating.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Tooth</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="TOOTH CANAL" nciodm:ExtCodeID="C66864">
                     <nciodm:CDISCSynonym>Tooth Canal</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The anatomic space in the root of a tooth that contains nerves, blood vessels, and connective tissue. (NCI)</nciodm:CDISCDefinition>
@@ -3771,9 +3960,21 @@
                     <nciodm:PreferredTerm>Trapezoid Bone</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="TRIANGULAR BONE" nciodm:ExtCodeID="C12858">
-                    <nciodm:CDISCSynonym>Triangular Bone</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Triquetral Bone</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A carpal bone located between the lunate and pisiform bones. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Triangular Bone</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TRIANGULAR-HAMATE JOINT" nciodm:ExtCodeID="C139200">
+                    <nciodm:CDISCSynonym>Triquetral-Hamate Joint</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Triquetrum-Hamate Joint</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The point of articulation in the wrist between the hamate and the triquetral bones.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Triangular-Hamate Joint</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TRIANGULAR-LUNATE JOINT" nciodm:ExtCodeID="C139203">
+                    <nciodm:CDISCSynonym>Triquetral-Lunate Joint</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Triquetrum-Lunate Joint</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The point of articulation in the wrist between the lunate and the triquetral bones.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Lunotriquetral Joint</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="TRICUSPID VALVE" nciodm:ExtCodeID="C12805">
                     <nciodm:CDISCSynonym>Tricuspid Valve</nciodm:CDISCSynonym>

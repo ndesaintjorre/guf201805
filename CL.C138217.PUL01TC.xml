@@ -1,0 +1,169 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C138217.PUL01TC" Name="Performance of the Upper Limb Module for DMD Version 1.2 Functional Test Test Code" DataType="text" nciodm:ExtCodeID="C138217" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Performance of the Upper Limb Module for DMD Version 1.2 test code.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="PUL0101" nciodm:ExtCodeID="C138365">
+                    <nciodm:CDISCSynonym>PUL01-Preferred Arm</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Performance of the Upper Limb Module for DMD Version 1.2 - Preferred arm.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PUL 1.2 - Preferred Arm</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PUL0102" nciodm:ExtCodeID="C138366">
+                    <nciodm:CDISCSynonym>PUL01-Elbow Contractures</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Performance of the Upper Limb Module for DMD Version 1.2 - Elbow contractures of the preferred arm.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PUL 1.2 - Elbow Contractures</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PUL0103" nciodm:ExtCodeID="C138393">
+                    <nciodm:CDISCSynonym>PUL01-High Level Shoulder Dimension</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Performance of the Upper Limb Module for DMD Version 1.2 - High level shoulder dimension score.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PUL 1.2 - High Level Shoulder Dimension</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PUL0104" nciodm:ExtCodeID="C138394">
+                    <nciodm:CDISCSynonym>PUL01-Mid Level Elbow Dimension</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Performance of the Upper Limb Module for DMD Version 1.2 - Mid level elbow dimension score.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PUL 1.2 - Mid Level Elbow Dimension</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PUL0105" nciodm:ExtCodeID="C138395">
+                    <nciodm:CDISCSynonym>PUL01-Distal Wrist/Hand Dimension</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Performance of the Upper Limb Module for DMD Version 1.2 - Distal wrist and hand dimension score.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PUL 1.2 - Distal Wrist or Hand Dimension</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PUL0106" nciodm:ExtCodeID="C138396">
+                    <nciodm:CDISCSynonym>PUL01-Total Score</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Performance of the Upper Limb Module for DMD Version 1.2 - Total Score.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PUL 1.2 - Total Score</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PUL01A" nciodm:ExtCodeID="C138367">
+                    <nciodm:CDISCSynonym>PUL01-Entry Item</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Performance of the Upper Limb Module for DMD Version 1.2 - Entry item.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PUL 1.2 - Entry Item</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PUL01B" nciodm:ExtCodeID="C138368">
+                    <nciodm:CDISCSynonym>PUL01-Shoulder Abduction to Shldr Hgt</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Performance of the Upper Limb Module for DMD Version 1.2 - Shoulder abduction to shoulder height.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PUL 1.2 - Shoulder Abduction to Height</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PUL01C" nciodm:ExtCodeID="C138369">
+                    <nciodm:CDISCSynonym>PUL01-Shoulder Abduction Above Shldr Hgt</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Performance of the Upper Limb Module for DMD Version 1.2 - Shoulder abduction above shoulder height.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PUL 1.2 - Shoulder Abduction Above Height</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PUL01D" nciodm:ExtCodeID="C138370">
+                    <nciodm:CDISCSynonym>PUL01-Shoulder Flexion to Shldr Height</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Performance of the Upper Limb Module for DMD Version 1.2 - Shoulder flexion to shoulder height.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PUL 1.2 - Shoulder Flexion to Height</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PUL01E" nciodm:ExtCodeID="C138371">
+                    <nciodm:CDISCSynonym>PUL01-Shoulder Flexion Above Shldr Hgt</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Performance of the Upper Limb Module for DMD Version 1.2 - Shoulder flexion above shoulder height.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PUL 1.2 - Shoulder Flexion Above Height</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PUL01F" nciodm:ExtCodeID="C138372">
+                    <nciodm:CDISCSynonym>PUL01-Hand(s) to Mouth</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Performance of the Upper Limb Module for DMD Version 1.2 - Hand(s) to mouth.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PUL 1.2 - Hand(s) to Mouth</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PUL01G" nciodm:ExtCodeID="C138373">
+                    <nciodm:CDISCSynonym>PUL01-Hand(s) to Table From Lap</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Performance of the Upper Limb Module for DMD Version 1.2 - Hand(s) to table from lap.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PUL 1.2 - Hand(s) to Table From Lap</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PUL01H" nciodm:ExtCodeID="C138374">
+                    <nciodm:CDISCSynonym>PUL01-Move Weight on Table</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Performance of the Upper Limb Module for DMD Version 1.2 - Move weight on table.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PUL 1.2 - Move Weight on Table</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PUL01I" nciodm:ExtCodeID="C138375">
+                    <nciodm:CDISCSynonym>PUL01-Lifting Light Cans</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Performance of the Upper Limb Module for DMD Version 1.2 - Lifting light cans.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PUL 1.2 - Lifting Light Cans</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PUL01I1" nciodm:ExtCodeID="C138376">
+                    <nciodm:CDISCSynonym>PUL01-Lifting Light Cans Time</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Performance of the Upper Limb Module for DMD Version 1.2 - Lifting light cans, time.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PUL 1.2 - Lifting Light Cans Time</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PUL01J" nciodm:ExtCodeID="C138377">
+                    <nciodm:CDISCSynonym>PUL01-Lifting Heavy Cans</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Performance of the Upper Limb Module for DMD Version 1.2 - Lifting heavy cans.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PUL 1.2 - Lifting Heavy Cans</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PUL01J1" nciodm:ExtCodeID="C138378">
+                    <nciodm:CDISCSynonym>PUL01-Lifting Heavy Cans Time</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Performance of the Upper Limb Module for DMD Version 1.2 - Lifting heavy cans, time.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PUL 1.2 - Lifting Heavy Cans Time</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PUL01K" nciodm:ExtCodeID="C138379">
+                    <nciodm:CDISCSynonym>PUL01-Stacking Light Cans</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Performance of the Upper Limb Module for DMD Version 1.2 - Stacking light cans.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PUL 1.2 - Stacking Light Cans</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PUL01K1" nciodm:ExtCodeID="C138380">
+                    <nciodm:CDISCSynonym>PUL01-Stacking Light Cans Time</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Performance of the Upper Limb Module for DMD Version 1.2 - Stacking light cans, time.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PUL 1.2 - Stacking Light Cans Time</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PUL01L" nciodm:ExtCodeID="C138381">
+                    <nciodm:CDISCSynonym>PUL01-Stacking Heavy Cans</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Performance of the Upper Limb Module for DMD Version 1.2 - Stacking heavy cans.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PUL 1.2 - Stacking Heavy Cans</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PUL01L1" nciodm:ExtCodeID="C138382">
+                    <nciodm:CDISCSynonym>PUL01-Stacking Heavy Cans Time</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Performance of the Upper Limb Module for DMD Version 1.2 - Stacking heavy cans, time.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PUL 1.2 - Stacking Heavy Cans Time</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PUL01M" nciodm:ExtCodeID="C138383">
+                    <nciodm:CDISCSynonym>PUL01-Remove Lid From Container</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Performance of the Upper Limb Module for DMD Version 1.2 - Remove lid from container.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PUL 1.2 - Remove Lid From Container</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PUL01N" nciodm:ExtCodeID="C138384">
+                    <nciodm:CDISCSynonym>PUL01-Tearing Paper</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Performance of the Upper Limb Module for DMD Version 1.2 - Tearing paper.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PUL 1.2 - Tearing Paper</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PUL01O" nciodm:ExtCodeID="C138385">
+                    <nciodm:CDISCSynonym>PUL01-Tracing Path</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Performance of the Upper Limb Module for DMD Version 1.2 - Tracing path.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PUL 1.2 - Tracing Path</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PUL01P" nciodm:ExtCodeID="C138386">
+                    <nciodm:CDISCSynonym>PUL01-Push on The Light</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Performance of the Upper Limb Module for DMD Version 1.2 - Push on the light.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PUL 1.2 - Push on The Light</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PUL01Q" nciodm:ExtCodeID="C138387">
+                    <nciodm:CDISCSynonym>PUL01-Supination</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Performance of the Upper Limb Module for DMD Version 1.2 - Supination.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PUL 1.2 - Supination</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PUL01R" nciodm:ExtCodeID="C138388">
+                    <nciodm:CDISCSynonym>PUL01-Picking Up Coins</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Performance of the Upper Limb Module for DMD Version 1.2 - Picking up coins.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PUL 1.2 - Picking Up Coins</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PUL01S" nciodm:ExtCodeID="C138389">
+                    <nciodm:CDISCSynonym>PUL01-Placing Finger on Number Diagram</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Performance of the Upper Limb Module for DMD Version 1.2 - Placing finger on number diagram.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PUL 1.2 - Placing Finger on Number Diagram</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PUL01T" nciodm:ExtCodeID="C138390">
+                    <nciodm:CDISCSynonym>PUL01-Finger Pinch Grip</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Performance of the Upper Limb Module for DMD Version 1.2 - Finger pinch grip.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PUL 1.2 - Finger Pinch Grip</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PUL01U" nciodm:ExtCodeID="C138391">
+                    <nciodm:CDISCSynonym>PUL01-3 Point Grip</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Performance of the Upper Limb Module for DMD Version 1.2 - 3 point grip.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PUL 1.2 - 3 Point Grip</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PUL01V" nciodm:ExtCodeID="C138392">
+                    <nciodm:CDISCSynonym>PUL01-Thumb (Key) Grip</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Performance of the Upper Limb Module for DMD Version 1.2 - Thumb (key) grip.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PUL 1.2 - Thumb (Key) Grip</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>PUL01TC</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Performance of the Upper Limb Module for DMD Version 1.2 Functional Test Test Code</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Functional Test PUL 1.2 Test Code Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

@@ -7,6 +7,11 @@
                     <nciodm:CDISCDefinition>One time per week. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Once Weekly</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="10 DAYS PER MONTH" nciodm:ExtCodeID="C139179">
+                    <nciodm:CDISCSynonym>10 Days Monthly</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Ten days per month. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Ten Days Per Month</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="2 TIMES PER WEEK" nciodm:ExtCodeID="C64497">
                     <nciodm:CDISCSynonym>BIS</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Twice per week</nciodm:CDISCSynonym>
@@ -90,10 +95,25 @@
                     <nciodm:CDISCDefinition>Six times per year. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Six Times Yearly</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="7 TIMES PER DAY" nciodm:ExtCodeID="C139180">
+                    <nciodm:CDISCSynonym>7 Times Daily</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Seven times per day. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Seven Times Per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="7 TIMES PER WEEK" nciodm:ExtCodeID="C98854">
                     <nciodm:CDISCSynonym>7 Times Per Week</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Seven times per week. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Seven Times Weekly</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="8 TIMES PER DAY" nciodm:ExtCodeID="C139181">
+                    <nciodm:CDISCSynonym>8 Times Daily</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Eight times per day. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Eight Times Per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="9 TIMES PER DAY" nciodm:ExtCodeID="C139182">
+                    <nciodm:CDISCSynonym>9 Times Daily</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Nine times per day. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Nine Times Per Day</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="AD LIBITUM" nciodm:ExtCodeID="C64636">
                     <nciodm:CDISCSynonym>Ad Libitum</nciodm:CDISCSynonym>
@@ -277,6 +297,11 @@
                     <nciodm:CDISCDefinition>Every two months. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Every Two Months</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="Q36H" nciodm:ExtCodeID="C89791">
+                    <nciodm:CDISCSynonym>Every 36 Hours</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Every thirty-six hours. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Every Thirty-six Hours</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="Q3D" nciodm:ExtCodeID="C64533">
                     <nciodm:CDISCSynonym>Every 3 days</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Every three days. (NCI)</nciodm:CDISCDefinition>
@@ -291,6 +316,16 @@
                     <nciodm:CDISCSynonym>Every 3 months</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Every three months. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Every Three Months</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Q45MIN" nciodm:ExtCodeID="C139183">
+                    <nciodm:CDISCSynonym>Every 45 Minutes</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Every forty-five minutes. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Every Forty-Five Minutes</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Q48H" nciodm:ExtCodeID="C89790">
+                    <nciodm:CDISCSynonym>Every 48 Hours</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Every forty-eight hours. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Every Forty-eight Hours</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Q4D" nciodm:ExtCodeID="C64534">
                     <nciodm:CDISCSynonym>Every 4 days</nciodm:CDISCSynonym>
@@ -327,6 +362,11 @@
                     <nciodm:CDISCDefinition>Every six months. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Every Six Months</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="Q7D" nciodm:ExtCodeID="C139177">
+                    <nciodm:CDISCSynonym>Every 7 Days</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Every seven days. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Every Seven Days</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="Q7H" nciodm:ExtCodeID="C64521">
                     <nciodm:CDISCSynonym>Every 7 hours</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Every seven hours. (NCI)</nciodm:CDISCDefinition>
@@ -341,6 +381,10 @@
                     <nciodm:CDISCSynonym>Every 9 hours</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Every nine hours. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Every Nine Hours</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="QAM" nciodm:ExtCodeID="C64595">
+                    <nciodm:CDISCDefinition>Every morning. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Every Morning</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="QD" nciodm:ExtCodeID="C25473">
                     <nciodm:CDISCSynonym>Daily</nciodm:CDISCSynonym>
@@ -363,10 +407,18 @@
                     <nciodm:CDISCDefinition>Every month. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Monthly</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="QN" nciodm:ExtCodeID="C139178">
+                    <nciodm:CDISCDefinition>Every night.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Every Night.</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="QOD" nciodm:ExtCodeID="C64525">
                     <nciodm:CDISCSynonym>Every other day</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Every other day. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Every Other Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="QPM" nciodm:ExtCodeID="C64596">
+                    <nciodm:CDISCDefinition>Every evening. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Every Evening</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="TID" nciodm:ExtCodeID="C64527">
                     <nciodm:CDISCSynonym>3 times per day</nciodm:CDISCSynonym>

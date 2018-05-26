@@ -657,6 +657,10 @@
                     <nciodm:CDISCDefinition>Any fungal organism that can be assigned to the species Arthroderma simii.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Arthroderma simii</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="ARTHROGRAPHIS" nciodm:ExtCodeID="C139106">
+                    <nciodm:CDISCDefinition>Any fungal organism that is not assigned to the species level but can be assigned to the Arthrographis genus level.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Arthrographis</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="ASCARIS LUMBRICOIDES" nciodm:ExtCodeID="C122177">
                     <nciodm:CDISCSynonym>Giant Roundworm</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Any nematode parasite that can be assigned to the species Ascaris lumbricoides.</nciodm:CDISCDefinition>
@@ -1492,6 +1496,11 @@
                     <nciodm:CDISCSynonym>Citrobacter diversus</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Citrobacter koseri.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Citrobacter koseri</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CITROBACTER WERKMANII" nciodm:ExtCodeID="C139100">
+                    <nciodm:CDISCSynonym>Citrobacter Genomospecies 7</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Citrobacter werkmanii.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Citrobacter werkmanii</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="CITROBACTER YOUNGAE" nciodm:ExtCodeID="C86268">
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Citrobacter youngae.</nciodm:CDISCDefinition>
@@ -2449,6 +2458,7 @@
                     <nciodm:PreferredTerm>Escherichia coli strain O26</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="ESCHERICHIA COLI, ESBL" nciodm:ExtCodeID="C122305">
+                    <nciodm:CDISCSynonym>Escherichia coli, Extended-spectrum Beta-lactamases</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Escherichia coli and produces extended-spectrum beta-lactamases (ESBL).</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Escherichia coli, Extended-spectrum Beta-lactamase Positive</nciodm:PreferredTerm>
                 </EnumeratedItem>
@@ -3383,6 +3393,11 @@
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Klebsiella oxytoca.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Klebsiella oxytoca</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="KLEBSIELLA OXYTOCA, ESBL" nciodm:ExtCodeID="C139102">
+                    <nciodm:CDISCSynonym>Klebsiella oxytoca, Extended-Spectrum Beta-Lactamases</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Klebsiella oxytoca and produces extended-spectrum beta-lactamases (ESBL).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Extended-spectrum Beta-lactamase Positive Klebsiella oxytoca</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="KLEBSIELLA OZAENAE" nciodm:ExtCodeID="C86456">
                     <nciodm:CDISCSynonym>Klebsiella pneumoniae subsp. ozaenae</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Klebsiella ozaenae.</nciodm:CDISCDefinition>
@@ -3391,6 +3406,11 @@
                 <EnumeratedItem CodedValue="KLEBSIELLA PNEUMONIAE" nciodm:ExtCodeID="C86457">
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Klebsiella pneumoniae.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Klebsiella pneumoniae</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="KLEBSIELLA PNEUMONIAE, ESBL" nciodm:ExtCodeID="C139101">
+                    <nciodm:CDISCSynonym>Klebsiella pneumoniae, Extended-Spectrum Beta-Lactamases</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Klebsiella pneumoniae and produces extended-spectrum beta-lactamases (ESBL).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Extended-spectrum Beta-lactamase Positive Klebsiella pneumoniae</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="KLEBSIELLA RHINOSCLEROMATIS" nciodm:ExtCodeID="C86458">
                     <nciodm:CDISCSynonym>Klebsiella pneumoniae subsp. rhinoscleromatis</nciodm:CDISCSynonym>
@@ -5077,6 +5097,19 @@
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Pseudomonas aeruginosa.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Pseudomonas aeruginosa</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="PSEUDOMONAS AERUGINOSA, MUCOID" nciodm:ExtCodeID="C139104">
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Pseudomonas aeruginosa and the mucoid strain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Mucoid Pseudomonas aeruginosa</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PSEUDOMONAS AERUGINOSA, NON-MUCOID" nciodm:ExtCodeID="C139103">
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Pseudomonas aeruginosa and the non-mucoid strain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Non-Mucoid Pseudomonas aeruginosa</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PSEUDOMONAS AERUGINOSA, SMALL-COLONY VARIANT" nciodm:ExtCodeID="C139105">
+                    <nciodm:CDISCSynonym>Pseudomonas aeruginosa SCV</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Pseudomonas aeruginosa and the small-colony variant strain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Small-Colony Variant Pseudomonas aeruginosa</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="PSEUDOMONAS ALCALIGENES" nciodm:ExtCodeID="C86697">
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Pseudomonas alcaligenes.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Pseudomonas alcaligenes</nciodm:PreferredTerm>
@@ -5708,7 +5741,7 @@
                 <EnumeratedItem CodedValue="SIMPLEXVIRUS" nciodm:ExtCodeID="C112419">
                     <nciodm:CDISCSynonym>Human Herpes Simplex Virus</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Any viral organism that can be assigned to the genus Simplexvirus.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Simplexvirus</nciodm:PreferredTerm>
+                    <nciodm:PreferredTerm>Herpes Simplex Virus</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="SLACKIA EXIGUA" nciodm:ExtCodeID="C111313">
                     <nciodm:CDISCSynonym>Eubacterium exiguum</nciodm:CDISCSynonym>

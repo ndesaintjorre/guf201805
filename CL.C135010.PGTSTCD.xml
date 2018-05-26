@@ -2,6 +2,11 @@
                 <Description>
                     <TranslatedText xml:lang="en">A terminology codelist to describe the test name/code for omics data methods and supporting information.</TranslatedText>
                 </Description>
+                <EnumeratedItem CodedValue="GENBNKID" nciodm:ExtCodeID="C43685">
+                    <nciodm:CDISCSynonym>GenBank ID</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The accession number for a gene within the GenBank database.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>GenBank Accession Number</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="GSRSEQ" nciodm:ExtCodeID="C135485">
                     <nciodm:CDISCSynonym>Genetic Sub-Region Sequence</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The sequence of nucleotide residues along a genetic sub-region of interest. (NCI)</nciodm:CDISCDefinition>

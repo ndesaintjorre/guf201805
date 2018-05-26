@@ -2,6 +2,11 @@
                 <Description>
                     <TranslatedText xml:lang="en">A terminology codelist to describe the test name/code for omics data methods and supporting information.</TranslatedText>
                 </Description>
+                <EnumeratedItem CodedValue="GenBank ID" nciodm:ExtCodeID="C43685">
+                    <nciodm:CDISCSynonym>GenBank ID</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The accession number for a gene within the GenBank database.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>GenBank Accession Number</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="Genetic Sequence Length" nciodm:ExtCodeID="C135487">
                     <nciodm:CDISCSynonym>Genetic Sequence Length</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The number of nucleotides that make up a genetic sequence of interest.</nciodm:CDISCDefinition>

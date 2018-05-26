@@ -2,25 +2,46 @@
                 <Description>
                     <TranslatedText xml:lang="en">A terminology codelist relevant to the responses for the planned purpose of the therapy, device, or agent under study in the clinical trial.</TranslatedText>
                 </Description>
+                <EnumeratedItem CodedValue="BASIC SCIENCE" nciodm:ExtCodeID="C15714">
+                    <nciodm:CDISCDefinition>A type of study designed to examine the basic mechanism of action (e.g., physiology, biomechanics) of an intervention. (ClinicalTrials.gov)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Basic Research</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="CURE" nciodm:ExtCodeID="C49654">
-                    <nciodm:CDISCDefinition>A type of study protocol designed to evaluate intervention(s) aimed to cure a disease or condition. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A type of study designed to evaluate intervention(s) aimed to cure a disease or condition.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Cure Study</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="DEVICE FEASIBILITY" nciodm:ExtCodeID="C139174">
+                    <nciodm:CDISCDefinition>An intervention of a device product is being evaluated to determine the feasibility of the product or to test a prototype device and not health outcomes. Such studies are conducted to confirm the design and operating specifications of a device before beginning a full clinical trial. (ClinicalTrials.gov)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Device Feasibility Study</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="DIAGNOSIS" nciodm:ExtCodeID="C49653">
-                    <nciodm:CDISCDefinition>A type of study protocol designed to evaluate intervention(s) aimed at identifying a disease or condition. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A type of study designed to evaluate intervention(s) aimed at identifying a disease or condition.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Diagnosis Study</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HEALTH SERVICES RESEARCH" nciodm:ExtCodeID="C15245">
+                    <nciodm:CDISCDefinition>A type of study designed to evaluate the delivery, processes, management, organization or financing of health care. (ClinicalTrials.gov)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Health Services Research</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="MITIGATION" nciodm:ExtCodeID="C49655">
                     <nciodm:CDISCDefinition>A type of study designed to identify actions necessary to eliminate or reduce the risk to human life or well-being as a result of a particular medication or treatment regimen. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Adverse Effect Mitigation Study</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="PREVENTION" nciodm:ExtCodeID="C49657">
+                    <nciodm:CDISCSynonym>Prophylaxis Study</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A type of study designed to identify actions necessary to permanently eliminate or reduce the long-term risk to human life as a result of a particular medication or treatment regimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Prevention Study</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="SCREENING" nciodm:ExtCodeID="C71485">
+                    <nciodm:CDISCDefinition>A type of study designed to assess or examine methods of identifying a condition (or risk factors for a condition) in people who are not yet known to have the condition (or risk factor). (Clinicaltrials.gov)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Screening Study</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUPPORTIVE CARE" nciodm:ExtCodeID="C71486">
+                    <nciodm:CDISCDefinition>A type of study designed to evaluate one or more interventions where the primary intent is to maximize comfort, minimize side effects or mitigate against a decline in the subject's health or function. In general, supportive care interventions are not intended to cure a disease. (ClinicalTrials.gov)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Supportive Care Study</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="TREATMENT" nciodm:ExtCodeID="C49656">
                     <nciodm:CDISCSynonym>Therapy Trial</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A type of study protocol designed to evaluate intervention(s) for treatment of disease, syndrome or condition.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A type of study designed to evaluate intervention(s) for treatment of disease, syndrome or condition.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Treatment Study</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <nciodm:CDISCSubmissionValue>TINDTP</nciodm:CDISCSubmissionValue>

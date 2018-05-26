@@ -1,0 +1,134 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C138255.PQL08TC" Name="Pediatric Quality of Life Neuromuscular Module Version 3 Young Child Parent Report Questionnaire Test Code" DataType="text" nciodm:ExtCodeID="C138255" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Pediatric Quality of Life Neuromuscular Module Version 3 Young Child Parent Report test code.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="PQL0801" nciodm:ExtCodeID="C138807">
+                    <nciodm:CDISCSynonym>PQL08-Hard to Breathe</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Quality of Life Neuromuscular Module Version 3 Young Child Parent Report - In the past one month, how much of a problem has this been for your child: It is hard for my child to breathe.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PedsQL Neuromuscular Module Version 3.0 Parent Report for Young Child - Hard to Breathe</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PQL0802" nciodm:ExtCodeID="C138808">
+                    <nciodm:CDISCSynonym>PQL08-Get Sick Easily</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Quality of Life Neuromuscular Module Version 3 Young Child Parent Report - In the past one month, how much of a problem has this been for your child: My child gets sick easily.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PedsQL Neuromuscular Module Version 3.0 Parent Report for Young Child - Get Sick Easily</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PQL0803" nciodm:ExtCodeID="C138809">
+                    <nciodm:CDISCSynonym>PQL08-Get Sores and/or Rashes</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Quality of Life Neuromuscular Module Version 3 Young Child Parent Report - In the past one month, how much of a problem has this been for your child: My child gets sores and/or rashes.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PedsQL Neuromuscular Module Version 3.0 Parent Report for Young Child - Get Sores and/or Rashes</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PQL0804" nciodm:ExtCodeID="C138810">
+                    <nciodm:CDISCSynonym>PQL08-Legs Hurt</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Quality of Life Neuromuscular Module Version 3 Young Child Parent Report - In the past one month, how much of a problem has this been for your child: My child's legs hurt.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PedsQL Neuromuscular Module Version 3.0 Parent Report for Young Child - Legs Hurt</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PQL0805" nciodm:ExtCodeID="C138811">
+                    <nciodm:CDISCSynonym>PQL08-Feel Tired</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Quality of Life Neuromuscular Module Version 3 Young Child Parent Report - In the past one month, how much of a problem has this been for your child: My child feels tired.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PedsQL Neuromuscular Module Version 3.0 Parent Report for Young Child - Feel Tired</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PQL0806" nciodm:ExtCodeID="C138812">
+                    <nciodm:CDISCSynonym>PQL08-Back Feels Stiff</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Quality of Life Neuromuscular Module Version 3 Young Child Parent Report - In the past one month, how much of a problem has this been for your child: My child's back feels stiff.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PedsQL Neuromuscular Module Version 3.0 Parent Report for Young Child - Back Feels Stiff</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PQL0807" nciodm:ExtCodeID="C138813">
+                    <nciodm:CDISCSynonym>PQL08-Wake Up Tired</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Quality of Life Neuromuscular Module Version 3 Young Child Parent Report - In the past one month, how much of a problem has this been for your child: My child wakes up tired.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PedsQL Neuromuscular Module Version 3.0 Parent Report for Young Child - Wake Up Tired</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PQL0808" nciodm:ExtCodeID="C138814">
+                    <nciodm:CDISCSynonym>PQL08-Hands Are Weak</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Quality of Life Neuromuscular Module Version 3 Young Child Parent Report - In the past one month, how much of a problem has this been for your child: My child's hands are weak.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PedsQL Neuromuscular Module Version 3.0 Parent Report for Young Child - Hands Are Weak</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PQL0809" nciodm:ExtCodeID="C138815">
+                    <nciodm:CDISCSynonym>PQL08-Hard to Use Bathroom</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Quality of Life Neuromuscular Module Version 3 Young Child Parent Report - In the past one month, how much of a problem has this been for your child: It is hard for my child to use the bathroom.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PedsQL Neuromuscular Module Version 3.0 Parent Report for Young Child - Hard to Use Bathroom</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PQL0810" nciodm:ExtCodeID="C138816">
+                    <nciodm:CDISCSynonym>PQL08-Hard to Gain/Lose Weight</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Quality of Life Neuromuscular Module Version 3 Young Child Parent Report - In the past one month, how much of a problem has this been for your child: It is hard for my child to gain or lose weight when he or she wants to.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PedsQL Neuromuscular Module Version 3.0 Parent Report for Young Child - Hard to Gain or Lose Weight</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PQL0811" nciodm:ExtCodeID="C138817">
+                    <nciodm:CDISCSynonym>PQL08-Hard to Use Hands</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Quality of Life Neuromuscular Module Version 3 Young Child Parent Report - In the past one month, how much of a problem has this been for your child: It is hard for my child to use his or her hands.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PedsQL Neuromuscular Module Version 3.0 Parent Report for Young Child - Hard to Use Hands</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PQL0812" nciodm:ExtCodeID="C138818">
+                    <nciodm:CDISCSynonym>PQL08-Hard to Swallow Food</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Quality of Life Neuromuscular Module Version 3 Young Child Parent Report - In the past one month, how much of a problem has this been for your child: It is hard for my child to swallow food.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PedsQL Neuromuscular Module Version 3.0 Parent Report for Young Child - Hard to Swallow Food</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PQL0813" nciodm:ExtCodeID="C138819">
+                    <nciodm:CDISCSynonym>PQL08-Long Time to Bathe/Shower</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Quality of Life Neuromuscular Module Version 3 Young Child Parent Report - In the past one month, how much of a problem has this been for your child: It takes my child a long time to bathe or shower.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PedsQL Neuromuscular Module Version 3.0 Parent Report for Young Child - Long Time to Bathe or Shower</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PQL0814" nciodm:ExtCodeID="C138820">
+                    <nciodm:CDISCSynonym>PQL08-Get Hurt Accidentally</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Quality of Life Neuromuscular Module Version 3 Young Child Parent Report - In the past one month, how much of a problem has this been for your child: My child gets hurt accidentally.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PedsQL Neuromuscular Module Version 3.0 Parent Report for Young Child - Get Hurt Accidentally</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PQL0815" nciodm:ExtCodeID="C138821">
+                    <nciodm:CDISCSynonym>PQL08-Take Long Time to Eat</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Quality of Life Neuromuscular Module Version 3 Young Child Parent Report - In the past one month, how much of a problem has this been for your child: My child takes a long time to eat.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PedsQL Neuromuscular Module Version 3.0 Parent Report for Young Child - Take Long Time to Eat</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PQL0816" nciodm:ExtCodeID="C138822">
+                    <nciodm:CDISCSynonym>PQL08-Hard to Turn During Night</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Quality of Life Neuromuscular Module Version 3 Young Child Parent Report - In the past one month, how much of a problem has this been for your child: It is hard for my child to turn him or herself during the night.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PedsQL Neuromuscular Module Version 3.0 Parent Report for Young Child - Hard to Turn During Night</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PQL0817" nciodm:ExtCodeID="C138823">
+                    <nciodm:CDISCSynonym>PQL08-Hard to Go Places With Equipment</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Quality of Life Neuromuscular Module Version 3 Young Child Parent Report - In the past one month, how much of a problem has this been for your child: It is hard for my child to go places with his or her equipment.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PedsQL Neuromuscular Module Version 3.0 Parent Report for Young Child - Hard to Go Places With Equipment</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PQL0818" nciodm:ExtCodeID="C138824">
+                    <nciodm:CDISCSynonym>PQL08-Hard Tell Doctors/Nurses How Feel</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Quality of Life Neuromuscular Module Version 3 Young Child Parent Report - In the past one month, how much of a problem has this been for your child: It is hard for my child to tell the doctors and nurses how he or she feels.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PedsQL Neuromuscular Module Version 3.0 Parent Report for Young Child - Hard Tell Doctors and Nurses How Feel</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PQL0819" nciodm:ExtCodeID="C138825">
+                    <nciodm:CDISCSynonym>PQL08-Hard Ask Doctors/Nurses Questions</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Quality of Life Neuromuscular Module Version 3 Young Child Parent Report - In the past one month, how much of a problem has this been for your child: It is hard for my child to ask the doctors and nurses questions.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PedsQL Neuromuscular Module Version 3.0 Parent Report for Young Child - Hard Ask Doctors and Nurses Questions</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PQL0820" nciodm:ExtCodeID="C138826">
+                    <nciodm:CDISCSynonym>PQL08-Hard Explain Illness to People</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Quality of Life Neuromuscular Module Version 3 Young Child Parent Report - In the past one month, how much of a problem has this been for your child: It is hard for my child to explain his or her illness to other people.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PedsQL Neuromuscular Module Version 3.0 Parent Report for Young Child - Hard Explain Illness to People</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PQL0821" nciodm:ExtCodeID="C138827">
+                    <nciodm:CDISCSynonym>PQL08-Hard for Family to Plan Activities</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Quality of Life Neuromuscular Module Version 3 Young Child Parent Report - In the past one month, how much of a problem has this been for your child: It is hard for our family to plan activities like vacations.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PedsQL Neuromuscular Module Version 3.0 Parent Report for Young Child - Hard for Family to Plan Activities</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PQL0822" nciodm:ExtCodeID="C138828">
+                    <nciodm:CDISCSynonym>PQL08-Hard for Family to Rest</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Quality of Life Neuromuscular Module Version 3 Young Child Parent Report - In the past one month, how much of a problem has this been for your child: It is hard for our family to get enough rest.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PedsQL Neuromuscular Module Version 3.0 Parent Report for Young Child - Hard for Family to Rest</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PQL0823" nciodm:ExtCodeID="C138829">
+                    <nciodm:CDISCSynonym>PQL08-Money Problem in Our Family</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Quality of Life Neuromuscular Module Version 3 Young Child Parent Report - In the past one month, how much of a problem has this been for your child: I think money is a problem in our family.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PedsQL Neuromuscular Module Version 3.0 Parent Report for Young Child - Money Problem in Our Family</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PQL0824" nciodm:ExtCodeID="C138830">
+                    <nciodm:CDISCSynonym>PQL08-Family Has Lot of Problems</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Quality of Life Neuromuscular Module Version 3 Young Child Parent Report - In the past one month, how much of a problem has this been for your child: I think our family has a lot of problems.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PedsQL Neuromuscular Module Version 3.0 Parent Report for Young Child - Family Has Lot of Problems</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PQL0825" nciodm:ExtCodeID="C138831">
+                    <nciodm:CDISCSynonym>PQL08-Do Not Have Equipment Need</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Quality of Life Neuromuscular Module Version 3 Young Child Parent Report - In the past one month, how much of a problem has this been for your child: My child does not have the equipment he or she needs.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PedsQL Neuromuscular Module Version 3.0 Parent Report for Young Child - Do Not Have Equipment Need</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>PQL08TC</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Pediatric Quality of Life Neuromuscular Module Version 3 Young Child Parent Report Questionnaire Test Code</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Questionnaire PedsQL Neuromuscular Module Version 3.0 Parent Report for Young Child Test Code Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

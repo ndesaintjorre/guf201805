@@ -7,6 +7,11 @@
                     <nciodm:CDISCDefinition>The area under the curve from T1 to T2 at steady state divided by the area under the curve from T1 to T2 during the initial dosing interval, each divided by the associated dose.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Accumulation Ratio AUC T1 to T2 Normalized by Dose</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="Accum Ratio AUC to Last Nonzero Conc" nciodm:ExtCodeID="C139129">
+                    <nciodm:CDISCSynonym>Accum Ratio AUC to Last Nonzero Conc</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The area under the curve (AUC) from the time of dosing to the last measurable concentration divided by the area under the curve from the time of dosing to the last measurable concentration during the initial dosing interval.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Accumulation Ratio AUC to Last Nonzero Concentration</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="Accum Ratio AUCTAU norm by dose" nciodm:ExtCodeID="C132435">
                     <nciodm:CDISCSynonym>Accum Ratio AUCTAU norm by dose</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The area under the curve (AUCTAU) at steady state divided by the area under the curve (AUCTAU) over the initial dosing interval, each divided by the associated dose.</nciodm:CDISCDefinition>

@@ -20,6 +20,10 @@
                     <nciodm:CDISCDefinition>The return of a disease after a period of remission.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Recurrent Disease</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAILURE TO MEET CONTINUATION CRITERIA" nciodm:ExtCodeID="C139236">
+                    <nciodm:CDISCDefinition>An indication that the subject has not been able to meet protocol-defined continuation criteria and will not continue to participate in the clinical trial.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Failure To Meet Continuation Criteria</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="FAILURE TO MEET RANDOMIZATION CRITERIA" nciodm:ExtCodeID="C105448">
                     <nciodm:CDISCDefinition>An indication that the subject has been unable to fulfill/satisfy the criteria required for assignment into a randomized group.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Failure to Meet Randomization Criteria</nciodm:PreferredTerm>
@@ -31,6 +35,14 @@
                 <EnumeratedItem CodedValue="LOST TO FOLLOW-UP" nciodm:ExtCodeID="C48227">
                     <nciodm:CDISCDefinition>The loss or lack of continuation of a subject to follow-up.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Lost To Follow-up</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NON-COMPLIANCE WITH NON-STUDY DEVICE" nciodm:ExtCodeID="C139240">
+                    <nciodm:CDISCDefinition>An indication that a subject has not followed the instructions related to a device that is not under study.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Non-Compliance With Non-Study Device</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NON-COMPLIANCE WITH STUDY DEVICE" nciodm:ExtCodeID="C139241">
+                    <nciodm:CDISCDefinition>An indication that a subject has not followed the instructions related to a device under study.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Non-Compliance With Study Device</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="NON-COMPLIANCE WITH STUDY DRUG" nciodm:ExtCodeID="C49631">
                     <nciodm:CDISCDefinition>An indication that a subject has not agreed with or followed the instructions related to the study medication. (NCI)</nciodm:CDISCDefinition>
@@ -58,6 +70,18 @@
                 <EnumeratedItem CodedValue="PROTOCOL DEVIATION" nciodm:ExtCodeID="C48251">
                     <nciodm:CDISCDefinition>An event or decision that stands in contrast to the guidelines set out by the protocol. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Protocol Violation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="RANDOMIZED BY MISTAKE" nciodm:ExtCodeID="C139237">
+                    <nciodm:CDISCDefinition>An indication that the subject was randomized but should not have been.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Randomized By Mistake</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="RANDOMIZED BY MISTAKE WITH STUDY TREATMENT" nciodm:ExtCodeID="C139238">
+                    <nciodm:CDISCDefinition>An indication that the subject was randomized but should not have been and study treatment was received in error.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Randomized By Mistake With Study Treatment</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="RANDOMIZED BY MISTAKE WITHOUT STUDY TREATMENT" nciodm:ExtCodeID="C139239">
+                    <nciodm:CDISCDefinition>An indication that the subject was randomized but should not have been however no study treatment was received.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Randomized By Mistake Without Study Treatment</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="RECOVERY" nciodm:ExtCodeID="C25746">
                     <nciodm:CDISCDefinition>A healing process and/or an outcome implying relative health. The term is typically used in the context of direct and indirect effects of sickness or injury. (NCI)</nciodm:CDISCDefinition>

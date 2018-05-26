@@ -27,6 +27,11 @@
                     <nciodm:CDISCDefinition>The area under the curve from T1 to T2 at steady state divided by the area under the curve from T1 to T2 during the initial dosing interval.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Accumulation Ratio Area Under the Curve from T1 to T2</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="ARAUCLST" nciodm:ExtCodeID="C139129">
+                    <nciodm:CDISCSynonym>Accum Ratio AUC to Last Nonzero Conc</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The area under the curve (AUC) from the time of dosing to the last measurable concentration divided by the area under the curve from the time of dosing to the last measurable concentration during the initial dosing interval.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Accumulation Ratio AUC to Last Nonzero Concentration</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="ARCMAX" nciodm:ExtCodeID="C102357">
                     <nciodm:CDISCSynonym>Accumulation Ratio Cmax</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The maximum concentration at steady state divided by the maximum concentration during the initial dosing interval.</nciodm:CDISCDefinition>

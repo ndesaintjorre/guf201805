@@ -1,0 +1,44 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C138213.HSB01TC" Name="HAS-BLED Bleeding Risk Score Clinical Classification Test Code" DataType="text" nciodm:ExtCodeID="C138213" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">HAS-BLED Bleeding Risk Score test code.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="HSB0101" nciodm:ExtCodeID="C138357">
+                    <nciodm:CDISCSynonym>HSB01-Hypertension</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>HAS-BLED Bleeding Risk Score - Hypertension.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAS-BLED - Hypertension</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HSB0102" nciodm:ExtCodeID="C138358">
+                    <nciodm:CDISCSynonym>HSB01-Abnormal Renal and Liver Function</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>HAS-BLED Bleeding Risk Score - Abnormal renal and liver function.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAS-BLED - Abnormal Renal and Liver Function</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HSB0103" nciodm:ExtCodeID="C138359">
+                    <nciodm:CDISCSynonym>HSB01-Stroke</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>HAS-BLED Bleeding Risk Score - Stroke.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAS-BLED - Stroke</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HSB0104" nciodm:ExtCodeID="C138360">
+                    <nciodm:CDISCSynonym>HSB01-Bleeding</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>HAS-BLED Bleeding Risk Score - Bleeding.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAS-BLED - Bleeding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HSB0105" nciodm:ExtCodeID="C138361">
+                    <nciodm:CDISCSynonym>HSB01-Labile INRs</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>HAS-BLED Bleeding Risk Score - Labile INRs.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAS-BLED - Labile INRs</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HSB0106" nciodm:ExtCodeID="C138362">
+                    <nciodm:CDISCSynonym>HSB01-Elderly</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>HAS-BLED Bleeding Risk Score - Elderly.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAS-BLED - Elderly</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HSB0107" nciodm:ExtCodeID="C138363">
+                    <nciodm:CDISCSynonym>HSB01-Drugs or Alcohol</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>HAS-BLED Bleeding Risk Score - Drugs or alcohol.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAS-BLED - Drugs or Alcohol</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>HSB01TC</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>HAS-BLED Bleeding Risk Score Clinical Classification Test Code</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Clinical Classification HAS-BLED Test Code Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

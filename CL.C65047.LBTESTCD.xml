@@ -257,10 +257,20 @@
                     <nciodm:CDISCDefinition>A measurement of the intestinal specific alkaline phosphatase isoform in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Intestinal Specific Alkaline Phosphatase Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="ALPISOE" nciodm:ExtCodeID="C139091">
+                    <nciodm:CDISCSynonym>Alkaline Phosphatase Isoenzyme</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the alkaline phosphatase isoenzyme in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Alkaline Phosphatase Isoenzyme Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="ALPLS" nciodm:ExtCodeID="C119267">
                     <nciodm:CDISCSynonym>Liver Specific Alkaline Phosphatase</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the liver specific alkaline phosphatase isoform in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Liver Specific Alkaline Phosphatase Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ALPRZLM" nciodm:ExtCodeID="C75370">
+                    <nciodm:CDISCSynonym>Alprazolam</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the alprazolam present in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Alprazolam Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="ALT" nciodm:ExtCodeID="C64433">
                     <nciodm:CDISCSynonym>Alanine Aminotransferase</nciodm:CDISCSynonym>
@@ -461,6 +471,13 @@
                     <nciodm:CDISCSynonym>Atriopeptin</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the atrial natriuretic peptide in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Atrial Natriuretic Peptide Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ANPPRONT" nciodm:ExtCodeID="C139088">
+                    <nciodm:CDISCSynonym>N-Terminal ProA-type Natriuretic Peptide</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>N-terminal pro-Atrial Natriuretic Peptide</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>NT proANP II</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the N-terminal proA-type natriuretic peptide in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>N-Terminal ProA-type Natriuretic Peptide Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="ANTHRM" nciodm:ExtCodeID="C81958">
                     <nciodm:CDISCSynonym>Antithrombin</nciodm:CDISCSynonym>
@@ -1664,6 +1681,12 @@
                     <nciodm:CDISCDefinition>A measurement of any synthetic cannabinoid class drug present in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Synthetic Cannabinoid Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="CAPHOS" nciodm:ExtCodeID="C139087">
+                    <nciodm:CDISCSynonym>Calcium/Phosphate</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Calcium/Phosphorus</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A relative measurement (ratio) of the calcium to phosphorus in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Calcium to Phosphorus Ratio Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="CAPHOSPD" nciodm:ExtCodeID="C103360">
                     <nciodm:CDISCSynonym>Calcium - Phosphorus Product</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the product of the calcium and phosphate measurements in a biological specimen.</nciodm:CDISCDefinition>
@@ -2023,6 +2046,36 @@
                     <nciodm:CDISCDefinition>A measurement of the complement required to lyse 50 percent of red blood cells in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>CH50 Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="CHCM" nciodm:ExtCodeID="C139067">
+                    <nciodm:CDISCSynonym>Corpuscular HGB Concentration Mean</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A direct measurement of the concentration of hemoglobin within individual erythrocytes in a biological specimen, reported as a mean.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Corpuscular Hemoglobin Concentration Mean</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CHCMR" nciodm:ExtCodeID="C138970">
+                    <nciodm:CDISCSynonym>Ret. Corpuscular HGB Concentration Mean</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Reticulocyte Corpuscular Hemoglobin Concentration Mean</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>null</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Reticulocyte Corpuscular Hemoglobin Concentration Mean</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CHCNT" nciodm:ExtCodeID="C139066">
+                    <nciodm:CDISCSynonym>CH</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Cellular Hemoglobin Content</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Corpuscular Hemoglobin Content</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the mean erythrocyte hemoglobin content within an individual erythrocyte, calculated as the product of cell volume and cell hemoglobin concentration.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Corpuscular Hemoglobin Content</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CHDW" nciodm:ExtCodeID="C139068">
+                    <nciodm:CDISCSynonym>Corpuscular HGB Conc Distribution Width</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Corpuscular Hemoglobin Concentration Distribution Width</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the standard deviation of hemoglobin concentrations in erythrocytes in a biological specimen, calculated as the standard deviation of hemoglobin content divided by the mean hemoglobin content.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Corpuscular Hemoglobin Concentration Distribution Width</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CHDWR" nciodm:ExtCodeID="C139069">
+                    <nciodm:CDISCSynonym>Ret Corpuscular HGB Conc Distr Width</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Reticulocyte Corpuscular Hemoglobin Distribution Width</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the standard deviation of hemoglobin concentrations in reticulocytes in a biological specimen, calculated as the standard deviation of hemoglobin content divided by the mean hemoglobin content.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Reticulocyte Corpuscular Hemoglobin Distribution Width</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="CHKAB" nciodm:ExtCodeID="C135404">
                     <nciodm:CDISCSynonym>Chikungunya Virus Antibody</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the antibody reaction of a biological specimen to the Chikungunya virus.</nciodm:CDISCDefinition>
@@ -2152,10 +2205,30 @@
                     <nciodm:CDISCDefinition>A measurement of the amount of chloride being excreted in urine over a defined period of time (e.g. one hour).</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Chloride Urine Excretion Rate</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="CLNZPM" nciodm:ExtCodeID="C139082">
+                    <nciodm:CDISCSynonym>Clonazepam</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the clonazepam present in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Clonazepam Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CLRDZPXD" nciodm:ExtCodeID="C75371">
+                    <nciodm:CDISCSynonym>Chlordiazepoxide</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the chlordiazepoxide present in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Chlordiazepoxide Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CLRZPT" nciodm:ExtCodeID="C139077">
+                    <nciodm:CDISCSynonym>Clorazepate</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the clorazepate present in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Clorazepate Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="CLUECE" nciodm:ExtCodeID="C102261">
                     <nciodm:CDISCSynonym>Clue Cells</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the clue cells in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Clue Cell Count</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CMONOX" nciodm:ExtCodeID="C139084">
+                    <nciodm:CDISCSynonym>Carbon Monoxide</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the carbon monoxide in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Carbon Monoxide Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="CMVIGGAB" nciodm:ExtCodeID="C96596">
                     <nciodm:CDISCSynonym>Cytomegalovirus IgG Antibody</nciodm:CDISCSynonym>
@@ -2802,6 +2875,11 @@
                     <nciodm:CDISCDefinition>A measurement of the volume of serum or plasma that would be cleared of Diethylenetriamine pentaacetate (DTPA) by excretion of urine for a specified unit of time (e.g. one minute).</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Diethylene Triamine Pentaacetic Acid Clearance</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="DZPM" nciodm:ExtCodeID="C75372">
+                    <nciodm:CDISCSynonym>Diazepam</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the diazepam present in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Diazepam Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="EBCIGGAB" nciodm:ExtCodeID="C96600">
                     <nciodm:CDISCSynonym>Epstein-Barr Capsid IgG Antibody</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the Epstein-Barr capsid IgG antibody in a biological specimen.</nciodm:CDISCDefinition>
@@ -3425,13 +3503,29 @@
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="FIBRINO" nciodm:ExtCodeID="C64606">
                     <nciodm:CDISCSynonym>Fibrinogen</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A measurement of the fibrinogen in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCSynonym>Fibrinogen Antigen</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the total fibrinogen (functional and non-functional) in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Fibrinogen Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FIBRINOF" nciodm:ExtCodeID="C139075">
+                    <nciodm:CDISCSynonym>Fibrinogen, Functional</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the functional fibrinogen (fibrinogen that is capable of being converted to fibrin) in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Functional Fibrinogen Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="FLAGEL" nciodm:ExtCodeID="C135421">
                     <nciodm:CDISCSynonym>Flagellates</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the flagellates (protozoans that possess flagella) in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Flagellates Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FLNTRZPM" nciodm:ExtCodeID="C139081">
+                    <nciodm:CDISCSynonym>Flunitrazepam</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the flunitrazepam present in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Flunitrazepam Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FLRZPM" nciodm:ExtCodeID="C75373">
+                    <nciodm:CDISCSynonym>Flurazepam</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the flurazepam present in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Flurazepam Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="FLUORIDE" nciodm:ExtCodeID="C122120">
                     <nciodm:CDISCSynonym>Fluoride</nciodm:CDISCSynonym>
@@ -3458,6 +3552,11 @@
                     <nciodm:CDISCSynonym>Glucose-6-Phosphate Dehydrogenase</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the glucose-6-phosphate dehydrogenase in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Glucose-6-Phosphate Dehydrogenase Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="G6PDA" nciodm:ExtCodeID="C139065">
+                    <nciodm:CDISCSynonym>Glucose-6-Phosphate Dehydrogenase Act</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the biological activity of glucose-6-phosphate dehydrogenase in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Glucose-6-Phosphate Dehydrogenase Activity</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="G6PDRBC" nciodm:ExtCodeID="C132368">
                     <nciodm:CDISCSynonym>G6PD-Deficient Erythrocytes</nciodm:CDISCSynonym>
@@ -3990,6 +4089,11 @@
                     <nciodm:CDISCDefinition>The percentage of a whole blood specimen that is composed of red blood cells (erythrocytes).</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Hematocrit Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="HCVSHCVC" nciodm:ExtCodeID="C139086">
+                    <nciodm:CDISCSynonym>HCV Antibody Signal/HCV Antibody Cutoff</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A relative measurement (ratio) of the Hepatitis C virus antibody signal in a biological specimen to Hepatitis C virus positive internal control.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HCV Antibody Signal to HCV Antibody Cutoff Ratio Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="HDAB" nciodm:ExtCodeID="C96664">
                     <nciodm:CDISCSynonym>Hepatitis D Virus Antibody</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Hepatitis Delta Antibody</nciodm:CDISCSynonym>
@@ -4036,6 +4140,12 @@
                     <nciodm:CDISCSynonym>Hemoglobin Distribution Width</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the distribution of the hemoglobin concentration in red blood cells.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Hemoglobin Distribution Width Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HDWR" nciodm:ExtCodeID="C139070">
+                    <nciodm:CDISCSynonym>Ret Hemoglobin Distribution Width</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Reticulocyte Hemoglobin Concentration Distribution Width</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the distribution of the hemoglobin concentration in reticulocytes.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Reticulocyte Hemoglobin Distribution Width</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="HEAB" nciodm:ExtCodeID="C119283">
                     <nciodm:CDISCSynonym>Hepatitis E Virus Antibody</nciodm:CDISCSynonym>
@@ -4221,6 +4331,11 @@
                     <nciodm:CDISCDefinition>A measurement of the antibody reaction of a biological specimen to either the HIV-1 or HIV-2 virus.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>HIV-1 HIV-2 Antibody Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="HIV12P24" nciodm:ExtCodeID="C139085">
+                    <nciodm:CDISCSynonym>HIV-1/2 Antibody + HIV-1 p24 Antigen</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the antibody reaction of a biological specimen to either the HIV-1 or HIV-2 virus and the measurement of HIV-1 p24 antigen in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HIV-1/2 Antibody and HIV-1 p24 Antigen Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="HIV1AB" nciodm:ExtCodeID="C74713">
                     <nciodm:CDISCSynonym>HIV-1 Antibody</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the antibody reaction of a biological specimen to the HIV-1 virus.</nciodm:CDISCDefinition>
@@ -4336,6 +4451,11 @@
                     <nciodm:CDISCSynonym>HLA Mismatch Count</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement to determine the number of mismatches between the recipient and the donor for the human leukocyte antigens (HLA).</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>HLA Mismatch Count</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HLZPM" nciodm:ExtCodeID="C139078">
+                    <nciodm:CDISCSynonym>Halazepam</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the halazepam present in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Halazepam Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="HMOSIDRN" nciodm:ExtCodeID="C96659">
                     <nciodm:CDISCSynonym>Hemosiderin</nciodm:CDISCSynonym>
@@ -5376,6 +5496,11 @@
                     <nciodm:CDISCDefinition>A measurement of the lipoprotein associated phospholipase A2 in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Lipoprotein Associated Phospholipase A2 Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="LRZPM" nciodm:ExtCodeID="C75374">
+                    <nciodm:CDISCSynonym>Lorazepam</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the lorazepam present in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Lorazepam Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="LSD" nciodm:ExtCodeID="C75354">
                     <nciodm:CDISCSynonym>Acid</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Lysergic Acid Diethylamide</nciodm:CDISCSynonym>
@@ -5470,6 +5595,11 @@
                     <nciodm:CDISCDefinition>A relative measurement (ratio or percentage) of the lymphocytes to non-squamous epithelial cells in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Lymphocytes to Non-Squamous Epithelial Cells Ratio Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="LYMPHOID" nciodm:ExtCodeID="C139064">
+                    <nciodm:CDISCSynonym>Lymphoid Cells</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the total lymphoid lineage cells in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Lymphoid Cell Count</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="LYMPHOTC" nciodm:ExtCodeID="C81955">
                     <nciodm:CDISCSynonym>Chemokine Ligand 1</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Lymphotactin</nciodm:CDISCSynonym>
@@ -5545,12 +5675,12 @@
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="MCH" nciodm:ExtCodeID="C64797">
                     <nciodm:CDISCSynonym>Ery. Mean Corpuscular Hemoglobin</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A measurement of the mean amount of hemoglobin per erythrocyte in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A measurement of the mean amount of hemoglobin per erythrocyte in a biological specimen, calculated as the product of hemoglobin times ten, divided by the number of erythrocytes.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Erythrocyte Mean Corpuscular Hemoglobin</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="MCHC" nciodm:ExtCodeID="C64798">
                     <nciodm:CDISCSynonym>Ery. Mean Corpuscular HGB Concentration</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A measurement of the mean amount of hemoglobin per erythrocytes in a specified volume of a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>An indirect measurement of the average concentration of hemoglobin per erythrocyte in a biological specimen, calculated as the ratio of hemoglobin to hematocrit.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Erythrocyte Mean Corpuscular Hemoglobin Concentration</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="MCP1" nciodm:ExtCodeID="C82025">
@@ -5615,6 +5745,16 @@
                     <nciodm:CDISCSynonym>Ecstasy</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the 3,4-methylenedioxymethamphetamine (MDMA) in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>3,4-Methylenedioxymethamphetamine Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MDZLM" nciodm:ExtCodeID="C139083">
+                    <nciodm:CDISCSynonym>Midazolam</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the midazolam present in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Midazolam Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MDZPM" nciodm:ExtCodeID="C139079">
+                    <nciodm:CDISCSynonym>Medazepam</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the medazepam present in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Medazepam Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="MENGL" nciodm:ExtCodeID="C111250">
                     <nciodm:CDISCSynonym>Meningeal Cells</nciodm:CDISCSynonym>
@@ -6078,6 +6218,7 @@
                     <nciodm:PreferredTerm>Neopterin Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="NEUT" nciodm:ExtCodeID="C63321">
+                    <nciodm:CDISCSynonym>ANC</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Neutrophils</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the neutrophils in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Absolute Neutrophil Count</nciodm:PreferredTerm>
@@ -6246,6 +6387,12 @@
                     <nciodm:CDISCDefinition>A measurement of the neuropeptide Y in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Neuropeptide Y Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="NRDZPM" nciodm:ExtCodeID="C139076">
+                    <nciodm:CDISCSynonym>Nordazepam</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Nordiazepam</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the nordazepam present in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Nordazepam Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="NSE" nciodm:ExtCodeID="C116205">
                     <nciodm:CDISCSynonym>Enolase 2</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Gamma-enolase</nciodm:CDISCSynonym>
@@ -6374,6 +6521,11 @@
                     <nciodm:CDISCSynonym>Oxytoxin</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the oxytocin hormone in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Oxytocin Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="OXZPM" nciodm:ExtCodeID="C75375">
+                    <nciodm:CDISCSynonym>Oxazepam</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the oxazepam present in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Oxazepam Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="P1NP" nciodm:ExtCodeID="C96625">
                     <nciodm:CDISCSynonym>Amino-terminal propeptide of type 1 procollagen</nciodm:CDISCSynonym>
@@ -6996,6 +7148,11 @@
                     <nciodm:CDISCDefinition>A measurement of the proteinase 3 antibody in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Proteinase 3 Antibody Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="PRZPM" nciodm:ExtCodeID="C139080">
+                    <nciodm:CDISCSynonym>Prazepam</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the prazepam present in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Prazepam Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="PSA" nciodm:ExtCodeID="C17634">
                     <nciodm:CDISCSynonym>Prostate Specific Antigen</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the total prostate specific antigen in a biological specimen.</nciodm:CDISCDefinition>
@@ -7220,6 +7377,36 @@
                     <nciodm:CDISCDefinition>A relative measurement (ratio or percentage) of the standard deviation of the red blood cell volume to the mean distribution of the red blood cell volume in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Erythrocyte Distribution Width Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="RDWR" nciodm:ExtCodeID="C139074">
+                    <nciodm:CDISCSynonym>RDWr</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Ret Volume Distribution Width</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Reticulocyte Volume Distribution Width</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A relative measurement (ratio or percentage) of the standard deviation of the reticulocyte volume to the mean distribution of the reticulocyte volume in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Reticulocyte Volume Distribution Width</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="RDWRCV" nciodm:ExtCodeID="C139072">
+                    <nciodm:CDISCSynonym>RDWr-CV</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Red Cell Volume Distribution Width Coefficient of Variation in Reticulocytes</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Ret RDW Coefficient of Variation</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Reticulocyte Volume Distribution Width Coefficient of Variation</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the volume dispersion within a reticulocyte population, calculated as the standard deviation of the mean reticulocyte volume divided by the mean reticulocyte volume, multiplied by 100 to convert to a percentage.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Reticulocyte Volume Distribution Width Coefficient of Variation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="RDWRSD" nciodm:ExtCodeID="C139073">
+                    <nciodm:CDISCSynonym>RDWr-SD</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Red Cell Volume Distribution Width Standard Deviation in Reticulocytes</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Ret RDW Standard Deviation</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Reticulocyte Volume Distribution Width Standard Deviation</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the volume dispersion within a reticulocyte population, calculated as the width of the distribution curve at the 20 percent frequency level.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Reticulocyte Volume Distribution Width Standard Deviation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="RDWSD" nciodm:ExtCodeID="C139071">
+                    <nciodm:CDISCSynonym>RDW Standard Deviation</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>RDW-SD</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Red Cell Volume Distribution Width Standard Deviation</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the volume dispersion within an erythrocyte population, calculated as the width of the distribution curve at the 20 percent frequency level.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Red Cell Volume Distribution Width Standard Deviation</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="RENIN" nciodm:ExtCodeID="C74893">
                     <nciodm:CDISCSynonym>Active Renin</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Angiotensinogenase</nciodm:CDISCSynonym>
@@ -7247,11 +7434,6 @@
                     <nciodm:CDISCSynonym>Reticulocytes</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the reticulocytes in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Reticulocyte Count</nciodm:PreferredTerm>
-                </EnumeratedItem>
-                <EnumeratedItem CodedValue="RETICDW" nciodm:ExtCodeID="C114218">
-                    <nciodm:CDISCSynonym>Reticulocyte Distribution Width</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A measurement of the range of reticulocyte sizes in a biological specimen.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Reticulocyte Distribution Width</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="RETICH" nciodm:ExtCodeID="C98776">
                     <nciodm:CDISCSynonym>CHr</nciodm:CDISCSynonym>
@@ -7289,12 +7471,6 @@
                     <nciodm:CDISCSynonym>Medium Absorption Reticulocytes</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the medium absorption reticulocytes in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Medium Absorption Reticulocyte Measurement</nciodm:PreferredTerm>
-                </EnumeratedItem>
-                <EnumeratedItem CodedValue="RETIMCH" nciodm:ExtCodeID="C117855">
-                    <nciodm:CDISCSynonym>CHCMr</nciodm:CDISCSynonym>
-                    <nciodm:CDISCSynonym>Ret. Mean Corpuscular Hemoglobin</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A measurement of the mean amount of hemoglobin per reticulocyte in a biological specimen.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Reticulocyte Mean Corpuscular Hemoglobin Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="RETIMRTC" nciodm:ExtCodeID="C116193">
                     <nciodm:CDISCSynonym>Medium Absorption Retic/Reticulocytes</nciodm:CDISCSynonym>
@@ -7811,6 +7987,16 @@
                     <nciodm:CDISCDefinition>A measurement of the thyroglobulin in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Thyroglobulin Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="TGNIGGAB" nciodm:ExtCodeID="C139089">
+                    <nciodm:CDISCSynonym>Toxoplasma gondii IgG Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Toxoplasma gondii IgG antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Toxoplasma gondii IgG Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TGNIGMAB" nciodm:ExtCodeID="C139090">
+                    <nciodm:CDISCSynonym>Toxoplasma gondii IgM Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Toxoplasma gondii IgM antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Toxoplasma gondii IgM Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="THBD" nciodm:ExtCodeID="C135444">
                     <nciodm:CDISCSynonym>BDCA3</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Thrombomodulin</nciodm:CDISCSynonym>
@@ -7906,6 +8092,11 @@
                     <nciodm:CDISCSynonym>T-lymphocyte Crossmatch</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement to determine human leukocyte antigens (HLA) histocompatibility between the recipient and the donor by examining the presence or absence of the recipient's anti-HLA antibody reactivity towards HLA antigens expressed on the donor T-lymphocytes.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>T-lymphocyte Crossmatch Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TMZPM" nciodm:ExtCodeID="C75376">
+                    <nciodm:CDISCSynonym>Temazepam</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the temazepam present in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Temazepam Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="TNF" nciodm:ExtCodeID="C74751">
                     <nciodm:CDISCSynonym>Tumor Necrosis Factor</nciodm:CDISCSynonym>

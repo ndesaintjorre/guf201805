@@ -92,6 +92,11 @@
                     <nciodm:CDISCDefinition>The integer that describes the number of letters correctly identified by the subject during an eye chart assessment.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Number of Correct Eye Chart Letters</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="NUMLINRD" nciodm:ExtCodeID="C139242">
+                    <nciodm:CDISCSynonym>Number of Lines Read</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The integer that describes the number of lines read by the subject during an eye chart assessment.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Number of Eye Chart Lines Read</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="REACTIV" nciodm:ExtCodeID="C25637">
                     <nciodm:CDISCSynonym>Reactivity</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A description of the action in response to some kind of stimulus.</nciodm:CDISCDefinition>

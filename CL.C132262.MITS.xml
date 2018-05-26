@@ -27,6 +27,12 @@
                     <nciodm:CDISCDefinition>A measurement of the beta-defensin 2 in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Beta-defensin 2 Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="Bradykinin Receptor B1" nciodm:ExtCodeID="C139099">
+                    <nciodm:CDISCSynonym>BK-1 Receptor</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Bradykinin Receptor B1</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the bradykinin receptor B1 in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Bradykinin Receptor B1 Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="Breast Cancer Type 1 Susceptibility Prot" nciodm:ExtCodeID="C123555">
                     <nciodm:CDISCSynonym>Breast Cancer Type 1 Susceptibility Prot</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of BRCA1 protein in a biological specimen.</nciodm:CDISCDefinition>
@@ -36,6 +42,11 @@
                     <nciodm:CDISCSynonym>Cancer Cellularity</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A relative measurement (ratio or percentage) of the neoplastic cells to total cells in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Cancer Cellularity Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CDX2 Antigen" nciodm:ExtCodeID="C139098">
+                    <nciodm:CDISCSynonym>CDX2 Antigen</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the CDX2 antigen in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDX2 Antigen Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Cellular Differentiation" nciodm:ExtCodeID="C132430">
                     <nciodm:CDISCSynonym>Cellular Differentiation</nciodm:CDISCSynonym>
@@ -122,6 +133,11 @@
                     <nciodm:CDISCDefinition>An assessment by microscope (e.g., light, electron, confocal, etc.).</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Microscopic Examination</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="Mismatch Repair Proteins Interpretation" nciodm:ExtCodeID="C139093">
+                    <nciodm:CDISCSynonym>Mismatch Repair Proteins Interpretation</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The determination of the meaning of protein expression assessments across multiple mismatch repair proteins.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Mismatch Repair Proteins Interpretation</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="Mitotic Figure" nciodm:ExtCodeID="C135470">
                     <nciodm:CDISCSynonym>Mitotic Figure</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the cells containing mitotic figures in a biological specimen.</nciodm:CDISCDefinition>
@@ -131,6 +147,21 @@
                     <nciodm:CDISCSynonym>Mononuc Cell Interstitial Inflammation</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>An evaluation of mononuclear cell interstitial inflammation in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Mononuclear Cell Interstitial Inflammation Assessment</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MutL Homolog 1" nciodm:ExtCodeID="C139094">
+                    <nciodm:CDISCSynonym>MutL Homolog 1</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the MLH1 mismatch repair protein in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MutL Homolog 1 Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MutS Homolog 2" nciodm:ExtCodeID="C139095">
+                    <nciodm:CDISCSynonym>MutS Homolog 2</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the MSH2 mismatch repair protein in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MutS Homolog 2 Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MutS Homolog 6" nciodm:ExtCodeID="C139096">
+                    <nciodm:CDISCSynonym>MutS Homolog 6</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the MSH6 mismatch repair protein in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MutS Homolog 6 Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="NK2 Homeobox 1" nciodm:ExtCodeID="C123558">
                     <nciodm:CDISCSynonym>NK2 Homeobox 1</nciodm:CDISCSynonym>
@@ -144,6 +175,11 @@
                     <nciodm:CDISCSynonym>Normal Cells/Total Cells</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A relative measurement (ratio or percentage) of the normal cells to total cells in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Normal Cell to Total Cell Ratio Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Number of Malignant Biopsy Cores" nciodm:ExtCodeID="C139092">
+                    <nciodm:CDISCSynonym>Number of Malignant Biopsy Cores</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the total number of core biopsies that contain malignant tissue. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Number of Malignant Biopsy Cores</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Percentage of In situ Carcinoma" nciodm:ExtCodeID="C123559">
                     <nciodm:CDISCSynonym>Percentage of In situ Carcinoma</nciodm:CDISCSynonym>
@@ -166,6 +202,11 @@
                     <nciodm:CDISCSynonym>Platelet Endo Cell Adhesion Molecule 1</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the platelet and endothelial cell adhesion molecule 1 in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Platelet Endothelial Cell Adhesion Molecule 1 Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PMS1 Homolog 2" nciodm:ExtCodeID="C139097">
+                    <nciodm:CDISCSynonym>PMS1 Homolog 2</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the PMS2 mismatch repair protein in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PMS1 Homolog 2 Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Progesterone Receptor" nciodm:ExtCodeID="C117846">
                     <nciodm:CDISCSynonym>NR3C3</nciodm:CDISCSynonym>

@@ -47,6 +47,29 @@
                     <nciodm:CDISCDefinition>An act or process of elucidation; explication, or explanation of the meaning of the event or thing via the assignment of objects from the domain to the constants of a formal language, truth-values to the proposition symbols, truth-functions to the connectives, other functions to the function symbols, and extensions to the predicates, if any. The assignments are result of human logic application and are not native to the symbols of the formal language.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Interpretation</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="Microsatellite Instability" nciodm:ExtCodeID="C139286">
+                    <nciodm:CDISCSynonym>Microsatellite Instability</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An assessment of the variability in length of an individual microsatellite sequence.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Microsatellite Stability Assessment</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Microsatellite Instability Overall Stat" nciodm:ExtCodeID="C139285">
+                    <nciodm:CDISCSynonym>Microsatellite Instability Overall Stat</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Microsatellite Instability Overall Status</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The overall state or condition of the variability in length of multiple, assessed microsatellite sequences.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Microsatellite Instability Overall Status</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Num Nuc Markers Exhibit Instability" nciodm:ExtCodeID="C139283">
+                    <nciodm:CDISCSynonym>Num Nuc Markers Exhibit Instability</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Number of Nucleotide Markers Exhibiting Instability</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The total number of nucleotide repeat markers tested that exhibit instability in a biological specimen. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Number of Nucleotide Markers Exhibiting Instability</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Pct Nuc Markers Exhibit Instability" nciodm:ExtCodeID="C139284">
+                    <nciodm:CDISCSynonym>Pct Nuc Markers Exhibit Instability</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Percent of Nucleotide Markers Exhibiting Instability</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The relative measurement (percentage) of nucleotide repeat markers exhibiting instability to all nucleotide repeat markers tested in a biological specimen. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Percent of Nucleotide Markers Exhibiting Instability</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <nciodm:CDISCSubmissionValue>PFTEST</nciodm:CDISCSubmissionValue>
                 <nciodm:CDISCSynonym>Pharmacogenomics Findings Test Name</nciodm:CDISCSynonym>
                 <nciodm:PreferredTerm>CDISC SDTM Pharmacogenomics Findings Test Name Terminology</nciodm:PreferredTerm>

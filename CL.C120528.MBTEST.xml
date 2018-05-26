@@ -7,6 +7,11 @@
                     <nciodm:CDISCDefinition>A measurement of any rod-shaped bacteria that resist decolorizing by acid after accepting an aqueous stain solution, due to the mycolic acids in their cell walls.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Acid-Fast Bacilli Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="Burkholderia" nciodm:ExtCodeID="C139113">
+                    <nciodm:CDISCSynonym>Burkholderia</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the organisms that are not assigned to the species level but are assigned to the Burkholderia genus level in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Burkholderia Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="Deoxyribonucleic Acid" nciodm:ExtCodeID="C135409">
                     <nciodm:CDISCSynonym>Deoxyribonucleic Acid</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of a targeted deoxyribonucleic acid (DNA) in a biological specimen.</nciodm:CDISCDefinition>
@@ -37,9 +42,9 @@
                     <nciodm:CDISCDefinition>The identification of the type of a microbial organism in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Microoganism Detection</nciodm:PreferredTerm>
                 </EnumeratedItem>
-                <EnumeratedItem CodedValue="Mycobacterium Tuberculosis" nciodm:ExtCodeID="C128982">
-                    <nciodm:CDISCSynonym>Mycobacterium Tuberculosis</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A measurement of the organisms assignable to the Mycobacterium tuberculosis species in a biological specimen.</nciodm:CDISCDefinition>
+                <EnumeratedItem CodedValue="Mycobacterium tuberculosis" nciodm:ExtCodeID="C128982">
+                    <nciodm:CDISCSynonym>Mycobacterium tuberculosis</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the organisms that are assigned to the Mycobacterium tuberculosis species in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Mycobacterium Tuberculosis Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Mycobacterium Tuberculosis Complex" nciodm:ExtCodeID="C128983">
@@ -47,15 +52,51 @@
                     <nciodm:CDISCDefinition>A measurement of the organisms assignable to the Mycobacterium tuberculosis complex in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Mycobacterium Tuberculosis Complex Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="P. aeruginosa, Mucoid" nciodm:ExtCodeID="C139108">
+                    <nciodm:CDISCSynonym>P. aeruginosa, Mucoid</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Pseudomonas aeruginosa, Mucoid</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the mucoid strain of Pseudomonas aeruginosa in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Mucoid Pseudomonas aeruginosa Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="P. aeruginosa, Non-mucoid" nciodm:ExtCodeID="C139107">
+                    <nciodm:CDISCSynonym>P. aeruginosa, Non-Mucoid</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Pseudomonas aeruginosa, Non-Mucoid</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the non-mucoid strain of Pseudomonas aeruginosa in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Non-Mucoid Pseudomonas aeruginosa Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="P. aeruginosa, Small-colony Variant" nciodm:ExtCodeID="C139109">
+                    <nciodm:CDISCSynonym>P. aeruginosa, Small-colony Variant</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Pseudomonas aeruginosa, SCV</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Pseudomonas aeruginosa, Small-colony Variant</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the small-colony variant strain of Pseudomonas aeruginosa in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Small-Colony Variant Pseudomonas aeruginosa Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="Plasmodium knowlesi, Asexual" nciodm:ExtCodeID="C132417">
                     <nciodm:CDISCSynonym>Plasmodium knowlesi, Asexual</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A measurement of the Plasmodium knowlesi in a asexual replication stage in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A measurement of the Plasmodium knowlesi in an asexual replication stage in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Asexual Plasmodium knowlesi Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Plasmodium knowlesi, Sexual" nciodm:ExtCodeID="C132418">
                     <nciodm:CDISCSynonym>Plasmodium knowlesi, Sexual</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the Plasmodium knowlesi in a sexual replication stage in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Sexual Plasmodium knowlesi Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="S. aureus, Methicillin-resistant" nciodm:ExtCodeID="C139110">
+                    <nciodm:CDISCSynonym>S. aureus, Methicillin-Resistant</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Staphylococcus aureus, Methicillin-Resistant</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the methicillin-resistant strain of Staphylococcus aureus in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Methicillin-resistant Staphylococcus aureus Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="S. aureus, Methicillin-susceptible" nciodm:ExtCodeID="C139111">
+                    <nciodm:CDISCSynonym>S. aureus, Methicillin-Susceptible</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Staphylococcus aureus, Methicillin-Susceptible</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the methicillin-susceptible strain of Staphylococcus aureus in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Methicillin-susceptible Staphylococcus aureus Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Stenotrophomonas maltophilia" nciodm:ExtCodeID="C139112">
+                    <nciodm:CDISCSynonym>Stenotrophomonas maltophilia</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the organisms that are assigned to the Stenotrophomonas maltophilia species in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Stenotrophomonas maltophilia Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Taxonomic Ident Below Species Level" nciodm:ExtCodeID="C132419">
                     <nciodm:CDISCSynonym>Taxonomic Ident Below Species Level</nciodm:CDISCSynonym>

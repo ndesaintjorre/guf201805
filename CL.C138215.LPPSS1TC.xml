@@ -1,0 +1,14 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C138215.LPPSS1TC" Name="Lansky Play-Performance Status Scale Clinical Classification Test Code" DataType="text" nciodm:ExtCodeID="C138215" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Lansky Play-Performance Status Scale test code.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="LPPSS101" nciodm:ExtCodeID="C138364">
+                    <nciodm:CDISCSynonym>LPPSS1-Lansky Play-Performance Status</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Lansky Play-Performance Status Scale - Lansky play-performance status.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>LPSS - Lansky Play-Performance Status</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>LPPSS1TC</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Lansky Play-Performance Status Scale Clinical Classification Test Code</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Clinical Classification LPSS Test Code Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

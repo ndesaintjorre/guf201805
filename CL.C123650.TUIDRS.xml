@@ -39,11 +39,22 @@
                     <nciodm:CDISCDefinition>A localized pathological or traumatic structural change, damage, deformity, or discontinuity of the bone, which has not been previously seen or characterized.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>New Bone Lesion Lesion Identification</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="NEW NON-TARGET" nciodm:ExtCodeID="C139126">
+                    <nciodm:CDISCSynonym>New Non-Index</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The identification of a tumor, lesion, or site of disease that will be assessed qualitatively over time, and which was not detected at baseline.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>New Non-Target Lesion Identification</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NEW TARGET" nciodm:ExtCodeID="C139127">
+                    <nciodm:CDISCSynonym>New Index</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The identification of a tumor, lesion, or site of disease that will be assessed quantitatively over time, and which was not detected at baseline.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>New Target Lesion Identification</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="NON-MEASURABLE" nciodm:ExtCodeID="C103423">
                     <nciodm:CDISCDefinition>The identification of a tumor, lesion, or site of disease that is incapable of being measured at baseline.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Non-Measurable Tumor Identification</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="NON-TARGET" nciodm:ExtCodeID="C94521">
+                    <nciodm:CDISCSynonym>Non-Index</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The identification of a tumor, lesion or site of disease that is present at baseline and not considered a target, but may be part of the objective assessment of the response to the therapeutic intervention.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Non-Target Lesion Identification</nciodm:PreferredTerm>
                 </EnumeratedItem>
@@ -72,6 +83,7 @@
                     <nciodm:PreferredTerm>Regional</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="TARGET" nciodm:ExtCodeID="C94520">
+                    <nciodm:CDISCSynonym>Index</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The identification of a tumor, lesion, or site of disease that is present at baseline and is the target of the therapeutic intervention.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Target Lesion Identification</nciodm:PreferredTerm>
                 </EnumeratedItem>

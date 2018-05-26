@@ -22,10 +22,21 @@
                     <nciodm:CDISCDefinition>A textual description as to whether a biospecimen is retained and/or contains DNA.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Biospecimen Retained and/or Contains DNA Indicator</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="Blinded Status SDTM Dataset Generation" nciodm:ExtCodeID="C139272">
+                    <nciodm:CDISCSynonym>Blinded Status SDTM Dataset Generation</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Blinded Status at SDTM Dataset Generation</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The blinding status of the trial at the point in time when the SDTM datasets are generated.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Blinded Status at SDTM Dataset Generation</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="Citation Used in Study" nciodm:ExtCodeID="C127788">
                     <nciodm:CDISCSynonym>Citation Used in Study</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A bibliographical reference related to a particular study.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Clinical Study Citation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Clinical Study Report Archive Date" nciodm:ExtCodeID="C139273">
+                    <nciodm:CDISCSynonym>Clinical Study Report Archive Date</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The date when the clinical study report was archived.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Clinical Study Report Archive Date</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Clinical Study Sponsor" nciodm:ExtCodeID="C70793">
                     <nciodm:CDISCSynonym>Clinical Study Sponsor</nciodm:CDISCSynonym>
@@ -191,6 +202,11 @@
                     <nciodm:CDISCDefinition>Exploratory measures that will be used to evaluate the intervention(s) or, for observational studies, that are exploratory of the study.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Exploratory Outcome Measure</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="Extension Trial Indicator" nciodm:ExtCodeID="C139274">
+                    <nciodm:CDISCSynonym>Extension Trial Indicator</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An indication as to whether the clinical trial is an extension trial.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Extension Trial Indicator</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="FDA-Regulated Device Study Indicator" nciodm:ExtCodeID="C123629">
                     <nciodm:CDISCSynonym>FDA-Regulated Device Study Indicator</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>An indication as to whether the study involves an FDA-regulated device.</nciodm:CDISCDefinition>
@@ -309,10 +325,20 @@
                     <nciodm:CDISCDefinition>The planned number of subjects to be entered in a clinical trial. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Planned Subject Number</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="Planned Treatment Duration" nciodm:ExtCodeID="C139276">
+                    <nciodm:CDISCSynonym>Planned Treatment Duration</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The period of time during which the treatment is intended to be given.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Planned Treatment Duration</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="Planned Trial Duration" nciodm:ExtCodeID="C127796">
                     <nciodm:CDISCSynonym>Planned Trial Duration</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The approximate period of time over which the clinical trial is expected to occur.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Planned Trial Duration</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Post Authorization Safety Study Ind" nciodm:ExtCodeID="C139275">
+                    <nciodm:CDISCSynonym>Post Authorization Safety Study Ind</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An indication as to whether the clinical study is a post authorization safety study.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Post Authorization Safety Study Indicator</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Primary Outcome Measure" nciodm:ExtCodeID="C98772">
                     <nciodm:CDISCSynonym>Primary Outcome Measure</nciodm:CDISCSynonym>
@@ -323,6 +349,11 @@
                     <nciodm:CDISCSynonym>Protocol Keyword</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A word or small set of words designed to convey the focus of the protocol.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Protocol Keyword</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Protocol Risk Assessment" nciodm:ExtCodeID="C139277">
+                    <nciodm:CDISCSynonym>Protocol Risk Assessment</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The potential future harm that may arise from a protocol-related activity.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Protocol Risk Assessment</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="PubMed ID for Citation Used in Study" nciodm:ExtCodeID="C127797">
                     <nciodm:CDISCSynonym>PubMed ID for Citation Used in Study</nciodm:CDISCSynonym>
@@ -500,6 +531,7 @@
                     <nciodm:PreferredTerm>Trial Title</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Trial Type" nciodm:ExtCodeID="C49660">
+                    <nciodm:CDISCSynonym>Trial Scope</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Trial Type</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The type of primary outcome or endpoint that the protocol is designed to evaluate. (clinicaltrials.gov)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Trial Type</nciodm:PreferredTerm>

@@ -1,0 +1,134 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C138256.PQL03TN" Name="Pediatric Quality of Life Neuromuscular Module Version 3 Teen Questionnaire Test Name" DataType="text" nciodm:ExtCodeID="C138256" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Pediatric Quality of Life Neuromuscular Module Version 3 Teen test name.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="PQL03-Back Feels Stiff" nciodm:ExtCodeID="C138837">
+                    <nciodm:CDISCSynonym>PQL03-Back Feels Stiff</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Quality of Life Neuromuscular Module Version 3 Teen - In the past one month, how much of a problem has this been for you: My back feels stiff.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PedsQL Neuromuscular Module Version 3.0 Teen Report - Back Feels Stiff</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PQL03-Do Not Have Equipment Need" nciodm:ExtCodeID="C138856">
+                    <nciodm:CDISCSynonym>PQL03-Do Not Have Equipment Need</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Quality of Life Neuromuscular Module Version 3 Teen - In the past one month, how much of a problem has this been for you: I do not have the equipment I need.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PedsQL Neuromuscular Module Version 3.0 Teen Report - Do Not Have Equipment Need</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PQL03-Family Has Lot of Problems" nciodm:ExtCodeID="C138855">
+                    <nciodm:CDISCSynonym>PQL03-Family Has Lot of Problems</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Quality of Life Neuromuscular Module Version 3 Teen - In the past one month, how much of a problem has this been for you: I think my family has a lot of problems.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PedsQL Neuromuscular Module Version 3.0 Teen Report - Family Has Lot of Problems</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PQL03-Feel Tired" nciodm:ExtCodeID="C138836">
+                    <nciodm:CDISCSynonym>PQL03-Feel Tired</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Quality of Life Neuromuscular Module Version 3 Teen - In the past one month, how much of a problem has this been for you: I feel tired.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PedsQL Neuromuscular Module Version 3.0 Teen Report - Feel Tired</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PQL03-Get Hurt Accidentally" nciodm:ExtCodeID="C138845">
+                    <nciodm:CDISCSynonym>PQL03-Get Hurt Accidentally</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Quality of Life Neuromuscular Module Version 3 Teen - In the past one month, how much of a problem has this been for you: I get hurt accidentally.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PedsQL Neuromuscular Module Version 3.0 Teen Report - Get Hurt Accidentally</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PQL03-Get Sick Easily" nciodm:ExtCodeID="C138833">
+                    <nciodm:CDISCSynonym>PQL03-Get Sick Easily</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Quality of Life Neuromuscular Module Version 3 Teen - In the past one month, how much of a problem has this been for you: I get sick easily.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PedsQL Neuromuscular Module Version 3.0 Teen Report - Get Sick Easily</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PQL03-Get Sores and/or Rashes" nciodm:ExtCodeID="C138834">
+                    <nciodm:CDISCSynonym>PQL03-Get Sores and/or Rashes</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Quality of Life Neuromuscular Module Version 3 Teen - In the past one month, how much of a problem has this been for you: I get sores and/or rashes.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PedsQL Neuromuscular Module Version 3.0 Teen Report - Get Sores and/or Rashes</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PQL03-Hands Are Weak" nciodm:ExtCodeID="C138839">
+                    <nciodm:CDISCSynonym>PQL03-Hands Are Weak</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Quality of Life Neuromuscular Module Version 3 Teen - In the past one month, how much of a problem has this been for you: My hands are weak.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PedsQL Neuromuscular Module Version 3.0 Teen Report - Hands Are Weak</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PQL03-Hard Ask Doctors/Nurses Questions" nciodm:ExtCodeID="C138850">
+                    <nciodm:CDISCSynonym>PQL03-Hard Ask Doctors/Nurses Questions</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Quality of Life Neuromuscular Module Version 3 Teen - In the past one month, how much of a problem has this been for you: It is hard for me to ask the doctors and nurses questions.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PedsQL Neuromuscular Module Version 3.0 Teen Report - Hard Ask Doctors and Nurses Questions</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PQL03-Hard Explain Illness to People" nciodm:ExtCodeID="C138851">
+                    <nciodm:CDISCSynonym>PQL03-Hard Explain Illness to People</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Quality of Life Neuromuscular Module Version 3 Teen - In the past one month, how much of a problem has this been for you: It is hard for me to explain my illness to other people.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PedsQL Neuromuscular Module Version 3.0 Teen Report - Hard Explain Illness to People</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PQL03-Hard for Family to Plan Activities" nciodm:ExtCodeID="C138852">
+                    <nciodm:CDISCSynonym>PQL03-Hard for Family to Plan Activities</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Quality of Life Neuromuscular Module Version 3 Teen - In the past one month, how much of a problem has this been for you: It is hard for my family to plan activities like vacations.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PedsQL Neuromuscular Module Version 3.0 Teen Report - Hard for Family to Plan Activities</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PQL03-Hard for Family to Rest" nciodm:ExtCodeID="C138853">
+                    <nciodm:CDISCSynonym>PQL03-Hard for Family to Rest</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Quality of Life Neuromuscular Module Version 3 Teen - In the past one month, how much of a problem has this been for you: It is hard for my family to get enough rest.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PedsQL Neuromuscular Module Version 3.0 Teen Report - Hard for Family to Rest</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PQL03-Hard Tell Doctors/Nurses How Feel" nciodm:ExtCodeID="C138849">
+                    <nciodm:CDISCSynonym>PQL03-Hard Tell Doctors/Nurses How Feel</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Quality of Life Neuromuscular Module Version 3 Teen - In the past one month, how much of a problem has this been for you: It is hard for me to tell the doctors and nurses how I feel.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PedsQL Neuromuscular Module Version 3.0 Teen Report - Hard Tell Doctors and Nurses How Feel</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PQL03-Hard to Breathe" nciodm:ExtCodeID="C138832">
+                    <nciodm:CDISCSynonym>PQL03-Hard to Breathe</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Quality of Life Neuromuscular Module Version 3 Teen - In the past one month, how much of a problem has this been for you: It is hard to breathe.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PedsQL Neuromuscular Module Version 3.0 Teen Report - Hard to Breathe</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PQL03-Hard to Gain/Lose Weight" nciodm:ExtCodeID="C138841">
+                    <nciodm:CDISCSynonym>PQL03-Hard to Gain/Lose Weight</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Quality of Life Neuromuscular Module Version 3 Teen - In the past one month, how much of a problem has this been for you: It is hard to gain or lose weight when I want to.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PedsQL Neuromuscular Module Version 3.0 Teen Report - Hard to Gain or Lose Weight</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PQL03-Hard to Go Places With Equipment" nciodm:ExtCodeID="C138848">
+                    <nciodm:CDISCSynonym>PQL03-Hard to Go Places With Equipment</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Quality of Life Neuromuscular Module Version 3 Teen - In the past one month, how much of a problem has this been for you: It is hard for me to go places with my equipment.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PedsQL Neuromuscular Module Version 3.0 Teen Report - Hard to Go Places With Equipment</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PQL03-Hard to Swallow Food" nciodm:ExtCodeID="C138843">
+                    <nciodm:CDISCSynonym>PQL03-Hard to Swallow Food</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Quality of Life Neuromuscular Module Version 3 Teen - In the past one month, how much of a problem has this been for you: It is hard to swallow food.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PedsQL Neuromuscular Module Version 3.0 Teen Report - Hard to Swallow Food</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PQL03-Hard to Turn During Night" nciodm:ExtCodeID="C138847">
+                    <nciodm:CDISCSynonym>PQL03-Hard to Turn During Night</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Quality of Life Neuromuscular Module Version 3 Teen - In the past one month, how much of a problem has this been for you: It is hard to turn myself during the night.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PedsQL Neuromuscular Module Version 3.0 Teen Report - Hard to Turn During Night</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PQL03-Hard to Use Bathroom" nciodm:ExtCodeID="C138840">
+                    <nciodm:CDISCSynonym>PQL03-Hard to Use Bathroom</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Quality of Life Neuromuscular Module Version 3 Teen - In the past one month, how much of a problem has this been for you: It is hard to use the bathroom.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PedsQL Neuromuscular Module Version 3.0 Teen Report - Hard to Use Bathroom</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PQL03-Hard to Use Hands" nciodm:ExtCodeID="C138842">
+                    <nciodm:CDISCSynonym>PQL03-Hard to Use Hands</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Quality of Life Neuromuscular Module Version 3 Teen - In the past one month, how much of a problem has this been for you: It is hard to use my hands.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PedsQL Neuromuscular Module Version 3.0 Teen Report - Hard to Use Hands</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PQL03-Legs Hurt" nciodm:ExtCodeID="C138835">
+                    <nciodm:CDISCSynonym>PQL03-Legs Hurt</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Quality of Life Neuromuscular Module Version 3 Teen - In the past one month, how much of a problem has this been for you: My legs hurt.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PedsQL Neuromuscular Module Version 3.0 Teen Report - Legs Hurt</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PQL03-Long Time to Bathe/Shower" nciodm:ExtCodeID="C138844">
+                    <nciodm:CDISCSynonym>PQL03-Long Time to Bathe/Shower</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Quality of Life Neuromuscular Module Version 3 Teen - In the past one month, how much of a problem has this been for you: It takes me a long time to bathe or shower.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PedsQL Neuromuscular Module Version 3.0 Teen Report - Long Time to Bathe or Shower</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PQL03-Money Problem in Our Family" nciodm:ExtCodeID="C138854">
+                    <nciodm:CDISCSynonym>PQL03-Money Problem in Our Family</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Quality of Life Neuromuscular Module Version 3 Teen - In the past one month, how much of a problem has this been for you: I think money is a problem in our family.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PedsQL Neuromuscular Module Version 3.0 Teen Report - Money Problem in Our Family</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PQL03-Take Long Time to Eat" nciodm:ExtCodeID="C138846">
+                    <nciodm:CDISCSynonym>PQL03-Take Long Time to Eat</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Quality of Life Neuromuscular Module Version 3 Teen - In the past one month, how much of a problem has this been for you: I take a long time to eat.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PedsQL Neuromuscular Module Version 3.0 Teen Report - Take Long Time to Eat</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PQL03-Wake Up Tired" nciodm:ExtCodeID="C138838">
+                    <nciodm:CDISCSynonym>PQL03-Wake Up Tired</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Quality of Life Neuromuscular Module Version 3 Teen - In the past one month, how much of a problem has this been for you: I wake up tired.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PedsQL Neuromuscular Module Version 3.0 Teen Report - Wake Up Tired</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>PQL03TN</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Pediatric Quality of Life Neuromuscular Module Version 3 Teen Questionnaire Test Name</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Questionnaire PedsQL Neuromuscular Module Version 3.0 Teen Report Test Name Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

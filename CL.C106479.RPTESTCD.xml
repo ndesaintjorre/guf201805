@@ -12,10 +12,25 @@
                     <nciodm:CDISCDefinition>The method by which conception or impregnation is prevented.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Birth Control Method</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="BRTHFTN" nciodm:ExtCodeID="C139265">
+                    <nciodm:CDISCSynonym>Number Full Term Live Births</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the total number of live birth events at which the gestational age of the neonate is 39 weeks and 0 days through 40 weeks and 6 days.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Number of Full Term Live Births</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="BRTHLVN" nciodm:ExtCodeID="C16955">
                     <nciodm:CDISCSynonym>Number of Live Births</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the total number of live-born offspring a female has delivered.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Parity</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BRTHPRN" nciodm:ExtCodeID="C139266">
+                    <nciodm:CDISCSynonym>Number of Premature Live Births</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the total number of live birth events at which the gestational age of the neonate is less than 37 weeks and 0 days.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Number of Premature Live Births</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BRTHSTN" nciodm:ExtCodeID="C139267">
+                    <nciodm:CDISCSynonym>Number of Stillbirths</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the total number of birth events at which the fetus is of at least 20 weeks gestation, or of a birth weight of at least 350 grams if the gestational age is unknown, which is born without signs of life at the time of delivery, and with an Apgar score of zero at both one and five minutes.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Number of Stillbirths</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="CABNIND" nciodm:ExtCodeID="C122187">
                     <nciodm:CDISCSynonym>Congenital Abnormality Indicator</nciodm:CDISCSynonym>
@@ -54,12 +69,12 @@
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="FETLDTHN" nciodm:ExtCodeID="C120834">
                     <nciodm:CDISCSynonym>Number of Late Fetal Deaths</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A measurement of the total number of fetal deaths (in which the fetus is greater than or equal to 20 weeks gestational age) experienced by a female subject.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A measurement of the total number of fetal deaths (death of a fetus at 16 weeks, 0 days to 19 weeks, 6 days of gestation)  experienced by a female subject.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Number of Late Fetal Deaths</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="FULLTRMN" nciodm:ExtCodeID="C122190">
                     <nciodm:CDISCSynonym>Number of Full Term Births</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A measurement of the total number of birth events at which the gestational age of the neonate is 39 weeks and 0 days through 40 weeks and 6 days. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A measurement of the total number of birth events (both live and dead) at which the gestational age of the neonate is 39 weeks and 0 days through 40 weeks and 6 days.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Number of Full Term Births</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="INABORTN" nciodm:ExtCodeID="C120835">
@@ -102,6 +117,11 @@
                     <nciodm:CDISCDefinition>An indication as to whether the subject's pregnancy has been confirmed.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Pregnancy Confirmed Indicator</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="PREGIND" nciodm:ExtCodeID="C139264">
+                    <nciodm:CDISCSynonym>Pregnant Indicator</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An indication as to whether the subject or associated person is pregnant at the time the question is asked.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Pregnancy Indicator</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="PREGNN" nciodm:ExtCodeID="C106551">
                     <nciodm:CDISCSynonym>Number of Pregnancies</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the total number of pregnancy events experienced by a female.</nciodm:CDISCDefinition>
@@ -114,7 +134,7 @@
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="PREMBTHN" nciodm:ExtCodeID="C122193">
                     <nciodm:CDISCSynonym>Number of Premature Births</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A measurement of the total number of birth events at which the gestational age of the neonate is less than 37 weeks and 0 days. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A measurement of the total number of birth events (both live and dead) at which the gestational age of the neonate is less than 37 weeks and 0 days.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Number of Premature Births</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="PRVPREGN" nciodm:ExtCodeID="C120836">
