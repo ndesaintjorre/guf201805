@@ -652,6 +652,11 @@
                     <nciodm:CDISCDefinition>The quantity of a specified substance in a unit volume or weight of another substance.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Concentration</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="Concentration at Half Tmax" nciodm:ExtCodeID="C135489">
+                    <nciodm:CDISCSynonym>Concentration at Half Tmax</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The concentration that occurs at the midpoint time between dosing time and Tmax.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Concentration at Half Tmax</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="Correlation Between TimeX and Log ConcY" nciodm:ExtCodeID="C85821">
                     <nciodm:CDISCSynonym>Correlation Between TimeX and Log ConcY</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The correlation between time (X) and log concentration (Y) for the points used in the estimation of lambda z.</nciodm:CDISCDefinition>
@@ -691,6 +696,16 @@
                     <nciodm:CDISCSynonym>Fluctuation%</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The difference between Cmin and Cmax standardized to Cavg, between dose time and Tau.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Concentration Variability Between Dose Time and Tau</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Fraction Unbound" nciodm:ExtCodeID="C135490">
+                    <nciodm:CDISCSynonym>Fraction Unbound</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The ratio of free drug concentration to the total concentration. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Fraction Unbound</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Half Tmax" nciodm:ExtCodeID="C135491">
+                    <nciodm:CDISCSynonym>Half Tmax</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The midpoint time between dosing time and Tmax.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Half Tmax</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Half-Life Lambda z" nciodm:ExtCodeID="C85818">
                     <nciodm:CDISCSynonym>Half-Life Lambda z</nciodm:CDISCSynonym>
@@ -741,6 +756,11 @@
                     <nciodm:CDISCSynonym>Lambda z Lower Limit</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The lower limit on time for values to be included in the calculation of Lambda z.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Lambda Z Time Lower Limit</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Lambda z Span" nciodm:ExtCodeID="C135492">
+                    <nciodm:CDISCSynonym>Lambda z Span</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The interval of time covered by the data points used in the terminal disposition phase regression analysis, divided by half life. This yields the terminal disposition phase duration expressed as the number of half lives.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Lambda Z Span</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Lambda z Upper Limit" nciodm:ExtCodeID="C85654">
                     <nciodm:CDISCSynonym>Lambda z Upper Limit</nciodm:CDISCSynonym>

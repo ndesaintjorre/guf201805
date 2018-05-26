@@ -397,13 +397,17 @@
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="JUNCTIONAL BRADYCARDIA" nciodm:ExtCodeID="C71074">
                     <nciodm:CDISCSynonym>Junctional bradycardia</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>An electrocardiographic finding of a junctional rhythm with a heat rate which is abnormally low.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of a junctional rhythm with a heart rate which is abnormally low.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Junctional Bradycardia by ECG Finding</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="JUNCTIONAL ESCAPE COMPLEXES" nciodm:ExtCodeID="C116129">
                     <nciodm:CDISCSynonym>Junctional Escape Beats</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>An electrocardiographic finding of an escape beat following a pause which originates in the AV junction. This is manifest as a QRS complex of supraventricular origin not preceded by a P wave.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Junctional Escape Complexes by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="JUNCTIONAL ESCAPE RHYTHM" nciodm:ExtCodeID="C135393">
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of a junctional rhythm that arises as a physiologic response to extreme slowing or arrest of sinus node activity. In this setting, a faster junctional rhythm may be a normal response to a very slow or absent sinus rate.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Junctional Escape Rhythm by ECG Finding</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="JUNCTIONAL PREMATURE COMPLEX" nciodm:ExtCodeID="C102652">
                     <nciodm:CDISCSynonym>Junctional Extra Beat</nciodm:CDISCSynonym>
@@ -588,6 +592,10 @@
                     <nciodm:CDISCSynonym>Ventricular tachycardia, unsustained</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>An electrocardiographic finding of ventricular tachycardia less than 30 seconds in duration. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Non-Sustained Ventricular Tachycardia by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NONCONDUCTED P WAVE PHYSIOLOGY NOT DEFINED" nciodm:ExtCodeID="C135394">
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of a P wave that does not conduct to the ventricle or result in ventricular activation.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Nonconducted P Wave Physiology Not Defined by ECG Finding</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="NORMAL SINUS RHYTHM" nciodm:ExtCodeID="C102681">
                     <nciodm:CDISCSynonym>Normal Sinus Rhythm</nciodm:CDISCSynonym>
@@ -1015,6 +1023,12 @@
                 <EnumeratedItem CodedValue="SUPRAVENTRICULAR COUPLET" nciodm:ExtCodeID="C119252">
                     <nciodm:CDISCDefinition>An electrocardiographic finding in which two premature atrial complexes occur sequentially.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Supraventricular Couplet by ECG Finding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUPRAVENTRICULAR ESCAPE BEAT" nciodm:ExtCodeID="C135395">
+                    <nciodm:CDISCSynonym>Supraventricular Escape Complex</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Supraventricular Escape Complexes</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An electrocardiographic finding of a compensatory supraventricular complex that occurs following a prolonged RR interval.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Supraventricular Escape Beat by ECG Finding</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="SUPRAVENTRICULAR TACHYCARDIA" nciodm:ExtCodeID="C111100">
                     <nciodm:CDISCSynonym>Supraventricular tachycardia</nciodm:CDISCSynonym>

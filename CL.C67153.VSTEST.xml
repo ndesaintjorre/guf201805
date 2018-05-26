@@ -152,6 +152,11 @@
                     <nciodm:CDISCDefinition>The distance around an individual's midsection or waist.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Waist Circumference</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="Waist to Hip Ratio" nciodm:ExtCodeID="C17651">
+                    <nciodm:CDISCSynonym>Waist to Hip Ratio</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A relative measurement (ratio) of the waist circumference to the hip circumference.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Waist-Hip Ratio</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="Weight" nciodm:ExtCodeID="C25208">
                     <nciodm:CDISCSynonym>Weight</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The vertical force exerted by a mass as a result of gravity. (NCI)</nciodm:CDISCDefinition>

@@ -57,6 +57,11 @@
                     <nciodm:CDISCDefinition>The dimension between two surfaces of an object, usually the smallest dimension as opposed to the width or the length.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Thickness</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="TUMTORI" nciodm:ExtCodeID="C135371">
+                    <nciodm:CDISCSynonym>Tumor Tissue Origin</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A characterization of the tumor tissue sample based upon whether it was taken from a tumor that originated after the disease spread.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Tumor Tissue Origin</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="VOLUME" nciodm:ExtCodeID="C25335">
                     <nciodm:CDISCSynonym>Volume</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The amount of three dimensional space occupied by an object or the capacity of a space or container. (NCI)</nciodm:CDISCDefinition>

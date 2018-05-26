@@ -7,6 +7,16 @@
                     <nciodm:CDISCDefinition>A measurement of any rod-shaped bacteria that resist decolorizing by acid after accepting an aqueous stain solution, due to the mycolic acids in their cell walls.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Acid-Fast Bacilli Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="DNA" nciodm:ExtCodeID="C135409">
+                    <nciodm:CDISCSynonym>Deoxyribonucleic Acid</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of a targeted deoxyribonucleic acid (DNA) in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Deoxyribonucleic Acid Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EBOIGMAB" nciodm:ExtCodeID="C135410">
+                    <nciodm:CDISCSynonym>Ebola Virus IgM Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Ebola virus IgM antibodies in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Ebola Virus IgM Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="INFAAG" nciodm:ExtCodeID="C120677">
                     <nciodm:CDISCSynonym>Influenza A Antigen</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the influenza A antigen in a biological specimen.</nciodm:CDISCDefinition>
@@ -39,12 +49,12 @@
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="PKNOWLA" nciodm:ExtCodeID="C132417">
                     <nciodm:CDISCSynonym>Plasmodium knowlesi, Asexual</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A measurement of the&#160;Plasmodium&#160;knowlesi in a asexual replication stage in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A measurement of the Plasmodium knowlesi in a asexual replication stage in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Asexual Plasmodium knowlesi Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="PKNOWLS" nciodm:ExtCodeID="C132418">
                     <nciodm:CDISCSynonym>Plasmodium knowlesi, Sexual</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A measurement of the Plasmodium&#160;knowlesi in a sexual replication stage in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A measurement of the Plasmodium knowlesi in a sexual replication stage in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Sexual Plasmodium knowlesi Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="TXIDBSL" nciodm:ExtCodeID="C132419">

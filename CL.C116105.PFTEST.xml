@@ -14,8 +14,33 @@
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Amplicon Size" nciodm:ExtCodeID="C132434">
                     <nciodm:CDISCSynonym>Amplicon Size</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>The number&#160;of base pairs present&#160;in an RNA or DNA sequence that is the product of an amplification process.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>The number of base pairs present in an RNA or DNA sequence that is the product of an amplification process.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Amplicon Size</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Chromosomal Aberration" nciodm:ExtCodeID="C18280">
+                    <nciodm:CDISCSynonym>Chromosomal Aberration</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The determination of the holistic or specific regional aberrations in a chromosome (insertions, deletions, amplifications, translocations).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Cytogenetic Analysis</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Fold Change" nciodm:ExtCodeID="C60693">
+                    <nciodm:CDISCSynonym>Fold Change</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An indication of the magnitude difference between two values specified as the number of multiples of the first value to the second value (e.g., from 10 to 20 is a 2-fold increase, from 10 to 50 is a five-fold increase). (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Fold Change</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Gene Expression" nciodm:ExtCodeID="C135484">
+                    <nciodm:CDISCSynonym>Gene Expression</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The determination of the level of gene transcription in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Gene Expression Level Analysis</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Genetic Variation" nciodm:ExtCodeID="C18302">
+                    <nciodm:CDISCSynonym>Genetic Variation</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The determination of the variation(s) in the nucleotide sequence of the genetic material of an individual as compared to a reference sequence.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Genetic Variation Analysis</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Genotype" nciodm:ExtCodeID="C45447">
+                    <nciodm:CDISCSynonym>Genotype</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The determination of the nucleotide sequence of the genetic material of an individual.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Genotyping</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Interpretation" nciodm:ExtCodeID="C41255">
                     <nciodm:CDISCSynonym>Interpretation</nciodm:CDISCSynonym>

@@ -47,16 +47,24 @@
                     <nciodm:CDISCDefinition>A unit equal to one thousand entities used as a denominator to build a derived unit expressed as a ratio. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Per Thousand</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="/10^4" nciodm:ExtCodeID="C135515">
+                    <nciodm:CDISCDefinition>A unit equal to ten thousand entities used as a denominator to build a derived unit expressed as a ratio. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Per Ten Thousand</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="/10^5" nciodm:ExtCodeID="C135516">
+                    <nciodm:CDISCDefinition>A unit equal to one hundred thousand entities used as a denominator to build a derived unit expressed as a ratio. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Per Hundred Thousand</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="/200 HPFs" nciodm:ExtCodeID="C132472">
-                    <nciodm:CDISCDefinition>A unit of measurement of the number of entities per unit of area equal to&#160;200&#160;high powered fields.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A unit of measurement of the number of entities per unit of area equal to 200 high powered fields.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Per 200 High Powered Fields</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="/2000 RBC" nciodm:ExtCodeID="C132473">
-                    <nciodm:CDISCDefinition>Natural number unit of measurement for a portion of a particular type of cell (excluding&#160;red blood cell subtypes) per&#160;2000&#160;red blood cells.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>Natural number unit of measurement for a portion of a particular type of cell (excluding red blood cell subtypes) per 2000 red blood cells.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Per 2000 Red Blood Cells</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="/2500 WBC" nciodm:ExtCodeID="C132474">
-                    <nciodm:CDISCDefinition>Natural number unit of measurement for a portion of a particular type of cell (excluding white blood cell subtypes) per&#160;2500 white blood cells.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>Natural number unit of measurement for a portion of a particular type of cell (excluding white blood cell subtypes) per 2500 white blood cells.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Per 2500 White Blood Cells</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="/4.0 mL" nciodm:ExtCodeID="C122197">
@@ -64,7 +72,7 @@
                     <nciodm:PreferredTerm>per 4.0 Milliliters</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="/40 HPFs" nciodm:ExtCodeID="C132475">
-                    <nciodm:CDISCDefinition>A unit of measurement of the number of entities per unit of area equal to&#160;40 high powered fields.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A unit of measurement of the number of entities per unit of area equal to 40 high powered fields.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Per 40 High Powered Fields</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="/500 WBC" nciodm:ExtCodeID="C132476">
@@ -74,6 +82,10 @@
                 <EnumeratedItem CodedValue="/7.5 mL" nciodm:ExtCodeID="C122198">
                     <nciodm:CDISCDefinition>A volume unit equal to 7.5 milliliters used as a denominator to build a derived unit expressed as a ratio.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>per 7.5 Milliliters</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="/cmH2O" nciodm:ExtCodeID="C135517">
+                    <nciodm:CDISCDefinition>A unit of pressure equal to one centimeter of water used as a denominator to build a derived unit expressed as a ratio. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Per Centimeter of Water</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="/day" nciodm:ExtCodeID="C25473">
                     <nciodm:CDISCSynonym>Daily</nciodm:CDISCSynonym>
@@ -312,6 +324,12 @@
                 <EnumeratedItem CodedValue="10^6 RNA copies/mL" nciodm:ExtCodeID="C98760">
                     <nciodm:CDISCDefinition>A unit of measurement equal to 10 to the sixth power of the number of ribonucleic acid (RNA) copies per unit of volume equal to one milliliter.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Million RNA Copies per Milliliter</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="10^6 U" nciodm:ExtCodeID="C67310">
+                    <nciodm:CDISCSynonym>Million U</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Million Units</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A unit of measure equal to 10 to the sixth power of arbitrary units.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Million Units</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="10^6/Ejaculate U" nciodm:ExtCodeID="C130189">
                     <nciodm:CDISCDefinition>A unit of measurement equal to 10 to the sixth power of entities per unit equal to one ejaculation.</nciodm:CDISCDefinition>
@@ -809,6 +827,18 @@
                     <nciodm:CDISCSynonym>Square Centimeter</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A unit of area measurement equal to a square measuring one centimeter on each side. One square centimeter is equal to 10E-4 square meter.(NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Square Centimeter</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="cmH2O*s/mL" nciodm:ExtCodeID="C135518">
+                    <nciodm:CDISCDefinition>A unit of pressure defined as centimeters of water times seconds per unit of volume equal to one milliliter.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Centimeter of Water Times Second per Milliliter</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="cmH2O*s2/mL" nciodm:ExtCodeID="C135519">
+                    <nciodm:CDISCDefinition>A unit of pressure defined as centimeters of water times seconds squared per unit of volume equal to one milliliter.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Centimeter of Water Times Second Squared per Milliliter</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="cmH2O/mL" nciodm:ExtCodeID="C135520">
+                    <nciodm:CDISCDefinition>A unit of pressure defined as centimeters of water per unit of volume equal to one milliliter.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Centimeter of Water per Milliliter</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="cmol" nciodm:ExtCodeID="C68687">
                     <nciodm:CDISCSynonym>Centimole</nciodm:CDISCSynonym>
@@ -1955,6 +1985,10 @@
                     <nciodm:CDISCSynonym>cm3</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A unit of volume equal to one thousandth (10E-3) of a liter.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Milliliter</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="mL*cmH2O" nciodm:ExtCodeID="C135521">
+                    <nciodm:CDISCDefinition>A unit of volume defined as milliliters times centimeter of water.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Milliliter Times Centimeter of Water</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="mL/(min*100mL)" nciodm:ExtCodeID="C130191">
                     <nciodm:CDISCDefinition>A unit of flow rate expressed as the number of milliliters, divided by the number of minutes times a unit of volume equal to 100 milliliters.</nciodm:CDISCDefinition>

@@ -1,0 +1,24 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C135683.CGGUY1TN" Name="Clinical Global Impression Questionnaire Test Name" DataType="text" nciodm:ExtCodeID="C135683" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Clinical Global Impression test name.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="CGGUY1-Efficacy Index" nciodm:ExtCodeID="C135813">
+                    <nciodm:CDISCSynonym>CGGUY1-Efficacy Index</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Clinical Global Impression Guy - Rate this item on the basis of drug effect only. Select the terms which best describe the degrees of therapeutic effect and side effects.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CGI Original Version - Efficacy Index</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CGGUY1-Global Improvement" nciodm:ExtCodeID="C135812">
+                    <nciodm:CDISCSynonym>CGGUY1-Global Improvement</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Clinical Global Impression Guy - Rate total improvement whether or not, in your judgement, it is due entirely to drug treatment. Compared to his condition at admission to the project, how much has he changed?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CGI Original Version - Global Improvement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CGGUY1-Severity of Illness" nciodm:ExtCodeID="C135811">
+                    <nciodm:CDISCSynonym>CGGUY1-Severity of Illness</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Clinical Global Impression Guy - Considering your total clinical experience with this particular population, how mentally ill is the patient at this time?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CGI Original Version - Severity of Illness</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>CGGUY1TN</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Clinical Global Impression Questionnaire Test Name</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Questionnaire CGI Original Version Test Name Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

@@ -1,0 +1,109 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C135691.PCL01TN" Name="The PTSD Checklist for DSM-5 Questionnaire Test Name" DataType="text" nciodm:ExtCodeID="C135691" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">The PTSD Checklist for DSM-5 test name.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="PCL01-Avoid External Reminders" nciodm:ExtCodeID="C135928">
+                    <nciodm:CDISCSynonym>PCL01-Avoid External Reminders</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The PTSD Checklist for DSM-5 - In the past month, how much were you bothered by: Avoiding external reminders of the stressful experience (for example, people, places, conversations, activities, objects, or situations)?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PCL-5 - Avoid External Reminders</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PCL01-Avoid Memories/Thoughts/Feelings" nciodm:ExtCodeID="C135927">
+                    <nciodm:CDISCSynonym>PCL01-Avoid Memories/Thoughts/Feelings</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The PTSD Checklist for DSM-5 - In the past month, how much were you bothered by: Avoiding memories, thoughts, or feelings related to the stressful experience?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PCL-5 - Avoid Memories, Thoughts or Feelings</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PCL01-Being Superalert/Watchful/on Guard" nciodm:ExtCodeID="C135938">
+                    <nciodm:CDISCSynonym>PCL01-Being Superalert/Watchful/on Guard</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The PTSD Checklist for DSM-5 - In the past month, how much were you bothered by: Being "superalert" or watchful or on guard?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PCL-5 - Being Super Alert or Watchful</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PCL01-Blaming Yourself/Someone Else" nciodm:ExtCodeID="C135931">
+                    <nciodm:CDISCSynonym>PCL01-Blaming Yourself/Someone Else</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The PTSD Checklist for DSM-5 - In the past month, how much were you bothered by: Blaming yourself or someone else for the stressful experience or what happened after it?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PCL-5 - Blaming Yourself or Someone Else</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PCL01-Feel Upset When Reminded" nciodm:ExtCodeID="C135925">
+                    <nciodm:CDISCSynonym>PCL01-Feel Upset When Reminded</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The PTSD Checklist for DSM-5 - In the past month, how much were you bothered by: Feeling very upset when something reminded you of the stressful experience?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PCL-5 - Feel Upset When Reminded</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PCL01-Feeling Distant From People" nciodm:ExtCodeID="C135934">
+                    <nciodm:CDISCSynonym>PCL01-Feeling Distant From People</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The PTSD Checklist for DSM-5 - In the past month, how much were you bothered by: Feeling distant or cut off from other people?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PCL-5 - Feeling Distant From People</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PCL01-Feeling Jumpy or Easily Startled" nciodm:ExtCodeID="C135939">
+                    <nciodm:CDISCSynonym>PCL01-Feeling Jumpy or Easily Startled</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The PTSD Checklist for DSM-5 - In the past month, how much were you bothered by: Feeling jumpy or easily startled?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PCL-5 - Feeling Jumpy or Easily Startled</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PCL01-Having Difficulty Concentrating" nciodm:ExtCodeID="C135940">
+                    <nciodm:CDISCSynonym>PCL01-Having Difficulty Concentrating</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The PTSD Checklist for DSM-5 - In the past month, how much were you bothered by: Having difficulty concentrating?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PCL-5 - Having Difficulty Concentrating</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PCL01-Irritable Behavior/Angry Outbursts" nciodm:ExtCodeID="C135936">
+                    <nciodm:CDISCSynonym>PCL01-Irritable Behavior/Angry Outbursts</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The PTSD Checklist for DSM-5 - In the past month, how much were you bothered by: Irritable behavior, angry outbursts, or acting aggressively?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PCL-5 - Irritable Behavior or Angry Outbursts</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PCL01-Loss of Interest in Activities" nciodm:ExtCodeID="C135933">
+                    <nciodm:CDISCSynonym>PCL01-Loss of Interest in Activities</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The PTSD Checklist for DSM-5 - In the past month, how much were you bothered by: Loss of interest in activities that you used to enjoy?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PCL-5 - Loss of Interest in Activities</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PCL01-Repeated Disturbing Dreams" nciodm:ExtCodeID="C135923">
+                    <nciodm:CDISCSynonym>PCL01-Repeated Disturbing Dreams</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The PTSD Checklist for DSM-5 - In the past month, how much were you bothered by: Repeated, disturbing dreams of the stressful experience?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PCL-5 - Repeated Disturbing Dreams</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PCL01-Repeated Disturbing Memories" nciodm:ExtCodeID="C135922">
+                    <nciodm:CDISCSynonym>PCL01-Repeated Disturbing Memories</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The PTSD Checklist for DSM-5 - In the past month, how much were you bothered by: Repeated, disturbing, and unwanted memories of the stressful experience?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PCL-5 - Repeated Disturbing Memories</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PCL01-Strong Negative Beliefs" nciodm:ExtCodeID="C135930">
+                    <nciodm:CDISCSynonym>PCL01-Strong Negative Beliefs</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The PTSD Checklist for DSM-5 - In the past month, how much were you bothered by: Having strong negative beliefs about yourself, other people, or the world (for example, having thoughts such as: I am bad, there is something seriously wrong with me, no one can be trusted, the world is completely dangerous)?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PCL-5 - Strong Negative Beliefs</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PCL01-Strong Negative Feelings" nciodm:ExtCodeID="C135932">
+                    <nciodm:CDISCSynonym>PCL01-Strong Negative Feelings</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The PTSD Checklist for DSM-5 - In the past month, how much were you bothered by: Having strong negative feelings such as fear, horror, anger, guilt, or shame?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PCL-5 - Strong Negative Feelings</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PCL01-Strong Physical Reactions" nciodm:ExtCodeID="C135926">
+                    <nciodm:CDISCSynonym>PCL01-Strong Physical Reactions</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The PTSD Checklist for DSM-5 - In the past month, how much were you bothered by: Having strong physical reactions when something reminded you of the stressful experience (for example, heart pounding, trouble breathing, sweating)?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PCL-5 - Strong Physical Reactions</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PCL01-Suddenly Feeling Happening Again" nciodm:ExtCodeID="C135924">
+                    <nciodm:CDISCSynonym>PCL01-Suddenly Feeling Happening Again</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The PTSD Checklist for DSM-5 - In the past month, how much were you bothered by: Suddenly feeling or acting as if the stressful experience were actually happening again (as if you were actually back there reliving it)?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PCL-5 - Suddenly Feeling Happening Again</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PCL01-Taking Too Many Risks/Cause Harm" nciodm:ExtCodeID="C135937">
+                    <nciodm:CDISCSynonym>PCL01-Taking Too Many Risks/Cause Harm</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The PTSD Checklist for DSM-5 - In the past month, how much were you bothered by: Taking too many risks or doing things that could cause you harm?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PCL-5 - Taking Too Many Risks or Cause Harm</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PCL01-Trouble Experiencing Pos Feelings" nciodm:ExtCodeID="C135935">
+                    <nciodm:CDISCSynonym>PCL01-Trouble Experiencing Pos Feelings</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The PTSD Checklist for DSM-5 - In the past month, how much were you bothered by: Trouble experiencing positive feelings (for example, being unable to feel happiness or have loving feelings for people close to you)?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PCL-5 - Trouble Experiencing Positive Feelings</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PCL01-Trouble Falling or Staying Asleep" nciodm:ExtCodeID="C135941">
+                    <nciodm:CDISCSynonym>PCL01-Trouble Falling or Staying Asleep</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The PTSD Checklist for DSM-5 - In the past month, how much were you bothered by: Trouble falling or staying asleep?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PCL-5 - Trouble Falling or Staying Asleep</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PCL01-Trouble Remembering Important Part" nciodm:ExtCodeID="C135929">
+                    <nciodm:CDISCSynonym>PCL01-Trouble Remembering Important Part</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The PTSD Checklist for DSM-5 - In the past month, how much were you bothered by: Trouble remembering important parts of the stressful experience?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PCL-5 - Trouble Remembering Important Parts</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>PCL01TN</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>The PTSD Checklist for DSM-5 Questionnaire Test Name</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Questionnaire PCL-5 Test Name Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

@@ -1,0 +1,469 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C135693.PODCI1TN" Name="Pediatric Outcomes Data Collection Instrument, Pediatric Parent-Reported Version Questionnaire Test Name" DataType="text" nciodm:ExtCodeID="C135693" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Pediatric Outcomes Data Collection Instrument, Pediatric Parent-Reported Version test name.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="PODCI1-Ability Do Same Things Friends Do" nciodm:ExtCodeID="C135954">
+                    <nciodm:CDISCSynonym>PODCI1-Ability Do Same Things Friends Do</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Outcomes Data Collection Instrument, Pediatric Parent-Reported - During the last week, how happy has your child been with: His/her ability to do the same things his/her friends do?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PODCI Pediatric Parent-Reported Version - Ability Do Same Things Friends Do</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PODCI1-Able to Do Activities at Home" nciodm:ExtCodeID="C136022">
+                    <nciodm:CDISCSynonym>PODCI1-Able to Do Activities at Home</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Outcomes Data Collection Instrument, Pediatric Parent-Reported - As a result of my child's treatment, I expect my child: To be able to do activities at home.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PODCI Pediatric Parent-Reported Version - Able to Do Activities at Home</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PODCI1-Able to Do More at School" nciodm:ExtCodeID="C136023">
+                    <nciodm:CDISCSynonym>PODCI1-Able to Do More at School</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Outcomes Data Collection Instrument, Pediatric Parent-Reported - As a result of my child's treatment, I expect my child: To be able to do more at school.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PODCI Pediatric Parent-Reported Version - Able to Do More at School</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PODCI1-Able to Do More Play" nciodm:ExtCodeID="C136024">
+                    <nciodm:CDISCSynonym>PODCI1-Able to Do More Play</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Outcomes Data Collection Instrument, Pediatric Parent-Reported - As a result of my child's treatment, I expect my child: To be able to do more play or recreational activities (biking, walking, doing things with friends).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PODCI Pediatric Parent-Reported Version - Able to Do More Play</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PODCI1-Able to Do More Sports" nciodm:ExtCodeID="C136025">
+                    <nciodm:CDISCSynonym>PODCI1-Able to Do More Sports</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Outcomes Data Collection Instrument, Pediatric Parent-Reported - As a result of my child's treatment, I expect my child: To be able to do more sports.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PODCI Pediatric Parent-Reported Version - Able to Do More Sports</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PODCI1-Bend Over and Pick Up Something" nciodm:ExtCodeID="C135974">
+                    <nciodm:CDISCSynonym>PODCI1-Bend Over and Pick Up Something</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Outcomes Data Collection Instrument, Pediatric Parent-Reported - During the last week, has it been easy or hard for your child to: Bend over from a standing position and pick up something off the floor?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PODCI Pediatric Parent-Reported Version - Bend Over and Pick Up Something</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PODCI1-Bicycle or Tricycle" nciodm:ExtCodeID="C135960">
+                    <nciodm:CDISCSynonym>PODCI1-Bicycle or Tricycle</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Outcomes Data Collection Instrument, Pediatric Parent-Reported - During the last week, has it been easy or hard for your child to: Bicycle or tricycle?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PODCI Pediatric Parent-Reported Version - Bicycle or Tricycle</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PODCI1-Button Buttons" nciodm:ExtCodeID="C135947">
+                    <nciodm:CDISCSynonym>PODCI1-Button Buttons</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Outcomes Data Collection Instrument, Pediatric Parent-Reported - During the last week, was it easy or hard for your child to: Button buttons?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PODCI Pediatric Parent-Reported Version - Button Buttons</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PODCI1-Climb One Flight of Stairs" nciodm:ExtCodeID="C135962">
+                    <nciodm:CDISCSynonym>PODCI1-Climb One Flight of Stairs</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Outcomes Data Collection Instrument, Pediatric Parent-Reported - During the last week, has it been easy or hard for your child to: Climb one flight of stairs?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PODCI Pediatric Parent-Reported Version - Climb One Flight of Stairs</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PODCI1-Climb Three Flights of Stairs" nciodm:ExtCodeID="C135961">
+                    <nciodm:CDISCSynonym>PODCI1-Climb Three Flights of Stairs</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Outcomes Data Collection Instrument, Pediatric Parent-Reported - During the last week, has it been easy or hard for your child to: Climb three flights of stairs?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PODCI Pediatric Parent-Reported Version - Climb Three Flights of Stairs</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PODCI1-Comb His/Her Hair" nciodm:ExtCodeID="C135946">
+                    <nciodm:CDISCSynonym>PODCI1-Comb His/Her Hair</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Outcomes Data Collection Instrument, Pediatric Parent-Reported - During the last week, was it easy or hard for your child to: Comb his/her hair?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PODCI Pediatric Parent-Reported Version - Comb His or Her Hair</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PODCI1-Comp Sports Limited by: Dislike" nciodm:ExtCodeID="C135998">
+                    <nciodm:CDISCSynonym>PODCI1-Comp Sports Limited by: Dislike</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Outcomes Data Collection Instrument, Pediatric Parent-Reported - If you answered "no" to Question 52 above, was your child's activity limited by: Dislike of pickup games or sports?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PODCI Pediatric Parent-Reported Version - Competitive Sports Limited by: Dislike</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PODCI1-Comp Sports Limited by: Fear" nciodm:ExtCodeID="C135997">
+                    <nciodm:CDISCSynonym>PODCI1-Comp Sports Limited by: Fear</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Outcomes Data Collection Instrument, Pediatric Parent-Reported - If you answered "no" to Question 52 above, was your child's activity limited by: Fear the other kids won't like him/her?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PODCI Pediatric Parent-Reported Version - Competitive Sports Limited by: Fear</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PODCI1-Comp Sports Limited by: Health" nciodm:ExtCodeID="C135995">
+                    <nciodm:CDISCSynonym>PODCI1-Comp Sports Limited by: Health</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Outcomes Data Collection Instrument, Pediatric Parent-Reported - If you answered "no" to Question 52 above, was your child's activity limited by: General health?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PODCI Pediatric Parent-Reported Version - Competitive Sports Limited by: Health</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PODCI1-Comp Sports Limited by: Instruct" nciodm:ExtCodeID="C135996">
+                    <nciodm:CDISCSynonym>PODCI1-Comp Sports Limited by: Instruct</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Outcomes Data Collection Instrument, Pediatric Parent-Reported - If you answered "no" to Question 52 above, was your child's activity limited by: Doctor or parent instructions?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PODCI Pediatric Parent-Reported Version - Competitive Sports Limited by: Instruction</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PODCI1-Comp Sports Limited by: Pain" nciodm:ExtCodeID="C135994">
+                    <nciodm:CDISCSynonym>PODCI1-Comp Sports Limited by: Pain</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Outcomes Data Collection Instrument, Pediatric Parent-Reported - If you answered "no" to Question 52 above, was your child's activity limited by: Pain?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PODCI Pediatric Parent-Reported Version - Competitive Sports Limited by: Pain</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PODCI1-Comp Sports Limited by: Season" nciodm:ExtCodeID="C136000">
+                    <nciodm:CDISCSynonym>PODCI1-Comp Sports Limited by: Season</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Outcomes Data Collection Instrument, Pediatric Parent-Reported - If you answered "no" to Question 52 above, was your child's activity limited by: Activity not in season?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PODCI Pediatric Parent-Reported Version - Competitive Sports Limited by: Season</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PODCI1-Comp Sports Limited by: Too Young" nciodm:ExtCodeID="C135999">
+                    <nciodm:CDISCSynonym>PODCI1-Comp Sports Limited by: Too Young</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Outcomes Data Collection Instrument, Pediatric Parent-Reported - If you answered "no" to Question 52 above, was your child's activity limited by: Too young?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PODCI Pediatric Parent-Reported Version - Competitive Sports Limited by: Too Young</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PODCI1-Easy to Make Friends" nciodm:ExtCodeID="C136015">
+                    <nciodm:CDISCSynonym>PODCI1-Easy to Make Friends</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Outcomes Data Collection Instrument, Pediatric Parent-Reported - Is it easy or hard for your child to make friends with children his/her own age?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PODCI Pediatric Parent-Reported Version - Easy to Make Friends</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PODCI1-Feel Better" nciodm:ExtCodeID="C136020">
+                    <nciodm:CDISCSynonym>PODCI1-Feel Better</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Outcomes Data Collection Instrument, Pediatric Parent-Reported - As a result of my child's treatment, I expect my child: To feel better about himself/herself.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PODCI Pediatric Parent-Reported Version - Feel Better</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PODCI1-Feel Sick and Tired" nciodm:ExtCodeID="C135956">
+                    <nciodm:CDISCSynonym>PODCI1-Feel Sick and Tired</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Outcomes Data Collection Instrument, Pediatric Parent-Reported - During the last week, how much of the time: Did your child feel sick and tired?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PODCI Pediatric Parent-Reported Version - Feel Sick and Tired</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PODCI1-Free From Pain as Adult" nciodm:ExtCodeID="C136026">
+                    <nciodm:CDISCSynonym>PODCI1-Free From Pain as Adult</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Outcomes Data Collection Instrument, Pediatric Parent-Reported - As a result of my child's treatment, I expect my child: To be free from pain or disability as an adult.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PODCI Pediatric Parent-Reported Version - Free From Pain as Adult</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PODCI1-Friends Limited by: Fear" nciodm:ExtCodeID="C136005">
+                    <nciodm:CDISCSynonym>PODCI1-Friends Limited by: Fear</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Outcomes Data Collection Instrument, Pediatric Parent-Reported - If you answered "sometimes" or "never or rarely" to Question 60 above, was your child's activity limited by: Fear the other kids won't like him/her?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PODCI Pediatric Parent-Reported Version - Friends Limited by: Fear</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PODCI1-Friends Limited by: Health" nciodm:ExtCodeID="C136003">
+                    <nciodm:CDISCSynonym>PODCI1-Friends Limited by: Health</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Outcomes Data Collection Instrument, Pediatric Parent-Reported - If you answered "sometimes" or "never or rarely" to Question 60 above, was your child's activity limited by: General health?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PODCI Pediatric Parent-Reported Version - Friends Limited by: Health</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PODCI1-Friends Limited by: Instructions" nciodm:ExtCodeID="C136004">
+                    <nciodm:CDISCSynonym>PODCI1-Friends Limited by: Instructions</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Outcomes Data Collection Instrument, Pediatric Parent-Reported - If you answered "sometimes" or "never or rarely" to Question 60 above, was your child's activity limited by: Doctor or parent instructions?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PODCI Pediatric Parent-Reported Version - Friends Limited by: Instructions</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PODCI1-Friends Limited by: Not Around" nciodm:ExtCodeID="C136006">
+                    <nciodm:CDISCSynonym>PODCI1-Friends Limited by: Not Around</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Outcomes Data Collection Instrument, Pediatric Parent-Reported - If you answered "sometimes" or "never or rarely" to Question 60 above, was your child's activity limited by: Friends not around?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PODCI Pediatric Parent-Reported Version - Friends Limited by: Not Around</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PODCI1-Friends Limited by: Pain" nciodm:ExtCodeID="C136002">
+                    <nciodm:CDISCSynonym>PODCI1-Friends Limited by: Pain</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Outcomes Data Collection Instrument, Pediatric Parent-Reported - If you answered "sometimes" or "never or rarely" to Question 60 above, was your child's activity limited by: Pain?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PODCI Pediatric Parent-Reported Version - Friends Limited by: Pain</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PODCI1-Full of Pep and Energy" nciodm:ExtCodeID="C135957">
+                    <nciodm:CDISCSynonym>PODCI1-Full of Pep and Energy</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Outcomes Data Collection Instrument, Pediatric Parent-Reported - During the last week, how much of the time: Were your child full of pep and energy?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PODCI Pediatric Parent-Reported Version - Full of Pep and Energy</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PODCI1-Games Limited by: Dislike" nciodm:ExtCodeID="C135990">
+                    <nciodm:CDISCSynonym>PODCI1-Games Limited by: Dislike</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Outcomes Data Collection Instrument, Pediatric Parent-Reported - If you answered "no" to Question 44 above, was your child's activity limited by: Dislike of pickup games or sports?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PODCI Pediatric Parent-Reported Version - Games Limited by: Dislike</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PODCI1-Games Limited by: Fear" nciodm:ExtCodeID="C135989">
+                    <nciodm:CDISCSynonym>PODCI1-Games Limited by: Fear</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Outcomes Data Collection Instrument, Pediatric Parent-Reported - If you answered "no" to Question 44 above, was your child's activity limited by: Fear the other kids won't like him/her?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PODCI Pediatric Parent-Reported Version - Games Limited by: Fear</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PODCI1-Games Limited by: Health" nciodm:ExtCodeID="C135987">
+                    <nciodm:CDISCSynonym>PODCI1-Games Limited by: Health</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Outcomes Data Collection Instrument, Pediatric Parent-Reported - If you answered "no" to Question 44 above, was your child's activity limited by: General health?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PODCI Pediatric Parent-Reported Version - Games Limited by: Health</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PODCI1-Games Limited by: Instructions" nciodm:ExtCodeID="C135988">
+                    <nciodm:CDISCSynonym>PODCI1-Games Limited by: Instructions</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Outcomes Data Collection Instrument, Pediatric Parent-Reported - If you answered "no" to Question 44 above, was your child's activity limited by: Doctor or parent instructions?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PODCI Pediatric Parent-Reported Version - Games Limited by: Instructions</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PODCI1-Games Limited by: Pain" nciodm:ExtCodeID="C135986">
+                    <nciodm:CDISCSynonym>PODCI1-Games Limited by: Pain</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Outcomes Data Collection Instrument, Pediatric Parent-Reported - If you answered "no" to Question 44 above, was your child's activity limited by: Pain?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PODCI Pediatric Parent-Reported Version - Games Limited by: Pain</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PODCI1-Games Limited by: Season" nciodm:ExtCodeID="C135992">
+                    <nciodm:CDISCSynonym>PODCI1-Games Limited by: Season</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Outcomes Data Collection Instrument, Pediatric Parent-Reported - If you answered "no" to Question 44 above, was your child's activity limited by: Activity not in season?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PODCI Pediatric Parent-Reported Version - Games Limited by: Season</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PODCI1-Games Limited by: Too Young" nciodm:ExtCodeID="C135991">
+                    <nciodm:CDISCSynonym>PODCI1-Games Limited by: Too Young</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Outcomes Data Collection Instrument, Pediatric Parent-Reported - If you answered "no" to Question 44 above, was your child's activity limited by: Too young?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PODCI Pediatric Parent-Reported Version - Games Limited by: Too Young</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PODCI1-Get In and Out of Bed" nciodm:ExtCodeID="C135972">
+                    <nciodm:CDISCSynonym>PODCI1-Get In and Out of Bed</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Outcomes Data Collection Instrument, Pediatric Parent-Reported - During the last week, has it been easy or hard for your child to: Get in and out of bed?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PODCI Pediatric Parent-Reported Version - Get In and Out of Bed</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PODCI1-Get On and Off a Bus" nciodm:ExtCodeID="C135966">
+                    <nciodm:CDISCSynonym>PODCI1-Get On and Off a Bus</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Outcomes Data Collection Instrument, Pediatric Parent-Reported - During the last week, has it been easy or hard for your child to: Get on and off a bus?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PODCI Pediatric Parent-Reported Version - Get On and Off a Bus</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PODCI1-Get On and Off a Toilet or Chair" nciodm:ExtCodeID="C135971">
+                    <nciodm:CDISCSynonym>PODCI1-Get On and Off a Toilet or Chair</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Outcomes Data Collection Instrument, Pediatric Parent-Reported - During the last week, has it been easy or hard for your child to: Get on and off a toilet or chair?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PODCI Pediatric Parent-Reported Version - Get On and Off a Toilet or Chair</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PODCI1-Get Together With Friends" nciodm:ExtCodeID="C136001">
+                    <nciodm:CDISCSynonym>PODCI1-Get Together With Friends</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Outcomes Data Collection Instrument, Pediatric Parent-Reported - How often in the last week did your child get together and do things with friends?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PODCI Pediatric Parent-Reported Version - Get Together With Friends</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PODCI1-Global Functioning Scale" nciodm:ExtCodeID="C136033">
+                    <nciodm:CDISCSynonym>PODCI1-Global Functioning Scale</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Outcomes Data Collection Instrument, Pediatric Parent-Reported - Global functioning scale.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PODCI Pediatric Parent-Reported Version - Global Functioning Scale</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PODCI1-Gym Limited by: Dislike" nciodm:ExtCodeID="C136012">
+                    <nciodm:CDISCSynonym>PODCI1-Gym Limited by: Dislike</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Outcomes Data Collection Instrument, Pediatric Parent-Reported - If you answered "sometimes" or "never or rarely" to Question 66 above, was your child's activity limited by: Dislike of gym/recess?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PODCI Pediatric Parent-Reported Version - Gym Limited by: Dislike</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PODCI1-Gym Limited by: Fear" nciodm:ExtCodeID="C136011">
+                    <nciodm:CDISCSynonym>PODCI1-Gym Limited by: Fear</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Outcomes Data Collection Instrument, Pediatric Parent-Reported - If you answered "sometimes" or "never or rarely" to Question 66 above, was your child's activity limited by: Fear the other kids won't like him/her?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PODCI Pediatric Parent-Reported Version - Gym Limited by: Fear</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PODCI1-Gym Limited by: Health" nciodm:ExtCodeID="C136009">
+                    <nciodm:CDISCSynonym>PODCI1-Gym Limited by: Health</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Outcomes Data Collection Instrument, Pediatric Parent-Reported - If you answered "sometimes" or "never or rarely" to Question 66 above, was your child's activity limited by: General health?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PODCI Pediatric Parent-Reported Version - Gym Limited by: Health</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PODCI1-Gym Limited by: Instructions" nciodm:ExtCodeID="C136010">
+                    <nciodm:CDISCSynonym>PODCI1-Gym Limited by: Instructions</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Outcomes Data Collection Instrument, Pediatric Parent-Reported - If you answered "sometimes" or "never or rarely" to Question 66 above, was your child's activity limited by: Doctor or parent instructions?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PODCI Pediatric Parent-Reported Version - Gym Limited by: Instructions</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PODCI1-Gym Limited by: Not Attend School" nciodm:ExtCodeID="C136014">
+                    <nciodm:CDISCSynonym>PODCI1-Gym Limited by: Not Attend School</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Outcomes Data Collection Instrument, Pediatric Parent-Reported - If you answered "sometimes" or "never or rarely" to Question 66 above, was your child's activity limited by: Does not attend school?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PODCI Pediatric Parent-Reported Version - Gym Limited by: Not Attend School</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PODCI1-Gym Limited by: Not in Session" nciodm:ExtCodeID="C136013">
+                    <nciodm:CDISCSynonym>PODCI1-Gym Limited by: Not in Session</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Outcomes Data Collection Instrument, Pediatric Parent-Reported - If you answered "sometimes" or "never or rarely" to Question 66 above, was your child's activity limited by: School not in session?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PODCI Pediatric Parent-Reported Version - Gym Limited by: Not in Session</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PODCI1-Gym Limited by: Pain" nciodm:ExtCodeID="C136008">
+                    <nciodm:CDISCSynonym>PODCI1-Gym Limited by: Pain</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Outcomes Data Collection Instrument, Pediatric Parent-Reported - If you answered "sometimes" or "never or rarely" to Question 66 above, was your child's activity limited by: Pain?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PODCI Pediatric Parent-Reported Version - Gym Limited by: Pain</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PODCI1-Happiness Scale" nciodm:ExtCodeID="C136032">
+                    <nciodm:CDISCSynonym>PODCI1-Happiness Scale</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Outcomes Data Collection Instrument, Pediatric Parent-Reported - Happiness core scale.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PODCI Pediatric Parent-Reported Version - Happiness Scale</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PODCI1-Have Pain Relief" nciodm:ExtCodeID="C136018">
+                    <nciodm:CDISCSynonym>PODCI1-Have Pain Relief</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Outcomes Data Collection Instrument, Pediatric Parent-Reported - As a result of my child's treatment, I expect my child: To have pain relief.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PODCI Pediatric Parent-Reported Version - Have Pain Relief</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PODCI1-His/Her Body" nciodm:ExtCodeID="C135952">
+                    <nciodm:CDISCSynonym>PODCI1-His/Her Body</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Outcomes Data Collection Instrument, Pediatric Parent-Reported - During the last week, how happy has your child been with: His/her body?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PODCI Pediatric Parent-Reported Version - His or Her Body</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PODCI1-His/Her Health in General" nciodm:ExtCodeID="C135955">
+                    <nciodm:CDISCSynonym>PODCI1-His/Her Health in General</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Outcomes Data Collection Instrument, Pediatric Parent-Reported - During the last week, how happy has your child been with: His/her health in general?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PODCI Pediatric Parent-Reported Version - His or Her Health in General</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PODCI1-How He/She Looks" nciodm:ExtCodeID="C135951">
+                    <nciodm:CDISCSynonym>PODCI1-How He/She Looks</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Outcomes Data Collection Instrument, Pediatric Parent-Reported - During the last week, how happy has your child been with: How he/she looks?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PODCI Pediatric Parent-Reported Version - How He or She Looks</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PODCI1-Lift Heavy Books" nciodm:ExtCodeID="C135942">
+                    <nciodm:CDISCSynonym>PODCI1-Lift Heavy Books</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Outcomes Data Collection Instrument, Pediatric Parent-Reported - During the last week, was it easy or hard for your child to: Lift heavy books?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PODCI Pediatric Parent-Reported Version - Lift Heavy Books</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PODCI1-Look Better" nciodm:ExtCodeID="C136019">
+                    <nciodm:CDISCSynonym>PODCI1-Look Better</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Outcomes Data Collection Instrument, Pediatric Parent-Reported - As a result of my child's treatment, I expect my child: To look better.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PODCI Pediatric Parent-Reported Version - Look Better</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PODCI1-Miss School Because of Health" nciodm:ExtCodeID="C135950">
+                    <nciodm:CDISCSynonym>PODCI1-Miss School Because of Health</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Outcomes Data Collection Instrument, Pediatric Parent-Reported - On average, over the last 12 months, how often did your child miss school (preschool, day care, camp, etc.) because of his/her health?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PODCI Pediatric Parent-Reported Version - Miss School Because of Health</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PODCI1-Need Help Sitting and Standing" nciodm:ExtCodeID="C135975">
+                    <nciodm:CDISCSynonym>PODCI1-Need Help Sitting and Standing</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Outcomes Data Collection Instrument, Pediatric Parent-Reported - How often does your child need help from another person for sitting and standing?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PODCI Pediatric Parent-Reported Version - Need Help Sitting and Standing</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PODCI1-Need Help Walking and Climbing" nciodm:ExtCodeID="C135967">
+                    <nciodm:CDISCSynonym>PODCI1-Need Help Walking and Climbing</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Outcomes Data Collection Instrument, Pediatric Parent-Reported - How often does your child need help from another person for walking and climbing?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PODCI Pediatric Parent-Reported Version - Need Help Walking and Climbing</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PODCI1-Open a Jar Been Opened Before" nciodm:ExtCodeID="C135944">
+                    <nciodm:CDISCSynonym>PODCI1-Open a Jar Been Opened Before</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Outcomes Data Collection Instrument, Pediatric Parent-Reported - During the last week, was it easy or hard for your child to: Open a jar that has been opened before?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PODCI Pediatric Parent-Reported Version - Open a Jar Been Opened Before</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PODCI1-Outdoor Limited by: Dislike" nciodm:ExtCodeID="C135982">
+                    <nciodm:CDISCSynonym>PODCI1-Outdoor Limited by: Dislike</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Outcomes Data Collection Instrument, Pediatric Parent-Reported - If you answered "no" to Question 36 above, was your child's activity limited by: Dislike of recreational outdoor activities?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PODCI Pediatric Parent-Reported Version - Outdoor Limited by: Dislike</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PODCI1-Outdoor Limited by: Fear" nciodm:ExtCodeID="C135981">
+                    <nciodm:CDISCSynonym>PODCI1-Outdoor Limited by: Fear</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Outcomes Data Collection Instrument, Pediatric Parent-Reported - If you answered "no" to Question 36 above, was your child's activity limited by: Fear the other kids won't like him/her?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PODCI Pediatric Parent-Reported Version - Outdoor Limited by: Fear</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PODCI1-Outdoor Limited by: Health" nciodm:ExtCodeID="C135979">
+                    <nciodm:CDISCSynonym>PODCI1-Outdoor Limited by: Health</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Outcomes Data Collection Instrument, Pediatric Parent-Reported - If you answered "no" to Question 36 above, was your child's activity limited by: General health?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PODCI Pediatric Parent-Reported Version - Outdoor Limited by: Health</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PODCI1-Outdoor Limited by: Instructions" nciodm:ExtCodeID="C135980">
+                    <nciodm:CDISCSynonym>PODCI1-Outdoor Limited by: Instructions</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Outcomes Data Collection Instrument, Pediatric Parent-Reported - If you answered "no" to Question 36 above, was your child's activity limited by: Doctor or parent instructions?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PODCI Pediatric Parent-Reported Version - Outdoor Limited by: Instructions</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PODCI1-Outdoor Limited by: Pain" nciodm:ExtCodeID="C135978">
+                    <nciodm:CDISCSynonym>PODCI1-Outdoor Limited by: Pain</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Outcomes Data Collection Instrument, Pediatric Parent-Reported - If you answered "no" to Question 36 above, was your child's activity limited by: Pain?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PODCI Pediatric Parent-Reported Version - Outdoor Limited by: Pain</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PODCI1-Outdoor Limited by: Season" nciodm:ExtCodeID="C135984">
+                    <nciodm:CDISCSynonym>PODCI1-Outdoor Limited by: Season</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Outcomes Data Collection Instrument, Pediatric Parent-Reported - If you answered "no" to Question 36 above, was your child's activity limited by: Activity not in season?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PODCI Pediatric Parent-Reported Version - Outdoor Limited by: Season</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PODCI1-Outdoor Limited by: Too Young" nciodm:ExtCodeID="C135983">
+                    <nciodm:CDISCSynonym>PODCI1-Outdoor Limited by: Too Young</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Outcomes Data Collection Instrument, Pediatric Parent-Reported - If you answered "no" to Question 36 above, was your child's activity limited by: Too young?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PODCI Pediatric Parent-Reported Version - Outdoor Limited by: Too Young</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PODCI1-Pain During the Last Week" nciodm:ExtCodeID="C136016">
+                    <nciodm:CDISCSynonym>PODCI1-Pain During the Last Week</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Outcomes Data Collection Instrument, Pediatric Parent-Reported - How much pain has your child had during the last week?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PODCI Pediatric Parent-Reported Version - Pain During the Last Week</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PODCI1-Pain Interfere With Activities" nciodm:ExtCodeID="C136017">
+                    <nciodm:CDISCSynonym>PODCI1-Pain Interfere With Activities</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Outcomes Data Collection Instrument, Pediatric Parent-Reported - During the last week, how much did pain interfere with your child's normal activities (including at home, outside of the home, and at school)?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PODCI Pediatric Parent-Reported Version - Pain Interfere With Activities</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PODCI1-Pain/Comfort Scale" nciodm:ExtCodeID="C136031">
+                    <nciodm:CDISCSynonym>PODCI1-Pain/Comfort Scale</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Outcomes Data Collection Instrument, Pediatric Parent-Reported - Pain/comfort core scale.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PODCI Pediatric Parent-Reported Version - Pain or Comfort Scale</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PODCI1-Pain/Discom Inter With Activities" nciodm:ExtCodeID="C135958">
+                    <nciodm:CDISCSynonym>PODCI1-Pain/Discom Inter With Activities</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Outcomes Data Collection Instrument, Pediatric Parent-Reported - During the last week, how much of the time: Did pain or discomfort interfere with your child's activities?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PODCI Pediatric Parent-Reported Version - Pain or Discomfort Interfere With Activities</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PODCI1-Participate in Competitive Sports" nciodm:ExtCodeID="C135993">
+                    <nciodm:CDISCSynonym>PODCI1-Participate in Competitive Sports</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Outcomes Data Collection Instrument, Pediatric Parent-Reported - Can your child participate in competitive level sports with other children the same age (For example: hockey, basketball, soccer, football, baseball, swimming, running [track or cross country], gymnastics, or dance)?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PODCI Pediatric Parent-Reported Version - Participate in Competitive Sports</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PODCI1-Participate in Gym/Recess" nciodm:ExtCodeID="C136007">
+                    <nciodm:CDISCSynonym>PODCI1-Participate in Gym/Recess</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Outcomes Data Collection Instrument, Pediatric Parent-Reported - How often in the last week did your child participate in gym/recess?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PODCI Pediatric Parent-Reported Version - Participate in Gym or Recess</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PODCI1-Participate in Outdoor Activities" nciodm:ExtCodeID="C135977">
+                    <nciodm:CDISCSynonym>PODCI1-Participate in Outdoor Activities</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Outcomes Data Collection Instrument, Pediatric Parent-Reported - Can your child participate in recreational outdoor activities with other children the same age (For example: bicycling, tricycling, skating, hiking, jogging)?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PODCI Pediatric Parent-Reported Version - Participate in Outdoor Activities</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PODCI1-Participate in Pickup Games" nciodm:ExtCodeID="C135985">
+                    <nciodm:CDISCSynonym>PODCI1-Participate in Pickup Games</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Outcomes Data Collection Instrument, Pediatric Parent-Reported - Can your child participate in pickup games or sports with other children the same age (For example: tag, dodge ball, basketball, soccer, catch, jump rope, touch football, hop scotch)?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PODCI Pediatric Parent-Reported Version - Participate in Pickup Games</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PODCI1-Pour a Half Gallon of Milk" nciodm:ExtCodeID="C135943">
+                    <nciodm:CDISCSynonym>PODCI1-Pour a Half Gallon of Milk</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Outcomes Data Collection Instrument, Pediatric Parent-Reported - During the last week, was it easy or hard for your child to: Pour a half gallon of milk?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PODCI Pediatric Parent-Reported Version - Pour a Half Gallon of Milk</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PODCI1-Put on His/Her Coat" nciodm:ExtCodeID="C135948">
+                    <nciodm:CDISCSynonym>PODCI1-Put on His/Her Coat</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Outcomes Data Collection Instrument, Pediatric Parent-Reported - During the last week, was it easy or hard for your child to: Put on his/her coat?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PODCI Pediatric Parent-Reported Version - Put on His or Her Coat</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PODCI1-Run Short Distances" nciodm:ExtCodeID="C135959">
+                    <nciodm:CDISCSynonym>PODCI1-Run Short Distances</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Outcomes Data Collection Instrument, Pediatric Parent-Reported - During the last week, has it been easy or hard for your child to: Run short distances?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PODCI Pediatric Parent-Reported Version - Run Short Distances</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PODCI1-Sit in Chair Without Holding On" nciodm:ExtCodeID="C135970">
+                    <nciodm:CDISCSynonym>PODCI1-Sit in Chair Without Holding On</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Outcomes Data Collection Instrument, Pediatric Parent-Reported - During the last week, has it been easy or hard for your child to: Sit in a regular chair without holding on?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PODCI Pediatric Parent-Reported Version - Sit in Chair Without Holding On</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PODCI1-Sleep More Comfortably" nciodm:ExtCodeID="C136021">
+                    <nciodm:CDISCSynonym>PODCI1-Sleep More Comfortably</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Outcomes Data Collection Instrument, Pediatric Parent-Reported - As a result of my child's treatment, I expect my child: To sleep more comfortably.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PODCI Pediatric Parent-Reported Version - Sleep More Comfortably</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PODCI1-Spend Rest of Life With Condition" nciodm:ExtCodeID="C136027">
+                    <nciodm:CDISCSynonym>PODCI1-Spend Rest of Life With Condition</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Outcomes Data Collection Instrument, Pediatric Parent-Reported - If your child had to spend the rest of his/her life with his/her bone and muscle condition as it is right now, how would you feel about it?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PODCI Pediatric Parent-Reported Version - Spend Rest of Life With Condition</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PODCI1-Sports/Phys Function Scale" nciodm:ExtCodeID="C136030">
+                    <nciodm:CDISCSynonym>PODCI1-Sports/Phys Function Scale</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Outcomes Data Collection Instrument, Pediatric Parent-Reported - Sports and physical functioning core scale.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PODCI Pediatric Parent-Reported Version - Sports and Physical Function Scale</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PODCI1-Stand Washing Hands at a Sink" nciodm:ExtCodeID="C135969">
+                    <nciodm:CDISCSynonym>PODCI1-Stand Washing Hands at a Sink</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Outcomes Data Collection Instrument, Pediatric Parent-Reported - During the last week, has it been easy or hard for your child to: Stand while washing his/her hands and face at a sink?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PODCI Pediatric Parent-Reported Version - Stand Washing Hands at a Sink</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PODCI1-Transfer/Basic Mobility Scale" nciodm:ExtCodeID="C136029">
+                    <nciodm:CDISCSynonym>PODCI1-Transfer/Basic Mobility Scale</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Outcomes Data Collection Instrument, Pediatric Parent-Reported - Transfer and basic mobility core scale.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PODCI Pediatric Parent-Reported Version - Transfer and Basic Mobility Scale</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PODCI1-Turn Door Knobs" nciodm:ExtCodeID="C135973">
+                    <nciodm:CDISCSynonym>PODCI1-Turn Door Knobs</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Outcomes Data Collection Instrument, Pediatric Parent-Reported - During the last week, has it been easy or hard for your child to: Turn door knobs?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PODCI Pediatric Parent-Reported Version - Turn Door Knobs</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PODCI1-Up Extremity/Phys Function Scale" nciodm:ExtCodeID="C136028">
+                    <nciodm:CDISCSynonym>PODCI1-Up Extremity/Phys Function Scale</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Outcomes Data Collection Instrument, Pediatric Parent-Reported - Upper extremity and physical function core scale.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PODCI Pediatric Parent-Reported Version - Upper Extremity and Physical Function Scale</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PODCI1-Use a Fork and Spoon" nciodm:ExtCodeID="C135945">
+                    <nciodm:CDISCSynonym>PODCI1-Use a Fork and Spoon</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Outcomes Data Collection Instrument, Pediatric Parent-Reported - During the last week, was it easy or hard for your child to: Use a fork and spoon?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PODCI Pediatric Parent-Reported Version - Use a Fork and Spoon</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PODCI1-Use Assistive Devices for Sitting" nciodm:ExtCodeID="C135976">
+                    <nciodm:CDISCSynonym>PODCI1-Use Assistive Devices for Sitting</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Outcomes Data Collection Instrument, Pediatric Parent-Reported - How often does your child use assistive devices (such as braces, crutches, or wheelchair) for sitting and standing?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PODCI Pediatric Parent-Reported Version - Use Assistive Devices for Sitting</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PODCI1-Use Assistive Devices for Walking" nciodm:ExtCodeID="C135968">
+                    <nciodm:CDISCSynonym>PODCI1-Use Assistive Devices for Walking</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Outcomes Data Collection Instrument, Pediatric Parent-Reported - How often does your child use assistive devices (such as braces, crutches, or wheelchair) for walking and climbing?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PODCI Pediatric Parent-Reported Version - Use Assistive Devices for Walking</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PODCI1-Walk More Than a Mile" nciodm:ExtCodeID="C135963">
+                    <nciodm:CDISCSynonym>PODCI1-Walk More Than a Mile</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Outcomes Data Collection Instrument, Pediatric Parent-Reported - During the last week, has it been easy or hard for your child to: Walk more than a mile?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PODCI Pediatric Parent-Reported Version - Walk More Than a Mile</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PODCI1-Walk One Block" nciodm:ExtCodeID="C135965">
+                    <nciodm:CDISCSynonym>PODCI1-Walk One Block</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Outcomes Data Collection Instrument, Pediatric Parent-Reported - During the last week, has it been easy or hard for your child to: Walk one block?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PODCI Pediatric Parent-Reported Version - Walk One Block</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PODCI1-Walk Three Blocks" nciodm:ExtCodeID="C135964">
+                    <nciodm:CDISCSynonym>PODCI1-Walk Three Blocks</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Outcomes Data Collection Instrument, Pediatric Parent-Reported - During the last week, has it been easy or hard for your child to: Walk three blocks?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PODCI Pediatric Parent-Reported Version - Walk Three Blocks</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PODCI1-What Clothes/Shoes He/She Wear" nciodm:ExtCodeID="C135953">
+                    <nciodm:CDISCSynonym>PODCI1-What Clothes/Shoes He/She Wear</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Outcomes Data Collection Instrument, Pediatric Parent-Reported - During the last week, how happy has your child been with: What clothes or shoes he/she can wear?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PODCI Pediatric Parent-Reported Version - What Clothes or Shoes He or She Wear</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PODCI1-Write With a Pencil" nciodm:ExtCodeID="C135949">
+                    <nciodm:CDISCSynonym>PODCI1-Write With a Pencil</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Outcomes Data Collection Instrument, Pediatric Parent-Reported - During the last week, was it easy or hard for your child to: Write with a pencil?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PODCI Pediatric Parent-Reported Version - Write With a Pencil</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>PODCI1TN</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Pediatric Outcomes Data Collection Instrument, Pediatric Parent-Reported Version Questionnaire Test Name</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Questionnaire PODCI Pediatric Parent-Reported Version Test Name Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

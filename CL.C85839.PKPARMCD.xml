@@ -547,6 +547,11 @@
                     <nciodm:CDISCDefinition>AUCTAU divided by TAU and then divided by the weight.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Average Concentration Normalized by Weight</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="CHTMAX" nciodm:ExtCodeID="C135489">
+                    <nciodm:CDISCSynonym>Concentration at Half Tmax</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The concentration that occurs at the midpoint time between dosing time and Tmax.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Concentration at Half Tmax</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="CLFO" nciodm:ExtCodeID="C85772">
                     <nciodm:CDISCSynonym>Total CL Obs by F</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The total body clearance for extravascular administration divided by the fraction of dose absorbed, calculated using the observed value of the last non-zero concentration.</nciodm:CDISCDefinition>
@@ -922,6 +927,11 @@
                     <nciodm:CDISCDefinition>The difference between Cmin and Cmax standardized to Cavg, between dose time and Tau.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Concentration Variability Between Dose Time and Tau</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="FU" nciodm:ExtCodeID="C135490">
+                    <nciodm:CDISCSynonym>Fraction Unbound</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The ratio of free drug concentration to the total concentration. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Fraction Unbound</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="HDCL" nciodm:ExtCodeID="C112287">
                     <nciodm:CDISCSynonym>Hemodialysis Clearance</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The clearance of a substance from the blood during a hemodialysis session.</nciodm:CDISCDefinition>
@@ -931,6 +941,11 @@
                     <nciodm:CDISCSynonym>Hemodialysis Extraction Ratio</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The fractional content of a substance removed from the blood during a hemodialysis session.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Hemodialysis Extraction Ratio</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HTMAX" nciodm:ExtCodeID="C135491">
+                    <nciodm:CDISCSynonym>Half Tmax</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The midpoint time between dosing time and Tmax.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Half Tmax</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="LAMZ" nciodm:ExtCodeID="C85652">
                     <nciodm:CDISCSynonym>Lambda z</nciodm:CDISCSynonym>
@@ -951,6 +966,11 @@
                     <nciodm:CDISCSynonym>Number of Points for Lambda z</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The number of time points used in computing Lambda z.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Sum of Lambda Z Timepoints</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LAMZSPN" nciodm:ExtCodeID="C135492">
+                    <nciodm:CDISCSynonym>Lambda z Span</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The interval of time covered by the data points used in the terminal disposition phase regression analysis, divided by half life. This yields the terminal disposition phase duration expressed as the number of half lives.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Lambda Z Span</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="LAMZUL" nciodm:ExtCodeID="C85654">
                     <nciodm:CDISCSynonym>Lambda z Upper Limit</nciodm:CDISCSynonym>

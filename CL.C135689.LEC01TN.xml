@@ -1,0 +1,519 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C135689.LEC01TN" Name="Life Events Checklist for DSM-5 Standard Version Questionnaire Test Name" DataType="text" nciodm:ExtCodeID="C135689" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Life Events Checklist for DSM-5 Standard Version test name.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="LEC01-Assault With a Weapon: Happened" nciodm:ExtCodeID="C135856">
+                    <nciodm:CDISCSynonym>LEC01-Assault With a Weapon: Happened</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Life Events Checklist for DSM-5, Standard Version - Assault with a weapon (for example, being shot, stabbed, threatened with a knife, gun, bomb): Happened to me.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>LEC-5 Standard Version - Assault With a Weapon: Happened</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEC01-Assault With a Weapon: Job" nciodm:ExtCodeID="C135859">
+                    <nciodm:CDISCSynonym>LEC01-Assault With a Weapon: Job</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Life Events Checklist for DSM-5, Standard Version - Assault with a weapon (for example, being shot, stabbed, threatened with a knife, gun, bomb): Part of my job.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>LEC-5 Standard Version - Assault With a Weapon: Job</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEC01-Assault With a Weapon: Learned" nciodm:ExtCodeID="C135858">
+                    <nciodm:CDISCSynonym>LEC01-Assault With a Weapon: Learned</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Life Events Checklist for DSM-5, Standard Version - Assault with a weapon (for example, being shot, stabbed, threatened with a knife, gun, bomb): Learned about it.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>LEC-5 Standard Version - Assault With a Weapon: Learned</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEC01-Assault With a Weapon: Not Apply" nciodm:ExtCodeID="C135861">
+                    <nciodm:CDISCSynonym>LEC01-Assault With a Weapon: Not Apply</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Life Events Checklist for DSM-5, Standard Version - Assault with a weapon (for example, being shot, stabbed, threatened with a knife, gun, bomb): Doesn't apply.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>LEC-5 Standard Version - Assault With a Weapon: Not Apply</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEC01-Assault With a Weapon: Not Sure" nciodm:ExtCodeID="C135860">
+                    <nciodm:CDISCSynonym>LEC01-Assault With a Weapon: Not Sure</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Life Events Checklist for DSM-5, Standard Version - Assault with a weapon (for example, being shot, stabbed, threatened with a knife, gun, bomb): Not sure.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>LEC-5 Standard Version - Assault With a Weapon: Not Sure</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEC01-Assault With a Weapon: Witnessed" nciodm:ExtCodeID="C135857">
+                    <nciodm:CDISCSynonym>LEC01-Assault With a Weapon: Witnessed</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Life Events Checklist for DSM-5, Standard Version - Assault with a weapon (for example, being shot, stabbed, threatened with a knife, gun, bomb): Witnessed it.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>LEC-5 Standard Version - Assault With a Weapon: Witnessed</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEC01-Captivity: Happened" nciodm:ExtCodeID="C135880">
+                    <nciodm:CDISCSynonym>LEC01-Captivity: Happened</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Life Events Checklist for DSM-5, Standard Version - Captivity (for example, being kidnapped, abducted, held hostage, prisoner of war): Happened to me.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>LEC-5 Standard Version - Captivity: Happened</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEC01-Captivity: Job" nciodm:ExtCodeID="C135883">
+                    <nciodm:CDISCSynonym>LEC01-Captivity: Job</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Life Events Checklist for DSM-5, Standard Version - Captivity (for example, being kidnapped, abducted, held hostage, prisoner of war): Part of my job.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>LEC-5 Standard Version - Captivity: Job</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEC01-Captivity: Learned" nciodm:ExtCodeID="C135882">
+                    <nciodm:CDISCSynonym>LEC01-Captivity: Learned</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Life Events Checklist for DSM-5, Standard Version - Captivity (for example, being kidnapped, abducted, held hostage, prisoner of war): Learned about it.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>LEC-5 Standard Version - Captivity: Learned</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEC01-Captivity: Not Apply" nciodm:ExtCodeID="C135885">
+                    <nciodm:CDISCSynonym>LEC01-Captivity: Not Apply</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Life Events Checklist for DSM-5, Standard Version - Captivity (for example, being kidnapped, abducted, held hostage, prisoner of war): Doesn't apply.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>LEC-5 Standard Version - Captivity: Not Apply</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEC01-Captivity: Not Sure" nciodm:ExtCodeID="C135884">
+                    <nciodm:CDISCSynonym>LEC01-Captivity: Not Sure</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Life Events Checklist for DSM-5, Standard Version - Captivity (for example, being kidnapped, abducted, held hostage, prisoner of war): Not sure.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>LEC-5 Standard Version - Captivity: Not Sure</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEC01-Captivity: Witnessed" nciodm:ExtCodeID="C135881">
+                    <nciodm:CDISCSynonym>LEC01-Captivity: Witnessed</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Life Events Checklist for DSM-5, Standard Version - Captivity (for example, being kidnapped, abducted, held hostage, prisoner of war): Witnessed it.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>LEC-5 Standard Version - Captivity: Witnessed</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEC01-Combat/Exp to War-Zone: Happened" nciodm:ExtCodeID="C135874">
+                    <nciodm:CDISCSynonym>LEC01-Combat/Exp to War-Zone: Happened</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Life Events Checklist for DSM-5, Standard Version - Combat or exposure to a war-zone (in the military or as a civilian): Happened to me.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>LEC-5 Standard Version - Combat or Exposure to War-Zone: Happened</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEC01-Combat/Exp to War-Zone: Job" nciodm:ExtCodeID="C135877">
+                    <nciodm:CDISCSynonym>LEC01-Combat/Exp to War-Zone: Job</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Life Events Checklist for DSM-5, Standard Version - Combat or exposure to a war-zone (in the military or as a civilian): Part of my job.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>LEC-5 Standard Version - Combat or Exposure to War-Zone: Job</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEC01-Combat/Exp to War-Zone: Learned" nciodm:ExtCodeID="C135876">
+                    <nciodm:CDISCSynonym>LEC01-Combat/Exp to War-Zone: Learned</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Life Events Checklist for DSM-5, Standard Version - Combat or exposure to a war-zone (in the military or as a civilian): Learned about it.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>LEC-5 Standard Version - Combat or Exposure to War-Zone: Learned</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEC01-Combat/Exp to War-Zone: Not Apply" nciodm:ExtCodeID="C135879">
+                    <nciodm:CDISCSynonym>LEC01-Combat/Exp to War-Zone: Not Apply</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Life Events Checklist for DSM-5, Standard Version - Combat or exposure to a war-zone (in the military or as a civilian): Doesn't apply.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>LEC-5 Standard Version - Combat or Exposure to War-Zone: Not Apply</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEC01-Combat/Exp to War-Zone: Not Sure" nciodm:ExtCodeID="C135878">
+                    <nciodm:CDISCSynonym>LEC01-Combat/Exp to War-Zone: Not Sure</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Life Events Checklist for DSM-5, Standard Version - Combat or exposure to a war-zone (in the military or as a civilian): Not sure.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>LEC-5 Standard Version - Combat or Exposure to War-Zone: Not Sure</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEC01-Combat/Exp to War-Zone: Witnessed" nciodm:ExtCodeID="C135875">
+                    <nciodm:CDISCSynonym>LEC01-Combat/Exp to War-Zone: Witnessed</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Life Events Checklist for DSM-5, Standard Version - Combat or exposure to a war-zone (in the military or as a civilian): Witnessed it.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>LEC-5 Standard Version - Combat or Exposure to War-Zone: Witnessed</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEC01-Fire or Explosion: Happened" nciodm:ExtCodeID="C135826">
+                    <nciodm:CDISCSynonym>LEC01-Fire or Explosion: Happened</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Life Events Checklist for DSM-5, Standard Version - Fire or explosion: Happened to me.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>LEC-5 Standard Version - Fire or Explosion: Happened</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEC01-Fire or Explosion: Job" nciodm:ExtCodeID="C135829">
+                    <nciodm:CDISCSynonym>LEC01-Fire or Explosion: Job</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Life Events Checklist for DSM-5, Standard Version - Fire or explosion: Part of my job.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>LEC-5 Standard Version - Fire or Explosion: Job</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEC01-Fire or Explosion: Learned" nciodm:ExtCodeID="C135828">
+                    <nciodm:CDISCSynonym>LEC01-Fire or Explosion: Learned</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Life Events Checklist for DSM-5, Standard Version - Fire or explosion: Learned about it.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>LEC-5 Standard Version - Fire or Explosion: Learned</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEC01-Fire or Explosion: Not Apply" nciodm:ExtCodeID="C135831">
+                    <nciodm:CDISCSynonym>LEC01-Fire or Explosion: Not Apply</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Life Events Checklist for DSM-5, Standard Version - Fire or explosion: Doesn't apply.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>LEC-5 Standard Version - Fire or Explosion: Not Apply</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEC01-Fire or Explosion: Not Sure" nciodm:ExtCodeID="C135830">
+                    <nciodm:CDISCSynonym>LEC01-Fire or Explosion: Not Sure</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Life Events Checklist for DSM-5, Standard Version - Fire or explosion: Not sure.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>LEC-5 Standard Version - Fire or Explosion: Not Sure</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEC01-Fire or Explosion: Witnessed" nciodm:ExtCodeID="C135827">
+                    <nciodm:CDISCSynonym>LEC01-Fire or Explosion: Witnessed</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Life Events Checklist for DSM-5, Standard Version - Fire or explosion: Witnessed it.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>LEC-5 Standard Version - Fire or Explosion: Witnessed</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEC01-Life-threatening Illness: Happened" nciodm:ExtCodeID="C135886">
+                    <nciodm:CDISCSynonym>LEC01-Life-threatening Illness: Happened</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Life Events Checklist for DSM-5, Standard Version - Life-threatening illness or injury: Happened to me.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>LEC-5 Standard Version - Life-threatening Illness: Happened</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEC01-Life-threatening Illness: Job" nciodm:ExtCodeID="C135889">
+                    <nciodm:CDISCSynonym>LEC01-Life-threatening Illness: Job</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Life Events Checklist for DSM-5, Standard Version - Life-threatening illness or injury: Part of my job.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>LEC-5 Standard Version - Life-threatening Illness: Job</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEC01-Life-threatening Illness: Learned" nciodm:ExtCodeID="C135888">
+                    <nciodm:CDISCSynonym>LEC01-Life-threatening Illness: Learned</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Life Events Checklist for DSM-5, Standard Version - Life-threatening illness or injury: Learned about it.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>LEC-5 Standard Version - Life-threatening Illness: Learned</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEC01-Life-threatening Illness: No Apply" nciodm:ExtCodeID="C135891">
+                    <nciodm:CDISCSynonym>LEC01-Life-threatening Illness: No Apply</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Life Events Checklist for DSM-5, Standard Version - Life-threatening illness or injury: Doesn't apply.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>LEC-5 Standard Version - Life-threatening Illness: Not Apply</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEC01-Life-threatening Illness: Not Sure" nciodm:ExtCodeID="C135890">
+                    <nciodm:CDISCSynonym>LEC01-Life-threatening Illness: Not Sure</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Life Events Checklist for DSM-5, Standard Version - Life-threatening illness or injury: Not sure.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>LEC-5 Standard Version - Life-threatening Illness: Not Sure</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEC01-Life-threatening Illness: Witness" nciodm:ExtCodeID="C135887">
+                    <nciodm:CDISCSynonym>LEC01-Life-threatening Illness: Witness</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Life Events Checklist for DSM-5, Standard Version - Life-threatening illness or injury: Witnessed it.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>LEC-5 Standard Version - Life-threatening Illness: Witnessed</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEC01-Natural Disaster: Happened" nciodm:ExtCodeID="C135820">
+                    <nciodm:CDISCSynonym>LEC01-Natural Disaster: Happened</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Life Events Checklist for DSM-5, Standard Version - Natural disaster (for example, flood, hurricane, tornado, earthquake): Happened to me.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>LEC-5 Standard Version - Natural Disaster: Happened</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEC01-Natural Disaster: Job" nciodm:ExtCodeID="C135823">
+                    <nciodm:CDISCSynonym>LEC01-Natural Disaster: Job</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Life Events Checklist for DSM-5, Standard Version - Natural disaster (for example, flood, hurricane, tornado, earthquake): Part of my job.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>LEC-5 Standard Version - Natural Disaster: Job</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEC01-Natural Disaster: Learned" nciodm:ExtCodeID="C135822">
+                    <nciodm:CDISCSynonym>LEC01-Natural Disaster: Learned</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Life Events Checklist for DSM-5, Standard Version - Natural disaster (for example, flood, hurricane, tornado, earthquake): Learned about it.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>LEC-5 Standard Version - Natural Disaster: Learned</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEC01-Natural Disaster: Not Apply" nciodm:ExtCodeID="C135825">
+                    <nciodm:CDISCSynonym>LEC01-Natural Disaster: Not Apply</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Life Events Checklist for DSM-5, Standard Version - Natural disaster (for example, flood, hurricane, tornado, earthquake): Doesn't apply.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>LEC-5 Standard Version - Natural Disaster: Not Apply</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEC01-Natural Disaster: Not Sure" nciodm:ExtCodeID="C135824">
+                    <nciodm:CDISCSynonym>LEC01-Natural Disaster: Not Sure</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Life Events Checklist for DSM-5, Standard Version - Natural disaster (for example, flood, hurricane, tornado, earthquake): Not sure.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>LEC-5 Standard Version - Natural Disaster: Not Sure</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEC01-Natural Disaster: Witnessed" nciodm:ExtCodeID="C135821">
+                    <nciodm:CDISCSynonym>LEC01-Natural Disaster: Witnessed</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Life Events Checklist for DSM-5, Standard Version - Natural disaster (for example, flood, hurricane, tornado, earthquake): Witnessed it.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>LEC-5 Standard Version - Natural Disaster: Witnessed</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEC01-Other Stressful Event: Happened" nciodm:ExtCodeID="C135916">
+                    <nciodm:CDISCSynonym>LEC01-Other Stressful Event: Happened</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Life Events Checklist for DSM-5, Standard Version - Any other very stressful event or experience: Happened to me.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>LEC-5 Standard Version - Other Stressful Event: Happened</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEC01-Other Stressful Event: Job" nciodm:ExtCodeID="C135919">
+                    <nciodm:CDISCSynonym>LEC01-Other Stressful Event: Job</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Life Events Checklist for DSM-5, Standard Version - Any other very stressful event or experience: Part of my job.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>LEC-5 Standard Version - Other Stressful Event: Job</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEC01-Other Stressful Event: Learned" nciodm:ExtCodeID="C135918">
+                    <nciodm:CDISCSynonym>LEC01-Other Stressful Event: Learned</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Life Events Checklist for DSM-5, Standard Version - Any other very stressful event or experience: Learned about it.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>LEC-5 Standard Version - Other Stressful Event: Learned</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEC01-Other Stressful Event: Not Apply" nciodm:ExtCodeID="C135921">
+                    <nciodm:CDISCSynonym>LEC01-Other Stressful Event: Not Apply</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Life Events Checklist for DSM-5, Standard Version - Any other very stressful event or experience: Doesn't apply.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>LEC-5 Standard Version - Other Stressful Event: Not Apply</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEC01-Other Stressful Event: Not Sure" nciodm:ExtCodeID="C135920">
+                    <nciodm:CDISCSynonym>LEC01-Other Stressful Event: Not Sure</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Life Events Checklist for DSM-5, Standard Version - Any other very stressful event or experience: Not sure.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>LEC-5 Standard Version - Other Stressful Event: Not Sure</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEC01-Other Stressful Event: Witnessed" nciodm:ExtCodeID="C135917">
+                    <nciodm:CDISCSynonym>LEC01-Other Stressful Event: Witnessed</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Life Events Checklist for DSM-5, Standard Version - Any other very stressful event or experience: Witnessed it.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>LEC-5 Standard Version - Other Stressful Event: Witnessed</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEC01-Physical Assault: Happened" nciodm:ExtCodeID="C135850">
+                    <nciodm:CDISCSynonym>LEC01-Physical Assault: Happened</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Life Events Checklist for DSM-5, Standard Version - Physical assault (for example, being attacked, hit, slapped, kicked, beaten up): Happened to me.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>LEC-5 Standard Version - Physical Assault: Happened</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEC01-Physical Assault: Job" nciodm:ExtCodeID="C135853">
+                    <nciodm:CDISCSynonym>LEC01-Physical Assault: Job</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Life Events Checklist for DSM-5, Standard Version - Physical assault (for example, being attacked, hit, slapped, kicked, beaten up): Part of my job.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>LEC-5 Standard Version - Physical Assault: Job</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEC01-Physical Assault: Learned" nciodm:ExtCodeID="C135852">
+                    <nciodm:CDISCSynonym>LEC01-Physical Assault: Learned</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Life Events Checklist for DSM-5, Standard Version - Physical assault (for example, being attacked, hit, slapped, kicked, beaten up): Learned about it.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>LEC-5 Standard Version - Physical Assault: Learned</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEC01-Physical Assault: Not Apply" nciodm:ExtCodeID="C135855">
+                    <nciodm:CDISCSynonym>LEC01-Physical Assault: Not Apply</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Life Events Checklist for DSM-5, Standard Version - Physical assault (for example, being attacked, hit, slapped, kicked, beaten up): Doesn't apply.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>LEC-5 Standard Version - Physical Assault: Not Apply</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEC01-Physical Assault: Not Sure" nciodm:ExtCodeID="C135854">
+                    <nciodm:CDISCSynonym>LEC01-Physical Assault: Not Sure</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Life Events Checklist for DSM-5, Standard Version - Physical assault (for example, being attacked, hit, slapped, kicked, beaten up): Not sure.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>LEC-5 Standard Version - Physical Assault: Not Sure</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEC01-Physical Assault: Witnessed" nciodm:ExtCodeID="C135851">
+                    <nciodm:CDISCSynonym>LEC01-Physical Assault: Witnessed</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Life Events Checklist for DSM-5, Standard Version - Physical assault (for example, being attacked, hit, slapped, kicked, beaten up): Witnessed it.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>LEC-5 Standard Version - Physical Assault: Witnessed</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEC01-Serious Accident: Happened" nciodm:ExtCodeID="C135838">
+                    <nciodm:CDISCSynonym>LEC01-Serious Accident: Happened</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Life Events Checklist for DSM-5, Standard Version - Serious accident at work, home, or during recreational activity: Happened to me.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>LEC-5 Standard Version - Serious Accident: Happened</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEC01-Serious Accident: Job" nciodm:ExtCodeID="C135841">
+                    <nciodm:CDISCSynonym>LEC01-Serious Accident: Job</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Life Events Checklist for DSM-5, Standard Version - Serious accident at work, home, or during recreational activity: Part of my job.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>LEC-5 Standard Version - Serious Accident: Job</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEC01-Serious Accident: Learned" nciodm:ExtCodeID="C135840">
+                    <nciodm:CDISCSynonym>LEC01-Serious Accident: Learned</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Life Events Checklist for DSM-5, Standard Version - Serious accident at work, home, or during recreational activity: Learned about it.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>LEC-5 Standard Version - Serious Accident: Learned</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEC01-Serious Accident: Not Apply" nciodm:ExtCodeID="C135843">
+                    <nciodm:CDISCSynonym>LEC01-Serious Accident: Not Apply</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Life Events Checklist for DSM-5, Standard Version - Serious accident at work, home, or during recreational activity: Doesn't apply.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>LEC-5 Standard Version - Serious Accident: Not Apply</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEC01-Serious Accident: Not Sure" nciodm:ExtCodeID="C135842">
+                    <nciodm:CDISCSynonym>LEC01-Serious Accident: Not Sure</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Life Events Checklist for DSM-5, Standard Version - Serious accident at work, home, or during recreational activity: Not sure.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>LEC-5 Standard Version - Serious Accident: Not Sure</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEC01-Serious Accident: Witnessed" nciodm:ExtCodeID="C135839">
+                    <nciodm:CDISCSynonym>LEC01-Serious Accident: Witnessed</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Life Events Checklist for DSM-5, Standard Version - Serious accident at work, home, or during recreational activity: Witnessed it.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>LEC-5 Standard Version - Serious Accident: Witnessed</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEC01-Serious Injury Caused: Happened" nciodm:ExtCodeID="C135910">
+                    <nciodm:CDISCSynonym>LEC01-Serious Injury Caused: Happened</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Life Events Checklist for DSM-5, Standard Version - Serious injury, harm, or death you caused to someone else: Happened to me.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>LEC-5 Standard Version - Serious Injury Caused: Happened</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEC01-Serious Injury Caused: Job" nciodm:ExtCodeID="C135913">
+                    <nciodm:CDISCSynonym>LEC01-Serious Injury Caused: Job</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Life Events Checklist for DSM-5, Standard Version - Serious injury, harm, or death you caused to someone else: Part of my job.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>LEC-5 Standard Version - Serious Injury Caused: Job</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEC01-Serious Injury Caused: Learned" nciodm:ExtCodeID="C135912">
+                    <nciodm:CDISCSynonym>LEC01-Serious Injury Caused: Learned</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Life Events Checklist for DSM-5, Standard Version - Serious injury, harm, or death you caused to someone else: Learned about it.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>LEC-5 Standard Version - Serious Injury Caused: Learned</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEC01-Serious Injury Caused: Not Apply" nciodm:ExtCodeID="C135915">
+                    <nciodm:CDISCSynonym>LEC01-Serious Injury Caused: Not Apply</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Life Events Checklist for DSM-5, Standard Version - Serious injury, harm, or death you caused to someone else: Doesn't apply.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>LEC-5 Standard Version - Serious Injury Caused: Not Apply</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEC01-Serious Injury Caused: Not Sure" nciodm:ExtCodeID="C135914">
+                    <nciodm:CDISCSynonym>LEC01-Serious Injury Caused: Not Sure</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Life Events Checklist for DSM-5, Standard Version - Serious injury, harm, or death you caused to someone else: Not sure.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>LEC-5 Standard Version - Serious Injury Caused: Not Sure</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEC01-Serious Injury Caused: Witnessed" nciodm:ExtCodeID="C135911">
+                    <nciodm:CDISCSynonym>LEC01-Serious Injury Caused: Witnessed</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Life Events Checklist for DSM-5, Standard Version - Serious injury, harm, or death you caused to someone else: Witnessed it.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>LEC-5 Standard Version - Serious Injury Caused: Witnessed</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEC01-Severe Human Suffering: Happened" nciodm:ExtCodeID="C135892">
+                    <nciodm:CDISCSynonym>LEC01-Severe Human Suffering: Happened</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Life Events Checklist for DSM-5, Standard Version - Severe human suffering: Happened to me.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>LEC-5 Standard Version - Severe Human Suffering: Happened</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEC01-Severe Human Suffering: Job" nciodm:ExtCodeID="C135895">
+                    <nciodm:CDISCSynonym>LEC01-Severe Human Suffering: Job</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Life Events Checklist for DSM-5, Standard Version - Severe human suffering: Part of my job.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>LEC-5 Standard Version - Severe Human Suffering: Job</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEC01-Severe Human Suffering: Learned" nciodm:ExtCodeID="C135894">
+                    <nciodm:CDISCSynonym>LEC01-Severe Human Suffering: Learned</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Life Events Checklist for DSM-5, Standard Version - Severe human suffering: Learned about it.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>LEC-5 Standard Version - Severe Human Suffering: Learned</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEC01-Severe Human Suffering: Not Apply" nciodm:ExtCodeID="C135897">
+                    <nciodm:CDISCSynonym>LEC01-Severe Human Suffering: Not Apply</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Life Events Checklist for DSM-5, Standard Version - Severe human suffering: Doesn't apply.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>LEC-5 Standard Version - Severe Human Suffering: Not Apply</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEC01-Severe Human Suffering: Not Sure" nciodm:ExtCodeID="C135896">
+                    <nciodm:CDISCSynonym>LEC01-Severe Human Suffering: Not Sure</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Life Events Checklist for DSM-5, Standard Version - Severe human suffering: Not sure.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>LEC-5 Standard Version - Severe Human Suffering: Not Sure</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEC01-Severe Human Suffering: Witnessed" nciodm:ExtCodeID="C135893">
+                    <nciodm:CDISCSynonym>LEC01-Severe Human Suffering: Witnessed</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Life Events Checklist for DSM-5, Standard Version - Severe human suffering: Witnessed it.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>LEC-5 Standard Version - Severe Human Suffering: Witnessed</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEC01-Sexual Assault: Happened" nciodm:ExtCodeID="C135862">
+                    <nciodm:CDISCSynonym>LEC01-Sexual Assault: Happened</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Life Events Checklist for DSM-5, Standard Version - Sexual assault (rape, attempted rape, made to perform any type of sexual act through force or threat of harm): Happened to me.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>LEC-5 Standard Version - Sexual Assault: Happened</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEC01-Sexual Assault: Job" nciodm:ExtCodeID="C135865">
+                    <nciodm:CDISCSynonym>LEC01-Sexual Assault: Job</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Life Events Checklist for DSM-5, Standard Version - Sexual assault (rape, attempted rape, made to perform any type of sexual act through force or threat of harm): Part of my job.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>LEC-5 Standard Version - Sexual Assault: Job</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEC01-Sexual Assault: Learned" nciodm:ExtCodeID="C135864">
+                    <nciodm:CDISCSynonym>LEC01-Sexual Assault: Learned</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Life Events Checklist for DSM-5, Standard Version - Sexual assault (rape, attempted rape, made to perform any type of sexual act through force or threat of harm): Learned about it.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>LEC-5 Standard Version - Sexual Assault: Learned</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEC01-Sexual Assault: Not Apply" nciodm:ExtCodeID="C135867">
+                    <nciodm:CDISCSynonym>LEC01-Sexual Assault: Not Apply</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Life Events Checklist for DSM-5, Standard Version - Sexual assault (rape, attempted rape, made to perform any type of sexual act through force or threat of harm): Doesn't apply.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>LEC-5 Standard Version - Sexual Assault: Not Apply</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEC01-Sexual Assault: Not Sure" nciodm:ExtCodeID="C135866">
+                    <nciodm:CDISCSynonym>LEC01-Sexual Assault: Not Sure</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Life Events Checklist for DSM-5, Standard Version - Sexual assault (rape, attempted rape, made to perform any type of sexual act through force or threat of harm): Not sure.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>LEC-5 Standard Version - Sexual Assault: Not Sure</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEC01-Sexual Assault: Witnessed" nciodm:ExtCodeID="C135863">
+                    <nciodm:CDISCSynonym>LEC01-Sexual Assault: Witnessed</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Life Events Checklist for DSM-5, Standard Version - Sexual assault (rape, attempted rape, made to perform any type of sexual act through force or threat of harm): Witnessed it.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>LEC-5 Standard Version - Sexual Assault: Witnessed</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEC01-Sudden Accidental Death: Happened" nciodm:ExtCodeID="C135904">
+                    <nciodm:CDISCSynonym>LEC01-Sudden Accidental Death: Happened</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Life Events Checklist for DSM-5, Standard Version - Sudden accidental death: Happened to me.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>LEC-5 Standard Version - Sudden Accidental Death: Happened</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEC01-Sudden Accidental Death: Job" nciodm:ExtCodeID="C135907">
+                    <nciodm:CDISCSynonym>LEC01-Sudden Accidental Death: Job</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Life Events Checklist for DSM-5, Standard Version - Sudden accidental death: Part of my job.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>LEC-5 Standard Version - Sudden Accidental Death: Job</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEC01-Sudden Accidental Death: Learned" nciodm:ExtCodeID="C135906">
+                    <nciodm:CDISCSynonym>LEC01-Sudden Accidental Death: Learned</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Life Events Checklist for DSM-5, Standard Version - Sudden accidental death: Learned about it.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>LEC-5 Standard Version - Sudden Accidental Death: Learned</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEC01-Sudden Accidental Death: Not Apply" nciodm:ExtCodeID="C135909">
+                    <nciodm:CDISCSynonym>LEC01-Sudden Accidental Death: Not Apply</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Life Events Checklist for DSM-5, Standard Version - Sudden accidental death: Doesn't apply.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>LEC-5 Standard Version - Sudden Accidental Death: Not Apply</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEC01-Sudden Accidental Death: Not Sure" nciodm:ExtCodeID="C135908">
+                    <nciodm:CDISCSynonym>LEC01-Sudden Accidental Death: Not Sure</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Life Events Checklist for DSM-5, Standard Version - Sudden accidental death: Not sure.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>LEC-5 Standard Version - Sudden Accidental Death: Not Sure</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEC01-Sudden Accidental Death: Witnessed" nciodm:ExtCodeID="C135905">
+                    <nciodm:CDISCSynonym>LEC01-Sudden Accidental Death: Witnessed</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Life Events Checklist for DSM-5, Standard Version - Sudden accidental death: Witnessed it.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>LEC-5 Standard Version - Sudden Accidental Death: Witnessed</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEC01-Sudden Violent Death: Happened" nciodm:ExtCodeID="C135898">
+                    <nciodm:CDISCSynonym>LEC01-Sudden Violent Death: Happened</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Life Events Checklist for DSM-5, Standard Version - Sudden violent death (for example, homicide, suicide): Happened to me.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>LEC-5 Standard Version - Sudden Violent Death: Happened</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEC01-Sudden Violent Death: Job" nciodm:ExtCodeID="C135901">
+                    <nciodm:CDISCSynonym>LEC01-Sudden Violent Death: Job</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Life Events Checklist for DSM-5, Standard Version - Sudden violent death (for example, homicide, suicide): Part of my job.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>LEC-5 Standard Version - Sudden Violent Death: Job</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEC01-Sudden Violent Death: Learned" nciodm:ExtCodeID="C135900">
+                    <nciodm:CDISCSynonym>LEC01-Sudden Violent Death: Learned</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Life Events Checklist for DSM-5, Standard Version - Sudden violent death (for example, homicide, suicide): Learned about it.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>LEC-5 Standard Version - Sudden Violent Death: Learned</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEC01-Sudden Violent Death: Not Apply" nciodm:ExtCodeID="C135903">
+                    <nciodm:CDISCSynonym>LEC01-Sudden Violent Death: Not Apply</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Life Events Checklist for DSM-5, Standard Version - Sudden violent death (for example, homicide, suicide): Doesn't apply.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>LEC-5 Standard Version - Sudden Violent Death: Not Apply</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEC01-Sudden Violent Death: Not Sure" nciodm:ExtCodeID="C135902">
+                    <nciodm:CDISCSynonym>LEC01-Sudden Violent Death: Not Sure</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Life Events Checklist for DSM-5, Standard Version - Sudden violent death (for example, homicide, suicide): Not sure.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>LEC-5 Standard Version - Sudden Violent Death: Not Sure</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEC01-Sudden Violent Death: Witnessed" nciodm:ExtCodeID="C135899">
+                    <nciodm:CDISCSynonym>LEC01-Sudden Violent Death: Witnessed</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Life Events Checklist for DSM-5, Standard Version - Sudden violent death (for example, homicide, suicide): Witnessed it.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>LEC-5 Standard Version - Sudden Violent Death: Witnessed</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEC01-Toxic Substance: Happened" nciodm:ExtCodeID="C135844">
+                    <nciodm:CDISCSynonym>LEC01-Toxic Substance: Happened</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Life Events Checklist for DSM-5, Standard Version - Exposure to toxic substance (for example, dangerous chemicals, radiation): Happened to me.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>LEC-5 Standard Version - Toxic Substance: Happened</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEC01-Toxic Substance: Job" nciodm:ExtCodeID="C135847">
+                    <nciodm:CDISCSynonym>LEC01-Toxic Substance: Job</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Life Events Checklist for DSM-5, Standard Version - Exposure to toxic substance (for example, dangerous chemicals, radiation): Part of my job.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>LEC-5 Standard Version - Toxic Substance: Job</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEC01-Toxic Substance: Learned" nciodm:ExtCodeID="C135846">
+                    <nciodm:CDISCSynonym>LEC01-Toxic Substance: Learned</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Life Events Checklist for DSM-5, Standard Version - Exposure to toxic substance (for example, dangerous chemicals, radiation): Learned about it.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>LEC-5 Standard Version - Toxic Substance: Learned</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEC01-Toxic Substance: Not Apply" nciodm:ExtCodeID="C135849">
+                    <nciodm:CDISCSynonym>LEC01-Toxic Substance: Not Apply</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Life Events Checklist for DSM-5, Standard Version - Exposure to toxic substance (for example, dangerous chemicals, radiation): Doesn't apply.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>LEC-5 Standard Version - Toxic Substance: Not Apply</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEC01-Toxic Substance: Not Sure" nciodm:ExtCodeID="C135848">
+                    <nciodm:CDISCSynonym>LEC01-Toxic Substance: Not Sure</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Life Events Checklist for DSM-5, Standard Version - Exposure to toxic substance (for example, dangerous chemicals, radiation): Not sure.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>LEC-5 Standard Version - Toxic Substance: Not Sure</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEC01-Toxic Substance: Witnessed" nciodm:ExtCodeID="C135845">
+                    <nciodm:CDISCSynonym>LEC01-Toxic Substance: Witnessed</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Life Events Checklist for DSM-5, Standard Version - Exposure to toxic substance (for example, dangerous chemicals, radiation): Witnessed it.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>LEC-5 Standard Version - Toxic Substance: Witnessed</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEC01-Transportation Accident: Happened" nciodm:ExtCodeID="C135832">
+                    <nciodm:CDISCSynonym>LEC01-Transportation Accident: Happened</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Life Events Checklist for DSM-5, Standard Version - Transportation accident (for example, car accident, boat accident, train wreck, plane crash): Happened to me.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>LEC-5 Standard Version - Transportation Accident: Happened</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEC01-Transportation Accident: Job" nciodm:ExtCodeID="C135835">
+                    <nciodm:CDISCSynonym>LEC01-Transportation Accident: Job</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Life Events Checklist for DSM-5, Standard Version - Transportation accident (for example, car accident, boat accident, train wreck, plane crash): Part of my job.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>LEC-5 Standard Version - Transportation Accident: Job</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEC01-Transportation Accident: Learned" nciodm:ExtCodeID="C135834">
+                    <nciodm:CDISCSynonym>LEC01-Transportation Accident: Learned</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Life Events Checklist for DSM-5, Standard Version - Transportation accident (for example, car accident, boat accident, train wreck, plane crash): Learned about it.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>LEC-5 Standard Version - Transportation Accident: Learned</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEC01-Transportation Accident: Not Apply" nciodm:ExtCodeID="C135837">
+                    <nciodm:CDISCSynonym>LEC01-Transportation Accident: Not Apply</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Life Events Checklist for DSM-5, Standard Version - Transportation accident (for example, car accident, boat accident, train wreck, plane crash): Doesn't apply.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>LEC-5 Standard Version - Transportation Accident: Not Apply</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEC01-Transportation Accident: Not Sure" nciodm:ExtCodeID="C135836">
+                    <nciodm:CDISCSynonym>LEC01-Transportation Accident: Not Sure</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Life Events Checklist for DSM-5, Standard Version - Transportation accident (for example, car accident, boat accident, train wreck, plane crash): Not sure.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>LEC-5 Standard Version - Transportation Accident: Not Sure</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEC01-Transportation Accident: Witnessed" nciodm:ExtCodeID="C135833">
+                    <nciodm:CDISCSynonym>LEC01-Transportation Accident: Witnessed</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Life Events Checklist for DSM-5, Standard Version - Transportation accident (for example, car accident, boat accident, train wreck, plane crash): Witnessed it.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>LEC-5 Standard Version - Transportation Accident: Witnessed</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEC01-Unwanted Sex Experience: Happened" nciodm:ExtCodeID="C135868">
+                    <nciodm:CDISCSynonym>LEC01-Unwanted Sex Experience: Happened</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Life Events Checklist for DSM-5, Standard Version - Other unwanted or uncomfortable sexual experience: Happened to me.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>LEC-5 Standard Version - Unwanted Sex Experience: Happened</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEC01-Unwanted Sex Experience: Job" nciodm:ExtCodeID="C135871">
+                    <nciodm:CDISCSynonym>LEC01-Unwanted Sex Experience: Job</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Life Events Checklist for DSM-5, Standard Version - Other unwanted or uncomfortable sexual experience: Part of my job.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>LEC-5 Standard Version - Unwanted Sex Experience: Job</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEC01-Unwanted Sex Experience: Learned" nciodm:ExtCodeID="C135870">
+                    <nciodm:CDISCSynonym>LEC01-Unwanted Sex Experience: Learned</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Life Events Checklist for DSM-5, Standard Version - Other unwanted or uncomfortable sexual experience: Learned about it.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>LEC-5 Standard Version - Unwanted Sex Experience: Learned</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEC01-Unwanted Sex Experience: Not Apply" nciodm:ExtCodeID="C135873">
+                    <nciodm:CDISCSynonym>LEC01-Unwanted Sex Experience: Not Apply</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Life Events Checklist for DSM-5, Standard Version - Other unwanted or uncomfortable sexual experience: Doesn't apply.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>LEC-5 Standard Version - Unwanted Sex Experience: Not Apply</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEC01-Unwanted Sex Experience: Not Sure" nciodm:ExtCodeID="C135872">
+                    <nciodm:CDISCSynonym>LEC01-Unwanted Sex Experience: Not Sure</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Life Events Checklist for DSM-5, Standard Version - Other unwanted or uncomfortable sexual experience: Not sure.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>LEC-5 Standard Version - Unwanted Sex Experience: Not Sure</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEC01-Unwanted Sex Experience: Witnessed" nciodm:ExtCodeID="C135869">
+                    <nciodm:CDISCSynonym>LEC01-Unwanted Sex Experience: Witnessed</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Life Events Checklist for DSM-5, Standard Version - Other unwanted or uncomfortable sexual experience: Witnessed it.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>LEC-5 Standard Version - Unwanted Sex Experience: Witnessed</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>LEC01TN</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Life Events Checklist for DSM-5 Standard Version Questionnaire Test Name</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Questionnaire LEC-5 Standard Version Test Name Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

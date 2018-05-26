@@ -1,11 +1,17 @@
 <CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C96778.TRTEST" Name="Tumor or Lesion Properties Test Name" DataType="text" nciodm:ExtCodeID="C96778" nciodm:CodeListExtensible="Yes">
                 <Description>
-                    <TranslatedText xml:lang="en">Terminology relevant to the test codes that describe the assessment or measurement of a tumor, lesion or site of disease.</TranslatedText>
+                    <TranslatedText xml:lang="en">Terminology relevant to the test names that describe the assessment or measurement of a tumor, lesion or site of disease.</TranslatedText>
                 </Description>
                 <EnumeratedItem CodedValue="Absolute Change From Nadir" nciodm:ExtCodeID="C103347">
                     <nciodm:CDISCSynonym>Absolute Change From Nadir</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The current value minus the lowest value previously recorded.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Absolute Change From Nadir</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Absolute Change Nadir in Organ Enlarge" nciodm:ExtCodeID="C135506">
+                    <nciodm:CDISCSynonym>Absolute Change Nadir in Organ Enlarge</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Absolute Change Nadir in Organ Enlargement</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The current organ enlargement minus the lowest organ enlargement previously recorded. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Absolute Change from Nadir in Organ Enlargement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Absolute Change Nadir in Sum of Diam" nciodm:ExtCodeID="C112218">
                     <nciodm:CDISCSynonym>Absolute Change Nadir in Sum of Diam</nciodm:CDISCSynonym>
@@ -31,6 +37,11 @@
                     <nciodm:CDISCSynonym>Diameter</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The length of a straight line passing through the center of a circle or sphere and connecting two points on the circumference. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Diameter</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FDG PET Lymphoma 5PS Score" nciodm:ExtCodeID="C99723">
+                    <nciodm:CDISCSynonym>FDG PET Lymphoma 5PS Score</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A 5 point scale devised to assess the response to treatment of Hodgkin and aggressive Non-Hodgkin lymphoma. (Barrington SF, Mikhaeel NG, Kostakoglu L, Meignan M, et al. Role of imaging in the staging and response assessment of lymphoma: consensus of the International Conference on Malignant Lymphomas Imaging Working Group. J Clin Oncol. 2014 Sep 20;32(27):3048-58.)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>London Deauville Criteria Point Scale</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Lesion Failure Indicator" nciodm:ExtCodeID="C119551">
                     <nciodm:CDISCSynonym>Lesion Failure Indicator</nciodm:CDISCSynonym>
@@ -99,13 +110,34 @@
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Number of New Bone Lesions" nciodm:ExtCodeID="C132464">
                     <nciodm:CDISCSynonym>Number of New Bone Lesions</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>The number of new lesions within the bone,&#160;in comparison to a reference timepoint.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>The number of new lesions within the bone, in comparison to a reference timepoint.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Number of New Bone Lesions</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Organ Enlargement, Quantitative" nciodm:ExtCodeID="C135507">
+                    <nciodm:CDISCSynonym>Organ Enlargement, Quantitative</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A quantitative measurement of the increase in organ size or dimension, relative to a defined value.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Quantitative Organ Enlargement Assessment</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Organ State" nciodm:ExtCodeID="C135508">
+                    <nciodm:CDISCSynonym>Organ State</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A condition or state of an organ at a particular time.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Organ State</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Organ Vertical Length" nciodm:ExtCodeID="C135509">
+                    <nciodm:CDISCSynonym>Organ Vertical Length</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The linear extent along the craniocaudal axis from one end of an organ to the other end. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Organ Craniocaudal Length Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Palpable State" nciodm:ExtCodeID="C124449">
                     <nciodm:CDISCSynonym>Palpable State</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A condition or state of the tumor with regards to its palpability status at a particular point in time.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Palpable State</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Percent Change Baseline in Organ Enlarge" nciodm:ExtCodeID="C135510">
+                    <nciodm:CDISCSynonym>Percent Change Baseline in Organ Enlarge</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Percent Change Baseline in Organ Enlargement</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The (current organ enlargement minus the baseline organ enlargement) divided by the baseline organ enlargement, multiplied by 100. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Percent Change from Baseline in Organ Enlargement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Percent Change Baseline in Sum of Diam" nciodm:ExtCodeID="C112370">
                     <nciodm:CDISCSynonym>Percent Change Baseline in Sum of Diam</nciodm:CDISCSynonym>
@@ -137,6 +169,17 @@
                     <nciodm:CDISCDefinition>The (current value minus the lowest value previously recorded) divided by the lowest value previously recorded, multiplied by 100.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Percent Change From Nadir</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="Percent Change Nadir in Organ Enlarge" nciodm:ExtCodeID="C135511">
+                    <nciodm:CDISCSynonym>Percent Change Nadir in Organ Enlarge</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Percent Change Nadir in Organ Enlargement</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The (current organ enlargement minus the lowest organ enlargement previously recorded) divided by the lowest organ enlargement previously recorded, multiplied by 100. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Percent Change from Nadir in Organ Enlargement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Percent Change Nadir in PPD" nciodm:ExtCodeID="C135512">
+                    <nciodm:CDISCSynonym>Percent Change Nadir in PPD</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The (current product of perpendicular diameters minus the lowest product of perpendicular diameters previously recorded) divided by the lowest product of perpendicular diameters previously recorded, multiplied by 100.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Percent Change from Nadir in Product of Perpendicular Diameters</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="Percent Change Nadir in Sum Longest Diam" nciodm:ExtCodeID="C112374">
                     <nciodm:CDISCSynonym>Percent Change Nadir in Sum Longest Diam</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The (current sum of longest diameters minus the lowest sum of longest diameters previously recorded) divided by the lowest sum of longest diameters previously recorded, multiplied by 100.</nciodm:CDISCDefinition>
@@ -151,6 +194,12 @@
                     <nciodm:CDISCSynonym>Percent Change Nadir in Sum of PPD</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The (current sum of products of perpendicular diameters minus the lowest sum of products of perpendicular diameters previously recorded) divided by the lowest sum of products of perpendicular diameters previously recorded, multiplied by 100.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Percent Change From Nadir in Sum of Products of Perpendicular Diameters</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Product of Perpendicular Diameters" nciodm:ExtCodeID="C135513">
+                    <nciodm:CDISCSynonym>PPD</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Product of Perpendicular Diameters</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The longest diameter multiplied by its longest perpendicular diameter.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Product of Perpendicular Diameters</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Radiodensity" nciodm:ExtCodeID="C96627">
                     <nciodm:CDISCSynonym>Radiodensity</nciodm:CDISCSynonym>

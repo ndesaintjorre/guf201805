@@ -147,6 +147,11 @@
                     <nciodm:CDISCDefinition>A measurement of the thickness of a pinch of skin on the triceps. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Triceps Skinfold Thickness</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="WAISTHIP" nciodm:ExtCodeID="C17651">
+                    <nciodm:CDISCSynonym>Waist to Hip Ratio</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A relative measurement (ratio) of the waist circumference to the hip circumference.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Waist-Hip Ratio</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="WEIGHT" nciodm:ExtCodeID="C25208">
                     <nciodm:CDISCSynonym>Weight</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The vertical force exerted by a mass as a result of gravity. (NCI)</nciodm:CDISCDefinition>

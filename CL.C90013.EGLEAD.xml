@@ -10,13 +10,29 @@
                     <nciodm:CDISCDefinition>An augmented unipolar electrocardiogram limb lead in which the positive (red) electrode is situated on the left pelvic limb and the negative electrode is a combination of the right thoracic limb (white) electrode and the left thoracic limb (black) electrode. Measures the electrical activity of the electrode on the left pelvic limb.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Augmented Vector Foot</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEAD aVF-VENTRAL" nciodm:ExtCodeID="C135387">
+                    <nciodm:CDISCDefinition>An augmented unipolar electrocardiogram limb lead in which the positive electrode is situated at the hindquarters proximal to the sacrum and the negative electrode is a combination of the electrode behind the right ear near the right mastoid process and the electrode near the apex of the heart (located in the ICS of left 5-6 rib close to the sternum).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Lead Site aVF-Ventral</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="LEAD aVL" nciodm:ExtCodeID="C90361">
                     <nciodm:CDISCDefinition>An augmented unipolar electrocardiogram limb lead in which the positive (black) electrode is situated on the left thoracic limb and the negative electrode is a combination of the right thoracic limb (white) electrode and the left pelvic limb (red) electrode. Measures the electrical activity of the electrode on the left thoracic limb. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Augmented Vector Left</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEAD aVL-AXIAL" nciodm:ExtCodeID="C135388">
+                    <nciodm:CDISCDefinition>An augmented unipolar electrocardiogram limb lead in which the positive electrode is near the apex of the heart (located in the ICS of left 5-6 rib close to the sternum) and the negative electrode is a combination of the electrode behind the right ear near the right mastoid process and the electrode on hindquarters proximal to the sacrum.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Lead Site aVL-Axial</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="LEAD aVR" nciodm:ExtCodeID="C90362">
                     <nciodm:CDISCDefinition>An augmented unipolar electrocardiogram limb lead in which the positive (white) electrode is situated on the right thoracic limb and the negative electrode is a combination of the left thoracic limb (black) electrode and the left pelvic limb (red) electrode. Measures the electrical activity of the electrode on the right thoracic limb. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Augmented Vector Right</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEAD aVR-DORSAL" nciodm:ExtCodeID="C135389">
+                    <nciodm:CDISCDefinition>An augmented unipolar electrocardiogram limb lead in which the positive electrode is behind the right ear near the right mastoid process and the negative electrode is a combination of the electrode at the hindquarters proximal to the sacrum and the electrode near the apex of the heart (located in the ICS of left 5-6 rib close to the sternum).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Lead Site aVR-Dorsal</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEAD AXIAL" nciodm:ExtCodeID="C135390">
+                    <nciodm:CDISCDefinition>A bipolar electrocardiogram limb lead which records the voltage between the positive electrode near the apex of the heart (located in the ICS of left 5-6 rib close to the sternum) and the negative electrode behind the right ear near the right mastoid process.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Lead Site Axial</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="LEAD CM5" nciodm:ExtCodeID="C90404">
                     <nciodm:CDISCDefinition>A bipolar EKG lead with the right thoracic limb electrode placed on the manubrium and left thoracic limb electrode placed at the surface marking of the V5 position (just above the 5th interspace in the anterior axillary line). The left pelvic limb lead acts as a neutral and may be placed anywhere. The C refers to 'clavicle' where it is often placed. (NCI)</nciodm:CDISCDefinition>
@@ -33,6 +49,10 @@
                 <EnumeratedItem CodedValue="LEAD CV6LU" nciodm:ExtCodeID="C90407">
                     <nciodm:CDISCDefinition>V2 electrode (+) placed in the 6th intercostal space on the left side of the thorax along a line parallel to the level of the point of the shoulder. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Lead Site CV6LU</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEAD DORSAL" nciodm:ExtCodeID="C135391">
+                    <nciodm:CDISCDefinition>A bipolar electrocardiogram limb lead which records the voltage between the negative electrode behind the right ear near the right mastoid process and the positive electrode on the hindquarters proximal to the sacrum.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Lead Site Dorsal</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="LEAD I" nciodm:ExtCodeID="C90408">
                     <nciodm:CDISCDefinition>A bipolar electrocardiogram limb lead which records the voltage between the negative electrode on the right thoracic limb and the positive electrode on the left thoracic limb. (NCI)</nciodm:CDISCDefinition>
@@ -83,6 +103,10 @@
                     <nciodm:CDISCSynonym>Lead C6</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A unipolar electrocardiogram lead site at which the electrode is placed on the anterior chest wall level with lead V5 at the left midaxillary line .</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Lead Site V6</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEAD VENTRAL" nciodm:ExtCodeID="C135392">
+                    <nciodm:CDISCDefinition>A bipolar electrocardiogram limb lead which records the voltage with the positive electrode on the hindquarters proximal to the sacrum and the negative electrode near the apex of the heart (located in the ICS of left 5-6 rib close to the sternum).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Lead Site Ventral</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="SML" nciodm:ExtCodeID="C117760">
                     <nciodm:CDISCSynonym>Global Median Beat</nciodm:CDISCSynonym>

@@ -2,6 +2,10 @@
                 <Description>
                     <TranslatedText xml:lang="en">Terminology relevant to tumor or lesion identification test results.</TranslatedText>
                 </Description>
+                <EnumeratedItem CodedValue="ABSENT" nciodm:ExtCodeID="C48190">
+                    <nciodm:CDISCDefinition>Not existing in a specified place at a specified time. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Absent</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="BENIGN" nciodm:ExtCodeID="C14172">
                     <nciodm:CDISCSynonym>Benign</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>For neoplasms, a non-infiltrating and non-metastasizing neoplastic process that is characterized by the absence of morphologic features associated with malignancy (e.g., severe atypia, nuclear pleomorphism, tumor cell necrosis, and abnormal mitoses). For other conditions, a process that is mild in nature and not dangerous to health. (NCI)</nciodm:CDISCDefinition>
@@ -32,7 +36,7 @@
                     <nciodm:PreferredTerm>New Lesion Identification</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="NEW BONE LESION" nciodm:ExtCodeID="C132467">
-                    <nciodm:CDISCDefinition>A localized pathological or traumatic structural change, damage, deformity, or discontinuity of the bone,&#160;which has not been previously seen or characterized.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A localized pathological or traumatic structural change, damage, deformity, or discontinuity of the bone, which has not been previously seen or characterized.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>New Bone Lesion Lesion Identification</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="NON-MEASURABLE" nciodm:ExtCodeID="C103423">

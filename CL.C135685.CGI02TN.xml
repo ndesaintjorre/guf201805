@@ -1,0 +1,24 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C135685.CGI02TN" Name="Clinical Global Impression Generic Modification Version Questionnaire Test Name" DataType="text" nciodm:ExtCodeID="C135685" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Clinical Global Impression Generic Modification Version test name.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="CGI02-Change" nciodm:ExtCodeID="C135815">
+                    <nciodm:CDISCSynonym>CGI02-Change</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Clinical Global Impression - Rate total change whether or not, in your judgement, it is due entirely to drug treatment. Compared to the subject's condition &lt;at previously assessed protocol specified time point&gt;, how much has the subject changed?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CGI Generic Modification Version - Change</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CGI02-Improvement" nciodm:ExtCodeID="C135816">
+                    <nciodm:CDISCSynonym>CGI02-Improvement</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Clinical Global Impression - Rate total improvement whether or not, in your judgement, it is due entirely to drug treatment. Compared to the subject's condition &lt;at previously assessed protocol specified time point&gt;, how much has the subject improved?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CGI Generic Modification Version - Improvement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CGI02-Severity" nciodm:ExtCodeID="C135814">
+                    <nciodm:CDISCSynonym>CGI02-Severity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Clinical Global Impression - Considering your total clinical experience with this particular population, how severe is the subject's condition at this time?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CGI Generic Modification Version - Severity</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>CGI02TN</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Clinical Global Impression Generic Modification Version Questionnaire Test Name</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Questionnaire CGI Generic Modification Version Test Name Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

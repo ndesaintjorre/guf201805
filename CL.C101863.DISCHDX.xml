@@ -51,6 +51,10 @@
                     <nciodm:CDISCDefinition>The patient vacated the medical center or ceased medical care contrary to the recommendation of a trained healthcare provider.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Left Against Medical Advice</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="LONG TERM CARE HOSPITAL" nciodm:ExtCodeID="C135382">
+                    <nciodm:CDISCDefinition>The patient will be admitted into a hospital equipped and staffed to provide prolonged care to patients.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Long Term Care Hospital</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="MEDICARE-CERTIFIED LONG TERM CARE HOSPITAL (LTCH)" nciodm:ExtCodeID="C99984">
                     <nciodm:CDISCDefinition>The patient will be admitted into a Medicare funded medical center for a considerable length of time.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Medicare Certified Long Term Care Hospital</nciodm:PreferredTerm>

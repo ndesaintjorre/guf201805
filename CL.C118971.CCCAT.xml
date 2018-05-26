@@ -1,6 +1,6 @@
 <CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C118971.CCCAT" Name="Category of Clinical Classification" DataType="text" nciodm:ExtCodeID="C118971" nciodm:CodeListExtensible="Yes">
                 <Description>
-                    <TranslatedText xml:lang="en">A grouping of observations within the Clinical Classification domain.</TranslatedText>
+                    <TranslatedText xml:lang="en">A grouping of observations within the Disease Response and Clin Classification domain.</TranslatedText>
                 </Description>
                 <EnumeratedItem CodedValue="AJCC V7" nciodm:ExtCodeID="C125755">
                     <nciodm:CDISCSynonym>AJCC1</nciodm:CDISCSynonym>
@@ -126,6 +126,11 @@
                     <nciodm:CDISCSynonym>PANSS1</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Positive and Negative Syndrome Scale (PANSS) (Copyright 1992 Multi-Health Systems Inc. All rights reserved).</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Positive and Negative Syndrome Scale Clinical Classification</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PASI" nciodm:ExtCodeID="C135734">
+                    <nciodm:CDISCSynonym>PASI01</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Psoriasis Area and Severity Index (PASI) (Fredriksson T, Pettersson U. Severe psoriasis--Oral Therapy with a New Retinoid. Dermatologica. 1978;157(4):238-244).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Psoriasis Area and Severity Index Clinical Classification</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="QIDS-C" nciodm:ExtCodeID="C130309">
                     <nciodm:CDISCSynonym>QIDSC1</nciodm:CDISCSynonym>

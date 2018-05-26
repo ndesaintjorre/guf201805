@@ -1,6 +1,6 @@
 <CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C100129.QSCAT" Name="Category of Questionnaire" DataType="text" nciodm:ExtCodeID="C100129" nciodm:CodeListExtensible="Yes">
                 <Description>
-                    <TranslatedText xml:lang="en">A grouping of observations within the Questionnaire domain.</TranslatedText>
+                    <TranslatedText xml:lang="en">A grouping of observations within the Questionnaires domain.</TranslatedText>
                 </Description>
                 <EnumeratedItem CodedValue="ACQ" nciodm:ExtCodeID="C122370">
                     <nciodm:CDISCSynonym>ACQ01</nciodm:CDISCSynonym>
@@ -86,6 +86,16 @@
                     <nciodm:CDISCSynonym>BDI01</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Baseline Dyspnea Index (BDI) (Mahler DA, Weinberg DH, Wells CK, Feinstein AR. The measurement of dyspnea. Contents, interobserver agreement, and physiologic correlates of two new clinical indexes. Chest 1984, 85: 751-758).</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Baseline Dyspnea Index Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BEBQ CONCURRENT" nciodm:ExtCodeID="C135735">
+                    <nciodm:CDISCSynonym>BEBQ01</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Baby Eating Behaviour Questionnaire - Concurrent (BEBQ CONCURRENT) (Llewellyn, C. H., van Jaarsveld, C. H., Johnson, L., Carnell, S., &amp; Wardle, J. Development and factor structure of the Baby Eating Behaviour Questionnaire in the Gemini birth cohort. Appetite 57.2, 2011, 388-396).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Baby Eating Behaviour Questionnaire Concurrent Version</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BEBQ RETROSPECTIVE" nciodm:ExtCodeID="C135736">
+                    <nciodm:CDISCSynonym>BEBQ02</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Baby Eating Behaviour Questionnaire - Retrospective (BEBQ RETROSPECTIVE) (Llewellyn, C. H., van Jaarsveld, C. H., Johnson, L., Carnell, S., &amp; Wardle, J. Development and factor structure of the Baby Eating Behaviour Questionnaire in the Gemini birth cohort. Appetite 57.2, 2011, 388-396).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Baby Eating Behaviour Questionnaire Retrospective Version</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="BLCS" nciodm:ExtCodeID="C113874">
                     <nciodm:CDISCSynonym>BLCS01</nciodm:CDISCSynonym>
@@ -212,10 +222,15 @@
                     <nciodm:CDISCDefinition>Combat Exposure Scale (CES) (Keane, T.M., Fairbank, J.A., Caddell, J.M., Zimering, R.T., Taylor, K.L., &amp; Mora, C. (1989). Clinical evaluation of a measure to assess combat exposure (PDF). Psychological Assessment, 1, 53-55).</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Combat Exposure Scale Questionnaire</nciodm:PreferredTerm>
                 </EnumeratedItem>
-                <EnumeratedItem CodedValue="CGI" nciodm:ExtCodeID="C100763">
-                    <nciodm:CDISCSynonym>CGI01</nciodm:CDISCSynonym>
+                <EnumeratedItem CodedValue="CGI" nciodm:ExtCodeID="C135738">
+                    <nciodm:CDISCSynonym>CGI02</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Clinical Global Impression (CGI) generic modification for any disease/condition concept use case (Modified from Guy W: ECDEU Assessment Manual for Psychopharmacology. Rockville, MD: U.S. Department of Health, Education, and Welfare; 1976).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Clinical Global Impression Generic Modification Version Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CGI GUY" nciodm:ExtCodeID="C100763">
+                    <nciodm:CDISCSynonym>CGGUY1</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Clinical Global Impression (CGI) (Guy W: ECDEU Assessment Manual for Psychopharmacology. Rockville, MD: U.S. Department of Health, Education, and Welfare; 1976).</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Clinical Global Impression Questionnaire</nciodm:PreferredTerm>
+                    <nciodm:PreferredTerm>Clinical Global Impression Original Version Questionnaire</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="CHART-SF INTERVIEW VERSION" nciodm:ExtCodeID="C117995">
                     <nciodm:CDISCSynonym>CHSF1</nciodm:CDISCSynonym>
@@ -284,7 +299,7 @@
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="EPDS" nciodm:ExtCodeID="C132533">
                     <nciodm:CDISCSynonym>EPDS01</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Edinburgh Postnatal Depression Scale (EPDS) (Copyright by Cox, J.L., Holden, J.M., and Sagovsky, R. 1987. Detection of postnatal depression: Development of the 10-item Edinburgh Postnatal Depression Scale. British&#160;Journal of Psychiatry 150:782-786).</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>Edinburgh Postnatal Depression Scale (EPDS) (Copyright by Cox, J.L., Holden, J.M., and Sagovsky, R. 1987. Detection of postnatal depression: Development of the 10-item Edinburgh Postnatal Depression Scale. British Journal of Psychiatry 150:782-786).</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Edinburgh Postnatal Depression Scale Questionnaire</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="EPIC-26" nciodm:ExtCodeID="C127367">
@@ -384,12 +399,12 @@
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="FLU-IIQ ONCE DAILY" nciodm:ExtCodeID="C119093">
                     <nciodm:CDISCSynonym>FLUIQ1</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Influenza Intensity and Impact Questionnaire (Flu-iiQ) Once Daily (Copyright RH Osborne 2006. No part of the Flu-iiQ may be copied or reproduced in any form without written permission from the author: measuredsolutions@bigpond.com).</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>Influenza Intensity and Impact Questionnaire (Flu-iiQ) Once Daily (Copyright RH Osborne 2006. No part of the Flu-iiQ may be copied or reproduced in any form without written permission from the author: measuredsolutions (at) bigpond (dot) com).</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Influenza Intensity and Impact Questionnaire Once Daily Version</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="FLU-IIQ TWICE DAILY" nciodm:ExtCodeID="C119094">
                     <nciodm:CDISCSynonym>FLUIQ2</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Influenza Intensity and Impact Questionnaire (Flu-iiQ) Twice Daily (Copyright RH Osborne 2006. No part of the Flu-iiQ may be copied or reproduced in any form without written permission from the author: measuredsolutions@bigpond.com).</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>Influenza Intensity and Impact Questionnaire (Flu-iiQ) Twice Daily (Copyright RH Osborne 2006. No part of the Flu-iiQ may be copied or reproduced in any form without written permission from the author: measuredsolutions (at) bigpond (dot) com).</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Influenza Intensity and Impact Questionnaire Twice Daily Version</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="FOSI" nciodm:ExtCodeID="C129109">
@@ -522,6 +537,11 @@
                     <nciodm:CDISCDefinition>The Karnofsky Performance Status Scale (KPSS) (Karnofsky DA, Burchenal JH. (1949). "The Clinical Evaluation of Chemotherapeutic Agents in Cancer." In: MacLeod CM (Ed), Evaluation of Chemotherapeutic Agents. Columbia Univ Press. Page 196).</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Karnofsky Performance Status Scale Questionnaire</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEC-5 STANDARD VERSION" nciodm:ExtCodeID="C135740">
+                    <nciodm:CDISCSynonym>LEC01</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Life Events Checklist for DSM-5, Standard Version (LEC-5 STANDARD VERSION) (Weathers, F.W., Blake, D.D., Schnurr, P.P., Kaloupek, D.G., Marx, B.P., &amp; Keane, T.M. (2013). The Life Events Checklist for DSM-5 (LEC-5). Retrieved from the National Center for PTSD website: http://www.ptsd.va.gov).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Life Events Checklist for DSM-5 Standard Version Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="MADRS" nciodm:ExtCodeID="C122382">
                     <nciodm:CDISCSynonym>MADRS1</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Montgomery-Asberg Depression Rating Scale (MADRS) (Copyright Stuart Montgomery 1978, Measures of Depression, Fulcrum Press, London. Stuart A. Montgomery and Marie Asberg. A new depression scale designed to be sensitive to change. Br. J. Psychiat. (1979), 134:382-389).</nciodm:CDISCDefinition>
@@ -554,7 +574,7 @@
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="MMSE" nciodm:ExtCodeID="C74982">
                     <nciodm:CDISCSynonym>MMS1</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>The Mini-Mental State Examination (MMSE) (Folstein MF, Folstein SE, McHugh PR. 'Mini-Mental State': A practical method for grading the cognitive state of patients for the clinician. J Psychiatr Res. 1975; 12(3):189-98).</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>Mini-Mental State Examination (MMSE) (MMSE Copyright 1975, 1998, 2001 by MiniMental, LLC All rights reserved. Published 2001 by Psychological Assessment Resources, Inc. May not be reproduced in whole or in part in any form or by any means without written permission of Psychological Assessment Resources, Inc.).</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Mini-Mental Status Exam</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="MNSI" nciodm:ExtCodeID="C100771">
@@ -642,6 +662,11 @@
                     <nciodm:CDISCDefinition>The Oswestry Disability Index Version 2.1a (ODI v2.1A) (copyright 1980 Jeremy Fairbank. All Rights Reserved.).</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>The Oswestry Disability Index Version 2.1a Questionnaire</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="PCL-5" nciodm:ExtCodeID="C135741">
+                    <nciodm:CDISCSynonym>PCL01</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The PTSD Checklist for DSM-5 (PCL-5) (Weathers, F.W., Litz, B. T., Keane, T. M., Palmieri, P. A., Marx, B. P., &amp; Schnurr, P. P. (2013). The PTSD Checklist for DSM-5 (PCL-5). Retrieved from the National Center for PTSD website: http://www.ptsd.va.gov).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>The PTSD Checklist for DSM-5 Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="PDDS" nciodm:ExtCodeID="C112524">
                     <nciodm:CDISCSynonym>PDDS01</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Patient Determined Disease Steps (PDDS) (Hohol MJ, Orav EJ, Weiner HL. Disease Steps in multiple sclerosis: A simple approach to evaluate disease progression. Neurology 1995; 45: 251-55). (Hohol MJ, Orav EJ, Weiner HL. Disease Steps in multiple sclerosis: a longitudinal study comparing disease steps and EDSS to evaluate disease progression. Multiple Sclerosis 1999; 5: 349-54). (Marrie RA and Goldman M. Validity of performance scales for disability assessment in multiple sclerosis. Multiple Sclerosis 2007; 13: 1176-1182). (The PDDS and/or PS are provided for use by the NARCOMS Registry: www.narcoms.org/pdds. NARCOMS is supported in part by the Consortium of Multiple Sclerosis Centers (CMSC) and the CMSC Foundation).</nciodm:CDISCDefinition>
@@ -651,6 +676,11 @@
                     <nciodm:CDISCSynonym>PDQ01</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Parkinson's Disease Quality of Life Scale (PDQUALIF) (Welsh M, McDermott MP, Holloway RG, Plumb S, Pfeiffer R, Hubble J, and The Parkinson Study Group. Development and Testing of the Parkinson's Disease Quality of Life Scale. Movement Disorders, 2003, Vol. 18; 637-645).</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Parkinson's Disease Quality of Life Scale Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PGI" nciodm:ExtCodeID="C135739">
+                    <nciodm:CDISCSynonym>PGI01</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Patient Global Impression (PGI) generic modification for any disease/condition concept use case (Modified from Guy W: ECDEU Assessment Manual for Psychopharmacology. Rockville, MD: U.S. Department of Health, Education, and Welfare; 1976).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Patient Global Impression Generic Modification Version Questionnaire</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="PHQ SCREENER VERSION" nciodm:ExtCodeID="C125761">
                     <nciodm:CDISCSynonym>PHQ03</nciodm:CDISCSynonym>
@@ -671,6 +701,21 @@
                     <nciodm:CDISCSynonym>PI01</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The Pain Intensity (PI) questions were created by STANDARDS (Standardized Analgesic Database for Research, Discovery, and Submissions) and sponsored by ACTTION (Analgesic Clinical Trial Translations, Innovations, Opportunities, and Networks) www.acttion.org; 2012-08-07 v1.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>STANDARDS Pain Intensity Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PODCI - ADOLESCENT PARENT REPORTED" nciodm:ExtCodeID="C135743">
+                    <nciodm:CDISCSynonym>PODCI2</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Outcomes Data Collection Instrument (PODCI), Adolescent Parent-Reported (Daltroy LH, Liang MH, Fossel AH, Goldberg MJ, and The Outcomes Instrument Development Work Group. The POSNA Pediatric Musculoskeletal Functional Health Questionnaire:report on reliability, validity, and sensitivity to change. J Pediatr Orthop 1998; 18: 561-71).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Pediatric Outcomes Data Collection Instrument, Adolescent Parent-Reported Version Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PODCI - ADOLESCENT SELF REPORTED" nciodm:ExtCodeID="C135744">
+                    <nciodm:CDISCSynonym>PODCI3</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Outcomes Data Collection Instrument (PODCI), Adolescent Self-Reported (Daltroy LH, Liang MH, Fossel AH, Goldberg MJ, and The Outcomes Instrument Development Work Group. The POSNA Pediatric Musculoskeletal Functional Health Questionnaire:report on reliability, validity, and sensitivity to change. J Pediatr Orthop 1998; 18: 561-71).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Pediatric Outcomes Data Collection Instrument, Adolescent Self-Reported Version Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PODCI - PEDIATRIC PARENT REPORTED" nciodm:ExtCodeID="C135742">
+                    <nciodm:CDISCSynonym>PODCI1</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pediatric Outcomes Data Collection Instrument (PODCI), Pediatric Parent-Reported (Daltroy LH, Liang MH, Fossel AH, Goldberg MJ, and The Outcomes Instrument Development Work Group. The POSNA Pediatric Musculoskeletal Functional Health Questionnaire: report on reliability, validity, and sensitivity to change. J Pediatr Orthop 1998; 18: 561-71).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Pediatric Outcomes Data Collection Instrument, Pediatric Parent-Reported Version Questionnaire</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="PR" nciodm:ExtCodeID="C105168">
                     <nciodm:CDISCSynonym>PR01</nciodm:CDISCSynonym>
@@ -701,6 +746,11 @@
                     <nciodm:CDISCSynonym>QIDSR1</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Quick Inventory of Depressive Symptomatology - Self-Report (QIDS-SR) (Rush AJ, Trivedi MH, Ibrahim HM, Carmody TJ, Arnow B, Klein DN, Markowitz JC, Ninan PT, Kornstein S, Manber R, Thase ME, Kocsis JH, Keller MB. The 16-item Quick Inventory of Depressive Symptomatology (QIDS) Clinician Rating (QIDS-C) and Self-Report (QIDS-SR): A psychometric evaluation in patients with chronic major depression. Biological Psychiatry, 54:573-583, 2003).</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Quick Inventory of Depressive Symptomatology Self-Report Version Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="RAND SOCIAL SUPPORT SURVEY INSTRUMENT" nciodm:ExtCodeID="C135745">
+                    <nciodm:CDISCSynonym>RSSS01</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>RAND Social Support Survey Instrument (Copyright the RAND Corporation. Developed at RAND as part of the Medical Outcomes Study).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>RAND Social Support Survey Instrument Questionnaire</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="RAND-36 V1.0" nciodm:ExtCodeID="C113879">
                     <nciodm:CDISCSynonym>R3601</nciodm:CDISCSynonym>

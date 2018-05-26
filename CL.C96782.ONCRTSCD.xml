@@ -8,15 +8,25 @@
                     <nciodm:CDISCDefinition>An assessment of the most clinically favorable overall response of the disease to the therapy.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Best Overall Response</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="BMIVLIND" nciodm:ExtCodeID="C135477">
+                    <nciodm:CDISCSynonym>Bone Marrow Involvement Indicator</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An indication as to whether disease is present in the bone marrow.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Bone Marrow Disease Involvement Indicator</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="BONERESP" nciodm:ExtCodeID="C132455">
                     <nciodm:CDISCSynonym>Bone Response</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>An assessment of the&#160;bone response of the disease to the therapy.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>An assessment of the bone response of the disease to the therapy.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Bone Response</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="CLINRESP" nciodm:ExtCodeID="C123619">
                     <nciodm:CDISCSynonym>Clinical Response</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>An assessment of the clinical response of the disease to the therapy.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Clinical Response</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CPRFSTAT" nciodm:ExtCodeID="C135478">
+                    <nciodm:CDISCSynonym>Clinical Performance Status</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An assessment of the clinical performance, measured by a rating or scale, as a condition of disease response to therapy. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Clinical Performance Status</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="CYTORESP" nciodm:ExtCodeID="C123620">
                     <nciodm:CDISCSynonym>Cytogenetic Response</nciodm:CDISCSynonym>
@@ -32,6 +42,11 @@
                     <nciodm:CDISCSynonym>Hematologic Response</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>An assessment of the hematologic response of the disease to the therapy.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Hematologic Response</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LIVRRESP" nciodm:ExtCodeID="C135479">
+                    <nciodm:CDISCSynonym>Liver Response</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An assessment of the disease response to therapy within the liver.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Disease Response in Liver</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="METBRESP" nciodm:ExtCodeID="C123623">
                     <nciodm:CDISCSynonym>Metabolic Response</nciodm:CDISCSynonym>
@@ -64,6 +79,16 @@
                     <nciodm:CDISCDefinition>An assessment of the equivocality of disease progression based on a newly identified lesion.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>New Lesion Progression</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="NTERESP" nciodm:ExtCodeID="C135480">
+                    <nciodm:CDISCSynonym>Non-Target Enhancing Response</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An assessment of the response to the therapy of the non-target enhancing disease. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Non-Target Enhancing Lesion Response</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NTNERESP" nciodm:ExtCodeID="C135481">
+                    <nciodm:CDISCSynonym>Non-Target Non-Enhancing Response</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An assessment of the response to the therapy of the non-target non-enhancing disease. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Non-Target Non-Enhancing Lesion Response</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="NTRGRESP" nciodm:ExtCodeID="C94535">
                     <nciodm:CDISCSynonym>Non-target Response</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>An assessment of the response of a non-target tumor(s) to the therapy.</nciodm:CDISCDefinition>
@@ -86,8 +111,18 @@
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="SFTSRESP" nciodm:ExtCodeID="C132457">
                     <nciodm:CDISCSynonym>Soft Tissue Response</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>An assessment of the&#160;soft tissue response of the disease to the therapy.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>An assessment of the soft tissue response of the disease to the therapy.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Soft Tissue Response</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SPLNRESP" nciodm:ExtCodeID="C135482">
+                    <nciodm:CDISCSynonym>Spleen Response</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An assessment of the disease response to therapy within the spleen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Disease Response in Spleen</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="STRUSTAT" nciodm:ExtCodeID="C135483">
+                    <nciodm:CDISCSynonym>Steroid Use Status</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An assessment of steroid usage as a condition of disease response to therapy. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Steroid Use Status</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="SYMPTDTR" nciodm:ExtCodeID="C124434">
                     <nciodm:CDISCSynonym>Symptomatic Deterioration</nciodm:CDISCSynonym>

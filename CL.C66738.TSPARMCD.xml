@@ -67,6 +67,12 @@
                     <nciodm:CDISCDefinition>A date which indicates any data collected by this date will be used for analysis.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Data Cutoff Date</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="DGFCRIT" nciodm:ExtCodeID="C135514">
+                    <nciodm:CDISCSynonym>Delayed Graft Function Diagnostic Criteria</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Delayed Graft Function Dx Criteria</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A standard by which the determination of delayed graft function (DGF) is established.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Delayed Graft Function Diagnostic Criteria Name</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="DMCIND" nciodm:ExtCodeID="C127790">
                     <nciodm:CDISCSynonym>Data Monitoring Committee Indicator</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>An indication as to whether the clinical trial has an appointed data monitoring committee.</nciodm:CDISCDefinition>

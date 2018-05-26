@@ -1,0 +1,24 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C135688.PGI01TC" Name="Patient Global Impression Generic Modification Version Questionnaire Test Code" DataType="text" nciodm:ExtCodeID="C135688" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Patient Global Impression Generic Modification Version test code.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="PGI0101" nciodm:ExtCodeID="C135817">
+                    <nciodm:CDISCSynonym>PGI01-Severity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Patient Global Impression - Considering all the ways your condition impacts you, how severe is your condition at this time?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PGI Generic Modification Version - Severity</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PGI0102" nciodm:ExtCodeID="C135818">
+                    <nciodm:CDISCSynonym>PGI01-Change</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Patient Global Impression - Compared to &lt;previously assessed protocol specified time point&gt; how much has your condition changed?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PGI Generic Modification Version - Change</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PGI0103" nciodm:ExtCodeID="C135819">
+                    <nciodm:CDISCSynonym>PGI01-Improvement</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Patient Global Impression - Compared to &lt;previously assessed protocol specified time point&gt; how much has your condition improved?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PGI Generic Modification Version - Improvement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>PGI01TC</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Patient Global Impression Generic Modification Version Questionnaire Test Code</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Questionnaire PGI Generic Modification Version Test Code Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

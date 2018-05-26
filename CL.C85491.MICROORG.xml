@@ -274,10 +274,9 @@
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Actinomyces viscosus.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Actinomyces viscosus</nciodm:PreferredTerm>
                 </EnumeratedItem>
-                <EnumeratedItem CodedValue="ADENOVIRUS" nciodm:ExtCodeID="C14179">
-                    <nciodm:CDISCSynonym>Adenoviridae</nciodm:CDISCSynonym>
+                <EnumeratedItem CodedValue="ADENOVIRIDAE" nciodm:ExtCodeID="C14179">
                     <nciodm:CDISCDefinition>Any viral organism that can be assigned to the family Adenoviridae.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Adenovirus</nciodm:PreferredTerm>
+                    <nciodm:PreferredTerm>Adenoviridae</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="AEROBIC GRAM-NEGATIVE BACILLUS" nciodm:ExtCodeID="C86116">
                     <nciodm:CDISCSynonym>Aerobic Gram-negative Rod</nciodm:CDISCSynonym>
@@ -304,6 +303,10 @@
                 <EnumeratedItem CodedValue="AEROBIC STREPTOCOCCUS" nciodm:ExtCodeID="C86120">
                     <nciodm:CDISCDefinition>Any bacteria assigned to the genus Streptococcus that requires oxygen to grow or respirate.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Aerobic Streptococcus</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="AEROCOCCACEAE" nciodm:ExtCodeID="C85913">
+                    <nciodm:CDISCDefinition>Any bacteria that are not assigned to the species level but can be assigned to the Aerococcaceae family level.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Aerococcaceae</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="AEROCOCCUS" nciodm:ExtCodeID="C86121">
                     <nciodm:CDISCDefinition>Any bacteria that is not assigned to the species level but can be assigned to the Aerococcus genus level.</nciodm:CDISCDefinition>
@@ -410,6 +413,10 @@
                 <EnumeratedItem CodedValue="AJELLOMYCES CAPSULATUS" nciodm:ExtCodeID="C77186">
                     <nciodm:CDISCDefinition>Any fungal organism that can be assigned to the species Ajellomyces capsulatus.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Ajellomyces capsulatus</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ALCALIGENACEAE" nciodm:ExtCodeID="C85914">
+                    <nciodm:CDISCDefinition>Any bacteria that are not assigned to the species level but can be assigned to the Alcaligenaceae family level.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Alcaligenaceae</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="ALCALIGENES" nciodm:ExtCodeID="C86012">
                     <nciodm:CDISCDefinition>Any bacteria that is not assigned to the species level but can be assigned to the Alcaligenes genus level.</nciodm:CDISCDefinition>
@@ -680,6 +687,10 @@
                     <nciodm:CDISCDefinition>Any fungal organism that can be assigned to the species Aspergillus niger.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Aspergillus niger</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="ASPERGILLUS OCHRACEUS" nciodm:ExtCodeID="C87508">
+                    <nciodm:CDISCDefinition>Any fungal organism that can be assigned to the species Aspergillus ochraceus.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Aspergillus ochraceus</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="ASPERGILLUS TERREUS" nciodm:ExtCodeID="C87511">
                     <nciodm:CDISCSynonym>Aspergillus terrestrius</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Any fungal organism that can be assigned to the species Aspergillus terreus.</nciodm:CDISCDefinition>
@@ -702,8 +713,7 @@
                     <nciodm:CDISCDefinition>Any fungal organism that can be assigned to the species Asterotremella humicola.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Asterotremella humicola</nciodm:PreferredTerm>
                 </EnumeratedItem>
-                <EnumeratedItem CodedValue="ASTROVIRUS" nciodm:ExtCodeID="C112231">
-                    <nciodm:CDISCSynonym>Astroviridae</nciodm:CDISCSynonym>
+                <EnumeratedItem CodedValue="ASTROVIRIDAE" nciodm:ExtCodeID="C112231">
                     <nciodm:CDISCDefinition>Any viral organism that can be assigned to the family Astroviridae.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Astroviridae</nciodm:PreferredTerm>
                 </EnumeratedItem>
@@ -1022,6 +1032,11 @@
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Bordetella hinzii.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Bordetella hinzii</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="BORDETELLA HOLMESII" nciodm:ExtCodeID="C135460">
+                    <nciodm:CDISCSynonym>CDC Nonoxidizer Group 2</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Bordetella holmesii.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Bordetella holmesii</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="BORDETELLA PARAPERTUSSIS" nciodm:ExtCodeID="C86205">
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Bordetella parapertussis.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Bordetella parapertussis</nciodm:PreferredTerm>
@@ -1171,10 +1186,9 @@
                     <nciodm:CDISCDefinition>Any fungal organism that can be assigned to the species Byssochlamys spectabilis.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Byssochlamys spectabilis</nciodm:PreferredTerm>
                 </EnumeratedItem>
-                <EnumeratedItem CodedValue="CALICIVIRUS" nciodm:ExtCodeID="C14304">
-                    <nciodm:CDISCSynonym>Caliciviridae</nciodm:CDISCSynonym>
+                <EnumeratedItem CodedValue="CALICIVIRIDAE" nciodm:ExtCodeID="C14304">
                     <nciodm:CDISCDefinition>Any viral organism that can be assigned to the family Caliciviridae.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Calicivirus</nciodm:PreferredTerm>
+                    <nciodm:PreferredTerm>Caliciviridae</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="CALODIUM HEPATICUM" nciodm:ExtCodeID="C122256">
                     <nciodm:CDISCSynonym>Capillaria hepatica</nciodm:CDISCSynonym>
@@ -1386,6 +1400,10 @@
                 <EnumeratedItem CodedValue="CHAETOMIUM" nciodm:ExtCodeID="C122258">
                     <nciodm:CDISCDefinition>Any fungal organism that is not assigned to the species level but can be assigned to the Chaetomium genus level.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Chaetomium</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CHIKUNGUNYA VIRUS" nciodm:ExtCodeID="C125638">
+                    <nciodm:CDISCDefinition>Any viral organism that can be assigned to the species Chikungunya virus.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Chikungunya Virus</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="CHILOMASTIX MESNILI" nciodm:ExtCodeID="C122259">
                     <nciodm:CDISCDefinition>Any unicellular, eukaryotic organism that can be assigned to the species Chilomastix mesnili.</nciodm:CDISCDefinition>
@@ -1724,8 +1742,7 @@
                     <nciodm:CDISCDefinition>Any fungal organism that can be assigned to the species Coprinellus radians.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Coprinellus radians</nciodm:PreferredTerm>
                 </EnumeratedItem>
-                <EnumeratedItem CodedValue="CORONAVIRUS" nciodm:ExtCodeID="C113205">
-                    <nciodm:CDISCSynonym>Coronaviridae</nciodm:CDISCSynonym>
+                <EnumeratedItem CodedValue="CORONAVIRIDAE" nciodm:ExtCodeID="C113205">
                     <nciodm:CDISCDefinition>Any viral organism that can be assigned to the family Coronaviridae.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Coronaviridae</nciodm:PreferredTerm>
                 </EnumeratedItem>
@@ -2293,6 +2310,7 @@
                     <nciodm:PreferredTerm>Enterobacter hormaechei</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="ENTEROBACTERIACEAE" nciodm:ExtCodeID="C85932">
+                    <nciodm:CDISCSynonym>Enterobacteraceae</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Any bacteria that is not assigned to the species level but can be assigned to the Enterobacteriaceae family level.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Enterobacteriaceae</nciodm:PreferredTerm>
                 </EnumeratedItem>
@@ -2554,8 +2572,8 @@
                     <nciodm:CDISCDefinition>Any fungal organism that can be assigned to the species Filobasidium uniguttulatum.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Filobasidium uniguttulatum</nciodm:PreferredTerm>
                 </EnumeratedItem>
-                <EnumeratedItem CodedValue="FILOVIRUS" nciodm:ExtCodeID="C112031">
-                    <nciodm:CDISCSynonym>Filoviridae</nciodm:CDISCSynonym>
+                <EnumeratedItem CodedValue="FILOVIRIDAE" nciodm:ExtCodeID="C112031">
+                    <nciodm:CDISCSynonym>Filovirus</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Any viral organism that can be assigned to the family Filoviridae.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Filoviridae</nciodm:PreferredTerm>
                 </EnumeratedItem>
@@ -5923,6 +5941,10 @@
                     <nciodm:CDISCSynonym>Haverhillia multiformis</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Streptobacillus moniliformis.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Streptobacillus moniliformis</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="STREPTOCOCCACEAE" nciodm:ExtCodeID="C85967">
+                    <nciodm:CDISCDefinition>Any bacteria that are not assigned to the species level but can be assigned to the Streptococcaceae family level.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Streptococcaceae</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="STREPTOCOCCUS" nciodm:ExtCodeID="C76383">
                     <nciodm:CDISCSynonym>Streptococci sp.</nciodm:CDISCSynonym>

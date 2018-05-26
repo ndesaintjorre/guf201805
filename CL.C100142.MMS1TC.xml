@@ -1,0 +1,199 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C100142.MMS1TC" Name="Mini-Mental State Examination Questionnaire Test Code" DataType="text" nciodm:ExtCodeID="C100142" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Mini-Mental State Examination test code.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="MMS101A" nciodm:ExtCodeID="C100543">
+                    <nciodm:CDISCSynonym>MMS1-What Is the Year</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Mini-Mental State Examination - What is the year?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MMSE - What Is the Year</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MMS101B" nciodm:ExtCodeID="C100544">
+                    <nciodm:CDISCSynonym>MMS1-What Is the Season</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Mini-Mental State Examination - What is the season?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MMSE - What Is the Season</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MMS101C" nciodm:ExtCodeID="C100547">
+                    <nciodm:CDISCSynonym>MMS1-What Is the Month of Year</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Mini-Mental State Examination - What is the month of the year?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MMSE - What Is the Month of Year</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MMS101D" nciodm:ExtCodeID="C100546">
+                    <nciodm:CDISCSynonym>MMS1-What Is the Day of Week</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Mini-Mental State Examination - What is the day of the week?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MMSE - What Is the Day of Week</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MMS101E" nciodm:ExtCodeID="C100545">
+                    <nciodm:CDISCSynonym>MMS1-What Is the Date</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Mini-Mental State Examination - What is the date?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MMSE - What Is the Date</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MMS102A" nciodm:ExtCodeID="C100549">
+                    <nciodm:CDISCSynonym>MMS1-What Is the State</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Mini-Mental State Examination - Where are we now? What is the state (province)?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MMSE - What Is the State</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MMS102B" nciodm:ExtCodeID="C100550">
+                    <nciodm:CDISCSynonym>MMS1-What Is the County</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Mini-Mental State Examination - Where are we now? What is the county (or city/town)?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MMSE - What Is the County</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MMS102C" nciodm:ExtCodeID="C100551">
+                    <nciodm:CDISCSynonym>MMS1-What Is the City/Town</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Mini-Mental State Examination - Where are we now? What is the city/town (or part of city/neighborhood)?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MMSE - What Is the City or Town</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MMS102D" nciodm:ExtCodeID="C100552">
+                    <nciodm:CDISCSynonym>MMS1-What Is the Building</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Mini-Mental State Examination - Where are we now? What is the building (name or type)?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MMSE - What Is the Building</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MMS102E" nciodm:ExtCodeID="C100553">
+                    <nciodm:CDISCSynonym>MMS1-What Is the Floor</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Mini-Mental State Examination - Where are we now? What is the floor of the building (room number or address)?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MMSE - What Is the Floor</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MMS103A" nciodm:ExtCodeID="C100555">
+                    <nciodm:CDISCSynonym>MMS1-Repeat Word 1</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Mini-Mental State Examination - Now repeat those words back to me: Word 1.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MMSE - Repeat Word 1</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MMS103B" nciodm:ExtCodeID="C100556">
+                    <nciodm:CDISCSynonym>MMS1-Repeat Word 2</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Mini-Mental State Examination - Now repeat those words back to me: Word 2.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MMSE - Repeat Word 2</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MMS103C" nciodm:ExtCodeID="C100557">
+                    <nciodm:CDISCSynonym>MMS1-Repeat Word 3</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Mini-Mental State Examination - Now repeat those words back to me: Word 3.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MMSE - Repeat Word 3</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MMS104" nciodm:ExtCodeID="C100570">
+                    <nciodm:CDISCSynonym>MMS1-Attention and Calculation Subtotal</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Mini-Mental State Examination - Attention and calculation subtotal.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MMSE - Attention and Calculation Subtotal</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MMS104AA" nciodm:ExtCodeID="C100559">
+                    <nciodm:CDISCSynonym>MMS1-What is 100 Take Away 7</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Mini-Mental State Examination - What is 100 take away 7 [93]?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MMSE - What is 100 Take Away 7</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MMS104AB" nciodm:ExtCodeID="C100560">
+                    <nciodm:CDISCSynonym>MMS1-Keep Subtracting 7 Step 2</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Mini-Mental State Examination - Keep going [86].</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MMSE - Keep Subtracting 7 Step 2</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MMS104AC" nciodm:ExtCodeID="C100561">
+                    <nciodm:CDISCSynonym>MMS1-Keep Subtracting 7 Step 3</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Mini-Mental State Examination - Keep going [79].</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MMSE - Keep Subtracting 7 Step 3</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MMS104AD" nciodm:ExtCodeID="C100562">
+                    <nciodm:CDISCSynonym>MMS1-Keep Subtracting 7 Step 4</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Mini-Mental State Examination - Keep going [72].</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MMSE - Keep Subtracting 7 Step 4</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MMS104AE" nciodm:ExtCodeID="C100563">
+                    <nciodm:CDISCSynonym>MMS1-Keep Subtracting 7 Step 5</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Mini-Mental State Examination - Keep going [65].</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MMSE - Keep Subtracting 7 Step 5</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MMS104BA" nciodm:ExtCodeID="C100565">
+                    <nciodm:CDISCSynonym>MMS1-Spell Backward Letter 1</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Mini-Mental State Examination - Spell backward, letter 1.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MMSE - Spell Backward Letter 1</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MMS104BB" nciodm:ExtCodeID="C100566">
+                    <nciodm:CDISCSynonym>MMS1-Spell Backward Letter 2</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Mini-Mental State Examination - Spell backward, letter 2.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MMSE - Spell Backward Letter 2</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MMS104BC" nciodm:ExtCodeID="C100567">
+                    <nciodm:CDISCSynonym>MMS1-Spell Backward Letter 3</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Mini-Mental State Examination - Spell backward, letter 3.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MMSE - Spell Backward Letter 3</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MMS104BD" nciodm:ExtCodeID="C100568">
+                    <nciodm:CDISCSynonym>MMS1-Spell Backward Letter 4</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Mini-Mental State Examination - Spell backward, letter 4.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MMSE - Spell Backward Letter 4</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MMS104BE" nciodm:ExtCodeID="C100569">
+                    <nciodm:CDISCSynonym>MMS1-Spell Backward Letter 5</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Mini-Mental State Examination - Spell backward, letter 5.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MMSE - Spell Backward Letter 5</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MMS105A" nciodm:ExtCodeID="C100572">
+                    <nciodm:CDISCSynonym>MMS1-Recall Word 1</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Mini-Mental State Examination - What were those three words I asked you to remember: Word 1?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MMSE - Recall Word 1</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MMS105B" nciodm:ExtCodeID="C100573">
+                    <nciodm:CDISCSynonym>MMS1-Recall Word 2</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Mini-Mental State Examination - What were those three words I asked you to remember: Word 2?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MMSE - Recall Word 2</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MMS105C" nciodm:ExtCodeID="C100574">
+                    <nciodm:CDISCSynonym>MMS1-Recall Word 3</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Mini-Mental State Examination - What were those three words I asked you to remember: Word 3?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MMSE - Recall Word 3</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MMS106A" nciodm:ExtCodeID="C100576">
+                    <nciodm:CDISCSynonym>MMS1-Naming Object 1</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Mini-Mental State Examination - What is this: Object 1?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MMSE - Naming Object 1</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MMS106B" nciodm:ExtCodeID="C100577">
+                    <nciodm:CDISCSynonym>MMS1-Naming Object 2</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Mini-Mental State Examination - What is this: Object 2?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MMSE - Naming Object 2</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MMS107" nciodm:ExtCodeID="C100578">
+                    <nciodm:CDISCSynonym>MMS1-Repeat What I Say</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Mini-Mental State Examination - Now I am going to ask you to repeat what I say. Ready? "No ifs, ands, or buts." Now you say that.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MMSE - Repeat What I Say</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MMS108A" nciodm:ExtCodeID="C100580">
+                    <nciodm:CDISCSynonym>MMS1-Take in Right Hand</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Mini-Mental State Examination - Listen carefully because I am going to ask you to do something. Take this paper in your right hand.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MMSE - Take in Right Hand</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MMS108B" nciodm:ExtCodeID="C100581">
+                    <nciodm:CDISCSynonym>MMS1-Fold in Half</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Mini-Mental State Examination - Fold it in half.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MMSE - Fold in Half</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MMS108C" nciodm:ExtCodeID="C100582">
+                    <nciodm:CDISCSynonym>MMS1-Put on Floor (or Table)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Mini-Mental State Examination - And put it on the floor (or table).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MMSE - Put on Floor or Table</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MMS109" nciodm:ExtCodeID="C100583">
+                    <nciodm:CDISCSynonym>MMS1-Read This and Do What It Says</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Mini-Mental State Examination - Please read this and do what it says.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MMSE - Read This and Do What It Says</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MMS110" nciodm:ExtCodeID="C100584">
+                    <nciodm:CDISCSynonym>MMS1-Write a Sentence</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Mini-Mental State Examination - Please write a sentence.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MMSE - Write a Sentence</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MMS111" nciodm:ExtCodeID="C100585">
+                    <nciodm:CDISCSynonym>MMS1-Copy This Design</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Mini-Mental State Examination - Please copy this design.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MMSE - Copy This Design</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MMS112" nciodm:ExtCodeID="C100586">
+                    <nciodm:CDISCSynonym>MMS1-Total Score</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Mini-Mental State Examination - Total score.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MMSE - Total Score</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MMS113" nciodm:ExtCodeID="C136234">
+                    <nciodm:CDISCSynonym>MMS1-Level of Consciousness</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Mini-Mental State Examination - Assessment of level of consciousness.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MMSE - Level of Consciousness</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>MMS1TC</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Mini-Mental State Examination Questionnaire Test Code</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Questionnaire MMSE Test Code Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

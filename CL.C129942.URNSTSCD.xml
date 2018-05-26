@@ -2,6 +2,16 @@
                 <Description>
                     <TranslatedText xml:lang="en">A terminology codelist to describe the test code for examinations of the urinary system.</TranslatedText>
                 </Description>
+                <EnumeratedItem CodedValue="COLOR" nciodm:ExtCodeID="C64546">
+                    <nciodm:CDISCSynonym>Color</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the color of a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Color Assessment</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="GRFTSTAT" nciodm:ExtCodeID="C135522">
+                    <nciodm:CDISCSynonym>Graft Status</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The condition of the donated organ or tissue. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Graft Status</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="LENGTH" nciodm:ExtCodeID="C25334">
                     <nciodm:CDISCSynonym>Length</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The linear extent in space from one end of something to the other end, or the extent of something from beginning to end. (NCI)</nciodm:CDISCDefinition>

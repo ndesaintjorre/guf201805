@@ -2,6 +2,11 @@
                 <Description>
                     <TranslatedText xml:lang="en">Method is any technique or procedure (an action) that determines how an observation or clinical finding was made.</TranslatedText>
                 </Description>
+                <EnumeratedItem CodedValue="ACCELERATOR MASS SPECTROMETRY" nciodm:ExtCodeID="C135452">
+                    <nciodm:CDISCSynonym>AMS</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A type of mass spectrometry in which ions in the sample are accelerated to very high kinetic energies, thus allowing for the separation of rare isotopes from more abundant isotopes. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Accelerator Mass Spectrometry</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="ACID FAST STAIN" nciodm:ExtCodeID="C23015">
                     <nciodm:CDISCDefinition>A microscopy staining method used to examine a specimen for the presence of acid-fast microorganisms, specifically mycobacteria.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Acid Fast Bacillae Staining Method</nciodm:PreferredTerm>
@@ -178,6 +183,20 @@
                     <nciodm:CDISCDefinition>A microscopic technique in which the light that does not come into contact with the structure or details of interest is subtracted from the ocular image. This yields an image in which the structure or details are alight while the areas where the structures or details are absent are dark.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Dark Field Microscopy</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="DIFFUSION TENSOR MRI" nciodm:ExtCodeID="C64862">
+                    <nciodm:CDISCSynonym>DT-MRI</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>DTI</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Diffusion Tensor Imaging</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A type of MRI technique that maps the diffusion of water in three dimensions.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Diffusion Tensor Imaging</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DIFFUSION WEIGHTED MRI" nciodm:ExtCodeID="C111116">
+                    <nciodm:CDISCSynonym>DW-MRI</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>DWI</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Diffusion Weighted Imaging</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A type of MRI technique in which diffusion-sensitizing gradients are applied to the imaging sequence.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Diffusion Weighted Imaging</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="DIGITAL PCR ARRAY" nciodm:ExtCodeID="C116158">
                     <nciodm:CDISCSynonym>Digital PCR</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Digital Polymerase Chain Reaction</nciodm:CDISCSynonym>
@@ -226,6 +245,11 @@
                     <nciodm:CDISCSynonym>Quasi-elastic Light Scattering</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A type of spectroscopy that utilizes a laser beam to irradiate a sample containing particles in suspension, resulting in light scattering.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Photon Correlation Spectroscopy</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DYNAMIC SUSCEPTIBILITY-CONTRAST MRI" nciodm:ExtCodeID="C116453">
+                    <nciodm:CDISCSynonym>DSC-MRI</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A type of MRI that uses the transient signal reduction induced by the first pass of gadolinium chelate through the brain vessels to calculate cerebral blood flow maps, and to determine the ratio between the cerebral blood volume in the lesion and the cerebral blood volume in normal tissue.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Dynamic Susceptibility Contrast-Enhanced Magnetic Resonance Imaging</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="ECHOCARDIOGRAPHY" nciodm:ExtCodeID="C16525">
                     <nciodm:CDISCDefinition>A procedure that uses high-frequency sound waves (ultrasound) to create an image of the heart.</nciodm:CDISCDefinition>
@@ -332,7 +356,7 @@
                     <nciodm:PreferredTerm>Fluorescence Microscopy</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="FLUORESCENT SPOT TEST" nciodm:ExtCodeID="C132427">
-                    <nciodm:CDISCDefinition>A&#160;method to assess enzymatic activity in which a&#160;substrate reagent&#160;is incubated with a biological specimen and spotted on filter paper. The spots are then examined for fluorescence, which&#160;correlates with&#160;enzyme activity.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A method to assess enzymatic activity in which a substrate reagent is incubated with a biological specimen and spotted on filter paper. The spots are then examined for fluorescence, which correlates with enzyme activity.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Fluorescent Spot Test</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="FLUORIMETRY" nciodm:ExtCodeID="C62322">
@@ -344,10 +368,19 @@
                     <nciodm:CDISCDefinition>A non-invasive method to evaluate respiratory mechanical properties of the lung and airways using small-amplitude pressure oscillations superimposed on the normal, tidal breathing of a subject.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Forced Oscillation Technique</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="FREEZING POINT DEPRESSION" nciodm:ExtCodeID="C135453">
+                    <nciodm:CDISCDefinition>The addition of a solute to a solvent that results in a decrease in the temperature at which the solute-solvent mixture (solution) freezes.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Freezing Point Depression</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="FUNCTIONAL MRI" nciodm:ExtCodeID="C17958">
                     <nciodm:CDISCSynonym>fMRI</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A type of MRI that takes a series of images of an organ in quick succession and statistically analyzes the differences between the images.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Functional Magnetic Resonance Imaging</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="GC/FID" nciodm:ExtCodeID="C135454">
+                    <nciodm:CDISCSynonym>Gas Chromatography/Flame Ionization Detector</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An analytical technique where gas chromatography is coupled with flame ionization detection in order to separate, identify, and quantify substances in a sample.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Gas Chromatography and Flame Ionization Detection</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="GC/MS" nciodm:ExtCodeID="C111203">
                     <nciodm:CDISCSynonym>Gas Chromatography/Mass Spectrometry</nciodm:CDISCSynonym>
@@ -416,7 +449,7 @@
                     <nciodm:PreferredTerm>High Resolution Melt Analysis</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="HILLMEN COLOR CHART" nciodm:ExtCodeID="C132428">
-                    <nciodm:CDISCDefinition>A visual color scale created by Hillman et al in 2004 to&#160;enable standardization of&#160;urine color in the assessment of hemoglobinuria.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A visual color scale created by Hillman et al in 2004 to enable standardization of urine color in the assessment of hemoglobinuria.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Hillmen Color Chart</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="HPLC" nciodm:ExtCodeID="C16434">
@@ -604,6 +637,11 @@
                     <nciodm:CDISCDefinition>A method to determine the minimum inhibitory concentration (MIC) of antibiotics in which growth media is pipetted into a test tube. Each tube contains a known concentration of drug and is inoculated with a known quantity of bacteria. The tubes are incubated for a specified period of time and each is assessed for bacterial cell growth. The drug concentration in the first tube showing no growth is known as the MIC for that antibiotic.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Macro Broth Dilution Method</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="MAGNETIC RESONANCE ELASTOGRAPHY" nciodm:ExtCodeID="C19338">
+                    <nciodm:CDISCSynonym>MRE</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An imaging technique that combines MRI with ultrasound to assess the mechanical properties of tissues. An MRI machine captures a cross sectional image of the sound waves, produced by ultrasound techniques, which are then processed by computer to produce an image showing the hardness or elasticity of tissues within the cross section.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Magnetic Resonance Elastography</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="MALDI" nciodm:ExtCodeID="C48040">
                     <nciodm:CDISCSynonym>Matrix-Assisted Laser Desorption Ionization Mass Spectrometry</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A mass spectrometric technique that is used for the analysis of large biomolecules. Analyte molecules are embedded in an excess matrix of small organic molecules that show a high resonant absorption at the laser wavelength used. The matrix absorbs the laser energy, thus inducing a soft disintegration of the sample- matrix mixture into free (gas phase) matrix and analyte molecules and molecular ions. In general, only molecular ions of the analyte molecules are produced and almost no fragmentation occurs. This makes the method well suited for molecular weight determinations and mixture analysis. (CHI)</nciodm:CDISCDefinition>
@@ -718,6 +756,10 @@
                     <nciodm:CDISCSynonym>MLPA</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A type of high-throughput, multiplex PCR method that uses a single pair of PCR primers to amplify multiple targets and to determine changes in complex genomes.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Multiplex Ligation-dependent Probe Amplification</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MULTIPLEXED BEAD BASED IMMUNOASSAY" nciodm:ExtCodeID="C135455">
+                    <nciodm:CDISCDefinition>A type of solid-phase immunoassay that uses distinctly colored microbeads coated with one or more reagents, which may be antigens, antibodies, oligonucleotides, enzyme substrates, or receptors, for the simultaneous detection and measurement of one or many analytes within a single sample.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Multiplexed Bead Based Immunoassay</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="NEPHELOMETRY" nciodm:ExtCodeID="C111281">
                     <nciodm:CDISCDefinition>A method to quantify the concentration of particulate matter suspended in a liquid or gas using a nephelometer.</nciodm:CDISCDefinition>
@@ -855,6 +897,11 @@
                     <nciodm:CDISCDefinition>A microscopic technique in which the amplitude shift that occurs when light passes through a specimen highlights structures or details within the specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Phase-Contrast Microscopy</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="PHASE-CONTRAST MRI" nciodm:ExtCodeID="C135456">
+                    <nciodm:CDISCSynonym>PCMR</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A type of MRI in which a phase shift between flowing tissue and static tissue is generated in order to determine the quantity and velocity of body fluid.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Phase-Contrast Magnetic Resonance Imaging</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="PHENOTYPIC MULTIPLE ANTIGEN BEAD-BASED MULTIPLEX ASSAY" nciodm:ExtCodeID="C130178">
                     <nciodm:CDISCDefinition>A type of solid-phase multiplex assay that uses microbeads coated with recombinant or purified antigens that will identify multiple antibodies.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Phenotypic Multiple Antigen Bead-based Multiplex Assay</nciodm:PreferredTerm>
@@ -895,6 +942,10 @@
                     <nciodm:CDISCDefinition>A group of tests taken during sleep to capture and record brain wave changes, eye movements, breathing rate, blood pressure, heart rate, and the electrical activity of the heart and other muscles.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Polysomnography</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="POPULATION SEQUENCING" nciodm:ExtCodeID="C135457">
+                    <nciodm:CDISCDefinition>A process by which the individual genomes of most or all of an entire population of a species undergoes a large-scale comparison of the DNA sequences within that population, using probabilistic matching tools.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Population Sequencing</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="PULSE OXIMETRY" nciodm:ExtCodeID="C38085">
                     <nciodm:CDISCDefinition>A non-invasive method that provides estimates of arterial hemoglobin oxygen saturation by utilizing selected wavelengths of light.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Pulse Oximetry</nciodm:PreferredTerm>
@@ -928,6 +979,16 @@
                     <nciodm:CDISCSynonym>Radiographic Exam</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A radiographic procedure using the emission of penetrating energy waves to form an image of the structure.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Radiographic Examination</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="RAJI CELL EIA" nciodm:ExtCodeID="C135458">
+                    <nciodm:CDISCSynonym>Raji Cell Enzyme Immunoassay</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A type of complement receptor-dependent immune complex assay that uses Raji cells washed with anti-IgA, anti-IgG, anti-IgM, and anti-Ig (A+G+M) conjugated with an enzyme to detect the presence of circulating immune complexes in biologic fluids. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Raji Cell Enzyme Immunoassay</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="RAJI CELL RIA" nciodm:ExtCodeID="C135459">
+                    <nciodm:CDISCSynonym>Raji Cell Radioimmunoassay</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A type of complement receptor-dependent immune complex assay that uses radiolabeled anti-IgA, anti-IgG, or anti-IgM Raji cells to detect the presence of soluble immune complexes in biologic fluids. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Raji Cell Radioimmunoassay</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="REAL-TIME POLYMERASE CHAIN REACTION ASSAY" nciodm:ExtCodeID="C51962">
                     <nciodm:CDISCSynonym>Quantitative PCR</nciodm:CDISCSynonym>

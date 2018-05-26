@@ -176,8 +176,7 @@
                     <nciodm:PreferredTerm>Infrequent</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="ONCE" nciodm:ExtCodeID="C64576">
-                    <nciodm:CDISCSynonym>Once</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A one time intervention. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>One time.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Once</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="PA" nciodm:ExtCodeID="C74924">
@@ -373,6 +372,10 @@
                     <nciodm:CDISCSynonym>3 times per day</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Three times per day. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Three Times Daily</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TWICE" nciodm:ExtCodeID="C65134">
+                    <nciodm:CDISCDefinition>Two times. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Twice</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="UNKNOWN" nciodm:ExtCodeID="C17998">
                     <nciodm:CDISCSynonym>U</nciodm:CDISCSynonym>

@@ -59,6 +59,10 @@
                     <nciodm:CDISCDefinition>The main or principal contact person for the subcontractor or subcontracting organization.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Subcontractor Contact</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUBINVESTIGATOR" nciodm:ExtCodeID="C54622">
+                    <nciodm:CDISCDefinition>Any member of the clinical trial team designated and supervised by the investigator at a trial site to perform critical trial-related procedures and/or to make important trial-related decisions (e.g., associates, residents, research fellows). (ICH)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Subinvestigator</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <nciodm:CDISCSubmissionValue>CONROL</nciodm:CDISCSubmissionValue>
                 <nciodm:CDISCSynonym>Contact Role for Clinical Study</nciodm:CDISCSynonym>
                 <nciodm:PreferredTerm>CDISC SDTM Contact Role for Clinical Study Terminology</nciodm:PreferredTerm>

@@ -1,0 +1,29 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C135011.PGTST" Name="Pharmacogenomics/Genetics Methods and Supporting Information Test Name" DataType="text" nciodm:ExtCodeID="C135011" nciodm:CodeListExtensible="Yes">
+                <Description>
+                    <TranslatedText xml:lang="en">A terminology codelist to describe the test name/code for omics data methods and supporting information.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="Genetic Sequence Length" nciodm:ExtCodeID="C135487">
+                    <nciodm:CDISCSynonym>Genetic Sequence Length</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The number of nucleotides that make up a genetic sequence of interest.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Genetic Sequence Length</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Genetic Sequence Start Location" nciodm:ExtCodeID="C135488">
+                    <nciodm:CDISCSynonym>Genetic Sequence Start Location</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The nucleotide location that represents the beginning of a genetic sequence of interest.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Genetic Sequence Start Location</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Genetic Sub-Region Sequence" nciodm:ExtCodeID="C135485">
+                    <nciodm:CDISCSynonym>Genetic Sub-Region Sequence</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The sequence of nucleotide residues along a genetic sub-region of interest. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Genetic Sub-Region Sequence</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Predicted SNP Frequency" nciodm:ExtCodeID="C135486">
+                    <nciodm:CDISCSynonym>Predicted SNP Frequency</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The anticipated or extrapolated frequency of a single nucleotide polymorphism within a population.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Predicted Single Nucleotide Polymorphism Frequency</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>PGTST</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Pharmacogenomics/Genetics Methods and Supporting Information Test Name</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Pharmacogenomics/Genetics Methods and Supporting Information Test Name Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

@@ -1,0 +1,154 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C135678.PASI01TC" Name="Psoriasis Area and Severity Index Clinical Classification Test Code" DataType="text" nciodm:ExtCodeID="C135678" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Psoriasis Area and Severity Index test code.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="PASI0101" nciodm:ExtCodeID="C135746">
+                    <nciodm:CDISCSynonym>PASI01-Head (H): Erythema (E)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Psoriasis Area and Severity Index - Head (H): Erythema (E).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PASI - Head (H): Erythema (E)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PASI0102" nciodm:ExtCodeID="C135747">
+                    <nciodm:CDISCSynonym>PASI01-Head (H): Infiltration (I)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Psoriasis Area and Severity Index - Head (H): Infiltration (I).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PASI - Head (H): Infiltration (I)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PASI0103" nciodm:ExtCodeID="C135748">
+                    <nciodm:CDISCSynonym>PASI01-Head (H): Desquamation (D)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Psoriasis Area and Severity Index - Head (H): Desquamation (D).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PASI - Head (H): Desquamation (D)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PASI0104" nciodm:ExtCodeID="C135749">
+                    <nciodm:CDISCSynonym>PASI01-Head (H): Sum = E+I+D</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Psoriasis Area and Severity Index - Head (H): Sum = E + I + D.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PASI - Head (H): Sum = E+I+D</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PASI0105" nciodm:ExtCodeID="C135750">
+                    <nciodm:CDISCSynonym>PASI01-Head (H): Area Score</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Psoriasis Area and Severity Index - Head (H): Area score.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PASI - Head (H): Area Score</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PASI0106" nciodm:ExtCodeID="C135751">
+                    <nciodm:CDISCSynonym>PASI01-Head (H): Sum X Area</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Psoriasis Area and Severity Index - Head (H): Sum x area.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PASI - Head (H): Sum X Area</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PASI0107" nciodm:ExtCodeID="C135752">
+                    <nciodm:CDISCSynonym>PASI01-Head (H): Sum X Area X 0.1</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Psoriasis Area and Severity Index - Head (H): Sum x area x 0.1.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PASI - Head (H): Sum X Area X 0.1</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PASI0108" nciodm:ExtCodeID="C135753">
+                    <nciodm:CDISCSynonym>PASI01-Trunk (T): Erythema (E)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Psoriasis Area and Severity Index - Trunk (T): Erythema (E).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PASI - Trunk (T): Erythema (E)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PASI0109" nciodm:ExtCodeID="C135754">
+                    <nciodm:CDISCSynonym>PASI01-Trunk (T): Infiltration (I)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Psoriasis Area and Severity Index - Trunk (T): Infiltration (I).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PASI - Trunk (T): Infiltration (I)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PASI0110" nciodm:ExtCodeID="C135755">
+                    <nciodm:CDISCSynonym>PASI01-Trunk (T): Desquamation (D)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Psoriasis Area and Severity Index - Trunk (T): Desquamation (D).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PASI - Trunk (T): Desquamation (D)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PASI0111" nciodm:ExtCodeID="C135756">
+                    <nciodm:CDISCSynonym>PASI01-Trunk (T): Sum = E+I+D</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Psoriasis Area and Severity Index - Trunk (T): Sum = E + I + D.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PASI - Trunk (T): Sum = E+I+D</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PASI0112" nciodm:ExtCodeID="C135757">
+                    <nciodm:CDISCSynonym>PASI01-Trunk (T): Area Score</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Psoriasis Area and Severity Index - Trunk (T): Area score.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PASI - Trunk (T): Area Score</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PASI0113" nciodm:ExtCodeID="C135758">
+                    <nciodm:CDISCSynonym>PASI01-Trunk (T): Sum X Area</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Psoriasis Area and Severity Index - Trunk (T): Sum x area.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PASI - Trunk (T): Sum X Area</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PASI0114" nciodm:ExtCodeID="C135759">
+                    <nciodm:CDISCSynonym>PASI01-Trunk (T): Sum X Area X 0.3</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Psoriasis Area and Severity Index - Trunk (T): Sum x area x 0.3.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PASI - Trunk (T): Sum X Area X 0.3</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PASI0115" nciodm:ExtCodeID="C135760">
+                    <nciodm:CDISCSynonym>PASI01-Up Extrem (U): Erythema (E)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Psoriasis Area and Severity Index - Upper Extremities (U): Erythema (E).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PASI - Upper Extremities (U): Erythema (E)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PASI0116" nciodm:ExtCodeID="C135761">
+                    <nciodm:CDISCSynonym>PASI01-Up Extrem (U): Infiltration (I)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Psoriasis Area and Severity Index - Upper Extremities (U): Infiltration (I).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PASI - Upper Extremities (U): Infiltration (I)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PASI0117" nciodm:ExtCodeID="C135762">
+                    <nciodm:CDISCSynonym>PASI01-Up Extrem (U): Desquamation (D)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Psoriasis Area and Severity Index - Upper Extremities (U): Desquamation (D).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PASI - Upper Extremities (U): Desquamation (D)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PASI0118" nciodm:ExtCodeID="C135763">
+                    <nciodm:CDISCSynonym>PASI01-Up Extrem (U): Sum = E+I+D</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Psoriasis Area and Severity Index - Upper Extremities (U): Sum = E + I + D.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PASI - Upper Extremities (U): Sum = E+I+D</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PASI0119" nciodm:ExtCodeID="C135764">
+                    <nciodm:CDISCSynonym>PASI01-Up Extrem (U): Area Score</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Psoriasis Area and Severity Index - Upper Extremities (U): Area score.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PASI - Upper Extremities (U): Area Score</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PASI0120" nciodm:ExtCodeID="C135765">
+                    <nciodm:CDISCSynonym>PASI01-Up Extrem (U): Sum X Area</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Psoriasis Area and Severity Index - Upper Extremities (U): Sum x area.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PASI - Upper Extremities (U): Sum X Area</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PASI0121" nciodm:ExtCodeID="C135766">
+                    <nciodm:CDISCSynonym>PASI01-Up Extrem (U): Sum X Area X 0.2</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Psoriasis Area and Severity Index - Upper Extremities (U): Sum x area x 0.2.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PASI - Upper Extremities (U): Sum X Area X 0.2</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PASI0122" nciodm:ExtCodeID="C135767">
+                    <nciodm:CDISCSynonym>PASI01-Low Extrem (L): Erythema (E)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Psoriasis Area and Severity Index - Lower Extremities (L): Erythema (E).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PASI - Lower Extremities (L): Erythema (E)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PASI0123" nciodm:ExtCodeID="C135768">
+                    <nciodm:CDISCSynonym>PASI01-Low Extrem (L): Infiltration (I)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Psoriasis Area and Severity Index - Lower Extremities (L): Infiltration (I).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PASI - Lower Extremities (L): Infiltration (I)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PASI0124" nciodm:ExtCodeID="C135769">
+                    <nciodm:CDISCSynonym>PASI01-Low Extrem (L): Desquamation (D)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Psoriasis Area and Severity Index - Lower Extremities (L): Desquamation (D).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PASI - Lower Extremities (L): Desquamation (D)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PASI0125" nciodm:ExtCodeID="C135770">
+                    <nciodm:CDISCSynonym>PASI01-Low Extrem (L): Sum = E+I+D</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Psoriasis Area and Severity Index - Lower Extremities (L): Sum = E + I + D.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PASI - Lower Extremities (L): Sum = E+I+D</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PASI0126" nciodm:ExtCodeID="C135771">
+                    <nciodm:CDISCSynonym>PASI01-Low Extrem (L): Area Score</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Psoriasis Area and Severity Index - Lower Extremities (L): Area score.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PASI - Lower Extremities (L): Area Score</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PASI0127" nciodm:ExtCodeID="C135772">
+                    <nciodm:CDISCSynonym>PASI01-Low Extrem (L): Sum X Area</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Psoriasis Area and Severity Index - Lower Extremities (L): Sum x area.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PASI - Lower Extremities (L): Sum X Area</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PASI0128" nciodm:ExtCodeID="C135773">
+                    <nciodm:CDISCSynonym>PASI01-Low Extrem (L): Sum X Area X 0.4</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Psoriasis Area and Severity Index - Lower Extremities (L): Sum x area x 0.4.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PASI - Lower Extremities (L): Sum X Area X 0.4</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PASI0129" nciodm:ExtCodeID="C135774">
+                    <nciodm:CDISCSynonym>PASI01-Total Sum</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Psoriasis Area and Severity Index - Total sum.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PASI - Total Sum</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>PASI01TC</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Psoriasis Area and Severity Index Clinical Classification Test Code</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Clinical Classification PASI Test Code Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

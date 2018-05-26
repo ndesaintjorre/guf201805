@@ -2,6 +2,16 @@
                 <Description>
                     <TranslatedText xml:lang="en">The test code representing each subject characteristic.</TranslatedText>
                 </Description>
+                <EnumeratedItem CodedValue="BIOBRON" nciodm:ExtCodeID="C135500">
+                    <nciodm:CDISCSynonym>Number of Brothers, Biological</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The number of brothers that are biologically related to the subject. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Number of Biological Brothers</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BIOSISN" nciodm:ExtCodeID="C135501">
+                    <nciodm:CDISCSynonym>Number of Sisters, Biological</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The number of sisters that are biologically related to the subject. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Number of Biological Sisters</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="BRFEDIND" nciodm:ExtCodeID="C112233">
                     <nciodm:CDISCSynonym>Breast Fed Indicator</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>An indication as to whether the subject was breast fed (received mother's milk) as an infant.</nciodm:CDISCDefinition>
@@ -59,8 +69,13 @@
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="LNGSPS" nciodm:ExtCodeID="C132460">
                     <nciodm:CDISCSynonym>Secondary Language Spoken</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Additional language(s) that&#160;is spoken by the subject but not considered the primary language.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>Additional language(s) that is spoken by the subject but not considered the primary language.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Secondary Language Spoken</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LVSBJIND" nciodm:ExtCodeID="C135502">
+                    <nciodm:CDISCSynonym>Living with Subject Indicator</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An indication as to whether the associated person is living with the subject. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Living with Subject Indicator</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="MARISTAT" nciodm:ExtCodeID="C25188">
                     <nciodm:CDISCSynonym>Marital Status</nciodm:CDISCSynonym>
@@ -85,7 +100,7 @@
                 <EnumeratedItem CodedValue="RISKPOP" nciodm:ExtCodeID="C102666">
                     <nciodm:CDISCSynonym>Member of High Risk Population</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>An indication that a subject is part of a population group that has a greater chance of contracting a disease or disorder.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Member Of High Risk Population</nciodm:PreferredTerm>
+                    <nciodm:PreferredTerm>Member of High Risk Population</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="RISKSOC" nciodm:ExtCodeID="C102711">
                     <nciodm:CDISCSynonym>Social Risk Factor</nciodm:CDISCSynonym>

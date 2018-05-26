@@ -40,6 +40,11 @@
                     <nciodm:CDISCDefinition>A specimen that has been subjected to and immobilized by severe cold. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Frozen Specimen</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="GELLED" nciodm:ExtCodeID="C135503">
+                    <nciodm:CDISCSynonym>Gelled Specimen</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A specimen that has a gelatinous consistency. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Gelatinous Specimen</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="HEMOLYZED" nciodm:ExtCodeID="C70720">
                     <nciodm:CDISCSynonym>Hemolysis in Specimen</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A specimen that has undergone the destruction of red blood cells followed by the release of the hemoglobin. (NCI)</nciodm:CDISCDefinition>
@@ -71,6 +76,16 @@
                     <nciodm:CDISCSynonym>Specimen at Room Temperature</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A specimen that has been subjected to and adjusted to the average ambient temperature of a room, usually considered to be around 20 degrees C (68 degrees F). (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Specimen at Room Temperature</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SOLIDIFIED" nciodm:ExtCodeID="C135504">
+                    <nciodm:CDISCSynonym>Solidified Specimen</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A specimen that has a regular, firm consistency and retains a definite size and shape.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Solidified Specimen</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UNEXPECTED ODOR" nciodm:ExtCodeID="C135505">
+                    <nciodm:CDISCSynonym>Specimen with Unexpected Odor</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A specimen that has an unanticipated odor.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Specimen with Unexpected Odor</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <nciodm:CDISCSubmissionValue>SPECCOND</nciodm:CDISCSubmissionValue>
                 <nciodm:CDISCSynonym>Specimen Condition</nciodm:CDISCSynonym>

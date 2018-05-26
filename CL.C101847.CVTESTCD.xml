@@ -232,6 +232,18 @@
                     <nciodm:CDISCDefinition>The magnitude of the ejection wave that occurs when blood is ejected into the aorta by the left ventricle.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Ejection Wave Amplitude</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="HCVOLEVD" nciodm:ExtCodeID="C135372">
+                    <nciodm:CDISCSynonym>Heart Chamber Volume, EVD</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Heart Chamber Volume, End Ventricular Diastole</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The volume of blood remaining in a heart chamber at end ventricular diastole.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Heart Chamber Volume at End Ventricular Diastole</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HCVOLEVS" nciodm:ExtCodeID="C135373">
+                    <nciodm:CDISCSynonym>Heart Chamber Volume, EVS</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Heart Chamber Volume, End Ventricular Systole</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The volume of blood remaining in a heart chamber at end ventricular systole.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Heart Chamber Volume at End Ventricular Systole</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="INRSTIND" nciodm:ExtCodeID="C116148">
                     <nciodm:CDISCSynonym>In-Stent Restenosis Indicator</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>An indication as to whether there is re-narrowing of a stent implanted at a lesion site to treat a prior stenosis, to a diameter stenosis of greater than 50% within the stent.</nciodm:CDISCDefinition>
@@ -252,11 +264,6 @@
                     <nciodm:CDISCSynonym>Inferior Vena Cava Collapse Sniff Ind</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>An indication as to whether inferior vena cava collapse occurred with sniff.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Inferior Vena Cava Collapse Due to Sniff Test Indicator</nciodm:PreferredTerm>
-                </EnumeratedItem>
-                <EnumeratedItem CodedValue="LADMN" nciodm:ExtCodeID="C99970">
-                    <nciodm:CDISCSynonym>Left Atrium Dimension</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>The diameter across the left atrium measured at the end of systole.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Left Atrium Dimension</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="LCDIAEVD" nciodm:ExtCodeID="C127566">
                     <nciodm:CDISCSynonym>Largest Cross-sec Diameter, EVD</nciodm:CDISCSynonym>
@@ -285,20 +292,22 @@
                     <nciodm:CDISCDefinition>An indication as to whether there is re-narrowing of a lesion site following treatment of a prior stenosis, to a diameter stenosis of greater than 50% at the previously treated lesion site.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Lesion Restenosis Indicator</nciodm:PreferredTerm>
                 </EnumeratedItem>
-                <EnumeratedItem CodedValue="LVDMNED" nciodm:ExtCodeID="C99976">
-                    <nciodm:CDISCSynonym>Left Ventricle Dimension, End-Diastole</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>The diameter across the ventricle at the end of diastole, excluding the thickness of the walls.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Left Ventricle Dimension at End-Diastole</nciodm:PreferredTerm>
-                </EnumeratedItem>
-                <EnumeratedItem CodedValue="LVDMNES" nciodm:ExtCodeID="C99977">
-                    <nciodm:CDISCSynonym>Left Ventricular Dimension, End-Systole</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>The diameter across the ventricle at the end of systole, excluding the thickness of the walls.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Left Ventricular Dimension at End-Systole</nciodm:PreferredTerm>
-                </EnumeratedItem>
                 <EnumeratedItem CodedValue="LVEF" nciodm:ExtCodeID="C99524">
                     <nciodm:CDISCSynonym>Left Ventricular Ejection Fraction</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>The percent or fraction of the left ventricular end diastolic volume ejected in systole. The left ventricular ejection fraction is equal to the left ventricular stroke volume divided by the left ventricular end diastolic volume.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>The percent or fraction of the left ventricular end diastolic volume ejected during systole that can be measured by visual estimation or calculation.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Left Ventricular Ejection Fraction</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LVEF_C" nciodm:ExtCodeID="C135374">
+                    <nciodm:CDISCSynonym>Left Ventricular Ejection Fraction, Cal</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Left Ventricular Ejection Fraction, Calculated</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A calculated estimation of the percent or fraction of the volume of blood ejected from the left ventricle during left ventricular systole, calculated as the left ventricular stroke volume divided by the left ventricular end diastolic volume.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Calculated Left Ventricular Ejection Fraction</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LVEF_E" nciodm:ExtCodeID="C135375">
+                    <nciodm:CDISCSynonym>Left Ventricular Ejection Fraction, Est</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Left Ventricular Ejection Fraction, Estimated</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A visual estimation of the percent or fraction of the volume of blood ejected from the left ventricle during left ventricular systole.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Estimated Left Ventricular Ejection Fraction</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="LVFS" nciodm:ExtCodeID="C38020">
                     <nciodm:CDISCSynonym>Left Ventricular Fractional Shortening</nciodm:CDISCSynonym>
@@ -332,6 +341,11 @@
                     <nciodm:CDISCDefinition>A measurement of the mean velocity of blood across an area or tissue.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Mean Blood Flow Velocity</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="MEANBP_E" nciodm:ExtCodeID="C135376">
+                    <nciodm:CDISCSynonym>Mean Blood Pressure, Estimated</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The estimated average blood pressure. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Estimated Mean Blood Pressure</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="MEANVDIA" nciodm:ExtCodeID="C116143">
                     <nciodm:CDISCSynonym>Mean Vessel Diameter</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The mean of the inside diameters of the normal blood vessel segments.</nciodm:CDISCDefinition>
@@ -352,6 +366,12 @@
                     <nciodm:CDISCDefinition>The ratio of the peak early ventricular diastolic (E) transmitral velocity to the peak early mitral annular motion velocity (e').</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Mitral E/e' Ratio</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="MJDIA" nciodm:ExtCodeID="C135377">
+                    <nciodm:CDISCSynonym>Major Axis Cross-sec. Diameter</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Major Axis Cross-sectional Diameter</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The cross sectional diameter of a tissue, organ, or structure measured along its major axis. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Major Axis Cross-sectional Diameter</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="MJDIAEVD" nciodm:ExtCodeID="C127573">
                     <nciodm:CDISCSynonym>Major Axis Cross-sec Diameter, EVD</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Major Axis Cross-sectional Diameter, End Ventricular Diastole</nciodm:CDISCSynonym>
@@ -364,16 +384,22 @@
                     <nciodm:CDISCDefinition>The cross sectional diameter of a cardiovascular structure measured along the major axis at end ventricular systole.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Major Axis Cross-sectional Diameter at End Ventricular Systole</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="MNDIA" nciodm:ExtCodeID="C135378">
+                    <nciodm:CDISCSynonym>Minor Axis Cross-sec. Diameter</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Minor Axis Cross-sectional Diameter</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The cross sectional diameter of a tissue, organ, or structure measured along its minor axis. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Minor Axis Cross-sectional Diameter</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="MNDIAEVD" nciodm:ExtCodeID="C127575">
                     <nciodm:CDISCSynonym>Minor Axis Cross-sec Diameter, EVD</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Minor Axis Cross-sectional Diameter, End Ventricular Diastole</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>The cross sectional diameter of a cardiovascular structure measured along the minor axis at end ventricular diastole.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>The cross sectional diameter of a cardiovascular structure measured along the minor axis at a pre-specified anatomical point at end ventricular diastole.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Minor Axis Cross-sectional Diameter at End Ventricular Diastole</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="MNDIAEVS" nciodm:ExtCodeID="C127576">
                     <nciodm:CDISCSynonym>Minor Axis Cross-sec Diameter, EVS</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Minor Axis Cross-sectional Diameter, End Ventricular Systole</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>The cross sectional diameter of a cardiovascular structure measured along the minor axis at end ventricular systole.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>The cross sectional diameter of a cardiovascular structure measured along the minor axis at a pre-specified anatomical point at end ventricular systole.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Minor Axis Cross-sectional Diameter at End Ventricular Systole</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="MRGJALA" nciodm:ExtCodeID="C127577">
@@ -411,6 +437,12 @@
                     <nciodm:CDISCSynonym>Number of Diseased Coronary Vessels</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Number of major epicardial vessels with greater than or equal to 70% reduction in diameter or greater than or equal to 50% reduction in cross-sectional area.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Number of Diseased Coronary Artery Vessels</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PAHTNIND" nciodm:ExtCodeID="C135379">
+                    <nciodm:CDISCSynonym>Pulmonary Arterial Hypertension Ind</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Pulmonary Arterial Hypertension Indicator</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An indication as to whether pulmonary arterial hypertension is present.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Pulmonary Arterial Hypertension Indicator</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="PBFVEL" nciodm:ExtCodeID="C127583">
                     <nciodm:CDISCSynonym>Peak Blood Flow Velocity</nciodm:CDISCSynonym>
@@ -487,6 +519,18 @@
                     <nciodm:CDISCSynonym>Reflection Wave Amplitude</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The summation of the numerous waves being reflected by sites of impedance mismatch where central elastic arteries join more muscular arteries.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Reflection Wave Amplitude</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="RVEF_C" nciodm:ExtCodeID="C135380">
+                    <nciodm:CDISCSynonym>Right Ventricular Ejection Fraction, Cal</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Right Ventricular Ejection Fraction, Calculated</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A calculated estimation of the percent or fraction of the volume of blood ejected from the right ventricle during right ventricular systole, calculated as the right ventricular stroke volume divided by the right ventricular end diastolic volume.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Calculated Right Ventricular Ejection Fraction</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="RVEF_E" nciodm:ExtCodeID="C135381">
+                    <nciodm:CDISCSynonym>Right Ventricular Ejection Fraction, Est</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Right Ventricular Ejection Fraction, Estimated</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>null</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Estimated Right Ventricular Ejection Fraction</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="SAMIND" nciodm:ExtCodeID="C127593">
                     <nciodm:CDISCSynonym>SAM Indicator</nciodm:CDISCSynonym>

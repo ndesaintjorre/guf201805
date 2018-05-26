@@ -52,6 +52,11 @@
                     <nciodm:CDISCDefinition>Highest level of education that a person has attained.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Education Level</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="Living with Subject Indicator" nciodm:ExtCodeID="C135502">
+                    <nciodm:CDISCSynonym>Living with Subject Indicator</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An indication as to whether the associated person is living with the subject. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Living with Subject Indicator</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="Marital Status" nciodm:ExtCodeID="C25188">
                     <nciodm:CDISCSynonym>Marital Status</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A demographic parameter indicating a person's current conjugal status.</nciodm:CDISCDefinition>
@@ -60,12 +65,22 @@
                 <EnumeratedItem CodedValue="Member of High Risk Population" nciodm:ExtCodeID="C102666">
                     <nciodm:CDISCSynonym>Member of High Risk Population</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>An indication that a subject is part of a population group that has a greater chance of contracting a disease or disorder.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Member Of High Risk Population</nciodm:PreferredTerm>
+                    <nciodm:PreferredTerm>Member of High Risk Population</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="National Origin" nciodm:ExtCodeID="C28407">
                     <nciodm:CDISCSynonym>National Origin</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>System of classification based on nation from which a person originates, regardless of the nation in which he/she currently resides.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>National Origin</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Number of Brothers, Biological" nciodm:ExtCodeID="C135500">
+                    <nciodm:CDISCSynonym>Number of Brothers, Biological</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The number of brothers that are biologically related to the subject. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Number of Biological Brothers</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Number of Sisters, Biological" nciodm:ExtCodeID="C135501">
+                    <nciodm:CDISCSynonym>Number of Sisters, Biological</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The number of sisters that are biologically related to the subject. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Number of Biological Sisters</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Number of Years of Education" nciodm:ExtCodeID="C122393">
                     <nciodm:CDISCSynonym>Number of Years of Education</nciodm:CDISCSynonym>
@@ -89,7 +104,7 @@
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Secondary Language Spoken" nciodm:ExtCodeID="C132460">
                     <nciodm:CDISCSynonym>Secondary Language Spoken</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Additional language(s) that&#160;is spoken by the subject but not considered the primary language.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>Additional language(s) that is spoken by the subject but not considered the primary language.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Secondary Language Spoken</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Setting of Contact" nciodm:ExtCodeID="C102708">
