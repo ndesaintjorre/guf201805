@@ -1,0 +1,109 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C130248.QIDSC1TN" Name="Quick Inventory of Depressive Symptomatology Clinician-Rated Version Clinical Classification Test Name" DataType="text" nciodm:ExtCodeID="C130248" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Quick Inventory of Depressive Symptomatology Clinician-Rated Version test name.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="QIDSC1-Appetite (Decreased)" nciodm:ExtCodeID="C130399">
+                    <nciodm:CDISCSynonym>QIDSC1-Appetite (Decreased)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Quick Inventory of Depressive Symptomatology - Clinician-Rated - Please circle one response to each item that best describes the patient for the last seven days: Appetite (decreased).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>QIDS-C - Appetite (Decreased)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="QIDSC1-Appetite (Increased)" nciodm:ExtCodeID="C130400">
+                    <nciodm:CDISCSynonym>QIDSC1-Appetite (Increased)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Quick Inventory of Depressive Symptomatology - Clinician-Rated - Please circle one response to each item that best describes the patient for the last seven days: Appetite (increased).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>QIDS-C - Appetite (Increased)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="QIDSC1-Concentration/Decision Making" nciodm:ExtCodeID="C130403">
+                    <nciodm:CDISCSynonym>QIDSC1-Concentration/Decision Making</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Quick Inventory of Depressive Symptomatology - Clinician-Rated - Please circle one response to each item that best describes the patient for the last seven days: Concentration/decision making.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>QIDS-C - Concentration or Decision Making</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="QIDSC1-Early Morning Insomnia" nciodm:ExtCodeID="C130396">
+                    <nciodm:CDISCSynonym>QIDSC1-Early Morning Insomnia</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Quick Inventory of Depressive Symptomatology - Clinician-Rated - Please circle one response to each item that best describes the patient for the last seven days: Early morning insomnia.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>QIDS-C - Early Morning Insomnia</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="QIDSC1-Energy/Fatiguability" nciodm:ExtCodeID="C130407">
+                    <nciodm:CDISCSynonym>QIDSC1-Energy/Fatiguability</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Quick Inventory of Depressive Symptomatology - Clinician-Rated - Please circle one response to each item that best describes the patient for the last seven days: Energy/fatiguability.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>QIDS-C - Energy or Fatiguability</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="QIDSC1-High Score Appetite/Weight Items" nciodm:ExtCodeID="C130411">
+                    <nciodm:CDISCSynonym>QIDSC1-High Score Appetite/Weight Items</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Quick Inventory of Depressive Symptomatology - Clinician-Rated - Enter the highest score on any 1 of the 4 appetite/weight change items.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>QIDS-C - High Score Appetite or Weight Items</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="QIDSC1-Highest Score Psychomotor Items" nciodm:ExtCodeID="C130412">
+                    <nciodm:CDISCSynonym>QIDSC1-Highest Score Psychomotor Items</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Quick Inventory of Depressive Symptomatology - Clinician-Rated - Enter the highest score on either of the 2 psychomotor items.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>QIDS-C - Highest Score Psychomotor Items</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="QIDSC1-Highest Score Sleep Items" nciodm:ExtCodeID="C130410">
+                    <nciodm:CDISCSynonym>QIDSC1-Highest Score Sleep Items</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Quick Inventory of Depressive Symptomatology - Clinician-Rated - Enter the highest score on any 1 of the 4 sleep items.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>QIDS-C - Highest Score Sleep Items</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="QIDSC1-Hypersomnia" nciodm:ExtCodeID="C130397">
+                    <nciodm:CDISCSynonym>QIDSC1-Hypersomnia</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Quick Inventory of Depressive Symptomatology - Clinician-Rated - Please circle one response to each item that best describes the patient for the last seven days: Hypersomnia.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>QIDS-C - Hypersomnia</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="QIDSC1-Involvement" nciodm:ExtCodeID="C130406">
+                    <nciodm:CDISCSynonym>QIDSC1-Involvement</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Quick Inventory of Depressive Symptomatology - Clinician-Rated - Please circle one response to each item that best describes the patient for the last seven days: Involvement.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>QIDS-C - Involvement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="QIDSC1-Mid-Nocturnal Insomnia" nciodm:ExtCodeID="C130395">
+                    <nciodm:CDISCSynonym>QIDSC1-Mid-Nocturnal Insomnia</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Quick Inventory of Depressive Symptomatology - Clinician-Rated - Please circle one response to each item that best describes the patient for the last seven days: Mid-nocturnal insomnia.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>QIDS-C - Mid-Nocturnal Insomnia</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="QIDSC1-Mood (Sad)" nciodm:ExtCodeID="C130398">
+                    <nciodm:CDISCSynonym>QIDSC1-Mood (Sad)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Quick Inventory of Depressive Symptomatology - Clinician-Rated - Please circle one response to each item that best describes the patient for the last seven days: Mood (sad).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>QIDS-C - Mood (Sad)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="QIDSC1-Outlook (Self)" nciodm:ExtCodeID="C130404">
+                    <nciodm:CDISCSynonym>QIDSC1-Outlook (Self)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Quick Inventory of Depressive Symptomatology - Clinician-Rated - Please circle one response to each item that best describes the patient for the last seven days: Outlook (self).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>QIDS-C - Outlook (Self)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="QIDSC1-Psychomotor Agitation" nciodm:ExtCodeID="C130409">
+                    <nciodm:CDISCSynonym>QIDSC1-Psychomotor Agitation</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Quick Inventory of Depressive Symptomatology - Clinician-Rated - Please circle one response to each item that best describes the patient for the last seven days: Psychomotor agitation.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>QIDS-C - Psychomotor Agitation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="QIDSC1-Psychomotor Slowing" nciodm:ExtCodeID="C130408">
+                    <nciodm:CDISCSynonym>QIDSC1-Psychomotor Slowing</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Quick Inventory of Depressive Symptomatology - Clinician-Rated - Please circle one response to each item that best describes the patient for the last seven days: Psychomotor slowing.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>QIDS-C - Psychomotor Slowing</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="QIDSC1-Sleep Onset Insomnia" nciodm:ExtCodeID="C130394">
+                    <nciodm:CDISCSynonym>QIDSC1-Sleep Onset Insomnia</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Quick Inventory of Depressive Symptomatology - Clinician-Rated - Please circle one response to each item that best describes the patient for the last seven days: Sleep onset insomnia.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>QIDS-C - Sleep Onset Insomnia</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="QIDSC1-Suicidal Ideation" nciodm:ExtCodeID="C130405">
+                    <nciodm:CDISCSynonym>QIDSC1-Suicidal Ideation</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Quick Inventory of Depressive Symptomatology - Clinician-Rated - Please circle one response to each item that best describes the patient for the last seven days: Suicidal ideation.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>QIDS-C - Suicidal Ideation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="QIDSC1-Total Score" nciodm:ExtCodeID="C130413">
+                    <nciodm:CDISCSynonym>QIDSC1-Total Score</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Quick Inventory of Depressive Symptomatology - Clinician-Rated - Total score.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>QIDS-C - Total Score</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="QIDSC1-Weight (Decrease)" nciodm:ExtCodeID="C130401">
+                    <nciodm:CDISCSynonym>QIDSC1-Weight (Decrease)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Quick Inventory of Depressive Symptomatology - Clinician-Rated - Please circle one response to each item that best describes the patient for the last seven days: Weight (decrease) within the last two weeks.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>QIDS-C - Weight (Decrease)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="QIDSC1-Weight (Increase)" nciodm:ExtCodeID="C130402">
+                    <nciodm:CDISCSynonym>QIDSC1-Weight (Increase)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Quick Inventory of Depressive Symptomatology - Clinician-Rated - Please circle one response to each item that best describes the patient for the last seven days: Weight (increase) within the last two weeks.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>QIDS-C - Weight (Increase)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>QIDSC1TN</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Quick Inventory of Depressive Symptomatology Clinician-Rated Version Clinical Classification Test Name</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Clinical Classification QIDS-C Test Name Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

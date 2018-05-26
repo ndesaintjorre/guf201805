@@ -4,7 +4,7 @@
                 </Description>
                 <EnumeratedItem CodedValue="%" nciodm:ExtCodeID="C25613">
                     <nciodm:CDISCSynonym>Percentage</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A fraction or ratio with 100 understood as the denominator. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>One hundred times the quotient of one quantity divided by another, with the same units of measurement.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Percentage</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="% INHIBITION" nciodm:ExtCodeID="C117963">
@@ -67,7 +67,7 @@
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="/HPF" nciodm:ExtCodeID="C96619">
                     <nciodm:CDISCSynonym>Per High Powered Field</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A unit of measure equal to the instances of an entity per visual field of a microscope set to its maximum magnification power.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A unit of measure equal to the instances of an entity per visual field of a microscope set to a high magnification power.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Per High Powered Field</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="/kg" nciodm:ExtCodeID="C120844">
@@ -76,12 +76,21 @@
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="/LPF" nciodm:ExtCodeID="C96620">
                     <nciodm:CDISCSynonym>Per Low Powered Field</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A unit of measure equal to the instances of an entity per visual field of a microscope set to its minimum magnification power.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A unit of measure equal to the instances of an entity per visual field of a microscope set to a low magnification power.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Per Low Powered Field</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="/LSQN" nciodm:ExtCodeID="C130187">
+                    <nciodm:CDISCSynonym>/Large Square Neubauer</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A unit of measure equal to the instances of an entity per large square (with a 1 mm2 area) in a Neubauer chamber.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Per Large Square Neubauer Chamber</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="/min" nciodm:ExtCodeID="C66967">
                     <nciodm:CDISCDefinition>A rate of occurrences within a period of time equal to one minute.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Per Minute</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="/mm" nciodm:ExtCodeID="C130188">
+                    <nciodm:CDISCDefinition>A unit of length equal to one millimeter used as a denominator to build a derived unit expressed as a ratio.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Per Millimeter</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="/mm2" nciodm:ExtCodeID="C122199">
                     <nciodm:CDISCDefinition>An area unit equal to one millimeter squared used as a denominator to build a derived unit expressed as a ratio.</nciodm:CDISCDefinition>
@@ -284,6 +293,10 @@
                     <nciodm:CDISCDefinition>A unit of measurement equal to 10 to the sixth power of the number of ribonucleic acid (RNA) copies per unit of volume equal to one milliliter.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Million RNA Copies per Milliliter</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="10^6/Ejaculate U" nciodm:ExtCodeID="C130189">
+                    <nciodm:CDISCDefinition>A unit of measurement equal to 10 to the sixth power of entities per unit equal to one ejaculation.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Million Per Ejaculate Unit</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="10^6/g" nciodm:ExtCodeID="C98758">
                     <nciodm:CDISCDefinition>A unit of measurement equal to 10 to the sixth power of the number of entities per unit of mass equal to one gram.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Million per Gram</nciodm:PreferredTerm>
@@ -454,6 +467,10 @@
                     <nciodm:CDISCSynonym>Application Dosing Unit</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A dosing measurement based on the amount of substance applied.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Application Unit</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Arbitrary U" nciodm:ExtCodeID="C75765">
+                    <nciodm:CDISCDefinition>A unit based on or subject to individual judgment, preference, or predetermined reference. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Arbitrary Unit</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="atm" nciodm:ExtCodeID="C54711">
                     <nciodm:CDISCSynonym>Atmosphere</nciodm:CDISCSynonym>
@@ -957,6 +974,10 @@
                     <nciodm:CDISCDefinition>A potency unit equal to the potency at which one milliliter of preparation contains one 50 percent embryo infective dose.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>50 Percent Embryo Infective Dose per Milliliter</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="Ejaculate U" nciodm:ExtCodeID="C130046">
+                    <nciodm:CDISCDefinition>A unit of volume equal to the amount of seminal fluid produced by a single ejaculation event.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Ejaculate Unit</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="ELISA unit" nciodm:ExtCodeID="C68875">
                     <nciodm:CDISCSynonym>Enzyme-Linked Immunosorbent Assay Unit</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A unit for measuring concentration or/and reactivity of a test substance (an antigen or antibody of interest) as defined in the literature reference standard for the particular quantitative enzyme-linked immunosorbent assay method. The enzyme-linked immunosorbent assay unit is used to express potency of immunologically active substances and products, e.g. vaccines.(NCI)</nciodm:CDISCDefinition>
@@ -1214,6 +1235,10 @@
                     <nciodm:CDISCDefinition>A unit of specific radioactivity (massic activity) equal to activity of one gigabecquerel of the sample with total mass of one microgram.(NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Gigabecquerel per Microgram</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="gpELISA unit/mL" nciodm:ExtCodeID="C130190">
+                    <nciodm:CDISCDefinition>A unit for measuring potency of immunologically active substance in a product determined as reactivity in a glycoprotein enzyme-linked immunosorbent assay for particular antigen or antibody and expressed per unit volume equal to one milliliter.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Glycoprotein-ELISA Unit Per Milliliter</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="GPL U" nciodm:ExtCodeID="C67347">
                     <nciodm:CDISCSynonym>Immunoglobin G Phospholipid Units</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>[GPL'U]</nciodm:CDISCSynonym>
@@ -1276,11 +1301,6 @@
                     <nciodm:CDISCDefinition>A SI derived unit of pressure equivalent to one hundred pascals, 1 millibar or 0.0145 pounds per square inch.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Hectopascal</nciodm:PreferredTerm>
                 </EnumeratedItem>
-                <EnumeratedItem CodedValue="HPF" nciodm:ExtCodeID="C67274">
-                    <nciodm:CDISCSynonym>High Power Field</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>The area visible under the maximum magnification power of the objective being used in microscopy.(NCI)</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>High Power Field</nciodm:PreferredTerm>
-                </EnumeratedItem>
                 <EnumeratedItem CodedValue="Hz" nciodm:ExtCodeID="C42545">
                     <nciodm:CDISCSynonym>Hertz</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A unit of frequency equal to one cycle per second.(NCI)</nciodm:CDISCDefinition>
@@ -1313,8 +1333,7 @@
                     <nciodm:PreferredTerm>International Unit</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="IU/day" nciodm:ExtCodeID="C85645">
-                    <nciodm:CDISCSynonym>IU/d</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>International units per day.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A unit of substance (biologic activity) flow rate equal to one international unit per day.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>International Unit per Day</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="IU/dL" nciodm:ExtCodeID="C120848">
@@ -1504,15 +1523,15 @@
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="L" nciodm:ExtCodeID="C48505">
                     <nciodm:CDISCSynonym>Liter</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A unit of volume equal to a cubic decimeter, or one thousandth of cubic meter, or 1000 cubic centimeters, or approximately 61.023 744 cubic inches.(NCI)</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A unit of volume equal to one thousandth (10E-3) of a cubic meter, the cubic meter being the standard derived unit of volume in the International System of Units (SI).</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Liter</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="L/day" nciodm:ExtCodeID="C69110">
-                    <nciodm:CDISCDefinition>A unit of flow rate, defined as a rate of one liter per day.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A unit of flow rate equal to one liter per day.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Liter per Day</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="L/h" nciodm:ExtCodeID="C69160">
-                    <nciodm:CDISCDefinition>A unit of flow rate, defined as a rate of one liter per hour.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A unit of flow rate equal to one liter per hour.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Liter per Hour</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="L/h/m2" nciodm:ExtCodeID="C105494">
@@ -1536,7 +1555,7 @@
                     <nciodm:PreferredTerm>Liter Per Liter</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="L/min" nciodm:ExtCodeID="C67388">
-                    <nciodm:CDISCDefinition>A unit of flow rate, defined as a rate of one liter per minute.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A unit of flow rate equal to one liter per minute.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Liter per Minute</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="L/min/m2" nciodm:ExtCodeID="C105496">
@@ -1605,11 +1624,6 @@
                     <nciodm:CDISCSynonym>Lozenge Dosing Unit</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A dosing measurement based on the lozenge unit.(NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Lozenge Dosing Unit</nciodm:PreferredTerm>
-                </EnumeratedItem>
-                <EnumeratedItem CodedValue="LPF" nciodm:ExtCodeID="C67307">
-                    <nciodm:CDISCSynonym>Low Power Field</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>The area visible in one view field of the microscope under the low magnification of the objective being used in microscopy.(NCI)</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Low Power Field</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="lx" nciodm:ExtCodeID="C42561">
                     <nciodm:CDISCSynonym>Lux</nciodm:CDISCSynonym>
@@ -1904,8 +1918,12 @@
                 <EnumeratedItem CodedValue="mL" nciodm:ExtCodeID="C28254">
                     <nciodm:CDISCSynonym>Milliliter</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>cm3</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>The unit of volume equal to one thousandth of a liter, one cubic centimeter, 10E-6 cubic meter, or approximately to 0.061 023 7 cubic inch.(NCI)</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A unit of volume equal to one thousandth (10E-3) of a liter.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Milliliter</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="mL/(min*100mL)" nciodm:ExtCodeID="C130191">
+                    <nciodm:CDISCDefinition>A unit of flow rate expressed as the number of milliliters, divided by the number of minutes times a unit of volume equal to 100 milliliters.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Milliliter Per Minute Times One Hundred Milliliters</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="mL/animal" nciodm:ExtCodeID="C73746">
                     <nciodm:CDISCSynonym>Milliliter per Animal</nciodm:CDISCSynonym>
@@ -1957,7 +1975,7 @@
                     <nciodm:PreferredTerm>Milliliter per Centimeter of Water</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="mL/day" nciodm:ExtCodeID="C67410">
-                    <nciodm:CDISCDefinition>A unit of flow rate, defined as a rate of one milliliter per day.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A unit of flow rate equal to one milliliter per day.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Milliliter per 24 Hours</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="mL/dL" nciodm:ExtCodeID="C105504">
@@ -1991,7 +2009,7 @@
                     <nciodm:PreferredTerm>Milliliter per Gram per Minute</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="mL/h" nciodm:ExtCodeID="C66962">
-                    <nciodm:CDISCDefinition>A unit of flow rate, defined as a rate of one milliliter per hour.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A unit of flow rate equal to one milliliter per hour.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Milliliter per Hour</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="mL/kg" nciodm:ExtCodeID="C67411">
@@ -2036,7 +2054,7 @@
                     <nciodm:PreferredTerm>Milliliter per Square Meter per Minute</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="mL/min" nciodm:ExtCodeID="C64777">
-                    <nciodm:CDISCDefinition>A unit of flow rate, defined as a rate of one milliliter per minute.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A unit of flow rate equal to one milliliter per minute.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Milliliter per Minute</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="mL/min/1.73m2" nciodm:ExtCodeID="C67412">
@@ -2172,8 +2190,7 @@
                     <nciodm:PreferredTerm>Mole</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="mol/day" nciodm:ExtCodeID="C85737">
-                    <nciodm:CDISCSynonym>mol/d</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Moles per day.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A unit of substance flow rate equal to one mole per day.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Mole per Day</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="mol/g" nciodm:ExtCodeID="C68893">
@@ -2300,7 +2317,7 @@
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="ng" nciodm:ExtCodeID="C48516">
                     <nciodm:CDISCSynonym>Nanogram</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A unit of mass equal to one billionth (10E-9) of a gram, or one millionth (10E-6) of a milligram.(NCI)</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A unit of mass equal to one billionth (10E-9) of a gram.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Nanogram</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="ng/dL" nciodm:ExtCodeID="C67326">
@@ -2315,6 +2332,10 @@
                     <nciodm:CDISCSynonym>ug/m3</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A unit of concentration or mass density equal to one picogram of substance per milliliter of solution or one nanogram of substance per liter of solution.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Nanogram per Liter</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ngEq/L" nciodm:ExtCodeID="C130192">
+                    <nciodm:CDISCDefinition>A concentration unit measured as a number of nanogram equivalent of solute per liter of solution.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Nanogram Equivalents Per Liter</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="NIU" nciodm:ExtCodeID="C77535">
                     <nciodm:CDISCSynonym>Normalized Fluorescence Intensity Unit</nciodm:CDISCSynonym>
@@ -2365,8 +2386,7 @@
                     <nciodm:PreferredTerm>Nanomole Bone Collagen Equivalents per Nanomole</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="nmol/day" nciodm:ExtCodeID="C85751">
-                    <nciodm:CDISCSynonym>nmol/d</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Nanomoles per day.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A unit of substance flow rate equal to one nanomole per day.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Nanomole per Day</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="nmol/g" nciodm:ExtCodeID="C85752">
@@ -2417,6 +2437,11 @@
                     <nciodm:CDISCSynonym>Ohm</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A unit of electrical resistance equal to the resistance between two points on a conductor when a potential difference of one volt between them produces a current of one Ampere. Ohm is also used to measure impedance and reactance for complex resistance. A measurement in ohms is the reciprocal of a measurement in Siemens. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Ohm</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="OI50" nciodm:ExtCodeID="C130193">
+                    <nciodm:CDISCSynonym>Opsonization Index 50%</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A potency unit equal to the dilution of serum that causes opsonization and phagocytosis of 50% of the bacteria in a sample. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Opsonization Index 50%</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="osm" nciodm:ExtCodeID="C67330">
                     <nciodm:CDISCSynonym>Osmole</nciodm:CDISCSynonym>
@@ -2666,7 +2691,7 @@
                     <nciodm:PreferredTerm>Rad</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="RATIO" nciodm:ExtCodeID="C44256">
-                    <nciodm:CDISCDefinition>A unit of measurement for the quotient of the amount of one entity to another.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>The quotient of one quantity divided by another, with the same units of measurement.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Ratio</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="RING" nciodm:ExtCodeID="C62609">
@@ -2688,6 +2713,10 @@
                     <nciodm:CDISCSynonym>Revolution per Minute</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A unit of frequency equal to one revolution per unit of time equal to one minute.(NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Revolution per Minute</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="s^-1(%O2)^-1" nciodm:ExtCodeID="C130194">
+                    <nciodm:CDISCDefinition>A unit of oxygen transfer function expressed as the reciprocal of time in seconds, times the reciprocal of oxygen concentration.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Reciprocal of Seconds Times Percent O2 Concentration</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="SACHET" nciodm:ExtCodeID="C71324">
                     <nciodm:CDISCSynonym>Sachet dosing unit</nciodm:CDISCSynonym>
@@ -2981,7 +3010,7 @@
                 <EnumeratedItem CodedValue="ug" nciodm:ExtCodeID="C48152">
                     <nciodm:CDISCSynonym>Microgram</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>mcg</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>The unit of mass equal to one millionth of a gram or one thousandth of a milligram.(NCI)</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A unit of mass equal to one millionth (10E-6) of a gram.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Microgram</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="ug/animal" nciodm:ExtCodeID="C73728">
@@ -3106,9 +3135,9 @@
                     <nciodm:CDISCDefinition>A unit of relative amount of substance concentration equal to one millionth of a gram of an equivalent weight. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Microgram Equivalent</nciodm:PreferredTerm>
                 </EnumeratedItem>
-                <EnumeratedItem CodedValue="ugeq/L" nciodm:ExtCodeID="C122230">
-                    <nciodm:CDISCSynonym>ngeq/mL</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A concentration unit measured as a number of microgram equivalent of solute per liter of solution.</nciodm:CDISCDefinition>
+                <EnumeratedItem CodedValue="ugEq/L" nciodm:ExtCodeID="C122230">
+                    <nciodm:CDISCSynonym>ngEq/mL</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A concentration unit measured as the number of microgram equivalents of solute per liter of solution.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Microgram Equivalent per Liter</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="uIU/dL" nciodm:ExtCodeID="C124463">
@@ -3176,10 +3205,13 @@
                     <nciodm:PreferredTerm>Micromole</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="umol/day" nciodm:ExtCodeID="C67406">
-                    <nciodm:CDISCSynonym>Micromoles per Day</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>mcmol/day</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A unit of amount of substance flow rate equivalent to the rate at which one millionth of a mole of substance travels to a given object or space over a period of time equal to 24 hours.(NCI)</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A unit of substance flow rate equal to one micromole per day.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Micromole per 24 Hours</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="umol/dL" nciodm:ExtCodeID="C67407">
+                    <nciodm:CDISCDefinition>A unit of concentration (molarity unit) equal to one micromole of solute per deciliter of solution. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Micromole per Deciliter</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="umol/h/mmol" nciodm:ExtCodeID="C124467">
                     <nciodm:CDISCDefinition>A unit of fraction expressed as the ratio of the number of micromoles of substance per unit of time equal to one hour, to the amount of a different substance, in millimoles.</nciodm:CDISCDefinition>
@@ -3190,7 +3222,7 @@
                     <nciodm:PreferredTerm>Micromole per Kilogram per Minute</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="umol/L" nciodm:ExtCodeID="C48508">
-                    <nciodm:CDISCSynonym>Micromole per Liter</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>nmol/mL</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A unit of concentration (molarity unit) equal to one micromole of solute per liter of solution.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Micromole per Liter</nciodm:PreferredTerm>
                 </EnumeratedItem>
@@ -3214,8 +3246,7 @@
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="umol/min" nciodm:ExtCodeID="C85708">
                     <nciodm:CDISCSynonym>mcmol/min</nciodm:CDISCSynonym>
-                    <nciodm:CDISCSynonym>umol/min</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Micromoles per minute.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A unit of substance flow rate equal to one micromole per minute.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Micromole per Minute</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="umol/mol" nciodm:ExtCodeID="C122231">

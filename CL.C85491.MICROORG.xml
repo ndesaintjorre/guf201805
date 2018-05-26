@@ -507,6 +507,9 @@
                     <nciodm:PreferredTerm>Anaerococcus hydrogenalis</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="ANAEROCOCCUS PREVOTII" nciodm:ExtCodeID="C86875">
+                    <nciodm:CDISCSynonym>Micrococcus prevotii</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Peptococcus prevotii</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Peptostreptococcus prevotii</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Anaerococcus prevotii.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Anaerococcus prevotii</nciodm:PreferredTerm>
                 </EnumeratedItem>
@@ -2289,6 +2292,10 @@
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Enterobacter hormaechei.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Enterobacter hormaechei</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="ENTEROBACTERIACEAE" nciodm:ExtCodeID="C85932">
+                    <nciodm:CDISCDefinition>Any bacteria that is not assigned to the species level but can be assigned to the Enterobacteriaceae family level.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Enterobacteriaceae</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="ENTEROBIUS VERMICULARIS" nciodm:ExtCodeID="C122300">
                     <nciodm:CDISCDefinition>Any nematode parasite that can be assigned to the species Enterobius vermicularis.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Enterobius vermicularis</nciodm:PreferredTerm>
@@ -3851,12 +3858,12 @@
                 <EnumeratedItem CodedValue="METHICILLIN RESISTANT STAPHYLOCOCCUS AUREUS" nciodm:ExtCodeID="C123515">
                     <nciodm:CDISCSynonym>MRSA</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Staphylococcus aureus and is resistant to methicillin.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Methicillin Resistant Staphylococcus aureus</nciodm:PreferredTerm>
+                    <nciodm:PreferredTerm>Methicillin Resistant Staphylococcus Aureus</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="METHICILLIN SUSCEPTIBLE STAPHYLOCOCCUS AUREUS" nciodm:ExtCodeID="C123516">
                     <nciodm:CDISCSynonym>MSSA</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Staphylococcus aureus and is susceptible to methicillin.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Methicillin Susceptible Staphylococcus aureus</nciodm:PreferredTerm>
+                    <nciodm:PreferredTerm>Methicillin Susceptible Staphylococcus Aureus</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="METHYLOBACTERIUM" nciodm:ExtCodeID="C76361">
                     <nciodm:CDISCDefinition>Any bacteria that is not assigned to the species level but can be assigned to the Methylobacterium genus level.</nciodm:CDISCDefinition>
@@ -3975,6 +3982,7 @@
                     <nciodm:PreferredTerm>Mogibacterium timidum</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="MOLD" nciodm:ExtCodeID="C28266">
+                    <nciodm:CDISCSynonym>Filamentous fungus</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Mould</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A non-taxonomic grouping of fungi that grow in the form of mycelium of hyphae (vegetative filaments).</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Mold</nciodm:PreferredTerm>
@@ -5760,23 +5768,23 @@
                 <EnumeratedItem CodedValue="STAPHYLOCOCCUS AUREUS" nciodm:ExtCodeID="C50921">
                     <nciodm:CDISCSynonym>Staph. aureus</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Staphylococcus aureus.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Staphylococcus aureus</nciodm:PreferredTerm>
+                    <nciodm:PreferredTerm>Staphylococcus Aureus</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="STAPHYLOCOCCUS AUREUS, BETA-LACTAMASE NEGATIVE" nciodm:ExtCodeID="C124400">
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Staphylococcus aureus and is beta-lactamase negative.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Beta-Lactamase Negative Staphylococcus aureus</nciodm:PreferredTerm>
+                    <nciodm:PreferredTerm>Beta-Lactamase Negative Staphylococcus Aureus</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="STAPHYLOCOCCUS AUREUS, BETA-LACTAMASE POSITIVE" nciodm:ExtCodeID="C124401">
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Staphylococcus aureus and is beta-lactamase positive.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Beta-Lactamase Positive Staphylococcus aureus</nciodm:PreferredTerm>
+                    <nciodm:PreferredTerm>Beta-Lactamase Positive Staphylococcus Aureus</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="STAPHYLOCOCCUS AUREUS, PENICILLINASE NEGATIVE" nciodm:ExtCodeID="C124402">
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Staphylococcus aureus and is penicillinase negative.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Penicillinase Negative Staphylococcus aureus</nciodm:PreferredTerm>
+                    <nciodm:PreferredTerm>Penicillinase Negative Staphylococcus Aureus</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="STAPHYLOCOCCUS AUREUS, PENICILLINASE POSITIVE" nciodm:ExtCodeID="C124403">
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Staphylococcus aureus and is penicillinase positive.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Penicillinase Positive Staphylococcus aureus</nciodm:PreferredTerm>
+                    <nciodm:PreferredTerm>Penicillinase Positive Staphylococcus Aureus</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="STAPHYLOCOCCUS AURICULARIS" nciodm:ExtCodeID="C86751">
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Staphylococcus auricularis.</nciodm:CDISCDefinition>

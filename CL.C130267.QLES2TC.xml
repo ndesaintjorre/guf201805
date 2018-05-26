@@ -1,0 +1,89 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C130267.QLES2TC" Name="Quality Of Life Enjoyment And Satisfaction Questionnaire - Short Form Test Code" DataType="text" nciodm:ExtCodeID="C130267" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Quality Of Life Enjoyment And Satisfaction Questionnaire - Short Form test code.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="QLES201" nciodm:ExtCodeID="C130705">
+                    <nciodm:CDISCSynonym>QLES2-Physical Health</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Quality Of Life Enjoyment And Satisfaction Questionnaire - Short Form - Taking everything into consideration, during the past week how satisfied have you been with your: Physical health?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Q-LES-Q-SF - Physical Health</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="QLES202" nciodm:ExtCodeID="C130706">
+                    <nciodm:CDISCSynonym>QLES2-Mood</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Quality Of Life Enjoyment And Satisfaction Questionnaire - Short Form - Taking everything into consideration, during the past week how satisfied have you been with your: Mood?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Q-LES-Q-SF - Mood</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="QLES203" nciodm:ExtCodeID="C130707">
+                    <nciodm:CDISCSynonym>QLES2-Work</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Quality Of Life Enjoyment And Satisfaction Questionnaire - Short Form - Taking everything into consideration, during the past week how satisfied have you been with your: Work?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Q-LES-Q-SF - Work</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="QLES204" nciodm:ExtCodeID="C130708">
+                    <nciodm:CDISCSynonym>QLES2-Household Activities</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Quality Of Life Enjoyment And Satisfaction Questionnaire - Short Form - Taking everything into consideration, during the past week how satisfied have you been with your: Household activities?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Q-LES-Q-SF - Household Activities</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="QLES205" nciodm:ExtCodeID="C130709">
+                    <nciodm:CDISCSynonym>QLES2-Social Relationships</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Quality Of Life Enjoyment And Satisfaction Questionnaire - Short Form - Taking everything into consideration, during the past week how satisfied have you been with your: Social relationships?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Q-LES-Q-SF - Social Relationships</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="QLES206" nciodm:ExtCodeID="C130710">
+                    <nciodm:CDISCSynonym>QLES2-Family Relationships</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Quality Of Life Enjoyment And Satisfaction Questionnaire - Short Form - Taking everything into consideration, during the past week how satisfied have you been with your: Family relationships?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Q-LES-Q-SF - Family Relationships</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="QLES207" nciodm:ExtCodeID="C130711">
+                    <nciodm:CDISCSynonym>QLES2-Leisure Time Activities</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Quality Of Life Enjoyment And Satisfaction Questionnaire - Short Form - Taking everything into consideration, during the past week how satisfied have you been with your: Leisure time activities?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Q-LES-Q-SF - Leisure Time Activities</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="QLES208" nciodm:ExtCodeID="C130712">
+                    <nciodm:CDISCSynonym>QLES2-Ability to Function in Daily Life</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Quality Of Life Enjoyment And Satisfaction Questionnaire - Short Form - Taking everything into consideration, during the past week how satisfied have you been with your: Ability to function in daily life?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Q-LES-Q-SF - Ability to Function in Daily Life</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="QLES209" nciodm:ExtCodeID="C130713">
+                    <nciodm:CDISCSynonym>QLES2-Sex Drive, Interest, Performance</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Quality Of Life Enjoyment And Satisfaction Questionnaire - Short Form - Taking everything into consideration, during the past week how satisfied have you been with your: Sexual drive, interest and/or performance?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Q-LES-Q-SF - Sex Drive, Interest, Performance</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="QLES210" nciodm:ExtCodeID="C130714">
+                    <nciodm:CDISCSynonym>QLES2-Economic Status</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Quality Of Life Enjoyment And Satisfaction Questionnaire - Short Form - Taking everything into consideration, during the past week how satisfied have you been with your: Economic status?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Q-LES-Q-SF - Economic Status</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="QLES211" nciodm:ExtCodeID="C130715">
+                    <nciodm:CDISCSynonym>QLES2-Living/Housing Situation</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Quality Of Life Enjoyment And Satisfaction Questionnaire - Short Form - Taking everything into consideration, during the past week how satisfied have you been with your: Living/housing situation?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Q-LES-Q-SF - Living or Housing Situation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="QLES212" nciodm:ExtCodeID="C130716">
+                    <nciodm:CDISCSynonym>QLES2-Ability to Get Around Physically</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Quality Of Life Enjoyment And Satisfaction Questionnaire - Short Form - Taking everything into consideration, during the past week how satisfied have you been with your: Ability to get around physically without feeling dizzy or unsteady or falling?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Q-LES-Q-SF - Ability to Get Around Physically</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="QLES213" nciodm:ExtCodeID="C130717">
+                    <nciodm:CDISCSynonym>QLES2-Vision Ability to Do Work/Hobbies</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Quality Of Life Enjoyment And Satisfaction Questionnaire - Short Form - Taking everything into consideration, during the past week how satisfied have you been with your: Your vision in terms of ability to do work or hobbies?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Q-LES-Q-SF - Vision Ability to Do Work or Hobbies</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="QLES214" nciodm:ExtCodeID="C130718">
+                    <nciodm:CDISCSynonym>QLES2-Overall Sense of Well Being</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Quality Of Life Enjoyment And Satisfaction Questionnaire - Short Form - Taking everything into consideration, during the past week how satisfied have you been with your: Overall sense of well being?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Q-LES-Q-SF - Overall Sense of Well Being</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="QLES215" nciodm:ExtCodeID="C130719">
+                    <nciodm:CDISCSynonym>QLES2-Medication</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Quality Of Life Enjoyment And Satisfaction Questionnaire - Short Form - Taking everything into consideration, during the past week how satisfied have you been with your: Medication?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Q-LES-Q-SF - Medication</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="QLES216" nciodm:ExtCodeID="C130720">
+                    <nciodm:CDISCSynonym>QLES2-Rate Overall Life Satisfaction</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Quality Of Life Enjoyment And Satisfaction Questionnaire - Short Form - How would you rate your overall life satisfaction and contentment during the past week?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Q-LES-Q-SF - Rate Overall Life Satisfaction</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>QLES2TC</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Quality Of Life Enjoyment And Satisfaction Questionnaire - Short Form Test Code</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Questionnaire Q-LES-Q-SF Test Code Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

@@ -1,239 +1,239 @@
-<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C106666.HAQ01TN" Name="Health Assessment Questionnaire Disability Index Questionnaire Test Name" DataType="text" nciodm:ExtCodeID="C106666" nciodm:CodeListExtensible="No">
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C106666.HAQ01TN" Name="Health Assessment Questionnaire Disability Index With Pain Visual Analog Scale Questionnaire Test Name" DataType="text" nciodm:ExtCodeID="C106666" nciodm:CodeListExtensible="No">
                 <Description>
-                    <TranslatedText xml:lang="en">Health Assessment Questionnaire Disability Index test name.</TranslatedText>
+                    <TranslatedText xml:lang="en">Health Assessment Questionnaire Disability Index With Pain Visual Analog Scale test name.</TranslatedText>
                 </Description>
                 <EnumeratedItem CodedValue="HAQ01-Able to Do Chores" nciodm:ExtCodeID="C106841">
                     <nciodm:CDISCSynonym>HAQ01-Able to Do Chores</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Health Assessment Questionnaire Disability Index - Activities: Are you able to do chores such as vacuuming or yardwork?</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>HAQ-DI - Able to Do Chores - Vacuuming or Yardwork</nciodm:PreferredTerm>
+                    <nciodm:CDISCDefinition>Health Assessment Questionnaire Disability Index With Pain Visual Analog Scale - Activities: Are you able to do chores such as vacuuming or yardwork?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAQ-DI With VAS - Able to Do Chores - Vacuuming or Yardwork</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="HAQ01-Aid: Bathtub Bar" nciodm:ExtCodeID="C106844">
                     <nciodm:CDISCSynonym>HAQ01-Aid: Bathtub Bar</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Health Assessment Questionnaire Disability Index - Aids or devices that you usually use for any of these activities: Bathtub bar.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>HAQ-DI - Aids or Devices - Bathtub Bar</nciodm:PreferredTerm>
+                    <nciodm:CDISCDefinition>Health Assessment Questionnaire Disability Index With Pain Visual Analog Scale - Aids or devices that you usually use for any of these activities: Bathtub bar.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAQ-DI With VAS - Aids or Devices - Bathtub Bar</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="HAQ01-Aid: Bathtub Seat" nciodm:ExtCodeID="C106843">
                     <nciodm:CDISCSynonym>HAQ01-Aid: Bathtub Seat</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Health Assessment Questionnaire Disability Index - Aids or devices that you usually use for any of these activities: Bathtub seat.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>HAQ-DI - Aids or Devices - Bathtub Seat</nciodm:PreferredTerm>
+                    <nciodm:CDISCDefinition>Health Assessment Questionnaire Disability Index With Pain Visual Analog Scale - Aids or devices that you usually use for any of these activities: Bathtub seat.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAQ-DI With VAS - Aids or Devices - Bathtub Seat</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="HAQ01-Aid: Built Up or Special Utensils" nciodm:ExtCodeID="C106823">
                     <nciodm:CDISCSynonym>HAQ01-Aid: Built Up or Special Utensils</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Health Assessment Questionnaire Disability Index - Aids or devices that you usually use for any of these activities: Built up or special utensils.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>HAQ-DI - Aids or Devices - Built Up or Special Utensils</nciodm:PreferredTerm>
+                    <nciodm:CDISCDefinition>Health Assessment Questionnaire Disability Index With Pain Visual Analog Scale - Aids or devices that you usually use for any of these activities: Built up or special utensils.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAQ-DI With VAS - Aids or Devices - Built Up or Special Utensils</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="HAQ01-Aid: Cane" nciodm:ExtCodeID="C106818">
                     <nciodm:CDISCSynonym>HAQ01-Aid: Cane</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Health Assessment Questionnaire Disability Index - Aids or devices that you usually use for any of these activities: Cane.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>HAQ-DI - Aids or Devices - Cane</nciodm:PreferredTerm>
+                    <nciodm:CDISCDefinition>Health Assessment Questionnaire Disability Index With Pain Visual Analog Scale - Aids or devices that you usually use for any of these activities: Cane.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAQ-DI With VAS - Aids or Devices - Cane</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="HAQ01-Aid: Crutches" nciodm:ExtCodeID="C106820">
                     <nciodm:CDISCSynonym>HAQ01-Aid: Crutches</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Health Assessment Questionnaire Disability Index - Aids or devices that you usually use for any of these activities: Crutches.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>HAQ-DI - Aids or Devices - Crutches</nciodm:PreferredTerm>
+                    <nciodm:CDISCDefinition>Health Assessment Questionnaire Disability Index With Pain Visual Analog Scale - Aids or devices that you usually use for any of these activities: Crutches.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAQ-DI With VAS - Aids or Devices - Crutches</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="HAQ01-Aid: Devices Used for Dressing" nciodm:ExtCodeID="C106822">
                     <nciodm:CDISCSynonym>HAQ01-Aid: Devices Used for Dressing</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Health Assessment Questionnaire Disability Index - Aids or devices that you usually use for any of these activities: Devices used for Dressing (button hook, zipper pull, long-handled shoe horn, etc.).</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>HAQ-DI - Aids or Devices - Used For Dressing</nciodm:PreferredTerm>
+                    <nciodm:CDISCDefinition>Health Assessment Questionnaire Disability Index With Pain Visual Analog Scale - Aids or devices that you usually use for any of these activities: Devices used for dressing (button hook, zipper pull, long-handled shoe horn, etc.).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAQ-DI With VAS - Aids or Devices - Used For Dressing</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="HAQ01-Aid: Jar Opener (Previously Open)" nciodm:ExtCodeID="C107020">
                     <nciodm:CDISCSynonym>HAQ01-Aid: Jar Opener (Previously Open)</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Health Assessment Questionnaire Disability Index - Aids or devices that you usually use for any of these activities: Jar opener (for jars previously opened).</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>HAQ-DI - Aids or Devices - Jar Opener (Jars Previously Opened)</nciodm:PreferredTerm>
+                    <nciodm:CDISCDefinition>Health Assessment Questionnaire Disability Index With Pain Visual Analog Scale - Aids or devices that you usually use for any of these activities: Jar opener (for jars previously opened).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAQ-DI With VAS - Aids or Devices - Jar Opener (Jars Previously Opened)</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="HAQ01-Aid: Long-Handled Appl Bathroom" nciodm:ExtCodeID="C106846">
                     <nciodm:CDISCSynonym>HAQ01-Aid: Long-Handled Appl Bathroom</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Health Assessment Questionnaire Disability Index - Aids or devices that you usually use for any of these activities: Long-handled appliances in bathroom.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>HAQ-DI - Aids or Devices - Long-Handled Appliances in Bathroom</nciodm:PreferredTerm>
+                    <nciodm:CDISCDefinition>Health Assessment Questionnaire Disability Index With Pain Visual Analog Scale - Aids or devices that you usually use for any of these activities: Long-handled appliances in bathroom.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAQ-DI With VAS - Aids or Devices - Long-Handled Appliances in Bathroom</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="HAQ01-Aid: Long-Handled Appl Reach" nciodm:ExtCodeID="C106845">
                     <nciodm:CDISCSynonym>HAQ01-Aid: Long-Handled Appl Reach</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Health Assessment Questionnaire Disability Index - Aids or devices that you usually use for any of these activities: Long-handled appliances for reach.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>HAQ-DI - Aids or Devices - Long-Handled Appliances for Reach</nciodm:PreferredTerm>
+                    <nciodm:CDISCDefinition>Health Assessment Questionnaire Disability Index With Pain Visual Analog Scale - Aids or devices that you usually use for any of these activities: Long-handled appliances for reach.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAQ-DI With VAS - Aids or Devices - Long-Handled Appliances for Reach</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="HAQ01-Aid: Raised Toilet Seat" nciodm:ExtCodeID="C106842">
                     <nciodm:CDISCSynonym>HAQ01-Aid: Raised Toilet Seat</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Health Assessment Questionnaire Disability Index - Aids or devices that you usually use for any of these activities: Raised toilet seat.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>HAQ-DI - Aids or Devices - Raised Toilet Seat</nciodm:PreferredTerm>
+                    <nciodm:CDISCDefinition>Health Assessment Questionnaire Disability Index With Pain Visual Analog Scale - Aids or devices that you usually use for any of these activities: Raised toilet seat.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAQ-DI With VAS - Aids or Devices - Raised Toilet Seat</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="HAQ01-Aid: Special or Built Up Chair" nciodm:ExtCodeID="C106824">
                     <nciodm:CDISCSynonym>HAQ01-Aid: Special or Built Up Chair</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Health Assessment Questionnaire Disability Index - Aids or devices that you usually use for any of these activities: Special or built up chair.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>HAQ-DI - Aids or Devices - Special or Built Up Chair</nciodm:PreferredTerm>
+                    <nciodm:CDISCDefinition>Health Assessment Questionnaire Disability Index With Pain Visual Analog Scale - Aids or devices that you usually use for any of these activities: Special or built up chair.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAQ-DI With VAS - Aids or Devices - Special or Built Up Chair</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="HAQ01-Aid: Walker" nciodm:ExtCodeID="C106819">
                     <nciodm:CDISCSynonym>HAQ01-Aid: Walker</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Health Assessment Questionnaire Disability Index - Aids or devices that you usually use for any of these activities: Walker.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>HAQ-DI - Aids or Devices - Walker</nciodm:PreferredTerm>
+                    <nciodm:CDISCDefinition>Health Assessment Questionnaire Disability Index With Pain Visual Analog Scale - Aids or devices that you usually use for any of these activities: Walker.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAQ-DI With VAS - Aids or Devices - Walker</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="HAQ01-Aid: Wheelchair" nciodm:ExtCodeID="C106821">
                     <nciodm:CDISCSynonym>HAQ01-Aid: Wheelchair</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Health Assessment Questionnaire Disability Index - Aids or devices that you usually use for any of these activities: Wheelchair.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>HAQ-DI - Aids or Devices - Wheelchair</nciodm:PreferredTerm>
+                    <nciodm:CDISCDefinition>Health Assessment Questionnaire Disability Index With Pain Visual Analog Scale - Aids or devices that you usually use for any of these activities: Wheelchair.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAQ-DI With VAS - Aids or Devices - Wheelchair</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="HAQ01-Bend Down Pick Up Clothing - Floor" nciodm:ExtCodeID="C106835">
                     <nciodm:CDISCSynonym>HAQ01-Bend Down Pick Up Clothing - Floor</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Health Assessment Questionnaire Disability Index - Reach: Are you able to bend down to pick up clothing from the floor?</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>HAQ-DI - Able to Bend Down and Pick Up Clothing From Floor</nciodm:PreferredTerm>
+                    <nciodm:CDISCDefinition>Health Assessment Questionnaire Disability Index With Pain Visual Analog Scale - Reach: Are you able to bend down to pick up clothing from the floor?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAQ-DI With VAS - Able to Bend Down and Pick Up Clothing From Floor</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="HAQ01-Climb Up Five Steps" nciodm:ExtCodeID="C106817">
                     <nciodm:CDISCSynonym>HAQ01-Climb Up Five Steps</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Health Assessment Questionnaire Disability Index - Walking: Are you able to climb up five steps?</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>HAQ-DI - Able to Climb Up Steps</nciodm:PreferredTerm>
+                    <nciodm:CDISCDefinition>Health Assessment Questionnaire Disability Index With Pain Visual Analog Scale - Walking: Are you able to climb up five steps?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAQ-DI With VAS - Able to Climb Up Steps</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="HAQ01-Cut Your Meat" nciodm:ExtCodeID="C106813">
                     <nciodm:CDISCSynonym>HAQ01-Cut Your Meat</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Health Assessment Questionnaire Disability Index - Eating: Are you able to cut your meat?</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>HAQ-DI - Able to Cut Meat</nciodm:PreferredTerm>
+                    <nciodm:CDISCDefinition>Health Assessment Questionnaire Disability Index With Pain Visual Analog Scale - Eating: Are you able to cut your meat?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAQ-DI With VAS - Able to Cut Meat</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="HAQ01-Dress Yourself" nciodm:ExtCodeID="C106809">
                     <nciodm:CDISCSynonym>HAQ01-Dress Yourself</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Health Assessment Questionnaire Disability Index - Dressing &amp; Grooming: Are you able to dress yourself, including tying shoelaces and doing buttons?</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>HAQ-DI - Able to Dress Yourself</nciodm:PreferredTerm>
+                    <nciodm:CDISCDefinition>Health Assessment Questionnaire Disability Index With Pain Visual Analog Scale - Dressing &amp; Grooming: Are you able to dress yourself, including tying shoelaces and doing buttons?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAQ-DI With VAS - Able to Dress Yourself</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="HAQ01-Get In and Out of a Car" nciodm:ExtCodeID="C106840">
                     <nciodm:CDISCSynonym>HAQ01-Get In and Out of a Car</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Health Assessment Questionnaire Disability Index - Activities: Are you able to get in and out of a car?</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>HAQ-DI - Able to Get In and Out of Car</nciodm:PreferredTerm>
+                    <nciodm:CDISCDefinition>Health Assessment Questionnaire Disability Index With Pain Visual Analog Scale - Activities: Are you able to get in and out of a car?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAQ-DI With VAS - Able to Get In and Out of Car</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="HAQ01-Get In and Out of Bed" nciodm:ExtCodeID="C106812">
                     <nciodm:CDISCSynonym>HAQ01-Get In and Out of Bed</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Health Assessment Questionnaire Disability Index - Arising: Are you able to get in and out of bed?</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>HAQ-DI - Able to Get In and Out of Bed</nciodm:PreferredTerm>
+                    <nciodm:CDISCDefinition>Health Assessment Questionnaire Disability Index With Pain Visual Analog Scale - Arising: Are you able to get in and out of bed?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAQ-DI With VAS - Able to Get In and Out of Bed</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="HAQ01-Get On and Off The Toilet" nciodm:ExtCodeID="C106833">
                     <nciodm:CDISCSynonym>HAQ01-Get On and Off The Toilet</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Health Assessment Questionnaire Disability Index - Hygiene: Are you able to get on and off the toilet?</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>HAQ-DI - Able to Get On and Off Toilet</nciodm:PreferredTerm>
+                    <nciodm:CDISCDefinition>Health Assessment Questionnaire Disability Index With Pain Visual Analog Scale - Hygiene: Are you able to get on and off the toilet?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAQ-DI With VAS - Able to Get On and Off Toilet</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="HAQ01-Help: Arising" nciodm:ExtCodeID="C106828">
                     <nciodm:CDISCSynonym>HAQ01-Help: Arising</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Health Assessment Questionnaire Disability Index - Usually need help from another person: Arising.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>HAQ-DI - Help From Another Person - Arising</nciodm:PreferredTerm>
+                    <nciodm:CDISCDefinition>Health Assessment Questionnaire Disability Index With Pain Visual Analog Scale - Usually need help from another person: Arising.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAQ-DI With VAS - Help From Another Person - Arising</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="HAQ01-Help: Dressing and Grooming" nciodm:ExtCodeID="C106827">
                     <nciodm:CDISCSynonym>HAQ01-Help: Dressing and Grooming</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Health Assessment Questionnaire Disability Index - Usually need help from another person: Dressing and Grooming.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>HAQ-DI - Help From Another Person - Dressing and Grooming</nciodm:PreferredTerm>
+                    <nciodm:CDISCDefinition>Health Assessment Questionnaire Disability Index With Pain Visual Analog Scale - Usually need help from another person: Dressing and grooming.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAQ-DI With VAS - Help From Another Person - Dressing and Grooming</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="HAQ01-Help: Eating" nciodm:ExtCodeID="C106829">
                     <nciodm:CDISCSynonym>HAQ01-Help: Eating</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Health Assessment Questionnaire Disability Index - Usually need help from another person: Eating.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>HAQ-DI - Help From Another Person - Eating</nciodm:PreferredTerm>
+                    <nciodm:CDISCDefinition>Health Assessment Questionnaire Disability Index With Pain Visual Analog Scale - Usually need help from another person: Eating.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAQ-DI With VAS - Help From Another Person - Eating</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="HAQ01-Help: Errands and Chores" nciodm:ExtCodeID="C106850">
                     <nciodm:CDISCSynonym>HAQ01-Help: Errands and Chores</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Health Assessment Questionnaire Disability Index - Usually need help from another person: Errands and chores.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>HAQ-DI - Help From Another Person - Errands and Chores</nciodm:PreferredTerm>
+                    <nciodm:CDISCDefinition>Health Assessment Questionnaire Disability Index With Pain Visual Analog Scale - Usually need help from another person: Errands and chores.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAQ-DI With VAS - Help From Another Person - Errands and Chores</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="HAQ01-Help: Gripping and Opening Things" nciodm:ExtCodeID="C106849">
                     <nciodm:CDISCSynonym>HAQ01-Help: Gripping and Opening Things</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Health Assessment Questionnaire Disability Index - Usually need help from another person: Gripping and opening things.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>HAQ-DI - Help From Another Person - Gripping and Opening Things</nciodm:PreferredTerm>
+                    <nciodm:CDISCDefinition>Health Assessment Questionnaire Disability Index With Pain Visual Analog Scale - Usually need help from another person: Gripping and opening things.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAQ-DI With VAS - Help From Another Person - Gripping and Opening Things</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="HAQ01-Help: Hygiene" nciodm:ExtCodeID="C106847">
                     <nciodm:CDISCSynonym>HAQ01-Help: Hygiene</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Health Assessment Questionnaire Disability Index - Usually need help from another person: Hygiene.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>HAQ-DI - Help From Another Person - Hygiene</nciodm:PreferredTerm>
+                    <nciodm:CDISCDefinition>Health Assessment Questionnaire Disability Index With Pain Visual Analog Scale - Usually need help from another person: Hygiene.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAQ-DI With VAS - Help From Another Person - Hygiene</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="HAQ01-Help: Reach" nciodm:ExtCodeID="C106848">
                     <nciodm:CDISCSynonym>HAQ01-Help: Reach</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Health Assessment Questionnaire Disability Index - Usually need help from another person: Reach.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>HAQ-DI - Help From Another Person - Reach</nciodm:PreferredTerm>
+                    <nciodm:CDISCDefinition>Health Assessment Questionnaire Disability Index With Pain Visual Analog Scale - Usually need help from another person: Reach.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAQ-DI With VAS - Help From Another Person - Reach</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="HAQ01-Help: Walking" nciodm:ExtCodeID="C106830">
                     <nciodm:CDISCSynonym>HAQ01-Help: Walking</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Health Assessment Questionnaire Disability Index - Usually need help from another person: Walking.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>HAQ-DI - Help From Another Person - Walking</nciodm:PreferredTerm>
+                    <nciodm:CDISCDefinition>Health Assessment Questionnaire Disability Index With Pain Visual Analog Scale - Usually need help from another person: Walking.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAQ-DI With VAS - Help From Another Person - Walking</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="HAQ01-Lift a Full Cup or Glass to Mouth" nciodm:ExtCodeID="C106814">
                     <nciodm:CDISCSynonym>HAQ01-Lift a Full Cup or Glass to Mouth</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Health Assessment Questionnaire Disability Index - Eating: Are you able to lift a full cup or glass to your mouth?</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>HAQ-DI - Able to Lift Cup or Glass to Mouth</nciodm:PreferredTerm>
+                    <nciodm:CDISCDefinition>Health Assessment Questionnaire Disability Index With Pain Visual Analog Scale - Eating: Are you able to lift a full cup or glass to your mouth?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAQ-DI With VAS - Able to Lift Cup or Glass to Mouth</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="HAQ01-Open a New Milk Carton" nciodm:ExtCodeID="C106815">
                     <nciodm:CDISCSynonym>HAQ01-Open a New Milk Carton</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Health Assessment Questionnaire Disability Index - Eating: Are you able to open a new milk carton?</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>HAQ-DI - Able to Open Milk Carton</nciodm:PreferredTerm>
+                    <nciodm:CDISCDefinition>Health Assessment Questionnaire Disability Index With Pain Visual Analog Scale - Eating: Are you able to open a new milk carton?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAQ-DI With VAS - Able to Open Milk Carton</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="HAQ01-Open Car Doors" nciodm:ExtCodeID="C106836">
                     <nciodm:CDISCSynonym>HAQ01-Open Car Doors</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Health Assessment Questionnaire Disability Index - Grip: Are you able to open car doors?</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>HAQ-DI - Able to Open Car Doors</nciodm:PreferredTerm>
+                    <nciodm:CDISCDefinition>Health Assessment Questionnaire Disability Index With Pain Visual Analog Scale - Grip: Are you able to open car doors?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAQ-DI With VAS - Able to Open Car Doors</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="HAQ01-Open Jars Previously Opened" nciodm:ExtCodeID="C106837">
                     <nciodm:CDISCSynonym>HAQ01-Open Jars Previously Opened</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Health Assessment Questionnaire Disability Index - Grip: Are you able to open jars which have been previously opened?</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>HAQ-DI - Able to Open Previously Opened Jars</nciodm:PreferredTerm>
+                    <nciodm:CDISCDefinition>Health Assessment Questionnaire Disability Index With Pain Visual Analog Scale - Grip: Are you able to open jars which have been previously opened?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAQ-DI With VAS - Able to Open Previously Opened Jars</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="HAQ01-Othr Aid (Dress/Arising/Eat/Walk)" nciodm:ExtCodeID="C106825">
                     <nciodm:CDISCSynonym>HAQ01-Othr Aid (Dress/Arising/Eat/Walk)</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Health Assessment Questionnaire Disability Index - Aids or devices that you usually use for any of these activities: Other.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>HAQ-DI - Aids or Devices For Dress/Arising/Eat/Walk-Other</nciodm:PreferredTerm>
+                    <nciodm:CDISCDefinition>Health Assessment Questionnaire Disability Index With Pain Visual Analog Scale - Aids or devices that you usually use for any of these activities: Other.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAQ-DI With VAS - Aids or Devices For Dress/Arising/Eat/Walk-Other</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="HAQ01-Othr Aid (Hygiene/Reach/Grip/Act)" nciodm:ExtCodeID="C107093">
                     <nciodm:CDISCSynonym>HAQ01-Othr Aid (Hygiene/Reach/Grip/Act)</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Health Assessment Questionnaire Disability Index - Aids or devices that you usually use for any of these activities: Other.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>HAQ-DI - Aids or Devices For Hygiene/Reach/Grip/Act-Other</nciodm:PreferredTerm>
+                    <nciodm:CDISCDefinition>Health Assessment Questionnaire Disability Index With Pain Visual Analog Scale - Aids or devices that you usually use for any of these activities: Other.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAQ-DI With VAS - Aids or Devices For Hygiene/Reach/Grip/Act-Other</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="HAQ01-Reach-Get Down 5 Lb Obj Above Head" nciodm:ExtCodeID="C106834">
                     <nciodm:CDISCSynonym>HAQ01-Reach-Get Down 5 Lb Obj Above Head</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Health Assessment Questionnaire Disability Index - Reach: Are you able to reach and get down a 5 pound object (such as a bag of sugar) from just above your head?</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>HAQ-DI - Able to Reach and Get Down Object From Above Head</nciodm:PreferredTerm>
+                    <nciodm:CDISCDefinition>Health Assessment Questionnaire Disability Index With Pain Visual Analog Scale - Reach: Are you able to reach and get down a 5 pound object (such as a bag of sugar) from just above your head?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAQ-DI With VAS - Able to Reach and Get Down Object From Above Head</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="HAQ01-Run Errands and Shop" nciodm:ExtCodeID="C106839">
                     <nciodm:CDISCSynonym>HAQ01-Run Errands and Shop</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Health Assessment Questionnaire Disability Index - Activities: Are you able to run errands and shop?</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>HAQ-DI - Able to Run Errands and Shop</nciodm:PreferredTerm>
+                    <nciodm:CDISCDefinition>Health Assessment Questionnaire Disability Index With Pain Visual Analog Scale - Activities: Are you able to run errands and shop?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAQ-DI With VAS - Able to Run Errands and Shop</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="HAQ01-Severity of Pain" nciodm:ExtCodeID="C106851">
                     <nciodm:CDISCSynonym>HAQ01-Severity of Pain</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Health Assessment Questionnaire Disability Index - How much pain have you had because of your illness in the past week?</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>HAQ-DI - Severity of Pain in the Past Week</nciodm:PreferredTerm>
+                    <nciodm:CDISCDefinition>Health Assessment Questionnaire Disability Index With Pain Visual Analog Scale - How much pain have you had because of your illness in the past week?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAQ-DI With VAS - Severity of Pain in the Past Week</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="HAQ01-Shampoo Your Hair" nciodm:ExtCodeID="C106810">
                     <nciodm:CDISCSynonym>HAQ01-Shampoo Your Hair</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Health Assessment Questionnaire Disability Index - Dressing &amp; Grooming: Are you able to shampoo your hair?</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>HAQ-DI - Able to Shampoo Hair</nciodm:PreferredTerm>
+                    <nciodm:CDISCDefinition>Health Assessment Questionnaire Disability Index With Pain Visual Analog Scale - Dressing &amp; Grooming: Are you able to shampoo your hair?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAQ-DI With VAS - Able to Shampoo Hair</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="HAQ01-Spec Aid (Dress/Arising/Eat/Walk)" nciodm:ExtCodeID="C106826">
                     <nciodm:CDISCSynonym>HAQ01-Spec Aid (Dress/Arising/Eat/Walk)</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Health Assessment Questionnaire Disability Index - Aids or devices that you usually use for any of these activities: Other (Specify).</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>HAQ-DI - Aids or Devices For Dress/Arising/Eat/Walk-Specify</nciodm:PreferredTerm>
+                    <nciodm:CDISCDefinition>Health Assessment Questionnaire Disability Index With Pain Visual Analog Scale - Aids or devices that you usually use for any of these activities: Other (specify).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAQ-DI With VAS - Aids or Devices For Dress/Arising/Eat/Walk-Specify</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="HAQ01-Spec Aid (Hygiene/Reach/Grip/Act)" nciodm:ExtCodeID="C107094">
                     <nciodm:CDISCSynonym>HAQ01-Spec Aid (Hygiene/Reach/Grip/Act)</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Health Assessment Questionnaire Disability Index - Aids or devices that you usually use for any of these activities: Other (Specify).</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>HAQ-DI - Aids or Devices For Hygiene/Reach/Grip/Act-Specify</nciodm:PreferredTerm>
+                    <nciodm:CDISCDefinition>Health Assessment Questionnaire Disability Index With Pain Visual Analog Scale - Aids or devices that you usually use for any of these activities: Other (specify).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAQ-DI With VAS - Aids or Devices For Hygiene/Reach/Grip/Act-Specify</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="HAQ01-Stand Up From a Straight Chair" nciodm:ExtCodeID="C106811">
                     <nciodm:CDISCSynonym>HAQ01-Stand Up From a Straight Chair</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Health Assessment Questionnaire Disability Index - Arising: Are you able to stand up from a straight chair?</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>HAQ-DI - Able to Stand Up From Chair</nciodm:PreferredTerm>
+                    <nciodm:CDISCDefinition>Health Assessment Questionnaire Disability Index With Pain Visual Analog Scale - Arising: Are you able to stand up from a straight chair?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAQ-DI With VAS - Able to Stand Up From Chair</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="HAQ01-Take a Tub Bath" nciodm:ExtCodeID="C106832">
                     <nciodm:CDISCSynonym>HAQ01-Take a Tub Bath</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Health Assessment Questionnaire Disability Index - Hygiene: Are you able to take a tub bath?</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>HAQ-DI - Able to Take Tub Bath</nciodm:PreferredTerm>
+                    <nciodm:CDISCDefinition>Health Assessment Questionnaire Disability Index With Pain Visual Analog Scale - Hygiene: Are you able to take a tub bath?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAQ-DI With VAS - Able to Take Tub Bath</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="HAQ01-Turn Faucets On And Off" nciodm:ExtCodeID="C106838">
                     <nciodm:CDISCSynonym>HAQ01-Turn Faucets On And Off</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Health Assessment Questionnaire Disability Index - Grip: Are you able to turn faucets on and off?</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>HAQ-DI - Able to Turn Faucets On and Off</nciodm:PreferredTerm>
+                    <nciodm:CDISCDefinition>Health Assessment Questionnaire Disability Index With Pain Visual Analog Scale - Grip: Are you able to turn faucets on and off?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAQ-DI With VAS - Able to Turn Faucets On and Off</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="HAQ01-Walk Outdoors on Flat Ground" nciodm:ExtCodeID="C106816">
                     <nciodm:CDISCSynonym>HAQ01-Walk Outdoors on Flat Ground</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Health Assessment Questionnaire Disability Index - Walking: Are you able to walk outdoors on flat ground?</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>HAQ-DI - Able to Walk Outdoors On Flat Ground</nciodm:PreferredTerm>
+                    <nciodm:CDISCDefinition>Health Assessment Questionnaire Disability Index With Pain Visual Analog Scale - Walking: Are you able to walk outdoors on flat ground?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAQ-DI With VAS - Able to Walk Outdoors On Flat Ground</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="HAQ01-Wash and Dry Your Body" nciodm:ExtCodeID="C106831">
                     <nciodm:CDISCSynonym>HAQ01-Wash and Dry Your Body</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Health Assessment Questionnaire Disability Index - Hygiene: Are you able to wash and dry your body?</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>HAQ-DI - Able to Wash and Dry Body</nciodm:PreferredTerm>
+                    <nciodm:CDISCDefinition>Health Assessment Questionnaire Disability Index With Pain Visual Analog Scale - Hygiene: Are you able to wash and dry your body?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAQ-DI With VAS - Able to Wash and Dry Body</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <nciodm:CDISCSubmissionValue>HAQ01TN</nciodm:CDISCSubmissionValue>
-                <nciodm:CDISCSynonym>Health Assessment Questionnaire Disability Index Questionnaire Test Name</nciodm:CDISCSynonym>
-                <nciodm:PreferredTerm>CDISC Questionnaire HAQ-DI Test Name Terminology</nciodm:PreferredTerm>
+                <nciodm:CDISCSynonym>Health Assessment Questionnaire Disability Index With Pain Visual Analog Scale Questionnaire Test Name</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Questionnaire HAQ-DI With VAS Test Name Terminology</nciodm:PreferredTerm>
             </CodeList>
             

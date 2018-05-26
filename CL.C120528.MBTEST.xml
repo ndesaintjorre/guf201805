@@ -3,6 +3,7 @@
                     <TranslatedText xml:lang="en">Terminology relevant to the microbiology test names of the CDISC Study Data Tabulation Model.</TranslatedText>
                 </Description>
                 <EnumeratedItem CodedValue="Acid-Fast Bacilli" nciodm:ExtCodeID="C128981">
+                    <nciodm:CDISCSynonym>Acid-Fast Bacilli</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of any rod-shaped bacteria that resist decolorizing by acid after accepting an aqueous stain solution, due to the mycolic acids in their cell walls.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Acid-Fast Bacilli Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
@@ -22,10 +23,12 @@
                     <nciodm:PreferredTerm>Influenza B Antigen Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Mycobacterium Tuberculosis" nciodm:ExtCodeID="C128982">
+                    <nciodm:CDISCSynonym>Mycobacterium Tuberculosis</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the organisms assignable to the Mycobacterium tuberculosis species in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Mycobacterium Tuberculosis Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Mycobacterium Tuberculosis Complex" nciodm:ExtCodeID="C128983">
+                    <nciodm:CDISCSynonym>Mycobacterium Tuberculosis Complex</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the organisms assignable to the Mycobacterium tuberculosis complex in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Mycobacterium Tuberculosis Complex Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>

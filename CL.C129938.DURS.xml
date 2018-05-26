@@ -1,0 +1,52 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C129938.DURS" Name="Device-In-Use Response" DataType="text" nciodm:ExtCodeID="C129938" nciodm:CodeListExtensible="Yes">
+                <Description>
+                    <TranslatedText xml:lang="en">A terminology codelist relevant to the device-in-use responses.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="2-DIMENSIONAL BIPLANE MODE" nciodm:ExtCodeID="C130058">
+                    <nciodm:CDISCDefinition>An ultrasound imaging setting that uses a probe with two 2-dimensional (2D) planes set perpendicularly to each other, allowing for better detection and localization of objects/structures.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>2-Dimensional Biplane Ultrasound Mode</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="2-DIMENSIONAL SINGLE PLANE MODE" nciodm:ExtCodeID="C130059">
+                    <nciodm:CDISCDefinition>An ultrasound imaging setting that uses a linear pattern of beams to produce a standard, 2-dimensional (2-D) image.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>2-Dimensional Single Plane Ultrasound Mode</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="3-DIMENSIONAL MODE" nciodm:ExtCodeID="C130060">
+                    <nciodm:CDISCDefinition>An ultrasound imaging setting that reconstructs planar ultrasound data into three dimensional images of the structure being scanned.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>3-Dimensional Ultrasound Mode</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="COLOR TISSUE DOPPLER MODE" nciodm:ExtCodeID="C130061">
+                    <nciodm:CDISCSynonym>Color Flow Tissue Doppler Mode</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An ultrasound imaging setting that uses pulsed wave Doppler signals to depict tissue motion direction and velocity in color images that are superimposed over normal, 2-dimensional (2-D) images.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Color Tissue Doppler Ultrasound Mode</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CONTINUOUS-WAVE DOPPLER MODE" nciodm:ExtCodeID="C130062">
+                    <nciodm:CDISCSynonym>CW Doppler</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Continuous Doppler Mode</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An ultrasound imaging setting that uses Doppler signals that are continuously sent and received along a single line to measure both direction and velocity of blood flow.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Continuous-Wave Doppler Ultrasound Mode</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="M-MODE" nciodm:ExtCodeID="C130063">
+                    <nciodm:CDISCSynonym>Motion Mode</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An ultrasound imaging setting that uses a single ultrasound beam to provide high temporal resolution of tissue motion.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>M-Mode Ultrasound Mode</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PULSED-WAVE DOPPLER MODE" nciodm:ExtCodeID="C130064">
+                    <nciodm:CDISCSynonym>PW Doppler</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Pulsed Doppler Mode</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An ultrasound imaging setting that uses intermittent Doppler signals to measure both direction and velocity of blood flow.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Pulsed-Wave Doppler Ultrasound Mode</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PULSED-WAVE TISSUE DOPPLER MODE" nciodm:ExtCodeID="C130065">
+                    <nciodm:CDISCSynonym>Pulsed Tissue Doppler Mode</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An ultrasound imaging setting that uses pulsed wave Doppler signals to measure velocity of tissue movement.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Pulsed-Wave Tissue Doppler Ultrasound Mode</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TISSUE DOPPLER MODE" nciodm:ExtCodeID="C130066">
+                    <nciodm:CDISCDefinition>An ultrasound imaging setting that uses intermittent Doppler signals to measure velocity of tissue movement.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Tissue Doppler Ultrasound Mode</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>DURS</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Device-In-Use Response</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Device-In-Use Response Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

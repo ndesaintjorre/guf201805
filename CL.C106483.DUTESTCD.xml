@@ -152,6 +152,11 @@
                     <nciodm:CDISCDefinition>The type of electrode (monopolar or bipolar) used on the subject during electrical stimulation of the body or organ.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Electrical Stimulation Electrode Type</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="ULTRMODE" nciodm:ExtCodeID="C130045">
+                    <nciodm:CDISCSynonym>Ultrasound Mode</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The image acquisition settings of an ultrasound-based imaging modality, based on parameters including transducer design, ultrasound frequency, and ultrasound signal processing.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Ultrasound Mode</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <nciodm:CDISCSubmissionValue>DUTESTCD</nciodm:CDISCSubmissionValue>
                 <nciodm:CDISCSynonym>Device-In-Use Test Code</nciodm:CDISCSynonym>
                 <nciodm:PreferredTerm>CDISC SDTM Device-In-Use Test Code Terminology</nciodm:PreferredTerm>

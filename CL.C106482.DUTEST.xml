@@ -142,6 +142,11 @@
                     <nciodm:CDISCDefinition>The type of electrode (monopolar or bipolar) used on the subject during electrical stimulation of the body or organ.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Electrical Stimulation Electrode Type</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="Ultrasound Mode" nciodm:ExtCodeID="C130045">
+                    <nciodm:CDISCSynonym>Ultrasound Mode</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The image acquisition settings of an ultrasound-based imaging modality, based on parameters including transducer design, ultrasound frequency, and ultrasound signal processing.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Ultrasound Mode</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="X-axis Pixel Spacing" nciodm:ExtCodeID="C69201">
                     <nciodm:CDISCSynonym>X-axis Pixel Spacing</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the distance between the centers of two adjacent pixels located along the X-axis.</nciodm:CDISCDefinition>

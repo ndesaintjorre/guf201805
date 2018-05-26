@@ -1,0 +1,14 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C130239.BUERS1TC" Name="Brooke Upper Extremity Rating Scale Clinical Classification Test Code" DataType="text" nciodm:ExtCodeID="C130239" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Brooke Upper Extremity Rating Scale test code.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="BUERS101" nciodm:ExtCodeID="C130326">
+                    <nciodm:CDISCSynonym>BUERS1-Brooke Upper Extremity Rating</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brooke Upper Extremity Rating Scale - Brooke upper extremity rating scale.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BUERS - Brooke Upper Extremity Rating Scale</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>BUERS1TC</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Brooke Upper Extremity Rating Scale Clinical Classification Test Code</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Clinical Classification BUERS Test Code Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

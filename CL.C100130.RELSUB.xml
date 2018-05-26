@@ -2,6 +2,10 @@
                 <Description>
                     <TranslatedText xml:lang="en">The relationship of a person to a study subject.</TranslatedText>
                 </Description>
+                <EnumeratedItem CodedValue="ACCIDENTAL ASSOCIATE" nciodm:ExtCodeID="C130052">
+                    <nciodm:CDISCDefinition>A person whose association to an individual is unintentional.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Accidental Association</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="AUNT, BIOLOGICAL" nciodm:ExtCodeID="C96569">
                     <nciodm:CDISCSynonym>Biological Aunt</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A female relative who is a sibling of either of the biological parents, and who share a common ancestor. (NCI)</nciodm:CDISCDefinition>
@@ -16,6 +20,14 @@
                     <nciodm:CDISCSynonym>Biological Paternal Aunt</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A female relative who is a sibling of the biological father, and who both share a common ancestor. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Biological Paternal Aunt</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BIOLOGICALLY RELATED" nciodm:ExtCodeID="C71384">
+                    <nciodm:CDISCDefinition>An individual that shares genetic makeup with another individual.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Biological Relative</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BIOLOGICALLY UNRELATED" nciodm:ExtCodeID="C130053">
+                    <nciodm:CDISCDefinition>An individual that does not share any genetic makeup with another individual.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Biologically Unrelated</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="BROTHER, BIOLOGICAL" nciodm:ExtCodeID="C96570">
                     <nciodm:CDISCSynonym>Biological Brother</nciodm:CDISCSynonym>
@@ -80,6 +92,10 @@
                     <nciodm:CDISCSynonym>Donor</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>One that contributes something. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Donor</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DONOR, KIDNEY" nciodm:ExtCodeID="C130054">
+                    <nciodm:CDISCDefinition>Someone from whom one or more kidneys are removed for transplantation or other purpose.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Kidney Donor</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="DONOR, ORGAN" nciodm:ExtCodeID="C100810">
                     <nciodm:CDISCSynonym>Organ Donor</nciodm:CDISCSynonym>

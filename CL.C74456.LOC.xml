@@ -117,6 +117,10 @@
                     <nciodm:CDISCDefinition>A valve that is located between and controls the flow of blood from the left ventricle of the heart and the aorta. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Aortic Valve</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="AORTIC VALVE ANNULUS" nciodm:ExtCodeID="C130167">
+                    <nciodm:CDISCDefinition>A fibrous membrane that attaches to, and provides support for, the aortic valve leaflets.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Aortic Valve Annulus</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="AORTIC VALVE, LEFT CORONARY CUSP" nciodm:ExtCodeID="C127638">
                     <nciodm:CDISCSynonym>Aortic Valve, Left Semilunar Cusp</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The cusp of the aortic valve that overlies the left coronary ostium.</nciodm:CDISCDefinition>
@@ -1523,7 +1527,7 @@
                     <nciodm:PreferredTerm>Infraclavicular Lymph Node</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="INFRARENAL AORTA" nciodm:ExtCodeID="C116179">
-                    <nciodm:CDISCDefinition>The portion of the abdominal aorta that lies below the kidneys.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>The portion of the abdominal aorta distal to the renal arteries.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Infrarenal Aortic Segment</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="INFRATENTORIAL BRAIN" nciodm:ExtCodeID="C12509">
@@ -2526,6 +2530,10 @@
                     <nciodm:CDISCDefinition>The part of the pharynx between the soft palate and the upper portion of the epiglottis. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Oropharynx</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="OVARIAN FOLLICLE" nciodm:ExtCodeID="C33244">
+                    <nciodm:CDISCDefinition>A spherical aggregation of cells found in the ovaries that contains a single oocyte. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Ovarian Follicle</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="OVARY" nciodm:ExtCodeID="C12404">
                     <nciodm:CDISCSynonym>Ovary</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>One of the paired female reproductive glands containing the ova or germ cells; the ovary's stroma is a vascular connective tissue containing numbers of ovarian follicles enclosing the ova. (NCI)</nciodm:CDISCDefinition>
@@ -3070,6 +3078,11 @@
                     <nciodm:CDISCDefinition>The back of the abdomen where the kidneys lie and the great blood vessels run. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Retroperitoneum</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="RETROPHARYNGEAL LYMPH NODE" nciodm:ExtCodeID="C77649">
+                    <nciodm:CDISCSynonym>Suprapharyngeal Lymph Node</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Lymph node(s) in the retropharyngeal space.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Retropharyngeal Lymph Node</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="RIB" nciodm:ExtCodeID="C12782">
                     <nciodm:CDISCDefinition>Any one of the paired bones, extending from the thoracic vertebrae toward the median line on the ventral aspect of the trunk.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Rib</nciodm:PreferredTerm>
@@ -3447,6 +3460,10 @@
                     <nciodm:CDISCDefinition>The upper part of the larynx, including the epiglottis; the area above the vocal cords.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Supraglottis</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUPRARENAL AORTA" nciodm:ExtCodeID="C130168">
+                    <nciodm:CDISCDefinition>The portion of the abdominal aorta cranial to the renal arteries.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Suprarenal Aorta</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="SUPRATENTORIAL BRAIN" nciodm:ExtCodeID="C12512">
                     <nciodm:CDISCDefinition>The part of the brain above the tentorium cerebellum. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Supratentorial Brain</nciodm:PreferredTerm>
@@ -3736,9 +3753,17 @@
                     <nciodm:CDISCDefinition>A three-cusp valve of the heart that regulates the flow of blood between the right atrium and the right ventricle of the heart. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Tricuspid Valve</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="TRICUSPID VALVE ANNULUS" nciodm:ExtCodeID="C130047">
+                    <nciodm:CDISCDefinition>A fibrous membrane that attaches to, and provides support for, the tricuspid valve leaflets.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Tricuspid Valve Annulus</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="TRICUSPID VALVE, ANTERIOR CUSP" nciodm:ExtCodeID="C32799">
                     <nciodm:CDISCDefinition>The cusp of the tricuspid valve that is located between the atrioventricular orifice and the conus arteriosus.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Anterior Cusp of the Tricuspid Valve</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TRICUSPID VALVE, POSTERIOR ANNULUS" nciodm:ExtCodeID="C130169">
+                    <nciodm:CDISCDefinition>The portion of the tricuspid valve annulus that attaches to both the posterior and lateral tricuspid valve leaflets.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Posterior Annulus of the Tricuspid Valve</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="TRICUSPID VALVE, POSTERIOR CUSP" nciodm:ExtCodeID="C33055">
                     <nciodm:CDISCDefinition>The cusp of the tricuspid valve that is located posterior and on the margin of the right ventricle.</nciodm:CDISCDefinition>
@@ -3866,6 +3891,7 @@
                     <nciodm:PreferredTerm>Vagus Nerve</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="VAS DEFERENS" nciodm:ExtCodeID="C12813">
+                    <nciodm:CDISCSynonym>Ductus Deferens</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A duct carrying spermatozoa from the epididymides to the urethra.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Vas Deferens</nciodm:PreferredTerm>
                 </EnumeratedItem>

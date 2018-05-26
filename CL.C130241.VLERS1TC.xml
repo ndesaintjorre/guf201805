@@ -1,0 +1,14 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C130241.VLERS1TC" Name="Vignos Lower Extremity Rating Scale Clinical Classification Test Code" DataType="text" nciodm:ExtCodeID="C130241" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Vignos Lower Extremity Rating Scale test code.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="VLERS101" nciodm:ExtCodeID="C130327">
+                    <nciodm:CDISCSynonym>VLERS1-Vignos Lower Extremity Rating</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Vignos Lower Extremity Rating Scale - Vignos rating scale.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>VLERS - Vignos Lower Extremity Rating</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>VLERS1TC</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Vignos Lower Extremity Rating Scale Clinical Classification Test Code</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Clinical Classification VLERS Test Code Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

@@ -14,6 +14,10 @@
                     <nciodm:CDISCDefinition>A method to determine microbial susceptibility to antibiotics in which test bacteria is inoculated onto agar plates with serial dilutions of know quantities of antibiotics. The minimum inhibitory concentration of antibiotic is assessed.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Agar Dilution Method</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="AHG-ENHANCED COMPLEMENT-DEPENDENT LYMPHOCYTOTOXICITY ASSAY" nciodm:ExtCodeID="C130170">
+                    <nciodm:CDISCDefinition>A form of complement-dependent lymphocytotoxicity assay with the addition of anti-human globulin (AHG) which is a complement fixing antibody to human immunoglobulin. AHG binds to both complement proteins and non-complement-fixing antibodies.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>AHG-enhanced Complement-dependent Lymphocytotoxicity Assay</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="ALCIAN BLUE AND PERIODIC ACID SCHIFF STAIN" nciodm:ExtCodeID="C92304">
                     <nciodm:CDISCDefinition>A microscopy staining method that utilizes periodic acid, an oxoacid of iodine, Schiff reagent, the reaction product of fuchsine and sodium bisulfite, and Alcian blue, a water soluble copper phthalocyanine dye. This staining method is used to differentially stain glycoproteins.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Alcian Blue and Periodic Acid Schiff Staining Method</nciodm:PreferredTerm>
@@ -135,6 +139,10 @@
                 <EnumeratedItem CodedValue="COLORIMETRY" nciodm:ExtCodeID="C111096">
                     <nciodm:CDISCDefinition>A method to measure the absorbance of visible wavelengths of light using a colorimeter.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Colorimetry</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="COMPLEMENT-DEPENDENT LYMPHOCYTOTOXICITY ASSAY" nciodm:ExtCodeID="C130171">
+                    <nciodm:CDISCDefinition>A method that detects the presence and reaction of complement-fixing alloantibodies to donor lymphocytes, via the addition of complement proteins and lysis of the lymphocytes.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Complement-dependent Lymphocytotoxicity Assay</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="CONTACT SPECULAR MICROSCOPY" nciodm:ExtCodeID="C120683">
                     <nciodm:CDISCDefinition>A type of specular microscopy in which the specular microscope makes contact with the cornea of the eye.</nciodm:CDISCDefinition>
@@ -288,10 +296,9 @@
                     <nciodm:CDISCDefinition>A diagrammatic method to test visual acuity which incorporates the Bailey-Lovie layout in conjunction with Sloan optotypes.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Early Treatment of Diabetic Retinopathy Study Eye Chart</nciodm:PreferredTerm>
                 </EnumeratedItem>
-                <EnumeratedItem CodedValue="FDGPET" nciodm:ExtCodeID="C103400">
-                    <nciodm:CDISCSynonym>FDG-PET Scan</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>An imaging technique that utilizes positron emission tomography to produce a three-dimensional image of functional processes in the body. The system detects pairs of gamma rays emitted indirectly by a positron-emitting radionuclide (tracer), which is introduced into the body on the biologically active molecule (fludeoxyglucose) FDG. FDG is an analogue of glucose which when imaged will give tissue metabolic activity, in terms of regional glucose uptake.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>FDG-Positron Emission Tomography</nciodm:PreferredTerm>
+                <EnumeratedItem CodedValue="FARNSWORTH-MUNSELL 100 HUE TEST" nciodm:ExtCodeID="C130172">
+                    <nciodm:CDISCDefinition>A diagrammatic method to test color blindness or deficiencies, which uses 100 colors from the Munsell color system arranged in rows of four color families and containing 25 hues for each color. The subject must put the hues in order based on the anchor colors on the ends of each row.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Farnsworth-Munsell 100 Hue Test</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="FISH" nciodm:ExtCodeID="C17563">
                     <nciodm:CDISCSynonym>Fluorescence in Situ Hybridization</nciodm:CDISCSynonym>
@@ -309,11 +316,6 @@
                 <EnumeratedItem CodedValue="FLOW MICROSCOPY" nciodm:ExtCodeID="C112284">
                     <nciodm:CDISCDefinition>A method of measuring the number of cells in a sample by placing the cells in a fluid and passing them, in a stream, through a special light microscope that can record and analyze images of the cells to determine the presence of foreign particles, cell counts, protein aggregates and morphology information.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Flow Microscopy</nciodm:PreferredTerm>
-                </EnumeratedItem>
-                <EnumeratedItem CodedValue="FLTPET" nciodm:ExtCodeID="C103401">
-                    <nciodm:CDISCSynonym>FLT-PET Scan</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>An imaging technique that utilizes positron emission tomography to produce a three-dimensional image of functional processes in the body. The system detects pairs of gamma rays emitted indirectly by a positron-emitting radionuclide (tracer), which is introduced into the body on the biologically active molecule fluoro-L-thymidine (FLT). FLT when imaged will give tissue metabolic activity, in terms of cell proliferation.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>FLT-Positron Emission Tomography</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="FLUORESCENT IMMUNOASSAY" nciodm:ExtCodeID="C17370">
                     <nciodm:CDISCSynonym>Fluorescent Antibody Assay</nciodm:CDISCSynonym>
@@ -376,6 +378,10 @@
                     <nciodm:CDISCDefinition>A microscopy staining method that uses Hansel reagent to differentiate eosinophils and neutrophils in a specimen. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Hansel Staining Method</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="HEMAGGLUTINATION ASSAY" nciodm:ExtCodeID="C130173">
+                    <nciodm:CDISCDefinition>An in vitro assay that is used to determine the relative concentration of viruses, bacteria, or antibodies in which serial dilutions of solution containing virus, bacteria, or antibody are applied to red blood cells in culture to look for the presence of hemagglutination.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Hemagglutination Assay</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="HEMAGGLUTINATION INHIBITION ASSAY" nciodm:ExtCodeID="C120688">
                     <nciodm:CDISCDefinition>An in vitro assay that is used to determine whether antibodies present in serum samples will inhibit hemagglutination in a cell culture plate containing red blood cells and a hemagglutinating agent.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Hemagglutination Inhibition Assay</nciodm:PreferredTerm>
@@ -396,6 +402,10 @@
                 <EnumeratedItem CodedValue="HIGH LEVEL AMINOGLYCOSIDE SCREEN" nciodm:ExtCodeID="C85556">
                     <nciodm:CDISCDefinition>A method to determine microbial susceptibility to high concentrations of aminoglycoside antibiotics.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Aminoglycoside Screening Method</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HIGH RESOLUTION MELT ANALYSIS" nciodm:ExtCodeID="C130174">
+                    <nciodm:CDISCDefinition>A reverse real-time polymerase chain reaction technique in which fluorescently labeled double-stranded DNA is slowly melted apart by increasing temperature.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>High Resolution Melt Analysis</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="HPLC" nciodm:ExtCodeID="C16434">
                     <nciodm:CDISCSynonym>High Performance Liquid Chromatography</nciodm:CDISCSynonym>
@@ -505,6 +515,10 @@
                 <EnumeratedItem CodedValue="IVY INCISION METHOD" nciodm:ExtCodeID="C122167">
                     <nciodm:CDISCDefinition>A method for assessing bleeding time in which a controlled incision is made on the underside of the arm and blood is drawn off of the incision site with blotting paper every 30 seconds until bleeding stops.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Ivy Incision Method</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="JAEGER EYE CHART" nciodm:ExtCodeID="C130175">
+                    <nciodm:CDISCDefinition>A diagrammatic method to test visual acuity that uses paragraphs of text in differing font sizes to assess near vision.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Jaeger Eye Chart</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="JAFFE REACTION" nciodm:ExtCodeID="C120694">
                     <nciodm:CDISCDefinition>A colorimetric method used to measure creatinine, in which color change is directly related to the amount of creatinine in an alkaline solution containing picric acid.</nciodm:CDISCDefinition>
@@ -679,6 +693,10 @@
                     <nciodm:CDISCDefinition>A type of spiral computed tomography that employs multiple rows of detectors, each capable of producing a simultaneous image (slice). (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Multi-slice Spiral Computed Tomography</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="MULTIPLE BREATH WASHOUT" nciodm:ExtCodeID="C130176">
+                    <nciodm:CDISCDefinition>A test of lung function in which changes in exhaled tracer gas concentration is analyzed for a specified number of tidal expirations, a defined period of time, or a defined index of expired gas volume.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Multiple Breath Washout</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="MULTIPLE-COMPLETE-DIGEST RESTRICTION FRAGMENT MAPPING" nciodm:ExtCodeID="C116160">
                     <nciodm:CDISCSynonym>Multiple Complete Digestion</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A DNA mapping technique based on complete restriction enzyme digestion of a set of overlapping clones that provides highly redundant coverage of the mapping target.</nciodm:CDISCDefinition>
@@ -686,7 +704,7 @@
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="MULTIPLEX LIGATION-DEPENDENT PROBE AMPLIFICATION" nciodm:ExtCodeID="C116161">
                     <nciodm:CDISCSynonym>MLPA</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A type of high-throughput , multiplex PCR method that uses a single pair of PCR primers to amplify multiple targets and to determine changes in complex genomes.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A type of high-throughput, multiplex PCR method that uses a single pair of PCR primers to amplify multiple targets and to determine changes in complex genomes.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Multiplex Ligation-dependent Probe Amplification</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="NEPHELOMETRY" nciodm:ExtCodeID="C111281">
@@ -702,9 +720,17 @@
                     <nciodm:CDISCDefinition>Technologies that facilitate the rapid determination of the DNA sequence of large numbers of strands or segments of DNA, using spatially separated, clonally amplified DNA templates or molecules in a flow cell.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Next Generation Sequencing</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="NEXT GENERATION TARGETED SEQUENCING" nciodm:ExtCodeID="C130177">
+                    <nciodm:CDISCDefinition>A type of next generation sequencing in which specific genes or portions of genes are targeted for sequencing using amplicon-based workflow.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Next Generation Targeted Sequencing</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="NON-CONTACT SPECULAR MICROSCOPY" nciodm:ExtCodeID="C120697">
                     <nciodm:CDISCDefinition>A type of specular microscopy in which the specular microscope does not make contact with the cornea of the eye.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Non-Contact Specular Microscopy</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NUCLEAR MAGNETIC RESONANCE SPECTROSCOPY" nciodm:ExtCodeID="C16810">
+                    <nciodm:CDISCDefinition>A type of spectroscopy that detects and measures the resonant spectra of molecular species in a tissue or sample.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Magnetic Resonance Spectroscopy</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="NUCLEAR RADIOLOGY" nciodm:ExtCodeID="C127514">
                     <nciodm:CDISCDefinition>Any type of imaging method that uses radioactive materials.</nciodm:CDISCDefinition>
@@ -761,7 +787,7 @@
                 <EnumeratedItem CodedValue="PAP STAIN" nciodm:ExtCodeID="C128984">
                     <nciodm:CDISCSynonym>Papanicolau Stain</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A microscopy staining method that utilizes a mixture of dyes including hematoxylin, orange G (OG), and eosin azure, which contains variable portions of Eosin Y, light green SF yellowish, and Bismarck brown Y. This multichromatic staining method is used to differentially stain samples containing mixed cell populations.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Papanicolau Staining Method</nciodm:PreferredTerm>
+                    <nciodm:PreferredTerm>Papanicolaou Staining Method</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="PARTICLE-ENHANCED NEPHELOMETRIC IMMUNOASSAY" nciodm:ExtCodeID="C125952">
                     <nciodm:CDISCSynonym>PENIA</nciodm:CDISCSynonym>
@@ -817,6 +843,10 @@
                     <nciodm:CDISCDefinition>A microscopic technique in which the amplitude shift that occurs when light passes through a specimen highlights structures or details within the specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Phase-Contrast Microscopy</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="PHENOTYPIC MULTIPLE ANTIGEN BEAD-BASED MULTIPLEX ASSAY" nciodm:ExtCodeID="C130178">
+                    <nciodm:CDISCDefinition>A type of solid-phase multiplex assay that uses microbeads coated with recombinant or purified antigens that will identify multiple antibodies.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Phenotypic Multiple Antigen Bead-based Multiplex Assay</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="PHOROPTER" nciodm:ExtCodeID="C120699">
                     <nciodm:CDISCDefinition>An instrument composed of multiple lenses that refract the light going into the subject's eye, allowing the examiner to determine the refractive error of the eye.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Phoropter</nciodm:PreferredTerm>
@@ -852,6 +882,10 @@
                     <nciodm:CDISCSynonym>PSG</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A group of tests taken during sleep to capture and record brain wave changes, eye movements, breathing rate, blood pressure, heart rate, and the electrical activity of the heart and other muscles.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Polysomnography</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PULSE OXIMETRY" nciodm:ExtCodeID="C38085">
+                    <nciodm:CDISCDefinition>A non-invasive method that provides estimates of arterial hemoglobin oxygen saturation by utilizing selected wavelengths of light.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Pulse Oximetry</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="PUPILLOMETRY" nciodm:ExtCodeID="C120700">
                     <nciodm:CDISCDefinition>A technique used to measure the diameter of a single pupil in response to stimuli.</nciodm:CDISCDefinition>
@@ -922,6 +956,10 @@
                     <nciodm:CDISCDefinition>A microscopy staining method that utilizes a modified trichrome stain to determine the presence of microspordial, sporulating species. This staining technique substitutes aniline blue for the fast green counterstain of the original trichrome staining method and decreased levels of phosphotungstic acid in the reagent.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Ryan Blue Staining Method</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="SANGER SEQUENCING" nciodm:ExtCodeID="C19641">
+                    <nciodm:CDISCDefinition>A DNA sequencing technique in which a mixture of deoxynucleosidetriphosphates (dNTPs) and chain-terminating dNTPs (which are radioactively or fluorescently labeled) are combined within the reaction mixture. Once the polymerase chain reaction is complete the DNA strands are separated by size and the labeled chain terminating dNTPs can be read in sequence by the investigator or a machine.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Dideoxy Chain Termination DNA Sequencing</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="SCANNING ELECTRON MICROSCOPY" nciodm:ExtCodeID="C16855">
                     <nciodm:CDISCDefinition>An electron microscopy imaging technique that is utilized to examine structural components of a sample by passing electrons through a specimen that has been coated with a heavy metal.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Scanning Electron Microscopy</nciodm:PreferredTerm>
@@ -930,13 +968,37 @@
                     <nciodm:CDISCDefinition>An imaging technique that uses a small dose of a radioactive chemical (isotope) called a tracer that can detect sites of cancer growth, trauma, infection or degenerative disorders. The tracer, which is either injected into a vein or swallowed, travels through the bloodstream to the target organ, and emits gamma rays, which are detected by a gamma camera and analyzed by a computer to form an image of the target organ. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Radionuclide Imaging</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="SEQUENCE SPECIFIC PRIMER POLYMERASE CHAIN REACTION" nciodm:ExtCodeID="C130179">
+                    <nciodm:CDISCSynonym>PCR-SSP</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A modified polymerase chain reaction (PCR) technique in which primer pair(s) are used to select a highly specific nucleotide sequence of interest, which will be the only sequence amplified.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Allele Specific Primer Polymerase Chain Reaction</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SEQUENCE-BASED TYPING POLYMERASE CHAIN REACTION" nciodm:ExtCodeID="C130180">
+                    <nciodm:CDISCSynonym>SBT</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A method that uses PCR amplification of specific nucleotides to produce templates and primers that are used to provide the entirety of the nucleotide sequence of a specific DNA strand, allowing for reliable and thorough genotyping of the allele in question.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Sequence-based Typing</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SEQUENCE-SPECIFIC OLIGONUCLEOTIDE PROBE POLYMERASE CHAIN REACTION" nciodm:ExtCodeID="C130181">
+                    <nciodm:CDISCSynonym>PCR-SSOP</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A modified polymerase chain reaction (PCR) technique that uses distinct probes, specifically synthesized according to the polymorphic region of the gene of interest, to detect nucleotide differences during genotype testing.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Sequence-specific Oligonucleotide Probe Polymerase Chain Reaction</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="SEQUENCING" nciodm:ExtCodeID="C116155">
                     <nciodm:CDISCDefinition>A process to identify and determine the primary structure of, and the order of constituents in a biopolymer. Used when a more specific sequencing methodology is not specified.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Biopolymer Sequencing</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="SINGLE ANTIGEN BEAD-BASED MULTIPLEX ASSAY" nciodm:ExtCodeID="C130182">
+                    <nciodm:CDISCDefinition>A type of solid-phase multiplex assay that uses microbeads coated with a recombinant or purified antigen that will identify a single antibody.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Single Antigen Bead-based Multiplex Assay</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="SINGLE-SLICE SPIRAL CT" nciodm:ExtCodeID="C106567">
                     <nciodm:CDISCDefinition>A type of spiral computed tomography that employs only one detector and produces one image (slice). (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Single-slice Spiral Computed Tomography</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SINGLE-STRAND CONFORMATION POLYMERASE CHAIN REACTION" nciodm:ExtCodeID="C130183">
+                    <nciodm:CDISCSynonym>PCR-SSCP</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A modified polymerase chain reaction (PCR) technique followed by electrophoresis such that DNA molecular weights and three-dimensional structures are used to identify mutations.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Single-strand Conformation Polymerase Chain Reaction</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="SIZE EXCLUSION CHROMATOGRAPHY" nciodm:ExtCodeID="C16433">
                     <nciodm:CDISCDefinition>Gel permeation or sieve chromatography that is performed on porous gels that separate solutes on the basis of size.</nciodm:CDISCDefinition>
@@ -1044,6 +1106,14 @@
                 <EnumeratedItem CodedValue="TRICHROME STAIN" nciodm:ExtCodeID="C23012">
                     <nciodm:CDISCDefinition>A microscopy staining method that utilizes two or more colored, acidic dyes of contrasting colors. Masson trichrome is a mixture of three dyes including aniline blue, Beibrich scarlet and Weigert's iron hematoxylin. Other related, modified trichrome staining methods include Lillie's trichrome, Gomori's trichrome and Mallory's trichrome.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Trichrome Staining Method</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TRIPLE-PHASE MRI SCAN" nciodm:ExtCodeID="C130184">
+                    <nciodm:CDISCDefinition>A type of magnetic resonance imaging (MRI) in which images are taken during three distinct timing points (phases) following the injection of contrast material: arterial, venous, and delayed.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Triple Phase MRI</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TRIPLE-PHASE SPIRAL CT SCAN" nciodm:ExtCodeID="C19907">
+                    <nciodm:CDISCDefinition>A type of computed tomography (CT) in which images are taken during three distinct timing points (phases) following the injection of contrast material: arterial, venous, and delayed.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Triple-Phase Spiral CT</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="TURBIDIMETRY" nciodm:ExtCodeID="C111328">
                     <nciodm:CDISCDefinition>A method to quantify the opaqueness of a liquid using a turbidimeter, by measuring the decrease in light intensity due to the scattering effect of suspended particles in the liquid sample.</nciodm:CDISCDefinition>

@@ -4,7 +4,7 @@
                 </Description>
                 <EnumeratedItem CodedValue="%" nciodm:ExtCodeID="C25613">
                     <nciodm:CDISCSynonym>Percentage</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A fraction or ratio with 100 understood as the denominator. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>One hundred times the quotient of one quantity divided by another, with the same units of measurement.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Percentage</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="(L/day)/(kg/m2)" nciodm:ExtCodeID="C120727">
@@ -637,8 +637,7 @@
                     <nciodm:PreferredTerm>Hour Squared Times Micromole Per Liter</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="IU/day" nciodm:ExtCodeID="C85645">
-                    <nciodm:CDISCSynonym>IU/d</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>International units per day.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A unit of substance (biologic activity) flow rate equal to one international unit per day.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>International Unit per Day</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="IU/h" nciodm:ExtCodeID="C85646">
@@ -669,7 +668,7 @@
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="L" nciodm:ExtCodeID="C48505">
                     <nciodm:CDISCSynonym>Liter</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A unit of volume equal to a cubic decimeter, or one thousandth of cubic meter, or 1000 cubic centimeters, or approximately 61.023 744 cubic inches.(NCI)</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A unit of volume equal to one thousandth (10E-3) of a cubic meter, the cubic meter being the standard derived unit of volume in the International System of Units (SI).</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Liter</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="L/(kg/m2)" nciodm:ExtCodeID="C120806">
@@ -691,11 +690,11 @@
                     <nciodm:PreferredTerm>Liter Divided by Microgram per Day</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="L/day" nciodm:ExtCodeID="C69110">
-                    <nciodm:CDISCDefinition>A unit of flow rate, defined as a rate of one liter per day.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A unit of flow rate equal to one liter per day.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Liter per Day</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="L/h" nciodm:ExtCodeID="C69160">
-                    <nciodm:CDISCDefinition>A unit of flow rate, defined as a rate of one liter per hour.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A unit of flow rate equal to one liter per hour.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Liter per Hour</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="L/m2" nciodm:ExtCodeID="C120814">
@@ -703,7 +702,7 @@
                     <nciodm:PreferredTerm>Liter per Meter Squared</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="L/min" nciodm:ExtCodeID="C67388">
-                    <nciodm:CDISCDefinition>A unit of flow rate, defined as a rate of one liter per minute.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A unit of flow rate equal to one liter per minute.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Liter per Minute</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="mg" nciodm:ExtCodeID="C28253">
@@ -991,7 +990,7 @@
                 <EnumeratedItem CodedValue="mL" nciodm:ExtCodeID="C28254">
                     <nciodm:CDISCSynonym>Milliliter</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>cm3</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>The unit of volume equal to one thousandth of a liter, one cubic centimeter, 10E-6 cubic meter, or approximately to 0.061 023 7 cubic inch.(NCI)</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A unit of volume equal to one thousandth (10E-3) of a liter.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Milliliter</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="mL/(kg/m2)" nciodm:ExtCodeID="C120816">
@@ -1003,11 +1002,11 @@
                     <nciodm:PreferredTerm>Milliliter per Microgram per Kilogram</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="mL/day" nciodm:ExtCodeID="C67410">
-                    <nciodm:CDISCDefinition>A unit of flow rate, defined as a rate of one milliliter per day.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A unit of flow rate equal to one milliliter per day.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Milliliter per 24 Hours</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="mL/h" nciodm:ExtCodeID="C66962">
-                    <nciodm:CDISCDefinition>A unit of flow rate, defined as a rate of one milliliter per hour.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A unit of flow rate equal to one milliliter per hour.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Milliliter per Hour</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="mL/m2" nciodm:ExtCodeID="C73761">
@@ -1015,7 +1014,7 @@
                     <nciodm:PreferredTerm>Milliliter per Square Meter</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="mL/min" nciodm:ExtCodeID="C64777">
-                    <nciodm:CDISCDefinition>A unit of flow rate, defined as a rate of one milliliter per minute.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A unit of flow rate equal to one milliliter per minute.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Milliliter per Minute</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="mmol" nciodm:ExtCodeID="C48513">
@@ -1057,8 +1056,7 @@
                     <nciodm:PreferredTerm>Mole</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="mol/day" nciodm:ExtCodeID="C85737">
-                    <nciodm:CDISCSynonym>mol/d</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Moles per day.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A unit of substance flow rate equal to one mole per day.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Mole per Day</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="mol/h" nciodm:ExtCodeID="C85738">
@@ -1086,7 +1084,7 @@
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="ng" nciodm:ExtCodeID="C48516">
                     <nciodm:CDISCSynonym>Nanogram</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A unit of mass equal to one billionth (10E-9) of a gram, or one millionth (10E-6) of a milligram.(NCI)</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A unit of mass equal to one billionth (10E-9) of a gram.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Nanogram</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="ng/day" nciodm:ExtCodeID="C85741">
@@ -1126,8 +1124,7 @@
                     <nciodm:PreferredTerm>Nanomole</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="nmol/day" nciodm:ExtCodeID="C85751">
-                    <nciodm:CDISCSynonym>nmol/d</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Nanomoles per day.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A unit of substance flow rate equal to one nanomole per day.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Nanomole per Day</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="nmol/h" nciodm:ExtCodeID="C85753">
@@ -1196,13 +1193,13 @@
                     <nciodm:PreferredTerm>Picomole per Liter per Meter Squared</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="RATIO" nciodm:ExtCodeID="C44256">
-                    <nciodm:CDISCDefinition>A unit of measurement for the quotient of the amount of one entity to another.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>The quotient of one quantity divided by another, with the same units of measurement.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Ratio</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="ug" nciodm:ExtCodeID="C48152">
                     <nciodm:CDISCSynonym>Microgram</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>mcg</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>The unit of mass equal to one millionth of a gram or one thousandth of a milligram.(NCI)</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A unit of mass equal to one millionth (10E-6) of a gram.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Microgram</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="ug/day" nciodm:ExtCodeID="C71205">
@@ -1264,9 +1261,8 @@
                     <nciodm:PreferredTerm>Micromole</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="umol/day" nciodm:ExtCodeID="C67406">
-                    <nciodm:CDISCSynonym>Micromoles per Day</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>mcmol/day</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A unit of amount of substance flow rate equivalent to the rate at which one millionth of a mole of substance travels to a given object or space over a period of time equal to 24 hours.(NCI)</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A unit of substance flow rate equal to one micromole per day.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Micromole per 24 Hours</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="umol/h" nciodm:ExtCodeID="C85707">
@@ -1274,7 +1270,7 @@
                     <nciodm:PreferredTerm>Micromole per Hour</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="umol/L" nciodm:ExtCodeID="C48508">
-                    <nciodm:CDISCSynonym>Micromole per Liter</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>nmol/mL</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A unit of concentration (molarity unit) equal to one micromole of solute per liter of solution.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Micromole per Liter</nciodm:PreferredTerm>
                 </EnumeratedItem>
@@ -1288,8 +1284,7 @@
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="umol/min" nciodm:ExtCodeID="C85708">
                     <nciodm:CDISCSynonym>mcmol/min</nciodm:CDISCSynonym>
-                    <nciodm:CDISCSynonym>umol/min</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Micromoles per minute.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A unit of substance flow rate equal to one micromole per minute.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Micromole per Minute</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <nciodm:CDISCSubmissionValue>PKUNIT</nciodm:CDISCSubmissionValue>

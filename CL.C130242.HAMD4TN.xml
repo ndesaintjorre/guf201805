@@ -1,0 +1,44 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C130242.HAMD4TN" Name="Hamilton Depression Rating Scale - 6 Clinician Version Clinical Classification Test Name" DataType="text" nciodm:ExtCodeID="C130242" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Hamilton Depression Rating Scale - 6 Clinician Version test name.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="HAMD4-Depressed Mood" nciodm:ExtCodeID="C130328">
+                    <nciodm:CDISCSynonym>HAMD4-Depressed Mood</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Hamilton Depression Rating Scale 6 - Clinician Version - Depressed mood.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAM-D6 - Clinician Version - Depressed Mood</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAMD4-Low Self-esteem and Guilt" nciodm:ExtCodeID="C130329">
+                    <nciodm:CDISCSynonym>HAMD4-Low Self-esteem and Guilt</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Hamilton Depression Rating Scale 6 - Clinician Version - Low self-esteem and guilt.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAM-D6 - Clinician Version - Low Self-esteem and Guilt</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAMD4-Psychic Anxiety" nciodm:ExtCodeID="C130332">
+                    <nciodm:CDISCSynonym>HAMD4-Psychic Anxiety</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Hamilton Depression Rating Scale 6 - Clinician Version - Psychic anxiety.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAM-D6 - Clinician Version - Psychic Anxiety</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAMD4-Psychomotor Retardation, General" nciodm:ExtCodeID="C130331">
+                    <nciodm:CDISCSynonym>HAMD4-Psychomotor Retardation, General</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Hamilton Depression Rating Scale 6 - Clinician Version - Psychomotor retardation, general.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAM-D6 - Clinician Version - Psychomotor Retardation, General</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAMD4-Social Life Activities/Interests" nciodm:ExtCodeID="C130330">
+                    <nciodm:CDISCSynonym>HAMD4-Social Life Activities/Interests</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Hamilton Depression Rating Scale 6 - Clinician Version - Social life activities and interests.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAM-D6 - Clinician Version - Social Life Activities or Interests</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAMD4-Tiredness and Pains" nciodm:ExtCodeID="C130333">
+                    <nciodm:CDISCSynonym>HAMD4-Tiredness and Pains</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Hamilton Depression Rating Scale 6 - Clinician Version - Tiredness and pains.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAM-D6 - Clinician Version - Tiredness and Pains</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAMD4-Total Score" nciodm:ExtCodeID="C130334">
+                    <nciodm:CDISCSynonym>HAMD4-Total Score</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Hamilton Depression Rating Scale 6 - Clinician Version - Total score.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAM-D6 - Clinician Version - Total Score</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>HAMD4TN</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Hamilton Depression Rating Scale - 6 Clinician Version Clinical Classification Test Name</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Clinical Classification HAM-D6 Clinician Version Test Name Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

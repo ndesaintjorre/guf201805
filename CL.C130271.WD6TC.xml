@@ -1,0 +1,209 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C130271.WD6TC" Name="World Health Organization Disability Assessment Schedule 2.0 - 36-Item Proxy Questionnaire Test Code" DataType="text" nciodm:ExtCodeID="C130271" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">World Health Organization Disability Assessment Schedule 2.0 - 36-Item Proxy test code.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="WD6D1_1" nciodm:ExtCodeID="C130771">
+                    <nciodm:CDISCSynonym>WD6-Concentrating for Ten Minutes</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 36-Item Proxy - In the past 30 days, how much difficulty did your relative have in: Concentrating on doing something for ten minutes?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 36-item Version Proxy-administered - Concentrating for Ten Minutes</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD6D1_2" nciodm:ExtCodeID="C130772">
+                    <nciodm:CDISCSynonym>WD6-Remembering to Do Important Things</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 36-Item Proxy - In the past 30 days, how much difficulty did your relative have in: Remembering to do important things?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 36-item Version Proxy-administered - Remembering to Do Important Things</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD6D1_3" nciodm:ExtCodeID="C130773">
+                    <nciodm:CDISCSynonym>WD6-Finding Solutions to Problems</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 36-Item Proxy - In the past 30 days, how much difficulty did your relative have in: Analysing and finding solutions to problems in day-to-day life?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 36-item Version Proxy-administered - Finding Solutions to Problems</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD6D1_4" nciodm:ExtCodeID="C130774">
+                    <nciodm:CDISCSynonym>WD6-Learning a New Task</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 36-Item Proxy - In the past 30 days, how much difficulty did your relative have in: Learning a new task, for example, learning how to get to a new place?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 36-item Version Proxy-administered - Learning a New Task</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD6D1_5" nciodm:ExtCodeID="C130775">
+                    <nciodm:CDISCSynonym>WD6-Understanding What People Say</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 36-Item Proxy - In the past 30 days, how much difficulty did your relative have in: Generally understanding what people say?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 36-item Version Proxy-administered - Understanding What People Say</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD6D1_6" nciodm:ExtCodeID="C130776">
+                    <nciodm:CDISCSynonym>WD6-Starting/Maintaining Conversation</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 36-Item Proxy - In the past 30 days, how much difficulty did your relative have in: Starting and maintaining a conversation?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 36-item Version Proxy-administered - Starting or Maintaining Conversation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD6D2_1" nciodm:ExtCodeID="C130777">
+                    <nciodm:CDISCSynonym>WD6-Standing for Long Periods</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 36-Item Proxy - In the past 30 days, how much difficulty did your relative have in: Standing for long periods such as 30 minutes?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 36-item Version Proxy-administered - Standing for Long Periods</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD6D2_2" nciodm:ExtCodeID="C130778">
+                    <nciodm:CDISCSynonym>WD6-Standing Up From Sitting Down</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 36-Item Proxy - In the past 30 days, how much difficulty did your relative have in: Standing up from sitting down?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 36-item Version Proxy-administered - Standing Up From Sitting Down</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD6D2_3" nciodm:ExtCodeID="C130779">
+                    <nciodm:CDISCSynonym>WD6-Moving Around Inside Their Home</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 36-Item Proxy - In the past 30 days, how much difficulty did your relative have in: Moving around inside their home?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 36-item Version Proxy-administered - Moving Around Inside Their Home</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD6D3_1" nciodm:ExtCodeID="C130782">
+                    <nciodm:CDISCSynonym>WD6-Washing His/Her Whole Body</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 36-Item Proxy - Because of their health condition, in the past 30 days, how much difficulty did your relative have in: Washing his or her whole body?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 36-item Version Proxy-administered - Washing His or Her Whole Body</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD6D3_2" nciodm:ExtCodeID="C130783">
+                    <nciodm:CDISCSynonym>WD6-Getting Dressed</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 36-Item Proxy - Because of their health condition, in the past 30 days, how much difficulty did your relative have in: Getting dressed?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 36-item Version Proxy-administered - Getting Dressed</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD6D3_3" nciodm:ExtCodeID="C130784">
+                    <nciodm:CDISCSynonym>WD6-Eating</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 36-Item Proxy - Because of their health condition, in the past 30 days, how much difficulty did your relative have in: Eating?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 36-item Version Proxy-administered - Eating</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD6D3_4" nciodm:ExtCodeID="C130785">
+                    <nciodm:CDISCSynonym>WD6-Staying by Him/Herself a Few Days</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 36-Item Proxy - Because of their health condition, in the past 30 days, how much difficulty did your relative have in: Staying by himself or herself for a few days?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 36-item Version Proxy-administered - Staying by Him or Herself a Few Days</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD6D4_1" nciodm:ExtCodeID="C130786">
+                    <nciodm:CDISCSynonym>WD6-Dealing With People Does Not Know</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 36-Item Proxy - Because of their health condition, in the past 30 days, how much difficulty did your relative have in: Dealing with people he or she does not know?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 36-item Version Proxy-administered - Dealing With People Does Not Know</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD6D4_2" nciodm:ExtCodeID="C130787">
+                    <nciodm:CDISCSynonym>WD6-Maintaining a Friendship</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 36-Item Proxy - Because of their health condition, in the past 30 days, how much difficulty did your relative have in: Maintaining a friendship?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 36-item Version Proxy-administered - Maintaining a Friendship</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD6D4_3" nciodm:ExtCodeID="C130788">
+                    <nciodm:CDISCSynonym>WD6-Get Along With People Close to Him</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 36-Item Proxy - Because of their health condition, in the past 30 days, how much difficulty did your relative have in: Getting along with people who are close to him or her?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 36-item Version Proxy-administered - Get Along With People Close to Him</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD6D4_4" nciodm:ExtCodeID="C130789">
+                    <nciodm:CDISCSynonym>WD6-Making New Friends</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 36-Item Proxy - Because of their health condition, in the past 30 days, how much difficulty did your relative have in: Making new friends?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 36-item Version Proxy-administered - Making New Friends</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD6D4_5" nciodm:ExtCodeID="C130790">
+                    <nciodm:CDISCSynonym>WD6-Sexual Activities</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 36-Item Proxy - Because of their health condition, in the past 30 days, how much difficulty did your relative have in: Sexual activities?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 36-item Version Proxy-administered - Sexual Activities</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD6D5_1" nciodm:ExtCodeID="C130791">
+                    <nciodm:CDISCSynonym>WD6-Care of Household Responsibilities</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 36-Item Proxy - Because of their health condition, in the past 30 days, how much difficulty did your relative have in: Taking care of his or her household responsibilities?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 36-item Version Proxy-administered - Care of Household Responsibilities</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD6D5_2" nciodm:ExtCodeID="C130792">
+                    <nciodm:CDISCSynonym>WD6-Doing Important Household Tasks</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 36-Item Proxy - Because of their health condition, in the past 30 days, how much difficulty did your relative have in: Doing his or her most important household tasks well?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 36-item Version Proxy-administered - Doing Important Household Tasks</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD6D5_3" nciodm:ExtCodeID="C130793">
+                    <nciodm:CDISCSynonym>WD6-Getting Household Work Done Needed</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 36-Item Proxy - Because of their health condition, in the past 30 days, how much difficulty did your relative have in: Getting all the household work done that is needed?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 36-item Version Proxy-administered - Getting Household Work Done Needed</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD6D5_4" nciodm:ExtCodeID="C130794">
+                    <nciodm:CDISCSynonym>WD6-Getting Household Work Done Quickly</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 36-Item Proxy - Because of their health condition, in the past 30 days, how much difficulty did your relative have in: Getting the household work done as quickly as needed?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 36-item Version Proxy-administered - Getting Household Work Done Quickly</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD6D5_5" nciodm:ExtCodeID="C130795">
+                    <nciodm:CDISCSynonym>WD6-Their Day-to-Day Work/School</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 36-Item Proxy - In the past 30 days, how much difficulty did your relative have in: His or her day-to-day work/school?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 36-item Version Proxy-administered - Their Day-to-Day Work or School</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD6D5_6" nciodm:ExtCodeID="C130796">
+                    <nciodm:CDISCSynonym>WD6-Doing Important Work/School Tasks</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 36-Item Proxy - In the past 30 days, how much difficulty did your relative have in: Doing his or her most important work/school tasks well?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 36-item Version Proxy-administered - Doing Important Work or School Tasks</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD6D5_7" nciodm:ExtCodeID="C130797">
+                    <nciodm:CDISCSynonym>WD6-Getting All Work Done You Need</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 36-Item Proxy - In the past 30 days, how much difficulty did your relative have in: Getting all the work done that is needed?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 36-item Version Proxy-administered - Getting All Work Done You Need</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD6D5_8" nciodm:ExtCodeID="C130798">
+                    <nciodm:CDISCSynonym>WD6-Getting Work Done Quickly as Needed</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 36-Item Proxy - In the past 30 days, how much difficulty did your relative have in: Getting the work done as quickly as needed?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 36-item Version Proxy-administered - Getting Work Done Quickly as Needed</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD6D6_1" nciodm:ExtCodeID="C130799">
+                    <nciodm:CDISCSynonym>WD6-Problem Joining Community Activities</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 36-Item Proxy - Participation in society in the past 30 days: How much of a problem did your relative have in joining in community activities (for example, festivities, religious or other activities) in the same way as anyone else can?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 36-item Version Proxy-administered - Problem Joining Community Activities</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD6D6_2" nciodm:ExtCodeID="C130800">
+                    <nciodm:CDISCSynonym>WD6-Problem Because of Barriers in World</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 36-Item Proxy - Participation in society in the past 30 days: How much of a problem did your relative have because of barriers or hindrances in the world around him or her?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 36-item Version Proxy-administered - Problem Because of Barriers in World</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD6D6_3" nciodm:ExtCodeID="C130801">
+                    <nciodm:CDISCSynonym>WD6-Problem Living with Dignity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 36-Item Proxy - Participation in society in the past 30 days: How much of a problem did your relative have living with dignity because of the attitudes and actions of others?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 36-item Version Proxy-administered - Problem Living with Dignity</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD6D6_4" nciodm:ExtCodeID="C130802">
+                    <nciodm:CDISCSynonym>WD6-Time Spend on Your Health Condition</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 36-Item Proxy - Participation in society in the past 30 days: How much time did your relative spend on his or her health condition, or its consequences?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 36-item Version Proxy-administered - Time Spend on Your Health Condition</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD6D6_5" nciodm:ExtCodeID="C130803">
+                    <nciodm:CDISCSynonym>WD6-Emotionally Affected by Health</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 36-Item Proxy - Participation in society in the past 30 days: How much has your relative been emotionally affected by his or her health condition?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 36-item Version Proxy-administered - Emotionally Affected by Health</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD6D6_6" nciodm:ExtCodeID="C130804">
+                    <nciodm:CDISCSynonym>WD6-Drain on Financial Resources</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 36-Item Proxy - Participation in society in the past 30 days: How much has his or her health been a drain on his or her financial resources or on the financial resources of other relatives?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 36-item Version Proxy-administered - Drain on Financial Resources</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD6D6_7" nciodm:ExtCodeID="C130805">
+                    <nciodm:CDISCSynonym>WD6-Problem Did Your Family Have</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 36-Item Proxy - Participation in society in the past 30 days: How much of a problem did you or the rest of his or her family have because of his or her health problems?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 36-item Version Proxy-administered - Problem Did Your Family Have</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD6D6_8" nciodm:ExtCodeID="C130806">
+                    <nciodm:CDISCSynonym>WD6-Problem Doing Things for Relaxation</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 36-Item Proxy - Participation in society in the past 30 days: How much of a problem did your relative have in doing things by himself or herself for relaxation or pleasure?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 36-item Version Proxy-administered - Problem Doing Things for Relaxation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD6H1" nciodm:ExtCodeID="C130807">
+                    <nciodm:CDISCSynonym>WD6-How Many Days Difficulties Present</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 36-Item Proxy - Overall, in the past 30 days, how many days were these difficulties present?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 36-item Version Proxy-administered - How Many Days Difficulties Present</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD6H2" nciodm:ExtCodeID="C130808">
+                    <nciodm:CDISCSynonym>WD6-Days Unable to Carry Out Activities</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 36-Item Proxy - In the past 30 days, for how many days was your relative totally unable to carry out his or her usual activities or work because of any health condition?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 36-item Version Proxy-administered - Days Unable to Carry Out Activities</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD6H3" nciodm:ExtCodeID="C130809">
+                    <nciodm:CDISCSynonym>WD6-How Many Days Reduce Activities</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 36-Item Proxy - In the past 30 days, not counting the days that your relative was totally unable, for how many days did your relative cut back or reduce his or her usual activities or work because of any health condition?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 36-item Version Proxy-administered - How Many Days Reduce Activities</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD6H4" nciodm:ExtCodeID="C130770">
+                    <nciodm:CDISCSynonym>WD6-I Am (Fill in Blank) of This Person</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 36-Item Proxy - I am the (Fill in the Blank) of this person.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 36-item Version Proxy-administered - I Am (Fill in the Blank) of this Person</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD6SD2_4" nciodm:ExtCodeID="C130780">
+                    <nciodm:CDISCSynonym>WD6-Getting Out of Their Home</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 36-Item Proxy - In the past 30 days, how much difficulty did your relative have in: Getting out of their home?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 36-item Version Proxy-administered - Getting Out of Their Home</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD6SD2_5" nciodm:ExtCodeID="C130781">
+                    <nciodm:CDISCSynonym>WD6-Walking a Long Distance</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 36-Item Proxy - In the past 30 days, how much difficulty did your relative have in: Walking a long distance such as a kilometre [or equivalent]?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 36-item Version Proxy-administered - Walking a Long Distance</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>WD6TC</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>World Health Organization Disability Assessment Schedule 2.0 - 36-Item Proxy Questionnaire Test Code</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Questionnaire WHODAS 2.0 36-item Version Proxy-administered Test Code Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

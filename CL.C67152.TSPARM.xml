@@ -453,14 +453,14 @@
                     <nciodm:CDISCDefinition>The type of experimental design used to describe the level of awareness of the clinical trial subjects and/or investigators of the intervention(s) that they are receiving and/or administering.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Trial Blinding Schema</nciodm:PreferredTerm>
                 </EnumeratedItem>
-                <EnumeratedItem CodedValue="Trial Indication" nciodm:ExtCodeID="C112038">
-                    <nciodm:CDISCSynonym>Trial Indication</nciodm:CDISCSynonym>
+                <EnumeratedItem CodedValue="Trial Disease/Condition Indication" nciodm:ExtCodeID="C112038">
+                    <nciodm:CDISCSynonym>Trial Disease/Condition Indication</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The condition, disease or disorder that the clinical trial is intended to investigate or address.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Trial Indication</nciodm:PreferredTerm>
                 </EnumeratedItem>
-                <EnumeratedItem CodedValue="Trial Indication Type" nciodm:ExtCodeID="C49652">
-                    <nciodm:CDISCSynonym>Trial Indication Type</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>The name of a code list that contains terms to define the type of trial, e.g. cure or prevention. (NCI)</nciodm:CDISCDefinition>
+                <EnumeratedItem CodedValue="Trial Intent Type" nciodm:ExtCodeID="C49652">
+                    <nciodm:CDISCSynonym>Trial Intent Type</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The planned purpose of the therapy, device, or agent under study in the clinical trial.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Clinical Study by Intent</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Trial is Randomized" nciodm:ExtCodeID="C25196">

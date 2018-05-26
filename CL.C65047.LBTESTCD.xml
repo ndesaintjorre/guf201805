@@ -760,6 +760,16 @@
                     <nciodm:CDISCDefinition>A measurement of the basophils in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Total Basophil Count</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="BASOB" nciodm:ExtCodeID="C130154">
+                    <nciodm:CDISCSynonym>Basophils Band Form</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the banded basophils in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Basophil Band Form Count</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BASOBLE" nciodm:ExtCodeID="C130155">
+                    <nciodm:CDISCSynonym>Basophils Band Form/Leukocytes</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A relative measurement (ratio or percentage) of the banded basophils to leukocytes in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Basophil Band Form to Leukocytes Ratio Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="BASOCE" nciodm:ExtCodeID="C98865">
                     <nciodm:CDISCSynonym>Basophils/Total Cells</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A relative measurement (ratio or percentage) of the basophils to total cells in a biological specimen (for example a bone marrow specimen).</nciodm:CDISCDefinition>
@@ -784,30 +794,30 @@
                     <nciodm:CDISCSynonym>Borrelia burgdorferi Antibody</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Lyme Antibody</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the total Borrelia burgdorferi antibody in a biological specimen.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Borrelia burgdorferi Antibody Measurement</nciodm:PreferredTerm>
+                    <nciodm:PreferredTerm>Borrelia Burgdorferi Antibody Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="BBRIGAAB" nciodm:ExtCodeID="C122099">
                     <nciodm:CDISCSynonym>Borrelia burgdorferi IgA Antibody</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Lyme IgA Antibody</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the Borrelia burgdorferi IgA antibody in a biological specimen.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Borrelia burgdorferi IgA Antibody Measurement</nciodm:PreferredTerm>
+                    <nciodm:PreferredTerm>Borrelia Burgdorferi IgA Antibody Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="BBRIGGAB" nciodm:ExtCodeID="C122100">
                     <nciodm:CDISCSynonym>Borrelia burgdorferi IgG Antibody</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Lyme IgG Antibody</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the Borrelia burgdorferi IgG antibody in a biological specimen.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Borrelia burgdorferi IgG Antibody Measurement</nciodm:PreferredTerm>
+                    <nciodm:PreferredTerm>Borrelia Burgdorferi IgG Antibody Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="BBRIGMAB" nciodm:ExtCodeID="C122101">
                     <nciodm:CDISCSynonym>Borrelia burgdorferi IgM Antibody</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Lyme IgM Antibody</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the Borrelia burgdorferi IgM antibody in a biological specimen.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Borrelia burgdorferi IgM Antibody Measurement</nciodm:PreferredTerm>
+                    <nciodm:PreferredTerm>Borrelia Burgdorferi IgM Antibody Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="BCEFNCTN" nciodm:ExtCodeID="C123455">
                     <nciodm:CDISCSynonym>Beta-cell Function</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the beta cell function (insulin production and secretion) in a biological specimen.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Beta-cell Function Measurement</nciodm:PreferredTerm>
+                    <nciodm:PreferredTerm>Beta-Cell Function Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="BD2" nciodm:ExtCodeID="C122102">
                     <nciodm:CDISCSynonym>Beta-defensin 2</nciodm:CDISCSynonym>
@@ -970,6 +980,7 @@
                     <nciodm:PreferredTerm>Sideroblast Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="BLYMXM" nciodm:ExtCodeID="C128951">
+                    <nciodm:CDISCSynonym>B-lymphocyte Crossmatch</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement to determine human leukocyte antigens (HLA) histocompatibility between the recipient and the donor by examining the presence or absence of the recipient's anti-HLA antibody reactivity towards HLA antigens expressed on the donor B-lymphocytes.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>B-lymphocyte Crossmatch Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
@@ -1039,6 +1050,440 @@
                     <nciodm:CDISCSynonym>Keratocytes</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the Burr cells (erythrocytes characterized by the presence of small, blunt projections evenly distributed across the cell surface) in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Burr Cell Count</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C130068" nciodm:ExtCodeID="C130068">
+                    <nciodm:CDISCSynonym>Bermuda Grass Pollen IgE</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Cynodon dactylon pollen antigen IgE antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Bermuda Grass Pollen IgE Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C130069" nciodm:ExtCodeID="C130069">
+                    <nciodm:CDISCSynonym>Bermuda Grass Pollen IgA</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Cynodon dactylon pollen antigen IgA antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Bermuda Grass Pollen IgA Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C130070" nciodm:ExtCodeID="C130070">
+                    <nciodm:CDISCSynonym>Bermuda Grass Pollen IgG</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Cynodon dactylon pollen antigen IgG antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Bermuda Grass Pollen IgG Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C130071" nciodm:ExtCodeID="C130071">
+                    <nciodm:CDISCSynonym>Bermuda Grass Pollen IgG4</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Cynodon dactylon pollen antigen IgG4 antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Bermuda Grass Pollen IgG4 Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C130072" nciodm:ExtCodeID="C130072">
+                    <nciodm:CDISCSynonym>Birch Pollen IgE</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Betula pollen antigen IgE antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Birch Pollen IgE Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C130073" nciodm:ExtCodeID="C130073">
+                    <nciodm:CDISCSynonym>Birch Pollen IgA</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Betula pollen antigen IgA antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Birch Pollen IgA Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C130074" nciodm:ExtCodeID="C130074">
+                    <nciodm:CDISCSynonym>Birch Pollen IgG</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Betula pollen antigen IgG antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Birch Pollen IgG Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C130075" nciodm:ExtCodeID="C130075">
+                    <nciodm:CDISCSynonym>Birch Pollen IgG4</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Betula pollen antigen IgG4 antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Birch Pollen IgG4 Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C130076" nciodm:ExtCodeID="C130076">
+                    <nciodm:CDISCSynonym>Silver Birch Pollen IgE</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Betula verrucosa pollen antigen IgE antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Silver Birch Pollen IgE Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C130077" nciodm:ExtCodeID="C130077">
+                    <nciodm:CDISCSynonym>Silver Birch Pollen IgA</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Betula verrucosa pollen antigen IgA antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Silver Birch Pollen IgA Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C130078" nciodm:ExtCodeID="C130078">
+                    <nciodm:CDISCSynonym>Silver Birch Pollen IgG</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Betula verrucosa pollen antigen IgG antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Silver Birch Pollen IgG Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C130079" nciodm:ExtCodeID="C130079">
+                    <nciodm:CDISCSynonym>Silver Birch Pollen IgG4</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Betula verrucosa pollen antigen IgG4 antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Silver Birch Pollen IgG4 Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C130080" nciodm:ExtCodeID="C130080">
+                    <nciodm:CDISCSynonym>Cocksfoot Grass Pollen IgE</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Orchard Grass Pollen IgE</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Dactylis glomerata pollen antigen IgE antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Orchard Grass Pollen IgE Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C130081" nciodm:ExtCodeID="C130081">
+                    <nciodm:CDISCSynonym>Cocksfoot Grass Pollen IgA</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Orchard Grass Pollen IgA</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Dactylis glomerata pollen antigen IgA antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Orchard Grass Pollen IgA Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C130082" nciodm:ExtCodeID="C130082">
+                    <nciodm:CDISCSynonym>Cocksfoot Grass Pollen IgG</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Orchard Grass Pollen IgG</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Dactylis glomerata pollen antigen IgG antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Orchard Grass Pollen IgG Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C130083" nciodm:ExtCodeID="C130083">
+                    <nciodm:CDISCSynonym>Cocksfoot Grass Pollen IgG4</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Orchard Grass Pollen IgG4</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Dactylis glomerata pollen antigen IgG4 antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Orchard Grass Pollen IgG4 Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C130084" nciodm:ExtCodeID="C130084">
+                    <nciodm:CDISCSynonym>English Plantain Pollen IgE</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Plantagio lanceolata pollen antigen IgE antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>English Plantain Pollen IgE Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C130085" nciodm:ExtCodeID="C130085">
+                    <nciodm:CDISCSynonym>English Plantain Pollen IgA</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Plantagio lanceolata pollen antigen IgA antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>English Plantain Pollen IgA Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C130086" nciodm:ExtCodeID="C130086">
+                    <nciodm:CDISCSynonym>English Plantain Pollen IgG</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Plantagio lanceolata pollen antigen IgG antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>English Plantain Pollen IgG Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C130087" nciodm:ExtCodeID="C130087">
+                    <nciodm:CDISCSynonym>English Plantain Pollen IgG4</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Plantagio lanceolata pollen antigen IgG4 antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>English Plantain Pollen IgG4 Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C130088" nciodm:ExtCodeID="C130088">
+                    <nciodm:CDISCSynonym>Timothy Grass Pollen IgE</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Phleum pratense pollen antigen IgE antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Timothy Grass Pollen IgE Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C130089" nciodm:ExtCodeID="C130089">
+                    <nciodm:CDISCSynonym>Timothy Grass Pollen IgA</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Phleum pratense pollen antigen IgA antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Timothy Grass Pollen IgA Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C130090" nciodm:ExtCodeID="C130090">
+                    <nciodm:CDISCSynonym>Timothy Grass Pollen IgG</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Phleum pratense pollen antigen IgG antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Timothy Grass Pollen IgG Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C130091" nciodm:ExtCodeID="C130091">
+                    <nciodm:CDISCSynonym>Timothy Grass Pollen IgG4</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Phleum pratense pollen antigen IgG4 antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Timothy Grass Pollen IgG4 Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C130092" nciodm:ExtCodeID="C130092">
+                    <nciodm:CDISCSynonym>Western Ragweed Pollen IgE</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Ambrosia psilostachya pollen antigen IgE antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Western Ragweed Pollen IgE Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C130093" nciodm:ExtCodeID="C130093">
+                    <nciodm:CDISCSynonym>Western Ragweed Pollen IgA</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Ambrosia psilostachya pollen antigen IgA antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Western Ragweed Pollen IgA Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C130094" nciodm:ExtCodeID="C130094">
+                    <nciodm:CDISCSynonym>Western Ragweed Pollen IgG</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Ambrosia psilostachya pollen antigen IgG antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Western Ragweed Pollen IgG Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C130095" nciodm:ExtCodeID="C130095">
+                    <nciodm:CDISCSynonym>Western Ragweed Pollen IgG4</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Ambrosia psilostachya pollen antigen IgG4 antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Western Ragweed Pollen IgG4 Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C130096" nciodm:ExtCodeID="C130096">
+                    <nciodm:CDISCSynonym>Mucor racemosus IgE</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Mucor racemosus antigen IgE antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Mucor racemosus IgE Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C130097" nciodm:ExtCodeID="C130097">
+                    <nciodm:CDISCSynonym>Mucor racemosus IgA</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Mucor racemosus antigen IgA antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Mucor racemosus IgA Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C130098" nciodm:ExtCodeID="C130098">
+                    <nciodm:CDISCSynonym>Mucor racemosus IgG</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Mucor racemosus antigen IgG antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Mucor racemosus IgG Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C130099" nciodm:ExtCodeID="C130099">
+                    <nciodm:CDISCSynonym>Mucor racemosus IgG4</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Mucor racemosus antigen IgG4 antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Mucor racemosus IgG4 Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C130100" nciodm:ExtCodeID="C130100">
+                    <nciodm:CDISCSynonym>Mixed Antigen IgE Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the mixed antigen IgE antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Mixed Antigen IgE Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C130101" nciodm:ExtCodeID="C130101">
+                    <nciodm:CDISCSynonym>Tree Mix Pollen Antigen IgE Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the tree mix pollen antigen IgE antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Tree Mix Pollen Antigen IgE Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C130102" nciodm:ExtCodeID="C130102">
+                    <nciodm:CDISCSynonym>Tree Mix Pollen Antigen IgG Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the tree mix pollen antigen IgG antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Tree Mix Pollen Antigen IgG Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C130103" nciodm:ExtCodeID="C130103">
+                    <nciodm:CDISCSynonym>Grass Mix Pollen Antigen IgE Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the grass mix pollen antigen IgE antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Grass Mix Pollen Antigen IgE Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C130104" nciodm:ExtCodeID="C130104">
+                    <nciodm:CDISCSynonym>Grass Mix Pollen Antigen IgG Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the grass mix pollen antigen IgG antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Grass Mix Pollen Antigen IgG Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C130105" nciodm:ExtCodeID="C130105">
+                    <nciodm:CDISCSynonym>Grass Mix Pollen Antigen IgA Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the grass mix pollen antigen IgA antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Grass Mix Pollen Antigen IgA Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C130106" nciodm:ExtCodeID="C130106">
+                    <nciodm:CDISCSynonym>Weed Mix Pollen Antigen IgE Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the weed mix pollen antigen IgE antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Weed Mix Pollen Antigen IgE Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C130107" nciodm:ExtCodeID="C130107">
+                    <nciodm:CDISCSynonym>Weed Mix Pollen Antigen IgG Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the weed mix pollen antigen IgG antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Weed Mix Pollen Antigen IgG Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C130108" nciodm:ExtCodeID="C130108">
+                    <nciodm:CDISCSynonym>Weed Mix Pollen Antigen IgA Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the weed mix pollen antigen IgA antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Weed Mix Pollen Antigen IgA Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C130109" nciodm:ExtCodeID="C130109">
+                    <nciodm:CDISCSynonym>Mold Mix Antigen IgE Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the mold mix antigen IgE antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Mold Mix Antigen IgE Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C130110" nciodm:ExtCodeID="C130110">
+                    <nciodm:CDISCSynonym>Mold Mix Antigen IgG Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the mold mix antigen IgG antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Mold Mix Antigen IgG Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C130111" nciodm:ExtCodeID="C130111">
+                    <nciodm:CDISCSynonym>Mold Mix Antigen IgA Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the mold mix antigen IgA antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Mold Mix Antigen IgA Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C130112" nciodm:ExtCodeID="C130112">
+                    <nciodm:CDISCSynonym>Animal Mix Antigen IgE Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the animal mix antigen IgE antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Animal Mix Antigen IgE Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C130113" nciodm:ExtCodeID="C130113">
+                    <nciodm:CDISCSynonym>Animal Mix Antigen IgG Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the animal mix antigen IgG antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Animal Mix Antigen IgG Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C130114" nciodm:ExtCodeID="C130114">
+                    <nciodm:CDISCSynonym>Industrial Mix Antigen IgE Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the industrial mix antigen IgE antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Industrial Mix Antigen IgE Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C130115" nciodm:ExtCodeID="C130115">
+                    <nciodm:CDISCSynonym>Industrial Mix Antigen IgG Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the industrial mix antigen IgG antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Industrial Mix Antigen IgG Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C130116" nciodm:ExtCodeID="C130116">
+                    <nciodm:CDISCSynonym>Bee Mix Antigen IgE Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the bee mix antigen IgE antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Bee Mix Antigen IgE Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C130117" nciodm:ExtCodeID="C130117">
+                    <nciodm:CDISCSynonym>Bee Mix Antigen IgG Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the bee mix antigen IgG antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Bee Mix Antigen IgG Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C130118" nciodm:ExtCodeID="C130118">
+                    <nciodm:CDISCSynonym>Bee Mix Antigen IgG4 Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the bee mix antigen IgG4 antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Bee Mix Antigen IgG4 Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C130119" nciodm:ExtCodeID="C130119">
+                    <nciodm:CDISCSynonym>Dairy Mix Antigen IgG Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the dairy mix antigen IgG antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Dairy Mix Antigen IgG Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C130120" nciodm:ExtCodeID="C130120">
+                    <nciodm:CDISCSynonym>Shellfish Mix Antigen IgE Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the shellfish mix antigen IgE antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Shellfish Mix Antigen IgE Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C130121" nciodm:ExtCodeID="C130121">
+                    <nciodm:CDISCSynonym>Shellfish Mix Antigen IgG Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the shellfish mix antigen IgG antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Shellfish Mix Antigen IgG Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C130122" nciodm:ExtCodeID="C130122">
+                    <nciodm:CDISCSynonym>Nut Mix Antigen IgE Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the nut mix antigen IgE antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Nut Mix Antigen IgE Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C130123" nciodm:ExtCodeID="C130123">
+                    <nciodm:CDISCSynonym>Nut Mix Antigen IgG Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the nut mix antigen IgG antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Nut Mix Antigen IgG Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C130124" nciodm:ExtCodeID="C130124">
+                    <nciodm:CDISCSynonym>Cat Dander Antigen IgE Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Felis catus dander antigen IgE antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Cat Dander Antigen IgE Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C130125" nciodm:ExtCodeID="C130125">
+                    <nciodm:CDISCSynonym>Cat Dander Antigen IgG Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Felis catus dander antigen IgG antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Cat Dander Antigen IgG Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C130126" nciodm:ExtCodeID="C130126">
+                    <nciodm:CDISCSynonym>Cat Dander Antigen IgA Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Felis catus dander antigen IgA antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Cat Dander Antigen IgA Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C130127" nciodm:ExtCodeID="C130127">
+                    <nciodm:CDISCSynonym>Cat Dander Antigen IgG4 Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Felis catus dander antigen IgG4 antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Cat Dander Antigen IgG4 Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C130128" nciodm:ExtCodeID="C130128">
+                    <nciodm:CDISCSynonym>Dog Dander Antigen IgE Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Canis lupus dander antigen IgE antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Dog Dander Antigen IgE Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C130129" nciodm:ExtCodeID="C130129">
+                    <nciodm:CDISCSynonym>Dog Dander Antigen IgG Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Canis lupus dander antigen IgG antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Dog Dander Antigen IgG Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C130130" nciodm:ExtCodeID="C130130">
+                    <nciodm:CDISCSynonym>Dog Dander Antigen IgA Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Canis lupus dander antigen IgA antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Dog Dander Antigen IgA Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C130131" nciodm:ExtCodeID="C130131">
+                    <nciodm:CDISCSynonym>Dog Dander Antigen IgG4 Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Canis lupus dander antigen IgG4 antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Dog Dander Antigen IgG4 Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C130132" nciodm:ExtCodeID="C130132">
+                    <nciodm:CDISCSynonym>D. farinae Antigen IgE Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Dermatophagoides farinae antigen IgE antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Dermatophagoides farinae Antigen IgE Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C130133" nciodm:ExtCodeID="C130133">
+                    <nciodm:CDISCSynonym>D. farinae Antigen IgG Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Dermatophagoides farinae antigen IgG antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Dermatophagoides farinae Antigen IgG Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C130134" nciodm:ExtCodeID="C130134">
+                    <nciodm:CDISCSynonym>D. pteronyssinus Antigen IgE Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Dermatophagoides pteronyssinus antigen IgE antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Dermatophagoides pteronyssinus Antigen IgE Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C130135" nciodm:ExtCodeID="C130135">
+                    <nciodm:CDISCSynonym>D. pteronyssinus Antigen IgG Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Dermatophagoides pteronyssinus antigen IgG antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Dermatophagoides pteronyssinus Antigen IgG Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C130136" nciodm:ExtCodeID="C130136">
+                    <nciodm:CDISCSynonym>American Cockroach Antigen IgE Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Periplaneta americana antigen IgE antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>American Cockroach Antigen IgE Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C130137" nciodm:ExtCodeID="C130137">
+                    <nciodm:CDISCSynonym>American Cockroach Antigen IgA Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Periplaneta americana antigen IgA antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>American Cockroach Antigen IgA Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C130138" nciodm:ExtCodeID="C130138">
+                    <nciodm:CDISCSynonym>American Cockroach Antigen IgG Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Periplaneta americana antigen IgG antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>American Cockroach Antigen IgG Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C130139" nciodm:ExtCodeID="C130139">
+                    <nciodm:CDISCSynonym>American Cockroach Antigen IgG4 Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Periplaneta americana antigen IgG4 antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>American Cockroach Antigen IgG4 Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C130140" nciodm:ExtCodeID="C130140">
+                    <nciodm:CDISCSynonym>German Cockroach Antigen IgE Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Blattella germanica antigen IgE antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>German Cockroach Antigen IgE Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C130141" nciodm:ExtCodeID="C130141">
+                    <nciodm:CDISCSynonym>German Cockroach Antigen IgA Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Blattella germanica antigen IgA antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>German Cockroach Antigen IgA Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C130142" nciodm:ExtCodeID="C130142">
+                    <nciodm:CDISCSynonym>German Cockroach Antigen IgG Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Blattella germanica antigen IgG antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>German Cockroach Antigen IgG Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C130143" nciodm:ExtCodeID="C130143">
+                    <nciodm:CDISCSynonym>German Cockroach Antigen IgG4 Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Blattella germanica antigen IgG4 antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>German Cockroach Antigen IgG4 Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C130144" nciodm:ExtCodeID="C130144">
+                    <nciodm:CDISCSynonym>A. fumigatus Antigen IgE Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Aspergillus fumigatus antigen IgE antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Aspergillus fumigatus Antigen IgE Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C130145" nciodm:ExtCodeID="C130145">
+                    <nciodm:CDISCSynonym>A. fumigatus Antigen IgG Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Aspergillus fumigatus antigen IgG antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Aspergillus fumigatus Antigen IgG Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C130146" nciodm:ExtCodeID="C130146">
+                    <nciodm:CDISCSynonym>P. notatum Antigen IgE Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Penicillium notatum antigen IgE antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Penicillium notatum Antigen IgE Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C130147" nciodm:ExtCodeID="C130147">
+                    <nciodm:CDISCSynonym>P. notatum Antigen IgA Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Penicillium notatum antigen IgA antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Penicillium notatum Antigen IgA Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C130148" nciodm:ExtCodeID="C130148">
+                    <nciodm:CDISCSynonym>P. notatum Antigen IgG Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Penicillium notatum antigen IgG antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Penicillium notatum Antigen IgG Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C130149" nciodm:ExtCodeID="C130149">
+                    <nciodm:CDISCSynonym>P. notatum Antigen IgG4 Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Penicillium notatum antigen IgG4 antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Penicillium notatum Antigen IgG4 Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C130150" nciodm:ExtCodeID="C130150">
+                    <nciodm:CDISCSynonym>A. tenuis alternata Antigen IgE AB</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Alternaria tenuis alternata antigen IgE antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Alternaria tenuis alternata Antigen IgE Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C130151" nciodm:ExtCodeID="C130151">
+                    <nciodm:CDISCSynonym>A. tenuis alternata Antigen IgA AB</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Alternaria tenuis alternata antigen IgA antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Alternaria tenuis alternata Antigen IgA Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C130152" nciodm:ExtCodeID="C130152">
+                    <nciodm:CDISCSynonym>A. tenuis alternata Antigen IgG AB</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Alternaria tenuis alternata antigen IgG antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Alternaria tenuis alternata Antigen IgG Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C130153" nciodm:ExtCodeID="C130153">
+                    <nciodm:CDISCSynonym>A. tenuis alternata Antigen IgG4 AB</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Alternaria tenuis alternata antigen IgG4 antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Alternaria tenuis alternata Antigen IgG4 Antibody Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="C1QAB" nciodm:ExtCodeID="C80173">
                     <nciodm:CDISCSynonym>Complement C1q Antibody</nciodm:CDISCSynonym>
@@ -1236,6 +1681,12 @@
                     <nciodm:CDISCDefinition>A measurement of the cholecystokinin hormone in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Cholecystokinin Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="CCL12" nciodm:ExtCodeID="C130156">
+                    <nciodm:CDISCSynonym>Chemokine (C-C Motif) Ligand 12</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Monocyte Chemotactic Protein 5</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the CCL12, chemokine (C-C motif) ligand 12, in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Chemokine (C-C Motif) Ligand 12 Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="CCL17" nciodm:ExtCodeID="C112236">
                     <nciodm:CDISCSynonym>ABCD-2</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Chemokine (C-C Motif) Ligand 17</nciodm:CDISCSynonym>
@@ -1252,13 +1703,27 @@
                     <nciodm:CDISCSynonym>Chemokine (C-C Motif) Ligand 18</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>DC-CK1</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>DCCK1</nciodm:CDISCSynonym>
-                    <nciodm:CDISCSynonym>MIP-4</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>MIP4</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Macrophage inflammatory protein-4</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>PARC</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Pulmonary and Activation-Regulated Chemokine</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>SCYA18</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the CCL18, chemokine (C-C motif) ligand 18, in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Chemokine (C-C Motif) Ligand 18 Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CCL19" nciodm:ExtCodeID="C130157">
+                    <nciodm:CDISCSynonym>Chemokine (C-C Motif) Ligand 19</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>MIP3B</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Macrophage Inflammatory Protein 3 Beta</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the CCL19, chemokine (C-C motif) ligand 19, in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Chemokine (C-C Motif) Ligand 19 Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CCL7" nciodm:ExtCodeID="C130158">
+                    <nciodm:CDISCSynonym>Chemokine (C-C Motif) Ligand 7</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>MCP3</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Monocyte Chemotactic Protein 3</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the CCL7, chemokine (C-C motif) ligand 7, in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Chemokine (C-C Motif) Ligand 7 Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="CCPAB" nciodm:ExtCodeID="C96595">
                     <nciodm:CDISCSynonym>Cyclic Citrullinated Peptide Antibody</nciodm:CDISCSynonym>
@@ -1466,6 +1931,11 @@
                     <nciodm:CDISCSynonym>Immature Cells/Total Cells</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A relative measurement (ratio or percentage) of the immature hematopoietic cells to total cells in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Immature Cell to Total Cell Ratio Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CELLS" nciodm:ExtCodeID="C48938">
+                    <nciodm:CDISCSynonym>Cells</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the total cells in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Cell Count</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="CELLSIM" nciodm:ExtCodeID="C96672">
                     <nciodm:CDISCSynonym>Immature Cells</nciodm:CDISCSynonym>
@@ -1963,6 +2433,7 @@
                     <nciodm:PreferredTerm>Type II Collagen C-Telopeptides to Creatinine Ratio Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="CXCL1" nciodm:ExtCodeID="C128952">
+                    <nciodm:CDISCSynonym>Chemokine (C-X-C Motif) Ligand 1</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>GRO Alpha</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>GRO/KC</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Melanoma Growth Stimulating Activity, Alpha</nciodm:CDISCSynonym>
@@ -1976,6 +2447,13 @@
                     <nciodm:CDISCSynonym>Small-inducible Cytokine B10</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the CXCL10, chemokine (C-X-C motif) ligand 10, in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Chemokine (C-X-C Motif) Ligand 10 Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CXCL6" nciodm:ExtCodeID="C130159">
+                    <nciodm:CDISCSynonym>Chemokine (C-X-C Motif) Ligand 6</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>GCP2</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Granulocyte Chemotactic Protein 2</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the CXCL6, chemokine (C-X-C motif) ligand 6, in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Chemokine (C-X-C Motif) Ligand 6 Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="CXCR3" nciodm:ExtCodeID="C100431">
                     <nciodm:CDISCSynonym>CD183</nciodm:CDISCSynonym>
@@ -2052,12 +2530,16 @@
                     <nciodm:CDISCDefinition>A measurement of the cystine crystals present in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Cystine Crystal Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="CYFRA18" nciodm:ExtCodeID="C130160">
+                    <nciodm:CDISCSynonym>Cytokeratin 18 Fragment</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the cytokeratin 18 fragment in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Cytokeratin 18 Fragment Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="CYFRA211" nciodm:ExtCodeID="C106514">
                     <nciodm:CDISCSynonym>CYFRA21-1</nciodm:CDISCSynonym>
-                    <nciodm:CDISCSynonym>Cytokeratin 19 Fragment</nciodm:CDISCSynonym>
-                    <nciodm:CDISCSynonym>Cytokeratin Fragment 21-1</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Cytokeratin 19 Fragment 21-1</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the cytokeratin 19 fragment 21-1 in a biological specimen.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Cytokeratin Fragment 21-1 Measurement</nciodm:PreferredTerm>
+                    <nciodm:PreferredTerm>Cytokeratin 19 Fragment 21-1 Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="CYHGBC" nciodm:ExtCodeID="C112288">
                     <nciodm:CDISCSynonym>Hemoglobin C Crystals</nciodm:CDISCSynonym>
@@ -2446,6 +2928,11 @@
                     <nciodm:CDISCDefinition>A measurement of the epithelial cells in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Epithelial Cell Count</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="EPICCE" nciodm:ExtCodeID="C130161">
+                    <nciodm:CDISCSynonym>Epithelial Cells/Total Cells</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A relative measurement (ratio or percentage) of the epithelial cells to total cells in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Epithelial Cells to Total Cells Ratio Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="EPIN" nciodm:ExtCodeID="C79445">
                     <nciodm:CDISCSynonym>Adrenaline</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Epinephrine</nciodm:CDISCSynonym>
@@ -2801,6 +3288,12 @@
                     <nciodm:CDISCSynonym>Phosphatonin</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the fibroblast growth factor 23 in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Fibroblast Growth Factor 23 Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FGF9" nciodm:ExtCodeID="C130162">
+                    <nciodm:CDISCSynonym>FGF 9</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Fibroblast Growth Factor 9</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the fibroblast growth factor 9 in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Fibroblast Growth Factor 9 Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="FGFBF" nciodm:ExtCodeID="C82014">
                     <nciodm:CDISCSynonym>FGF2</nciodm:CDISCSynonym>
@@ -3610,18 +4103,22 @@
                     <nciodm:PreferredTerm>HIV Viral Load Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="HLAA23A" nciodm:ExtCodeID="C128953">
+                    <nciodm:CDISCSynonym>HLA-A23 Antibody</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the human leukocyte antigen A23 (HLA-A23) antibody in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>HLA-A23 Antibody Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="HLAA2AB" nciodm:ExtCodeID="C128954">
+                    <nciodm:CDISCSynonym>HLA-A2 Antibody</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the human leukocyte antigen A2 (HLA-A2) antibody in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>HLA-A2 Antibody Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="HLAAAGT" nciodm:ExtCodeID="C128955">
+                    <nciodm:CDISCSynonym>HLA-A Antigen Type</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The identification of the type of human leukocyte antigen, class I, group A (HLA-A), in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>HLA-A Antigen Type</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="HLAAMSC" nciodm:ExtCodeID="C128956">
+                    <nciodm:CDISCSynonym>HLA-A Mismatch Count</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement to determine the number of mismatches between the recipient and the donor for the human leukocyte antigen, class I, group A (HLA-A).</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>HLA-A Mismatch Count</nciodm:PreferredTerm>
                 </EnumeratedItem>
@@ -3632,50 +4129,62 @@
                     <nciodm:PreferredTerm>HLA-B27 Antigen Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="HLABAGT" nciodm:ExtCodeID="C128957">
+                    <nciodm:CDISCSynonym>HLA-B Antigen Type</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The identification of the type of human leukocyte antigen, class I, group B (HLA-B), in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>HLA-B Antigen Type</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="HLABMSC" nciodm:ExtCodeID="C128958">
+                    <nciodm:CDISCSynonym>HLA-B Mismatch Count</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement to determine the number of mismatches between the recipient and the donor for the human leukocyte antigen, class I, group B (HLA-B).</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>HLA-B Mismatch Count</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="HLADR51A" nciodm:ExtCodeID="C128959">
+                    <nciodm:CDISCSynonym>HLA-DR51 Antibody</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the human leukocyte antigen DR51 (HLA-DR51) antibody in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>HLA-DR51 Antibody Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="HLADR52A" nciodm:ExtCodeID="C128960">
+                    <nciodm:CDISCSynonym>HLA-DR52 Antibody</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the human leukocyte antigen DR52 (HLA-DR52) antibody in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>HLA-DR52 Antibody Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="HLADR53A" nciodm:ExtCodeID="C128961">
+                    <nciodm:CDISCSynonym>HLA-DR53 Antibody</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the human leukocyte antigen DR53 (HLA-DR53) antibody in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>HLA-DR53 Antibody Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="HLADRAGT" nciodm:ExtCodeID="C128962">
+                    <nciodm:CDISCSynonym>HLA-DR Antigen Type</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The identification of the type of human leukocyte antigen, class II, antigen-D-related (HLA-DR), in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>HLA-DR Antigen Type</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="HLADRMSC" nciodm:ExtCodeID="C128963">
+                    <nciodm:CDISCSynonym>HLA-DR Mismatch Count</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement to determine the number of mismatches between the recipient and the donor for the human leukocyte antigen, class II, antigen-D-related (HLA-DR).</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>HLA-DR Mismatch Count</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="HLAIAB" nciodm:ExtCodeID="C128964">
+                    <nciodm:CDISCSynonym>HLA Class I Antibody</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the human leukocyte antigen (HLA) antibody class I in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>HLA Class I Antibody Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="HLAIIAB" nciodm:ExtCodeID="C128965">
+                    <nciodm:CDISCSynonym>HLA Class II Antibody</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the human leukocyte antigen (HLA) antibody class II in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>HLA Class II Antibody Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="HLAIIPRA" nciodm:ExtCodeID="C128966">
+                    <nciodm:CDISCSynonym>HLA Class II Panel Reactive Antibody</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the panel reactive antibody (the reactivity between host immune cells and donor) human leukocyte antigen class II in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>HLA Class II Panel Reactive Antibody Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="HLAIPRA" nciodm:ExtCodeID="C128967">
+                    <nciodm:CDISCSynonym>HLA Class I Panel Reactive Antibody</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the panel reactive antibody (the reactivity between host immune cells and donor) human leukocyte antigen class I in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>HLA Class I Panel Reactive Antibody Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="HLAMSC" nciodm:ExtCodeID="C128933">
+                    <nciodm:CDISCSynonym>HLA Mismatch Count</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement to determine the number of mismatches between the recipient and the donor for the human leukocyte antigens (HLA).</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>HLA Mismatch Count</nciodm:PreferredTerm>
                 </EnumeratedItem>
@@ -4009,6 +4518,7 @@
                     <nciodm:PreferredTerm>Soluble Immunoglobulin Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="IL122340" nciodm:ExtCodeID="C128970">
+                    <nciodm:CDISCSynonym>Interleukin 12+23 p40</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the p40 subunit of the interleukins 12 and 23 in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Interleukin 12+23 p40 Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
@@ -4583,6 +5093,11 @@
                     <nciodm:CDISCDefinition>A measurement of the luteinizing hormone in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Luteinizing Hormone Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="LIF" nciodm:ExtCodeID="C130163">
+                    <nciodm:CDISCSynonym>Leukemia Inhibitory Factor</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of leukemia inhibitory factor in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Leukemia Inhibitory Factor Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="LIPASEG" nciodm:ExtCodeID="C117840">
                     <nciodm:CDISCSynonym>Gastric Triacylglycerol Lipase</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>LIPF</nciodm:CDISCSynonym>
@@ -4939,10 +5454,12 @@
                     <nciodm:PreferredTerm>Metanephrine Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="METARBCE" nciodm:ExtCodeID="C128971">
+                    <nciodm:CDISCSynonym>Metarubricyte/Total Cells</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A relative measurement (ratio or percentage) of the metarubricytes to total cells in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Metarubricyte to Total Cell Ratio Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="METARUB" nciodm:ExtCodeID="C128972">
+                    <nciodm:CDISCSynonym>Metarubricyte</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Orthochromatophilic Normoblast</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Orthochromic Erythroblast</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Orthochromic Normoblast</nciodm:CDISCSynonym>
@@ -5011,6 +5528,11 @@
                     <nciodm:CDISCSynonym>Macrophage Inflammatory Protein 1 Beta</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the macrophage inflammatory protein 1 beta in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Macrophage Inflammatory Protein 1 Beta Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MIP1G" nciodm:ExtCodeID="C130164">
+                    <nciodm:CDISCSynonym>Macrophage Inflammatory Protein 1 Gamma</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the macrophage inflammatory protein 1 gamma in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Macrophage Inflammatory Protein 1 Gamma Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="MLATONIN" nciodm:ExtCodeID="C74867">
                     <nciodm:CDISCSynonym>Melatonin</nciodm:CDISCSynonym>
@@ -5255,6 +5777,11 @@
                     <nciodm:CDISCSynonym>Myosin light chain 1, slow-twitch muscle B/ventricular isoform</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of myosin light chain 3 in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Myosin Light Chain 3 Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MYPC" nciodm:ExtCodeID="C130165">
+                    <nciodm:CDISCSynonym>Myeloid Progenitor Cells</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the myeloid progenitor cells in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Myeloid Progenitor Cell Count</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="MYPCERPC" nciodm:ExtCodeID="C92242">
                     <nciodm:CDISCSynonym>Myeloid/Erythroid Ratio</nciodm:CDISCSynonym>
@@ -5601,6 +6128,7 @@
                     <nciodm:PreferredTerm>Procollagen 1 N-Terminal Propeptide Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="P3NP" nciodm:ExtCodeID="C128973">
+                    <nciodm:CDISCSynonym>Procollagen 3 N-Terminal Propeptide</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the procollagen 3 N-terminal propeptide in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Procollagen 3 N-Terminal Propeptide Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
@@ -5974,10 +6502,12 @@
                     <nciodm:PreferredTerm>Precursor Plasma Cell to Lymphocyte Ratio Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="PLSTCE" nciodm:ExtCodeID="C128974">
+                    <nciodm:CDISCSynonym>Total Plasma Cells</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the total plasma cells in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Plasma Cell Count</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="PLSTCELE" nciodm:ExtCodeID="C128975">
+                    <nciodm:CDISCSynonym>Total Plasma Cells/Leukocytes</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A relative measurement (ratio or percentage) of the total plasma cells to leukocytes in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Plasma Cells to Leukocytes Ratio Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
@@ -6132,10 +6662,12 @@
                 <EnumeratedItem CodedValue="PRORUB" nciodm:ExtCodeID="C128976">
                     <nciodm:CDISCSynonym>Basophilic Erythroblast</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Basophilic Normoblast</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Prorubricyte</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the prorubricytes in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Prorubricyte Count</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="PRORUBCE" nciodm:ExtCodeID="C128977">
+                    <nciodm:CDISCSynonym>Prorubricyte/Total Cells</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A relative measurement (ratio or percentage) of the prorubricytes to total cells in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Prorubricyte to Total Cell Ratio Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
@@ -6536,7 +7068,7 @@
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="ROULEAUX" nciodm:ExtCodeID="C74624">
                     <nciodm:CDISCSynonym>Rouleaux Formation</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A measurement of the number of stacking red blood cells within a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A measurement of the stacking red blood cells in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Rouleaux Formation Count</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="RP3IGGAB" nciodm:ExtCodeID="C122147">
@@ -6567,10 +7099,12 @@
                 <EnumeratedItem CodedValue="RUB" nciodm:ExtCodeID="C128978">
                     <nciodm:CDISCSynonym>Polychromatophilic Erythroblast</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Polychromatophilic Normoblast</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Rubricyte</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the rubricytes in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Rubricyte Count</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="RUBCE" nciodm:ExtCodeID="C129006">
+                    <nciodm:CDISCSynonym>Rubricyte/Total Cells</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A relative measurement (ratio or percentage) of the rubricytes to total cells in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Rubricyte to Total Cell Ratio Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
@@ -7021,6 +7555,7 @@
                     <nciodm:PreferredTerm>T-Lymphocyte Count</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="TLYMXM" nciodm:ExtCodeID="C128979">
+                    <nciodm:CDISCSynonym>T-lymphocyte Crossmatch</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement to determine human leukocyte antigens (HLA) histocompatibility between the recipient and the donor by examining the presence or absence of the recipient's anti-HLA antibody reactivity towards HLA antigens expressed on the donor T-lymphocytes.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>T-lymphocyte Crossmatch Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
@@ -7170,6 +7705,7 @@
                     <nciodm:PreferredTerm>Thyroid Stimulating Hormone Receptor Antibody Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="TSTSFRPT" nciodm:ExtCodeID="C128980">
+                    <nciodm:CDISCSynonym>Testosterone, Free/Total Protein</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A relative measurement (ratio or percentage) of free testosterone to total proteins in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Free Testosterone to Total Protein Ratio Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
@@ -7248,6 +7784,11 @@
                     <nciodm:CDISCSynonym>Valine</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the valine in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Valine Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="VBCE" nciodm:ExtCodeID="C130166">
+                    <nciodm:CDISCSynonym>Viable Cells</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the viable cells in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Viable Cell Count</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="VCAM1" nciodm:ExtCodeID="C82042">
                     <nciodm:CDISCSynonym>Vascular Cell Adhesion Molecule 1</nciodm:CDISCSynonym>

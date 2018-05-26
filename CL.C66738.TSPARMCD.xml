@@ -189,7 +189,7 @@
                     <nciodm:PreferredTerm>Healthy Subject Indicator</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="INDIC" nciodm:ExtCodeID="C112038">
-                    <nciodm:CDISCSynonym>Trial Indication</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Trial Disease/Condition Indication</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The condition, disease or disorder that the clinical trial is intended to investigate or address.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Trial Indication</nciodm:PreferredTerm>
                 </EnumeratedItem>
@@ -469,8 +469,8 @@
                     <nciodm:PreferredTerm>Therapeutic Area</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="TINDTP" nciodm:ExtCodeID="C49652">
-                    <nciodm:CDISCSynonym>Trial Indication Type</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>The name of a code list that contains terms to define the type of trial, e.g. cure or prevention. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:CDISCSynonym>Trial Intent Type</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The planned purpose of the therapy, device, or agent under study in the clinical trial.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Clinical Study by Intent</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="TITLE" nciodm:ExtCodeID="C49802">

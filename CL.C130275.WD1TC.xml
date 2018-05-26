@@ -1,0 +1,114 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C130275.WD1TC" Name="World Health Organization Disability Assessment Schedule 2.0 - 12-Item Interviewer Questionnaire Test Code" DataType="text" nciodm:ExtCodeID="C130275" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">World Health Organization Disability Assessment Schedule 2.0 - 12-Item Interviewer test code.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="WD1A1" nciodm:ExtCodeID="C130899">
+                    <nciodm:CDISCSynonym>WD1-Sex as Observed</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 12-Item Interviewer - Record sex as observed.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 12-item Version Interviewer-administered - Observed Sex</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD1A2" nciodm:ExtCodeID="C130900">
+                    <nciodm:CDISCSynonym>WD1-How Old Are You Now</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 12-Item Interviewer - How old are you now?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 12-item Version Interviewer-administered - How Old Are You Now</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD1A3" nciodm:ExtCodeID="C130901">
+                    <nciodm:CDISCSynonym>WD1-Years Studying in School/College</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 12-Item Interviewer - How many years in all did you spend studying in school, college or university?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 12-item Version Interviewer-administered - Years Studying in School or College</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD1A4" nciodm:ExtCodeID="C130902">
+                    <nciodm:CDISCSynonym>WD1-Current Marital Status</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 12-Item Interviewer - What is your current marital status?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 12-item Version Interviewer-administered - Current Marital Status</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD1A5" nciodm:ExtCodeID="C130903">
+                    <nciodm:CDISCSynonym>WD1-Describes Main Work Status Best</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 12-Item Interviewer - Which describes your main work status best?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 12-item Version Interviewer-administered - Describes Main Work Status Best</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD1F5" nciodm:ExtCodeID="C130898">
+                    <nciodm:CDISCSynonym>WD1-Living Situation at Interview</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 12-Item Interviewer - Living situation at time of interview.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 12-item Version Interviewer-administered - Living Situation at Interview</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD1H1" nciodm:ExtCodeID="C130916">
+                    <nciodm:CDISCSynonym>WD1-How Many Days Difficulties Present</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 12-Item Interviewer - Overall, in the past 30 days, how many days were these difficulties present?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 12-item Version Interviewer-administered - How Many Days Difficulties Present</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD1H2" nciodm:ExtCodeID="C130917">
+                    <nciodm:CDISCSynonym>WD1-Days Unable to Carry Out Activities</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 12-Item Interviewer - In the past 30 days, for how many days were you totally unable to carry out your usual activities or work because of any health condition?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 12-item Version Interviewer-administered - Days Unable to Carry Out Activities</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD1H3" nciodm:ExtCodeID="C130918">
+                    <nciodm:CDISCSynonym>WD1-How Many Days Reduce Activities</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 12-Item Interviewer - In the past 30 days, not counting the days that you were totally unable, for how many days did you cut back or reduce your usual activities or work because of any health condition?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 12-item Version Interviewer-administered - How Many Days Reduce Activities</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD1S1" nciodm:ExtCodeID="C130904">
+                    <nciodm:CDISCSynonym>WD1-Standing for Long Periods</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 12-Item Interviewer - In the past 30 days, how much difficulty did you have in: Standing for long periods such as 30 minutes?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 12-item Version Interviewer-administered - Standing for Long Periods</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD1S10" nciodm:ExtCodeID="C130913">
+                    <nciodm:CDISCSynonym>WD1-Dealing With People You Do Not Know</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 12-Item Interviewer - In the past 30 days, how much difficulty did you have in: Dealing with people you do not know?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 12-item Version Interviewer-administered - Dealing With People You Do Not Know</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD1S11" nciodm:ExtCodeID="C130914">
+                    <nciodm:CDISCSynonym>WD1-Maintaining a Friendship</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 12-Item Interviewer - In the past 30 days, how much difficulty did you have in: Maintaining a friendship?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 12-item Version Interviewer-administered - Maintaining a Friendship</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD1S12" nciodm:ExtCodeID="C130915">
+                    <nciodm:CDISCSynonym>WD1-Your Day-to-Day Work/School</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 12-Item Interviewer - In the past 30 days, how much difficulty did you have in: Your day-to-day work/school?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 12-item Version Interviewer-administered - Your Day-to-Day Work or School</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD1S2" nciodm:ExtCodeID="C130905">
+                    <nciodm:CDISCSynonym>WD1-Care of Household Responsibilities</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 12-Item Interviewer - In the past 30 days, how much difficulty did you have in: Taking care of your household responsibilities?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 12-item Version Interviewer-administered - Care of Household Responsibilities</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD1S3" nciodm:ExtCodeID="C130906">
+                    <nciodm:CDISCSynonym>WD1-Learning a New Task</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 12-Item Interviewer - In the past 30 days, how much difficulty did you have in: Learning a new task, for example, learning how to get to a new place?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 12-item Version Interviewer-administered - Learning a New Task</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD1S4" nciodm:ExtCodeID="C130907">
+                    <nciodm:CDISCSynonym>WD1-Problem Joining Community Activities</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 12-Item Interviewer - In the past 30 days, how much difficulty did you have in: How much of a problem did you have joining in community activities (for example, festivities, religious or other activities) in the same way as anyone else can?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 12-item Version Interviewer-administered - Problem Joining Community Activities</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD1S5" nciodm:ExtCodeID="C130908">
+                    <nciodm:CDISCSynonym>WD1-Emotionally Affected by Health</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 12-Item Interviewer - In the past 30 days, how much difficulty did you have in: How much have you been emotionally affected by your health problems?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 12-item Version Interviewer-administered - Emotionally Affected by Health</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD1S6" nciodm:ExtCodeID="C130909">
+                    <nciodm:CDISCSynonym>WD1-Concentrating for Ten Minutes</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 12-Item Interviewer - In the past 30 days, how much difficulty did you have in: Concentrating on doing something for ten minutes?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 12-item Version Interviewer-administered - Concentrating for Ten Minutes</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD1S7" nciodm:ExtCodeID="C130910">
+                    <nciodm:CDISCSynonym>WD1-Walking a Long Distance</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 12-Item Interviewer - In the past 30 days, how much difficulty did you have in: Walking a long distance such as a kilometre [or equivalent]?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 12-item Version Interviewer-administered - Walking a Long Distance</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD1S8" nciodm:ExtCodeID="C130911">
+                    <nciodm:CDISCSynonym>WD1-Washing Your Whole Body</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 12-Item Interviewer - In the past 30 days, how much difficulty did you have in: Washing your whole body?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 12-item Version Interviewer-administered - Washing Your Whole Body</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD1S9" nciodm:ExtCodeID="C130912">
+                    <nciodm:CDISCSynonym>WD1-Getting Dressed</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 12-Item Interviewer - In the past 30 days, how much difficulty did you have in: Getting dressed?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 12-item Version Interviewer-administered - Getting Dressed</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>WD1TC</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>World Health Organization Disability Assessment Schedule 2.0 - 12-Item Interviewer Questionnaire Test Code</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Questionnaire WHODAS 2.0 12-item Version Interviewer-administered Test Code Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

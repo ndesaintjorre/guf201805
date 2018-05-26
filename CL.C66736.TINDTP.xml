@@ -1,6 +1,6 @@
-<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C66736.TINDTP" Name="Trial Indication Type" DataType="text" nciodm:ExtCodeID="C66736" nciodm:CodeListExtensible="Yes">
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C66736.TINDTP" Name="Trial Intent Type Response" DataType="text" nciodm:ExtCodeID="C66736" nciodm:CodeListExtensible="Yes">
                 <Description>
-                    <TranslatedText xml:lang="en">The name of a code list that contains terms to define the type of trial, e.g. cure or prevention. (NCI)</TranslatedText>
+                    <TranslatedText xml:lang="en">A terminology codelist relevant to the responses for the planned purpose of the therapy, device, or agent under study in the clinical trial.</TranslatedText>
                 </Description>
                 <EnumeratedItem CodedValue="CURE" nciodm:ExtCodeID="C49654">
                     <nciodm:CDISCDefinition>A type of study protocol designed to evaluate intervention(s) aimed to cure a disease or condition. (NCI)</nciodm:CDISCDefinition>
@@ -24,7 +24,7 @@
                     <nciodm:PreferredTerm>Treatment Study</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <nciodm:CDISCSubmissionValue>TINDTP</nciodm:CDISCSubmissionValue>
-                <nciodm:CDISCSynonym>Trial Indication Type</nciodm:CDISCSynonym>
+                <nciodm:CDISCSynonym>Trial Intent Type Response</nciodm:CDISCSynonym>
                 <nciodm:PreferredTerm>CDISC SDTM Trial Indication Type Terminology</nciodm:PreferredTerm>
             </CodeList>
             

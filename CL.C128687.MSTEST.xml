@@ -48,10 +48,12 @@
                     <nciodm:PreferredTerm>Inhibitory Concentration Net Assessment Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Microbial Susceptibility" nciodm:ExtCodeID="C85540">
+                    <nciodm:CDISCSynonym>Microbial Susceptibility</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the response of the microbial organism to a controlled concentration of an antimicrobial agent.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Microbial Susceptibility Test</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Minimum Inhibitory Concentration" nciodm:ExtCodeID="C128985">
+                    <nciodm:CDISCSynonym>Minimum Inhibitory Concentration</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement that specifies the minimum concentration of the agent at which organism growth was inhibited.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Minimum Inhibitory Concentration Test</nciodm:PreferredTerm>
                 </EnumeratedItem>

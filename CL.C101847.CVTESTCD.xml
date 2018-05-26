@@ -79,6 +79,7 @@
                     <nciodm:PreferredTerm>Aortic Valve Vena Contracta Width</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="BLDFLRT" nciodm:ExtCodeID="C94866">
+                    <nciodm:CDISCSynonym>Blood Flow Rate</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The volume of blood per unit time passing through a specified location, such as a point in a blood vessel or an entire organ.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Blood Flow Rate</nciodm:PreferredTerm>
                 </EnumeratedItem>
@@ -103,6 +104,7 @@
                     <nciodm:PreferredTerm>Coronary Artery Dominance</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="CSDIAEVD" nciodm:ExtCodeID="C127545">
+                    <nciodm:CDISCSynonym>Cross-sec Diameter, EVD</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Cross-sectional Diameter, End Ventricular Diastole</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The cross sectional diameter of a cardiovascular structure measured at end ventricular diastole.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Cross-sectional Diameter at End Ventricular Diastole</nciodm:PreferredTerm>
@@ -245,15 +247,15 @@
                     <nciodm:CDISCDefinition>The percentage of myocardial tissue which exhibits characteristics of inadequate blood flow (ischemia).</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Ischemic Myocardium Percentage</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="IVCCSIND" nciodm:ExtCodeID="C130055">
+                    <nciodm:CDISCSynonym>Inferior Vena Cava Collapse Indicator</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An indication as to whether inferior vena cava collapse occurred with sniff.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Inferior Vena Cava Collapse Due to Sniff Test Indicator</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="LADMN" nciodm:ExtCodeID="C99970">
                     <nciodm:CDISCSynonym>Left Atrium Dimension</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The diameter across the left atrium measured at the end of systole.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Left Atrium Dimension</nciodm:PreferredTerm>
-                </EnumeratedItem>
-                <EnumeratedItem CodedValue="LATELOSS" nciodm:ExtCodeID="C116146">
-                    <nciodm:CDISCSynonym>Late Loss</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>The difference between the mean minimum lumen diameter (MLD) assessed immediately after an index procedure and the MLD assessed at follow-up angiography.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Late Lumen Loss Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="LCDIAEVD" nciodm:ExtCodeID="C127566">
                     <nciodm:CDISCSynonym>Largest Cross-sec Diameter, EVD</nciodm:CDISCSynonym>
@@ -271,6 +273,11 @@
                     <nciodm:CDISCSynonym>Largest Cross-sectional Thickness</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The assessment of the largest cross-sectional thickness of a tissue.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Largest Cross-sectional Thickness</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LLMLOSS" nciodm:ExtCodeID="C116146">
+                    <nciodm:CDISCSynonym>Late Lumen Loss</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The difference between the mean minimum lumen diameter (MLD) assessed immediately after an index procedure and the MLD assessed at follow-up angiography.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Late Lumen Loss Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="LRSTIND" nciodm:ExtCodeID="C116147">
                     <nciodm:CDISCSynonym>Lesion Restenosis Indicator</nciodm:CDISCSynonym>
@@ -304,6 +311,11 @@
                     <nciodm:CDISCDefinition>The integral of all of the instantaneous flow velocities within the left ventricular outflow tract during left ventricular systole.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Left Ventricular Outflow Tract Velocity Time Integral</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="MARTPE" nciodm:ExtCodeID="C130056">
+                    <nciodm:CDISCSynonym>Mean Atrial Pressure, Estimated</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The estimated average of atrial pressure.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Estimated Mean Atrial Pressure</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="MASS" nciodm:ExtCodeID="C43246">
                     <nciodm:CDISCSynonym>Mass</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The amount of matter in an object.</nciodm:CDISCDefinition>
@@ -335,21 +347,25 @@
                     <nciodm:PreferredTerm>Mitral E/e' Ratio</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="MJDIAEVD" nciodm:ExtCodeID="C127573">
+                    <nciodm:CDISCSynonym>Major Axis Cross-sec Diameter, EVD</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Major Axis Cross-sectional Diameter, End Ventricular Diastole</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The cross sectional diameter of a cardiovascular structure measured along the major axis at end ventricular diastole.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Major Axis Cross-sectional Diameter at End Ventricular Diastole</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="MJDIAEVS" nciodm:ExtCodeID="C127574">
+                    <nciodm:CDISCSynonym>Major Axis Cross-sec Diameter, EVS</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Major Axis Cross-sectional Diameter, End Ventricular Systole</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The cross sectional diameter of a cardiovascular structure measured along the major axis at end ventricular systole.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Major Axis Cross-sectional Diameter at End Ventricular Systole</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="MNDIAEVD" nciodm:ExtCodeID="C127575">
+                    <nciodm:CDISCSynonym>Minor Axis Cross-sec Diameter, EVD</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Minor Axis Cross-sectional Diameter, End Ventricular Diastole</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The cross sectional diameter of a cardiovascular structure measured along the minor axis at end ventricular diastole.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Minor Axis Cross-sectional Diameter at End Ventricular Diastole</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="MNDIAEVS" nciodm:ExtCodeID="C127576">
+                    <nciodm:CDISCSynonym>Minor Axis Cross-sec Diameter, EVS</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Minor Axis Cross-sectional Diameter, End Ventricular Systole</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The cross sectional diameter of a cardiovascular structure measured along the minor axis at end ventricular systole.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Minor Axis Cross-sectional Diameter at End Ventricular Systole</nciodm:PreferredTerm>

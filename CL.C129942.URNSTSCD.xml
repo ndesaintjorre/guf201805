@@ -1,0 +1,24 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C129942.URNSTSCD" Name="Urinary System Test Code" DataType="text" nciodm:ExtCodeID="C129942" nciodm:CodeListExtensible="Yes">
+                <Description>
+                    <TranslatedText xml:lang="en">A terminology codelist to describe the test code for examinations of the urinary system.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="LENGTH" nciodm:ExtCodeID="C25334">
+                    <nciodm:CDISCSynonym>Length</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The linear extent in space from one end of something to the other end, or the extent of something from beginning to end. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Length</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="RNLANUM" nciodm:ExtCodeID="C130195">
+                    <nciodm:CDISCSynonym>Number of Renal Arteries</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the total number of renal arteries.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Number of Renal Arteries</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="RNLVNUM" nciodm:ExtCodeID="C130196">
+                    <nciodm:CDISCSynonym>Number of Renal Veins</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the total number of renal veins.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Number of Renal Veins</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>URNSTSCD</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Urinary System Test Code</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Urinary System Test Code Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

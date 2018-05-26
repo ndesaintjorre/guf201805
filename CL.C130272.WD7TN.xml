@@ -1,0 +1,204 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C130272.WD7TN" Name="World Health Organization Disability Assessment Schedule 2.0 - 36-Item Self Questionnaire Test Name" DataType="text" nciodm:ExtCodeID="C130272" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">World Health Organization Disability Assessment Schedule 2.0 - 36-Item Self test name.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="WD7-Care of Household Responsibilities" nciodm:ExtCodeID="C130830">
+                    <nciodm:CDISCSynonym>WD7-Care of Household Responsibilities</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 36-Item Self - In the past 30 days, how much difficulty did you have in: Taking care of your household responsibilities?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 36-item Version Self-administered - Care of Household Responsibilities</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD7-Concentrating for Ten Minutes" nciodm:ExtCodeID="C130810">
+                    <nciodm:CDISCSynonym>WD7-Concentrating for Ten Minutes</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 36-Item Self - In the past 30 days, how much difficulty did you have in: Concentrating on doing something for ten minutes?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 36-item Version Self-administered - Concentrating for Ten Minutes</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD7-Days Unable to Carry Out Activities" nciodm:ExtCodeID="C130847">
+                    <nciodm:CDISCSynonym>WD7-Days Unable to Carry Out Activities</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 36-Item Self - In the past 30 days, for how many days were you totally unable to carry out your usual activities or work because of any health condition?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 36-item Version Self-administered - Days Unable to Carry Out Activities</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD7-Dealing With People You Do Not Know" nciodm:ExtCodeID="C130825">
+                    <nciodm:CDISCSynonym>WD7-Dealing With People You Do Not Know</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 36-Item Self - In the past 30 days, how much difficulty did you have in: Dealing with people you do not know?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 36-item Version Self-administered - Dealing With People You Do Not Know</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD7-Doing Important Household Tasks" nciodm:ExtCodeID="C130831">
+                    <nciodm:CDISCSynonym>WD7-Doing Important Household Tasks</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 36-Item Self - In the past 30 days, how much difficulty did you have in: Doing most important household tasks well?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 36-item Version Self-administered - Doing Important Household Tasks</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD7-Doing Important Work/School Tasks" nciodm:ExtCodeID="C130835">
+                    <nciodm:CDISCSynonym>WD7-Doing Important Work/School Tasks</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 36-Item Self - Because of your health condition, in the past 30 days, how much difficulty did you have in: Doing your most important work/school tasks well?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 36-item Version Self-administered - Doing Important Work or School Tasks</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD7-Drain on Financial Resources" nciodm:ExtCodeID="C130843">
+                    <nciodm:CDISCSynonym>WD7-Drain on Financial Resources</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 36-Item Self - In the past 30 days: How much has your health been a drain on the financial resources of you or your family?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 36-item Version Self-administered - Drain on Financial Resources</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD7-Eating" nciodm:ExtCodeID="C130823">
+                    <nciodm:CDISCSynonym>WD7-Eating</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 36-Item Self - In the past 30 days, how much difficulty did you have in: Eating?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 36-item Version Self-administered - Eating</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD7-Emotionally Affected by Health" nciodm:ExtCodeID="C130842">
+                    <nciodm:CDISCSynonym>WD7-Emotionally Affected by Health</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 36-Item Self - In the past 30 days: How much have you been emotionally affected by your health condition?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 36-item Version Self-administered - Emotionally Affected by Health</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD7-Finding Solutions to Problems" nciodm:ExtCodeID="C130812">
+                    <nciodm:CDISCSynonym>WD7-Finding Solutions to Problems</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 36-Item Self - In the past 30 days, how much difficulty did you have in: Analysing and finding solutions to problems in day-to-day life?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 36-item Version Self-administered - Finding Solutions to Problems</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD7-Get Along With People Close to You" nciodm:ExtCodeID="C130827">
+                    <nciodm:CDISCSynonym>WD7-Get Along With People Close to You</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 36-Item Self - In the past 30 days, how much difficulty did you have in: Getting along with people who are close to you?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 36-item Version Self-administered - Get Along With People Close to You</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD7-Getting All Work Done You Need" nciodm:ExtCodeID="C130836">
+                    <nciodm:CDISCSynonym>WD7-Getting All Work Done You Need</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 36-Item Self - Because of your health condition, in the past 30 days, how much difficulty did you have in: Getting all the work done that you need to do?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 36-item Version Self-administered - Getting All Work Done You Need</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD7-Getting Dressed" nciodm:ExtCodeID="C130822">
+                    <nciodm:CDISCSynonym>WD7-Getting Dressed</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 36-Item Self - In the past 30 days, how much difficulty did you have in: Getting dressed?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 36-item Version Self-administered - Getting Dressed</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD7-Getting Household Work Done Needed" nciodm:ExtCodeID="C130832">
+                    <nciodm:CDISCSynonym>WD7-Getting Household Work Done Needed</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 36-Item Self - In the past 30 days, how much difficulty did you have in: Getting all the household work done that you needed to do?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 36-item Version Self-administered - Getting Household Work Done Needed</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD7-Getting Household Work Done Quickly" nciodm:ExtCodeID="C130833">
+                    <nciodm:CDISCSynonym>WD7-Getting Household Work Done Quickly</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 36-Item Self - In the past 30 days, how much difficulty did you have in: Getting your household work done as quickly as needed?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 36-item Version Self-administered - Getting Household Work Done Quickly</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD7-Getting Out of Your Home" nciodm:ExtCodeID="C130819">
+                    <nciodm:CDISCSynonym>WD7-Getting Out of Your Home</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 36-Item Self - In the past 30 days, how much difficulty did you have in: Getting out of your home?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 36-item Version Self-administered - Getting Out of Your Home</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD7-Getting Work Done Quickly as Needed" nciodm:ExtCodeID="C130837">
+                    <nciodm:CDISCSynonym>WD7-Getting Work Done Quickly as Needed</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 36-Item Self - Because of your health condition, in the past 30 days, how much difficulty did you have in: Getting your work done as quickly as needed?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 36-item Version Self-administered - Getting Work Done Quickly as Needed</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD7-How Many Days Difficulties Present" nciodm:ExtCodeID="C130846">
+                    <nciodm:CDISCSynonym>WD7-How Many Days Difficulties Present</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 36-Item Self - Overall, in the past 30 days, how many days were these difficulties present?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 36-item Version Self-administered - How Many Days Difficulties Present</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD7-How Many Days Reduce Activities" nciodm:ExtCodeID="C130848">
+                    <nciodm:CDISCSynonym>WD7-How Many Days Reduce Activities</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 36-Item Self - In the past 30 days, not counting the days that you were totally unable, for how many days did you cut back or reduce your usual activities or work because of any health condition?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 36-item Version Self-administered - How Many Days Reduce Activities</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD7-Learning a New Task" nciodm:ExtCodeID="C130813">
+                    <nciodm:CDISCSynonym>WD7-Learning a New Task</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 36-Item Self - In the past 30 days, how much difficulty did you have in: Learning a new task, for example, learning how to get to a new place?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 36-item Version Self-administered - Learning a New Task</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD7-Maintaining a Friendship" nciodm:ExtCodeID="C130826">
+                    <nciodm:CDISCSynonym>WD7-Maintaining a Friendship</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 36-Item Self - In the past 30 days, how much difficulty did you have in: Maintaining a friendship?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 36-item Version Self-administered - Maintaining a Friendship</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD7-Making New Friends" nciodm:ExtCodeID="C130828">
+                    <nciodm:CDISCSynonym>WD7-Making New Friends</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 36-Item Self - In the past 30 days, how much difficulty did you have in: Making new friends?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 36-item Version Self-administered - Making New Friends</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD7-Moving Around Inside Your Home" nciodm:ExtCodeID="C130818">
+                    <nciodm:CDISCSynonym>WD7-Moving Around Inside Your Home</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 36-Item Self - In the past 30 days, how much difficulty did you have in: Moving around inside your home?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 36-item Version Self-administered - Moving Around Inside Your Home</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD7-Problem Because of Barriers in World" nciodm:ExtCodeID="C130839">
+                    <nciodm:CDISCSynonym>WD7-Problem Because of Barriers in World</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 36-Item Self - In the past 30 days: How much of a problem did you have because of barriers or hindrances in the world around you?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 36-item Version Self-administered - Problem Because of Barriers in World</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD7-Problem Did Your Family Have" nciodm:ExtCodeID="C130844">
+                    <nciodm:CDISCSynonym>WD7-Problem Did Your Family Have</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 36-Item Self - In the past 30 days: How much of a problem did your family have because of your health problems?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 36-item Version Self-administered - Problem Did Your Family Have</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD7-Problem Doing Things for Relaxation" nciodm:ExtCodeID="C130845">
+                    <nciodm:CDISCSynonym>WD7-Problem Doing Things for Relaxation</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 36-Item Self - In the past 30 days: How much of a problem did you have in doing things by yourself for relaxation or pleasure?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 36-item Version Self-administered - Problem Doing Things for Relaxation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD7-Problem Joining Community Activities" nciodm:ExtCodeID="C130838">
+                    <nciodm:CDISCSynonym>WD7-Problem Joining Community Activities</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 36-Item Self - In the past 30 days: How much of a problem did you have in joining in community activities (for example, festivities, religious or other activities) in the same way as anyone else can?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 36-item Version Self-administered - Problem Joining Community Activities</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD7-Problem Living with Dignity" nciodm:ExtCodeID="C130840">
+                    <nciodm:CDISCSynonym>WD7-Problem Living with Dignity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 36-Item Self - In the past 30 days: How much of a problem did you have living with dignity because of the attitudes and actions of others?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 36-item Version Self-administered - Problem Living with Dignity</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD7-Remembering to Do Important Things" nciodm:ExtCodeID="C130811">
+                    <nciodm:CDISCSynonym>WD7-Remembering to Do Important Things</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 36-Item Self - In the past 30 days, how much difficulty did you have in: Remembering to do important things?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 36-item Version Self-administered - Remembering to Do Important Things</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD7-Sexual Activities" nciodm:ExtCodeID="C130829">
+                    <nciodm:CDISCSynonym>WD7-Sexual Activities</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 36-Item Self - In the past 30 days, how much difficulty did you have in: Sexual activities?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 36-item Version Self-administered - Sexual Activities</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD7-Standing for Long Periods" nciodm:ExtCodeID="C130816">
+                    <nciodm:CDISCSynonym>WD7-Standing for Long Periods</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 36-Item Self - In the past 30 days, how much difficulty did you have in: Standing for long periods such as 30 minutes?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 36-item Version Self-administered - Standing for Long Periods</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD7-Standing Up From Sitting Down" nciodm:ExtCodeID="C130817">
+                    <nciodm:CDISCSynonym>WD7-Standing Up From Sitting Down</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 36-Item Self - In the past 30 days, how much difficulty did you have in: Standing up from sitting down?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 36-item Version Self-administered - Standing Up From Sitting Down</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD7-Starting/Maintaining Conversation" nciodm:ExtCodeID="C130815">
+                    <nciodm:CDISCSynonym>WD7-Starting/Maintaining Conversation</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 36-Item Self - In the past 30 days, how much difficulty did you have in: Starting and maintaining a conversation?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 36-item Version Self-administered - Starting or Maintaining Conversation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD7-Staying by Yourself for a Few Days" nciodm:ExtCodeID="C130824">
+                    <nciodm:CDISCSynonym>WD7-Staying by Yourself for a Few Days</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 36-Item Self - In the past 30 days, how much difficulty did you have in: Staying by yourself for a few days?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 36-item Version Self-administered - Staying by Yourself for a Few Days</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD7-Time Spend on Your Health Condition" nciodm:ExtCodeID="C130841">
+                    <nciodm:CDISCSynonym>WD7-Time Spend on Your Health Condition</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 36-Item Self - In the past 30 days: How much time did you spend on your health condition, or its consequences?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 36-item Version Self-administered - Time Spend on Your Health Condition</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD7-Understanding What People Say" nciodm:ExtCodeID="C130814">
+                    <nciodm:CDISCSynonym>WD7-Understanding What People Say</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 36-Item Self - In the past 30 days, how much difficulty did you have in: Generally understanding what people say?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 36-item Version Self-administered - Understanding What People Say</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD7-Walking a Long Distance" nciodm:ExtCodeID="C130820">
+                    <nciodm:CDISCSynonym>WD7-Walking a Long Distance</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 36-Item Self - In the past 30 days, how much difficulty did you have in: Walking a long distance such as a kilometre [or equivalent]?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 36-item Version Self-administered - Walking a Long Distance</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD7-Washing Your Whole Body" nciodm:ExtCodeID="C130821">
+                    <nciodm:CDISCSynonym>WD7-Washing Your Whole Body</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 36-Item Self - in the past 30 days, how much difficulty did you have in: Washing your whole body?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 36-item Version Self-administered - Washing Your Whole Body</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD7-Your Day-to-Day Work/School" nciodm:ExtCodeID="C130834">
+                    <nciodm:CDISCSynonym>WD7-Your Day-to-Day Work/School</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 36-Item Self - Because of your health condition, in the past 30 days, how much difficulty did you have in: your day-to-day work/school?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 36-item Version Self-administered - Your Day-to-Day Work or School</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>WD7TN</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>World Health Organization Disability Assessment Schedule 2.0 - 36-Item Self Questionnaire Test Name</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Questionnaire WHODAS 2.0 36-item Version Self-administered Test Name Terminology</nciodm:PreferredTerm>
+            </CodeList>
+        

@@ -1,0 +1,174 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C130247.IDSC1TC" Name="Inventory of Depressive Symptomatology Clinician-Rated Version Clinical Classification Test Code" DataType="text" nciodm:ExtCodeID="C130247" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Inventory of Depressive Symptomatology Clinician-Rated Version test code.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="IDSC101" nciodm:ExtCodeID="C130360">
+                    <nciodm:CDISCSynonym>IDSC1-Sleep Onset Insomnia</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Inventory of Depressive Symptomatology - Clinician-Rated - Please circle one response to each item that best describes the patient for the last seven days: Sleep onset insomnia.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IDS-C - Sleep Onset Insomnia</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IDSC102" nciodm:ExtCodeID="C130361">
+                    <nciodm:CDISCSynonym>IDSC1-Mid-Nocturnal Insomnia</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Inventory of Depressive Symptomatology - Clinician-Rated - Please circle one response to each item that best describes the patient for the last seven days: Mid-nocturnal insomnia.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IDS-C - Mid-Nocturnal Insomnia</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IDSC103" nciodm:ExtCodeID="C130362">
+                    <nciodm:CDISCSynonym>IDSC1-Early Morning Insomnia</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Inventory of Depressive Symptomatology - Clinician-Rated - Please circle one response to each item that best describes the patient for the last seven days: Early morning insomnia.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IDS-C - Early Morning Insomnia</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IDSC104" nciodm:ExtCodeID="C130363">
+                    <nciodm:CDISCSynonym>IDSC1-Hypersomnia</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Inventory of Depressive Symptomatology - Clinician-Rated - Please circle one response to each item that best describes the patient for the last seven days: Hypersomnia.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IDS-C - Hypersomnia</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IDSC105" nciodm:ExtCodeID="C130364">
+                    <nciodm:CDISCSynonym>IDSC1-Mood (Sad)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Inventory of Depressive Symptomatology - Clinician-Rated - Please circle one response to each item that best describes the patient for the last seven days: Mood (sad).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IDS-C - Mood (Sad)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IDSC106" nciodm:ExtCodeID="C130365">
+                    <nciodm:CDISCSynonym>IDSC1-Mood (Irritable)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Inventory of Depressive Symptomatology - Clinician-Rated - Please circle one response to each item that best describes the patient for the last seven days: Mood (irritable).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IDS-C - Mood (Irritable)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IDSC107" nciodm:ExtCodeID="C130366">
+                    <nciodm:CDISCSynonym>IDSC1-Mood (Anxious)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Inventory of Depressive Symptomatology - Clinician-Rated - Please circle one response to each item that best describes the patient for the last seven days: Mood (anxious).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IDS-C - Mood (Anxious)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IDSC108" nciodm:ExtCodeID="C130367">
+                    <nciodm:CDISCSynonym>IDSC1-Reactivity of Mood</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Inventory of Depressive Symptomatology - Clinician-Rated - Please circle one response to each item that best describes the patient for the last seven days: Reactivity of mood.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IDS-C - Reactivity of Mood</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IDSC109" nciodm:ExtCodeID="C130368">
+                    <nciodm:CDISCSynonym>IDSC1-Mood Variation</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Inventory of Depressive Symptomatology - Clinician-Rated - Please circle one response to each item that best describes the patient for the last seven days: Mood variation.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IDS-C - Mood Variation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IDSC109A" nciodm:ExtCodeID="C130369">
+                    <nciodm:CDISCSynonym>IDSC1-Mood Worse Morn/Afternoon/Night</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Inventory of Depressive Symptomatology - Clinician-Rated - Is mood typically worse in morning, afternoon, or night.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IDS-C - Mood Worse in Morning, Afternoon, or Night</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IDSC109B" nciodm:ExtCodeID="C130370">
+                    <nciodm:CDISCSynonym>IDSC1-Mood Attributed to Environment</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Inventory of Depressive Symptomatology - Clinician-Rated - Is mood variation attributed to environment by the patient?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IDS-C - Mood Variation Attributed to Environment</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IDSC110" nciodm:ExtCodeID="C130371">
+                    <nciodm:CDISCSynonym>IDSC1-Quality of Mood</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Inventory of Depressive Symptomatology - Clinician-Rated - Please circle one response to each item that best describes the patient for the last seven days: Quality of mood.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IDS-C - Quality of Mood</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IDSC111" nciodm:ExtCodeID="C130372">
+                    <nciodm:CDISCSynonym>IDSC1-Appetite (Decreased)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Inventory of Depressive Symptomatology - Clinician-Rated - Please circle one response to each item that best describes the patient for the last seven days: Appetite (decreased).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IDS-C - Appetite (Decreased)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IDSC112" nciodm:ExtCodeID="C130373">
+                    <nciodm:CDISCSynonym>IDSC1-Appetite (Increased)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Inventory of Depressive Symptomatology - Clinician-Rated - Please circle one response to each item that best describes the patient for the last seven days: Appetite (increased).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IDS-C - Appetite (Increased)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IDSC113" nciodm:ExtCodeID="C130374">
+                    <nciodm:CDISCSynonym>IDSC1-Weight (Decrease)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Inventory of Depressive Symptomatology - Clinician-Rated - Please circle one response to each item that best describes the patient for the last seven days: Weight (decrease) within the last two weeks.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IDS-C - Weight (Decrease)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IDSC114" nciodm:ExtCodeID="C130375">
+                    <nciodm:CDISCSynonym>IDSC1-Weight (Increase)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Inventory of Depressive Symptomatology - Clinician-Rated - Please circle one response to each item that best describes the patient for the last seven days: Weight (increase) within the last two weeks.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IDS-C - Weight (Increase)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IDSC115" nciodm:ExtCodeID="C130376">
+                    <nciodm:CDISCSynonym>IDSC1-Concentration/Decision Making</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Inventory of Depressive Symptomatology - Clinician-Rated - Please circle one response to each item that best describes the patient for the last seven days: Concentration/decision making.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IDS-C - Concentration or Decision Making</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IDSC116" nciodm:ExtCodeID="C130377">
+                    <nciodm:CDISCSynonym>IDSC1-Outlook (Self)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Inventory of Depressive Symptomatology - Clinician-Rated - Please circle one response to each item that best describes the patient for the last seven days: Outlook (self).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IDS-C - Outlook (Self)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IDSC117" nciodm:ExtCodeID="C130378">
+                    <nciodm:CDISCSynonym>IDSC1-Outlook (Future)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Inventory of Depressive Symptomatology - Clinician-Rated - Please circle one response to each item that best describes the patient for the last seven days: Outlook (future).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IDS-C - Outlook (Future)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IDSC118" nciodm:ExtCodeID="C130379">
+                    <nciodm:CDISCSynonym>IDSC1-Suicidal Ideation</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Inventory of Depressive Symptomatology - Clinician-Rated - Please circle one response to each item that best describes the patient for the last seven days: Suicidal ideation.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IDS-C - Suicidal Ideation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IDSC119" nciodm:ExtCodeID="C130380">
+                    <nciodm:CDISCSynonym>IDSC1-Involvement</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Inventory of Depressive Symptomatology - Clinician-Rated - Please circle one response to each item that best describes the patient for the last seven days: Involvement.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IDS-C - Involvement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IDSC120" nciodm:ExtCodeID="C130381">
+                    <nciodm:CDISCSynonym>IDSC1-Energy/Fatiguability</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Inventory of Depressive Symptomatology - Clinician-Rated - Please circle one response to each item that best describes the patient for the last seven days: Energy/fatiguability.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IDS-C - Energy or Fatiguability</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IDSC121" nciodm:ExtCodeID="C130382">
+                    <nciodm:CDISCSynonym>IDSC1-Pleasure/Enjoyment (Exclude Sex)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Inventory of Depressive Symptomatology - Clinician-Rated - Please circle one response to each item that best describes the patient for the last seven days: Pleasure/enjoyment (exclude sexual activities).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IDS-C - Pleasure or Enjoyment</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IDSC122" nciodm:ExtCodeID="C130383">
+                    <nciodm:CDISCSynonym>IDSC1-Sexual Interest</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Inventory of Depressive Symptomatology - Clinician-Rated - Please circle one response to each item that best describes the patient for the last seven days: Sexual interest.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IDS-C - Sexual Interest</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IDSC123" nciodm:ExtCodeID="C130384">
+                    <nciodm:CDISCSynonym>IDSC1-Psychomotor Slowing</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Inventory of Depressive Symptomatology - Clinician-Rated - Please circle one response to each item that best describes the patient for the last seven days: Psychomotor slowing.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IDS-C - Psychomotor Slowing</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IDSC124" nciodm:ExtCodeID="C130385">
+                    <nciodm:CDISCSynonym>IDSC1-Psychomotor Agitation</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Inventory of Depressive Symptomatology - Clinician-Rated - Please circle one response to each item that best describes the patient for the last seven days: Psychomotor agitation.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IDS-C - Psychomotor Agitation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IDSC125" nciodm:ExtCodeID="C130386">
+                    <nciodm:CDISCSynonym>IDSC1-Somatic Complaints</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Inventory of Depressive Symptomatology - Clinician-Rated - Please circle one response to each item that best describes the patient for the last seven days: Somatic complaints.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IDS-C - Somatic Complaints</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IDSC126" nciodm:ExtCodeID="C130387">
+                    <nciodm:CDISCSynonym>IDSC1-Sympathetic Arousal</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Inventory of Depressive Symptomatology - Clinician-Rated - Please circle one response to each item that best describes the patient for the last seven days: Sympathetic arousal.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IDS-C - Sympathetic Arousal</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IDSC127" nciodm:ExtCodeID="C130388">
+                    <nciodm:CDISCSynonym>IDSC1-Panic/Phobic Symptoms</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Inventory of Depressive Symptomatology - Clinician-Rated - Please circle one response to each item that best describes the patient for the last seven days: Panic/phobic symptoms.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IDS-C - Panic or Phobic Symptoms</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IDSC128" nciodm:ExtCodeID="C130389">
+                    <nciodm:CDISCSynonym>IDSC1-Gastrointestinal</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Inventory of Depressive Symptomatology - Clinician-Rated - Please circle one response to each item that best describes the patient for the last seven days: Gastrointestinal.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IDS-C - Gastrointestinal</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IDSC129" nciodm:ExtCodeID="C130390">
+                    <nciodm:CDISCSynonym>IDSC1-Interpersonal Sensitivity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Inventory of Depressive Symptomatology - Clinician-Rated - Please circle one response to each item that best describes the patient for the last seven days: Interpersonal sensitivity.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IDS-C - Interpersonal Sensitivity</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IDSC130" nciodm:ExtCodeID="C130391">
+                    <nciodm:CDISCSynonym>IDSC1-Leaden Paralysis/Physical Energy</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Inventory of Depressive Symptomatology - Clinician-Rated - Please circle one response to each item that best describes the patient for the last seven days: Leaden paralysis/physical energy.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IDS-C - Leaden Paralysis or Physical Energy</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IDSC131" nciodm:ExtCodeID="C130392">
+                    <nciodm:CDISCSynonym>IDSC1-Score</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Inventory of Depressive Symptomatology - Clinician-Rated - Score.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IDS-C - Score</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>IDSC1TC</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Inventory of Depressive Symptomatology Clinician-Rated Version Clinical Classification Test Code</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Clinical Classification IDS-C Test Code Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

@@ -1,0 +1,14 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C130250.KDPI01TN" Name="Kidney Donor Profile Index Clinical Classification Test Name" DataType="text" nciodm:ExtCodeID="C130250" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Kidney Donor Profile Index test name.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="KDPI01-KDPI Score" nciodm:ExtCodeID="C130393">
+                    <nciodm:CDISCSynonym>KDPI01-KDPI Score</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Kidney Donor Profile Index - KDPI score.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>KDPI - KDPI Score</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>KDPI01TN</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Kidney Donor Profile Index Clinical Classification Test Name</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Clinical Classification KDPI Test Name Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

@@ -32,6 +32,11 @@
                     <nciodm:CDISCDefinition>The Body-Mass Index, Airflow Obstruction, Dyspnea, and Exercise Capacity Index (BODE Index) (Bartolome R. Celli, M.D., Claudia G. Cote, M.D., Jose M. Marin, M.D., Ciro Casanova, M.D., Maria Montes de Oca, M.D., Reina A. Mendez, M.D., Victor Pinto Plata, M.D., and Howard J. Cabral, Ph.D.; N Engl J Med 2004;350:1005-12).</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>The Body-Mass Index, Airflow Obstruction, Dyspnea, and Exercise Capacity Index Clinical Classification</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="BUERS" nciodm:ExtCodeID="C130304">
+                    <nciodm:CDISCSynonym>BUERS1</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brooke Upper Extremity Rating Scale (BUERS)(Brooke MG, Griggs RC, Mendell JR, Fenichel, GM, Shumate JB and Peggegrino RJ (1981). Clinical trial in duchenne dystrophy. I The Design of the Protocol. Muscle and Nerve: 4:186-197).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Brooke Upper Extremity Rating Scale Clinical Classification</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="CDC HIV CLASSIFICATION FOR ADULTS AND ADOLESCENTS" nciodm:ExtCodeID="C124715">
                     <nciodm:CDISCSynonym>CHIVC1</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>CDC Classification System for HIV-Infected Adults and Adolescents (Centers for Disease Control and Prevention. 1993 Revised Classification System for HIV Infection and Expanded Surveillance Case Definition for AIDS Among Adolescents and Adults. MMWR Recomm Rep. 1992 Dec 18;41(RR-17):1-19).</nciodm:CDISCDefinition>
@@ -77,6 +82,26 @@
                     <nciodm:CDISCDefinition>The Hamilton Depression Rating Scale 21-Item (HAMD 21) (Hedlund and Vieweg, The Hamilton rating scale for depression. Journal of Operational Psychiatry, 1979;10(2):149-165).</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Hamilton Depression Rating Scale 21-Item Clinical Classification</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAMD 24" nciodm:ExtCodeID="C130307">
+                    <nciodm:CDISCSynonym>HAMD3</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Hamilton Depression Rating Scale 24-Item (HAM-D24) (Clinical Psychometrics: Per Bech, MD; John Wiley &amp; Sons, Ltd. 2012).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Hamilton Depression Rating Scale-24 Item Clinical Classification</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAMD 6 CLINICIAN VERSION" nciodm:ExtCodeID="C130306">
+                    <nciodm:CDISCSynonym>HAMD4</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Hamilton Depression Rating Scale 6 - Clinician Version (HAM-D6 - Clinician Version) (Clinical Research: Rating scales in depression: limitations and pitfalls; Per Bech, MD; Copyright 2006 LLS SAS. All rights reserved).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Hamilton Depression Rating Scale 6 Clinician Version Clinical Classification</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IDS-C" nciodm:ExtCodeID="C130308">
+                    <nciodm:CDISCSynonym>IDSC1</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Inventory of Depressive Symptomatology - Clinician-Rated (IDS-C) (Rush, A.J., Giles, D.E., Schlesser, M.A., Fulton, C.L.,Weissenburger, J.E. and Burns, C.T. The Inventory of Depressive Symptomatology (IDS): Preliminary findings. Psychiatry Research, 18:65-87, 1986).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Inventory of Depressive Symptomatology Clinician-Rated Version Clinical Classification</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="KDPI" nciodm:ExtCodeID="C130310">
+                    <nciodm:CDISCSynonym>KDPI01</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Kidney Donor Profile Index (KDPI) (OPTN/UNOS. A guide to calculating and interpreting the Kidney Donor Profile Index (KDPI). [Accessed April 18, 2016]. Available at: https://optn.transplant.hrsa.gov/media/1512/guide_to_calculating_interpreting_kdpi.pdf. Rao PS, Schaubel DE, Guidinger MK, et al. A comprehensive risk quantification score for deceased donor kidneys: the kidney donor risk index. Transplantation 2009 Jul 27;88(2):231-6).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Kidney Donor Profile Index Clinical Classification</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="MELD" nciodm:ExtCodeID="C121008">
                     <nciodm:CDISCSynonym>MELD01</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Model for End Stage Liver Disease (MELD) (Malinchoc M, Kamath PS, Gordon FD, Peine CJ, Rank J, ter Borg PC (April 2000). A model to predict poor survival in patients undergoing transjugular intrahepatic portosystemic shunts. Hepatology 31 (4): 864-71).</nciodm:CDISCDefinition>
@@ -97,6 +122,11 @@
                     <nciodm:CDISCDefinition>Positive and Negative Syndrome Scale (PANSS) (Copyright 1992 Multi-Health Systems Inc. All rights reserved).</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Positive and Negative Syndrome Scale Clinical Classification</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="QIDS-C" nciodm:ExtCodeID="C130309">
+                    <nciodm:CDISCSynonym>QIDSC1</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Quick Inventory of Depressive Symptomatology - Clinician-Rated (QIDS-C) (Rush AJ, Trivedi MH, Ibrahim HM, Carmody TJ, Arnow B, Klein DN, Markowitz JC, Ninan PT, Kornstein S, Manber R, Thase ME, Kocsis JH, Keller MB. The 16-item Quick Inventory of Depressive Symptomatology (QIDS) Clinician Rating (QIDS-C) and Self-Report (QIDS-SR): A psychometric evaluation in patients with chronic major depression. Biological Psychiatry, 54:573-583, 2003).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Quick Inventory of Depressive Symptomatology Clinician-Rated Version Clinical Classification</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="REYNOLDS CVD 10-YEAR RISK" nciodm:ExtCodeID="C124708">
                     <nciodm:CDISCSynonym>RCVD01</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Reynolds Cardiovascular Disease 10-Year Risk Score (Ridker PM, Buring JE, Rifai N, Cook NR. Development and Validation of Improved Algorithms for the Assessment of Global Cardiovascular Risk in Women: The Reynolds Risk Score. Jama 2007; 297: 611-619), (Ridker PM, Paynter NP, Rifai N, Gaziano JM, Cook NR. C-Reactive Protein and Parental History Improve Global Cardiovascular Risk Prediction: The Reynolds Risk Score for Men. Circulation2008; 118(22): 2243-2251).</nciodm:CDISCDefinition>
@@ -116,6 +146,11 @@
                     <nciodm:CDISCSynonym>TIMG01</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Coronary Thrombus TIMI Grade (TIMI Definitions for Commonly Used Terms in Clinical Trials. Available at http://www.timi.org/wp-content/uploads/2010/10/TIMI-Definitions.pdf. Accessed November 30, 2013).</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Coronary Thrombus TIMI Grade Clinical Classification</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="VLERS" nciodm:ExtCodeID="C130305">
+                    <nciodm:CDISCSynonym>VLERS1</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Vignos Lower Extremity Rating Scale (VLERS) (Vignos PJ, Spencer CE, Archibald KC. (1963) Management of progressive muscular dystrophy in childhood.JAMA 184:389-96. Brooke MG, Griggs RC, Mendell JR, Fenichel, GM, Shumate JB and Peggegrino RJ (1981). Clinical trial in duchenne dystrophy. I The Design of the Protocol. Muscle and Nerve: 4:186-197).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Vignos Lower Extremity Rating Scale Clinical Classification</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="WEST HAVEN HEPATIC ENCEPHALOPATHY GRADE" nciodm:ExtCodeID="C124709">
                     <nciodm:CDISCSynonym>WHEG01</nciodm:CDISCSynonym>

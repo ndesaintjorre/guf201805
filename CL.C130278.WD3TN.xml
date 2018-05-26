@@ -1,0 +1,84 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C130278.WD3TN" Name="World Health Organization Disability Assessment Schedule 2.0 - 12-Item Self Questionnaire Test Name" DataType="text" nciodm:ExtCodeID="C130278" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">World Health Organization Disability Assessment Schedule 2.0 - 12-Item Self test name.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="WD3-Care of Household Responsibilities" nciodm:ExtCodeID="C130936">
+                    <nciodm:CDISCSynonym>WD3-Care of Household Responsibilities</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 12-Item Self - In the past 30 days, how much difficulty did you have in: Taking care of your household responsibilities?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 12-item Version Self-administered - Care of Household Responsibilities</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD3-Concentrating for Ten Minutes" nciodm:ExtCodeID="C130940">
+                    <nciodm:CDISCSynonym>WD3-Concentrating for Ten Minutes</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 12-Item Self - In the past 30 days, how much difficulty did you have in: Concentrating on doing something for ten minutes?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 12-item Version Self-administered - Concentrating for Ten Minutes</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD3-Days Unable to Carry Out Activities" nciodm:ExtCodeID="C130948">
+                    <nciodm:CDISCSynonym>WD3-Days Unable to Carry Out Activities</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 12-Item Self - In the past 30 days, for how many days were you totally unable to carry out your usual activities or work because of any health condition?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 12-item Version Self-administered - Days Unable to Carry Out Activities</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD3-Dealing With People You Do Not Know" nciodm:ExtCodeID="C130944">
+                    <nciodm:CDISCSynonym>WD3-Dealing With People You Do Not Know</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 12-Item Self - In the past 30 days, how much difficulty did you have in: Dealing with people you do not know?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 12-item Version Self-administered - Dealing With People You Do Not Know</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD3-Emotionally Affected by Health" nciodm:ExtCodeID="C130939">
+                    <nciodm:CDISCSynonym>WD3-Emotionally Affected by Health</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 12-Item Self - In the past 30 days, how much difficulty did you have in: How much have you been emotionally affected by your health problems?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 12-item Version Self-administered - Emotionally Affected by Health</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD3-Getting Dressed" nciodm:ExtCodeID="C130943">
+                    <nciodm:CDISCSynonym>WD3-Getting Dressed</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 12-Item Self - In the past 30 days, how much difficulty did you have in: Getting dressed?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 12-item Version Self-administered - Getting Dressed</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD3-How Many Days Difficulties Present" nciodm:ExtCodeID="C130947">
+                    <nciodm:CDISCSynonym>WD3-How Many Days Difficulties Present</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 12-Item Self - Overall, in the past 30 days, how many days were these difficulties present?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 12-item Version Self-administered - How Many Days Difficulties Present</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD3-How Many Days Reduce Activities" nciodm:ExtCodeID="C130949">
+                    <nciodm:CDISCSynonym>WD3-How Many Days Reduce Activities</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 12-Item Self - In the past 30 days, not counting the days that you were totally unable, for how many days did you cut back or reduce your usual activities or work because of any health condition?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 12-item Version Self-administered - How Many Days Reduce Activities</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD3-Learning a New Task" nciodm:ExtCodeID="C130937">
+                    <nciodm:CDISCSynonym>WD3-Learning a New Task</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 12-Item Self - In the past 30 days, how much difficulty did you have in: Learning a new task, for example, learning how to get to a new place?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 12-item Version Self-administered - Learning a New Task</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD3-Maintaining a Friendship" nciodm:ExtCodeID="C130945">
+                    <nciodm:CDISCSynonym>WD3-Maintaining a Friendship</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 12-Item Self - In the past 30 days, how much difficulty did you have in: Maintaining a friendship?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 12-item Version Self-administered - Maintaining a Friendship</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD3-Problem Joining Community Activities" nciodm:ExtCodeID="C130938">
+                    <nciodm:CDISCSynonym>WD3-Problem Joining Community Activities</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 12-Item Self - In the past 30 days, how much difficulty did you have in: How much of a problem did you have joining in community activities (for example, festivities, religious or other activities) in the same way as anyone else can?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 12-item Version Self-administered - Problem Joining Community Activities</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD3-Standing for Long Periods" nciodm:ExtCodeID="C130935">
+                    <nciodm:CDISCSynonym>WD3-Standing for Long Periods</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 12-Item Self - In the past 30 days, how much difficulty did you have in: Standing for long periods such as 30 minutes?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 12-item Version Self-administered - Standing for Long Periods</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD3-Walking a Long Distance" nciodm:ExtCodeID="C130941">
+                    <nciodm:CDISCSynonym>WD3-Walking a Long Distance</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 12-Item Self - In the past 30 days, how much difficulty did you have in: Walking a long distance such as a kilometre [or equivalent]?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 12-item Version Self-administered - Walking a Long Distance</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD3-Washing Your Whole Body" nciodm:ExtCodeID="C130942">
+                    <nciodm:CDISCSynonym>WD3-Washing Your Whole Body</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 12-Item Self - In the past 30 days, how much difficulty did you have in: Washing your whole body?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 12-item Version Self-administered - Washing Your Whole Body</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WD3-Your Day-to-Day Work/School" nciodm:ExtCodeID="C130946">
+                    <nciodm:CDISCSynonym>WD3-Your Day-to-Day Work/School</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 12-Item Self - In the past 30 days, how much difficulty did you have in: Your day-to-day work?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WHODAS 2.0 12-item Version Self-administered - Your Day-to-Day Work or School</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>WD3TN</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>World Health Organization Disability Assessment Schedule 2.0 - 12-Item Self Questionnaire Test Name</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Questionnaire WHODAS 2.0 12-item Version Self-administered Test Name Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

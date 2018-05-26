@@ -332,6 +332,21 @@
                     <nciodm:CDISCDefinition>Functional Assessment of Cancer Therapy-General Version 4 (FACT-G V4) (Copyright 1987, 1997 David Cella, Ph.D. All Rights Reserved; Questionnaires and all related subscales, translations, and adaptations ('FACIT System') are owned and copyrighted by David Cella, Ph.D. The ownership and copyright of the FACIT System resides strictly with Dr. Cella. Dr. Cella has granted FACIT.org the right to license usage of the FACIT System to other parties).</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Functional Assessment of Cancer Therapy-General Version 4 Questionnaire</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="FACT-HEP V4" nciodm:ExtCodeID="C130312">
+                    <nciodm:CDISCSynonym>FAC015</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Cancer Therapy-Hepatobiliary Version 4 (FACT-HEP V4) (Copyright 1987, 1997 David Cella, Ph.D. All Rights Reserved; Questionnaires and all related subscales, translations, and adaptations ('FACIT System') are owned and copyrighted by David Cella, Ph.D. The ownership and copyright of the FACIT System resides strictly with Dr. Cella. Dr. Cella has granted FACIT.org the right to license usage of the FACIT System to other parties).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Functional Assessment of Cancer Therapy-Hepatobiliary Version 4 Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FACT-LEU V4" nciodm:ExtCodeID="C130311">
+                    <nciodm:CDISCSynonym>FAC017</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Cancer Therapy-Leukemia Version 4 (FACT-LEU V4) (Copyright 1987, 1997 David Cella, Ph.D. All Rights Reserved; Questionnaires and all related subscales, translations, and adaptations ('FACIT System') are owned and copyrighted by David Cella, Ph.D. The ownership and copyright of the FACIT System resides strictly with Dr. Cella. Dr. Cella has granted FACIT.org the right to license usage of the FACIT System to other parties).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Functional Assessment of Cancer Therapy-Leukemia Version 4 Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FACT-LYM V4" nciodm:ExtCodeID="C130313">
+                    <nciodm:CDISCSynonym>FAC018</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Cancer Therapy-Lymphoma Version 4 (FACT-LYM V4) (Copyright 1987, 1997 David Cella, Ph.D. All Rights Reserved; Questionnaires and all related subscales, translations, and adaptations ('FACIT System') are owned and copyrighted by David Cella, Ph.D. The ownership and copyright of the FACIT System resides strictly with Dr. Cella. Dr. Cella has granted FACIT.org the right to license usage of the FACIT System to other parties).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Functional Assessment of Cancer Therapy-Lymphoma Version 4 Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="FACT-P V4" nciodm:ExtCodeID="C127371">
                     <nciodm:CDISCSynonym>FAC023</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Functional Assessment of Cancer Therapy-Prostate Version 4 (FACT-P V4) (Copyright 1987, 1997 David Cella, Ph.D. All Rights Reserved; Questionnaires and all related subscales, translations, and adaptations ('FACIT System') are owned and copyrighted by David Cella, Ph.D. The ownership and copyright of the FACIT System resides strictly with Dr. Cella. Dr. Cella has granted FACIT.org the right to license usage of the FACIT System to other parties).</nciodm:CDISCDefinition>
@@ -457,10 +472,20 @@
                     <nciodm:CDISCDefinition>Hemophilia Quality of Life (HAEMO-QOL) Questionnaire Parent's Long Version Age Group III (The Haemo-QoL questionnaire-set is a joint property of the Haemo-QoL Study Centre at the University of Hamburg, Germany and Bayer Biological Products, Research Triangle Park, North Carolina, USA. Development of new translations, modified versions or any other derivatives - such as electronic versions - are not permitted without special permission and involvement of the Haemo-QoL Study Group).</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Hemophilia Quality of Life Questionnaire Parent's Long Version Age Group III</nciodm:PreferredTerm>
                 </EnumeratedItem>
-                <EnumeratedItem CodedValue="HAQ-DI" nciodm:ExtCodeID="C106699">
+                <EnumeratedItem CodedValue="HAMD 6 SELF-REPORT VERSION" nciodm:ExtCodeID="C130314">
+                    <nciodm:CDISCSynonym>HAMDS1</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Hamilton Depression Rating Scale 6 Self-Report Version (HAM-D6 - Self-Report Version) (Clinical Research: Rating scales in depression: limitations and pitfalls; Per Bech, MD; Copyright 2006 LLS SAS. All rights reserved).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Hamilton Depression Rating Scale 6 Self-Report Version Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAQ-DI WITH VAS" nciodm:ExtCodeID="C106699">
                     <nciodm:CDISCSynonym>HAQ01</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Health Assessment Questionnaire Disability Index (HAQ-DI) (Fries JF. The assessment of disability: from first to future principles. Br J Rheumatol. 1983 Aug; 22(3 Suppl):48-58).</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Health Assessment Questionnaire Disability Index Questionnaire</nciodm:PreferredTerm>
+                    <nciodm:CDISCDefinition>Health Assessment Questionnaire Disability Index With Pain Visual Analog Scale (HAQ-DI WITH VAS) (Fries JF. The assessment of disability: from first to future principles. Br J Rheumatol. 1983 Aug; 22(3 Suppl):48-58).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Health Assessment Questionnaire Disability Index With Pain Visual Analog Scale Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IDS-SR" nciodm:ExtCodeID="C130315">
+                    <nciodm:CDISCSynonym>IDSR1</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Inventory of Depressive Symptomatology - Self-Report (IDS-SR) (Rush, A.J., Carmody, T. and Reimitz, P.E. The Inventory of Depressive Symptomatology (IDS): Clinician (IDS-C) and self-report (IDS-SR) ratings of depressive symptoms. International Journal of Methods in Psychiatric Research, 9:45-59, 2000).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Inventory of Depressive Symptomatology Self-Report Version Questionnaire</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="IIEF" nciodm:ExtCodeID="C103521">
                     <nciodm:CDISCSynonym>IIEF01</nciodm:CDISCSynonym>
@@ -647,6 +672,21 @@
                     <nciodm:CDISCDefinition>Pittsburgh Sleep Quality Index (PSQI) (Copyright 1989, University of Pittsburgh. Buysse,D.J., Reynolds,C.F., Monk,T.H., Berman,S.R., &amp; Kupfer, D.J. The Pittsburgh Sleep Quality Index (PSQI): A new instrument for psychiatric practice and research. Psychiatry Research, 1989, 28(2):193-213).</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Pittsburgh Sleep Quality Index</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="Q-LES-Q" nciodm:ExtCodeID="C130317">
+                    <nciodm:CDISCSynonym>QLES1</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Quality Of Life Enjoyment And Satisfaction Questionnaire (Q-LES-Q) (Copyright Jean Endicott, PhD; Unit 123, 1051 Riverside Drive, New York, NY 10032. 212-543-5536; Endicott J, Nee J, Harrison W, Blumenthal R. Quality of Life Enjoyment and Satisfaction Questionnaire: a new measure. Psychopharmacol Bull. 1993;29(2):321-6).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Quality Of Life Enjoyment And Satisfaction Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Q-LES-Q-SF" nciodm:ExtCodeID="C130318">
+                    <nciodm:CDISCSynonym>QLES2</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Quality Of Life Enjoyment And Satisfaction Questionnaire - Short Form (Q-LES-Q-SF) (Copyright Jean Endicott, PhD; Unit 123, 1051 Riverside Drive, New York, NY 10032. 212-543-5536; Endicott J, Nee J, Harrison W, Blumenthal R. Quality of Life Enjoyment and Satisfaction Questionnaire: a new measure. Psychopharmacol Bull. 1993;29(2):321-6).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Quality of Life Enjoyment and Satisfaction Questionnaire-Short Form</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="QIDS-SR" nciodm:ExtCodeID="C130316">
+                    <nciodm:CDISCSynonym>QIDSR1</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Quick Inventory of Depressive Symptomatology - Self-Report (QIDS-SR) (Rush AJ, Trivedi MH, Ibrahim HM, Carmody TJ, Arnow B, Klein DN, Markowitz JC, Ninan PT, Kornstein S, Manber R, Thase ME, Kocsis JH, Keller MB. The 16-item Quick Inventory of Depressive Symptomatology (QIDS) Clinician Rating (QIDS-C) and Self-Report (QIDS-SR): A psychometric evaluation in patients with chronic major depression. Biological Psychiatry, 54:573-583, 2003).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Quick Inventory of Depressive Symptomatology Self-Report Version Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="RAND-36 V1.0" nciodm:ExtCodeID="C113879">
                     <nciodm:CDISCSynonym>R3601</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>RAND 36-Item Health Survey 1.0 (RAND-36) (Copyright the RAND Corporation. Developed at RAND as part of the Medical Outcomes Study).</nciodm:CDISCDefinition>
@@ -761,6 +801,41 @@
                     <nciodm:CDISCSynonym>VFQ2</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>National Eye Institute Visual Functioning Questionnaire - 25 (VFQ-25) Version 2000 Self-Administered Format (Mangione, C. M., Lee, P. P., Gutierrez, P. R., Spritzer, K., Berry, S., &amp; Hays, R. D. Development of the 25-item National Eye Institute Visual Function Questionnaire (VFQ-25). Archives of Ophthalmology. 2001; 119:1050-1058). (This instrument was developed at RAND under the sponsorship of the National Eye Institute).</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Visual Functioning Questionnaire 25-Self Administered Format Version 2000</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WHODAS 2.0 - 12 + 24-ITEM INTERVIEWER" nciodm:ExtCodeID="C130325">
+                    <nciodm:CDISCSynonym>WD4</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 12+24-item Version, Interviewer-administered (WHODAS 2.0 - 12+24-item Version Interviewer-administered) (Reproduced, with permission of WHO, from Measuring Health and Disability: Manual for WHO Disability Assessment Schedule (WHODAS 2.0). Geneva,World Health Organization, 2010 (WHODAS 2.0 12+24-Item Version, Interviewer-Administered www.who.int/classifications/icf/whodasii/en)).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>World Health Organization Disability Assessment Schedule 2.0 12+24-item Version Interviewer-administered Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WHODAS 2.0 - 12-ITEM INTERVIEWER" nciodm:ExtCodeID="C130322">
+                    <nciodm:CDISCSynonym>WD1</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 12-item Version, Interviewer-administered (WHODAS 2.0 - 12-item Version Interviewer-administered) (Reproduced, with permission of WHO, from Measuring Health and Disability: Manual for WHO Disability Assessment Schedule (WHODAS 2.0). Geneva,World Health Organization, 2010 (WHODAS 2.0 12-Item Version, Interviewer-Administered www.who.int/classifications/icf/whodasii/en)).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>World Health Organization Disability Assessment Schedule 2.0 12-item Version Interviewer-administered Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WHODAS 2.0 - 12-ITEM PROXY" nciodm:ExtCodeID="C130323">
+                    <nciodm:CDISCSynonym>WD2</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 12-item Version, Proxy-administered (WHODAS 2.0 - 12-item Version Proxy-administered) (Reproduced, with permission of WHO, from Measuring Health and Disability: Manual for WHO Disability Assessment Schedule (WHODAS 2.0). Geneva,World Health Organization, 2010 (WHODAS 2.0 12-Item Version, Proxy-Administered www.who.int/classifications/icf/whodasii/en)).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>World Health Organization Disability Assessment Schedule 2.0 12-item Version Proxy-administered Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WHODAS 2.0 - 12-ITEM SELF" nciodm:ExtCodeID="C130324">
+                    <nciodm:CDISCSynonym>WD3</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 12-item Version, Self-administered (WHODAS 2.0 - 12-item Version Self-administered) (Reproduced, with permission of WHO, from Measuring Health and Disability: Manual for WHO Disability Assessment Schedule (WHODAS 2.0). Geneva,World Health Organization, 2010 (WHODAS 2.0 12-Item Version, Self-Administered www.who.int/classifications/icf/whodasii/en)).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>World Health Organization Disability Assessment Schedule 2.0 12-item Version Self-administered Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WHODAS 2.0 - 36-ITEM INTERVIEWER" nciodm:ExtCodeID="C130319">
+                    <nciodm:CDISCSynonym>WD5</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 36-item Version, Interviewer-administered (WHODAS 2.0 - 36-item Version Interviewer-administered) (Reproduced, with permission of WHO, from Measuring Health and Disability: Manual for WHO Disability Assessment Schedule (WHODAS 2.0). Geneva,World Health Organization, 2010 (WHODAS 2.0 36-Item Version, Interviewer-Administered www.who.int/classifications/icf/whodasii/en)).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>World Health Organization Disability Assessment Schedule 2.0 36-item Version Interviewer-administered Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WHODAS 2.0 - 36-ITEM PROXY" nciodm:ExtCodeID="C130320">
+                    <nciodm:CDISCSynonym>WD6</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 36-item Version, Proxy-administered (WHODAS 2.0 - 36-item Version Proxy-administered) (Reproduced, with permission of WHO, from Measuring Health and Disability: Manual for WHO Disability Assessment Schedule (WHODAS 2.0). Geneva,World Health Organization, 2010 (WHODAS 2.0 36-Item Version, Proxy-Administered www.who.int/classifications/icf/whodasii/en)).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>World Health Organization Disability Assessment Schedule 2.0 36-item Version Proxy-administered Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WHODAS 2.0 - 36-ITEM SELF" nciodm:ExtCodeID="C130321">
+                    <nciodm:CDISCSynonym>WD7</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>World Health Organization Disability Assessment Schedule 2.0 - 36-item Version, Self-administered (WHODAS 2.0 - 36-item Version Self-administered) (Reproduced, with permission of WHO, from Measuring Health and Disability: Manual for WHO Disability Assessment Schedule (WHODAS 2.0). Geneva,World Health Organization, 2010 (WHODAS 2.0 36-Item Version, Self-Administered www.who.int/classifications/icf/whodasii/en)).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>World Health Organization Disability Assessment Schedule 2.0 36-item Version Self-administered Questionnaire</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="WLQ" nciodm:ExtCodeID="C119096">
                     <nciodm:CDISCSynonym>WLQ01</nciodm:CDISCSynonym>

@@ -1,0 +1,39 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C130258.HAMDS1TN" Name="Hamilton Depression Rating Scale - 6 Self-Report Questionnaire Test Name" DataType="text" nciodm:ExtCodeID="C130258" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Hamilton Depression Rating Scale - 6 Self-Report test name.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="HAMDS1-Depressed Mood" nciodm:ExtCodeID="C130545">
+                    <nciodm:CDISCSynonym>HAMDS1-Depressed Mood</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hamilton Depression Rating Scale 6 - Self-Report Version - (1)=Depressed mood per clinician version: How you have been feeling over the past three days, including today.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAM-D6 Self-Report Version - Depressed Mood</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAMDS1-Low Self-esteem and Guilt" nciodm:ExtCodeID="C130546">
+                    <nciodm:CDISCSynonym>HAMDS1-Low Self-esteem and Guilt</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hamilton Depression Rating Scale 6 - Self-Report Version - (2)=Low self-esteem and guilt per clinician version: How you have been feeling over the past three days, including today.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAM-D6 Self-Report Version - Low Self-esteem and Guilt</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAMDS1-Psychic Anxiety" nciodm:ExtCodeID="C130549">
+                    <nciodm:CDISCSynonym>HAMDS1-Psychic Anxiety</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hamilton Depression Rating Scale 6 - Self-Report Version - (5)=Psychic anxiety per clinician version: How you have been feeling over the past three days, including today.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAM-D6 Self-Report Version - Psychic Anxiety</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAMDS1-Psychomotor Retardation, General" nciodm:ExtCodeID="C130548">
+                    <nciodm:CDISCSynonym>HAMDS1-Psychomotor Retardation, General</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hamilton Depression Rating Scale 6 - Self-Report Version - (4)=Psychomotor retardation, general per clinician version: How you have been feeling over the past three days, including today.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAM-D6 Self-Report Version - Psychomotor Retardation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAMDS1-Social Life Activities/Interests" nciodm:ExtCodeID="C130547">
+                    <nciodm:CDISCSynonym>HAMDS1-Social Life Activities/Interests</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hamilton Depression Rating Scale 6 - Self-Report Version - (3)=Social life activities and interests per clinician version: How you have been feeling over the past three days, including today.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAM-D6 Self-Report Version - Social Life Activities or Interests</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAMDS1-Tiredness and Pains" nciodm:ExtCodeID="C130550">
+                    <nciodm:CDISCSynonym>HAMDS1-Tiredness and Pains</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hamilton Depression Rating Scale 6 - Self-Report Version - (6)=Tiredness and pains per clinician version: How you have been feeling over the past three days, including today.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAM-D6 Self-Report Version - Tiredness and Pains</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>HAMDS1TN</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Hamilton Depression Rating Scale - 6 Self-Report Questionnaire Test Name</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Questionnaire HAM-D6 Self-Report Version Test Name Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

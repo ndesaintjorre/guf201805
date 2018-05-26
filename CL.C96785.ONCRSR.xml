@@ -198,6 +198,11 @@
                     <nciodm:CDISCDefinition>Unable to be evaluated. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Unevaluable</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="NED" nciodm:ExtCodeID="C40413">
+                    <nciodm:CDISCSynonym>No Evidence of Disease</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An absence of detectable disease.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>No Evidence of Disease</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="NON-CR/NON-PD" nciodm:ExtCodeID="C96700">
                     <nciodm:CDISCSynonym>Non Complete Response/Non Progressive Disease</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Persistence of one or more non-target lesion(s) and/or maintenance of tumor marker levels above the normal limits. (RECIST)</nciodm:CDISCDefinition>

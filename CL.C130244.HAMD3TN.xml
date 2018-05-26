@@ -1,0 +1,134 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C130244.HAMD3TN" Name="Hamilton Depression Rating Scale - 24 Item Clinical Classification Test Name" DataType="text" nciodm:ExtCodeID="C130244" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Hamilton Depression Rating Scale - 24 Item test name.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="HAMD3-Anxiety - Psychic" nciodm:ExtCodeID="C130344">
+                    <nciodm:CDISCSynonym>HAMD3-Anxiety - Psychic</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hamilton Depression Rating Scale 24 Item - Anxiety - psychic.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAMD 24 - Anxiety, Psychic</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAMD3-Anxiety - Somatic" nciodm:ExtCodeID="C130345">
+                    <nciodm:CDISCSynonym>HAMD3-Anxiety - Somatic</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hamilton Depression Rating Scale 24 Item - Anxiety - somatic.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAMD 24 - Anxiety, Somatic</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAMD3-Depersonalization/Derealization" nciodm:ExtCodeID="C130353">
+                    <nciodm:CDISCSynonym>HAMD3-Depersonalization/Derealization</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hamilton Depression Rating Scale 24 Item - Depersonalization/derealization.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAMD 24 - Depersonalization and Derealisation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAMD3-Depressed Mood" nciodm:ExtCodeID="C130335">
+                    <nciodm:CDISCSynonym>HAMD3-Depressed Mood</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hamilton Depression Rating Scale 24 Item - Depressed mood.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAMD 24 - Depressed Mood</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAMD3-Diurnal Variation" nciodm:ExtCodeID="C130352">
+                    <nciodm:CDISCSynonym>HAMD3-Diurnal Variation</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hamilton Depression Rating Scale 24 Item - Diurnal variation.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAMD 24 - Diurnal Variation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAMD3-GI Symptoms (Appetite)" nciodm:ExtCodeID="C130346">
+                    <nciodm:CDISCSynonym>HAMD3-GI Symptoms (Appetite)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hamilton Depression Rating Scale 24 Item - Gastrointestinal symptoms (appetite).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAMD 24 - Gastrointestinal Symptoms (Appetite)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAMD3-Helplessness" nciodm:ExtCodeID="C130356">
+                    <nciodm:CDISCSynonym>HAMD3-Helplessness</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hamilton Depression Rating Scale 24 Item - Helplessness.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAMD 24 - Helplessness</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAMD3-Hopelessness" nciodm:ExtCodeID="C130357">
+                    <nciodm:CDISCSynonym>HAMD3-Hopelessness</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hamilton Depression Rating Scale 24 Item - Hopelessness.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAMD 24 - Hopelessness</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAMD3-Hypochondriasis (Somatisation)" nciodm:ExtCodeID="C130349">
+                    <nciodm:CDISCSynonym>HAMD3-Hypochondriasis (Somatisation)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hamilton Depression Rating Scale 24 Item - Hypochondriasis (somatisation).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAMD 24 - Hypochondriasis (Somatisation)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAMD3-Insight" nciodm:ExtCodeID="C130350">
+                    <nciodm:CDISCSynonym>HAMD3-Insight</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hamilton Depression Rating Scale 24 Item - Insight.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAMD 24 - Insight</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAMD3-Insomnia - Initial" nciodm:ExtCodeID="C130338">
+                    <nciodm:CDISCSynonym>HAMD3-Insomnia - Initial</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hamilton Depression Rating Scale 24 Item - Insomnia - initial.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAMD 24 - Insomnia - Initial</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAMD3-Insomnia - Late" nciodm:ExtCodeID="C130340">
+                    <nciodm:CDISCSynonym>HAMD3-Insomnia - Late</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hamilton Depression Rating Scale 24 Item - Insomnia - late.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAMD 24 - Insomnia - Late</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAMD3-Insomnia - Middle" nciodm:ExtCodeID="C130339">
+                    <nciodm:CDISCSynonym>HAMD3-Insomnia - Middle</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hamilton Depression Rating Scale 24 Item - Insomnia - middle.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAMD 24 - Insomnia - Middle</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAMD3-Low Self-Esteem, Guilt" nciodm:ExtCodeID="C130336">
+                    <nciodm:CDISCSynonym>HAMD3-Low Self-Esteem, Guilt</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hamilton Depression Rating Scale 24 Item - Low self-esteem, guilt.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAMD 24 - Low Self-esteem, Guilt</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAMD3-Observational/Compulsive Symptoms" nciodm:ExtCodeID="C130355">
+                    <nciodm:CDISCSynonym>HAMD3-Observational/Compulsive Symptoms</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hamilton Depression Rating Scale 24 Item - Observational/compulsive symptoms.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAMD 24 - Obsessional and Compulsive Symptoms</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAMD3-Paranoid Symptoms" nciodm:ExtCodeID="C130354">
+                    <nciodm:CDISCSynonym>HAMD3-Paranoid Symptoms</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hamilton Depression Rating Scale 24 Item - Paranoid symptoms.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAMD 24 - Paranoid Symptoms</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAMD3-Psychomotor Agitation" nciodm:ExtCodeID="C130343">
+                    <nciodm:CDISCSynonym>HAMD3-Psychomotor Agitation</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hamilton Depression Rating Scale 24 Item - Psychomotor agitation.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAMD 24 - Psychomotor Agitation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAMD3-Psychomotor Retardation" nciodm:ExtCodeID="C130342">
+                    <nciodm:CDISCSynonym>HAMD3-Psychomotor Retardation</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hamilton Depression Rating Scale 24 Item - Psychomotor retardation.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAMD 24 - Psychomotor Retardation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAMD3-Sexual Disturbances" nciodm:ExtCodeID="C130348">
+                    <nciodm:CDISCSynonym>HAMD3-Sexual Disturbances</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hamilton Depression Rating Scale 24 Item - Sexual disturbances.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAMD 24 - Sexual Disturbances</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAMD3-Somatic Symptoms - General" nciodm:ExtCodeID="C130347">
+                    <nciodm:CDISCSynonym>HAMD3-Somatic Symptoms - General</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hamilton Depression Rating Scale 24 Item - Somatic symptoms - general.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAMD 24 - Somatic Symptoms, General</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAMD3-Suicidal Thoughts" nciodm:ExtCodeID="C130337">
+                    <nciodm:CDISCSynonym>HAMD3-Suicidal Thoughts</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hamilton Depression Rating Scale 24 Item - Suicidal thoughts.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAMD 24 - Suicidal Thoughts</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAMD3-Total Score" nciodm:ExtCodeID="C130359">
+                    <nciodm:CDISCSynonym>HAMD3-Total Score</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hamilton Depression Rating Scale 24 Item - Total score.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAMD 24 - Total Score</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAMD3-Weight Loss" nciodm:ExtCodeID="C130351">
+                    <nciodm:CDISCSynonym>HAMD3-Weight Loss</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hamilton Depression Rating Scale 24 Item - Weight loss.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAMD 24 - Weight Loss</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAMD3-Work and Interests" nciodm:ExtCodeID="C130341">
+                    <nciodm:CDISCSynonym>HAMD3-Work and Interests</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hamilton Depression Rating Scale 24 Item - Work and interests.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAMD 24 - Work and Interests</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAMD3-Worthlessness" nciodm:ExtCodeID="C130358">
+                    <nciodm:CDISCSynonym>HAMD3-Worthlessness</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hamilton Depression Rating Scale 24 Item - Worthlessness.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAMD 24 - Worthlessness</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>HAMD3TN</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Hamilton Depression Rating Scale - 24 Item Clinical Classification Test Name</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Clinical Classification HAMD 24 Test Name Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

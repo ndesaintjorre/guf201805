@@ -1,0 +1,174 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C130261.IDSR1TC" Name="Inventory of Depressive Symptomatology Self-Report Version Questionnaire Test Code" DataType="text" nciodm:ExtCodeID="C130261" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Inventory of Depressive Symptomatology Self-Report Version test code.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="IDSR101" nciodm:ExtCodeID="C130551">
+                    <nciodm:CDISCSynonym>IDSR1-Falling Asleep</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Inventory of Depressive Symptomatology - Self-Report - Please circle the one response to each item that best describes you for the past seven days: Falling asleep.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IDS-SR - Falling Asleep</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IDSR102" nciodm:ExtCodeID="C130552">
+                    <nciodm:CDISCSynonym>IDSR1-Sleep During the Night</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Inventory of Depressive Symptomatology - Self-Report - Please circle the one response to each item that best describes you for the past seven days: Sleep during the night.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IDS-SR - Sleep During the Night</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IDSR103" nciodm:ExtCodeID="C130553">
+                    <nciodm:CDISCSynonym>IDSR1-Waking Up Too Early</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Inventory of Depressive Symptomatology - Self-Report - Please circle the one response to each item that best describes you for the past seven days: Waking up too early.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IDS-SR - Waking Up Too Early</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IDSR104" nciodm:ExtCodeID="C130554">
+                    <nciodm:CDISCSynonym>IDSR1-Sleeping Too Much</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Inventory of Depressive Symptomatology - Self-Report - Please circle the one response to each item that best describes you for the past seven days: Sleeping too much.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IDS-SR - Sleeping Too Much</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IDSR105" nciodm:ExtCodeID="C130555">
+                    <nciodm:CDISCSynonym>IDSR1-Feeling Sad</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Inventory of Depressive Symptomatology - Self-Report - Please circle the one response to each item that best describes you for the past seven days: Feeling sad.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IDS-SR - Feeling Sad</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IDSR106" nciodm:ExtCodeID="C130556">
+                    <nciodm:CDISCSynonym>IDSR1-Feeling Irritable</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Inventory of Depressive Symptomatology - Self-Report - Please circle the one response to each item that best describes you for the past seven days: Feeling irritable.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IDS-SR - Feeling Irritable</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IDSR107" nciodm:ExtCodeID="C130557">
+                    <nciodm:CDISCSynonym>IDSR1-Feeling Anxious or Tense</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Inventory of Depressive Symptomatology - Self-Report - Please circle the one response to each item that best describes you for the past seven days: Feeling anxious or tense.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IDS-SR - Feeling Anxious or Tense</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IDSR108" nciodm:ExtCodeID="C130558">
+                    <nciodm:CDISCSynonym>IDSR1-Your Mood to Good/Desired Events</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Inventory of Depressive Symptomatology - Self-Report - Please circle the one response to each item that best describes you for the past seven days: Response of your mood to good or desired events.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IDS-SR - Response of Your Mood to Good or Desired Events</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IDSR109" nciodm:ExtCodeID="C130559">
+                    <nciodm:CDISCSynonym>IDSR1-Mood in Relation to Time of Day</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Inventory of Depressive Symptomatology - Self-Report - Please circle the one response to each item that best describes you for the past seven days: Mood in relation to the time of day.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IDS-SR - Mood in Relation to the Time of Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IDSR109A" nciodm:ExtCodeID="C130560">
+                    <nciodm:CDISCSynonym>IDSR1-Mood Worse Morn/Afternoon/Night</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Inventory of Depressive Symptomatology - Self-Report - Is your mood typically worse in the morning, afternoon or night?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IDS-SR - Mood Worse in Morning, Afternoon, or Night</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IDSR109B" nciodm:ExtCodeID="C130561">
+                    <nciodm:CDISCSynonym>IDSR1-Mood Attributed to Environment</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Inventory of Depressive Symptomatology - Self-Report - Is your mood variation attributed to the environment?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IDS-SR - Mood Variation Attributed to Environment</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IDSR110" nciodm:ExtCodeID="C130562">
+                    <nciodm:CDISCSynonym>IDSR1-Quality of Your Mood</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Inventory of Depressive Symptomatology - Self-Report - Please circle the one response to each item that best describes you for the past seven days: The quality of your mood.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IDS-SR - The Quality of Your Mood</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IDSR111" nciodm:ExtCodeID="C130563">
+                    <nciodm:CDISCSynonym>IDSR1-Decreased Appetite</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Inventory of Depressive Symptomatology - Self-Report - Please circle the one response to each item that best describes you for the past seven days: Decreased appetite.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IDS-SR - Decreased Appetite</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IDSR112" nciodm:ExtCodeID="C130564">
+                    <nciodm:CDISCSynonym>IDSR1-Increased Appetite</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Inventory of Depressive Symptomatology - Self-Report - Please circle the one response to each item that best describes you for the past seven days: Increased appetite.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IDS-SR - Increased Appetite</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IDSR113" nciodm:ExtCodeID="C130565">
+                    <nciodm:CDISCSynonym>IDSR1-Weight (Decrease)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Inventory of Depressive Symptomatology - Self-Report - Please circle the one response to each item that best describes you for the past seven days: within the last two weeks: Weight (decrease).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IDS-SR - Weight (Decrease)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IDSR114" nciodm:ExtCodeID="C130566">
+                    <nciodm:CDISCSynonym>IDSR1-Weight (Increase)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Inventory of Depressive Symptomatology - Self-Report - Please circle the one response to each item that best describes you for the past seven days: within the last two weeks: Weight (increase).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IDS-SR - Weight (Increase)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IDSR115" nciodm:ExtCodeID="C130567">
+                    <nciodm:CDISCSynonym>IDSR1-Concentration/Decision Making</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Inventory of Depressive Symptomatology - Self-Report - Please circle the one response to each item that best describes you for the past seven days: Concentration/decision making.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IDS-SR - Concentration or Decision Making</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IDSR116" nciodm:ExtCodeID="C130568">
+                    <nciodm:CDISCSynonym>IDSR1-View of Myself</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Inventory of Depressive Symptomatology - Self-Report - Please circle the one response to each item that best describes you for the past seven days: View of myself.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IDS-SR - View of Myself</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IDSR117" nciodm:ExtCodeID="C130569">
+                    <nciodm:CDISCSynonym>IDSR1-View of My Future</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Inventory of Depressive Symptomatology - Self-Report - Please circle the one response to each item that best describes you for the past seven days: View of my future.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IDS-SR - View of My Future</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IDSR118" nciodm:ExtCodeID="C130570">
+                    <nciodm:CDISCSynonym>IDSR1-Thoughts of Death or Suicide</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Inventory of Depressive Symptomatology - Self-Report - Please circle the one response to each item that best describes you for the past seven days: Thoughts of death or suicide.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IDS-SR - Thoughts of Death or Suicide</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IDSR119" nciodm:ExtCodeID="C130571">
+                    <nciodm:CDISCSynonym>IDSR1-General Interest</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Inventory of Depressive Symptomatology - Self-Report - Please circle the one response to each item that best describes you for the past seven days: General interest.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IDS-SR - General Interest</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IDSR120" nciodm:ExtCodeID="C130572">
+                    <nciodm:CDISCSynonym>IDSR1-Energy Level</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Inventory of Depressive Symptomatology - Self-Report - Please circle the one response to each item that best describes you for the past seven days: Energy level.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IDS-SR - Energy Level</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IDSR121" nciodm:ExtCodeID="C130573">
+                    <nciodm:CDISCSynonym>IDSR1-Pleasure/Enjoyment (Exclude Sex)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Inventory of Depressive Symptomatology - Self-Report - Please circle the one response to each item that best describes you for the past seven days: Capacity for pleasure or enjoyment (excluding sex).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IDS-SR - Capacity for Pleasure or Enjoyment</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IDSR122" nciodm:ExtCodeID="C130574">
+                    <nciodm:CDISCSynonym>IDSR1-Interest in Sex</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Inventory of Depressive Symptomatology - Self-Report - Please circle the one response to each item that best describes you for the past seven days: Interest in sex.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IDS-SR - Interest in Sex</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IDSR123" nciodm:ExtCodeID="C130575">
+                    <nciodm:CDISCSynonym>IDSR1-Feeling Slowed Down</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Inventory of Depressive Symptomatology - Self-Report - Please circle the one response to each item that best describes you for the past seven days: Feeling slowed down.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IDS-SR - Feeling Slowed Down</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IDSR124" nciodm:ExtCodeID="C130576">
+                    <nciodm:CDISCSynonym>IDSR1-Feeling Restless</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Inventory of Depressive Symptomatology - Self-Report - Please circle the one response to each item that best describes you for the past seven days: Feeling restless.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IDS-SR - Feeling Restless</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IDSR125" nciodm:ExtCodeID="C130577">
+                    <nciodm:CDISCSynonym>IDSR1-Aches and Pains</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Inventory of Depressive Symptomatology - Self-Report - Please circle the one response to each item that best describes you for the past seven days: Aches and pains.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IDS-SR - Aches and Pains</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IDSR126" nciodm:ExtCodeID="C130578">
+                    <nciodm:CDISCSynonym>IDSR1-Other Bodily Symptoms</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Inventory of Depressive Symptomatology - Self-Report - Please circle the one response to each item that best describes you for the past seven days: Other bodily symptoms.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IDS-SR - Other Bodily Symptoms</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IDSR127" nciodm:ExtCodeID="C130579">
+                    <nciodm:CDISCSynonym>IDSR1-Panic/Phobic Symptoms</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Inventory of Depressive Symptomatology - Self-Report - Please circle the one response to each item that best describes you for the past seven days: Panic/phobic symptoms.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IDS-SR - Panic or Phobic Symptoms</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IDSR128" nciodm:ExtCodeID="C130580">
+                    <nciodm:CDISCSynonym>IDSR1-Constipation/Diarrhea</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Inventory of Depressive Symptomatology - Self-Report - Please circle the one response to each item that best describes you for the past seven days: Constipation/diarrhea.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IDS-SR - Constipation or Diarrhea</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IDSR129" nciodm:ExtCodeID="C130581">
+                    <nciodm:CDISCSynonym>IDSR1-Interpersonal Sensitivity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Inventory of Depressive Symptomatology - Self-Report - Please circle the one response to each item that best describes you for the past seven days: Interpersonal sensitivity.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IDS-SR - Interpersonal Sensitivity</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IDSR130" nciodm:ExtCodeID="C130582">
+                    <nciodm:CDISCSynonym>IDSR1-Leaden Paralysis/Physical Energy</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Inventory of Depressive Symptomatology - Self-Report - Please circle the one response to each item that best describes you for the past seven days: Leaden paralysis/physical energy.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IDS-SR - Leaden Paralysis or Physical Energy</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IDSR131" nciodm:ExtCodeID="C130583">
+                    <nciodm:CDISCSynonym>IDSR1-Score</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Inventory of Depressive Symptomatology - Self-Report - Score.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IDS-SR - Score</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>IDSR1TC</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Inventory of Depressive Symptomatology Self-Report Version Questionnaire Test Code</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Questionnaire IDS-SR Test Code Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            
