@@ -52,6 +52,16 @@
                     <nciodm:CDISCDefinition>A code qualifying the employment in various ways, such as, full-time vs. part time, etc.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Employee Job Class</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="LNGSPP" nciodm:ExtCodeID="C132459">
+                    <nciodm:CDISCSynonym>Primary Language Spoken</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The main language that is spoken by the subject most frequently or dominantly.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Primary Language Spoken</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LNGSPS" nciodm:ExtCodeID="C132460">
+                    <nciodm:CDISCSynonym>Secondary Language Spoken</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Additional language(s) that&#160;is spoken by the subject but not considered the primary language.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Secondary Language Spoken</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="MARISTAT" nciodm:ExtCodeID="C25188">
                     <nciodm:CDISCSynonym>Marital Status</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A demographic parameter indicating a person's current conjugal status.</nciodm:CDISCDefinition>

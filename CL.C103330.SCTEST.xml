@@ -77,10 +77,20 @@
                     <nciodm:CDISCDefinition>An indication as to whether the subject was born prior to 38 weeks gestation.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Premature Birth Indicator</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="Primary Language Spoken" nciodm:ExtCodeID="C132459">
+                    <nciodm:CDISCSynonym>Primary Language Spoken</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The main language that is spoken by the subject most frequently or dominantly.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Primary Language Spoken</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="Priority of Disease Contact" nciodm:ExtCodeID="C102699">
                     <nciodm:CDISCSynonym>Priority of Disease Contact</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The categorization of individuals with or without the potential for having a particular disease.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Priority of Disease Contact</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Secondary Language Spoken" nciodm:ExtCodeID="C132460">
+                    <nciodm:CDISCSynonym>Secondary Language Spoken</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Additional language(s) that&#160;is spoken by the subject but not considered the primary language.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Secondary Language Spoken</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Setting of Contact" nciodm:ExtCodeID="C102708">
                     <nciodm:CDISCSynonym>Setting of Contact</nciodm:CDISCSynonym>

@@ -1,0 +1,33 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C132314.CLMETH" Name="Specimen Collection Method" DataType="text" nciodm:ExtCodeID="C132314" nciodm:CodeListExtensible="Yes">
+                <Description>
+                    <TranslatedText xml:lang="en">Terminology relevant to the method used in specimen collection.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="BIOPSY" nciodm:ExtCodeID="C15189">
+                    <nciodm:CDISCDefinition>The removal of tissue specimens or fluid from the living body for microscopic examination, performed to establish a diagnosis.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Biopsy</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EXPECTORATION" nciodm:ExtCodeID="C85859">
+                    <nciodm:CDISCDefinition>A technique in which material is cleared from the throat or lungs by coughing it up and spitting it out.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Expectorate</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FINE NEEDLE ASPIRATION" nciodm:ExtCodeID="C15361">
+                    <nciodm:CDISCDefinition>The removal of tissue specimens or fluid from the living body with a thin needle.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Fine-Needle Aspiration</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="INDUCED EXPECTORATION" nciodm:ExtCodeID="C132353">
+                    <nciodm:CDISCDefinition>A technique in which hypotonic saline is inhaled, followed by expectoration.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Induced Expectoration Technique</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LAVAGE" nciodm:ExtCodeID="C51913">
+                    <nciodm:CDISCDefinition>A technique in which a cavity or organ is flushed with a fluid, which is then collected.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Bronchoalveolar Lavage</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SWAB" nciodm:ExtCodeID="C113747">
+                    <nciodm:CDISCDefinition>A technique in which a tufted material on the end of a stick is rubbed against a surface.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Buccal Swab</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>CLMETH</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Specimen Collection Method</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Specimen Collection Method Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

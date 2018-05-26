@@ -95,6 +95,10 @@
                     <nciodm:CDISCDefinition>The procedure or activity of determining a result by mathematical or logical methods. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Calculation</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="CAPILLARY ELECTROPHORESIS" nciodm:ExtCodeID="C17637">
+                    <nciodm:CDISCDefinition>An electrophoresis procedure, in which a sample is introduced into a capillary tube and the components are separated by the application of high voltage. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Capillary Electrophoresis</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="CELLULOSE TAPE" nciodm:ExtCodeID="C85578">
                     <nciodm:CDISCDefinition>A microbiological technique for specimen collection and mounting for microscopic examination that utilizes a cellulose-based adhesive ribbon.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Cellulose Tape Method</nciodm:PreferredTerm>
@@ -327,6 +331,10 @@
                     <nciodm:CDISCDefinition>Microscopy of specimens stained with fluorescent dye (usually fluorescein isothiocyanate) or of naturally fluorescent materials, which emit light when exposed to ultraviolet or blue light.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Fluorescence Microscopy</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="FLUORESCENT SPOT TEST" nciodm:ExtCodeID="C132427">
+                    <nciodm:CDISCDefinition>A&#160;method to assess enzymatic activity in which a&#160;substrate reagent&#160;is incubated with a biological specimen and spotted on filter paper. The spots are then examined for fluorescence, which&#160;correlates with&#160;enzyme activity.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Fluorescent Spot Test</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="FLUORIMETRY" nciodm:ExtCodeID="C62322">
                     <nciodm:CDISCDefinition>An analytical method that utilizes ultraviolet light to excite the sample and detects the fluorescence emitted during the return of the sample to its ground state. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Fluorimetry</nciodm:PreferredTerm>
@@ -359,7 +367,7 @@
                     <nciodm:PreferredTerm>Gas Chromatography/Tandem Mass Spectrometry</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="GEL ELECTROPHORESIS" nciodm:ExtCodeID="C18091">
-                    <nciodm:CDISCDefinition>A method of separating large molecules (such as DNA fragments or proteins) from a mixture of similar molecules by electrophoretic filtration through a gelatinous matrix. Subject to an electric field, each molecule in the sample mixture migrates through the matrix at a different rate, depending mainly on electrical charge and size, resulting in spatial separation within the matrix of each molecular species in the sample mixture. Agarose and acrylamide in a cylindrical tube or slab gel are commonly used media for electrophoresis of proteins and nucleic acids.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A method of separating large molecules (such as DNA fragments or proteins) from a mixture of similar molecules by electrophoretic filtration through a gelatinous matrix.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Gel Electrophoresis</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="GIEMSA STAIN" nciodm:ExtCodeID="C85598">
@@ -406,6 +414,10 @@
                 <EnumeratedItem CodedValue="HIGH RESOLUTION MELT ANALYSIS" nciodm:ExtCodeID="C130174">
                     <nciodm:CDISCDefinition>A reverse real-time polymerase chain reaction technique in which fluorescently labeled double-stranded DNA is slowly melted apart by increasing temperature.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>High Resolution Melt Analysis</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HILLMEN COLOR CHART" nciodm:ExtCodeID="C132428">
+                    <nciodm:CDISCDefinition>A visual color scale created by Hillman et al in 2004 to&#160;enable standardization of&#160;urine color in the assessment of hemoglobinuria.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Hillmen Color Chart</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="HPLC" nciodm:ExtCodeID="C16434">
                     <nciodm:CDISCSynonym>High Performance Liquid Chromatography</nciodm:CDISCSynonym>

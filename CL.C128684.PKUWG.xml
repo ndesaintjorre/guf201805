@@ -54,7 +54,9 @@
                 <EnumeratedItem CodedValue="day*mg/mL/g" nciodm:ExtCodeID="C112247">
                     <nciodm:CDISCSynonym>day*g/mL/kg</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>day*mg/mL/g</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Days times grams per milliliter (area under the curve), divided by kilograms (weight) or days times milligrams per milliliter (area under the curve), divided by grams (weight).</nciodm:CDISCDefinition>
+                    <nciodm:CDISCSynonym>day*ng/mL/ug</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>day*ug/mL/mg</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Days times grams per milliliter (area under the curve), divided by kilograms (weight); or days times milligrams per milliliter (area under the curve), divided by grams (weight); or days times micrograms per milliliter (area under the curve), divided by milligrams (dose); or days times nanograms per milliliter (area under the curve), divided by micrograms (dose).</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Day Times Gram Per Milliliter Per Kilogram</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="day*mmol/L/g" nciodm:ExtCodeID="C112254">
@@ -140,7 +142,10 @@
                     <nciodm:PreferredTerm>Hour times Millimole Per Liter Per Gram</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="h*mol/L/g" nciodm:ExtCodeID="C106531">
-                    <nciodm:CDISCDefinition>Hours times moles per liter (area under the curve), divided by grams (weight).</nciodm:CDISCDefinition>
+                    <nciodm:CDISCSynonym>h*mmol/L/mg</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>h*mol/L/g</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>h*umol/L/ug</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hours times millimoles per liter (area under the curve), divided by kilograms (weight); or hours times micromoles per liter (area under the curve), divided by grams (weight); or hours times nanomoles per liter (area under the curve), divided by milligrams (dose); or hours times picomoles per liter (area under the curve), divided by micrograms (dose).</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Hour times Mole Per Liter Per Gram</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="h*ng/mL/g" nciodm:ExtCodeID="C85625">
@@ -177,8 +182,10 @@
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="h*umol/L/g" nciodm:ExtCodeID="C112307">
                     <nciodm:CDISCSynonym>h*mmol/L/kg</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>h*nmol/L/mg</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>h*pmol/L/ug</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>h*umol/L/g</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Hours times millimoles per liter (area under the curve), divided by kilograms (weight) or hours times micromoles per liter (area under the curve), divided by grams (weight).</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>Hours times millimoles per liter (area under the curve), divided by kilograms (weight); or hours times micromoles per liter (area under the curve), divided by grams (weight); or hours times nanomoles per liter (area under the curve), divided by milligrams (dose); or hours times picomoles per liter (area under the curve), divided by micrograms (dose).</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Hour Times Millimole Per Liter Per Kilogram</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="IU/mL/g" nciodm:ExtCodeID="C119377">

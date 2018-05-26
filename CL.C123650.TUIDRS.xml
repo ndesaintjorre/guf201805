@@ -7,6 +7,10 @@
                     <nciodm:CDISCDefinition>For neoplasms, a non-infiltrating and non-metastasizing neoplastic process that is characterized by the absence of morphologic features associated with malignancy (e.g., severe atypia, nuclear pleomorphism, tumor cell necrosis, and abnormal mitoses). For other conditions, a process that is mild in nature and not dangerous to health. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Benign</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="BONE LESION" nciodm:ExtCodeID="C132466">
+                    <nciodm:CDISCDefinition>A localized pathological or traumatic structural change, damage, deformity, or discontinuity of the bone.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Bone Lesion Identification</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="DISTANT" nciodm:ExtCodeID="C25321">
                     <nciodm:CDISCDefinition>Of or belonging to an area on the body that is far apart in relation to a point of origin.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Distant</nciodm:PreferredTerm>
@@ -27,6 +31,10 @@
                     <nciodm:CDISCDefinition>The identification of a tumor, lesion, or site of disease which has not been previously seen or characterized.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>New Lesion Identification</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="NEW BONE LESION" nciodm:ExtCodeID="C132467">
+                    <nciodm:CDISCDefinition>A localized pathological or traumatic structural change, damage, deformity, or discontinuity of the bone,&#160;which has not been previously seen or characterized.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>New Bone Lesion Lesion Identification</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="NON-MEASURABLE" nciodm:ExtCodeID="C103423">
                     <nciodm:CDISCDefinition>The identification of a tumor, lesion, or site of disease that is incapable of being measured at baseline.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Non-Measurable Tumor Identification</nciodm:PreferredTerm>
@@ -34,6 +42,22 @@
                 <EnumeratedItem CodedValue="NON-TARGET" nciodm:ExtCodeID="C94521">
                     <nciodm:CDISCDefinition>The identification of a tumor, lesion or site of disease that is present at baseline and not considered a target, but may be part of the objective assessment of the response to the therapeutic intervention.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Non-Target Lesion Identification</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NON-TARGET ENHANCING" nciodm:ExtCodeID="C132468">
+                    <nciodm:CDISCDefinition>The identification of a contrast-enhancing tumor, lesion, or site of disease that is present at baseline and not considered a target, but may be part of the objective assessment of the response to the therapeutic intervention.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Non-target Enhancing Lesion Identification</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NON-TARGET EXTRA NODAL" nciodm:ExtCodeID="C132469">
+                    <nciodm:CDISCDefinition>The identification of a tumor or lesion located outside of or independent of any lymph nodes that is present at baseline and not considered a target, but may be part of the assessment of the response to the therapeutic intervention.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Non-Target Extra Nodal Lesion Identification</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NON-TARGET NODAL" nciodm:ExtCodeID="C132470">
+                    <nciodm:CDISCDefinition>The identification of a tumor or lesion located at or near the lymph node that is present at baseline and not considered a target, but may be part of the assessment of the response to the therapeutic intervention.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Non-Target Nodal Lesion Identification</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NON-TARGET NON-ENHANCING" nciodm:ExtCodeID="C132471">
+                    <nciodm:CDISCDefinition>The identification of a non-contrast-enhancing tumor, lesion, or site of disease that is present at baseline and not considered a target, but may be part of the assessment of the response to the therapeutic intervention.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Non-target Non-enhancing Lesion Identification</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="NOT MEASURED" nciodm:ExtCodeID="C103425">
                     <nciodm:CDISCDefinition>The identification of a tumor, lesion, or site of disease that is present at baseline and will not be quantifiably measured.</nciodm:CDISCDefinition>

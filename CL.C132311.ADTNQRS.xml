@@ -1,0 +1,21 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C132311.ADTNQRS" Name="Administration Technique Response" DataType="text" nciodm:ExtCodeID="C132311" nciodm:CodeListExtensible="Yes">
+                <Description>
+                    <TranslatedText xml:lang="en">Terminology relevant to the product administration technique used.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="HEAF" nciodm:ExtCodeID="C85996">
+                    <nciodm:CDISCDefinition>A multiple puncture tuberculin skin test in which a Heaf gun (device containing 6 needles arranged in a circular pattern) is dipped into tuberculin purified protein derivative and pushed into the skin of the flexor surface of the left forearm. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Heaf Tuberculin Skin Test</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MANTOUX" nciodm:ExtCodeID="C85997">
+                    <nciodm:CDISCDefinition>A single puncture tuberculin skin test in which a standard dose of 5 Tuberculin units of purified protein derivative is injected under the skin of the inner surface of the forearm.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Mantoux Tuberculin Skin Test</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TINE" nciodm:ExtCodeID="C85998">
+                    <nciodm:CDISCDefinition>A multiple puncture tuberculin skin test in which tuberculin antigen (either purified protein derivative or old) is pushed into the skin via a device containing 4-6 needles that are coated in tuberculin antigen. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Tine Tuberculin Skin Test</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>ADTNQRS</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Administration Technique Response</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Administration Technique Response Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

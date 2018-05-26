@@ -8,6 +8,11 @@
                     <nciodm:CDISCDefinition>An assessment of the most clinically favorable overall response of the disease to the therapy.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Best Overall Response</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="BONERESP" nciodm:ExtCodeID="C132455">
+                    <nciodm:CDISCSynonym>Bone Response</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An assessment of the&#160;bone response of the disease to the therapy.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Bone Response</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="CLINRESP" nciodm:ExtCodeID="C123619">
                     <nciodm:CDISCSynonym>Clinical Response</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>An assessment of the clinical response of the disease to the therapy.</nciodm:CDISCDefinition>
@@ -32,6 +37,11 @@
                     <nciodm:CDISCSynonym>Metabolic Response</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>An assessment of the metabolic response of the disease to the therapy.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Metabolic Response</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="METSIND" nciodm:ExtCodeID="C132456">
+                    <nciodm:CDISCSynonym>Metastatic Indicator</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An indication as to whether disease metastasis has occurred.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Metastatic Disease Indicator</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="MOLRESP" nciodm:ExtCodeID="C123624">
                     <nciodm:CDISCSynonym>Molecular Response</nciodm:CDISCSynonym>
@@ -74,10 +84,20 @@
                     <nciodm:CDISCDefinition>An assessment of the radiologic response of the disease to the therapy.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Radiologic Response</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="SFTSRESP" nciodm:ExtCodeID="C132457">
+                    <nciodm:CDISCSynonym>Soft Tissue Response</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An assessment of the&#160;soft tissue response of the disease to the therapy.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Soft Tissue Response</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="SYMPTDTR" nciodm:ExtCodeID="C124434">
                     <nciodm:CDISCSynonym>Symptomatic Deterioration</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A global deterioration of health status providing evidence of disease progression not covered by disease response criteria (eg. RECIST).</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Symptomatic Deterioration</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TMRESP" nciodm:ExtCodeID="C132458">
+                    <nciodm:CDISCSynonym>Tumor Marker Response</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An assessment of disease response to therapy based on tumor marker measurement.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Tumor Marker Response</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="TRGRESP" nciodm:ExtCodeID="C94534">
                     <nciodm:CDISCSynonym>Target Response</nciodm:CDISCSynonym>

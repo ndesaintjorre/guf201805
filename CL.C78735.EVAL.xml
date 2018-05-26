@@ -6,6 +6,10 @@
                     <nciodm:CDISCDefinition>An external committee whose purpose is to evaluate study data and decide whether a study endpoint or other criterion has been met. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Adjudication Committee</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="ADJUDICATOR" nciodm:ExtCodeID="C96561">
+                    <nciodm:CDISCDefinition>An individual that presides over and arbitrates between individuals or organizations.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Adjudicator</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="CAREGIVER" nciodm:ExtCodeID="C17445">
                     <nciodm:CDISCSynonym>Caregiver</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The primary person in charge of the care of a patient, usually a family member or a designated health care professional. (NCI)</nciodm:CDISCDefinition>

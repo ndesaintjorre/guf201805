@@ -7,6 +7,21 @@
                     <nciodm:CDISCDefinition>The determination of which version of the gene is on each chromosome.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Allele</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="Allelic Family" nciodm:ExtCodeID="C132433">
+                    <nciodm:CDISCSynonym>Allelic Family</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A subgroup of alleles of a polymorphic gene that may form clusters (e.g., phylogenetic) based on high sequence similarity, which may include either a shared single nucleotide polymorphism or a shared set of polymorphic sites. (CDISC)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Allelic Family</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Amplicon Size" nciodm:ExtCodeID="C132434">
+                    <nciodm:CDISCSynonym>Amplicon Size</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The number&#160;of base pairs present&#160;in an RNA or DNA sequence that is the product of an amplification process.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Amplicon Size</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Interpretation" nciodm:ExtCodeID="C41255">
+                    <nciodm:CDISCSynonym>Interpretation</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An act or process of elucidation; explication, or explanation of the meaning of the event or thing via the assignment of objects from the domain to the constants of a formal language, truth-values to the proposition symbols, truth-functions to the connectives, other functions to the function symbols, and extensions to the predicates, if any. The assignments are result of human logic application and are not native to the symbols of the formal language.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Interpretation</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <nciodm:CDISCSubmissionValue>PFTEST</nciodm:CDISCSubmissionValue>
                 <nciodm:CDISCSynonym>Pharmacogenomics Findings Test Name</nciodm:CDISCSynonym>
                 <nciodm:PreferredTerm>CDISC SDTM Pharmacogenomics Findings Test Name Terminology</nciodm:PreferredTerm>

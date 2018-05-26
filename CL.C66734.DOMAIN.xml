@@ -17,6 +17,11 @@
                     <nciodm:CDISCDefinition>A domain for the agents administered to the subject as part of a procedure or assessment as opposed to drugs, medications and therapies administered with therapeutic intent.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Procedure Agents Domain</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="APDM" nciodm:ExtCodeID="C132354">
+                    <nciodm:CDISCSynonym>Associated Persons Demographics</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The demographics domain for those persons associated with the study itself, a particular study subject, or a device used in the study.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Associated Persons Demographics Submission Domain</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="AU" nciodm:ExtCodeID="C49565">
                     <nciodm:CDISCSynonym>Autopsy</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Additional data about deaths, specific to findings from autopsies.</nciodm:CDISCDefinition>

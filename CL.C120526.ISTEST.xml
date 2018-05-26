@@ -2,6 +2,16 @@
                 <Description>
                     <TranslatedText xml:lang="en">Terminology relevant to the immunogenicity specimen test names of the CDISC Study Data Tabulation Model.</TranslatedText>
                 </Description>
+                <EnumeratedItem CodedValue="EBOV Specific IgG AB Secreting Cells" nciodm:ExtCodeID="C132360">
+                    <nciodm:CDISCSynonym>EBOV Specific IgG AB Secreting Cells</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the&#160;Ebola virus&#160;specific IgG antibody secreting cells in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Ebola Virus Specific IgG Antibody Secreting Cell Count</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EBOV Specific IgM AB Secreting Cells" nciodm:ExtCodeID="C132361">
+                    <nciodm:CDISCSynonym>EBOV Specific IgM AB Secreting Cells</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the&#160;Ebola virus&#160;specific IgM antibody secreting cells in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Ebola Virus Specific IgM Antibody Secreting Cell Count</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="H1 Specific IgG Antibody Secreting Cells" nciodm:ExtCodeID="C120622">
                     <nciodm:CDISCSynonym>H1 Specific IgG ASCs</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>H1 Specific IgG Antibody Secreting Cells</nciodm:CDISCSynonym>
@@ -14,6 +24,11 @@
                     <nciodm:CDISCSynonym>H3 Specific IgG Antibody Secreting Cells</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the H3 specific IgG antibody secreting cells in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Influenza Hemagglutinin 3 Specific IgG Antibody Secreting Cell Count</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IgM Antibody Secreting Cells" nciodm:ExtCodeID="C132362">
+                    <nciodm:CDISCSynonym>IgM Antibody Secreting Cells</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the&#160;total IgM antibody secreting cells in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IgM Antibody Secreting Cell Count</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Total IgG Antibody Secreting Cells" nciodm:ExtCodeID="C120624">
                     <nciodm:CDISCSynonym>Total IgG ASCs</nciodm:CDISCSynonym>

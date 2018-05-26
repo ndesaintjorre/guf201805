@@ -1177,6 +1177,11 @@
                     <nciodm:CDISCDefinition>Picograms per milliliter (concentration), divided by meters squared (surface area).</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Picogram per Milliliter per Meter Squared</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="pmol" nciodm:ExtCodeID="C65045">
+                    <nciodm:CDISCSynonym>Picomole</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A unit of amount of substance equal to a trillionth (10E-12) of a mole.(NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Picomole</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="pmol/L" nciodm:ExtCodeID="C67434">
                     <nciodm:CDISCSynonym>Femtomole per Milliliter</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Picomole per Liter</nciodm:CDISCSynonym>

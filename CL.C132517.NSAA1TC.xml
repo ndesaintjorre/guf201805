@@ -1,0 +1,109 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C132517.NSAA1TC" Name="North Star Ambulatory Assessment Clinical Classification Test Code" DataType="text" nciodm:ExtCodeID="C132517" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">North Star Ambulatory Assessment test code.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="NSAA101" nciodm:ExtCodeID="C132536">
+                    <nciodm:CDISCSynonym>NSAA1-Stand</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>North Star Ambulatory Assessment - Can you stand up tall for me for as long as you can and as still as you can.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NSAA - Stand</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NSAA102" nciodm:ExtCodeID="C132537">
+                    <nciodm:CDISCSynonym>NSAA1-Walk</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>North Star Ambulatory Assessment - Can you walk from A to B (state to and where from) for me.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NSAA - Walk</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NSAA103" nciodm:ExtCodeID="C132538">
+                    <nciodm:CDISCSynonym>NSAA1-Stand Up From Chair</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>North Star Ambulatory Assessment - Stand up from the chair keeping your arms folded if you can.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NSAA - Stand Up From Chair</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NSAA104" nciodm:ExtCodeID="C132539">
+                    <nciodm:CDISCSynonym>NSAA1-Stand on One Leg - Right</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>North Star Ambulatory Assessment - Can you stand on your right leg for as long as you can?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NSAA - Stand on One Leg - Right</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NSAA105" nciodm:ExtCodeID="C132540">
+                    <nciodm:CDISCSynonym>NSAA1-Stand on One Leg - Left</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>North Star Ambulatory Assessment - Can you stand on your left leg for as long as you can?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NSAA - Stand on One Leg - Left</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NSAA106" nciodm:ExtCodeID="C132541">
+                    <nciodm:CDISCSynonym>NSAA1-Climb Box Step - Right</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>North Star Ambulatory Assessment - Can you step onto the top of the box using your right leg first?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NSAA - Climb Box Step - Right</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NSAA107" nciodm:ExtCodeID="C132542">
+                    <nciodm:CDISCSynonym>NSAA1-Climb Box Step - Left</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>North Star Ambulatory Assessment - Can you step onto the top of the box using your left leg first?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NSAA - Climb Box Step - Left</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NSAA108" nciodm:ExtCodeID="C132543">
+                    <nciodm:CDISCSynonym>NSAA1-Descend Box Step - Right</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>North Star Ambulatory Assessment - Can you step down from the box using your right leg first?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NSAA - Descend Box Step - Right</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NSAA109" nciodm:ExtCodeID="C132544">
+                    <nciodm:CDISCSynonym>NSAA1-Descend Box Step - Left</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>North Star Ambulatory Assessment - Can you step down from the box using your left leg first?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NSAA - Descend Box Step - Left</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NSAA110" nciodm:ExtCodeID="C132545">
+                    <nciodm:CDISCSynonym>NSAA1-Gets to Sitting</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>North Star Ambulatory Assessment - Can you get from lying to sitting?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NSAA - Gets to Sitting</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NSAA111" nciodm:ExtCodeID="C132546">
+                    <nciodm:CDISCSynonym>NSAA1-Rise From Floor</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>North Star Ambulatory Assessment - Get up from the floor using as little support as possible and as fast as you can (from supine).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NSAA - Rise From Floor</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NSAA111A" nciodm:ExtCodeID="C132547">
+                    <nciodm:CDISCSynonym>NSAA1-Rise From Floor Time</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>North Star Ambulatory Assessment - Time to get up from the floor using as little support as possible and as fast as you can (from supine) (seconds).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NSAA - Rise From Floor Time</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NSAA112" nciodm:ExtCodeID="C132548">
+                    <nciodm:CDISCSynonym>NSAA1-Lifts Head</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>North Star Ambulatory Assessment - Lift your head to look at your toes keeping your arms folded.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NSAA - Lifts Head</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NSAA113" nciodm:ExtCodeID="C132549">
+                    <nciodm:CDISCSynonym>NSAA1-Stands on Heels</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>North Star Ambulatory Assessment - Can you stand on your heels?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NSAA - Stands on Heels</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NSAA114" nciodm:ExtCodeID="C132550">
+                    <nciodm:CDISCSynonym>NSAA1-Jump</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>North Star Ambulatory Assessment - How high can you jump?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NSAA - Jump</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NSAA115" nciodm:ExtCodeID="C132551">
+                    <nciodm:CDISCSynonym>NSAA1-Hop Right Leg</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>North Star Ambulatory Assessment - Can you hop on your right leg?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NSAA - Hop Right Leg</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NSAA116" nciodm:ExtCodeID="C132552">
+                    <nciodm:CDISCSynonym>NSAA1-Hop Left Leg</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>North Star Ambulatory Assessment - Can you hop on your left leg?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NSAA - Hop Left Leg</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NSAA117" nciodm:ExtCodeID="C132553">
+                    <nciodm:CDISCSynonym>NSAA1-Run (10m)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>North Star Ambulatory Assessment - Run as fast as you can to&#8230;..(give point).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NSAA - Run (10m)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NSAA117A" nciodm:ExtCodeID="C132554">
+                    <nciodm:CDISCSynonym>NSAA1-Run (10m) Time</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>North Star Ambulatory Assessment - Time to run as fast as you can (seconds).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NSAA - Run (10m) Time</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NSAA118" nciodm:ExtCodeID="C132555">
+                    <nciodm:CDISCSynonym>NSAA1-Total</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>North Star Ambulatory Assessment - Total.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NSAA - Total</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>NSAA1TC</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>North Star Ambulatory Assessment Clinical Classification Test Code</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Clinical Classification NSAA Test Code Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

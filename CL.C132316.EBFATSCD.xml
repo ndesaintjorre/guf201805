@@ -1,0 +1,24 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C132316.EBFATSCD" Name="Ebola Virus Findings About Test Code" DataType="text" nciodm:ExtCodeID="C132316" nciodm:CodeListExtensible="Yes">
+                <Description>
+                    <TranslatedText xml:lang="en">Terminology relevant to the test codes that describe findings about an Ebola virus infection event or intervention.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="DIAMETER" nciodm:ExtCodeID="C25285">
+                    <nciodm:CDISCSynonym>Diameter</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The length of a straight line passing through the center of a circle or sphere and connecting two points on the circumference. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Diameter</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="OCCUR" nciodm:ExtCodeID="C127786">
+                    <nciodm:CDISCSynonym>Occurrence Indicator</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An indication as to whether something has happened, such as an event or incident.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Occurrence Indicator</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SEV" nciodm:ExtCodeID="C25676">
+                    <nciodm:CDISCSynonym>Severity/Intensity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The degree of something undesirable.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Severity</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>EBFATSCD</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Ebola Virus Findings About Test Code</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Ebola Virus Findings About Test Code Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

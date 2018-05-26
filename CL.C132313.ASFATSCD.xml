@@ -1,0 +1,14 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C132313.ASFATSCD" Name="Asthma Findings About Test Code" DataType="text" nciodm:ExtCodeID="C132313" nciodm:CodeListExtensible="Yes">
+                <Description>
+                    <TranslatedText xml:lang="en">Terminology relevant to the test codes that describe findings about an asthma event or intervention.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="OCCUR" nciodm:ExtCodeID="C127786">
+                    <nciodm:CDISCSynonym>Occurrence Indicator</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An indication as to whether something has happened, such as an event or incident.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Occurrence Indicator</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>ASFATSCD</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Asthma Findings About Test Code</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Asthma Findings About Test Code Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

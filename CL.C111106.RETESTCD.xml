@@ -99,9 +99,14 @@
                     <nciodm:CDISCDefinition>The change in FEV1 following administration of a bronchodilator relative to the pre-treatment FEV1 value.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Forced Expiratory Volume in 1 Second Reversibility</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="FEV3" nciodm:ExtCodeID="C132453">
+                    <nciodm:CDISCSynonym>Forced Expiratory Volume in 3 Seconds</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The volume of air that can be forcibly exhaled during the first three seconds following maximal inhalation.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Forced Expiratory Volume in 3 Seconds</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="FEV6" nciodm:ExtCodeID="C47843">
                     <nciodm:CDISCSynonym>Forced Expiratory Volume in 6 Seconds</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>The volume of air that a subject can breathe out during the first 6 seconds of exhalation after maximum inhalation.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>The volume of air that can be forcibly exhaled during the first six seconds following maximal inhalation.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Forced Expiratory Volume in 6 Seconds</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="FEV6PP" nciodm:ExtCodeID="C112378">

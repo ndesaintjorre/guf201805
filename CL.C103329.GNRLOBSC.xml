@@ -19,6 +19,21 @@
                     <nciodm:CDISCDefinition>This SDTM class captures the observations resulting from planned evaluations to address specific tests or questions such as laboratory tests, ECG testing, and questions listed on questionnaires.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>CDISC Findings Class</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="INTEGRATED BASIC DATA STRUCTURE" nciodm:ExtCodeID="C132357">
+                    <nciodm:CDISCSynonym>IBDS</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>IBDS is the ADaM Model for the Integrated Basic Data Structure. The structure includes per pool as defined in the integrated SAP when multiple records per subject are included in integrated ADSL.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC Integrated Basic Data Structure Dataset</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="INTEGRATED OCCURRENCE DATA STRUCTURE" nciodm:ExtCodeID="C132358">
+                    <nciodm:CDISCSynonym>IOCCDS</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>IOCCDS is the ADaM Model for Integrated Occurrence Data structure. The structure includes per pool as defined in the integrated SAP when multiple records per subject are included in integrated ADSL.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC Integrated Occurrence Data Structure Dataset</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="INTEGRATED SUBJECT LEVEL" nciodm:ExtCodeID="C132359">
+                    <nciodm:CDISCSynonym>IADSL</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>IADSL is the ADaM Model for Integrated Subject Level Analysis Dataset. The structure is one record per subject per pool as defined in the integrated SAP. Multiple records per subject are required in an integrated ADSL dataset when any subject&#8217;s data is used in more than one pool and the values for subject-level variables differ across pools.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC Integrated Subject Level Dataset</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="INTERVENTIONS" nciodm:ExtCodeID="C103374">
                     <nciodm:CDISCDefinition>This SDTM class captures investigational, therapeutic and other treatments that are administered to the subject (with some actual or expected physiological effect) either as specified by the study protocol (e.g., exposure to study drug), coincident with the study assessment period (e.g., concomitant medications), or self-administered by the subject (such as use of alcohol, tobacco, or caffeine).</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>CDISC Interventions Class</nciodm:PreferredTerm>

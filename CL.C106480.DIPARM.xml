@@ -8,6 +8,11 @@
                     <nciodm:CDISCDefinition>A distinctive alpha-numeric identification code assigned by the manufacturer or distributor to a specific quantity of manufactured material or product that is produced in a manner that is expected to render it homogeneous.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Batch Number</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="Catalog Number" nciodm:ExtCodeID="C99286">
+                    <nciodm:CDISCSynonym>Catalog Number</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A unique manufacturer-assigned identifier used to distinguish a specific product from others in a catalog of products offered.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Catalog Number</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="Device Type" nciodm:ExtCodeID="C53265">
                     <nciodm:CDISCSynonym>Device Type</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Generic category of medical device within the device classification established by a regulatory authority.</nciodm:CDISCDefinition>

@@ -182,6 +182,14 @@
                     <nciodm:CDISCDefinition>Liters per minute (flow rate), divided by milligrams (dose) or milliliters per minute (flow rate), divided by micrograms (dose).</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Liter per Milligram per Minute</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="day*ng/mL/ug" nciodm:ExtCodeID="C112247">
+                    <nciodm:CDISCSynonym>day*g/mL/kg</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>day*mg/mL/g</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>day*ng/mL/ug</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>day*ug/mL/mg</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Days times grams per milliliter (area under the curve), divided by kilograms (weight); or days times milligrams per milliliter (area under the curve), divided by grams (weight); or days times micrograms per milliliter (area under the curve), divided by milligrams (dose); or days times nanograms per milliliter (area under the curve), divided by micrograms (dose).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Day Times Gram Per Milliliter Per Kilogram</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="fg/mL/(ug/day)" nciodm:ExtCodeID="C119342">
                     <nciodm:CDISCSynonym>fg/mL/(ug/day)</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>pg/mL/(mg/day)</nciodm:CDISCSynonym>
@@ -243,6 +251,21 @@
                 <EnumeratedItem CodedValue="g/mL/ug" nciodm:ExtCodeID="C119365">
                     <nciodm:CDISCDefinition>Grams per milliliter (concentration), divided by micrograms (dose).</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Gram per Milliliter per Microgram</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="h*pmol/L/ug" nciodm:ExtCodeID="C112307">
+                    <nciodm:CDISCSynonym>h*mmol/L/kg</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>h*nmol/L/mg</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>h*pmol/L/ug</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>h*umol/L/g</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hours times millimoles per liter (area under the curve), divided by kilograms (weight); or hours times micromoles per liter (area under the curve), divided by grams (weight); or hours times nanomoles per liter (area under the curve), divided by milligrams (dose); or hours times picomoles per liter (area under the curve), divided by micrograms (dose).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Hour Times Millimole Per Liter Per Kilogram</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="h*umol/L/ug" nciodm:ExtCodeID="C106531">
+                    <nciodm:CDISCSynonym>h*mmol/L/mg</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>h*mol/L/g</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>h*umol/L/ug</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hours times millimoles per liter (area under the curve), divided by kilograms (weight); or hours times micromoles per liter (area under the curve), divided by grams (weight); or hours times nanomoles per liter (area under the curve), divided by milligrams (dose); or hours times picomoles per liter (area under the curve), divided by micrograms (dose).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Hour times Mole Per Liter Per Gram</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="IU/mL/(ug/day)" nciodm:ExtCodeID="C119372">
                     <nciodm:CDISCDefinition>International units per milliliter (concentration), divided by micrograms per day (daily dose).</nciodm:CDISCDefinition>

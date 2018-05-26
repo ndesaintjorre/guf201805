@@ -8,6 +8,11 @@
                     <nciodm:CDISCDefinition>An assessment of the most clinically favorable overall response of the disease to the therapy.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Best Overall Response</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="Bone Response" nciodm:ExtCodeID="C132455">
+                    <nciodm:CDISCSynonym>Bone Response</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An assessment of the&#160;bone response of the disease to the therapy.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Bone Response</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="Clinical Response" nciodm:ExtCodeID="C123619">
                     <nciodm:CDISCSynonym>Clinical Response</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>An assessment of the clinical response of the disease to the therapy.</nciodm:CDISCDefinition>
@@ -32,6 +37,11 @@
                     <nciodm:CDISCSynonym>Metabolic Response</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>An assessment of the metabolic response of the disease to the therapy.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Metabolic Response</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Metastatic Indicator" nciodm:ExtCodeID="C132456">
+                    <nciodm:CDISCSynonym>Metastatic Indicator</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An indication as to whether disease metastasis has occurred.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Metastatic Disease Indicator</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Minimal Residual Disease Response" nciodm:ExtCodeID="C124433">
                     <nciodm:CDISCSynonym>MRD Response</nciodm:CDISCSynonym>
@@ -74,6 +84,11 @@
                     <nciodm:CDISCDefinition>An assessment of the radiologic response of the disease to the therapy.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Radiologic Response</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="Soft Tissue Response" nciodm:ExtCodeID="C132457">
+                    <nciodm:CDISCSynonym>Soft Tissue Response</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An assessment of the&#160;soft tissue response of the disease to the therapy.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Soft Tissue Response</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="Symptomatic Deterioration" nciodm:ExtCodeID="C124434">
                     <nciodm:CDISCSynonym>Symptomatic Deterioration</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A global deterioration of health status providing evidence of disease progression not covered by disease response criteria (eg. RECIST).</nciodm:CDISCDefinition>
@@ -88,6 +103,11 @@
                     <nciodm:CDISCSynonym>Tumor Antigen Response</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>An assessment of the change in tumor antigen quantity in response to the therapy.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Tumor Antigen Response</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Tumor Marker Response" nciodm:ExtCodeID="C132458">
+                    <nciodm:CDISCSynonym>Tumor Marker Response</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An assessment of disease response to therapy based on tumor marker measurement.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Tumor Marker Response</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <nciodm:CDISCSubmissionValue>ONCRTS</nciodm:CDISCSubmissionValue>
                 <nciodm:CDISCSynonym>Oncology Response Assessment Test Name</nciodm:CDISCSynonym>

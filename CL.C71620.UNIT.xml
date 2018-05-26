@@ -47,9 +47,29 @@
                     <nciodm:CDISCDefinition>A unit equal to one thousand entities used as a denominator to build a derived unit expressed as a ratio. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Per Thousand</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="/200 HPFs" nciodm:ExtCodeID="C132472">
+                    <nciodm:CDISCDefinition>A unit of measurement of the number of entities per unit of area equal to&#160;200&#160;high powered fields.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Per 200 High Powered Fields</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="/2000 RBC" nciodm:ExtCodeID="C132473">
+                    <nciodm:CDISCDefinition>Natural number unit of measurement for a portion of a particular type of cell (excluding&#160;red blood cell subtypes) per&#160;2000&#160;red blood cells.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Per 2000 Red Blood Cells</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="/2500 WBC" nciodm:ExtCodeID="C132474">
+                    <nciodm:CDISCDefinition>Natural number unit of measurement for a portion of a particular type of cell (excluding white blood cell subtypes) per&#160;2500 white blood cells.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Per 2500 White Blood Cells</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="/4.0 mL" nciodm:ExtCodeID="C122197">
                     <nciodm:CDISCDefinition>A volume unit equal to 4.0 milliliters used as a denominator to build a derived unit expressed as a ratio.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>per 4.0 Milliliters</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="/40 HPFs" nciodm:ExtCodeID="C132475">
+                    <nciodm:CDISCDefinition>A unit of measurement of the number of entities per unit of area equal to&#160;40 high powered fields.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Per 40 High Powered Fields</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="/500 WBC" nciodm:ExtCodeID="C132476">
+                    <nciodm:CDISCDefinition>Natural number unit of measurement for a portion of a particular type of cell (excluding white blood cell subtypes) per 500 white blood cells.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Per 500 White Blood Cells</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="/7.5 mL" nciodm:ExtCodeID="C122198">
                     <nciodm:CDISCDefinition>A volume unit equal to 7.5 milliliters used as a denominator to build a derived unit expressed as a ratio.</nciodm:CDISCDefinition>
@@ -544,6 +564,11 @@
                     <nciodm:CDISCSynonym>Box Dosing Unit</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A dosing measurement based on the box unit.(NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Box Dosing Unit</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BP" nciodm:ExtCodeID="C132477">
+                    <nciodm:CDISCSynonym>BASE PAIRS</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A number representing the paired nucleotides in a DNA or RNA sequence.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Base Pair Unit</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Bq" nciodm:ExtCodeID="C42562">
                     <nciodm:CDISCSynonym>Becquerel</nciodm:CDISCSynonym>
@@ -1620,6 +1645,16 @@
                     <nciodm:CDISCDefinition>A logarithmic-scale (base 10) potency unit for measuring infectious activity of a biologic product or infectious agent preparation equal to the potency at which one dose of infectious material contains one 50 percent tissue culture infective dose.(NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Log10 50 Percent Tissue Culture Infective Dose per Dose</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="log10 TCID 50/mL" nciodm:ExtCodeID="C132478">
+                    <nciodm:CDISCSynonym>Log10 50 Percent Tissue Culture Infective Dose per Milliliter</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A logarithmic-scale (base 10) potency unit for measuring infectious activity of a biologic product or infectious agent preparation equal to the potency at which one milliliter of infectious material contains one 50 percent tissue culture infective dose.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Log10 50 Percent Tissue Culture Infective Dose per Milliliter</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="log10 TCID 50/uL" nciodm:ExtCodeID="C132479">
+                    <nciodm:CDISCSynonym>Log10 50 Percent Tissue Culture Infective Dose per Microliter</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A logarithmic-scale (base 10) potency unit for measuring infectious activity of a biologic product or infectious agent preparation equal to the potency at which one microliter of infectious material contains one 50 percent tissue culture infective dose.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Log10 50 Percent Tissue Culture Infective Dose per Microliter</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="LOZENGE" nciodm:ExtCodeID="C48506">
                     <nciodm:CDISCSynonym>Lozenge Dosing Unit</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A dosing measurement based on the lozenge unit.(NCI)</nciodm:CDISCDefinition>
@@ -2178,6 +2213,11 @@
                 <EnumeratedItem CodedValue="mmol2/L2" nciodm:ExtCodeID="C122213">
                     <nciodm:CDISCDefinition>A unit of concentration (molarity unit) equal to one square millimole of solute per square liter of solution.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Square Millimole per Square Liter</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="mMU/mL" nciodm:ExtCodeID="C132480">
+                    <nciodm:CDISCSynonym>MilliMerck Unit per Milliliter</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A unit of concentration based on the vaccine specific number of titers that are the geometric mean titer at which an individual is considered to convert from a seronegative to a seropositive response due to the vaccine.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MilliMerck Unit per Milliliter</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="mN" nciodm:ExtCodeID="C127809">
                     <nciodm:CDISCSynonym>Millinewton</nciodm:CDISCSynonym>
@@ -3175,6 +3215,12 @@
                 <EnumeratedItem CodedValue="uL/dose" nciodm:ExtCodeID="C124466">
                     <nciodm:CDISCDefinition>A unit of measure expressed in microliter(s) per dose.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Microliter per Dose</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="uL/kg/day" nciodm:ExtCodeID="C132481">
+                    <nciodm:CDISCSynonym>(uL/day)/kg</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>uL/kg/day</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Microliters per kilogram per day or microliters per day (flow rate), divided by kilograms (weight).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Microliter per Kilogram per Day</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="uL/mL" nciodm:ExtCodeID="C69175">
                     <nciodm:CDISCSynonym>Microliter per Milliliter</nciodm:CDISCSynonym>

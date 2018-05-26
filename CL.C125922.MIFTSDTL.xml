@@ -19,6 +19,23 @@
                     <nciodm:CDISCDefinition>The histopathological evaluation of the liver based on the Batts-Ludwig scoring system.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Batts-Ludwig Fibrosis Score</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="ENHANCED LIVER FIBROSIS SCORE" nciodm:ExtCodeID="C132429">
+                    <nciodm:CDISCSynonym>ELF</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The histopathological evaluation of the liver based on the enhanced liver fibrosis scoring system.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Enhanced Liver Fibrosis Score</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="GLEASON PRIMARY SCORE" nciodm:ExtCodeID="C48603">
+                    <nciodm:CDISCDefinition>The most prevalent Gleason pattern in a prostate biopsy or prostatectomy specimen. (Gleason, D. F. (1977). The Veteran's Administration Cooperative Urologic Research Group: histologic grading and clinical staging of prostatic carcinoma. In Tannenbaum, M. Urologic Pathology: The Prostate. Philadelphia: Lea and Febiger. pp. 171&#8211;198.)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Primary Gleason Pattern</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="GLEASON SECONDARY SCORE" nciodm:ExtCodeID="C48604">
+                    <nciodm:CDISCDefinition>The second most prevalent Gleason pattern in a prostate biopsy or prostatectomy specimen. (Gleason, D. F. (1977). The Veteran's Administration Cooperative Urologic Research Group: histologic grading and clinical staging of prostatic carcinoma. In Tannenbaum, M. Urologic Pathology: The Prostate. Philadelphia: Lea and Febiger. pp. 171&#8211;198.)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Secondary Gleason Pattern</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="GLEASON TOTAL SUM" nciodm:ExtCodeID="C48602">
+                    <nciodm:CDISCDefinition>The sum of the primary and secondary Gleason scores. If three patterns are identified, it is the sum of the primary pattern score and the score of the least well-differentiated pattern. (Gleason, D. F. (1977). The Veteran's Administration Cooperative Urologic Research Group: histologic grading and clinical staging of prostatic carcinoma. In Tannenbaum, M. Urologic Pathology: The Prostate. Philadelphia: Lea and Febiger. pp. 171&#8211;198.)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Total Gleason Score for Prostate Cancer</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="H SCORE TOTAL SCORE" nciodm:ExtCodeID="C125988">
                     <nciodm:CDISCDefinition>The histopathological evaluation of staining in tissue based on the H Score scoring system (McCarty KS Jr, Miller LS, Cox EB, et al. Estrogen receptor analyses: correlation of biochemical and immunohistochemical methods using monoclonal antireceptor antibodies. Arch Pathol Lab Med. 1985;109(8):716-721).</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>H Score Total Score</nciodm:PreferredTerm>

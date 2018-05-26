@@ -10,6 +10,22 @@
                     <nciodm:CDISCDefinition>A physician who specializes in the diagnosis and treatment of heart disorders.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Cardiologist</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="MICROSCOPIST" nciodm:ExtCodeID="C132303">
+                    <nciodm:CDISCDefinition>A health care professional trained in the visualization of structures too small to be seen by the naked eye, using various microscopic techniques.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Microscopist</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MICROSCOPIST 1" nciodm:ExtCodeID="C132421">
+                    <nciodm:CDISCDefinition>A&#160;microscopist performing the assessment that is given the designation of one.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Microscopist 1</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MICROSCOPIST 2" nciodm:ExtCodeID="C132422">
+                    <nciodm:CDISCDefinition>A&#160;microscopist performing the assessment that is given the designation of two.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Microscopist 2</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MICROSCOPIST 3" nciodm:ExtCodeID="C132423">
+                    <nciodm:CDISCDefinition>A&#160;microscopist performing the assessment that is given the designation of three.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Microscopist 3</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="NEUROLOGIST" nciodm:ExtCodeID="C17721">
                     <nciodm:CDISCDefinition>A physician who specializes in diagnosing and treating diseases and disorders of the nervous system.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Neurologist</nciodm:PreferredTerm>
@@ -34,6 +50,14 @@
                     <nciodm:CDISCDefinition>An oncologist performing the assessment that is given the designation of two.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Oncologist 2</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="OPHTHALMOLOGIST" nciodm:ExtCodeID="C17822">
+                    <nciodm:CDISCDefinition>A physician with a Doctor of Medicine or Doctor of Osteopathic Medicine degree (or analogous) who specializes in diagnosing and treating eye disorders, including more complex disorders that require surgery. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Ophthalmologist</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="OPTOMETRIST" nciodm:ExtCodeID="C132424">
+                    <nciodm:CDISCDefinition>A physician with a Doctor of Optometry degree (or analogous) who specializes in the diagnosis and treatment of eye disorders.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Optometrist</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="RADIOLOGIST" nciodm:ExtCodeID="C17824">
                     <nciodm:CDISCDefinition>A physician who specializes in the diagnostic and/or therapeutic uses of radiation. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Radiologist</nciodm:PreferredTerm>
@@ -45,6 +69,18 @@
                 <EnumeratedItem CodedValue="RADIOLOGIST 2" nciodm:ExtCodeID="C94531">
                     <nciodm:CDISCDefinition>A radiologist performing the assessment that is given the designation of two.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Radiologist 2</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="RATER" nciodm:ExtCodeID="C132304">
+                    <nciodm:CDISCDefinition>An individual qualified to perform an assessment.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Rater</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="RATER 1" nciodm:ExtCodeID="C132425">
+                    <nciodm:CDISCDefinition>A rater performing the assessment that is given the designation of one.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Rater 1</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="RATER 2" nciodm:ExtCodeID="C132426">
+                    <nciodm:CDISCDefinition>A rater performing the assessment that is given the designation of two.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Rater 2</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="READER" nciodm:ExtCodeID="C28747">
                     <nciodm:CDISCDefinition>An individual who takes non-quantifiable data and provides quantifiable assessments for that data.</nciodm:CDISCDefinition>

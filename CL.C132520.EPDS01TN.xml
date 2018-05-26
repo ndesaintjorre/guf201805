@@ -1,0 +1,59 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C132520.EPDS01TN" Name="Edinburgh Postnatal Depression Scale Test Name" DataType="text" nciodm:ExtCodeID="C132520" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Edinburgh Postnatal Depression Scale test name.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="EPDS01-Able to Laugh and See Funny Side" nciodm:ExtCodeID="C132563">
+                    <nciodm:CDISCSynonym>EPDS01-Able to Laugh and See Funny Side</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Edinburgh Postnatal Depression Scale - I have been able to laugh and see the funny side of things.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>EPDS - Able to Laugh and See Funny Side</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EPDS01-Anxious/Worried No Good Reason" nciodm:ExtCodeID="C132566">
+                    <nciodm:CDISCSynonym>EPDS01-Anxious/Worried No Good Reason</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Edinburgh Postnatal Depression Scale - I have been anxious or worried for no good reason.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>EPDS - Anxious or Worried No Good Reason</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EPDS01-Blamed Myself Unnecessarily" nciodm:ExtCodeID="C132565">
+                    <nciodm:CDISCSynonym>EPDS01-Blamed Myself Unnecessarily</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Edinburgh Postnatal Depression Scale - I have blamed myself unnecessarily when things went wrong.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>EPDS - Blamed Myself Unnecessarily</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EPDS01-I Have Felt Sad or Miserable" nciodm:ExtCodeID="C132570">
+                    <nciodm:CDISCSynonym>EPDS01-I Have Felt Sad or Miserable</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Edinburgh Postnatal Depression Scale - I have felt sad or miserable.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>EPDS - I Have Felt Sad or Miserable</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EPDS01-Looked Forward With Enjoyment" nciodm:ExtCodeID="C132564">
+                    <nciodm:CDISCSynonym>EPDS01-Looked Forward With Enjoyment</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Edinburgh Postnatal Depression Scale - I have looked forward with enjoyment to things.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>EPDS - Looked Forward With Enjoyment</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EPDS01-Scared/Panicky for No Good Reason" nciodm:ExtCodeID="C132567">
+                    <nciodm:CDISCSynonym>EPDS01-Scared/Panicky for No Good Reason</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Edinburgh Postnatal Depression Scale - I have felt scared or panicky for no very good reason.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>EPDS - Scared or Panicky for No Good Reason</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EPDS01-So Unhappy I Have Been Crying" nciodm:ExtCodeID="C132571">
+                    <nciodm:CDISCSynonym>EPDS01-So Unhappy I Have Been Crying</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Edinburgh Postnatal Depression Scale - I have been so unhappy that I have been crying.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>EPDS - So Unhappy I Have Been Crying</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EPDS01-Things Getting on Top of Me" nciodm:ExtCodeID="C132568">
+                    <nciodm:CDISCSynonym>EPDS01-Things Getting on Top of Me</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Edinburgh Postnatal Depression Scale - Things have been getting on top of me.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>EPDS - Things Getting on Top of Me</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EPDS01-Thought of Harming Myself" nciodm:ExtCodeID="C132572">
+                    <nciodm:CDISCSynonym>EPDS01-Thought of Harming Myself</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Edinburgh Postnatal Depression Scale - The thought of harming myself has occurred to me.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>EPDS - Thought of Harming Myself</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EPDS01-Unhappy Had Difficulty Sleeping" nciodm:ExtCodeID="C132569">
+                    <nciodm:CDISCSynonym>EPDS01-Unhappy Had Difficulty Sleeping</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Edinburgh Postnatal Depression Scale - I have been so unhappy that I have had difficulty sleeping.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>EPDS - Unhappy Had Difficulty Sleeping</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>EPDS01TN</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Edinburgh Postnatal Depression Scale Test Name</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Questionnaire EPDS Test Name Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

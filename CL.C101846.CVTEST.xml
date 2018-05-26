@@ -251,6 +251,7 @@
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Inferior Vena Cava Collapse Sniff Ind" nciodm:ExtCodeID="C130055">
                     <nciodm:CDISCSynonym>Inferior Vena Cava Collapse Indicator</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Inferior Vena Cava Collapse Sniff Ind</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>An indication as to whether inferior vena cava collapse occurred with sniff.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Inferior Vena Cava Collapse Due to Sniff Test Indicator</nciodm:PreferredTerm>
                 </EnumeratedItem>
@@ -300,6 +301,11 @@
                     <nciodm:CDISCSynonym>Left Ventricular Ejection Fraction</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The percent or fraction of the left ventricular end diastolic volume ejected in systole. The left ventricular ejection fraction is equal to the left ventricular stroke volume divided by the left ventricular end diastolic volume.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Left Ventricular Ejection Fraction</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Left Ventricular Fractional Shortening" nciodm:ExtCodeID="C38020">
+                    <nciodm:CDISCSynonym>Left Ventricular Fractional Shortening</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The reduction in the length of the end-diastolic diameter dimension that occurs between end-systole and end-diastole, expressed as a fraction of the end-diastolic dimension. Calculation of the left ventricular fractional shortening is per the following formula: [(end-diastolic dimension minus end-systolic dimension) divided by end-diastolic dimension] multiplied by 100.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Left Ventricular Fractional Shortening</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Length" nciodm:ExtCodeID="C25334">
                     <nciodm:CDISCSynonym>Length</nciodm:CDISCSynonym>

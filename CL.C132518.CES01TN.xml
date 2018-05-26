@@ -1,0 +1,44 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C132518.CES01TN" Name="Combat Exposure Scale Test Name" DataType="text" nciodm:ExtCodeID="C132518" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Combat Exposure Scale test name.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="CES01-Ever Combat Patrols/Dangerous Duty" nciodm:ExtCodeID="C132556">
+                    <nciodm:CDISCSynonym>CES01-Ever Combat Patrols/Dangerous Duty</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Combat Exposure Scale - Did you ever go on combat patrols or have other dangerous duty?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CES - Ever Combat Patrols or Dangerous Duty</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CES01-Ever Surrounded by the Enemy" nciodm:ExtCodeID="C132558">
+                    <nciodm:CDISCSynonym>CES01-Ever Surrounded by the Enemy</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Combat Exposure Scale - Were you ever surrounded by the enemy?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CES - Ever Surrounded by the Enemy</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CES01-How Often Fire Rounds at Enemy" nciodm:ExtCodeID="C132560">
+                    <nciodm:CDISCSynonym>CES01-How Often Fire Rounds at Enemy</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Combat Exposure Scale - How often did you fire rounds at the enemy?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CES - How Often Fire Rounds at Enemy</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CES01-In Danger of Being Injured/Killed" nciodm:ExtCodeID="C132562">
+                    <nciodm:CDISCSynonym>CES01-In Danger of Being Injured/Killed</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Combat Exposure Scale - How often were you in danger of being injured or killed (i.e., being pinned down, overrun, ambushed, near miss, etc.)?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CES - In Danger of Being Injured or Killed</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CES01-See Someone Hit by Rounds" nciodm:ExtCodeID="C132561">
+                    <nciodm:CDISCSynonym>CES01-See Someone Hit by Rounds</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Combat Exposure Scale - How often did you see someone hit by incoming or outgoing rounds?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CES - See Someone Hit by Rounds</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CES01-Soldiers in Unit KIA, Wounded, MIA" nciodm:ExtCodeID="C132559">
+                    <nciodm:CDISCSynonym>CES01-Soldiers in Unit KIA, Wounded, MIA</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Combat Exposure Scale - What percentage of the soldiers in your unit were killed (KIA), wounded or missing in action (MIA)?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CES - Soldiers in Unit Killed (KIA), Wounded, Missing (MIA)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CES01-Were You Ever Under Enemy Fire" nciodm:ExtCodeID="C132557">
+                    <nciodm:CDISCSynonym>CES01-Were You Ever Under Enemy Fire</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Combat Exposure Scale - Were you ever under enemy fire?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CES - Were You Ever Under Enemy Fire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>CES01TN</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Combat Exposure Scale Test Name</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Questionnaire CES Test Name Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

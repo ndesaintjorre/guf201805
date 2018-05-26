@@ -3,10 +3,9 @@
                     <TranslatedText xml:lang="en">The name and description of a biological specimen.</TranslatedText>
                 </Description>
                 <EnumeratedItem CodedValue="ADIPOSE TISSUE" nciodm:ExtCodeID="C12472">
-                    <nciodm:CDISCSynonym>Adipose Tissue</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Body Fat</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Fat Tissue</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A specialized form of connective tissue consisting primarily of adipocytes (fat cells), surrounded by a meshwork of collagen fibers. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>Connective tissue consisting primarily of adipocytes (fat cells) and supporting structural matrix.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Adipose Tissue</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="AMNIOTIC FLUID" nciodm:ExtCodeID="C13188">
@@ -32,7 +31,7 @@
                     <nciodm:PreferredTerm>Atherosclerotic Plaque</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="BILE" nciodm:ExtCodeID="C13192">
-                    <nciodm:CDISCDefinition>Fluid composed of waste products, bile acids, salts, cholesterol, and electrolytes. It is secreted by the liver parenchyma and stored in the gallbladder. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>Fluid composed of waste products, bile acids, salts, cholesterol, and electrolytes. It is produced by the liver and may be stored in the gallbladder (if present).</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Bile</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="BLOOD" nciodm:ExtCodeID="C12434">
@@ -42,17 +41,15 @@
                     <nciodm:PreferredTerm>Blood</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="BONE" nciodm:ExtCodeID="C12366">
-                    <nciodm:CDISCSynonym>Bone</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Calcified connective tissue that forms the skeletal components of the body. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Bone</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="BONE MARROW" nciodm:ExtCodeID="C12431">
-                    <nciodm:CDISCSynonym>Bone Marrow</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>The tissue occupying the spaces of bone. It consists of blood vessel sinuses and a network of hematopoietic cells which give rise to the red cells, white cells, and megakaryocytes. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>The tissue occupying the spaces of some bones. It consists of blood vessel sinuses and a network of hematopoietic cells.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Bone Marrow</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="BREAST MILK" nciodm:ExtCodeID="C13257">
-                    <nciodm:CDISCDefinition>Milk produced by females for the purpose of feeding their young. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A liquid produced by the mammary gland.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Breast Milk</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="BUFFY COAT" nciodm:ExtCodeID="C84507">
@@ -66,6 +63,10 @@
                 <EnumeratedItem CodedValue="CAPILLARY BLOOD" nciodm:ExtCodeID="C112235">
                     <nciodm:CDISCDefinition>A mixture of arterial blood, venous blood and interstitial fluid, which is found in the capillaries.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Capillary Blood</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CAPILLARY PLASMA" nciodm:ExtCodeID="C132461">
+                    <nciodm:CDISCDefinition>A plasma sample that is prepared from capillary blood.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Capillary Plasma</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="CARDIAC MUSCLE TISSUE" nciodm:ExtCodeID="C12371">
                     <nciodm:CDISCSynonym>Myocardium</nciodm:CDISCSynonym>
@@ -110,13 +111,17 @@
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="EMESIS" nciodm:ExtCodeID="C77666">
                     <nciodm:CDISCSynonym>Emesis</nciodm:CDISCSynonym>
-                    <nciodm:CDISCSynonym>Vomit</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Stomach contents that have returned to the mouth or are ejected beyond the mouth. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:CDISCSynonym>Vomitus</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Partially digested gastric contents that are returned to the mouth or beyond via the vomit reflex present in some species.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Vomitus</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="EPIDERMAL TISSUE" nciodm:ExtCodeID="C12708">
                     <nciodm:CDISCDefinition>The cells and connective tissue from the epithelial portion of the skin (cutis). It consists of the following layers: stratum corneum (horny layer), stratum granulosum (granular layer), stratum spinosum (prickle cell layer), and stratum basale (basal cell layer).</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Epidermis</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EPITHELIAL CELL" nciodm:ExtCodeID="C12578">
+                    <nciodm:CDISCDefinition>Any of the cells of the epithelium, which covers the body and lines its cavities and glands.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Epithelial Cell</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="ERYTHROCYTES" nciodm:ExtCodeID="C12521">
                     <nciodm:CDISCSynonym>RBC</nciodm:CDISCSynonym>
@@ -142,8 +147,7 @@
                     <nciodm:PreferredTerm>Body Fluid or Substance</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="GASTRIC CONTENTS" nciodm:ExtCodeID="C77614">
-                    <nciodm:CDISCSynonym>Digestive Contents</nciodm:CDISCSynonym>
-                    <nciodm:CDISCSynonym>Ingesta</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Stomach Contents</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The contents of the stomach that may include undigested food mixed with juices secreted by the gastric mucosal glands. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Gastric Content</nciodm:PreferredTerm>
                 </EnumeratedItem>
@@ -234,7 +238,7 @@
                     <nciodm:PreferredTerm>Sweat</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="PLASMA" nciodm:ExtCodeID="C13356">
-                    <nciodm:CDISCDefinition>Plasma is the fluid (acellular) portion of the circulating blood, as distinguished from the serum that is the fluid portion of the blood obtained by removal of the fibrin clot and blood cells after coagulation.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>The fluid (acellular) portion of the circulating blood with retained clotting components.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Plasma</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="PLATELET" nciodm:ExtCodeID="C12520">
@@ -265,7 +269,7 @@
                     <nciodm:PreferredTerm>Pus</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="SALIVA" nciodm:ExtCodeID="C13275">
-                    <nciodm:CDISCDefinition>A clear liquid secreted into the mouth by the salivary glands and mucous glands of the mouth; moistens the mouth and starts the digestion of starches. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A clear liquid secreted by the salivary glands.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Saliva</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="SEBUM" nciodm:ExtCodeID="C13276">
@@ -273,8 +277,7 @@
                     <nciodm:PreferredTerm>Sebum</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="SEMEN" nciodm:ExtCodeID="C13277">
-                    <nciodm:CDISCSynonym>Seminal Plasma</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>The thick, whitish secretion of the male reproductive organs. It is composed of spermatozoa in their nutrient plasma, secretions from the prostate, seminal vesicles, and various other glands, epithelial cells, and minor constituents. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>The fluid containing the spermatozoa, secreted by the testes and accessory reproductive glands of the male.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Semen</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="SEMINAL FLUID" nciodm:ExtCodeID="C33529">
@@ -291,8 +294,7 @@
                     <nciodm:PreferredTerm>Serum or Plasma</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="SKELETAL MUSCLE TISSUE" nciodm:ExtCodeID="C13050">
-                    <nciodm:CDISCSynonym>Skeletal Muscle Tissue</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Striated muscles that are under voluntary control of the organism. They are connected at either or both ends to a bone and are utilized for locomotion and other movements. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>Voluntary, striated muscle tissue predominantly associated with the skeleton.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Skeletal Muscle Tissue</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="SKIN TISSUE" nciodm:ExtCodeID="C33563">
@@ -304,7 +306,7 @@
                     <nciodm:PreferredTerm>Smegma</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="SMOOTH MUSCLE TISSUE" nciodm:ExtCodeID="C12437">
-                    <nciodm:CDISCDefinition>Involuntary muscle tissue of the internal organs. It is composed of elongated muscle cells or fibers that are not arranged in a striated pattern and form layers of muscle tissue. The smooth muscle cells contain a contractile apparatus composed of thin and thick filaments and a cytoskeleton composed of intermediate filaments. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>Primarily involuntary, non-striated muscle tissue of the internal organs and blood vessels.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Smooth Muscle Tissue</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="SOFT TISSUE" nciodm:ExtCodeID="C12471">
@@ -344,8 +346,7 @@
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="SYNOVIAL FLUID" nciodm:ExtCodeID="C33718">
                     <nciodm:CDISCSynonym>Synovia</nciodm:CDISCSynonym>
-                    <nciodm:CDISCSynonym>Synovial Fluid</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A viscid fluid secreted by the synovial membrane, serving as a lubricant. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>The fluid within a joint capsule.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Synovial Fluid</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="TISSUE" nciodm:ExtCodeID="C12801">
@@ -361,7 +362,7 @@
                     <nciodm:PreferredTerm>Tumor Tissue</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="URINE" nciodm:ExtCodeID="C13283">
-                    <nciodm:CDISCDefinition>The fluid that is excreted by the kidneys. It is stored in the bladder and discharged through the urethra. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>The fluid produced by the kidneys.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Urine</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="VENOUS BLOOD" nciodm:ExtCodeID="C78730">
@@ -372,9 +373,17 @@
                     <nciodm:CDISCDefinition>Blood present in the umbilical vein at the time of delivery.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Venous Cord Blood</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="VENOUS PLASMA" nciodm:ExtCodeID="C132462">
+                    <nciodm:CDISCDefinition>A plasma sample that is prepared from venous blood.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Venous Plasma</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="VITREOUS HUMOR" nciodm:ExtCodeID="C13323">
                     <nciodm:CDISCDefinition>The clear colorless transparent jelly that fills the posterior chamber of the eyeball. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Vitreous Humor</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WHITE MATTER TISSUE" nciodm:ExtCodeID="C33892">
+                    <nciodm:CDISCDefinition>The nerve tissue forming the bulk of the deep parts of the brain and the superficial parts of the spinal cord. It is composed of nerve cell processes, i.e. extensions (axons), which connect various grey matter areas of the brain to each other and carry nerve impulses to and from the nerve cell bodies within the central nervous system (neurons). (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>White Matter</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <nciodm:CDISCSubmissionValue>SPECTYPE</nciodm:CDISCSubmissionValue>
                 <nciodm:CDISCSynonym>Specimen Type</nciodm:CDISCSynonym>

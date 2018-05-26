@@ -93,6 +93,10 @@
                     <nciodm:CDISCDefinition>One that contributes something. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Donor</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="DONOR, BLOOD" nciodm:ExtCodeID="C132448">
+                    <nciodm:CDISCDefinition>Someone from whom blood is removed for transplantation or other purpose.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Blood Donor</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="DONOR, KIDNEY" nciodm:ExtCodeID="C130054">
                     <nciodm:CDISCDefinition>Someone from whom one or more kidneys are removed for transplantation or other purpose.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Kidney Donor</nciodm:PreferredTerm>
@@ -173,10 +177,22 @@
                     <nciodm:CDISCDefinition>A relative who is the biological parent of the biological father.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Paternal Biological Grandparent</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="HOUSEHOLD MEMBER" nciodm:ExtCodeID="C132449">
+                    <nciodm:CDISCDefinition>An individual who is considered part of the social unit comprising one or more individuals living together (all of whom need not be related) in the same dwelling.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Household Member</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HUSBAND" nciodm:ExtCodeID="C71588">
+                    <nciodm:CDISCDefinition>A male partner in marriage. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Husband</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="MOTHER, BIOLOGICAL" nciodm:ExtCodeID="C96580">
                     <nciodm:CDISCSynonym>Biological Mother</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A female who contributes to the genetic makeup of her offspring from the fertilization of her ovum. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Biological Mother</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MOTHER, STEP" nciodm:ExtCodeID="C132450">
+                    <nciodm:CDISCDefinition>A female who has acquired children through marriage.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Stepmother</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="NURSE" nciodm:ExtCodeID="C20821">
                     <nciodm:CDISCSynonym>Nurse</nciodm:CDISCSynonym>
@@ -187,6 +203,14 @@
                     <nciodm:CDISCSynonym>Pregnancy Partner</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>An individual who provides support to a pregnant individual.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Pregnancy Partner</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="RELATIVE" nciodm:ExtCodeID="C21480">
+                    <nciodm:CDISCDefinition>Any individual related biologically or legally to another individual.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Relative</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="RELATIVE, BIOLOGICAL PATERNAL" nciodm:ExtCodeID="C132451">
+                    <nciodm:CDISCDefinition>Any biological relative of an individual's biological father.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Biological Relative, Paternal</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="RELATIVE, FIRST DEGREE" nciodm:ExtCodeID="C21481">
                     <nciodm:CDISCSynonym>First Degree Relative</nciodm:CDISCSynonym>
@@ -261,6 +285,10 @@
                     <nciodm:CDISCSynonym>Spouse</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A person's partner in marriage. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Spouse</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SUSPECTED SOURCE CASE" nciodm:ExtCodeID="C132452">
+                    <nciodm:CDISCDefinition>An individual that is believed likely to have transmitted a disease to another individual.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Suspected Source Case</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="TECHNICIAN" nciodm:ExtCodeID="C63861">
                     <nciodm:CDISCSynonym>Technician</nciodm:CDISCSynonym>

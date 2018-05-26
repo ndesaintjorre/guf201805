@@ -1,0 +1,17 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C132317.GENRTYP" Name="Genetic Region of Interest Type" DataType="text" nciodm:ExtCodeID="C132317" nciodm:CodeListExtensible="Yes">
+                <Description>
+                    <TranslatedText xml:lang="en">Terminology relevant to the classification of the genetic region under study.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="GENE" nciodm:ExtCodeID="C16612">
+                    <nciodm:CDISCDefinition>A functional unit of heredity which occupies a specific position on a particular chromosome and serves as the template for a product that contributes to a phenotype or a biological function. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Gene</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MICROSATELLITE" nciodm:ExtCodeID="C13338">
+                    <nciodm:CDISCDefinition>A variety of simple 2-5 base pair repeats (e.g., T-A repeats, variable number of tandem repeats (VNTRs), etc.) present within most chromosomes. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Microsatellite Repeat</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>GENRTYP</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Genetic Region of Interest Type</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Genetic Region of Interest Type Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

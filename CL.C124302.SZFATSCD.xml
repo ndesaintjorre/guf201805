@@ -42,6 +42,16 @@
                     <nciodm:CDISCDefinition>The total number of hospitalization events that have occurred for the condition.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Number of Hospitalizations</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="LONGCRSE" nciodm:ExtCodeID="C35461">
+                    <nciodm:CDISCSynonym>Longitudinal Course</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A description of the series of events, including signs and symptoms, that define the course of a chronic disease over time.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Clinical Course of Disease</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="OCCUR" nciodm:ExtCodeID="C127786">
+                    <nciodm:CDISCSynonym>Occurrence Indicator</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An indication as to whether something has happened, such as an event or incident.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Occurrence Indicator</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="TRTSETT" nciodm:ExtCodeID="C124444">
                     <nciodm:CDISCSynonym>Treatment Setting</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The surroundings or environment within which the subject receives therapeutic treatment for the condition.</nciodm:CDISCDefinition>

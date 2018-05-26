@@ -12,6 +12,16 @@
                     <nciodm:CDISCDefinition>The area under the curve (AUCTAU) at steady state divided by the area under the curve (AUCTAU) over the initial dosing interval.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Accumulation Ratio Area Under the Curve</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="ARAUCD" nciodm:ExtCodeID="C132435">
+                    <nciodm:CDISCSynonym>Accum Ratio AUCTAU norm by dose</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The area under the curve (AUCTAU) at steady state divided by the area under the curve (AUCTAU) over the initial dosing interval, each divided by the associated dose.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Accumulation Ratio AUC Over Dosing Interval Normalized by Dose</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ARAUCIND" nciodm:ExtCodeID="C132436">
+                    <nciodm:CDISCSynonym>Accum Ratio AUC T1 to T2 norm by dose</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The area under the curve from T1 to T2 at steady state divided by the area under the curve from T1 to T2 during the initial dosing interval, each divided by the associated dose.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Accumulation Ratio AUC T1 to T2 Normalized by Dose</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="ARAUCINT" nciodm:ExtCodeID="C122329">
                     <nciodm:CDISCSynonym>Accumulation Ratio AUC from T1 to T2</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The area under the curve from T1 to T2 at steady state divided by the area under the curve from T1 to T2 during the initial dosing interval.</nciodm:CDISCDefinition>
@@ -22,10 +32,25 @@
                     <nciodm:CDISCDefinition>The maximum concentration at steady state divided by the maximum concentration during the initial dosing interval.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Accumulation Ratio Cmax</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="ARCMAXD" nciodm:ExtCodeID="C132437">
+                    <nciodm:CDISCSynonym>Accum Ratio Cmax norm by dose</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The maximum concentration at steady state divided by the maximum concentration during the initial dosing interval, each divided by the associated dose.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Accumulation Ratio Cmax Normalized by Dose</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="ARCMIN" nciodm:ExtCodeID="C102358">
                     <nciodm:CDISCSynonym>Accumulation Ratio Cmin</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The minimum concentration at steady state divided by the minimum concentration during the initial dosing interval.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Accumulation Ratio Cmin</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ARCMIND" nciodm:ExtCodeID="C132438">
+                    <nciodm:CDISCSynonym>Accum Ratio Cmin norm by dose</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The minimum concentration at steady state divided by the minimum concentration during the initial dosing interval, each divided by the associated dose.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Accumulation Ratio Cmin Normalized by Dose</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ARCTROUD" nciodm:ExtCodeID="C132439">
+                    <nciodm:CDISCSynonym>Accum Ratio Ctrough norm by dose</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The trough concentration at steady state divided by the trough concentration during the initial dosing interval, each divided by the associated dose.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Accumulation Ratio Ctrough Normalized by Dose</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="ARCTROUG" nciodm:ExtCodeID="C102426">
                     <nciodm:CDISCSynonym>Accumulation Ratio Ctrough</nciodm:CDISCSynonym>
@@ -486,6 +511,31 @@
                     <nciodm:CDISCSynonym>Average Conc Norm by Dose</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>AUCTAU divided by TAU and then divided by the dose.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Average Concentration Normalized by Dose</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CAVGINT" nciodm:ExtCodeID="C132302">
+                    <nciodm:CDISCSynonym>Average Conc from T1 to T2</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The area under the curve over the interval from T1 to T2 (AUCINT) divided by the length of the interval.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Average Concentration from T1 to T2</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CAVGINTB" nciodm:ExtCodeID="C132440">
+                    <nciodm:CDISCSynonym>Average Conc from T1 to T2 Norm by BMI</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The area under the curve over the interval from T1 to T2 (AUCINT) divided by the length of the interval and then divided by the body mass index.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Average Concentration from T1 to T2 Normalized by Body Mass Index</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CAVGINTD" nciodm:ExtCodeID="C132441">
+                    <nciodm:CDISCSynonym>Average Conc from T1 to T2 Norm by Dose</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The area under the curve over the interval from T1 to T2 (AUCINT) divided by the length of the interval and then divided by the dose.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Average Concentration from T1 to T2 Normalized by Dose</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CAVGINTS" nciodm:ExtCodeID="C132442">
+                    <nciodm:CDISCSynonym>Average Conc from T1 to T2 Norm by SA</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The area under the curve over the interval from T1 to T2 (AUCINT) divided by the length of the interval and then divided by the surface area.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Average Concentration from T1 to T2 Normalized by Surface Area</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CAVGINTW" nciodm:ExtCodeID="C132443">
+                    <nciodm:CDISCSynonym>Average Conc from T1 to T2 Norm by WT</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The area under the curve over the interval from T1 to T2 (AUCINT) divided by the length of the interval and then divided by the weight.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Average Concentration from T1 to T2 Normalized by Weight</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="CAVGS" nciodm:ExtCodeID="C92369">
                     <nciodm:CDISCSynonym>Average Conc Norm by SA</nciodm:CDISCSynonym>

@@ -22,6 +22,11 @@
                     <nciodm:CDISCDefinition>An indication as to whether the subject was admitted to a healthcare clinic.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Clinic Stay Indicator</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="Longitudinal Course" nciodm:ExtCodeID="C35461">
+                    <nciodm:CDISCSynonym>Longitudinal Course</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A description of the series of events, including signs and symptoms, that define the course of a chronic disease over time.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Clinical Course of Disease</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="Most Severe Acute Stressor" nciodm:ExtCodeID="C124437">
                     <nciodm:CDISCSynonym>Most Severe Acute Stressor</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The agent, stimulus, activity, or event that causes stress with an acute frequency, which has the highest level of severity.</nciodm:CDISCDefinition>
@@ -41,6 +46,11 @@
                     <nciodm:CDISCSynonym>Number Of Hospitalizations</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The total number of hospitalization events that have occurred for the condition.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Number of Hospitalizations</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Occurrence Indicator" nciodm:ExtCodeID="C127786">
+                    <nciodm:CDISCSynonym>Occurrence Indicator</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An indication as to whether something has happened, such as an event or incident.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Occurrence Indicator</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Treatment Setting" nciodm:ExtCodeID="C124444">
                     <nciodm:CDISCSynonym>Treatment Setting</nciodm:CDISCSynonym>

@@ -66,10 +66,18 @@
                     <nciodm:CDISCDefinition>An electrocardiogram (ECG) lead placement whereby 12 leadpoints are recorded but the position of the leads is unspecified. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>12 Lead Placement Unspecified</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="6 LEAD NEHB-SPORI" nciodm:ExtCodeID="C132355">
+                    <nciodm:CDISCDefinition>An electrocardiogram (ECG) lead configuration that is primarily used to record ECGs in non-human animals, and which uses six (6) electrodes to generate eight (8) ECG leads (ECG wave forms). The six electrode configuration includes the following: four (4) limb electrodes, which are placed analogous to an Einthoven configuration in humans, and two (2) chest electrodes. The eight (8) ECG leads recorded comprise three standard limb leads (leads I, II, and III), three augmented leads (Leads aVR, aVF, and aVL), and two chest leads, which are generated using two unipolar chest leads, typically CV5RL [rV2] and CV6LL [V2] for canines, or MV1 and MV2 for primates.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>6 Lead NEHB-SPORI</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="6 LEAD STANDARD" nciodm:ExtCodeID="C90350">
                     <nciodm:CDISCSynonym>6 Lead Standard</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>An electrocardiogram lead placement on the subject using a six electrode lead set with three standard leads and three augmented derived leads to elicit an electrical view of the heart.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>6 Lead Standard</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="8 LEAD STANDARD" nciodm:ExtCodeID="C132356">
+                    <nciodm:CDISCDefinition>An electrocardiogram (ECG) recorded using 6 electrodes to generate 8 ECG leads (ECG wave forms). The 6 electrode configuration includes 4 limb electrodes in an Einthoven configuration and two chest electrodes. The 8 ECG leads recorded consist of three standard limb leads (leads I, II, and III), three augmented leads (leads aVR, aVF, and aVL), and two chest leads (which are generated using two unipolar chest leads (typically CV5RL [rV2] and CV6LL [V2] for canines or MV1 and MV2 for non-human primates). This lead configuration is typically used to record ECGs in non-human animals.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>8 Lead Standard</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="BIPOLAR UNCORRECTED XYZ LEAD SYSTEM" nciodm:ExtCodeID="C71121">
                     <nciodm:CDISCSynonym>Bipolar uncorrected XYZ lead system</nciodm:CDISCSynonym>

@@ -1,0 +1,79 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C132525.TSQM01TC" Name="Treatment Satisfaction Questionnaire for Medication Version 1.4 Test Code" DataType="text" nciodm:ExtCodeID="C132525" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Treatment Satisfaction Questionnaire for Medication Version 1.4 test code.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="TSQM0101" nciodm:ExtCodeID="C132618">
+                    <nciodm:CDISCSynonym>TSQM01-Med to Prevent/Treat Condition</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Treatment Satisfaction Questionnaire for Medication - How satisfied or dissatisfied are you with the ability of the medication to prevent or treat your condition?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>TSQM Version 1.4 - Medication to Prevent or Treat Condition</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TSQM0102" nciodm:ExtCodeID="C132619">
+                    <nciodm:CDISCSynonym>TSQM01-Way Medication Relieves Symptoms</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Treatment Satisfaction Questionnaire for Medication - How satisfied or dissatisfied are you with the way the medication relieves your symptoms?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>TSQM Version 1.4 - Way Medication Relieves Symptoms</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TSQM0103" nciodm:ExtCodeID="C132620">
+                    <nciodm:CDISCSynonym>TSQM01-Time Takes Med to Start Working</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Treatment Satisfaction Questionnaire for Medication - How satisfied or dissatisfied are you with the amount of time it takes the medication to start working?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>TSQM Version 1.4 - Time Takes Medication to Start Working</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TSQM0104" nciodm:ExtCodeID="C132621">
+                    <nciodm:CDISCSynonym>TSQM01-Experience Any Side Effect at All</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Treatment Satisfaction Questionnaire for Medication - As a result of taking this medication, do you experience any side effects at all?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>TSQM Version 1.4 - Experience Any Side Effect at All</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TSQM0105" nciodm:ExtCodeID="C132622">
+                    <nciodm:CDISCSynonym>TSQM01-How Bothersome Are Side Effects</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Treatment Satisfaction Questionnaire for Medication - How bothersome are the side effects of the medication you take to treat your condition?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>TSQM Version 1.4 - How Bothersome Are Side Effects</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TSQM0106" nciodm:ExtCodeID="C132623">
+                    <nciodm:CDISCSynonym>TSQM01-Interfere With Physical Health</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Treatment Satisfaction Questionnaire for Medication - To what extent do the side effects interfere with your physical health and ability to function (i.e., strength, energy levels, etc.)?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>TSQM Version 1.4 - Interfere With Physical Health</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TSQM0107" nciodm:ExtCodeID="C132624">
+                    <nciodm:CDISCSynonym>TSQM01-Interfere With Mental Function</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Treatment Satisfaction Questionnaire for Medication - To what extent do the side effects interfere with your mental function (i.e., ability to think clearly, stay awake, etc.)?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>TSQM Version 1.4 - Interfere With Mental Function</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TSQM0108" nciodm:ExtCodeID="C132625">
+                    <nciodm:CDISCSynonym>TSQM01-Side Effect Affect Overall Satisf</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Treatment Satisfaction Questionnaire for Medication - To what degree have medication side effects affected your overall satisfaction with the medication?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>TSQM Version 1.4 - Side Effect Affect Overall Satisfaction</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TSQM0109" nciodm:ExtCodeID="C132626">
+                    <nciodm:CDISCSynonym>TSQM01-Easy/Difficult Use Medication</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Treatment Satisfaction Questionnaire for Medication - How easy or difficult is it to use the medication in its current form?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>TSQM Version 1.4 - Easy or Difficult Use Medication</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TSQM0110" nciodm:ExtCodeID="C132627">
+                    <nciodm:CDISCSynonym>TSQM01-Easy/Difficult to Plan Use of Med</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Treatment Satisfaction Questionnaire for Medication - How easy or difficult is it to plan when you will use the medication each time?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>TSQM Version 1.4 - Easy or Difficult to Plan Use of Medication</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TSQM0111" nciodm:ExtCodeID="C132628">
+                    <nciodm:CDISCSynonym>TSQM01-Convenient/Inconvenient Take Med</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Treatment Satisfaction Questionnaire for Medication - How convenient or inconvenient is it to take the medication as instructed?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>TSQM Version 1.4 - Convenient or Inconvenient Take Medication</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TSQM0112" nciodm:ExtCodeID="C132629">
+                    <nciodm:CDISCSynonym>TSQM01-Confident Med Is Good for You</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Treatment Satisfaction Questionnaire for Medication - Overall, how confident are you that taking this medication is a good thing for you?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>TSQM Version 1.4 - Confident Medication Is Good for You</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TSQM0113" nciodm:ExtCodeID="C132630">
+                    <nciodm:CDISCSynonym>TSQM01-Certain Good Things Outweigh Bad</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Treatment Satisfaction Questionnaire for Medication - How certain are you that the good things about your medication outweigh the bad things?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>TSQM Version 1.4 - Certain Good Things Outweigh Bad</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TSQM0114" nciodm:ExtCodeID="C132631">
+                    <nciodm:CDISCSynonym>TSQM01-Satisfied/Dissatisfied With Med</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Treatment Satisfaction Questionnaire for Medication - Taking all things into account, how satisfied or dissatisfied are you with this medication?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>TSQM Version 1.4 - Satisfied or Dissatisfied With Medication</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>TSQM01TC</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Treatment Satisfaction Questionnaire for Medication Version 1.4 Test Code</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Questionnaire TSQM Version 1.4 Test Code Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            
