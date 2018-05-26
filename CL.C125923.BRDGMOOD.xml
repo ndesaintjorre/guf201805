@@ -1,0 +1,17 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C125923.BRDGMOOD" Name="BRIDG Activity Mood" DataType="text" nciodm:ExtCodeID="C125923" nciodm:CodeListExtensible="Yes">
+                <Description>
+                    <TranslatedText xml:lang="en">The modes that may be applied to an entity as it passes through various phases of a life cycle or business process.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="PERFORMED" nciodm:ExtCodeID="C38000">
+                    <nciodm:CDISCDefinition>To execute and carry through to completion.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Performed</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SCHEDULED" nciodm:ExtCodeID="C125937">
+                    <nciodm:CDISCDefinition>To order a planned list of activities or events.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Scheduled</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>BRDGMOOD</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>BRIDG Activity Mood</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM BRIDG Activity Mood Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

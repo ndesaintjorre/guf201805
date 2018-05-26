@@ -1,0 +1,24 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C106656.TDI01TN" Name="Transition Dyspnea Index Questionnaire Test Name" DataType="text" nciodm:ExtCodeID="C106656" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Transition Dyspnea Index test name.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="TDI01-Change in Functional Impairment" nciodm:ExtCodeID="C106704">
+                    <nciodm:CDISCSynonym>TDI01-Change in Functional Impairment</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Transition Dyspnea Index - Change in functional impairment.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>TDI - Change in Functional Impairment</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TDI01-Change in Magnitude of Effort" nciodm:ExtCodeID="C106706">
+                    <nciodm:CDISCSynonym>TDI01-Change in Magnitude of Effort</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Transition Dyspnea Index - Change in magnitude of effort.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>TDI - Change in Magnitude of Effort</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TDI01-Change in Magnitude of Task" nciodm:ExtCodeID="C106705">
+                    <nciodm:CDISCSynonym>TDI01-Change in Magnitude of Task</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Transition Dyspnea Index - Change in magnitude of task.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>TDI - Change in Magnitude of Task</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>TDI01TN</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Transition Dyspnea Index Questionnaire Test Name</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Questionnaire TDI Test Name Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

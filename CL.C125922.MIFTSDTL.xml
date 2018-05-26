@@ -1,0 +1,33 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C125922.MIFTSDTL" Name="Microscopic Findings Test Details" DataType="text" nciodm:ExtCodeID="C125922" nciodm:CodeListExtensible="Yes">
+                <Description>
+                    <TranslatedText xml:lang="en">Terminology relevant to the additional descriptions of the test being performed to produce the microscopic result.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="ALLRED PROPORTION POSITIVE SCORE" nciodm:ExtCodeID="C125985">
+                    <nciodm:CDISCDefinition>A score developed by Allred et al. (1998) and assigned based on the percent positivity of cells for a particular protein (Allred DC, Harvey JM, Berardo M, Clark GM. Prognostic and predictive factors in breast cancer by immunohistochemical analysis. Mod Pathol. 1998 Feb;11(2):155-68).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Allred Proportion Positive Score</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ALLRED STAINING INTENSITY SCORE" nciodm:ExtCodeID="C125986">
+                    <nciodm:CDISCDefinition>A score developed by Allred et al. (1998) and assigned based on the average staining intensity of cells for a particular protein (Allred DC, Harvey JM, Berardo M, Clark GM. Prognostic and predictive factors in breast cancer by immunohistochemical analysis. Mod Pathol. 1998 Feb;11(2):155-68).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Allred Average Staining Intensity Score</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ALLRED TOTAL SCORE" nciodm:ExtCodeID="C125987">
+                    <nciodm:CDISCDefinition>The histopathological evaluation of staining in tissue based on the Allred scoring system (Allred DC, Harvey JM, Berardo M, Clark GM. Prognostic and predictive factors in breast cancer by immunohistochemical analysis. Mod Pathol. 1998 Feb;11(2):155-68).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Allred Total Score</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="H SCORE TOTAL SCORE" nciodm:ExtCodeID="C125988">
+                    <nciodm:CDISCDefinition>The histopathological evaluation of staining in tissue based on the H Score scoring system (McCarty KS Jr, Miller LS, Cox EB, et al. Estrogen receptor analyses: correlation of biochemical and immunohistochemical methods using monoclonal antireceptor antibodies. Arch Pathol Lab Med. 1985;109(8):716-721).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>H Score Total Score</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PERCENT POSITIVE CELL" nciodm:ExtCodeID="C70460">
+                    <nciodm:CDISCDefinition>A measurement of the proportion of cells that are positive for a given protein.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Percent of Positive Cells</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="RECEPTOR OVERALL STATUS" nciodm:ExtCodeID="C125989">
+                    <nciodm:CDISCDefinition>An assessment of the status of a biological specimen with regards to a given receptor.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Receptor Overall Status</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>MIFTSDTL</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Microscopic Findings Test Details</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Microscopic Findings Test Detail Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

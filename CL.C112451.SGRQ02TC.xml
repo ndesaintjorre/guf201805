@@ -1,0 +1,264 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C112451.SGRQ02TC" Name="St. George's Respiratory Questionnaire Past 4 Weeks Version Questionnaire Test Code" DataType="text" nciodm:ExtCodeID="C112451" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">St. George's Respiratory Questionnaire Past 4 Weeks Version test code.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="SGRQ0201" nciodm:ExtCodeID="C112678">
+                    <nciodm:CDISCSynonym>SGRQ02-Describe Your Current Health</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>St. George's Respiratory Questionnaire Past 4 Weeks Version - Please check one box to show how you describe your current health.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SGRQ Past 4 Weeks Version - Describe Your Current Health</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SGRQ0202" nciodm:ExtCodeID="C112679">
+                    <nciodm:CDISCSynonym>SGRQ02-I Have Coughed</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>St. George's Respiratory Questionnaire Past 4 Weeks Version - Over the past 4 weeks, I have coughed.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SGRQ Past 4 Weeks Version - I Have Coughed</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SGRQ0203" nciodm:ExtCodeID="C112680">
+                    <nciodm:CDISCSynonym>SGRQ02-I Have Brought Up Phlegm</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>St. George's Respiratory Questionnaire Past 4 Weeks Version - Over the past 4 weeks, I have brought up phlegm (sputum).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SGRQ Past 4 Weeks Version - I Have Brought Up Phlegm</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SGRQ0204" nciodm:ExtCodeID="C112681">
+                    <nciodm:CDISCSynonym>SGRQ02-I Have Had Shortness of Breath</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>St. George's Respiratory Questionnaire Past 4 Weeks Version - Over the past 4 weeks, I have had shortness of breath.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SGRQ Past 4 Weeks Version - I Have Had Shortness of Breath</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SGRQ0205" nciodm:ExtCodeID="C112682">
+                    <nciodm:CDISCSynonym>SGRQ02-I Have Had Wheezing Attacks</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>St. George's Respiratory Questionnaire Past 4 Weeks Version - Over the past 4 weeks, I have had wheezing attacks.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SGRQ Past 4 Weeks Version - I Have Had Wheezing Attacks</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SGRQ0206" nciodm:ExtCodeID="C112683">
+                    <nciodm:CDISCSynonym>SGRQ02-Times Suffered Sev Resp Attacks</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>St. George's Respiratory Questionnaire Past 4 Weeks Version - How many times during the past 4 weeks have you suffered from severe or very unpleasant respiratory attacks?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SGRQ Past 4 Weeks Version - Times Suffered From Severe Respiratory Attacks</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SGRQ0207" nciodm:ExtCodeID="C112684">
+                    <nciodm:CDISCSynonym>SGRQ02-How Long Worst Resp Attack Last</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>St. George's Respiratory Questionnaire Past 4 Weeks Version - How long did the worst respiratory attack last?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SGRQ Past 4 Weeks Version - How Long Did Worst Respiratory Attack Last</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SGRQ0208" nciodm:ExtCodeID="C112685">
+                    <nciodm:CDISCSynonym>SGRQ02-How Many Good Days Have You Had</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>St. George's Respiratory Questionnaire Past 4 Weeks Version - Over the past 4 weeks, in a typical week, how many good days (with few respiratory problems) have you had?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SGRQ Past 4 Weeks Version - How Many Good Days You Had</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SGRQ0209" nciodm:ExtCodeID="C112686">
+                    <nciodm:CDISCSynonym>SGRQ02-Wheeze Worse in the Morning</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>St. George's Respiratory Questionnaire Past 4 Weeks Version - If you wheeze, is it worse when you get up in the morning?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SGRQ Past 4 Weeks Version - Wheeze Worse When Get Up in the Morning</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SGRQ0210" nciodm:ExtCodeID="C112687">
+                    <nciodm:CDISCSynonym>SGRQ02-Describe Your Resp Condition</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>St. George's Respiratory Questionnaire Past 4 Weeks Version - How would you describe your respiratory condition?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SGRQ Past 4 Weeks Version - Describe Your Respiratory Condition</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SGRQ0211" nciodm:ExtCodeID="C112688">
+                    <nciodm:CDISCSynonym>SGRQ02-If You Have Ever Held a job</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>St. George's Respiratory Questionnaire Past 4 Weeks Version - If you have ever held a job.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SGRQ Past 4 Weeks Version - Held a Job</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SGRQ0212" nciodm:ExtCodeID="C112689">
+                    <nciodm:CDISCSynonym>SGRQ02-Sitting or Lying Still</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>St. George's Respiratory Questionnaire Past 4 Weeks Version - These are questions about what activities usually make you feel short of breath these days: Sitting or lying still.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SGRQ Past 4 Weeks Version - Sitting or Lying Still</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SGRQ0213" nciodm:ExtCodeID="C112690">
+                    <nciodm:CDISCSynonym>SGRQ02-Washing or Dressing Yourself</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>St. George's Respiratory Questionnaire Past 4 Weeks Version - These are questions about what activities usually make you feel short of breath these days: Washing or dressing yourself.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SGRQ Past 4 Weeks Version - Washing or Dressing Yourself</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SGRQ0214" nciodm:ExtCodeID="C112691">
+                    <nciodm:CDISCSynonym>SGRQ02-Walking Around the House</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>St. George's Respiratory Questionnaire Past 4 Weeks Version - These are questions about what activities usually make you feel short of breath these days: Walking around the house.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SGRQ Past 4 Weeks Version - Walking Around the House</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SGRQ0215" nciodm:ExtCodeID="C112692">
+                    <nciodm:CDISCSynonym>SGRQ02-Walking Outside on Level Ground</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>St. George's Respiratory Questionnaire Past 4 Weeks Version - These are questions about what activities usually make you feel short of breath these days: Walking outside on level ground.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SGRQ Past 4 Weeks Version - Walking Outside on Level Ground</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SGRQ0216" nciodm:ExtCodeID="C112693">
+                    <nciodm:CDISCSynonym>SGRQ02-Walking Up a Flight of Stairs</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>St. George's Respiratory Questionnaire Past 4 Weeks Version - These are questions about what activities usually make you feel short of breath these days: Walking up a flight of stairs.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SGRQ Past 4 Weeks Version - Walking Up a Flight of Stairs</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SGRQ0217" nciodm:ExtCodeID="C112694">
+                    <nciodm:CDISCSynonym>SGRQ02-Walking Up Hills</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>St. George's Respiratory Questionnaire Past 4 Weeks Version - These are questions about what activities usually make you feel short of breath these days: Walking up hills.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SGRQ Past 4 Weeks Version - Walking Up Hills</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SGRQ0218" nciodm:ExtCodeID="C112695">
+                    <nciodm:CDISCSynonym>SGRQ02-Playing Sports</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>St. George's Respiratory Questionnaire Past 4 Weeks Version - These are questions about what activities usually make you feel short of breath these days: Playing sports or other physical activities.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SGRQ Past 4 Weeks Version - Playing Sports or Other Physical Activities</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SGRQ0219" nciodm:ExtCodeID="C112696">
+                    <nciodm:CDISCSynonym>SGRQ02-Coughing Hurts</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>St. George's Respiratory Questionnaire Past 4 Weeks Version - These are more questions about your cough and shortness of breath these days: Coughing hurts.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SGRQ Past 4 Weeks Version - Coughing Hurts</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SGRQ0220" nciodm:ExtCodeID="C112697">
+                    <nciodm:CDISCSynonym>SGRQ02-Coughing Makes Me Tired</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>St. George's Respiratory Questionnaire Past 4 Weeks Version - These are more questions about your cough and shortness of breath these days: Coughing makes me tired.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SGRQ Past 4 Weeks Version - Coughing Makes Me Tired</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SGRQ0221" nciodm:ExtCodeID="C112698">
+                    <nciodm:CDISCSynonym>SGRQ02-Short of Breath When I Talk</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>St. George's Respiratory Questionnaire Past 4 Weeks Version - These are more questions about your cough and shortness of breath these days: I am short of breath when I talk.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SGRQ Past 4 Weeks Version - Short of Breath When I Talk</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SGRQ0222" nciodm:ExtCodeID="C112699">
+                    <nciodm:CDISCSynonym>SGRQ02-Short of Breath When Bend Over</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>St. George's Respiratory Questionnaire Past 4 Weeks Version - These are more questions about your cough and shortness of breath these days: I am short of breath when I bend over.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SGRQ Past 4 Weeks Version - Short of Breath When Bend Over</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SGRQ0223" nciodm:ExtCodeID="C112700">
+                    <nciodm:CDISCSynonym>SGRQ02-Coughing Disturbs My Sleep</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>St. George's Respiratory Questionnaire Past 4 Weeks Version - These are more questions about your cough and shortness of breath these days: My coughing or breathing disturbs my sleep.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SGRQ Past 4 Weeks Version - Coughing Disturbs My Sleep</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SGRQ0224" nciodm:ExtCodeID="C112701">
+                    <nciodm:CDISCSynonym>SGRQ02-I Get Exhausted Easily</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>St. George's Respiratory Questionnaire Past 4 Weeks Version - These are more questions about your cough and shortness of breath these days: I get exhausted easily.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SGRQ Past 4 Weeks Version - I Get Exhausted Easily</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SGRQ0225" nciodm:ExtCodeID="C112702">
+                    <nciodm:CDISCSynonym>SGRQ02-Cough Is Embarrassing in Public</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>St. George's Respiratory Questionnaire Past 4 Weeks Version - These are questions about other effects that your respiratory problems may have on you these days: My cough or breathing is embarrassing in public.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SGRQ Past 4 Weeks Version - My Cough is Embarrassing in Public</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SGRQ0226" nciodm:ExtCodeID="C112703">
+                    <nciodm:CDISCSynonym>SGRQ02-Respiratory Problems a Nuisance</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>St. George's Respiratory Questionnaire Past 4 Weeks Version - These are questions about other effects that your respiratory problems may have on you these days: My respiratory problems are a nuisance to my family, friends or neighbors.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SGRQ Past 4 Weeks Version - Respiratory Problems a Nuisance to Family</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SGRQ0227" nciodm:ExtCodeID="C112704">
+                    <nciodm:CDISCSynonym>SGRQ02-Afraid When Cannot Catch Breath</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>St. George's Respiratory Questionnaire Past 4 Weeks Version - These are questions about other effects that your respiratory problems may have on you these days: I get afraid or panic when I cannot catch my breath.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SGRQ Past 4 Weeks Version - Get Afraid When Cannot Catch My Breath</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SGRQ0228" nciodm:ExtCodeID="C112705">
+                    <nciodm:CDISCSynonym>SGRQ02-Not in Control of Resp Problems</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>St. George's Respiratory Questionnaire Past 4 Weeks Version - These are questions about other effects that your respiratory problems may have on you these days: I feel that I am not in control of my respiratory problems.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SGRQ Past 4 Weeks Version - Not in Control of My Respiratory Problems</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SGRQ0229" nciodm:ExtCodeID="C112706">
+                    <nciodm:CDISCSynonym>SGRQ02-Not Expect Probs to Get Better</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>St. George's Respiratory Questionnaire Past 4 Weeks Version - These are questions about other effects that your respiratory problems may have on you these days: I do not expect my respiratory problems to get any better.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SGRQ Past 4 Weeks Version - Not Expect Respiratory Problems Get Better</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SGRQ0230" nciodm:ExtCodeID="C112707">
+                    <nciodm:CDISCSynonym>SGRQ02-I Have Become Frail</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>St. George's Respiratory Questionnaire Past 4 Weeks Version - These are questions about other effects that your respiratory problems may have on you these days: I have become frail or an invalid because of my respiratory problems.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SGRQ Past 4 Weeks Version - Become Frail or Invalid Because of My Respiratory Problems</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SGRQ0231" nciodm:ExtCodeID="C112708">
+                    <nciodm:CDISCSynonym>SGRQ02-Exercise Is Not Safe for Me</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>St. George's Respiratory Questionnaire Past 4 Weeks Version - These are questions about other effects that your respiratory problems may have on you these days: Exercise is not safe for me.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SGRQ Past 4 Weeks Version - Exercise Is Not Safe for Me</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SGRQ0232" nciodm:ExtCodeID="C112709">
+                    <nciodm:CDISCSynonym>SGRQ02-Everything Too Much Effort</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>St. George's Respiratory Questionnaire Past 4 Weeks Version - These are questions about other effects that your respiratory problems may have on you these days: Everything seems too much of an effort.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SGRQ Past 4 Weeks Version - Everything Too Much Effort</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SGRQ0233" nciodm:ExtCodeID="C112710">
+                    <nciodm:CDISCSynonym>SGRQ02-Treatment Does Not Help Me Much</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>St. George's Respiratory Questionnaire Past 4 Weeks Version - These are questions about your respiratory treatment: My treatment does not help me very much.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SGRQ Past 4 Weeks Version - Treatment Does Not Help Me Much</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SGRQ0234" nciodm:ExtCodeID="C112711">
+                    <nciodm:CDISCSynonym>SGRQ02-Embarrassed Using Med in Public</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>St. George's Respiratory Questionnaire Past 4 Weeks Version - These are questions about your respiratory treatment: I get embarrassed using my medication in public.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SGRQ Past 4 Weeks Version - Embarrassed Using Medication in Public</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SGRQ0235" nciodm:ExtCodeID="C112712">
+                    <nciodm:CDISCSynonym>SGRQ02-Unpleasant Side Effect From Med</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>St. George's Respiratory Questionnaire Past 4 Weeks Version - These are questions about your respiratory treatment: I have unpleasant side effects from my medication.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SGRQ Past 4 Weeks Version - Unpleasant Side Effects From Medication</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SGRQ0236" nciodm:ExtCodeID="C112713">
+                    <nciodm:CDISCSynonym>SGRQ02-Treatment Interferes With Life</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>St. George's Respiratory Questionnaire Past 4 Weeks Version - These are questions about your respiratory treatment: My treatment interferes with my life a lot.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SGRQ Past 4 Weeks Version - Treatment Interferes With My Life</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SGRQ0237" nciodm:ExtCodeID="C112714">
+                    <nciodm:CDISCSynonym>SGRQ02-Take a Long Time to Get Washed</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>St. George's Respiratory Questionnaire Past 4 Weeks Version - These are questions about how your activities might be affected by your respiratory problems: I take a long time to get washed or dressed.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SGRQ Past 4 Weeks Version - Take Long Time to Get Washed or Dressed</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SGRQ0238" nciodm:ExtCodeID="C112715">
+                    <nciodm:CDISCSynonym>SGRQ02-I Cannot Take a Bath or Shower</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>St. George's Respiratory Questionnaire Past 4 Weeks Version - These are questions about how your activities might be affected by your respiratory problems: I cannot take a bath or shower, or I take a long time to do it.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SGRQ Past 4 Weeks Version - Cannot Take A Bath or Shower</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SGRQ0239" nciodm:ExtCodeID="C112716">
+                    <nciodm:CDISCSynonym>SGRQ02-I Walk Slower Than Other People</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>St. George's Respiratory Questionnaire Past 4 Weeks Version - These are questions about how your activities might be affected by your respiratory problems: I walk slower than other people my age, or I stop to rest.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SGRQ Past 4 Weeks Version - Walk Slower Than Other People My Age</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SGRQ0240" nciodm:ExtCodeID="C112717">
+                    <nciodm:CDISCSynonym>SGRQ02-Jobs Take a Long Time</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>St. George's Respiratory Questionnaire Past 4 Weeks Version - These are questions about how your activities might be affected by your respiratory problems: Jobs such as household chores take a long time, or I have to stop to rest.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SGRQ Past 4 Weeks Version - Jobs Take Long Time or I Have to Stop</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SGRQ0241" nciodm:ExtCodeID="C112718">
+                    <nciodm:CDISCSynonym>SGRQ02-Walk Up Flight of Stairs Slowly</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>St. George's Respiratory Questionnaire Past 4 Weeks Version - These are questions about how your activities might be affected by your respiratory problems: If I walk up one flight of stairs, I have to go slowly or stop.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SGRQ Past 4 Weeks Version - If Walk Up One Flight of Stairs I Have to Go Slow</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SGRQ0242" nciodm:ExtCodeID="C112719">
+                    <nciodm:CDISCSynonym>SGRQ02-If I Hurry, I Have to Stop</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>St. George's Respiratory Questionnaire Past 4 Weeks Version - These are questions about how your activities might be affected by your respiratory problems: If I hurry or walk fast, I have to stop or slow down.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SGRQ Past 4 Weeks Version - If Walk Fast I Have to Stop or Slow Down</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SGRQ0243" nciodm:ExtCodeID="C112720">
+                    <nciodm:CDISCSynonym>SGRQ02-Difficult to Walk Up Hills</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>St. George's Respiratory Questionnaire Past 4 Weeks Version - These are questions about how your activities might be affected by your respiratory problems: My breathing makes it difficult to do things such as walk up hills, carry things up stairs, light gardening such as weeding, dance, bowl or play golf.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SGRQ Past 4 Weeks Version - Breathing Makes Difficult to Walk Up Hills</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SGRQ0244" nciodm:ExtCodeID="C112721">
+                    <nciodm:CDISCSynonym>SGRQ02-Difficult to Carry Heavy Loads</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>St. George's Respiratory Questionnaire Past 4 Weeks Version - These are questions about how your activities might be affected by your respiratory problems: My breathing makes it difficult to do things such as carry heavy loads, dig in the garden or shovel snow, jog or walk briskly (5 miles per hour), play tennis or swim.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SGRQ Past 4 Weeks Version - Breathing Makes Difficult to Carry Heavy Loads</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SGRQ0245" nciodm:ExtCodeID="C112722">
+                    <nciodm:CDISCSynonym>SGRQ02-Difficult to Do Very Heavy Work</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>St. George's Respiratory Questionnaire Past 4 Weeks Version - These are questions about how your activities might be affected by your respiratory problems: My breathing makes it difficult to do things such as very heavy manual work, ride a bike, run, swim fast, or play competitive sports.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SGRQ Past 4 Weeks Version - Breathing Makes Difficult to Do Heavy Manual Work</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SGRQ0246" nciodm:ExtCodeID="C112723">
+                    <nciodm:CDISCSynonym>SGRQ02-I Cannot Play Sports</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>St. George's Respiratory Questionnaire Past 4 Weeks Version - We would like to know how your respiratory problems usually affect your daily life: I cannot play sports or do other physical activities.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SGRQ Past 4 Weeks Version - Cannot Play Sports or Do Physical Activities</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SGRQ0247" nciodm:ExtCodeID="C112724">
+                    <nciodm:CDISCSynonym>SGRQ02-Cannot Go Out for Entertainment</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>St. George's Respiratory Questionnaire Past 4 Weeks Version - We would like to know how your respiratory problems usually affect your daily life: I cannot go out for entertainment or recreation.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SGRQ Past 4 Weeks Version - Cannot Go Out for Entertainment</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SGRQ0248" nciodm:ExtCodeID="C112725">
+                    <nciodm:CDISCSynonym>SGRQ02-Cannot Go Out to Do Shopping</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>St. George's Respiratory Questionnaire Past 4 Weeks Version - We would like to know how your respiratory problems usually affect your daily life: I cannot go out of the house to do the shopping.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SGRQ Past 4 Weeks Version - Cannot Go Out to Do Shopping</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SGRQ0249" nciodm:ExtCodeID="C112726">
+                    <nciodm:CDISCSynonym>SGRQ02-I Cannot Do Household Chores</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>St. George's Respiratory Questionnaire Past 4 Weeks Version - We would like to know how your respiratory problems usually affect your daily life: I cannot do household chores.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SGRQ Past 4 Weeks Version - Cannot Do Household Chores</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SGRQ0250" nciodm:ExtCodeID="C112727">
+                    <nciodm:CDISCSynonym>SGRQ02-I Cannot Move Far From My Bed</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>St. George's Respiratory Questionnaire Past 4 Weeks Version - We would like to know how your respiratory problems usually affect your daily life: I cannot move far from my bed or chair.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SGRQ Past 4 Weeks Version - Cannot Move Far From Bed or Chair</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SGRQ0251" nciodm:ExtCodeID="C112728">
+                    <nciodm:CDISCSynonym>SGRQ02-How Resp Problems Affect You</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>St. George's Respiratory Questionnaire Past 4 Weeks Version - Best describe how your respiratory problems affect you.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SGRQ Past 4 Weeks Version - How Respiratory Problems Affect You</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>SGRQ02TC</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>St. George's Respiratory Questionnaire Past 4 Weeks Version Questionnaire Test Code</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Questionnaire SGRQ Past 4 Weeks Version Test Code Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

@@ -808,15 +808,11 @@
                     <nciodm:PreferredTerm>Gram per 24 Hours</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="g/h" nciodm:ExtCodeID="C85601">
-                    <nciodm:CDISCSynonym>g/h</nciodm:CDISCSynonym>
-                    <nciodm:CDISCSynonym>gram/h</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Grams per hour.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A unit of mass flow rate or dose administration rate equal to one gram per hour.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Gram per Hour</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="g/min" nciodm:ExtCodeID="C85602">
-                    <nciodm:CDISCSynonym>g/min</nciodm:CDISCSynonym>
-                    <nciodm:CDISCSynonym>gram/min</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Grams per minute.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A unit of mass flow rate or dose administration rate equal to one gram per minute.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Gram per Minute</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="g/mL" nciodm:ExtCodeID="C64566">
@@ -1137,14 +1133,6 @@
                     <nciodm:CDISCDefinition>Hours times nanomoles per liter (area under the curve), divided by meters squared (surface area).</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Hour Times Nanomole per Liter per Meter Squared</nciodm:PreferredTerm>
                 </EnumeratedItem>
-                <EnumeratedItem CodedValue="h*nmol/L/umol" nciodm:ExtCodeID="C85631">
-                    <nciodm:CDISCSynonym>h*nmol/L/mcmol</nciodm:CDISCSynonym>
-                    <nciodm:CDISCSynonym>h*nmol/umol/L</nciodm:CDISCSynonym>
-                    <nciodm:CDISCSynonym>nmol*h/L/umol</nciodm:CDISCSynonym>
-                    <nciodm:CDISCSynonym>nmol*h/umol/L</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Hours times nanomoles per liter per micromole.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Hour Times Nanomole per Liter per Micromole</nciodm:PreferredTerm>
-                </EnumeratedItem>
                 <EnumeratedItem CodedValue="h*pg/mL" nciodm:ExtCodeID="C85635">
                     <nciodm:CDISCDefinition>Hours times picograms per milliliter (area under the curve).</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Hour Times Picogram per Milliliter</nciodm:PreferredTerm>
@@ -1354,12 +1342,12 @@
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="IU/h" nciodm:ExtCodeID="C85646">
                     <nciodm:CDISCSynonym>IU/h</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>International units per hour.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A unit of substance (biologic activity) flow rate equal to one international unit per hour.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>International Unit per Hour</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="IU/min" nciodm:ExtCodeID="C85647">
                     <nciodm:CDISCSynonym>IU/min</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>International units per minute.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A unit of substance (biologic activity) flow rate equal to one international unit per minute.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>International Unit per Minute</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="IU/mL" nciodm:ExtCodeID="C67377">
@@ -1598,15 +1586,6 @@
                 <EnumeratedItem CodedValue="mg/mL/g" nciodm:ExtCodeID="C119391">
                     <nciodm:CDISCDefinition>Milligrams per milliliter (concentration), divided by grams (weight).</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Milligram per Milliliter per Gram</nciodm:PreferredTerm>
-                </EnumeratedItem>
-                <EnumeratedItem CodedValue="mg/mL/h" nciodm:ExtCodeID="C85711">
-                    <nciodm:CDISCSynonym>g/L/h</nciodm:CDISCSynonym>
-                    <nciodm:CDISCSynonym>g/h/L</nciodm:CDISCSynonym>
-                    <nciodm:CDISCSynonym>mg/h/mL</nciodm:CDISCSynonym>
-                    <nciodm:CDISCSynonym>ug/h/uL</nciodm:CDISCSynonym>
-                    <nciodm:CDISCSynonym>ug/uL/h</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Milligrams per milliliter per hour.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Milligram per Milliliter per Hour</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="mg/mL/kg" nciodm:ExtCodeID="C119392">
                     <nciodm:CDISCDefinition>Milligrams per milliliter (concentration), divided by kilograms (weight).</nciodm:CDISCDefinition>
@@ -2081,7 +2060,7 @@
                     <nciodm:PreferredTerm>Millimole</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="mmol/h" nciodm:ExtCodeID="C85720">
-                    <nciodm:CDISCDefinition>Millimoles per hour.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A unit of substance flow rate equal to one millimole per hour.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Millimole per Hour</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="mmol/L" nciodm:ExtCodeID="C64387">
@@ -2161,18 +2140,8 @@
                     <nciodm:PreferredTerm>Millimole per Liter per Microgram</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="mmol/min" nciodm:ExtCodeID="C85722">
-                    <nciodm:CDISCDefinition>Millimoles per minute.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A unit of substance flow rate equal to one millimole per minute.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Millimole per Minute</nciodm:PreferredTerm>
-                </EnumeratedItem>
-                <EnumeratedItem CodedValue="mmol/mL/h" nciodm:ExtCodeID="C85721">
-                    <nciodm:CDISCSynonym>mmol/h/mL</nciodm:CDISCSynonym>
-                    <nciodm:CDISCSynonym>mmol/mL/h</nciodm:CDISCSynonym>
-                    <nciodm:CDISCSynonym>mol/L/h</nciodm:CDISCSynonym>
-                    <nciodm:CDISCSynonym>mol/h/L</nciodm:CDISCSynonym>
-                    <nciodm:CDISCSynonym>umol/h/uL</nciodm:CDISCSynonym>
-                    <nciodm:CDISCSynonym>umol/uL/h</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Millimoles per milliliter per hour.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Millimole per Milliliter per Hour</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="mol" nciodm:ExtCodeID="C42539">
                     <nciodm:CDISCSynonym>Mole</nciodm:CDISCSynonym>
@@ -2185,7 +2154,7 @@
                     <nciodm:PreferredTerm>Mole per Day</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="mol/h" nciodm:ExtCodeID="C85738">
-                    <nciodm:CDISCDefinition>Moles per hour.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A unit of substance flow rate equal to one mole per hour.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Mole per Hour</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="mol/L" nciodm:ExtCodeID="C48555">
@@ -2260,7 +2229,7 @@
                     <nciodm:PreferredTerm>Mole per Liter per Microgram</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="mol/min" nciodm:ExtCodeID="C85739">
-                    <nciodm:CDISCDefinition>Moles per minute.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A unit of substance flow rate equal to one mole per minute.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Mole per Minute</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="ng" nciodm:ExtCodeID="C48516">
@@ -2269,12 +2238,11 @@
                     <nciodm:PreferredTerm>Nanogram</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="ng/day" nciodm:ExtCodeID="C85741">
-                    <nciodm:CDISCSynonym>ng/d</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Nanograms per day.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A unit of mass flow rate equal to one nanogram per day.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Nanogram per Day</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="ng/h" nciodm:ExtCodeID="C85742">
-                    <nciodm:CDISCDefinition>Nanograms per hour.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A unit of mass flow rate equal to one nanogram per hour.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Nanogram per Hour</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="ng/kg/min" nciodm:ExtCodeID="C85743">
@@ -2286,7 +2254,7 @@
                     <nciodm:PreferredTerm>Nanogram per Kilogram per Minute</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="ng/min" nciodm:ExtCodeID="C85749">
-                    <nciodm:CDISCDefinition>Nanograms per minute.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A unit of mass flow rate equal to one nanogram per minute.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Nanogram per Minute</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="ng/mL" nciodm:ExtCodeID="C67306">
@@ -2348,13 +2316,6 @@
                     <nciodm:CDISCDefinition>Nanograms per milliliter (concentration), divided by grams (weight).</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Nanogram per Milliliter per Gram</nciodm:PreferredTerm>
                 </EnumeratedItem>
-                <EnumeratedItem CodedValue="ng/mL/h" nciodm:ExtCodeID="C67430">
-                    <nciodm:CDISCSynonym>ng/h/mL</nciodm:CDISCSynonym>
-                    <nciodm:CDISCSynonym>ng/mL/h</nciodm:CDISCSynonym>
-                    <nciodm:CDISCSynonym>ug/L/h</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Nanograms per milliliter per hour.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Nanogram per Milliliter per Hour</nciodm:PreferredTerm>
-                </EnumeratedItem>
                 <EnumeratedItem CodedValue="ng/mL/kg" nciodm:ExtCodeID="C85746">
                     <nciodm:CDISCDefinition>Nanograms per milliliter (concentration), divided by kilograms (weight).</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Nanogram per Milliliter per Kilogram</nciodm:PreferredTerm>
@@ -2370,11 +2331,6 @@
                 <EnumeratedItem CodedValue="ng/mL/ug" nciodm:ExtCodeID="C119455">
                     <nciodm:CDISCDefinition>Nanograms per milliliter (concentration), divided by micrograms (dose).</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Nanogram per Milliliter per Microgram</nciodm:PreferredTerm>
-                </EnumeratedItem>
-                <EnumeratedItem CodedValue="nL" nciodm:ExtCodeID="C69188">
-                    <nciodm:CDISCSynonym>Nanoliter</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A unit of volume equal to one billionth of a liter (10E-9 liter).(NCI)</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Nanoliter</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="nmol" nciodm:ExtCodeID="C48517">
                     <nciodm:CDISCSynonym>Nanomole</nciodm:CDISCSynonym>
@@ -2394,7 +2350,7 @@
                     <nciodm:PreferredTerm>Nanomole per Gram</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="nmol/h" nciodm:ExtCodeID="C85753">
-                    <nciodm:CDISCDefinition>Nanomoles per hour.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A unit of substance flow rate equal to one nanomole per hour.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Nanomole per Hour</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="nmol/kg" nciodm:ExtCodeID="C85754">
@@ -2474,35 +2430,15 @@
                     <nciodm:PreferredTerm>Nanomole per Liter per Microgram</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="nmol/min" nciodm:ExtCodeID="C85758">
-                    <nciodm:CDISCDefinition>Nanomoles per minute.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A unit of substance flow rate equal to one nanomole per minute.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Nanomole per Minute</nciodm:PreferredTerm>
                 </EnumeratedItem>
-                <EnumeratedItem CodedValue="nmol/mL/h" nciodm:ExtCodeID="C85757">
-                    <nciodm:CDISCSynonym>nmol/h/mL</nciodm:CDISCSynonym>
-                    <nciodm:CDISCSynonym>nmol/mL/h</nciodm:CDISCSynonym>
-                    <nciodm:CDISCSynonym>umol/L/h</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Nanomoles per milliliter per hour.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Nanomole per Milliliter per Hour</nciodm:PreferredTerm>
-                </EnumeratedItem>
-                <EnumeratedItem CodedValue="nU/mL" nciodm:ExtCodeID="C85760">
-                    <nciodm:CDISCSynonym>mcU/L</nciodm:CDISCSynonym>
-                    <nciodm:CDISCSynonym>nU/mL</nciodm:CDISCSynonym>
-                    <nciodm:CDISCSynonym>uU/L</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Nanounits per milliliter.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Nanounit per Milliliter</nciodm:PreferredTerm>
-                </EnumeratedItem>
                 <EnumeratedItem CodedValue="pg/day" nciodm:ExtCodeID="C85778">
-                    <nciodm:CDISCSynonym>pg/d</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Picograms per day.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A unit of mass flow rate equal to one picogram per day.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Picogram per Day</nciodm:PreferredTerm>
                 </EnumeratedItem>
-                <EnumeratedItem CodedValue="pg/dL" nciodm:ExtCodeID="C67331">
-                    <nciodm:CDISCSynonym>Picogram per Deciliter</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Picograms per deciliter.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Picogram per Deciliter</nciodm:PreferredTerm>
-                </EnumeratedItem>
                 <EnumeratedItem CodedValue="pg/h" nciodm:ExtCodeID="C85779">
-                    <nciodm:CDISCDefinition>Picograms per hour.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A unit of mass flow rate equal to one picogram per hour.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Picogram per Hour</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="pg/mg" nciodm:ExtCodeID="C67396">
@@ -2514,14 +2450,8 @@
                     <nciodm:CDISCDefinition>A unit of a mass fraction expressed as a number of micrograms of substance per kilogram of mixture. The unit is also used as a dose calculation unit.(NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Microgram per Kilogram</nciodm:PreferredTerm>
                 </EnumeratedItem>
-                <EnumeratedItem CodedValue="pg/mg Creatinine" nciodm:ExtCodeID="C85780">
-                    <nciodm:CDISCSynonym>ng/g of Creatinine</nciodm:CDISCSynonym>
-                    <nciodm:CDISCSynonym>pg/mg of Creatinine</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Picograms per milligram creatinine.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Picogram per Milligram of Creatinine</nciodm:PreferredTerm>
-                </EnumeratedItem>
                 <EnumeratedItem CodedValue="pg/min" nciodm:ExtCodeID="C85782">
-                    <nciodm:CDISCDefinition>Picograms per minute.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A unit of mass flow rate equal to one picogram per minute.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Picogram per Minute</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="pg/mL" nciodm:ExtCodeID="C67327">
@@ -2690,11 +2620,6 @@
                     <nciodm:CDISCDefinition>A unit of mass flow rate equivalent to the rate at which one millionth of a gram of matter travels to a given object or space over a period of time equal to one hour.(NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Microgram per Hour</nciodm:PreferredTerm>
                 </EnumeratedItem>
-                <EnumeratedItem CodedValue="ug/inh" nciodm:ExtCodeID="C85703">
-                    <nciodm:CDISCSynonym>mcg/inh</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Micrograms per inhalation.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Microgram per Inhalation</nciodm:PreferredTerm>
-                </EnumeratedItem>
                 <EnumeratedItem CodedValue="ug/min" nciodm:ExtCodeID="C71211">
                     <nciodm:CDISCSynonym>Micrograms per Minute</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>mcg/min</nciodm:CDISCSynonym>
@@ -2776,11 +2701,6 @@
                 <EnumeratedItem CodedValue="ug/mL/ug" nciodm:ExtCodeID="C119512">
                     <nciodm:CDISCDefinition>Micrograms per milliliter (concentration), divided by micrograms (dose).</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Microgram per Milliliter per Microgram</nciodm:PreferredTerm>
-                </EnumeratedItem>
-                <EnumeratedItem CodedValue="ug/puff" nciodm:ExtCodeID="C85704">
-                    <nciodm:CDISCSynonym>mcg/puff</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Micrograms per puff.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Microgram per Puff</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="uIU/mL" nciodm:ExtCodeID="C67405">
                     <nciodm:CDISCSynonym>Micro-International Unit per milliliter</nciodm:CDISCSynonym>
@@ -2868,9 +2788,7 @@
                     <nciodm:PreferredTerm>Micromole per 24 Hours</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="umol/h" nciodm:ExtCodeID="C85707">
-                    <nciodm:CDISCSynonym>mcmol/h</nciodm:CDISCSynonym>
-                    <nciodm:CDISCSynonym>umol/h</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Micromoles per hour.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A unit of substance flow rate equal to one micromole per hour.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Micromole per Hour</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="umol/L" nciodm:ExtCodeID="C48508">

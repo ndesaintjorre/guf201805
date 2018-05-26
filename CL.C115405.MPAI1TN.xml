@@ -1,0 +1,229 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C115405.MPAI1TN" Name="Mayo-Portland Adaptability Inventory-4 Questionnaire Test Name" DataType="text" nciodm:ExtCodeID="C115405" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Mayo-Portland Adaptability Inventory-4 test name.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="MPAI1-Alcohol Use-Post-Injury" nciodm:ExtCodeID="C115884">
+                    <nciodm:CDISCSynonym>MPAI1-Alcohol Use-Post-Injury</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Mayo-Portland Adaptability Inventory-4 - Post-injury use of alcoholic beverages.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MPAI-4 - Alcohol Use Post-Injury</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MPAI1-Alcohol Use-Pre-Injury" nciodm:ExtCodeID="C115883">
+                    <nciodm:CDISCSynonym>MPAI1-Alcohol Use-Pre-Injury</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Mayo-Portland Adaptability Inventory-4 - Pre-injury use of alcoholic beverages.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MPAI-4 - Alcohol Use Pre-Injury</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MPAI1-Anxiety" nciodm:ExtCodeID="C115864">
+                    <nciodm:CDISCSynonym>MPAI1-Anxiety</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Mayo-Portland Adaptability Inventory-4 - Tense, nervous, fearful, phobias, nightmares, flashbacks of stressful events.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MPAI-4 - Adjustment: Anxiety</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MPAI1-Attention/Concentration" nciodm:ExtCodeID="C115859">
+                    <nciodm:CDISCSynonym>MPAI1-Attention/Concentration</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Mayo-Portland Adaptability Inventory-4 - Problems ignoring distractions, shifting attention, keeping more than one thing in mind at a time.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MPAI-4 - Abilities: Attention or Concentration</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MPAI1-Audition" nciodm:ExtCodeID="C115854">
+                    <nciodm:CDISCSynonym>MPAI1-Audition</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Mayo-Portland Adaptability Inventory-4 - Problems hearing; ringing in the ears.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MPAI-4 - Abilities: Audition</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MPAI1-Depression" nciodm:ExtCodeID="C115865">
+                    <nciodm:CDISCSynonym>MPAI1-Depression</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Mayo-Portland Adaptability Inventory-4 - Sad, blue, hopeless, poor appetite, poor sleep, worry, self-criticism.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MPAI-4 - Adjustment: Depression</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MPAI1-Dizziness" nciodm:ExtCodeID="C115855">
+                    <nciodm:CDISCSynonym>MPAI1-Dizziness</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Mayo-Portland Adaptability Inventory-4 - Feeling unsteady, dizzy, light-headed.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MPAI-4 - Abilities: Dizziness</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MPAI1-Drug Use-Post-Injury" nciodm:ExtCodeID="C115886">
+                    <nciodm:CDISCSynonym>MPAI1-Drug Use-Post-Injury</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Mayo-Portland Adaptability Inventory-4 - Post-injury use of illegal drugs or abuse of prescription drugs.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MPAI-4 - Drug Use Post-Injury</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MPAI1-Drug Use-Pre-Injury" nciodm:ExtCodeID="C115885">
+                    <nciodm:CDISCSynonym>MPAI1-Drug Use-Pre-Injury</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Mayo-Portland Adaptability Inventory-4 - Pre-injury use of illegal drugs or abuse of prescription drugs.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MPAI-4 - Drug Use Pre-Injury</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MPAI1-Family/Significant Relationships" nciodm:ExtCodeID="C115872">
+                    <nciodm:CDISCSynonym>MPAI1-Family/Significant Relationships</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Mayo-Portland Adaptability Inventory-4 - Interactions with close others; describe stress within the family or those closest to the person with brain injury; 'family functioning' means cooperating to accomplish those tasks that need to be done to keep the household running.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MPAI-4 - Adjustment: Family or Significant Relationships</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MPAI1-Fatigue" nciodm:ExtCodeID="C115868">
+                    <nciodm:CDISCSynonym>MPAI1-Fatigue</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Mayo-Portland Adaptability Inventory-4 - Feeling tired; lack of energy; tiring easily.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MPAI-4 - Adjustment: Fatigue</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MPAI1-Fund of Information" nciodm:ExtCodeID="C115861">
+                    <nciodm:CDISCSynonym>MPAI1-Fund of Information</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Mayo-Portland Adaptability Inventory-4 - Problems remembering information learned in school or on the job; difficulty remembering information about self and family from years ago.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MPAI-4 - Abilities: Fund of Information</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MPAI1-Impaired Self-Awareness" nciodm:ExtCodeID="C115871">
+                    <nciodm:CDISCSynonym>MPAI1-Impaired Self-Awareness</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Mayo-Portland Adaptability Inventory-4 - Lack of recognition of personal limitations and disabilities and how they interfere with everyday activities and work or school.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MPAI-4 - Adjustment: Impaired Self-Awareness</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MPAI1-Inappropriate Social Interaction" nciodm:ExtCodeID="C115870">
+                    <nciodm:CDISCSynonym>MPAI1-Inappropriate Social Interaction</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Mayo-Portland Adaptability Inventory-4 - Acting childish, silly, rude, behavior not fitting for time and place.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MPAI-4 - Adjustment: Inappropriate Social Interaction</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MPAI1-Initiation" nciodm:ExtCodeID="C115873">
+                    <nciodm:CDISCSynonym>MPAI1-Initiation</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Mayo-Portland Adaptability Inventory-4 - Problems getting started on activities without prompting.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MPAI-4 - Participation: Initiation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MPAI1-Irritablity, Anger, Aggression" nciodm:ExtCodeID="C115866">
+                    <nciodm:CDISCSynonym>MPAI1-Irritablity, Anger, Aggression</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Mayo-Portland Adaptability Inventory-4 - Verbal or physical expressions of anger.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MPAI-4 - Adjustment: Irritability, Anger, Aggression</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MPAI1-Law Violations-Post-Injury" nciodm:ExtCodeID="C115890">
+                    <nciodm:CDISCSynonym>MPAI1-Law Violations-Post-Injury</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Mayo-Portland Adaptability Inventory-4 - Post-injury history before and after injury.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MPAI-4 - Law Violations Post-Injury</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MPAI1-Law Violations-Pre-Injury" nciodm:ExtCodeID="C115889">
+                    <nciodm:CDISCSynonym>MPAI1-Law Violations-Pre-Injury</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Mayo-Portland Adaptability Inventory-4 - Pre-injury history before and after injury.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MPAI-4 - Law Violations Pre-Injury</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MPAI1-Leisure and Recreation Activities" nciodm:ExtCodeID="C115875">
+                    <nciodm:CDISCSynonym>MPAI1-Leisure and Recreation Activities</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Mayo-Portland Adaptability Inventory-4 - Leisure and recreational activities.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MPAI-4 - Participation: Leisure and Recreational Activities</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MPAI1-Managing Money and Finances" nciodm:ExtCodeID="C115882">
+                    <nciodm:CDISCSynonym>MPAI1-Managing Money and Finances</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Mayo-Portland Adaptability Inventory-4 - Shopping, keeping a check book or other bank account, managing personal income and investments.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MPAI-4 - Participation: Managing Money and Finances</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MPAI1-Memory" nciodm:ExtCodeID="C115860">
+                    <nciodm:CDISCSynonym>MPAI1-Memory</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Mayo-Portland Adaptability Inventory-4 - Problems learning and recalling new information.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MPAI-4 - Abilities: Memory</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MPAI1-Mobility" nciodm:ExtCodeID="C115851">
+                    <nciodm:CDISCSynonym>MPAI1-Mobility</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Mayo-Portland Adaptability Inventory-4 - Problems walking or moving; balance problems that interfere with moving about.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MPAI-4 - Abilities: Mobility</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MPAI1-Motor Speech" nciodm:ExtCodeID="C115856">
+                    <nciodm:CDISCSynonym>MPAI1-Motor Speech</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Mayo-Portland Adaptability Inventory-4 - Abnormal clearness or rate of speech; stuttering.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MPAI-4 - Abilities: Motor Speech</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MPAI1-Nonverbal Communication" nciodm:ExtCodeID="C115858">
+                    <nciodm:CDISCSynonym>MPAI1-Nonverbal Communication</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Mayo-Portland Adaptability Inventory-4 - Restricted or unusual gestures or facial expressions; talking too much or not enough; missing nonverbal cues from others.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MPAI-4 - Abilities: Nonverbal Communication</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MPAI1-Novel Problem-Solving" nciodm:ExtCodeID="C115862">
+                    <nciodm:CDISCSynonym>MPAI1-Novel Problem-Solving</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Mayo-Portland Adaptability Inventory-4 - Problems thinking up solutions or picking the best solution to new problems.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MPAI-4 - Abilities: Novel Problem-Solving</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MPAI1-Other Cognitive Cond-Post-Injury" nciodm:ExtCodeID="C115894">
+                    <nciodm:CDISCSynonym>MPAI1-Other Cognitive Cond-Post-Injury</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Mayo-Portland Adaptability Inventory-4 - Post-injury cognitive disability due to nonpsychiatric medical conditions other than brain injury, such as, dementia, stroke, developmental disability.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MPAI-4 - Other Condition Causing Cognitive Impairment Post-Injury</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MPAI1-Other Cognitive Cond-Pre-Injury" nciodm:ExtCodeID="C115893">
+                    <nciodm:CDISCSynonym>MPAI1-Other Cognitive Cond-Pre-Injury</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Mayo-Portland Adaptability Inventory-4 - Pre-injury cognitive disability due to nonpsychiatric medical conditions other than brain injury, such as, dementia, stroke, developmental disability.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MPAI-4 - Other Condition Causing Cognitive Impairment Pre-Injury</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MPAI1-Other Employment" nciodm:ExtCodeID="C115880">
+                    <nciodm:CDISCSynonym>MPAI1-Other Employment</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Mayo-Portland Adaptability Inventory-4 - Hours per week involved in constructive, role-appropriate activity other than paid employment when primary desired social role is not paid employment. 'Support' means special help from another person with responsibilities (such as, a job coach or shadow, tutor, helper) or reduced responsibilities. Modifications to the physical environment that facilitate employment are not considered as support.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MPAI-4 - Participation: Other Employment</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MPAI1-Other Employment-Social Role" nciodm:ExtCodeID="C115881">
+                    <nciodm:CDISCSynonym>MPAI1-Other Employment-Social Role</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Mayo-Portland Adaptability Inventory-4 - Primary social role when paid employment is not primary desired social role.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MPAI-4 - Participation: Other Employment-Social Role</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MPAI1-Other Physical Cond-Post-Injury" nciodm:ExtCodeID="C115892">
+                    <nciodm:CDISCSynonym>MPAI1-Other Physical Cond-Post-Injury</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Mayo-Portland Adaptability Inventory-4 - Post-injury physical disability due to medical conditions other than brain injury, such as, spinal cord injury, amputation.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MPAI-4 - Other Condition Causing Physical Impairment Post-Injury</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MPAI1-Other Physical Cond-Pre-Injury" nciodm:ExtCodeID="C115891">
+                    <nciodm:CDISCSynonym>MPAI1-Other Physical Cond-Pre-Injury</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Mayo-Portland Adaptability Inventory-4 - Pre-injury physical disability due to medical conditions other than brain injury, such as, spinal cord injury, amputation.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MPAI-4 - Other Condition Causing Physical Impairment Pre-Injury</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MPAI1-Paid Employment" nciodm:ExtCodeID="C115879">
+                    <nciodm:CDISCSynonym>MPAI1-Paid Employment</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Mayo-Portland Adaptability Inventory-4 - Hours per week at paid employment when primary desired social role is paid employment. 'Support' means special help from another person with responsibilities (such as, a job coach or shadow, tutor, helper) or reduced responsibilities. Modifications to the physical environment that facilitate employment are not considered as support.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MPAI-4 - Participation: Paid Employment</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MPAI1-Pain and Headache" nciodm:ExtCodeID="C115867">
+                    <nciodm:CDISCSynonym>MPAI1-Pain and Headache</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Mayo-Portland Adaptability Inventory-4 - Verbal and nonverbal expressions of pain; activities limited by pain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MPAI-4 - Adjustment: Pain and Headache</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MPAI1-Psychotic Symptoms-Post-Injury" nciodm:ExtCodeID="C115888">
+                    <nciodm:CDISCSynonym>MPAI1-Psychotic Symptoms-Post-Injury</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Mayo-Portland Adaptability Inventory-4 - Post-injury hallucinations, delusions, other persistent severely distorted perceptions of reality.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MPAI-4 - Psychotic Symptoms Post-Injury</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MPAI1-Psychotic Symptoms-Pre-Injury" nciodm:ExtCodeID="C115887">
+                    <nciodm:CDISCSynonym>MPAI1-Psychotic Symptoms-Pre-Injury</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Mayo-Portland Adaptability Inventory-4 - Pre-injury hallucinations, delusions, other persistent severely distorted perceptions of reality.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MPAI-4 - Psychotic Symptoms Pre-Injury</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MPAI1-Residence" nciodm:ExtCodeID="C115877">
+                    <nciodm:CDISCSynonym>MPAI1-Residence</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Mayo-Portland Adaptability Inventory-4 - Responsibilities of independent living and homemaking (such as meal preparation, home repairs and maintenance, personal health maintenance beyond basic hygiene including medication management) but not including managing money.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MPAI-4 - Participation: Residence</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MPAI1-Self-Care" nciodm:ExtCodeID="C115876">
+                    <nciodm:CDISCSynonym>MPAI1-Self-Care</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Mayo-Portland Adaptability Inventory-4 - Eating, dressing, bathing, hygiene.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MPAI-4 - Participation: Self-Care</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MPAI1-Sensitivity to Mild Symptoms" nciodm:ExtCodeID="C115869">
+                    <nciodm:CDISCSynonym>MPAI1-Sensitivity to Mild Symptoms</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Mayo-Portland Adaptability Inventory-4 - Focusing on thinking, physical or emotional problems attributed to brain injury; rate only how concern or worry about these symptoms affects current functioning over and above the effects of the symptoms themselves.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MPAI-4 - Adjustment: Sensitivity to Mild Symptoms</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MPAI1-Social Contact-Friends/Coworkers" nciodm:ExtCodeID="C115874">
+                    <nciodm:CDISCSynonym>MPAI1-Social Contact-Friends/Coworkers</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Mayo-Portland Adaptability Inventory-4 - Social contact with friends, work associates, and other people who are not family, significant others, or professionals.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MPAI-4 - Participation: Social Contact with Fiends, Work Associates and Others</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MPAI1-Transportation" nciodm:ExtCodeID="C115878">
+                    <nciodm:CDISCSynonym>MPAI1-Transportation</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Mayo-Portland Adaptability Inventory-4 - Transportation.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MPAI-4 - Participation: Transportation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MPAI1-Use of Hands" nciodm:ExtCodeID="C115852">
+                    <nciodm:CDISCSynonym>MPAI1-Use of Hands</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Mayo-Portland Adaptability Inventory-4 - Impaired strength or coordination in one or both hands.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MPAI-4 - Abilities: Use of Hands</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MPAI1-Verbal Communication" nciodm:ExtCodeID="C115857">
+                    <nciodm:CDISCSynonym>MPAI1-Verbal Communication</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Mayo-Portland Adaptability Inventory-4 - Problems expressing or understanding language.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MPAI-4 - Abilities: Verbal Communication</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MPAI1-Vision" nciodm:ExtCodeID="C115853">
+                    <nciodm:CDISCSynonym>MPAI1-Vision</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Mayo-Portland Adaptability Inventory-4 - Problems seeing; double vision; eye, brain, or nerve injuries that interfere with seeing.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MPAI-4 - Abilities: Vision</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MPAI1-Visuospatial Abilities" nciodm:ExtCodeID="C115863">
+                    <nciodm:CDISCSynonym>MPAI1-Visuospatial Abilities</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Mayo-Portland Adaptability Inventory-4 - Problems drawing, assembling things, route-finding, being visually aware on both the left and right sides.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MPAI-4 - Abilities: Visuospatial Abilities</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>MPAI1TN</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Mayo-Portland Adaptability Inventory-4 Questionnaire Test Name</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Questionnaire MPAI-4 Test Name Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

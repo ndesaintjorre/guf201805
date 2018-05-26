@@ -1,0 +1,369 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C100139.UPD2TN" Name="Movement Disorder Society Unified Parkinson's Disease Rating Scale Questionnaire Test Name" DataType="text" nciodm:ExtCodeID="C100139" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale test name.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="UPD2-Anxious Mood" nciodm:ExtCodeID="C100476">
+                    <nciodm:CDISCSynonym>UPD2-Anxious Mood</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Over the past week have you felt nervous, worried or tense? If yes, was this feeling for longer than one day at a time? Did it make it difficult for you to follow your usual activities or to be with other people?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MDS-UPDRS - Anxious Mood</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD2-Apathy" nciodm:ExtCodeID="C100477">
+                    <nciodm:CDISCSynonym>UPD2-Apathy</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Over the past week, have you felt indifferent to doing activities or being with people?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MDS-UPDRS - Apathy</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD2-Arising from Chair" nciodm:ExtCodeID="C100519">
+                    <nciodm:CDISCSynonym>UPD2-Arising from Chair</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Arising from Chair.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MDS-UPDRS - Arising from Chair</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD2-Body Bradykinesia" nciodm:ExtCodeID="C100524">
+                    <nciodm:CDISCSynonym>UPD2-Body Bradykinesia</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Global Spontaneity of Movement (Body Bradykinesia).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MDS-UPDRS - Body Bradykinesia</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD2-Chewing and Swallowing" nciodm:ExtCodeID="C100488">
+                    <nciodm:CDISCSynonym>UPD2-Chewing and Swallowing</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Over the past week, have you usually had problems swallowing pills or eating meals?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MDS-UPDRS - Chewing and Swallowing</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD2-Clinical State on Meds" nciodm:ExtCodeID="C100499">
+                    <nciodm:CDISCSynonym>UPD2-Clinical State on Meds</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - If the patient is receiving medication for treating the symptoms of Parkinson's Disease, mark the patient's clinical state.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MDS-UPDRS - Clinical State on Medication</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD2-Cognitive Impairment" nciodm:ExtCodeID="C100473">
+                    <nciodm:CDISCSynonym>UPD2-Cognitive Impairment</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Over the past week have you had problems remembering things, following conversations, paying attention, thinking clearly, or finding your way around the house or in town?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MDS-UPDRS - Cognitive Impairment</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD2-Complexity Motor Fluctuations" nciodm:ExtCodeID="C100540">
+                    <nciodm:CDISCSynonym>UPD2-Complexity Motor Fluctuations</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Complexity of Motor Fluctuations.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MDS-UPDRS - Complexity of Motor Fluctuations</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD2-Consistency of Rest Tremor" nciodm:ExtCodeID="C100532">
+                    <nciodm:CDISCSynonym>UPD2-Consistency of Rest Tremor</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Consistency of Rest Tremor.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MDS-UPDRS - Consistency of Rest Tremor</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD2-Constipation Problems" nciodm:ExtCodeID="C100483">
+                    <nciodm:CDISCSynonym>UPD2-Constipation Problems</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Over the past week have you had constipation troubles that cause you difficulty moving your bowels?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MDS-UPDRS - Constipation Problems</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD2-Daytime Sleepiness" nciodm:ExtCodeID="C100480">
+                    <nciodm:CDISCSynonym>UPD2-Daytime Sleepiness</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Over the past week, have you had trouble staying awake during the daytime?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MDS-UPDRS - Daytime Sleepiness</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD2-Depressed Mood" nciodm:ExtCodeID="C100475">
+                    <nciodm:CDISCSynonym>UPD2-Depressed Mood</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Over the past week have you felt low, sad, hopeless or unable to enjoy things? If yes, was this feeling for longer than one day at a time? Did it make it difficult for you carry out your usual activities or to be with people?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MDS-UPDRS - Depressed Mood</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD2-Doing Hobbies/Other Activities" nciodm:ExtCodeID="C100493">
+                    <nciodm:CDISCSynonym>UPD2-Doing Hobbies/Other Activities</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Over the past week, have you usually had trouble doing your hobbies or other things that you like to do?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MDS-UPDRS - Doing Hobbies and Other Activities</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD2-Dressing" nciodm:ExtCodeID="C100490">
+                    <nciodm:CDISCSynonym>UPD2-Dressing</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Over the past week, have you usually had problems dressing?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MDS-UPDRS - Dressing</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD2-Dyskinesias During Exam" nciodm:ExtCodeID="C100533">
+                    <nciodm:CDISCSynonym>UPD2-Dyskinesias During Exam</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Were dyskinesias (chorea or dystonia) present during examination?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MDS-UPDRS - Dyskinesias During Exam</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD2-Eating Tasks" nciodm:ExtCodeID="C100489">
+                    <nciodm:CDISCSynonym>UPD2-Eating Tasks</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Over the past week, have you usually had troubles handling your food and using eating utensils?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MDS-UPDRS - Eating Tasks</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD2-Facial Expression" nciodm:ExtCodeID="C100503">
+                    <nciodm:CDISCSynonym>UPD2-Facial Expression</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Facial Expression.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MDS-UPDRS - Facial Expression</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD2-Fatigue" nciodm:ExtCodeID="C100485">
+                    <nciodm:CDISCSynonym>UPD2-Fatigue</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Over the past week, have you usually felt fatigued?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MDS-UPDRS - Fatigue</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD2-Freezing" nciodm:ExtCodeID="C100497">
+                    <nciodm:CDISCSynonym>UPD2-Freezing</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Over the past week, on your usual day when walking, do you suddenly stop or freeze as if your feet are stuck to the floor?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MDS-UPDRS - Freezing</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD2-Freezing of Gait" nciodm:ExtCodeID="C100521">
+                    <nciodm:CDISCSynonym>UPD2-Freezing of Gait</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Freezing of Gait.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MDS-UPDRS - Freezing of Gait</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD2-Ftrs Dopa Dysregulation Synd" nciodm:ExtCodeID="C100478">
+                    <nciodm:CDISCSynonym>UPD2-Ftrs Dopa Dysregulation Synd</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Over the past week, have you had unusually strong urges that are hard to control? Do you feel driven to do or think about something and find it hard to stop?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MDS-UPDRS - Features of Dopamine Dysregulation Syndrome</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD2-Functional Impact Dyskinesias" nciodm:ExtCodeID="C100537">
+                    <nciodm:CDISCSynonym>UPD2-Functional Impact Dyskinesias</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Functional Impact of Dyskinesias.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MDS-UPDRS - Functional Impact of Dyskinesias</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD2-Functional Impact Fluctuations" nciodm:ExtCodeID="C100539">
+                    <nciodm:CDISCSynonym>UPD2-Functional Impact Fluctuations</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Functional Impact of Fluctuations.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MDS-UPDRS - Functional Impact of Fluctuations</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD2-Gait" nciodm:ExtCodeID="C100520">
+                    <nciodm:CDISCSynonym>UPD2-Gait</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Gait.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MDS-UPDRS - Gait</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD2-Get Out of Bed/Car/Deep Chair" nciodm:ExtCodeID="C101018">
+                    <nciodm:CDISCSynonym>UPD2-Get Out of Bed/Car/Deep Chair</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Over the past week, have you usually had trouble getting out of bed, a car seat, or a deep chair?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MDS-UPDRS - Get Out of Bed, Car, or Deep Chair</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD2-Hallucinations and Psychosis" nciodm:ExtCodeID="C100474">
+                    <nciodm:CDISCSynonym>UPD2-Hallucinations and Psychosis</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Over the past week have you seen, heard, smelled or felt things that were not really there?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MDS-UPDRS - Hallucinations and Psychosis</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD2-Handwriting" nciodm:ExtCodeID="C100492">
+                    <nciodm:CDISCSynonym>UPD2-Handwriting</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Over the past week, have people usually had trouble reading your handwriting?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MDS-UPDRS - Handwriting</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD2-Hoehn and Yahr Stage" nciodm:ExtCodeID="C100535">
+                    <nciodm:CDISCSynonym>UPD2-Hoehn and Yahr Stage</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Hoehn and Yahr Stage.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MDS-UPDRS - Hoehn and Yahr Stage</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD2-Hygiene" nciodm:ExtCodeID="C100491">
+                    <nciodm:CDISCSynonym>UPD2-Hygiene</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Over the past week, have you usually been slow or do you need help with washing, bathing, shaving, brushing teeth, combing your hair or with other personal hygiene?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MDS-UPDRS - Hygiene</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD2-Kinetic Tremor of Left Hand" nciodm:ExtCodeID="C100526">
+                    <nciodm:CDISCSynonym>UPD2-Kinetic Tremor of Left Hand</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Kinetic Tremor of the Left Hand.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MDS-UPDRS - Kinetic Tremor of Left Hand</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD2-Kinetic Tremor of Right Hand" nciodm:ExtCodeID="C113883">
+                    <nciodm:CDISCSynonym>UPD2-Kinetic Tremor of Right Hand</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Kinetic Tremor of the Right Hand.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MDS-UPDRS - Kinetic Tremor of Right Hand</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD2-Left Finger Tapping" nciodm:ExtCodeID="C100510">
+                    <nciodm:CDISCSynonym>UPD2-Left Finger Tapping</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Left Finger Tapping.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MDS-UPDRS - Left Finger Tapping</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD2-Left Hand Movements" nciodm:ExtCodeID="C100512">
+                    <nciodm:CDISCSynonym>UPD2-Left Hand Movements</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Left Hand Movements.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MDS-UPDRS - Left Hand Movements</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD2-Left Leg Agility" nciodm:ExtCodeID="C100518">
+                    <nciodm:CDISCSynonym>UPD2-Left Leg Agility</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Left Leg Agility.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MDS-UPDRS - Left Leg Agility</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD2-Left Toe Tapping" nciodm:ExtCodeID="C100516">
+                    <nciodm:CDISCSynonym>UPD2-Left Toe Tapping</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Left Toe Tapping.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MDS-UPDRS - Left Toe Tapping</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD2-Lightheadedness on Standing" nciodm:ExtCodeID="C100484">
+                    <nciodm:CDISCSynonym>UPD2-Lightheadedness on Standing</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Over the past week, have you felt faint, dizzy or foggy when you stand up after sitting or lying down?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MDS-UPDRS - Lightheadedness on Standing</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD2-Medication for PD" nciodm:ExtCodeID="C100498">
+                    <nciodm:CDISCSynonym>UPD2-Medication for PD</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Is the patient on medication for treating the symptoms of Parkinson's Disease?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MDS-UPDRS - Medication for Parkinson's Disease</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD2-Minutes Since Levodopa Dose" nciodm:ExtCodeID="C100501">
+                    <nciodm:CDISCSynonym>UPD2-Minutes Since Levodopa Dose</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Minutes since last Levodopa dose.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MDS-UPDRS - Minutes Since Levodopa Dose</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD2-Movements Interfere Ratings" nciodm:ExtCodeID="C100534">
+                    <nciodm:CDISCSynonym>UPD2-Movements Interfere Ratings</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - If yes, did these movements interfere with your ratings?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MDS-UPDRS - Movements Interfere with Ratings</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD2-Pain and other Sensations" nciodm:ExtCodeID="C100481">
+                    <nciodm:CDISCSynonym>UPD2-Pain and other Sensations</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Over the past week, have you had uncomfortable feelings in your body like pain, aches tingling or cramps?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MDS-UPDRS - Pain and Other Sensations</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD2-Painful Off-state Dystonia" nciodm:ExtCodeID="C100541">
+                    <nciodm:CDISCSynonym>UPD2-Painful Off-state Dystonia</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Painful Off-state Dystonia.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MDS-UPDRS - Painful Off-state Dystonia</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD2-Postural Stability" nciodm:ExtCodeID="C100522">
+                    <nciodm:CDISCSynonym>UPD2-Postural Stability</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Postural Stability.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MDS-UPDRS - Postural Stability</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD2-Postural Tremor of Left Hand" nciodm:ExtCodeID="C113882">
+                    <nciodm:CDISCSynonym>UPD2-Postural Tremor of Left Hand</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Postural Tremor of the Left Hand.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MDS-UPDRS - Postural Tremor of Left Hand</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD2-Postural Tremor of Right Hand" nciodm:ExtCodeID="C100525">
+                    <nciodm:CDISCSynonym>UPD2-Postural Tremor of Right Hand</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Postural Tremor of the Right Hand.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MDS-UPDRS - Postural Tremor of Right Hand</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD2-Posture" nciodm:ExtCodeID="C100523">
+                    <nciodm:CDISCSynonym>UPD2-Posture</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Posture.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MDS-UPDRS - Posture</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD2-Pron/Sup Movement of Left Hand" nciodm:ExtCodeID="C100514">
+                    <nciodm:CDISCSynonym>UPD2-Pron/Sup Movement of Left Hand</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Pronation-Supination Movements of Left Hand.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MDS-UPDRS - Pronanation-Supination Movement of Left Hand</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD2-Pron/Sup Movement of RT Hand" nciodm:ExtCodeID="C100513">
+                    <nciodm:CDISCSynonym>UPD2-Pron/Sup Movement of RT Hand</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Pronation-Supination Movements of Right Hand.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MDS-UPDRS - Pronanation-Supination Movement of Right Hand</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD2-Rest Tremor Amplitude Lip/Jaw" nciodm:ExtCodeID="C100531">
+                    <nciodm:CDISCSynonym>UPD2-Rest Tremor Amplitude Lip/Jaw</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Rest Tremor Amplitude Lip/Jaw.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MDS-UPDRS - Rest Tremor Amplitude Lip or Jaw</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD2-Rest Tremor Amplitude LLE" nciodm:ExtCodeID="C100530">
+                    <nciodm:CDISCSynonym>UPD2-Rest Tremor Amplitude LLE</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Rest Tremor Amplitude Left Lower Extremity.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MDS-UPDRS - Rest Tremor Amplitude Left Lower Extremity</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD2-Rest Tremor Amplitude LUE" nciodm:ExtCodeID="C100528">
+                    <nciodm:CDISCSynonym>UPD2-Rest Tremor Amplitude LUE</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Rest Tremor Amplitude Left Upper Extremity.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MDS-UPDRS - Rest Tremor Amplitude Left Upper Extremity</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD2-Rest Tremor Amplitude RLE" nciodm:ExtCodeID="C100529">
+                    <nciodm:CDISCSynonym>UPD2-Rest Tremor Amplitude RLE</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Rest Tremor Amplitude Right Lower Extremity.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MDS-UPDRS - Rest Tremor Amplitude Right Lower Extremity</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD2-Rest Tremor Amplitude RUE" nciodm:ExtCodeID="C100527">
+                    <nciodm:CDISCSynonym>UPD2-Rest Tremor Amplitude RUE</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Rest Tremor Amplitude Right Upper Extremity.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MDS-UPDRS - Rest Tremor Amplitude Right Upper Extremity</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD2-Right Finger Tapping" nciodm:ExtCodeID="C100509">
+                    <nciodm:CDISCSynonym>UPD2-Right Finger Tapping</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Right Finger Tapping.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MDS-UPDRS - Right Finger Tapping</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD2-Right Hand Movements" nciodm:ExtCodeID="C100511">
+                    <nciodm:CDISCSynonym>UPD2-Right Hand Movements</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Right Hand Movements.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MDS-UPDRS - Right Hand Movements</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD2-Right Leg Agility" nciodm:ExtCodeID="C100517">
+                    <nciodm:CDISCSynonym>UPD2-Right Leg Agility</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Right Leg Agility.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MDS-UPDRS - Right Leg Agility</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD2-Right Toe Tapping" nciodm:ExtCodeID="C100515">
+                    <nciodm:CDISCSynonym>UPD2-Right Toe Tapping</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Right Toe Tapping.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MDS-UPDRS - Right Toe Tapping</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD2-Rigidity Left Lower Extremity" nciodm:ExtCodeID="C100508">
+                    <nciodm:CDISCSynonym>UPD2-Rigidity Left Lower Extremity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Rigidity Left Lower Extremity.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MDS-UPDRS - Rigidity Left Lower Extremity</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD2-Rigidity Left Upper Extremity" nciodm:ExtCodeID="C100506">
+                    <nciodm:CDISCSynonym>UPD2-Rigidity Left Upper Extremity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Rigidity Left Upper Extremity.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MDS-UPDRS - Rigidity Left Upper Extremity</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD2-Rigidity Neck" nciodm:ExtCodeID="C100504">
+                    <nciodm:CDISCSynonym>UPD2-Rigidity Neck</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Rigidity Neck.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MDS-UPDRS - Rigidity Neck</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD2-Rigidity RT Lower Extremity" nciodm:ExtCodeID="C100507">
+                    <nciodm:CDISCSynonym>UPD2-Rigidity RT Lower Extremity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Rigidity Right Lower Extremity.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MDS-UPDRS - Rigidity Right Lower Extremity</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD2-Rigidity RT Upper Extremity" nciodm:ExtCodeID="C100505">
+                    <nciodm:CDISCSynonym>UPD2-Rigidity RT Upper Extremity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Rigidity Right Upper Extremity.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MDS-UPDRS - Rigidity Right Upper Extremity</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD2-Saliva and Drooling" nciodm:ExtCodeID="C100487">
+                    <nciodm:CDISCSynonym>UPD2-Saliva and Drooling</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Over the past week, have you usually had too much saliva during when you are awake or when you sleep?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MDS-UPDRS - Saliva and Drooling</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD2-Sleep Problems" nciodm:ExtCodeID="C100479">
+                    <nciodm:CDISCSynonym>UPD2-Sleep Problems</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Over the past week, have you had trouble going to sleep at night or staying asleep through the night?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MDS-UPDRS - Sleep Problems</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD2-Speech" nciodm:ExtCodeID="C100486">
+                    <nciodm:CDISCSynonym>UPD2-Speech</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Over the past week, have you had problems with your speech?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MDS-UPDRS - Speech</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD2-Speech Problems" nciodm:ExtCodeID="C100502">
+                    <nciodm:CDISCSynonym>UPD2-Speech Problems</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Speech Problems.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MDS-UPDRS - Speech Problems</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD2-Taking Levodopa" nciodm:ExtCodeID="C100500">
+                    <nciodm:CDISCSynonym>UPD2-Taking Levodopa</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Is the patient on Levodopa?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MDS-UPDRS - Taking Levodopa</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD2-Time Spent in the Off State" nciodm:ExtCodeID="C100538">
+                    <nciodm:CDISCSynonym>UPD2-Time Spent in the Off State</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Time Spent in the Off State.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MDS-UPDRS - Time Spent in the Off State</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD2-Time Spent with Dyskinesias" nciodm:ExtCodeID="C100536">
+                    <nciodm:CDISCSynonym>UPD2-Time Spent with Dyskinesias</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Time Spent with Dyskinesias.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MDS-UPDRS - Time Spent with Dyskinesias</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD2-Tremor" nciodm:ExtCodeID="C100495">
+                    <nciodm:CDISCSynonym>UPD2-Tremor</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Over the past week, have you usually had shaking or tremor?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MDS-UPDRS - Tremor</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD2-Turning in Bed" nciodm:ExtCodeID="C100494">
+                    <nciodm:CDISCSynonym>UPD2-Turning in Bed</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Over the past week, do you usually have trouble turning over in bed?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MDS-UPDRS - Turning in Bed</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD2-Urinary Problems" nciodm:ExtCodeID="C100482">
+                    <nciodm:CDISCSynonym>UPD2-Urinary Problems</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Over the past week, have you had trouble with urine control?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MDS-UPDRS - Urinary Problems</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD2-Walking and Balance" nciodm:ExtCodeID="C100496">
+                    <nciodm:CDISCSynonym>UPD2-Walking and Balance</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale - Over the past week, have you usually had problems with balance and walking?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MDS-UPDRS - Walking and Balance</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>UPD2TN</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Movement Disorder Society Unified Parkinson's Disease Rating Scale Questionnaire Test Name</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Questionnaire MDS-UPDRS Test Name Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

@@ -1,0 +1,14 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C101816.ECOG1TN" Name="Eastern Cooperative Oncology Group Performance Status Questionnaire Test Name" DataType="text" nciodm:ExtCodeID="C101816" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Eastern Cooperative Oncology Group Performance Status test name.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="ECOG1-Performance Status" nciodm:ExtCodeID="C102408">
+                    <nciodm:CDISCSynonym>ECOG1-Performance Status</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>ECOG Performance Status - Performance Status.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ECOG - Performance Status</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>ECOG1TN</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Eastern Cooperative Oncology Group Performance Status Questionnaire Test Name</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Questionnaire ECOG Test Name Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

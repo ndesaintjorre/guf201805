@@ -1,0 +1,24 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C106654.BDI01TN" Name="Baseline Dyspnea Index Questionnaire Test Name" DataType="text" nciodm:ExtCodeID="C106654" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Baseline Dyspnea Index test name.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="BDI01-Functional Impairment" nciodm:ExtCodeID="C106701">
+                    <nciodm:CDISCSynonym>BDI01-Functional Impairment</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Baseline Dyspnea Index - Functional impairment.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BDI - Functional Impairment</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BDI01-Magnitude of Effort" nciodm:ExtCodeID="C106703">
+                    <nciodm:CDISCSynonym>BDI01-Magnitude of Effort</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Baseline Dyspnea Index - Magnitude of effort.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BDI - Magnitude of Effort</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BDI01-Magnitude of Task" nciodm:ExtCodeID="C106702">
+                    <nciodm:CDISCSynonym>BDI01-Magnitude of Task</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Baseline Dyspnea Index - Magnitude of task.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BDI - Magnitude of Task</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>BDI01TN</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Baseline Dyspnea Index Questionnaire Test Name</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Questionnaire BDI Test Name Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

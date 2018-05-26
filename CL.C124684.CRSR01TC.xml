@@ -1,0 +1,64 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C124684.CRSR01TC" Name="JFK Coma Recovery Scale-Revised Clinical Classification Test Code" DataType="text" nciodm:ExtCodeID="C124684" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">JFK Coma Recovery Scale-Revised test code.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="CRSR0101" nciodm:ExtCodeID="C124736">
+                    <nciodm:CDISCSynonym>CRSR01-Diagnosis</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>JFK Coma Recovery Scale-Revised - Diagnosis.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CRS-R - Diagnosis</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CRSR0102" nciodm:ExtCodeID="C124737">
+                    <nciodm:CDISCSynonym>CRSR01-Etiology</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>JFK Coma Recovery Scale-Revised - Etiology.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CRS-R - Etiology</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CRSR0103" nciodm:ExtCodeID="C124738">
+                    <nciodm:CDISCSynonym>CRSR01-Date of Onset</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>JFK Coma Recovery Scale-Revised - Date of onset.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CRS-R - Date of Onset</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CRSR0104" nciodm:ExtCodeID="C124739">
+                    <nciodm:CDISCSynonym>CRSR01-Date of Admission</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>JFK Coma Recovery Scale-Revised - Date of admission.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CRS-R - Date of Admission</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CRSR0105" nciodm:ExtCodeID="C124740">
+                    <nciodm:CDISCSynonym>CRSR01-Auditory Function Scale</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>JFK Coma Recovery Scale-Revised - Auditory function scale.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CRS-R - Auditory Function Scale</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CRSR0106" nciodm:ExtCodeID="C124741">
+                    <nciodm:CDISCSynonym>CRSR01-Visual Function Scale</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>JFK Coma Recovery Scale-Revised - Visual function scale.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CRS-R - Visual Function Scale</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CRSR0107" nciodm:ExtCodeID="C124742">
+                    <nciodm:CDISCSynonym>CRSR01-Motor Function Scale</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>JFK Coma Recovery Scale-Revised - Motor function scale.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CRS-R - Motor Function Scale</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CRSR0108" nciodm:ExtCodeID="C124743">
+                    <nciodm:CDISCSynonym>CRSR01-Oromotor/Verbal Function</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>JFK Coma Recovery Scale-Revised - Oromotor/verbal function scale.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CRS-R - Oromotor/Verbal Function</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CRSR0109" nciodm:ExtCodeID="C124744">
+                    <nciodm:CDISCSynonym>CRSR01-Communication Scale</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>JFK Coma Recovery Scale-Revised - Communication scale.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CRS-R - Communication Scale</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CRSR0110" nciodm:ExtCodeID="C124745">
+                    <nciodm:CDISCSynonym>CRSR01-Arousal Scale</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>JFK Coma Recovery Scale-Revised - Arousal scale.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CRS-R - Arousal Scale</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CRSR0111" nciodm:ExtCodeID="C124746">
+                    <nciodm:CDISCSynonym>CRSR01-Total Score</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>JFK Coma Recovery Scale-Revised - Total score.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CRS-R - Total Score</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>CRSR01TC</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>JFK Coma Recovery Scale-Revised Clinical Classification Test Code</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Clinical Classification CRS-R Test Code Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

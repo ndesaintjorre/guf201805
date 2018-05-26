@@ -1,0 +1,179 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C103460.CSS02TN" Name="Columbia-Suicide Severity Rating Scale Since Last Visit Questionnaire Test Name" DataType="text" nciodm:ExtCodeID="C103460" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Columbia-Suicide Severity Rating Scale Since Last Visit test name.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="CSS02-Aborted Attempt" nciodm:ExtCodeID="C103793">
+                    <nciodm:CDISCSynonym>CSS02-Aborted Attempt</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Since Last Visit - Has there been a time when you started to do something to try to end your life but you stopped yourself before you actually did anything?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Since Last Visit - Aborted Suicide Attempt</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS02-Aborted Attempt, Describe" nciodm:ExtCodeID="C103795">
+                    <nciodm:CDISCSynonym>CSS02-Aborted Attempt, Describe</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Since Last Visit - Description of aborted attempt.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Since Last Visit - Description of Aborted Suicide Attempt</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS02-Actual Attempt" nciodm:ExtCodeID="C103786">
+                    <nciodm:CDISCSynonym>CSS02-Actual Attempt</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Since Last Visit - Have you made a suicide attempt? Have you done anything to harm yourself? Have you done anything dangerous where you could have died?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Since Last Visit - Actual Suicide Attempt</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS02-Actual Attempt, Describe" nciodm:ExtCodeID="C103788">
+                    <nciodm:CDISCSynonym>CSS02-Actual Attempt, Describe</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Since Last Visit - Description of actual attempt.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Since Last Visit - Description of Actual Suicide Attempts</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS02-Ideation With Intent No Plan Descr" nciodm:ExtCodeID="C103800">
+                    <nciodm:CDISCSynonym>CSS02-Ideation With Intent No Plan Descr</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Since Last Visit - Description of active suicidal ideation with some intent to act, without specific plan.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Since Last Visit - Description of Ideation With Intent, No Plan</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS02-Ideation With Intent, No Plan" nciodm:ExtCodeID="C103799">
+                    <nciodm:CDISCSynonym>CSS02-Ideation With Intent, No Plan</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Since Last Visit - Have you had these thoughts and had some intention of acting on them?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Since Last Visit - Ideation With Intent, No Plan</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS02-Ideation With Plan/Intent" nciodm:ExtCodeID="C103801">
+                    <nciodm:CDISCSynonym>CSS02-Ideation With Plan/Intent</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Since Last Visit - Have you started to work out or worked out the details of how to kill yourself? Do you intend to carry out this plan?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Since Last Visit - Ideation With Plan/Intent</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS02-Ideation With Plan/Intent, Descr" nciodm:ExtCodeID="C103778">
+                    <nciodm:CDISCSynonym>CSS02-Ideation With Plan/Intent, Descr</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Since Last Visit - Description of active suicidal ideation with specific plan and intent.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Since Last Visit - Description of Ideation With Plan and Intent</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS02-Interrupted Attempt" nciodm:ExtCodeID="C103790">
+                    <nciodm:CDISCSynonym>CSS02-Interrupted Attempt</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Since Last Visit - Has there been a time when you started to do something to try to end your life but someone or something stopped you before you actually did anything?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Since Last Visit - Interrupted Suicide Attempt</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS02-Interrupted Attempt, Describe" nciodm:ExtCodeID="C103792">
+                    <nciodm:CDISCSynonym>CSS02-Interrupted Attempt, Describe</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Since Last Visit - Description of interrupted attempt.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Since Last Visit - Description of Interrupted Suicide Attempt</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS02-Most Lethal Attempt Damage" nciodm:ExtCodeID="C103534">
+                    <nciodm:CDISCSynonym>CSS02-Most Lethal Attempt Damage</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Since Last Visit - Most lethal attempt actual lethality/medical damage.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Since Last Visit - Most Lethal Actual Attempt Lethality/Medical Damage</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS02-Most Lethal Attempt Date" nciodm:ExtCodeID="C103533">
+                    <nciodm:CDISCSynonym>CSS02-Most Lethal Attempt Date</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Since Last Visit - Most lethal attempt date.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Since Last Visit - Most Lethal Attempt Date</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS02-Most Lethal Attempt Potential" nciodm:ExtCodeID="C103535">
+                    <nciodm:CDISCSynonym>CSS02-Most Lethal Attempt Potential</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Since Last Visit - Most lethal attempt potential lethality.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Since Last Visit - Most Lethal Actual Attempt Potential Lethality</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS02-Most Severe Ideation" nciodm:ExtCodeID="C103779">
+                    <nciodm:CDISCSynonym>CSS02-Most Severe Ideation</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Since Last Visit - Most severe ideation.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Since Last Visit - Most Severe Ideation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS02-Most Severe Ideation, Control" nciodm:ExtCodeID="C103783">
+                    <nciodm:CDISCSynonym>CSS02-Most Severe Ideation, Control</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Since Last Visit - Could/can you stop thinking about killing yourself or wanting to die if you want to?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Since Last Visit - Control over Most Severe Ideation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS02-Most Severe Ideation, Description" nciodm:ExtCodeID="C103780">
+                    <nciodm:CDISCSynonym>CSS02-Most Severe Ideation, Description</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Since Last Visit - Description of most severe ideation.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Since Last Visit - Describe Most Severe Ideation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS02-Most Severe Ideation, Deterrents" nciodm:ExtCodeID="C103784">
+                    <nciodm:CDISCSynonym>CSS02-Most Severe Ideation, Deterrents</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Since Last Visit - Are there things - anyone or anything (e.g., family, religion, pain of death) - that stopped you from wanting to die or acting on thoughts of committing suicide?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Since Last Visit - Deterrents to Most Severe Ideation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS02-Most Severe Ideation, Duration" nciodm:ExtCodeID="C103782">
+                    <nciodm:CDISCSynonym>CSS02-Most Severe Ideation, Duration</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Since Last Visit - When you have the thoughts, how long do they last?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Since Last Visit - Duration of Most Severe Ideation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS02-Most Severe Ideation, Frequency" nciodm:ExtCodeID="C103781">
+                    <nciodm:CDISCSynonym>CSS02-Most Severe Ideation, Frequency</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Since Last Visit - How many times have you had these thoughts?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Since Last Visit - Frequency of Most Severe Ideation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS02-Most Severe Ideation, Reasons" nciodm:ExtCodeID="C103785">
+                    <nciodm:CDISCSynonym>CSS02-Most Severe Ideation, Reasons</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Since Last Visit - What sort of reasons did you have for thinking about wanting to die or killing yourself? Was it to end the pain or stop the way you were feeling (in other words you couldn't go on living with this pain or how you were feeling) or was it to get attention, revenge or a reaction from others? Or both?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Since Last Visit - Reasons for Most Severe Ideation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS02-Non-Specific Suicid Thought, Descr" nciodm:ExtCodeID="C103775">
+                    <nciodm:CDISCSynonym>CSS02-Non-Specific Suicid Thought, Descr</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Since Last Visit - Description of non-specific active suicidal thoughts.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Since Last Visit - Description of Non-Specific Suicide Thought</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS02-Non-Specific Suicidal Thought" nciodm:ExtCodeID="C103774">
+                    <nciodm:CDISCSynonym>CSS02-Non-Specific Suicidal Thought</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Since Last Visit - Have you actually had any thoughts of killing yourself?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Since Last Visit - Non-Specific Suicidal Thought</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS02-Non-suicidal Self-injurious Behav" nciodm:ExtCodeID="C103789">
+                    <nciodm:CDISCSynonym>CSS02-Non-suicidal Self-injurious Behav</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Since Last Visit - Has the subject engaged in non-suicidal self-injurious behavior.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Since Last Visit - Non-suicidal Self-injurious Behavior</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS02-Number of Aborted Attempts" nciodm:ExtCodeID="C103794">
+                    <nciodm:CDISCSynonym>CSS02-Number of Aborted Attempts</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Since Last Visit - Total number of aborted attempts.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Since Last Visit - Number of Aborted Suicide Attempts</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS02-Number of Actual Attempts" nciodm:ExtCodeID="C103787">
+                    <nciodm:CDISCSynonym>CSS02-Number of Actual Attempts</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Since Last Visit - Total number of actual attempts.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Since Last Visit - Number of Actual Suicide Attempts</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS02-Number of Interrupted Attempts" nciodm:ExtCodeID="C103791">
+                    <nciodm:CDISCSynonym>CSS02-Number of Interrupted Attempts</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Since Last Visit - Total number of interrupted attempts.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Since Last Visit - Number of Interrupted Suicide Attempts</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS02-Preparatory Acts/Behavior" nciodm:ExtCodeID="C103796">
+                    <nciodm:CDISCSynonym>CSS02-Preparatory Acts/Behavior</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Since Last Visit - Have you taken any steps towards making a suicide attempt or preparing to kill yourself (such as collecting pills, getting a gun, giving valuables away or writing a suicide note)?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Since Last Visit - Preparatory Acts or Behaviors Toward Suicide Attempt</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS02-Preparatory Acts/Behavior, Descr" nciodm:ExtCodeID="C103797">
+                    <nciodm:CDISCSynonym>CSS02-Preparatory Acts/Behavior, Descr</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Since Last Visit - Description of preparatory acts or behavior.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Since Last Visit - Description of Preparatory Acts or Behaviors Toward Suicide Attempt</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS02-Suicidal Behavior" nciodm:ExtCodeID="C103798">
+                    <nciodm:CDISCSynonym>CSS02-Suicidal Behavior</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Since Last Visit - Suicidal behavior was present during the assessment period?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Since Last Visit - Suicidal Behavior</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS02-Suicidal Ideation-No Intent" nciodm:ExtCodeID="C103776">
+                    <nciodm:CDISCSynonym>CSS02-Suicidal Ideation-No Intent</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Since Last Visit - Have you been thinking about how you might do this?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Since Last Visit - Suicidal Ideation-No Intent</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS02-Suicidal Ideation-No Intent, Descr" nciodm:ExtCodeID="C103777">
+                    <nciodm:CDISCSynonym>CSS02-Suicidal Ideation-No Intent, Descr</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Since Last Visit - Description of active suicidal ideation with any methods (not plan) without intent to act.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Since Last Visit - Description of Suicidal Ideation-No Intent</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS02-Suicide" nciodm:ExtCodeID="C103532">
+                    <nciodm:CDISCSynonym>CSS02-Suicide</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Since Last Visit - Suicide.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Since Last Visit - Suicide</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS02-Wish to be Dead" nciodm:ExtCodeID="C103772">
+                    <nciodm:CDISCSynonym>CSS02-Wish to be Dead</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Since Last Visit - Have you wished you were dead or wished you could go to sleep and not wake up?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Since Last Visit - Wish to be Dead or go to Sleep and not Wake Up</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS02-Wish to be Dead, Describe" nciodm:ExtCodeID="C103773">
+                    <nciodm:CDISCSynonym>CSS02-Wish to be Dead, Describe</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Since Last Visit - Description of wishing to be dead.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Since Last Visit - Description of Wish to be Dead</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>CSS02TN</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Columbia-Suicide Severity Rating Scale Since Last Visit Questionnaire Test Name</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Questionnaire C-SSRS Since Last Visit Test Name Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

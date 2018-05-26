@@ -1,0 +1,64 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C103480.PHQ01TN" Name="Patient Health Questionnaire - 9 Item Questionnaire Test Name" DataType="text" nciodm:ExtCodeID="C103480" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Patient Health Questionnaire - 9 test name.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="PHQ01-Difficult to Work/Take Care Things" nciodm:ExtCodeID="C103714">
+                    <nciodm:CDISCSynonym>PHQ01-Difficult to Work/Take Care Things</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Patient Health Questionnaire - 9 - If you checked off any problems, how difficult have these problems made it for you to do your work, take care of things at home, or get along with other people?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PHQ-9 - How Difficult have Problems Made it for You to Work, Take Care of Things, or Get Along with Other People</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PHQ01-Feeling Bad About Yourself" nciodm:ExtCodeID="C103710">
+                    <nciodm:CDISCSynonym>PHQ01-Feeling Bad About Yourself</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Patient Health Questionnaire - 9 - Feeling bad about yourself - or that you are a failure or have let yourself or your family down.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PHQ-9 - Feeling Bad About Yourself</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PHQ01-Feeling Down Depressed or Hopeless" nciodm:ExtCodeID="C103706">
+                    <nciodm:CDISCSynonym>PHQ01-Feeling Down Depressed or Hopeless</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Patient Health Questionnaire - 9 - Feeling down, depressed, or hopeless.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PHQ-9 - Feeling Down, Depressed, or Hopeless</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PHQ01-Feeling Tired or Little Energy" nciodm:ExtCodeID="C103708">
+                    <nciodm:CDISCSynonym>PHQ01-Feeling Tired or Little Energy</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Patient Health Questionnaire - 9 - Feeling tired or having little energy.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PHQ-9 - Feeling Tired or Having Little Energy</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PHQ01-Little Interest/Pleasure in Things" nciodm:ExtCodeID="C103705">
+                    <nciodm:CDISCSynonym>PHQ01-Little Interest/Pleasure in Things</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Patient Health Questionnaire - 9 - Little interest or pleasure in doing things.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PHQ-9 - Little Interest or Pleasure in Doing Things</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PHQ01-Moving Slowly or Fidgety/Restless" nciodm:ExtCodeID="C103712">
+                    <nciodm:CDISCSynonym>PHQ01-Moving Slowly or Fidgety/Restless</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Patient Health Questionnaire - 9 - Moving or speaking so slowly that other people could have noticed? Or the opposite - being so fidgety or restless that you have been moving around a lot more than usual.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PHQ-9 - Moving or Speaking Slowly or the Opposite being Fidgety or Restless</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PHQ01-Poor Appetite or Overeating" nciodm:ExtCodeID="C103709">
+                    <nciodm:CDISCSynonym>PHQ01-Poor Appetite or Overeating</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Patient Health Questionnaire - 9 - Poor appetite or overeating.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PHQ-9 - Poor Appetite or Overeating</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PHQ01-Thoughts You Be Better Off Dead" nciodm:ExtCodeID="C103713">
+                    <nciodm:CDISCSynonym>PHQ01-Thoughts You Be Better Off Dead</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Patient Health Questionnaire - 9 - Thoughts that you would be better off dead or of hurting yourself in some way.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PHQ-9 - Thoughts That You Would be Better Off Dead</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PHQ01-Total Score" nciodm:ExtCodeID="C113887">
+                    <nciodm:CDISCSynonym>PHQ01-Total Score</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Patient Health Questionnaire - 9 - Total score.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PHQ-9 - Total Score</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PHQ01-Trouble Concentrating on Things" nciodm:ExtCodeID="C103711">
+                    <nciodm:CDISCSynonym>PHQ01-Trouble Concentrating on Things</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Patient Health Questionnaire - 9 - Trouble concentrating on things, such as reading the newspaper or watching television.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PHQ-9 - Trouble Concentrating on Things</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PHQ01-Trouble Falling or Staying Asleep" nciodm:ExtCodeID="C103707">
+                    <nciodm:CDISCSynonym>PHQ01-Trouble Falling or Staying Asleep</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Patient Health Questionnaire - 9 - Trouble falling or staying asleep, or sleeping too much.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PHQ-9 - Trouble Falling or Staying Asleep, or Sleeping Too Much</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>PHQ01TN</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Patient Health Questionnaire - 9 Item Questionnaire Test Name</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Questionnaire PHQ-9 Test Name Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

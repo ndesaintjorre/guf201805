@@ -1,0 +1,174 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C103475.OABQ01TC" Name="The Overactive Bladder Questionnaire Questionnaire Test Code" DataType="text" nciodm:ExtCodeID="C103475" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">The Overactive Bladder Questionnaire test code.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="OABQ0101" nciodm:ExtCodeID="C103653">
+                    <nciodm:CDISCSynonym>OABQ01-Frequent Urination During Daytime</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Overactive Bladder Questionnaire - Frequent urination during the daytime hours?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>OAB-q - Frequent Urination During the Daytime</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="OABQ0102" nciodm:ExtCodeID="C103654">
+                    <nciodm:CDISCSynonym>OABQ01-Uncomfortable Urge to Urinate</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Overactive Bladder Questionnaire - An uncomfortable urge to urinate?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>OAB-q - Uncomfortable Urge to Urinate</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="OABQ0103" nciodm:ExtCodeID="C103655">
+                    <nciodm:CDISCSynonym>OABQ01-Sudden Urge to Urinate No Warning</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Overactive Bladder Questionnaire - A sudden urge to urinate with little or no warning?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>OAB-q - Sudden Urge to Urinate with Little or No Warning</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="OABQ0104" nciodm:ExtCodeID="C103656">
+                    <nciodm:CDISCSynonym>OABQ01-Accidental Loss of Urine</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Overactive Bladder Questionnaire - Accidental loss of small amounts of urine?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>OAB-q - Accidental Loss of Urine</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="OABQ0105" nciodm:ExtCodeID="C103657">
+                    <nciodm:CDISCSynonym>OABQ01-Nighttime Urination</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Overactive Bladder Questionnaire - Nighttime urination?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>OAB-q - Nighttime Urination</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="OABQ0106" nciodm:ExtCodeID="C103658">
+                    <nciodm:CDISCSynonym>OABQ01-Waking Up at Night had to Urinate</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Overactive Bladder Questionnaire - Waking up at night because you had to urinate?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>OAB-q - Waking Up at Night Because You had to Urinate</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="OABQ0107" nciodm:ExtCodeID="C103659">
+                    <nciodm:CDISCSynonym>OABQ01-Uncontrollable Urge to Urinate</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Overactive Bladder Questionnaire - An uncontrollable urge to urinate?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>OAB-q - Uncontrollable Urge to Urinate</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="OABQ0108" nciodm:ExtCodeID="C103660">
+                    <nciodm:CDISCSynonym>OABQ01-Urine Loss Strong Desire Urinate</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Overactive Bladder Questionnaire - Urine loss associated with a strong desire to urinate?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>OAB-q - Urine Loss Associated with a Strong Desire to Urinate</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="OABQ0109" nciodm:ExtCodeID="C103661">
+                    <nciodm:CDISCSynonym>OABQ01-Carefully Plan Your Commute</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Overactive Bladder Questionnaire - Made you carefully plan your commute?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>OAB-q - Carefully Plan Your Commute</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="OABQ0110" nciodm:ExtCodeID="C103662">
+                    <nciodm:CDISCSynonym>OABQ01-Feel Drowsy or Sleepy During Day</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Overactive Bladder Questionnaire - Caused you to feel drowsy or sleepy during the day?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>OAB-q - Feel Drowsy or Sleepy During the Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="OABQ0111" nciodm:ExtCodeID="C103663">
+                    <nciodm:CDISCSynonym>OABQ01-Plan 'Escape Routes' to Restrooms</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Overactive Bladder Questionnaire - Caused you to plan "escape routes" to restrooms in public places?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>OAB-q - Plan 'Escape Routes' to Restrooms</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="OABQ0112" nciodm:ExtCodeID="C103664">
+                    <nciodm:CDISCSynonym>OABQ01-Caused You Distress</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Overactive Bladder Questionnaire - Caused you distress?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>OAB-q - Caused You Distress</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="OABQ0113" nciodm:ExtCodeID="C103665">
+                    <nciodm:CDISCSynonym>OABQ01-Frustrated You</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Overactive Bladder Questionnaire - Frustrated you?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>OAB-q - Frustrated You</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="OABQ0114" nciodm:ExtCodeID="C103666">
+                    <nciodm:CDISCSynonym>OABQ01-Feel Something Wrong with You</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Overactive Bladder Questionnaire - Made you feel like there is something wrong with you?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>OAB-q - Feel Like There is Something Wrong with You</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="OABQ0115" nciodm:ExtCodeID="C103667">
+                    <nciodm:CDISCSynonym>OABQ01-Interfered with Good Night's Rest</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Overactive Bladder Questionnaire - Interfered with your ability to get a good night's rest?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>OAB-q - Interfered with a Good Night's Rest</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="OABQ0116" nciodm:ExtCodeID="C103668">
+                    <nciodm:CDISCSynonym>OABQ01-Decrease Your Physical Activities</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Overactive Bladder Questionnaire - Caused you to decrease your physical activities (exercising, sports, etc.)?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>OAB-q - Decrease Your Physical Activities</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="OABQ0117" nciodm:ExtCodeID="C103669">
+                    <nciodm:CDISCSynonym>OABQ01-Prevented From Feeling Rested</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Overactive Bladder Questionnaire - Prevented you from feeling rested upon waking in the morning?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>OAB-q - Prevented You From Feeling Rested Upon Waking</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="OABQ0118" nciodm:ExtCodeID="C103670">
+                    <nciodm:CDISCSynonym>OABQ01-Frustrated Family and Friends</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Overactive Bladder Questionnaire - Frustrated your family and friends?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>OAB-q - Frustrated Your Family and Friends</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="OABQ0119" nciodm:ExtCodeID="C103671">
+                    <nciodm:CDISCSynonym>OABQ01-Caused You Anxiety or Worry</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Overactive Bladder Questionnaire - Caused you anxiety or worry?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>OAB-q - Caused You Anxiety or Worry</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="OABQ0120" nciodm:ExtCodeID="C103672">
+                    <nciodm:CDISCSynonym>OABQ01-Stay Home More Often Than Prefer</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Overactive Bladder Questionnaire - Caused you to stay home more often than you would prefer?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>OAB-q - Stay Home More Often Than You Would Prefer</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="OABQ0121" nciodm:ExtCodeID="C103673">
+                    <nciodm:CDISCSynonym>OABQ01-Adjust Travel Plans Near Restroom</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Overactive Bladder Questionnaire - Caused you to adjust your travel plans so that you are always near a restroom?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>OAB-q - Adjust Your Travel Plans so That You are Always Near a Restroom</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="OABQ0122" nciodm:ExtCodeID="C103674">
+                    <nciodm:CDISCSynonym>OABQ01-Avoid Act Away From Restroom</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Overactive Bladder Questionnaire - Made you avoid activities away from restrooms (i.e., walks, running, hiking)?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>OAB-q - Avoid Activities Away From Restrooms</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="OABQ0123" nciodm:ExtCodeID="C103675">
+                    <nciodm:CDISCSynonym>OABQ01-Amount of Time Spend in Restroom</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Overactive Bladder Questionnaire - Made you frustrated or annoyed about the amount of time you spend in the restroom?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>OAB-q - Frustrated or Annoyed About the Amount of Time You Spend in the Restroom</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="OABQ0124" nciodm:ExtCodeID="C103676">
+                    <nciodm:CDISCSynonym>OABQ01-Awakened You During Sleep</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Overactive Bladder Questionnaire - Awakened you during sleep?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>OAB-q - Awakened You During Sleep</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="OABQ0125" nciodm:ExtCodeID="C103677">
+                    <nciodm:CDISCSynonym>OABQ01-Worry About Odor or Hygiene</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Overactive Bladder Questionnaire - Made you worry about odor or hygiene?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>OAB-q - Made You Worry About Odor or Hygiene</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="OABQ0126" nciodm:ExtCodeID="C103678">
+                    <nciodm:CDISCSynonym>OABQ01-Uncomfortable Travel with Others</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Overactive Bladder Questionnaire - Made you uncomfortable while traveling with others because of needing to stop for a restroom?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>OAB-q - Uncomfortable While Traveling With Others</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="OABQ0127" nciodm:ExtCodeID="C103679">
+                    <nciodm:CDISCSynonym>OABQ01-Affected Relationships</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Overactive Bladder Questionnaire - Affected your relationships with family and friends?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>OAB-q - Affected Your Relationships with Family and Friends</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="OABQ0128" nciodm:ExtCodeID="C103680">
+                    <nciodm:CDISCSynonym>OABQ01-Decrease Participating Gatherings</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Overactive Bladder Questionnaire - Caused you to decrease participating in social gatherings, such as parties or visits with family or friends?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>OAB-q - Decrease Participating in Social Gatherings</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="OABQ0129" nciodm:ExtCodeID="C103681">
+                    <nciodm:CDISCSynonym>OABQ01-Caused You Embarrassment</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Overactive Bladder Questionnaire - Caused you embarrassment?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>OAB-q - Caused You Embarrassment</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="OABQ0130" nciodm:ExtCodeID="C103682">
+                    <nciodm:CDISCSynonym>OABQ01-Interfered with Getting Sleep</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Overactive Bladder Questionnaire - Interfered with getting the amount of sleep you needed?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>OAB-q - Interfered with Getting Sleep</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="OABQ0131" nciodm:ExtCodeID="C103683">
+                    <nciodm:CDISCSynonym>OABQ01-Caused Problems Partner/Spouse</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Overactive Bladder Questionnaire - Caused you to have problems with your partner or spouse?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>OAB-q - Caused Problems with Your Partner or Spouse</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="OABQ0132" nciodm:ExtCodeID="C103684">
+                    <nciodm:CDISCSynonym>OABQ01-Plan Activities More Carefully</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Overactive Bladder Questionnaire - Caused you to plan activities more carefully?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>OAB-q - Plan Activities More Carefully</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="OABQ0133" nciodm:ExtCodeID="C103685">
+                    <nciodm:CDISCSynonym>OABQ01-Locate Closest Restroom</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Overactive Bladder Questionnaire - Caused you to locate the closest restroom as soon as you arrive at a place you have never been?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>OAB-q - Locate Closest Restroom as Soon as You Arrive</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>OABQ01TC</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>The Overactive Bladder Questionnaire Questionnaire Test Code</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Questionnaire OAB-q Test Code Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

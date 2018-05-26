@@ -1,0 +1,284 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C113848.CSS10TC" Name="Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent Questionnaire Test Code" DataType="text" nciodm:ExtCodeID="C113848" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent test code.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="CSS1001A" nciodm:ExtCodeID="C113889">
+                    <nciodm:CDISCSynonym>CSS10-Wish to be Dead-Life</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - Have you thought about being dead or what it would be like to be dead? Have you wished you were dead or wished you could go to sleep and never wake up? Do you ever wish you weren't alive anymore? (Lifetime).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - Wish to be Dead (Lifetime)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS1001B" nciodm:ExtCodeID="C113890">
+                    <nciodm:CDISCSynonym>CSS10-Wish to be Dead-P1M</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - Have you thought about being dead or what it would be like to be dead? Have you wished you were dead or wished you could go to sleep and never wake up? Do you ever wish you weren't alive anymore? (Past 1 Month).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - Wish to be Dead (Past 1 Month)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS1001C" nciodm:ExtCodeID="C113891">
+                    <nciodm:CDISCSynonym>CSS10-Wish to be Dead, Describe</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - Description of wishing to be dead.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - Description of Wish to be Dead</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS1002A" nciodm:ExtCodeID="C113892">
+                    <nciodm:CDISCSynonym>CSS10-Non-Spec Suicid Thought-Life</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - Have you thought about doing something to make yourself not alive anymore? Have you had any thoughts about killing yourself? (Lifetime).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - Non-Specific Active Suicidal Thoughts (Lifetime)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS1002B" nciodm:ExtCodeID="C113893">
+                    <nciodm:CDISCSynonym>CSS10-Non-Spec Suicid Thought-P1M</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - Have you thought about doing something to make yourself not alive anymore? Have you had any thoughts about killing yourself? (Past 1 Month).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - Non-Specific Active Suicidal Thoughts (Past 1 Month)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS1002C" nciodm:ExtCodeID="C113894">
+                    <nciodm:CDISCSynonym>CSS10-Non-Spec Suicid Thought, Describe</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - Description of non-specific active suicidal thoughts.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - Description of Non-Specific Active Suicidal Thoughts</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS1003A" nciodm:ExtCodeID="C113895">
+                    <nciodm:CDISCSynonym>CSS10-Idea, No Intent, No Plan-Life</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - Have you thought about how you would do that or how you would make yourself not alive anymore (kill yourself)? What did you think about? (Lifetime).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - Active Suicidal Ideation With Any Methods (Not Plan) Without Intent to Act (Lifetime)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS1003B" nciodm:ExtCodeID="C113896">
+                    <nciodm:CDISCSynonym>CSS10-Idea, No Intent, No Plan-P1M</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - Have you thought about how you would do that or how you would make yourself not alive anymore (kill yourself)? What did you think about? (Past 1 Month).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - Active Suicidal Ideation With Any Methods (Not Plan) Without Intent to Act (Past 1 Month)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS1003C" nciodm:ExtCodeID="C113897">
+                    <nciodm:CDISCSynonym>CSS10-Idea, No Intent, No Plan, Describe</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - Description of active suicidal ideation with any methods (not plan) without intent to act.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - Description of Active Suicidal Ideation With Any Methods (Not Plan) Without Intent to Act</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS1004A" nciodm:ExtCodeID="C113898">
+                    <nciodm:CDISCSynonym>CSS10-Idea, Intent, No Plan-Life</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - When you thought about making yourself not alive anymore (or killing yourself), did you think that this was something you might actually do? This is different from (as opposed to) having the thoughts but knowing you wouldn't do anything about it. (Lifetime).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - Active Suicidal Ideation With Some Intent to Act, Without Specific Plan (Lifetime)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS1004B" nciodm:ExtCodeID="C113899">
+                    <nciodm:CDISCSynonym>CSS10-Idea, Intent, No Plan-P1M</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - When you thought about making yourself not alive anymore (or killing yourself), did you think that this was something you might actually do? This is different from (as opposed to) having the thoughts but knowing you wouldn't do anything about it. (Past 1 Month).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - Active Suicidal Ideation With Some Intent to Act, Without Specific Plan (Past 1 Month)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS1004C" nciodm:ExtCodeID="C113900">
+                    <nciodm:CDISCSynonym>CSS10-Idea, Intent, No Plan, Describe</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - Description of active suicidal ideation with some intent to act, without specific plan.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - Description of Active Suicidal Ideation With Some Intent to Act, Without Specific Plan</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS1005A" nciodm:ExtCodeID="C113901">
+                    <nciodm:CDISCSynonym>CSS10-Idea, Plan, Intent-Life</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - Have you ever decided how or when you would make yourself not alive anymore/kill yourself? Have you ever planned out (worked out the details of) how you would do it? What was your plan? When you made this plan (or worked out these details), was any part of you thinking about actually doing it? (Lifetime).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - Active Suicidal Ideation With Specific Plan and Intent (Lifetime)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS1005B" nciodm:ExtCodeID="C113902">
+                    <nciodm:CDISCSynonym>CSS10-Idea, Plan, Intent-P1M</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - Have you ever decided how or when you would make yourself not alive anymore/kill yourself? Have you ever planned out (worked out the details of) how you would do it? What was your plan? When you made this plan (or worked out these details), was any part of you thinking about actually doing it? (Past 1 Month).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - Active Suicidal Ideation With Specific Plan and Intent (Past 1 Month)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS1005C" nciodm:ExtCodeID="C113903">
+                    <nciodm:CDISCSynonym>CSS10-Idea, Plan, Intent, Describe</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - Description of active suicidal ideation with specific plan and intent.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - Description of Active Suicidal Ideation With Specific Plan and Intent</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS1006A" nciodm:ExtCodeID="C113904">
+                    <nciodm:CDISCSynonym>CSS10-Most Severe Idea-Life</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - Most severe ideation. (Lifetime).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - Most Severe Ideation (Lifetime)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS1006B" nciodm:ExtCodeID="C113905">
+                    <nciodm:CDISCSynonym>CSS10-Most Severe Idea, Desc-Life</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - Description of most severe ideation. (Lifetime).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - Describe Most Severe Ideation (Lifetime)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS1006C" nciodm:ExtCodeID="C113906">
+                    <nciodm:CDISCSynonym>CSS10-Most Severe Idea-P1M</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - Most severe ideation. (Past 1 Month).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - Most Severe Ideation (Past 1 Month)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS1006D" nciodm:ExtCodeID="C113907">
+                    <nciodm:CDISCSynonym>CSS10-Most Severe Idea, Desc-P1M</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - Description of most severe ideation. (Past 1 Month).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - Describe Most Severe Ideation (Past 1 Month)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS1007A" nciodm:ExtCodeID="C113908">
+                    <nciodm:CDISCSynonym>CSS10-Most Severe Idea, Frequency-Life</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - How many times have you had these thoughts? (Lifetime).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - Frequency (Lifetime)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS1007B" nciodm:ExtCodeID="C113909">
+                    <nciodm:CDISCSynonym>CSS10-Most Severe Idea, Frequency-P1M</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - How many times have you had these thoughts? (Past 1 Month).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - Frequency (Past 1 Month)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS1007C" nciodm:ExtCodeID="C113910">
+                    <nciodm:CDISCSynonym>CSS10-Frequency, Write Response</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - Frequency, write response.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - Frequency Write Response</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS1008A" nciodm:ExtCodeID="C113911">
+                    <nciodm:CDISCSynonym>CSS10-Actual Attempt-Life</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - Did you ever do anything to try to kill yourself or make yourself not alive anymore? What did you do? Did you ever hurt yourself on purpose? Why did you do that? (Lifetime).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - Actual Suicide Attempt (Lifetime)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS1008B" nciodm:ExtCodeID="C113912">
+                    <nciodm:CDISCSynonym>CSS10-Actual Attempt-P3M</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - Did you ever do anything to try to kill yourself or make yourself not alive anymore? What did you do? Did you ever hurt yourself on purpose? Why did you do that? (Past 3 Months).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - Actual Suicide Attempt (Past 3 Month)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS1009A" nciodm:ExtCodeID="C113913">
+                    <nciodm:CDISCSynonym>CSS10-Number of Actual Attempts-Life</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - Total number of actual attempts. (Lifetime).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - Number of Actual Suicide Attempts (Lifetime)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS1009B" nciodm:ExtCodeID="C113914">
+                    <nciodm:CDISCSynonym>CSS10-Number of Actual Attempts-P3M</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - Total number of actual attempts. (Past 3 Months).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - Number of Actual Suicide Attempts (Past 3 Months)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS1009C" nciodm:ExtCodeID="C113915">
+                    <nciodm:CDISCSynonym>CSS10-Actual Attempt, Describe</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - Description of actual attempt.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - Description of Actual Suicide Attempt</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS1010A" nciodm:ExtCodeID="C113916">
+                    <nciodm:CDISCSynonym>CSS10-Non-suicidal Self-injur Behav-Life</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - Has subject engaged in non-suicidal self-injurious behavior? (Lifetime).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - Non-suicidal Self-injurious Behavior (Lifetime)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS1010B" nciodm:ExtCodeID="C113917">
+                    <nciodm:CDISCSynonym>CSS10-Non-suicidal Self-injur Behav-P3M</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - Has subject engaged in non-suicidal self-injurious behavior? (Past 3 Months).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - Non-suicidal Self-injurious Behavior (Past 3 Months)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS1011A" nciodm:ExtCodeID="C113918">
+                    <nciodm:CDISCSynonym>CSS10-Self-injur Behav, Intent Unk-Life</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - Has subject engaged in self-injurious behavior, intent unknown? (Lifetime).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - Self-injurious Behavior, Intent Unknown (Lifetime)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS1011B" nciodm:ExtCodeID="C113919">
+                    <nciodm:CDISCSynonym>CSS10-Self-injur Behav, Intent Unk-P3M</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - Has subject engaged in self-injurious behavior, intent unknown? (Past 3 Months).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - Self-injurious Behavior, Intent Unknown (Past 3 Months)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS1012A" nciodm:ExtCodeID="C113920">
+                    <nciodm:CDISCSynonym>CSS10-Interrupted Attempt-Life</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - Has there been a time when you started to do something to make yourself not alive anymore (end your life or kill yourself) but someone or something stopped you before you actually did anything? What did you do? (Lifetime).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - Interrupted Suicide Attempt (Lifetime)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS1012B" nciodm:ExtCodeID="C113921">
+                    <nciodm:CDISCSynonym>CSS10-Interrupted Attempt-P3M</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - Has there been a time when you started to do something to make yourself not alive anymore (end your life or kill yourself) but someone or something stopped you before you actually did anything? What did you do? (Past 3 Months).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - Interrupted Suicide Attempt (Past 3 Months)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS1013A" nciodm:ExtCodeID="C113922">
+                    <nciodm:CDISCSynonym>CSS10-Number of Interrupt Attempts-Life</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - Total number of interrupted attempts. (Lifetime).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - Number of Interrupted Suicide Attempts (Lifetime)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS1013B" nciodm:ExtCodeID="C113923">
+                    <nciodm:CDISCSynonym>CSS10-Number of Interrupt Attempts-P3M</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - Total number of interrupted attempts. (Past 3 Months).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - Number of Interrupted Suicide Attempts (Past 3 Months)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS1013C" nciodm:ExtCodeID="C113924">
+                    <nciodm:CDISCSynonym>CSS10-Interrupted Attempt, Describe</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - Description of interrupted attempt.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - Description of Interrupted Suicide Attempt</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS1014A" nciodm:ExtCodeID="C113925">
+                    <nciodm:CDISCSynonym>CSS10-Aborted Attempt-Life</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - Has there been a time when you started to do something to make yourself not alive anymore (end your life or kill yourself) but you changed your mind (stopped yourself) before you actually did anything? What did you do? (Lifetime).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - Aborted or Self-interrupted Suicide Attempt (Lifetime)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS1014B" nciodm:ExtCodeID="C113926">
+                    <nciodm:CDISCSynonym>CSS10-Aborted Attempt-P3M</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - Has there been a time when you started to do something to make yourself not alive anymore (end your life or kill yourself) but you changed your mind (stopped yourself) before you actually did anything? What did you do? (Past 3 Months).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - Aborted or Self-interrupted Suicide Attempt (Past 3 Months)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS1015A" nciodm:ExtCodeID="C113927">
+                    <nciodm:CDISCSynonym>CSS10-Number of Aborted Attempts-Life</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - Total number of aborted or self-interrupted attempts. (Lifetime).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - Number of Aborted or Self-interrupted Suicide Attempt (Lifetime)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS1015B" nciodm:ExtCodeID="C113928">
+                    <nciodm:CDISCSynonym>CSS10-Number of Aborted Attempts-P3M</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - Total number of aborted or self-interrupted attempts. (Past 3 Months).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - Number of Aborted or Self-interrupted Suicide Attempt (Past 3 Months)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS1015C" nciodm:ExtCodeID="C113929">
+                    <nciodm:CDISCSynonym>CSS10-Aborted Attempt, Describe</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - Description of aborted or self-interrupted attempt.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - Description of Aborted Suicide Attempt</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS1016A" nciodm:ExtCodeID="C113930">
+                    <nciodm:CDISCSynonym>CSS10-Preparatory Acts/Behavior-Life</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - Have you done anything to get ready to make yourself not alive anymore (to end your life or kill yourself) - like giving things away, writing a goodbye note, getting things you need to kill yourself? (Lifetime).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - Preparatory Acts or Behaviors Toward Suicide Attempt (Lifetime)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS1016B" nciodm:ExtCodeID="C113931">
+                    <nciodm:CDISCSynonym>CSS10-Preparatory Acts/Behavior-P3M</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - Have you done anything to get ready to make yourself not alive anymore (to end your life or kill yourself) - like giving things away, writing a goodbye note, getting things you need to kill yourself? (Past 3 Months).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - Preparatory Acts or Behaviors Toward Suicide Attempt (Past 3 Months)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS1016C" nciodm:ExtCodeID="C113932">
+                    <nciodm:CDISCSynonym>CSS10-Preparatory Acts/Behavior, Descr</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - Description of preparatory acts or behavior.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - Description of Preparatory Acts or Behaviors Toward Suicide Attempt</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS1017A" nciodm:ExtCodeID="C113933">
+                    <nciodm:CDISCSynonym>CSS10-Suicidal Behavior-Life</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - Suicidal behavior was present during the assessment period? (Lifetime).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - Suicidal Behavior (Lifetime)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS1017B" nciodm:ExtCodeID="C113934">
+                    <nciodm:CDISCSynonym>CSS10-Suicidal Behavior-P3M</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - Suicidal behavior was present during the assessment period? (Past 3 Months).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - Suicidal Behavior (Past 3 Months)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS1018A" nciodm:ExtCodeID="C113935">
+                    <nciodm:CDISCSynonym>CSS10-Most Recent Attempt Date</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - Most recent attempt date.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - Most Recent Suicide Attempt Date</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS1018B" nciodm:ExtCodeID="C113936">
+                    <nciodm:CDISCSynonym>CSS10-Most Recent Attempt Damage</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - Most recent attempt actual lethality/medical damage.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - Most Recent Suicide Attempt Actual Lethality/Medical Damage</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS1018C" nciodm:ExtCodeID="C113937">
+                    <nciodm:CDISCSynonym>CSS10-Most Recent Attempt Potential</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - Most recent attempt potential lethality.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - Most Recent Suicide Attempt Potential Lethality</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS1019A" nciodm:ExtCodeID="C113938">
+                    <nciodm:CDISCSynonym>CSS10-Most Lethal Attempt Date</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - Most lethal attempt date.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - Most Lethal Suicide Attempt Date</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS1019B" nciodm:ExtCodeID="C113939">
+                    <nciodm:CDISCSynonym>CSS10-Most Lethal Attempt Damage</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - Most lethal attempt actual lethality/medical damage.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - Most Lethal Suicide Attempt Actual Lethality/Medical Damage</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS1019C" nciodm:ExtCodeID="C113940">
+                    <nciodm:CDISCSynonym>CSS10-Most Lethal Attempt Potential</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - Most lethal attempt potential lethality.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - Most Lethal Suicide Attempt Potential Lethality</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS1020A" nciodm:ExtCodeID="C113941">
+                    <nciodm:CDISCSynonym>CSS10-First Attempt Date</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - Initial/first attempt date.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - First Suicide Attempt Date</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS1020B" nciodm:ExtCodeID="C113942">
+                    <nciodm:CDISCSynonym>CSS10-First Attempt Damage</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - Initial/first attempt actual lethality/medical damage.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - First Suicide Attempt Actual Lethality/Medical Damage</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS1020C" nciodm:ExtCodeID="C113943">
+                    <nciodm:CDISCSynonym>CSS10-First Attempt Potential</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent - Initial/first attempt potential lethality.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent - First Suicide Attempt Potential Lethality</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>CSS10TC</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent Questionnaire Test Code</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Questionnaire C-SSRS Pediatric/Cognitively Impaired Lifetime/Recent Test Code Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

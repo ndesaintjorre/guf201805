@@ -1,0 +1,19 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C124662.TANN02TC" Name="Tanner Scale Boy Clinical Classification Test Code" DataType="text" nciodm:ExtCodeID="C124662" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Tanner Scale Boy test code.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="TANN0201" nciodm:ExtCodeID="C124716">
+                    <nciodm:CDISCSynonym>TANN02-Genitalia Stages</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Tanner Scale Boy - Genitalia stages.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Tanner Scale-Boy - Genitalia Stages</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TANN0202" nciodm:ExtCodeID="C124717">
+                    <nciodm:CDISCSynonym>TANN02-Pubic Hair Stages</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Tanner Scale Boy - Pubic hair stages.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Tanner Scale-Boy - Pubic Hair Stages</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>TANN02TC</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Tanner Scale Boy Clinical Classification Test Code</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Clinical Classification Tanner Scale-Boy Test Code Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

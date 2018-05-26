@@ -1,0 +1,19 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C115391.NHPT01TN" Name="Nine-Hole Peg Test Functional Test Test Name" DataType="text" nciodm:ExtCodeID="C115391" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Nine-Hole Peg Test test name.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="NHPT01-More Than Two Attempts" nciodm:ExtCodeID="C115808">
+                    <nciodm:CDISCSynonym>NHPT01-More Than Two Attempts</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Nine-Hole Peg Test - Did it take more than two attempts to get two successful trials?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NHPT - More Than Two Attempts</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NHPT01-Time to Complete 9-Hole Peg Test" nciodm:ExtCodeID="C115807">
+                    <nciodm:CDISCSynonym>NHPT01-Time to Complete 9-Hole Peg Test</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Nine-Hole Peg Test - Time in seconds to complete 9-Hole Peg Test.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NHPT - Time to Complete 9-Hole Peg Test</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>NHPT01TN</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Nine-Hole Peg Test Functional Test Test Name</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Functional Test NHPT Test Name Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

@@ -4,11 +4,12 @@
                 </Description>
                 <EnumeratedItem CodedValue="DLCO" nciodm:ExtCodeID="C38083">
                     <nciodm:CDISCSynonym>Diffusion Capacity of Lung for CO</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>TLCO</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Transfer Factor of Lung for CO</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The volume of the carbon monoxide that is transferred from inspired air into the pulmonary capillary blood.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Carbon Monoxide Diffusing Capability Test</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="DLCOHC" nciodm:ExtCodeID="C120825">
-                    <nciodm:CDISCSynonym>DLCO Corrected for Hemoglobin</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>HGB Corrected DLCO</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The diffusing capacity of the lungs for carbon monoxide adjusted for hemoglobin concentration.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Hemoglobin Corrected Diffusion Capacity of the Lung for Carbon Monoxide</nciodm:PreferredTerm>
@@ -19,7 +20,6 @@
                     <nciodm:PreferredTerm>Percent Predicted Hemoglobin Corrected Diffusion Capacity of the Lung for Carbon Monoxide</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="DLCOHCVA" nciodm:ExtCodeID="C120827">
-                    <nciodm:CDISCSynonym>DLCO/VA Corrected for Hemoglobin</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>HGB Corrected DLCO/VA</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The diffusing capacity of the lungs for carbon monoxide expressed as a proportion of the alveolar volume, adjusted for hemoglobin concentration.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Hemoglobin Corrected Diffusion Capacity of the Lung for Carbon Monoxide/Alveolar Volume Ratio</nciodm:PreferredTerm>
@@ -148,6 +148,11 @@
                     <nciodm:CDISCSynonym>Functional Residual Capacity</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The volume of air remaining in the lungs after a normal exhalation. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Functional Residual Capacity</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FRCPP" nciodm:ExtCodeID="C126052">
+                    <nciodm:CDISCSynonym>Percent Predicted FRC</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The functional residual capacity as a proportion of the predicted normal value.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Percent Predicted Functional Residual Capacity</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="FVC" nciodm:ExtCodeID="C111361">
                     <nciodm:CDISCSynonym>Forced Vital Capacity</nciodm:CDISCSynonym>

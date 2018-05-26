@@ -1,0 +1,189 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C113862.R3601TC" Name="RAND 36-Item Health Survey 1.0 Questionnaire Test Code" DataType="text" nciodm:ExtCodeID="C113862" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">RAND 36-Item Health Survey 1.0 test code.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="R360101" nciodm:ExtCodeID="C114043">
+                    <nciodm:CDISCSynonym>R3601-Would You Say Your Health Is</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>RAND 36-Item Health Survey 1.0 - In general, would you say your health is:</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>RAND-36 - Rate Your Health</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="R360102" nciodm:ExtCodeID="C114044">
+                    <nciodm:CDISCSynonym>R3601-Health Now Compared to 1 Year Ago</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>RAND 36-Item Health Survey 1.0 - Compared to one year ago, how would you rate your health in general now?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>RAND-36 - Rate Your Health Compared to One Year Ago</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="R360103" nciodm:ExtCodeID="C114045">
+                    <nciodm:CDISCSynonym>R3601-Health Limit Vigorous Activities</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>RAND 36-Item Health Survey 1.0 - Does your health now limit you in these activities: Vigorous activities, such as running, lifting heavy objects, participating in strenuous sports.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>RAND-36 - Health Limit Vigorous Activities</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="R360104" nciodm:ExtCodeID="C114046">
+                    <nciodm:CDISCSynonym>R3601-Health Limit Moderate Activities</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>RAND 36-Item Health Survey 1.0 - Does your health now limit you in these activities: Moderate activities, such as moving a table, pushing a vacuum cleaner, bowling, or playing golf.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>RAND-36 - Health Limit Moderate Activities</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="R360105" nciodm:ExtCodeID="C114047">
+                    <nciodm:CDISCSynonym>R3601-Health Limit Carrying Groceries</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>RAND 36-Item Health Survey 1.0 - Does your health now limit you in these activities: Lifting or carrying groceries.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>RAND-36 - Health Limit Lifting Groceries</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="R360106" nciodm:ExtCodeID="C114048">
+                    <nciodm:CDISCSynonym>R3601-Health Limit Climb Several Flights</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>RAND 36-Item Health Survey 1.0 - Does your health now limit you in these activities: Climbing several flights of stairs.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>RAND-36 - Health Limit Climbing Several Flights</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="R360107" nciodm:ExtCodeID="C114049">
+                    <nciodm:CDISCSynonym>R3601-Health Limit Climb One Flight</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>RAND 36-Item Health Survey 1.0 - Does your health now limit you in these activities: Climbing one flight of stairs.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>RAND-36 - Health Limit Climbing One Flight</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="R360108" nciodm:ExtCodeID="C114050">
+                    <nciodm:CDISCSynonym>R3601-Health Limit Bending or Kneeling</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>RAND 36-Item Health Survey 1.0 - Does your health now limit you in these activities: Bending, kneeling, or stooping.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>RAND-36 - Health Limit Bending or Stooping</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="R360109" nciodm:ExtCodeID="C114051">
+                    <nciodm:CDISCSynonym>R3601-Health Limit Walk More Than Mile</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>RAND 36-Item Health Survey 1.0 - Does your health now limit you in these activities: Walking more than a mile.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>RAND-36 - Health Limit Walking More Than A Mile</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="R360110" nciodm:ExtCodeID="C114052">
+                    <nciodm:CDISCSynonym>R3601-Health Limit Walk Several Blocks</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>RAND 36-Item Health Survey 1.0 - Does your health now limit you in these activities: Walking several blocks.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>RAND-36 - Health Limit Walking Several Blocks</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="R360111" nciodm:ExtCodeID="C114053">
+                    <nciodm:CDISCSynonym>R3601-Health Limit Walk One Block</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>RAND 36-Item Health Survey 1.0 - Does your health now limit you in these activities: Walking one block.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>RAND-36 - Health Limit Walking One Block</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="R360112" nciodm:ExtCodeID="C114054">
+                    <nciodm:CDISCSynonym>R3601-Health Limit Bathing/Dressing Self</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>RAND 36-Item Health Survey 1.0 - Does your health now limit you in these activities: Bathing or dressing yourself.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>RAND-36 - Health Limit Bathing or Dressing</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="R360113" nciodm:ExtCodeID="C114055">
+                    <nciodm:CDISCSynonym>R3601-Phys Health: Cut Work Time</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>RAND 36-Item Health Survey 1.0 - During the past 4 weeks, have you had any of the following problems with your work or other regular daily activities as a result of your physical health: Cut down the amount of time you spent on work or other activities.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>RAND-36 - Physical Health Cut Down Time Spent on Work</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="R360114" nciodm:ExtCodeID="C114056">
+                    <nciodm:CDISCSynonym>R3601-Phys Health: Accomplish Less</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>RAND 36-Item Health Survey 1.0 - During the past 4 weeks, have you had any of the following problems with your work or other regular daily activities as a result of your physical health: Accomplished less than you would like.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>RAND-36 - Physical Health Accomplished Less</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="R360115" nciodm:ExtCodeID="C114057">
+                    <nciodm:CDISCSynonym>R3601-Phys Health: Limit Kind of Work</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>RAND 36-Item Health Survey 1.0 - During the past 4 weeks, have you had any of the following problems with your work or other regular daily activities as a result of your physical health: Were limited in the kind of work or other activities.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>RAND-36 - Physical Health Limited in the Kind of Work</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="R360116" nciodm:ExtCodeID="C114058">
+                    <nciodm:CDISCSynonym>R3601-Phys Health: Difficulty Performing</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>RAND 36-Item Health Survey 1.0 - During the past 4 weeks, have you had any of the following problems with your work or other regular daily activities as a result of your physical health: Had difficulty performing the work or other activities.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>RAND-36 - Physical Health Difficulty Performing Work</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="R360117" nciodm:ExtCodeID="C114059">
+                    <nciodm:CDISCSynonym>R3601-Emotional Problem: Cut Work Time</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>RAND 36-Item Health Survey 1.0 - During the past 4 weeks, have you had any of the following problems with your work or other regular daily activities as a result of any emotional problems: Cut down the amount of time you spent on work or other activities.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>RAND-36 - Emotional Problem Cut Down Time Spent on Work</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="R360118" nciodm:ExtCodeID="C114060">
+                    <nciodm:CDISCSynonym>R3601-Emotional Problem: Accomplish Less</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>RAND 36-Item Health Survey 1.0 - During the past 4 weeks, have you had any of the following problems with your work or other regular daily activities as a result of any emotional problems: Accomplished less than you would like.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>RAND-36 - Emotional Problem Accomplished Less</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="R360119" nciodm:ExtCodeID="C114061">
+                    <nciodm:CDISCSynonym>R3601-Emotional Problem: Less Careful</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>RAND 36-Item Health Survey 1.0 - During the past 4 weeks, have you had any of the following problems with your work or other regular daily activities as a result of any emotional problems: Didn't do work or other activities as carefully as usual.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>RAND-36 - Emotional Problem Did Not Do Work as Carefully</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="R360120" nciodm:ExtCodeID="C114062">
+                    <nciodm:CDISCSynonym>R3601-Extent Interfered Social Activity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>RAND 36-Item Health Survey 1.0 - During the past 4 weeks, to what extent has your physical health or emotional problems interfered with your normal social activities with family, friends, neighbors, or groups?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>RAND-36 - Extend Physical Health or Emotional Problems Interfere With Social Activities</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="R360121" nciodm:ExtCodeID="C114063">
+                    <nciodm:CDISCSynonym>R3601-How Much Bodily Pain Have You Had</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>RAND 36-Item Health Survey 1.0 - How much bodily pain have you had during the past 4 weeks?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>RAND-36 - Bodily Pain</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="R360122" nciodm:ExtCodeID="C114064">
+                    <nciodm:CDISCSynonym>R3601-Did Pain Interfere With Your Work</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>RAND 36-Item Health Survey 1.0 - During the past 4 weeks, how much did pain interfere with your normal work?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>RAND-36 - Pain Interfere With Normal Work</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="R360123" nciodm:ExtCodeID="C114065">
+                    <nciodm:CDISCSynonym>R3601-Did You Feel Full of Pep</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>RAND 36-Item Health Survey 1.0 - How much of the time during the past 4 weeks: Did you feel full of pep?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>RAND-36 - Feel Full of Pep</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="R360124" nciodm:ExtCodeID="C114066">
+                    <nciodm:CDISCSynonym>R3601-Have Been a Very Nervous Person</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>RAND 36-Item Health Survey 1.0 - How much of the time during the past 4 weeks: Have you been a very nervous person?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>RAND-36 - Been a Nervous Person</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="R360125" nciodm:ExtCodeID="C114067">
+                    <nciodm:CDISCSynonym>R3601-Have Felt So Down in the Dumps</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>RAND 36-Item Health Survey 1.0 - How much of the time during the past 4 weeks: Have you felt so down in the dumps that nothing could cheer you up?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>RAND-36 - Felt Nothing Could Cheer You Up</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="R360126" nciodm:ExtCodeID="C114068">
+                    <nciodm:CDISCSynonym>R3601-Have You Felt Calm and Peaceful</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>RAND 36-Item Health Survey 1.0 - How much of the time during the past 4 weeks: Have you felt calm and peaceful?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>RAND-36 - Felt Calm and Peaceful</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="R360127" nciodm:ExtCodeID="C114069">
+                    <nciodm:CDISCSynonym>R3601-Did You Have a Lot of Energy</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>RAND 36-Item Health Survey 1.0 - How much of the time during the past 4 weeks: Did you have a lot of energy?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>RAND-36 - Have a Lot of Energy</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="R360128" nciodm:ExtCodeID="C114070">
+                    <nciodm:CDISCSynonym>R3601-Have Felt Downhearted and Blue</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>RAND 36-Item Health Survey 1.0 - How much of the time during the past 4 weeks: Have you felt downhearted and blue?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>RAND-36 - Felt Downhearted and Blue</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="R360129" nciodm:ExtCodeID="C114071">
+                    <nciodm:CDISCSynonym>R3601-Did You Feel Worn Out</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>RAND 36-Item Health Survey 1.0 - How much of the time during the past 4 weeks: Did you feel worn out?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>RAND-36 - Feel Worn Out</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="R360130" nciodm:ExtCodeID="C114072">
+                    <nciodm:CDISCSynonym>R3601-Have You Been a Happy Person</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>RAND 36-Item Health Survey 1.0 - How much of the time during the past 4 weeks: Have you been a happy person?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>RAND-36 - Been a Happy Person</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="R360131" nciodm:ExtCodeID="C114073">
+                    <nciodm:CDISCSynonym>R3601-Did You Feel Tired</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>RAND 36-Item Health Survey 1.0 - How much of the time during the past 4 weeks: Did you feel tired?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>RAND-36 - Feel Tired</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="R360132" nciodm:ExtCodeID="C114074">
+                    <nciodm:CDISCSynonym>R3601-Amt Time Interfere Social Activity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>RAND 36-Item Health Survey 1.0 - During the past 4 weeks, how much of the time has your physical health or emotional problems interfered with your social activities?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>RAND-36 - Time Physical Health or Emotional Problems Interfere With Social Activities</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="R360133" nciodm:ExtCodeID="C114075">
+                    <nciodm:CDISCSynonym>R3601-Get Sick Easier Than Other People</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>RAND 36-Item Health Survey 1.0 - How TRUE or FALSE is each of the following statements for you: I seem to get sick a little easier than other people.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>RAND-36 - Get Sick Easier Than Other</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="R360134" nciodm:ExtCodeID="C114076">
+                    <nciodm:CDISCSynonym>R3601-I Am as Healthy as Anybody I Know</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>RAND 36-Item Health Survey 1.0 - How TRUE or FALSE is each of the following statements for you: I am as healthy as anybody I know.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>RAND-36 - As Healthy as Anybody</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="R360135" nciodm:ExtCodeID="C114077">
+                    <nciodm:CDISCSynonym>R3601-I Expect My Health to Get Worse</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>RAND 36-Item Health Survey 1.0 - How TRUE or FALSE is each of the following statements for you: I expect my health to get worse.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>RAND-36 - Expect Health to Get Worse</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="R360136" nciodm:ExtCodeID="C114078">
+                    <nciodm:CDISCSynonym>R3601-My Health Is Excellent</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>RAND 36-Item Health Survey 1.0 - How TRUE or FALSE is each of the following statements for you: My health is excellent.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>RAND-36 - My Health is Excellent</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>R3601TC</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>RAND 36-Item Health Survey 1.0 Questionnaire Test Code</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Questionnaire RAND 36-Item Health Survey 1.0 Test Code Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

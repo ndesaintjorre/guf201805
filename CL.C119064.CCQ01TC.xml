@@ -1,0 +1,59 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C119064.CCQ01TC" Name="Clinical COPD Questionnaire 24 Hour Version Questionnaire Test Code" DataType="text" nciodm:ExtCodeID="C119064" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Clinical COPD Questionnaire 24 Hour Version test code.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="CCQ0101" nciodm:ExtCodeID="C119122">
+                    <nciodm:CDISCSynonym>CCQ01-Short of Breath at Rest</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Clinical COPD Questionnaire 24 Hour Version - On average, during the past 24 hours, how often did you feel: Short of breath while at rest?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CCQ 24 Hour Version - Short of Breath at Rest</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CCQ0102" nciodm:ExtCodeID="C119123">
+                    <nciodm:CDISCSynonym>CCQ01-Short of Breath Physical Activity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Clinical COPD Questionnaire 24 Hour Version - On average, during the past 24 hours, how often did you feel: Short of breath while doing physical activities?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CCQ 24 Hour Version - Short of Breath Doing Physical Activity</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CCQ0103" nciodm:ExtCodeID="C119124">
+                    <nciodm:CDISCSynonym>CCQ01-Concern About Breathing Get Worse</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Clinical COPD Questionnaire 24 Hour Version - On average, during the past 24 hours, how often did you feel: Concerned about getting a cold or your breathing getting worse?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CCQ 24 Hour Version - Concern About Breathing Get Worse</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CCQ0104" nciodm:ExtCodeID="C119125">
+                    <nciodm:CDISCSynonym>CCQ01-Depressed for Breathing Problem</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Clinical COPD Questionnaire 24 Hour Version - On average, during the past 24 hours, how often did you feel: Depressed because of your breathing problems?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CCQ 24 Hour Version - Depressed Because of Breathing Problem</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CCQ0105" nciodm:ExtCodeID="C119126">
+                    <nciodm:CDISCSynonym>CCQ01-Cough</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Clinical COPD Questionnaire 24 Hour Version - In general, during the past 24 hours, how much of the time: Did you cough?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CCQ 24 Hour Version - Did You Cough</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CCQ0106" nciodm:ExtCodeID="C119127">
+                    <nciodm:CDISCSynonym>CCQ01-Produce Sputum or Phlegm</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Clinical COPD Questionnaire 24 Hour Version - In general, during the past 24 hours, how much of the time: Did you produce sputum or phlegm?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CCQ 24 Hour Version - Produce Sputum or Phlegm</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CCQ0107" nciodm:ExtCodeID="C119128">
+                    <nciodm:CDISCSynonym>CCQ01-Breathing Limit Strenuous Activity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Clinical COPD Questionnaire 24 Hour Version - On average, during the past 24 hours, how limited were you in these activities because of your breathing problems: Strenuous physical activities?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CCQ 24 Hour Version - Breathing Problems Limit Strenuous Activity</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CCQ0108" nciodm:ExtCodeID="C119129">
+                    <nciodm:CDISCSynonym>CCQ01-Breathing Limit Moderate Activity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Clinical COPD Questionnaire 24 Hour Version - On average, during the past 24 hours, how limited were you in these activities because of your breathing problems: Moderate physical activities?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CCQ 24 Hour Version - Breathing Problems Limit Moderate Activity</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CCQ0109" nciodm:ExtCodeID="C119130">
+                    <nciodm:CDISCSynonym>CCQ01-Breathing Limit Daily Activity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Clinical COPD Questionnaire 24 Hour Version - On average, during the past 24 hours, how limited were you in these activities because of your breathing problems: Daily activities at home?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CCQ 24 Hour Version - Breathing Problems Limit Daily Activity</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CCQ0110" nciodm:ExtCodeID="C119131">
+                    <nciodm:CDISCSynonym>CCQ01-Breathing Limit Social Activity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Clinical COPD Questionnaire 24 Hour Version - On average, during the past 24 hours, how limited were you in these activities because of your breathing problems: Social activities?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CCQ 24 Hour Version - Breathing Problems Limit Social Activity</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>CCQ01TC</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Clinical COPD Questionnaire 24 Hour Version Questionnaire Test Code</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Questionnaire CCQ 24 Hour Version Test Code Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

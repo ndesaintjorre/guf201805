@@ -1,0 +1,14 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C111348.MRS01TC" Name="Modified Rankin Scale Questionnaire Test Code" DataType="text" nciodm:ExtCodeID="C111348" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Modified Rankin Scale test code.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="MRS0101" nciodm:ExtCodeID="C111520">
+                    <nciodm:CDISCSynonym>MRS01-Modified Rankin Scale Score</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Modified Rankin Scale - Modified Rankin Scale Score.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MRS - Modified Rankin Scale Score</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>MRS01TC</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Modified Rankin Scale Questionnaire Test Code</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Questionnaire MRS Test Code Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

@@ -39,6 +39,11 @@
                     <nciodm:CDISCDefinition>A measurement of the abnormal cells in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Abnormal Cell Count</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="ABO" nciodm:ExtCodeID="C125939">
+                    <nciodm:CDISCSynonym>ABO Blood Group</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The characterization of the blood type of an individual by testing for the presence of A antigen and B antigen on the surface of red blood cells.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ABO Blood Group Determination</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="ACANT" nciodm:ExtCodeID="C74699">
                     <nciodm:CDISCSynonym>Acanthocytes</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the acanthocytes in a biological specimen.</nciodm:CDISCDefinition>
@@ -132,7 +137,7 @@
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="AFACTXAA" nciodm:ExtCodeID="C98706">
                     <nciodm:CDISCSynonym>Anti-Factor Xa Activity</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A measurement of the anti-activated Factor X in a biological specimen. This test is used to monitor low molecular weight or unfractionated heparin levels in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A measurement of the ability of antithrombin to inactivate activated Factor X in a biological specimen. This test is used to monitor low molecular weight or unfractionated heparin levels in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Anti-Factor Xa Activity Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="AFP" nciodm:ExtCodeID="C74732">
@@ -343,6 +348,12 @@
                     <nciodm:CDISCSynonym>Amyloid Beta 42 Protein</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of amyloid beta protein which is composed of peptides 1 to 42 in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Beta Amyloid 42 Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="AMYLOIDA" nciodm:ExtCodeID="C125940">
+                    <nciodm:CDISCSynonym>Amyloid A</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Serum Amyloid A</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the total amyloid a (official name is Serum Amyloid A) in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Amyloid A Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="AMYLOIDB" nciodm:ExtCodeID="C81999">
                     <nciodm:CDISCSynonym>Amyloid, Beta</nciodm:CDISCSynonym>
@@ -995,16 +1006,6 @@
                     <nciodm:CDISCDefinition>A measurement of the total butyrylcholinesterase in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Butyrylcholinesterase Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
-                <EnumeratedItem CodedValue="BUN" nciodm:ExtCodeID="C61019">
-                    <nciodm:CDISCSynonym>Blood Urea Nitrogen</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A measurement of the urea nitrogen in a blood specimen.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Blood Urea Nitrogen Measurement</nciodm:PreferredTerm>
-                </EnumeratedItem>
-                <EnumeratedItem CodedValue="BUNCREAT" nciodm:ExtCodeID="C74753">
-                    <nciodm:CDISCSynonym>BUN/Creatinine</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A relative measurement (ratio or percentage) (ratio) of the blood urea nitrogen (BUN) to the creatinine in a biological specimen.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Blood Urea Nitrogen To Creatinine Ratio Measurement</nciodm:PreferredTerm>
-                </EnumeratedItem>
                 <EnumeratedItem CodedValue="BUPREN" nciodm:ExtCodeID="C75352">
                     <nciodm:CDISCSynonym>Buprenorphine</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the buprenorphine drug present in a biological specimen.</nciodm:CDISCDefinition>
@@ -1128,6 +1129,16 @@
                     <nciodm:CDISCSynonym>Calcium, Ionized</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the ionized calcium in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Ionized Calcium Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CAIONPH" nciodm:ExtCodeID="C125941">
+                    <nciodm:CDISCSynonym>Calcium, Ionized pH Adjusted</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the pH adjusted ionized calcium in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Ionized pH Adjusted Calcium Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CALB" nciodm:ExtCodeID="C125942">
+                    <nciodm:CDISCSynonym>Calbindin</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the total calbindin in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Calbindin Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="CALPRO" nciodm:ExtCodeID="C82005">
                     <nciodm:CDISCSynonym>Calprotectin</nciodm:CDISCSynonym>
@@ -1407,6 +1418,11 @@
                     <nciodm:CDISCSynonym>Carbohydrate-Deficient Transferrin</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of transferrin with a reduced number of carbohydrate moieties in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Carbohydrate-Deficient Transferrin Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CDTTFRN" nciodm:ExtCodeID="C125943">
+                    <nciodm:CDISCSynonym>Carb-Deficient Transferrin/Transferrin</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A relative measurement (ratio or percentage) of the carbohydrate-deficient transferrin to total transferrin in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Carbohydrate-Deficient Transferrin to Transferrin Ratio Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="CEA" nciodm:ExtCodeID="C81983">
                     <nciodm:CDISCSynonym>Carcinoembryonic Antigen</nciodm:CDISCSynonym>
@@ -2181,7 +2197,7 @@
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="DTPACLR" nciodm:ExtCodeID="C100441">
                     <nciodm:CDISCSynonym>DTPA Clearance</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A measurement of the volume of serum or plasma that would be cleared of Diethylenetriamine pentaacetate (DTPA) through its excretion for a specified unit of time.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A measurement of the volume of serum or plasma that would be cleared of Diethylenetriamine pentaacetate (DTPA) by excretion of urine for a specified unit of time (e.g. one minute).</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Diethylene Triamine Pentaacetic Acid Clearance</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="EBCIGGAB" nciodm:ExtCodeID="C96600">
@@ -2245,7 +2261,7 @@
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="EDTACLR" nciodm:ExtCodeID="C100440">
                     <nciodm:CDISCSynonym>EDTA Clearance</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A measurement of the volume of serum or plasma that would be cleared of Ethylenediamine tetraacetic acid (EDTA) through its excretion for a specified unit of time.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A measurement of the volume of serum or plasma that would be cleared of Ethylenediamine tetraacetic acid (EDTA) by excretion of urine for a specified unit of time (e.g. one minute).</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>EDTA Clearance</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="EGF" nciodm:ExtCodeID="C82009">
@@ -3177,6 +3193,11 @@
                     <nciodm:CDISCDefinition>A relative measurement (ratio or percentage) of the glycosylated hemoglobin to total hemoglobin in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Hemoglobin A1C to Hemoglobin Ratio Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="HBAB" nciodm:ExtCodeID="C125944">
+                    <nciodm:CDISCSynonym>Hepatitis B Virus Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of an unspecified hepatitis B antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Hepatitis B Virus Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="HBCAB" nciodm:ExtCodeID="C96660">
                     <nciodm:CDISCSynonym>Hepatitis B Virus Core Antibody</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the hepatitis B virus core antibody in a biological specimen.</nciodm:CDISCDefinition>
@@ -4079,10 +4100,20 @@
                     <nciodm:CDISCDefinition>A measurement of the interleukin 9 in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Interleukin 9 Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="INULIN" nciodm:ExtCodeID="C125945">
+                    <nciodm:CDISCSynonym>Inulin</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the inulin in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Inulin Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="IOHEXCLR" nciodm:ExtCodeID="C100439">
                     <nciodm:CDISCSynonym>Iohexol Clearance</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A measurement of the volume of serum or plasma that would be cleared of Iohexol through excretion for a specified unit of time.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A measurement of the volume of serum or plasma that would be cleared of Iohexol by excretion of urine for a specified unit of time (e.g. one minute).</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Iohexol Clearance</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IOHEXOL" nciodm:ExtCodeID="C125946">
+                    <nciodm:CDISCSynonym>Iohexol</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of iohexol in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Iohexol Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="IOTCLR" nciodm:ExtCodeID="C98749">
                     <nciodm:CDISCSynonym>Iothalamate Clearance</nciodm:CDISCSynonym>
@@ -4166,6 +4197,7 @@
                     <nciodm:PreferredTerm>Kidney Injury Molecule-1 Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="KLCFR" nciodm:ExtCodeID="C98730">
+                    <nciodm:CDISCSynonym>Bence-Jones, Kappa</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Kappa Light Chain, Free</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the free kappa light chain in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Free Kappa Light Chain Measurement</nciodm:PreferredTerm>
@@ -4196,6 +4228,11 @@
                     <nciodm:CDISCSynonym>Lactic Acid</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the lactic acid in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Lactic Acid Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LAM" nciodm:ExtCodeID="C125947">
+                    <nciodm:CDISCSynonym>Lipoarabinomannan</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the lipoarabinomannan in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Lipoarabinomannan Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="LAP" nciodm:ExtCodeID="C122132">
                     <nciodm:CDISCSynonym>Leucine Aminopeptidase</nciodm:CDISCSynonym>
@@ -4400,6 +4437,7 @@
                     <nciodm:PreferredTerm>Liver Kidney Microsomal Type 1 IgM Antibody Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="LLCFR" nciodm:ExtCodeID="C98732">
+                    <nciodm:CDISCSynonym>Bence-Jones, Lambda</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Lambda Light Chain, Free</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the free lambda light chain in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Free Lambda Light Chain Measurement</nciodm:PreferredTerm>
@@ -6158,19 +6196,29 @@
                     <nciodm:PreferredTerm>Rheumatoid Factor Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="RFIGAAB" nciodm:ExtCodeID="C120652">
-                    <nciodm:CDISCSynonym>Rheumatoid Factor Antibody IgA</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Rheumatoid Factor IgA Antibody</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the rheumatoid factor IgA antibody in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Rheumatoid Factor Antibody IgA Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="RFIGGAB" nciodm:ExtCodeID="C120653">
-                    <nciodm:CDISCSynonym>Rheumatoid Factor Antibody IgG</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Rheumatoid Factor IgG Antibody</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the rheumatoid factor IgG antibody in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Rheumatoid Factor Antibody IgG Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="RFIGMAB" nciodm:ExtCodeID="C120654">
-                    <nciodm:CDISCSynonym>Rheumatoid Factor Antibody IgM</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Rheumatoid Factor IgM Antibody</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the rheumatoid factor IgM antibody in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Rheumatoid Factor Antibody IgM Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="RH" nciodm:ExtCodeID="C92948">
+                    <nciodm:CDISCSynonym>Rh Factor</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of non-specified Rhesus factor antigen(s) in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Rh Factor Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="RHD" nciodm:ExtCodeID="C125948">
+                    <nciodm:CDISCSynonym>RhD Factor</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Rhesus factor D antigen in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>RhD Factor Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="RLP" nciodm:ExtCodeID="C120655">
                     <nciodm:CDISCSynonym>RLP Cholesterol</nciodm:CDISCSynonym>
@@ -6867,6 +6915,16 @@
                     <nciodm:CDISCSynonym>Urea/Creatinine</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A relative measurement (ratio or percentage) of the urea to creatinine in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Urea to Creatinine Ratio Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UREAN" nciodm:ExtCodeID="C125949">
+                    <nciodm:CDISCSynonym>Urea Nitrogen</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the urea nitrogen in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Urea Nitrogen Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UREANCRT" nciodm:ExtCodeID="C125950">
+                    <nciodm:CDISCSynonym>Urea Nitrogen/Creatinine</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A relative measurement (ratio or percentage) of the urea nitrogen to creatinine in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Urea Nitrogen to Creatinine Ratio Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="UROBIL" nciodm:ExtCodeID="C64816">
                     <nciodm:CDISCSynonym>Urobilinogen</nciodm:CDISCSynonym>

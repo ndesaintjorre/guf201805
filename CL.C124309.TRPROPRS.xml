@@ -15,6 +15,10 @@
                     <nciodm:CDISCDefinition>Open to question.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Equivocal</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="NON-PATHOLOGICAL" nciodm:ExtCodeID="C126054">
+                    <nciodm:CDISCDefinition>The absence of disease or pathology. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Non-Pathological</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="NONPALPABLE" nciodm:ExtCodeID="C124445">
                     <nciodm:CDISCDefinition>Incapable of being handled, touched or felt through palpation. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Non-Palpable</nciodm:PreferredTerm>
@@ -23,9 +27,17 @@
                     <nciodm:CDISCDefinition>Capable of being handled, touched or felt through palpation. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Palpable</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="PATHOLOGICAL" nciodm:ExtCodeID="C25610">
+                    <nciodm:CDISCDefinition>Manifesting disease or pathology.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Pathologic</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="PRESENT" nciodm:ExtCodeID="C25626">
                     <nciodm:CDISCDefinition>Being or existing in a specified place or at the specified time. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Present</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PRESENT WITHOUT UNEQUIVOCAL PROGRESSION" nciodm:ExtCodeID="C126055">
+                    <nciodm:CDISCDefinition>There is evidence of disease without any indication or sign of unequivocal progression.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Present Without Unequivocal Progression</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="UNEQUIVOCAL" nciodm:ExtCodeID="C123645">
                     <nciodm:CDISCDefinition>Leaving no doubt; not open to question. (NCI)</nciodm:CDISCDefinition>

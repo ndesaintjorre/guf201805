@@ -1,0 +1,64 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C112443.KFSS1TC" Name="Kurtzke Functional Systems Scores Questionnaire Test Code" DataType="text" nciodm:ExtCodeID="C112443" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Kurtzke Functional Systems Scores test code.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="KFSS101" nciodm:ExtCodeID="C112609">
+                    <nciodm:CDISCSynonym>KFSS1-Pyramidal Functions</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Kurtzke Functional Systems Scores - Pyramidal functions.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>KFSS - Pyramidal Functions</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="KFSS102" nciodm:ExtCodeID="C112610">
+                    <nciodm:CDISCSynonym>KFSS1-Cerebellar Functions</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Kurtzke Functional Systems Scores - Cerebellar functions.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>KFSS - Cerebellar Functions</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="KFSS102A" nciodm:ExtCodeID="C112611">
+                    <nciodm:CDISCSynonym>KFSS1-Weakness Interferes With Testing</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Kurtzke Functional Systems Scores - Check here when weakness (grade 3 or more on pyramidal) interferes with testing.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>KFSS - Weakness Interferes With Testing</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="KFSS103" nciodm:ExtCodeID="C112612">
+                    <nciodm:CDISCSynonym>KFSS1-Brain Stem Functions</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Kurtzke Functional Systems Scores - Brain stem functions.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>KFSS - Brain Stem Functions</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="KFSS104" nciodm:ExtCodeID="C112613">
+                    <nciodm:CDISCSynonym>KFSS1-Sensory Functions</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Kurtzke Functional Systems Scores - Sensory functions.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>KFSS - Sensory Functions</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="KFSS105" nciodm:ExtCodeID="C112614">
+                    <nciodm:CDISCSynonym>KFSS1-Bowel and Bladder Functions</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Kurtzke Functional Systems Scores - Bowel and bladder functions.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>KFSS - Bowel and Bladder Functions</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="KFSS106" nciodm:ExtCodeID="C112615">
+                    <nciodm:CDISCSynonym>KFSS1-Visual or Optic Functions</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Kurtzke Functional Systems Scores - Visual (or optic) functions.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>KFSS - Visual (or Optic) Functions</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="KFSS106A" nciodm:ExtCodeID="C112616">
+                    <nciodm:CDISCSynonym>KFSS1-Presence of Temporal Pallor</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Kurtzke Functional Systems Scores - Check here for presence of temporal pallor.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>KFSS - Presence of Temporal Pallor</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="KFSS107" nciodm:ExtCodeID="C112617">
+                    <nciodm:CDISCSynonym>KFSS1-Cerebral or Mental Functions</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Kurtzke Functional Systems Scores - Cerebral (or mental) functions.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>KFSS - Cerebral (or Mental) Functions</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="KFSS108" nciodm:ExtCodeID="C113884">
+                    <nciodm:CDISCSynonym>KFSS1-Other Functions</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Kurtzke Functional Systems Scores - Other functions.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>KFSS - Other Functions</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="KFSS108A" nciodm:ExtCodeID="C113885">
+                    <nciodm:CDISCSynonym>KFSS1-Other Functions Specify</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Kurtzke Functional Systems Scores - Any other neurologic findings attributed to MS (specify).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>KFSS - Other Functions Specify</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>KFSS1TC</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Kurtzke Functional Systems Scores Questionnaire Test Code</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Questionnaire KFSS Test Code Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

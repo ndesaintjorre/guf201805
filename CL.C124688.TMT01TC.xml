@@ -1,0 +1,19 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C124688.TMT01TC" Name="Trail Making Test Functional Test Test Code" DataType="text" nciodm:ExtCodeID="C124688" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Trail Making Test test code.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="TMT0101" nciodm:ExtCodeID="C124780">
+                    <nciodm:CDISCSynonym>TMT01-Time to Complete Trails A</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Trail Making Test - Time (in seconds) to complete Trails A.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>TMT - Time to Complete Trails A</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TMT0102" nciodm:ExtCodeID="C124781">
+                    <nciodm:CDISCSynonym>TMT01-Time to Complete Trails B</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Trail Making Test - Time (in seconds) to complete Trails B.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>TMT - Time to Complete Trails B</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>TMT01TC</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Trail Making Test Functional Test Test Code</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Functional Test TMT Test Code Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

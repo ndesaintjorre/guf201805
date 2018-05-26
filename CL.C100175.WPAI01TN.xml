@@ -1,0 +1,39 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C100175.WPAI01TN" Name="Work Productivity and Activity Impairment Questionnaire - Specific Health Problem V2.0 Questionnaire Test Name" DataType="text" nciodm:ExtCodeID="C100175" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Work Productivity and Activity Impairment Questionnaire - Specific Health Problem V2.0 test name.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="WPAI01-Currently Employed" nciodm:ExtCodeID="C100949">
+                    <nciodm:CDISCSynonym>WPAI01-Currently Employed</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Work Productivity and Activity Impairment Questionnaire - Specific Health Problem V2.0 - Are you currently employed (working for pay)?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WPAI:SHP v2.0 - Currently Employed</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WPAI01-Hours Actually Worked" nciodm:ExtCodeID="C100952">
+                    <nciodm:CDISCSynonym>WPAI01-Hours Actually Worked</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Work Productivity and Activity Impairment Questionnaire - Specific Health Problem V2.0 - During the past seven days, how many hours did you actually work?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WPAI:SHP v2.0 - Hours Actually Worked</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WPAI01-Missed Work Hours Due to Other" nciodm:ExtCodeID="C100951">
+                    <nciodm:CDISCSynonym>WPAI01-Missed Work Hours Due to Other</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Work Productivity and Activity Impairment Questionnaire - Specific Health Problem V2.0 - During the past seven days, how many hours did you miss from work because of any other reason, such as vacation, holidays, time off to participate in this study?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WPAI:SHP v2.0 - Missed Work Hours Due to Other Reasons</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WPAI01-Missed Work Hours Due to Problem" nciodm:ExtCodeID="C100950">
+                    <nciodm:CDISCSynonym>WPAI01-Missed Work Hours Due to Problem</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Work Productivity and Activity Impairment Questionnaire - Specific Health Problem V2.0 - During the past seven days, how many hours did you miss from work because of problems associated with your problem?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WPAI:SHP v2.0 - Missed Work Hours Due to Problem</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WPAI01-Problem Affect Productivity" nciodm:ExtCodeID="C100953">
+                    <nciodm:CDISCSynonym>WPAI01-Problem Affect Productivity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Work Productivity and Activity Impairment Questionnaire - Specific Health Problem V2.0 - During the past seven days, how much did your problem affect your productivity while you were working?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WPAI:SHP v2.0 - Problem Affects Productivity</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WPAI01-Problem Affect Reg Daily Activity" nciodm:ExtCodeID="C100954">
+                    <nciodm:CDISCSynonym>WPAI01-Problem Affect Reg Daily Activity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Work Productivity and Activity Impairment Questionnaire - Specific Health Problem V2.0 - During the past seven days, how much did your problem affect your ability to do your regular daily activities, other than work at a job?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>WPAI:SHP v2.0 - Problem Affects Regular Daily Activity</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>WPAI01TN</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Work Productivity and Activity Impairment Questionnaire - Specific Health Problem V2.0 Questionnaire Test Name</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Questionnaire WPAI:SHP v2.0 Test Name Terminology</nciodm:PreferredTerm>
+            </CodeList>
+        

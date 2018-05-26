@@ -1,0 +1,104 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C100138.HAMD1TC" Name="Hamilton Depression Rating Scale - 17 Item Questionnaire Test Code" DataType="text" nciodm:ExtCodeID="C100138" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">The Hamilton Depression Rating Scale - 17 Item test code.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="HAMD101" nciodm:ExtCodeID="C100398">
+                    <nciodm:CDISCSynonym>HAMD1-Depressed Mood</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hamilton Depression Rating Scale 17 Item - Depressed mood: sadness, hopeless, helpless, worthless.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAMD-17 - Depressed Mood</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAMD102" nciodm:ExtCodeID="C100399">
+                    <nciodm:CDISCSynonym>HAMD1-Feelings of Guilt</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hamilton Depression Rating Scale 17 Item - Feelings of guilt.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAMD-17 - Feelings of Guilt</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAMD103" nciodm:ExtCodeID="C100400">
+                    <nciodm:CDISCSynonym>HAMD1-Suicide</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hamilton Depression Rating Scale 17 Item - Suicide.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAMD-17 - Suicide</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAMD104" nciodm:ExtCodeID="C100401">
+                    <nciodm:CDISCSynonym>HAMD1-Insomnia Early - Early Night</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hamilton Depression Rating Scale 17 Item - Insomnia: early in the night.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAMD-17 - Insomnia - Early Night</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAMD105" nciodm:ExtCodeID="C100402">
+                    <nciodm:CDISCSynonym>HAMD1-Insomnia Middle - Middle Night</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hamilton Depression Rating Scale 17 Item - Insomnia: middle of the night.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAMD-17 - Insomnia - Middle Night</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAMD106" nciodm:ExtCodeID="C100403">
+                    <nciodm:CDISCSynonym>HAMD1-Insomnia Early Hours - Morning</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hamilton Depression Rating Scale 17 Item - Insomnia: early hours of the morning.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAMD-17 - Insomnia - Early Morning</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAMD107" nciodm:ExtCodeID="C100404">
+                    <nciodm:CDISCSynonym>HAMD1-Work and Activities</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hamilton Depression Rating Scale 17 Item - Work and activities.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAMD-17 - Work and Activities</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAMD108" nciodm:ExtCodeID="C100405">
+                    <nciodm:CDISCSynonym>HAMD1-Retardation</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hamilton Depression Rating Scale 17 Item - Retardation.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAMD-17 - Retardation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAMD109" nciodm:ExtCodeID="C100406">
+                    <nciodm:CDISCSynonym>HAMD1-Agitation</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hamilton Depression Rating Scale 17 Item - Agitation.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAMD-17 - Agitation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAMD110" nciodm:ExtCodeID="C100407">
+                    <nciodm:CDISCSynonym>HAMD1-Anxiety Psychic</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hamilton Depression Rating Scale 17 Item - Anxiety psychic.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAMD-17 - Psychic Anxiety</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAMD111" nciodm:ExtCodeID="C100408">
+                    <nciodm:CDISCSynonym>HAMD1-Anxiety Somatic</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hamilton Depression Rating Scale 17 Item - Anxiety somatic: physiological concomitants of anxiety such as gastro-intestinal (dry mouth, wind, indigestion, diarrhea, cramps, belching), cardiovascular (palpitations, headaches), respiratory (hyperventilation, sighing), urinary frequency, sweating.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAMD-17 - Somatic Anxiety</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAMD112" nciodm:ExtCodeID="C100409">
+                    <nciodm:CDISCSynonym>HAMD1-Somatic Symptoms GI</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hamilton Depression Rating Scale 17 Item - Somatic symptoms gastro-intestinal.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAMD-17 - Gastrointestinal Somatic Symptoms</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAMD113" nciodm:ExtCodeID="C100410">
+                    <nciodm:CDISCSynonym>HAMD1-General Somatic Symptoms</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hamilton Depression Rating Scale 17 Item - General somatic symptoms.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAMD-17 - General Somatic Symptoms</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAMD114" nciodm:ExtCodeID="C100411">
+                    <nciodm:CDISCSynonym>HAMD1-Genital Symptoms</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hamilton Depression Rating Scale 17 Item - Genital symptoms: symptoms such as loss of libido, menstrual disturbances.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAMD-17 - Genital Symptoms</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAMD115" nciodm:ExtCodeID="C100412">
+                    <nciodm:CDISCSynonym>HAMD1-Hypochondriasis</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hamilton Depression Rating Scale 17 Item - Hypochondriasis.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAMD-17 - Hypochondriasis</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAMD116A" nciodm:ExtCodeID="C100413">
+                    <nciodm:CDISCSynonym>HAMD1-Loss of WT According to Patient</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hamilton Depression Rating Scale 17 Item - Loss of weight according to the patient.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAMD-17 - Loss of Weight According to Patient</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAMD116B" nciodm:ExtCodeID="C100414">
+                    <nciodm:CDISCSynonym>HAMD1-Loss of WT According to WK Meas</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hamilton Depression Rating Scale 17 Item - Loss of weight according to weekly measurements.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAMD-17 - Loss of Weight According to Weekly Measurements</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAMD117" nciodm:ExtCodeID="C100415">
+                    <nciodm:CDISCSynonym>HAMD1-Insight</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hamilton Depression Rating Scale 17 Item - Insight.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAMD-17 - Insight</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAMD118" nciodm:ExtCodeID="C100416">
+                    <nciodm:CDISCSynonym>HAMD1-Total Score</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hamilton Depression Rating Scale 17 Item - Total Score.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAMD-17 - Total Score</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>HAMD1TC</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Hamilton Depression Rating Scale - 17 Item Questionnaire Test Code</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Questionnaire HAMD 17 Test Code Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

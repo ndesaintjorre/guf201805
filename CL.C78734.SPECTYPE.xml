@@ -99,6 +99,10 @@
                     <nciodm:CDISCDefinition>The clear portion of the blood that remains after the removal of the blood cells and the clotting proteins from the cord blood of a newborn baby.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Umbilical Cord Serum</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="DERMAL TISSUE" nciodm:ExtCodeID="C12701">
+                    <nciodm:CDISCDefinition>The cells and connective tissue from the inner layer of the two main layers of the skin. The dermis has connective tissue, blood vessels, oil and sweat glands, nerves, hair follicles, and other structures. It is made up of a thin upper layer called the papillary dermis, and a thick lower layer called the reticular dermis.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Dermis</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="DIALYSIS FLUID" nciodm:ExtCodeID="C106515">
                     <nciodm:CDISCSynonym>Dialysate</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The fluid which runs through a dialysis machine and captures, for discard or analysis, the excess water and waste from the blood stream through diffusion and ultrafiltration. (NCI)</nciodm:CDISCDefinition>
@@ -110,13 +114,22 @@
                     <nciodm:CDISCDefinition>Stomach contents that have returned to the mouth or are ejected beyond the mouth. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Vomitus</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="EPIDERMAL TISSUE" nciodm:ExtCodeID="C12708">
+                    <nciodm:CDISCDefinition>The cells and connective tissue from the epithelial portion of the skin (cutis). It consists of the following layers: stratum corneum (horny layer), stratum granulosum (granular layer), stratum spinosum (prickle cell layer), and stratum basale (basal cell layer).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Epidermis</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="ERYTHROCYTES" nciodm:ExtCodeID="C12521">
                     <nciodm:CDISCSynonym>RBC</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Red Blood Cells</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Cell specialized for oxygen transport, having a high concentration of hemoglobin in the cytoplasm and little else; biconcave, anucleate discs, 7nm diameter in mammals.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Erythrocyte</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="EXHALED BREATH CONDENSATE" nciodm:ExtCodeID="C126053">
+                    <nciodm:CDISCDefinition>Expired air that has been condensed.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Exhaled Breath Condensate</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="EXPIRED AIR" nciodm:ExtCodeID="C78741">
+                    <nciodm:CDISCSynonym>Expired Breath</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The air that moves out of the chest during expiration. It contains a higher percentage of carbon dioxide and a lower percentage of oxygen compared to the inhaled air. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Expired Air</nciodm:PreferredTerm>
                 </EnumeratedItem>
@@ -193,6 +206,10 @@
                     <nciodm:CDISCDefinition>The discharged blood from the uterus during the reproductive years. The discharge occurs approximately once a month. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Menstrual Blood</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="MONOCYTE" nciodm:ExtCodeID="C12547">
+                    <nciodm:CDISCDefinition>A large, phagocytic mononuclear leukocyte produced in the vertebrate bone marrow and released into the blood; containing a large, oval or somewhat indented nucleus surrounded by voluminous cytoplasm and numerous organelles.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Monocyte</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="MUCUS" nciodm:ExtCodeID="C13259">
                     <nciodm:CDISCDefinition>The thick fluid secreted by the mucus glands in the aerodigestive tract and the vagina. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Mucus</nciodm:PreferredTerm>
@@ -232,7 +249,6 @@
                     <nciodm:PreferredTerm>Platelet-rich Plasma</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="PLEURAL FLUID" nciodm:ExtCodeID="C77613">
-                    <nciodm:CDISCSynonym>Pleural Fluid</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The fluid that is abnormally collected in the pleural cavity. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Pleural Fluid</nciodm:PreferredTerm>
                 </EnumeratedItem>
@@ -266,10 +282,18 @@
                     <nciodm:CDISCDefinition>The clear portion of the blood that remains after the removal of the blood cells and the clotting proteins. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Serum</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="SERUM OR PLASMA" nciodm:ExtCodeID="C105706">
+                    <nciodm:CDISCDefinition>The non-cellular portion of the circulating blood, with or without the clotting proteins present.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Serum or Plasma</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="SKELETAL MUSCLE TISSUE" nciodm:ExtCodeID="C13050">
                     <nciodm:CDISCSynonym>Skeletal Muscle Tissue</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Striated muscles that are under voluntary control of the organism. They are connected at either or both ends to a bone and are utilized for locomotion and other movements. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Skeletal Muscle Tissue</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SKIN TISSUE" nciodm:ExtCodeID="C33563">
+                    <nciodm:CDISCDefinition>Tissue composed of three layers, epidermis, dermis and subcutis which protect underlying muscles and organs.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Skin Tissue</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="SMEGMA" nciodm:ExtCodeID="C33574">
                     <nciodm:CDISCDefinition>A white secretion of the sebaceous glands of the foreskin. (NCI)</nciodm:CDISCDefinition>
@@ -283,6 +307,11 @@
                     <nciodm:CDISCSynonym>Soft Tissue</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Refers to muscle, fat, fibrous tissue, blood vessels or other supporting tissue of the body.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Soft Tissue</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SPERMATOZOON" nciodm:ExtCodeID="C12602">
+                    <nciodm:CDISCSynonym>Sperm Cell</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The male reproductive cell that is formed in the testicle. A sperm consists of a head, a body, and a tail that provides propulsion.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Spermatozoon</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="SPUTUM" nciodm:ExtCodeID="C13278">
                     <nciodm:CDISCDefinition>Material containing mucus, cellular debris, microorganisms and sometimes blood or pus. It is ejected through the mouth from the lungs, bronchi, and trachea. (NCI)</nciodm:CDISCDefinition>

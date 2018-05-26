@@ -1,0 +1,354 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C100161.BPI1TN" Name="Brief Pain Inventory Questionnaire Test Name" DataType="text" nciodm:ExtCodeID="C100161" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Brief Pain Inventory test name.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="BPI1-Aching" nciodm:ExtCodeID="C100316">
+                    <nciodm:CDISCSynonym>BPI1-Aching</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Pain Inventory - Check Yes or No if the adjective applies to your pain: aching.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BPI - Aching</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BPI1-Area Hurts Most" nciodm:ExtCodeID="C100302">
+                    <nciodm:CDISCSynonym>BPI1-Area Hurts Most</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Pain Inventory - On the diagram, put an X on the area that hurts the most.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BPI - Area Hurts Most</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BPI1-Areas of Pain" nciodm:ExtCodeID="C100301">
+                    <nciodm:CDISCSynonym>BPI1-Areas of Pain</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Pain Inventory - On the diagram, shade in the areas where you feel pain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BPI - Areas of Pain</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BPI1-Biofeedback to Relieve Pain" nciodm:ExtCodeID="C100351">
+                    <nciodm:CDISCSynonym>BPI1-Biofeedback to Relieve Pain</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Pain Inventory - Other methods I use to relieve pain include: biofeedback.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BPI - Biofeedback to Relieve Pain</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BPI1-Burning" nciodm:ExtCodeID="C100323">
+                    <nciodm:CDISCSynonym>BPI1-Burning</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Pain Inventory - Check Yes or No if the adjective applies to your pain: burning.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BPI - Burning</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BPI1-Cold Compresses to Relieve Pain" nciodm:ExtCodeID="C100348">
+                    <nciodm:CDISCSynonym>BPI1-Cold Compresses to Relieve Pain</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Pain Inventory - Other methods I use to relieve pain include: cold compresses.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BPI - Cold Compresses to Relieve Pain</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BPI1-Concerned Use Too Much Pain Med" nciodm:ExtCodeID="C100342">
+                    <nciodm:CDISCSynonym>BPI1-Concerned Use Too Much Pain Med</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Pain Inventory - Are you concerned that you use too much pain medication?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BPI - Concerned with Too Much Pain Medication Use</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BPI1-Current Job Status" nciodm:ExtCodeID="C100292">
+                    <nciodm:CDISCSynonym>BPI1-Current Job Status</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Pain Inventory - Which of the following best describes your current job status?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BPI - Current Job Status</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BPI1-Current Occupation" nciodm:ExtCodeID="C100290">
+                    <nciodm:CDISCSynonym>BPI1-Current Occupation</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Pain Inventory - Current occupation.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BPI - Current Occupation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BPI1-Describe Unrelated Med Condition" nciodm:ExtCodeID="C100315">
+                    <nciodm:CDISCSynonym>BPI1-Describe Unrelated Med Condition</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Pain Inventory - I believe my pain is due to a medical condition unrelated to my primary disease. Please describe condition.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BPI - Describe Unrelated Medical Condition</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BPI1-Distraction to Relieve Pain" nciodm:ExtCodeID="C100350">
+                    <nciodm:CDISCSynonym>BPI1-Distraction to Relieve Pain</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Pain Inventory - Other methods I use to relieve pain include: distraction.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BPI - Distraction to Relieve Pain</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BPI1-Education" nciodm:ExtCodeID="C100288">
+                    <nciodm:CDISCSynonym>BPI1-Education</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Pain Inventory - Education.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BPI - Education</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BPI1-Exhausting" nciodm:ExtCodeID="C100324">
+                    <nciodm:CDISCSynonym>BPI1-Exhausting</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Pain Inventory - Check Yes or No if the adjective applies to your pain: exhausting.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BPI - Exhausting</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BPI1-Gnawing" nciodm:ExtCodeID="C100320">
+                    <nciodm:CDISCSynonym>BPI1-Gnawing</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Pain Inventory - Check Yes or No if the adjective applies to your pain: gnawing.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BPI - Gnawing</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BPI1-Hours before Pain Returns" nciodm:ExtCodeID="C100311">
+                    <nciodm:CDISCSynonym>BPI1-Hours before Pain Returns</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Pain Inventory - If you take pain medication, how many hours does it take before the pain returns?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BPI - Hours before Pain Returns</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BPI1-How Long Since Diagnosis" nciodm:ExtCodeID="C100293">
+                    <nciodm:CDISCSynonym>BPI1-How Long Since Diagnosis</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Pain Inventory - How long has it been since you first learned your diagnosis?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BPI - How Long Since Diagnosis</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BPI1-Hypnosis to Relieve Pain" nciodm:ExtCodeID="C100352">
+                    <nciodm:CDISCSynonym>BPI1-Hypnosis to Relieve Pain</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Pain Inventory - Other methods I use to relieve pain include: hypnosis.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BPI - Hypnosis to Relieve Pain</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BPI1-Kind of Surgery in Past Month" nciodm:ExtCodeID="C100297">
+                    <nciodm:CDISCSynonym>BPI1-Kind of Surgery in Past Month</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Pain Inventory - What kind of surgery have you had in the past month?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BPI - Kind of Surgery in Past Month</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BPI1-Marital Status" nciodm:ExtCodeID="C100287">
+                    <nciodm:CDISCSynonym>BPI1-Marital Status</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Pain Inventory - Marital status.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BPI - Marital Status</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BPI1-Meds not Prescribed Taken for Pain" nciodm:ExtCodeID="C100355">
+                    <nciodm:CDISCSynonym>BPI1-Meds not Prescribed Taken for Pain</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Pain Inventory - Medications not prescribed by my doctor that I take for pain are.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BPI - Medications not Prescribed Taken for Pain</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BPI1-Miserable" nciodm:ExtCodeID="C100329">
+                    <nciodm:CDISCSynonym>BPI1-Miserable</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Pain Inventory - Check Yes or No if the adjective applies to your pain: miserable.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BPI - Miserable</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BPI1-Nagging" nciodm:ExtCodeID="C100327">
+                    <nciodm:CDISCSynonym>BPI1-Nagging</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Pain Inventory - Check Yes or No if the adjective applies to your pain: nagging.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BPI - Nagging</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BPI1-Need Further Info about Pain Med" nciodm:ExtCodeID="C100346">
+                    <nciodm:CDISCSynonym>BPI1-Need Further Info about Pain Med</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Pain Inventory - Do you feel you need to receive further information about your pain medication?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BPI - Need Further Information about Pain Medication</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BPI1-Need more Pain Med than Prescribed" nciodm:ExtCodeID="C100341">
+                    <nciodm:CDISCSynonym>BPI1-Need more Pain Med than Prescribed</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Pain Inventory - Do you feel you need to take more of the pain medication than your doctor has prescribed?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BPI - Need more Pain Medication than Prescribed</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BPI1-Need Stronger Type of Pain Med" nciodm:ExtCodeID="C100340">
+                    <nciodm:CDISCSynonym>BPI1-Need Stronger Type of Pain Med</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Pain Inventory - Do you feel you need a stronger type of pain medication?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BPI - Need Stronger Type of Pain Medication</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BPI1-Numb" nciodm:ExtCodeID="C100328">
+                    <nciodm:CDISCSynonym>BPI1-Numb</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Pain Inventory - Check Yes or No if the adjective applies to your pain: numb.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BPI - Numb</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BPI1-Other specify to Relieve Pain" nciodm:ExtCodeID="C100354">
+                    <nciodm:CDISCSynonym>BPI1-Other specify to Relieve Pain</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Pain Inventory - Other methods I use to relieve pain include: other. Please specify.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BPI - Specified Other Method to Relieve Pain</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BPI1-Other to Relieve Pain" nciodm:ExtCodeID="C100353">
+                    <nciodm:CDISCSynonym>BPI1-Other to Relieve Pain</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Pain Inventory - Other methods I use to relieve pain include: other.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BPI - Other Methods to Relieve Pain</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BPI1-Pain at its Least in Last Week" nciodm:ExtCodeID="C100304">
+                    <nciodm:CDISCSynonym>BPI1-Pain at its Least in Last Week</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Pain Inventory - Please rate your pain by circling the one number that best describes your pain at its least in the last week.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BPI - Pain at its Least in Last Week</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BPI1-Pain at its Worst in Last Week" nciodm:ExtCodeID="C100303">
+                    <nciodm:CDISCSynonym>BPI1-Pain at its Worst in Last Week</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Pain Inventory - Please rate your pain by circling the one number that best describes your pain at its worst in the last week.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BPI - Pain at its Worst in Last Week</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BPI1-Pain Due to Effects of Treatment" nciodm:ExtCodeID="C100312">
+                    <nciodm:CDISCSynonym>BPI1-Pain Due to Effects of Treatment</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Pain Inventory - I believe my pain is due to the effects of treatment.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BPI - Pain Due to Effects of Treatment</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BPI1-Pain Due to Present Disease" nciodm:ExtCodeID="C100294">
+                    <nciodm:CDISCSynonym>BPI1-Pain Due to Present Disease</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Pain Inventory - Have you ever had pain due to your present disease?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BPI - Pain Due to Present Disease</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BPI1-Pain Due to Primary Disease" nciodm:ExtCodeID="C100313">
+                    <nciodm:CDISCSynonym>BPI1-Pain Due to Primary Disease</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Pain Inventory - I believe my pain is due to my primary disease.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BPI - Pain Due to Primary Disease</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BPI1-Pain Due to Unrelated Med Condition" nciodm:ExtCodeID="C100314">
+                    <nciodm:CDISCSynonym>BPI1-Pain Due to Unrelated Med Condition</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Pain Inventory - I believe my pain is due to a medical condition unrelated to my primary disease.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BPI - Pain Due to Unrelated Medical Condition</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BPI1-Pain Interfered Enjoyment of Life" nciodm:ExtCodeID="C100337">
+                    <nciodm:CDISCSynonym>BPI1-Pain Interfered Enjoyment of Life</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Pain Inventory - Circle the one number that describes how, during the past week, pain has interfered with your enjoyment of life.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BPI - Pain Interfered with Enjoyment of Life</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BPI1-Pain Interfered General Activity" nciodm:ExtCodeID="C100331">
+                    <nciodm:CDISCSynonym>BPI1-Pain Interfered General Activity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Pain Inventory - Circle the one number that describes how, during the past week, pain has interfered with your general activity.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BPI - Pain Interfered with General Activity</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BPI1-Pain Interfered Walking Ability" nciodm:ExtCodeID="C100333">
+                    <nciodm:CDISCSynonym>BPI1-Pain Interfered Walking Ability</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Pain Inventory - Circle the one number that describes how, during the past week, pain has interfered with your walking ability.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BPI - Pain Interfered with Walking Ability</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BPI1-Pain Interfered with Mood" nciodm:ExtCodeID="C100332">
+                    <nciodm:CDISCSynonym>BPI1-Pain Interfered with Mood</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Pain Inventory - Circle the one number that describes how, during the past week, pain has interfered with your mood.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BPI - Pain Interfered with Mood</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BPI1-Pain Interfered with Normal Work" nciodm:ExtCodeID="C100334">
+                    <nciodm:CDISCSynonym>BPI1-Pain Interfered with Normal Work</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Pain Inventory - Circle the one number that describes how, during the past week, pain has interfered with your normal work.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BPI - Pain Interfered with Normal Work</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BPI1-Pain Interfered with Relations" nciodm:ExtCodeID="C100335">
+                    <nciodm:CDISCSynonym>BPI1-Pain Interfered with Relations</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Pain Inventory - Circle the one number that describes how, during the past week, pain has interfered with your relations with other people.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BPI - Pain Interfered with Relations</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BPI1-Pain Interfered with Sleep" nciodm:ExtCodeID="C100336">
+                    <nciodm:CDISCSynonym>BPI1-Pain Interfered with Sleep</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Pain Inventory - Circle the one number that describes how, during the past week, pain has interfered with your sleep.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BPI - Pain Interfered with Sleep</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BPI1-Pain Medications in the Last 7 Days" nciodm:ExtCodeID="C100299">
+                    <nciodm:CDISCSynonym>BPI1-Pain Medications in the Last 7 Days</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Pain Inventory - Did you take pain medications in the last 7 days?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BPI - Pain Medications in the Last 7 Days</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BPI1-Pain on the Average" nciodm:ExtCodeID="C100305">
+                    <nciodm:CDISCSynonym>BPI1-Pain on the Average</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Pain Inventory - Please rate your pain by circling the one number that best describes your pain on the average.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BPI - Pain on the Average</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BPI1-Pain One of Your Symptoms" nciodm:ExtCodeID="C100295">
+                    <nciodm:CDISCSynonym>BPI1-Pain One of Your Symptoms</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Pain Inventory - When you first received your diagnosis, was pain one of your symptoms?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BPI - Pain as a Symptom</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BPI1-Pain Other than Everyday Kinds" nciodm:ExtCodeID="C100298">
+                    <nciodm:CDISCSynonym>BPI1-Pain Other than Everyday Kinds</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Pain Inventory - Have you had pain other than these everyday kinds of pain during the last week?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BPI - Pain Other than Everyday Kinds</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BPI1-Pain Requires Medication Daily" nciodm:ExtCodeID="C100300">
+                    <nciodm:CDISCSynonym>BPI1-Pain Requires Medication Daily</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Pain Inventory - I feel I have some form of pain that requires medication each and every day.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BPI - Pain Requires Medication Daily</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BPI1-Pain Right Now" nciodm:ExtCodeID="C100306">
+                    <nciodm:CDISCSynonym>BPI1-Pain Right Now</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Pain Inventory - Please rate your pain by circling the one number that tells how much pain you have right now.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BPI - Pain Right Now</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BPI1-Penetrating" nciodm:ExtCodeID="C100326">
+                    <nciodm:CDISCSynonym>BPI1-Penetrating</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Pain Inventory - Check Yes or No if the adjective applies to your pain: penetrating.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BPI - Penetrating</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BPI1-Prefer to Take Pain Medicine" nciodm:ExtCodeID="C100338">
+                    <nciodm:CDISCSynonym>BPI1-Prefer to Take Pain Medicine</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Pain Inventory - I prefer to take my pain medicine.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BPI - Prefer to Take Pain Medicine</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BPI1-Problems with Side Effects Pain Med" nciodm:ExtCodeID="C100344">
+                    <nciodm:CDISCSynonym>BPI1-Problems with Side Effects Pain Med</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Pain Inventory - Are you having problems with side effects from your pain medication?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BPI - Problems with Side Effects Pain Medication</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BPI1-Professional Degree" nciodm:ExtCodeID="C100289">
+                    <nciodm:CDISCSynonym>BPI1-Professional Degree</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Pain Inventory - Education. Professional degree.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BPI - Professional Degree</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BPI1-Relaxation Techniques Relieve Pain" nciodm:ExtCodeID="C100349">
+                    <nciodm:CDISCSynonym>BPI1-Relaxation Techniques Relieve Pain</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Pain Inventory - Other methods I use to relieve pain include: relaxation techniques.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BPI - Relaxation Techniques Relieve Pain</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BPI1-Relief Pain Treatments Provided" nciodm:ExtCodeID="C100310">
+                    <nciodm:CDISCSynonym>BPI1-Relief Pain Treatments Provided</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Pain Inventory - In the last week, how much relief have pain treatments or medications provided? Please circle the one percentage that most shows how much relief you have received.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BPI - Relief Pain Treatments Provided</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BPI1-Sharp" nciodm:ExtCodeID="C100321">
+                    <nciodm:CDISCSynonym>BPI1-Sharp</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Pain Inventory - Check Yes or No if the adjective applies to your pain: sharp.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BPI - Sharp</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BPI1-Shooting" nciodm:ExtCodeID="C100318">
+                    <nciodm:CDISCSynonym>BPI1-Shooting</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Pain Inventory - Check Yes or No if the adjective applies to your pain: shooting.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BPI - Shooting</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BPI1-Spouse's Occupation" nciodm:ExtCodeID="C100291">
+                    <nciodm:CDISCSynonym>BPI1-Spouse's Occupation</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Pain Inventory - Spouse's occupation.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BPI - Spouse's Occupation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BPI1-Stabbing" nciodm:ExtCodeID="C100319">
+                    <nciodm:CDISCSynonym>BPI1-Stabbing</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Pain Inventory - Check Yes or No if the adjective applies to your pain: stabbing.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BPI - Stabbing</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BPI1-Surgery in Past Month" nciodm:ExtCodeID="C100296">
+                    <nciodm:CDISCSynonym>BPI1-Surgery in Past Month</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Pain Inventory - Have you had surgery in the past month?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BPI - Surgery in Past Month</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BPI1-Take my Pain Medicine" nciodm:ExtCodeID="C100339">
+                    <nciodm:CDISCSynonym>BPI1-Take my Pain Medicine</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Pain Inventory - I take my pain medicine (in a 24 hour period).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BPI - Take my Pain Medicine</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BPI1-Tender" nciodm:ExtCodeID="C100322">
+                    <nciodm:CDISCSynonym>BPI1-Tender</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Pain Inventory - Check Yes or No if the adjective applies to your pain: tender.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BPI - Tender</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BPI1-Things that Make Pain Feel Better" nciodm:ExtCodeID="C100307">
+                    <nciodm:CDISCSynonym>BPI1-Things that Make Pain Feel Better</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Pain Inventory - What kinds of things make your pain feel better?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BPI - Things that Make Pain Feel Better</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BPI1-Things that Make your Pain Worse" nciodm:ExtCodeID="C100308">
+                    <nciodm:CDISCSynonym>BPI1-Things that Make your Pain Worse</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Pain Inventory - What kinds of things make your pain feel worse?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BPI - Things that Make your Pain Worse</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BPI1-Throbbing" nciodm:ExtCodeID="C100317">
+                    <nciodm:CDISCSynonym>BPI1-Throbbing</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Pain Inventory - Check Yes or No if the adjective applies to your pain: throbbing.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BPI - Throbbing</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BPI1-Tiring" nciodm:ExtCodeID="C100325">
+                    <nciodm:CDISCSynonym>BPI1-Tiring</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Pain Inventory - Check Yes or No if the adjective applies to your pain: tiring.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BPI - Tiring</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BPI1-Treatments Receiving for Pain" nciodm:ExtCodeID="C100309">
+                    <nciodm:CDISCSynonym>BPI1-Treatments Receiving for Pain</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Pain Inventory - What treatments or medications are you receiving for your pain?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BPI - Treatments Receiving for Pain</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BPI1-Unbearable" nciodm:ExtCodeID="C100330">
+                    <nciodm:CDISCSynonym>BPI1-Unbearable</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Pain Inventory - Check Yes or No if the adjective applies to your pain: unbearable.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BPI - Unbearable</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BPI1-Warm Compresses to Relieve Pain" nciodm:ExtCodeID="C100347">
+                    <nciodm:CDISCSynonym>BPI1-Warm Compresses to Relieve Pain</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Pain Inventory - Other methods I use to relieve pain include: warm compresses.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BPI - Warm Compresses to Relieve Pain</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BPI1-Which Side Effects from Pain Med" nciodm:ExtCodeID="C100345">
+                    <nciodm:CDISCSynonym>BPI1-Which Side Effects from Pain Med</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Pain Inventory - Are you having problems with side effects from your pain medication? Which side effects?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BPI - What Side Effects from Pain Medication</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BPI1-Why Concerned Use Too Much Pain Med" nciodm:ExtCodeID="C100343">
+                    <nciodm:CDISCSynonym>BPI1-Why Concerned Use Too Much Pain Med</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Pain Inventory - Are you concerned that you use too much pain medication? If Yes, why?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BPI - Why Concerned with Too Much Pain Medication Use</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>BPI1TN</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Brief Pain Inventory Questionnaire Test Name</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Questionnaire BPI Test Name Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

@@ -1,0 +1,309 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C117988.CSS11TN" Name="Columbia-Suicide Severity Rating Scale Lifetime/Recent Version Questionnaire Test Name" DataType="text" nciodm:ExtCodeID="C117988" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Columbia-Suicide Severity Rating Scale Lifetime/Recent Version test name.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="CSS11-Aborted Attempt, Describe" nciodm:ExtCodeID="C118064">
+                    <nciodm:CDISCSynonym>CSS11-Aborted Attempt, Describe</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Description of aborted or self-interrupted attempt.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Lifetime/Recent Version - Description of Aborted Suicide Attempt</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS11-Aborted Attempt-Life" nciodm:ExtCodeID="C118060">
+                    <nciodm:CDISCSynonym>CSS11-Aborted Attempt-Life</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Has there been a time when you started to do something to try to end your life but you stopped yourself before you actually did anything? (Lifetime).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Lifetime/Recent Version - Aborted Suicide Attempt (Lifetime)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS11-Aborted Attempt-P3M" nciodm:ExtCodeID="C118061">
+                    <nciodm:CDISCSynonym>CSS11-Aborted Attempt-P3M</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Has there been a time when you started to do something to try to end your life but you stopped yourself before you actually did anything? (Past 3 Months).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Lifetime/Recent Version - Aborted Suicide Attempt (Past 3 Months)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS11-Actual Attempt, Describe" nciodm:ExtCodeID="C118052">
+                    <nciodm:CDISCSynonym>CSS11-Actual Attempt, Describe</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Description of actual attempt.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Lifetime/Recent Version - Description of Actual Suicide Attempt</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS11-Actual Attempt-Life" nciodm:ExtCodeID="C118048">
+                    <nciodm:CDISCSynonym>CSS11-Actual Attempt-Life</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Have you made a suicide attempt? Have you done anything to harm yourself? Have you done anything dangerous where you could have died? (Lifetime).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Lifetime/Recent Version - Actual Suicide Attempt (Lifetime)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS11-Actual Attempt-P3M" nciodm:ExtCodeID="C118049">
+                    <nciodm:CDISCSynonym>CSS11-Actual Attempt-P3M</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Have you made a suicide attempt? Have you done anything to harm yourself? Have you done anything dangerous where you could have died? (Past 3 Months).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Lifetime/Recent Version - Actual Suicide Attempt (Past 3 Months)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS11-First Attempt Damage" nciodm:ExtCodeID="C118077">
+                    <nciodm:CDISCSynonym>CSS11-First Attempt Damage</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Initial/first attempt actual lethality/medical damage.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Lifetime/Recent Version - First Suicide Attempt Actual Lethality/Medical Damage</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS11-First Attempt Date" nciodm:ExtCodeID="C118076">
+                    <nciodm:CDISCSynonym>CSS11-First Attempt Date</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Initial/first attempt date.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Lifetime/Recent Version - First Suicide Attempt Date</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS11-First Attempt Potential" nciodm:ExtCodeID="C118078">
+                    <nciodm:CDISCSynonym>CSS11-First Attempt Potential</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Initial/first attempt potential lethality.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Lifetime/Recent Version - First Suicide Attempt Potential Lethality</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS11-Idea, Intent, No Plan, Describe" nciodm:ExtCodeID="C118030">
+                    <nciodm:CDISCSynonym>CSS11-Idea, Intent, No Plan, Describe</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Description of active suicidal ideation with some intent to act, without specific plan.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Lifetime/Recent Version - Description of Active Suicidal Ideation with Some Intent to Act, without Specific Plan</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS11-Idea, Intent, No Plan-Life" nciodm:ExtCodeID="C118028">
+                    <nciodm:CDISCSynonym>CSS11-Idea, Intent, No Plan-Life</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Have you had these thoughts and had some intention of acting on them? (Lifetime).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Lifetime/Recent Version - Active Suicidal Ideation with Some Intent to Act, without Specific Plan (Lifetime)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS11-Idea, Intent, No Plan-P1M" nciodm:ExtCodeID="C118029">
+                    <nciodm:CDISCSynonym>CSS11-Idea, Intent, No Plan-P1M</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Have you had these thoughts and had some intention of acting on them? (Past 1 Month).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Lifetime/Recent Version - Active Suicidal Ideation with Some Intent to Act, without Specific Plan (Past 1 Month)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS11-Idea, No Intent, No Plan, Describe" nciodm:ExtCodeID="C118027">
+                    <nciodm:CDISCSynonym>CSS11-Idea, No Intent, No Plan, Describe</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Description of active suicidal ideation with any methods (not plan) without intent to act.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Lifetime/Recent Version - Description of Active Suicidal Ideation with Any Methods (Not Plan) without Intent to Act</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS11-Idea, No Intent, No Plan-Life" nciodm:ExtCodeID="C118025">
+                    <nciodm:CDISCSynonym>CSS11-Idea, No Intent, No Plan-Life</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Have you been thinking about how you might do this? (Lifetime).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Lifetime/Recent Version - Active Suicidal Ideation with Any Methods (Not Plan) without Intent to Act (Lifetime)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS11-Idea, No Intent, No Plan-P1M" nciodm:ExtCodeID="C118026">
+                    <nciodm:CDISCSynonym>CSS11-Idea, No Intent, No Plan-P1M</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Have you been thinking about how you might do this? (Past 1 Month).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Lifetime/Recent Version - Active Suicidal Ideation with Any Methods (Not Plan) without Intent to Act (Past 1 Month)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS11-Idea, Plan, Intent, Describe" nciodm:ExtCodeID="C118033">
+                    <nciodm:CDISCSynonym>CSS11-Idea, Plan, Intent, Describe</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Description of active suicidal ideation with specific plan and intent.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Lifetime/Recent Version - Description of Active Suicidal Ideation with Specific Plan and Intent</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS11-Idea, Plan, Intent-Life" nciodm:ExtCodeID="C118031">
+                    <nciodm:CDISCSynonym>CSS11-Idea, Plan, Intent-Life</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Have you started to work out or worked out the details of how to kill yourself? Do you intend to carry out this plan? (Lifetime).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Lifetime/Recent Version - Active Suicidal Ideation with Specific Plan and Intent (Lifetime)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS11-Idea, Plan, Intent-P1M" nciodm:ExtCodeID="C118032">
+                    <nciodm:CDISCSynonym>CSS11-Idea, Plan, Intent-P1M</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Have you started to work out or worked out the details of how to kill yourself? Do you intend to carry out this plan? (Past 1 Month).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Lifetime/Recent Version - Active Suicidal Ideation with Specific Plan and Intent (Past 1 Month)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS11-Interrupted Attempt, Describe" nciodm:ExtCodeID="C118059">
+                    <nciodm:CDISCSynonym>CSS11-Interrupted Attempt, Describe</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Description of interrupted attempt.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Lifetime/Recent Version - Description of Interrupted Suicide Attempt</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS11-Interrupted Attempt-Life" nciodm:ExtCodeID="C118055">
+                    <nciodm:CDISCSynonym>CSS11-Interrupted Attempt-Life</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Has there been a time when you started to do something to end your life but someone or something stopped you before you actually did anything? (Lifetime).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Lifetime/Recent Version - Interrupted Suicide Attempt (Lifetime)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS11-Interrupted Attempt-P3M" nciodm:ExtCodeID="C118056">
+                    <nciodm:CDISCSynonym>CSS11-Interrupted Attempt-P3M</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Has there been a time when you started to do something to end your life but someone or something stopped you before you actually did anything? (Past 3 Months).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Lifetime/Recent Version - Interrupted Suicide Attempt (Past 3 Months)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS11-Most Lethal Attempt Damage" nciodm:ExtCodeID="C118074">
+                    <nciodm:CDISCSynonym>CSS11-Most Lethal Attempt Damage</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Most lethal attempt actual lethality/medical damage.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Lifetime/Recent Version - Most Lethal Suicide Attempt Actual Lethality/Medical Damage</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS11-Most Lethal Attempt Date" nciodm:ExtCodeID="C118073">
+                    <nciodm:CDISCSynonym>CSS11-Most Lethal Attempt Date</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Most lethal attempt date.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Lifetime/Recent Version - Most Lethal Suicide Attempt Date</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS11-Most Lethal Attempt Potential" nciodm:ExtCodeID="C118075">
+                    <nciodm:CDISCSynonym>CSS11-Most Lethal Attempt Potential</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Most lethal attempt potential lethality.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Lifetime/Recent Version - Most Lethal Suicide Attempt Potential Lethality</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS11-Most Recent Attempt Damage" nciodm:ExtCodeID="C118071">
+                    <nciodm:CDISCSynonym>CSS11-Most Recent Attempt Damage</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Most recent attempt actual lethality/medical damage.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Lifetime/Recent Version - Most Recent Suicide Attempt Actual Lethality/Medical Damage</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS11-Most Recent Attempt Date" nciodm:ExtCodeID="C118070">
+                    <nciodm:CDISCSynonym>CSS11-Most Recent Attempt Date</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Most recent attempt date.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Lifetime/Recent Version - Most Recent Suicide Attempt Date</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS11-Most Recent Attempt Potential" nciodm:ExtCodeID="C118072">
+                    <nciodm:CDISCSynonym>CSS11-Most Recent Attempt Potential</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Most recent attempt potential lethality.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Lifetime/Recent Version - Most Recent Suicide Attempt Potential Lethality</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS11-Most Severe Idea, Control-Life" nciodm:ExtCodeID="C118042">
+                    <nciodm:CDISCSynonym>CSS11-Most Severe Idea, Control-Life</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Could/can you stop thinking about killing yourself or wanting to die if you want to? (Lifetime).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Lifetime/Recent Version - Controllability of Most Severe Ideation (Lifetime)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS11-Most Severe Idea, Control-P1M" nciodm:ExtCodeID="C118043">
+                    <nciodm:CDISCSynonym>CSS11-Most Severe Idea, Control-P1M</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Could/can you stop thinking about killing yourself or wanting to die if you want to? (Past 1 Month).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Lifetime/Recent Version - Controllability of Most Severe Ideation (Past 1 Month)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS11-Most Severe Idea, Desc-Life" nciodm:ExtCodeID="C118035">
+                    <nciodm:CDISCSynonym>CSS11-Most Severe Idea, Desc-Life</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Description of most severe ideation. (Lifetime).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Lifetime/Recent Version - Describe Most Severe Ideation (Lifetime)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS11-Most Severe Idea, Desc-Recent-P1M" nciodm:ExtCodeID="C118037">
+                    <nciodm:CDISCSynonym>CSS11-Most Severe Idea, Desc-Recent-P1M</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Description of most severe ideation. (Recent - Past 1 Month).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Lifetime/Recent Version - Describe Recent Most Severe Ideation (Past 1 Month)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS11-Most Severe Idea, Deterrents-Life" nciodm:ExtCodeID="C118044">
+                    <nciodm:CDISCSynonym>CSS11-Most Severe Idea, Deterrents-Life</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Are there things - anyone or anything (e.g., family, religion, pain of death) - that stopped you from wanting to die or acting on thoughts of committing suicide? (Lifetime).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Lifetime/Recent Version - Deterrents to Most Severe Ideation (Lifetime)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS11-Most Severe Idea, Deterrents-P1M" nciodm:ExtCodeID="C118045">
+                    <nciodm:CDISCSynonym>CSS11-Most Severe Idea, Deterrents-P1M</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Are there things - anyone or anything (e.g., family, religion, pain of death) - that stopped you from wanting to die or acting on thoughts of committing suicide? (Past 1 Month).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Lifetime/Recent Version - Deterrents to Most Severe Ideation (Past 1 Month)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS11-Most Severe Idea, Duration-Life" nciodm:ExtCodeID="C118040">
+                    <nciodm:CDISCSynonym>CSS11-Most Severe Idea, Duration-Life</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - When you have the thoughts how long do they last? (Lifetime).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Lifetime/Recent Version - Duration of Most Severe Ideation (Lifetime)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS11-Most Severe Idea, Duration-P1M" nciodm:ExtCodeID="C118041">
+                    <nciodm:CDISCSynonym>CSS11-Most Severe Idea, Duration-P1M</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - When you have the thoughts how long do they last? (Past 1 Month).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Lifetime/Recent Version - Duration of Most Severe Ideation (Past 1 Month)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS11-Most Severe Idea, Frequency-Life" nciodm:ExtCodeID="C118038">
+                    <nciodm:CDISCSynonym>CSS11-Most Severe Idea, Frequency-Life</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - How many times have you had these thoughts? (Lifetime).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Lifetime/Recent Version - Frequency of Most Severe Ideation (Lifetime)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS11-Most Severe Idea, Frequency-P1M" nciodm:ExtCodeID="C118039">
+                    <nciodm:CDISCSynonym>CSS11-Most Severe Idea, Frequency-P1M</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - How many times have you had these thoughts? (Past 1 Month).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Lifetime/Recent Version - Frequency of Most Severe Ideation (Past 1 Month)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS11-Most Severe Idea, Reasons-Life" nciodm:ExtCodeID="C118046">
+                    <nciodm:CDISCSynonym>CSS11-Most Severe Idea, Reasons-Life</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - What sort of reasons did you have for thinking about wanting to die or killing yourself? Was it to end the pain or stop the way you were feeling (in other words you couldn't go on living with this pain or how you were feeling) or was it to get attention, revenge or a reaction from others? Or both? (Lifetime).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Lifetime/Recent Version - Reasons for Most Severe Ideation (Lifetime)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS11-Most Severe Idea, Reasons-P1M" nciodm:ExtCodeID="C118047">
+                    <nciodm:CDISCSynonym>CSS11-Most Severe Idea, Reasons-P1M</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - What sort of reasons did you have for thinking about wanting to die or killing yourself? Was it to end the pain or stop the way you were feeling (in other words you couldn't go on living with this pain or how you were feeling) or was it to get attention, revenge or a reaction from others? Or both? (Past 1 Month).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Lifetime/Recent Version - Reasons for Most Severe Ideation (Past 1 Month)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS11-Most Severe Idea-Life" nciodm:ExtCodeID="C118034">
+                    <nciodm:CDISCSynonym>CSS11-Most Severe Idea-Life</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Most severe ideation. (Lifetime).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Lifetime/Recent Version - Most Severe Ideation (Lifetime)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS11-Most Severe Idea-Recent-P1M" nciodm:ExtCodeID="C118036">
+                    <nciodm:CDISCSynonym>CSS11-Most Severe Idea-Recent-P1M</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Most severe ideation. (Recent - Past 1 Month).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Lifetime/Recent Version - Recent Most Severe Ideation (Past 1 Month)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS11-Non-Spec Suicid Thought, Describe" nciodm:ExtCodeID="C118024">
+                    <nciodm:CDISCSynonym>CSS11-Non-Spec Suicid Thought, Describe</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Description of non-specific active suicidal thoughts.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Lifetime/Recent Version - Description of Non-Specific Active Suicidal Thoughts</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS11-Non-Spec Suicid Thought-Life" nciodm:ExtCodeID="C118022">
+                    <nciodm:CDISCSynonym>CSS11-Non-Spec Suicid Thought-Life</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Have you actually had any thoughts of killing yourself? (Lifetime).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Lifetime/Recent Version - Non-Specific Active Suicidal Thoughts (Lifetime)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS11-Non-Spec Suicid Thought-P1M" nciodm:ExtCodeID="C118023">
+                    <nciodm:CDISCSynonym>CSS11-Non-Spec Suicid Thought-P1M</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Have you actually had any thoughts of killing yourself? (Past 1 Month).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Lifetime/Recent Version - Non-Specific Active Suicidal Thoughts (Past 1 Months)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS11-Non-suicid Self-injur Behav-Life" nciodm:ExtCodeID="C118053">
+                    <nciodm:CDISCSynonym>CSS11-Non-suicid Self-injur Behav-Life</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Has subject engaged in non-suicidal self-injurious behavior? (Lifetime).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Lifetime/Recent Version - Non-suicidal Self-injurious Behavior (Lifetime)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS11-Non-suicid Self-injur Behav-P3M" nciodm:ExtCodeID="C118054">
+                    <nciodm:CDISCSynonym>CSS11-Non-suicid Self-injur Behav-P3M</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Has subject engaged in non-suicidal self-injurious behavior? (Past 3 Months).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Lifetime/Recent Version - Non-suicidal Self-injurious Behavior (Past 3 Months)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS11-Num of Interrupted Attempts-Life" nciodm:ExtCodeID="C118057">
+                    <nciodm:CDISCSynonym>CSS11-Num of Interrupted Attempts-Life</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Total number of interrupted attempts. (Lifetime).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Lifetime/Recent Version - Number of Interrupted Suicide Attempts (Lifetime)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS11-Num of Interrupted Attempts-P3M" nciodm:ExtCodeID="C118058">
+                    <nciodm:CDISCSynonym>CSS11-Num of Interrupted Attempts-P3M</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Total number of interrupted attempts. (Past 3 Months).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Lifetime/Recent Version - Number of Interrupted Suicide Attempts (Past 3 Months)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS11-Number of Aborted Attempts-Life" nciodm:ExtCodeID="C118062">
+                    <nciodm:CDISCSynonym>CSS11-Number of Aborted Attempts-Life</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Total number of aborted or self-interrupted attempts. (Lifetime).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Lifetime/Recent Version - Number of Aborted Suicide Attempts (Lifetime)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS11-Number of Aborted Attempts-P3M" nciodm:ExtCodeID="C118063">
+                    <nciodm:CDISCSynonym>CSS11-Number of Aborted Attempts-P3M</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Total number of aborted or self-interrupted attempts. (Past 3 Months).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Lifetime/Recent Version - Number of Aborted Suicide Attempts (Past 3 Months)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS11-Number of Actual Attempts-Life" nciodm:ExtCodeID="C118050">
+                    <nciodm:CDISCSynonym>CSS11-Number of Actual Attempts-Life</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Total number of actual attempts. (Lifetime).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Lifetime/Recent Version - Number of Actual Suicide Attempts (Lifetime)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS11-Number of Actual Attempts-P3M" nciodm:ExtCodeID="C118051">
+                    <nciodm:CDISCSynonym>CSS11-Number of Actual Attempts-P3M</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Total number of actual attempts. (Past 3 Months).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Lifetime/Recent Version - Number of Actual Suicide Attempts (Past 3 Months)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS11-Preparatory Acts/Behavior, Descr" nciodm:ExtCodeID="C118067">
+                    <nciodm:CDISCSynonym>CSS11-Preparatory Acts/Behavior, Descr</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Description of preparatory acts or behavior.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Lifetime/Recent Version - Description of Preparatory Acts or Behaviors Toward Suicide Attempt</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS11-Preparatory Acts/Behavior-Life" nciodm:ExtCodeID="C118065">
+                    <nciodm:CDISCSynonym>CSS11-Preparatory Acts/Behavior-Life</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Have you taken any steps towards making a suicide attempt or preparing to kill yourself (such as collecting pills, getting a gun, giving valuables away or writing a suicide note)? (Lifetime).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Lifetime/Recent Version - Preparatory Acts or Behaviors Toward Suicide Attempt (Lifetime)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS11-Preparatory Acts/Behavior-P3M" nciodm:ExtCodeID="C118066">
+                    <nciodm:CDISCSynonym>CSS11-Preparatory Acts/Behavior-P3M</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Have you taken any steps towards making a suicide attempt or preparing to kill yourself (such as collecting pills, getting a gun, giving valuables away or writing a suicide note)? (Past 3 Months).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Lifetime/Recent Version - Preparatory Acts or Behaviors Toward Suicide Attempt (Past 3 Months)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS11-Suicidal Behavior-Life" nciodm:ExtCodeID="C118068">
+                    <nciodm:CDISCSynonym>CSS11-Suicidal Behavior-Life</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Suicidal behavior was present during the assessment period? (Lifetime).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Lifetime/Recent Version - Suicidal Behavior (Lifetime)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS11-Suicidal Behavior-P3M" nciodm:ExtCodeID="C118069">
+                    <nciodm:CDISCSynonym>CSS11-Suicidal Behavior-P3M</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Suicidal behavior was present during the assessment period? (Past 3 Months).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Lifetime/Recent Version - Suicidal Behavior (Past 3 Months)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS11-Wish to be Dead, Describe" nciodm:ExtCodeID="C118021">
+                    <nciodm:CDISCSynonym>CSS11-Wish to be Dead, Describe</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Description of wishing to be dead.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Lifetime/Recent Version - Description of Wish to be Dead</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS11-Wish to be Dead-Life" nciodm:ExtCodeID="C118019">
+                    <nciodm:CDISCSynonym>CSS11-Wish to be Dead-Life</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Have you wished you were dead or wished you could go to sleep and not wake up? (Lifetime).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Lifetime/Recent Version - Wish to be Dead (Lifetime)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS11-Wish to be Dead-P1M" nciodm:ExtCodeID="C118020">
+                    <nciodm:CDISCSynonym>CSS11-Wish to be Dead-P1M</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Lifetime/Recent Version - Have you wished you were dead or wished you could go to sleep and not wake up? (Past 1 Month).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Lifetime/Recent Version - Wish to be Dead (Past 1 Month)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>CSS11TN</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Columbia-Suicide Severity Rating Scale Lifetime/Recent Version Questionnaire Test Name</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Questionnaire C-SSRS Lifetime/Recent Version Test Name Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

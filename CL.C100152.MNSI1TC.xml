@@ -1,0 +1,194 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C100152.MNSI1TC" Name="Michigan Neuropathy Screening Instrument Questionnaire Test Code" DataType="text" nciodm:ExtCodeID="C100152" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Michigan Neuropathy Screening Instrument test code.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="MNSI101" nciodm:ExtCodeID="C100587">
+                    <nciodm:CDISCSynonym>MNSI1-Are Your Legs and/or Feet Numb</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Michigan Neuropathy Screening Instrument - History: Are your legs and/or feet numb?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MNSI - Legs and/or Feet Numb</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MNSI102" nciodm:ExtCodeID="C100588">
+                    <nciodm:CDISCSynonym>MNSI1-Ever Have Burning Pain Legs/Feet</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Michigan Neuropathy Screening Instrument - History: Do you ever have any burning pain in your legs and/or feet?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MNSI - Burning Pain Legs/Feet</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MNSI103" nciodm:ExtCodeID="C100589">
+                    <nciodm:CDISCSynonym>MNSI1-Are Feet Too Sensitive to Touch</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Michigan Neuropathy Screening Instrument - History: Are your feet too sensitive to touch?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MNSI - Feet Too Sensitive to Touch</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MNSI104" nciodm:ExtCodeID="C100590">
+                    <nciodm:CDISCSynonym>MNSI1-Get Muscle Cramps Legs/Feet</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Michigan Neuropathy Screening Instrument - History: Do you get muscle cramps in your legs and/or feet?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MNSI - Muscle Cramps Legs/Feet</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MNSI105" nciodm:ExtCodeID="C100591">
+                    <nciodm:CDISCSynonym>MNSI1-Ever Prickling Feelings Legs/Feet</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Michigan Neuropathy Screening Instrument - History: Do you ever have any prickling feelings in your legs or feet?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MNSI - Prickling Feelings Legs/Feet</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MNSI106" nciodm:ExtCodeID="C100592">
+                    <nciodm:CDISCSynonym>MNSI1-Hurt When Bed Covers Touch Skin</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Michigan Neuropathy Screening Instrument - History: Does it hurt when the bed covers touch your skin?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MNSI - Hurt When Bed Covers Touch Skin</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MNSI107" nciodm:ExtCodeID="C100593">
+                    <nciodm:CDISCSynonym>MNSI1-Able to Tell Hot from Cold Water</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Michigan Neuropathy Screening Instrument - History: When you get into the tub or shower, are you able to tell the hot water from the cold water?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MNSI - Able to Tell Hot from Cold Water</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MNSI108" nciodm:ExtCodeID="C100594">
+                    <nciodm:CDISCSynonym>MNSI1-Ever Had Open Sore on Foot</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Michigan Neuropathy Screening Instrument - History: Have you ever had an open sore on your foot?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MNSI - Open Sore on Foot</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MNSI109" nciodm:ExtCodeID="C100595">
+                    <nciodm:CDISCSynonym>MNSI1-Doctor Says Diabetic Neuropathy</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Michigan Neuropathy Screening Instrument - History: Has your doctor ever told you that you have diabetic neuropathy?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MNSI - Doctor Says Diabetic Neuropathy</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MNSI110" nciodm:ExtCodeID="C100596">
+                    <nciodm:CDISCSynonym>MNSI1-Feel Weak All Over Most Times</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Michigan Neuropathy Screening Instrument - History: Do you feel weak all over most of the time?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MNSI - Feel Weak All Over Most Times</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MNSI111" nciodm:ExtCodeID="C100597">
+                    <nciodm:CDISCSynonym>MNSI1-Symptoms Worse at Night</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Michigan Neuropathy Screening Instrument - History: Are your symptoms worse at night?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MNSI - Symptoms Worse at Night</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MNSI112" nciodm:ExtCodeID="C100598">
+                    <nciodm:CDISCSynonym>MNSI1-Legs Hurt When Walking</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Michigan Neuropathy Screening Instrument - History: Do your legs hurt when you walk?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MNSI - Legs Hurt When Walking</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MNSI113" nciodm:ExtCodeID="C100599">
+                    <nciodm:CDISCSynonym>MNSI1-Able to Sense Feet When Walking</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Michigan Neuropathy Screening Instrument - History: Are you able to sense your feet when you walk?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MNSI - Able to Sense Feet When Walking</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MNSI114" nciodm:ExtCodeID="C100600">
+                    <nciodm:CDISCSynonym>MNSI1-Skin So Dry That Feet Crack Open</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Michigan Neuropathy Screening Instrument - History: Is the skin on your feet so dry that it cracks open?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MNSI - Skin So Dry That Feet Crack Open</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MNSI115" nciodm:ExtCodeID="C100601">
+                    <nciodm:CDISCSynonym>MNSI1-Ever Had Amputation</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Michigan Neuropathy Screening Instrument - History: Have you ever had an amputation?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MNSI - Ever Had Amputation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MNSI116" nciodm:ExtCodeID="C100602">
+                    <nciodm:CDISCSynonym>MNSI1-Total</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Michigan Neuropathy Screening Instrument - History: Total.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MNSI - History Total</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MNSI117" nciodm:ExtCodeID="C100603">
+                    <nciodm:CDISCSynonym>MNSI1-Right Foot Appears Normal</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Michigan Neuropathy Screening Instrument - Physical Assessment: Appearance of right foot - normal.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MNSI - Right Foot Appears Normal</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MNSI118" nciodm:ExtCodeID="C100604">
+                    <nciodm:CDISCSynonym>MNSI1-Right Foot Deformities</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Michigan Neuropathy Screening Instrument - Physical Assessment: Appearance of right foot - deformities.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MNSI - Right Foot Deformities</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MNSI119" nciodm:ExtCodeID="C101019">
+                    <nciodm:CDISCSynonym>MNSI1-Right Foot Dry Skin, Callus</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Michigan Neuropathy Screening Instrument - Physical Assessment: Appearance of right foot - dry skin, callus.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MNSI - Right Foot Dry Skin, Callus</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MNSI120" nciodm:ExtCodeID="C100605">
+                    <nciodm:CDISCSynonym>MNSI1-Right Foot Infection</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Michigan Neuropathy Screening Instrument - Physical Assessment: Appearance of right foot - infection.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MNSI - Right Foot Infection</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MNSI121" nciodm:ExtCodeID="C100606">
+                    <nciodm:CDISCSynonym>MNSI1-Right Foot Fissure</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Michigan Neuropathy Screening Instrument - Physical Assessment: Appearance of right foot - fissure.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MNSI - Right Foot Fissure</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MNSI122" nciodm:ExtCodeID="C100607">
+                    <nciodm:CDISCSynonym>MNSI1-Right Foot Other Abnormal Specify</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Michigan Neuropathy Screening Instrument - Physical Assessment: Appearance of right foot - other, specify.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MNSI - Right Foot Other Abnormal Specify</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MNSI123" nciodm:ExtCodeID="C100608">
+                    <nciodm:CDISCSynonym>MNSI1-Left Foot Appears Normal</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Michigan Neuropathy Screening Instrument - Physical Assessment: Appearance of left foot - normal.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MNSI - Left Foot Appears Normal</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MNSI124" nciodm:ExtCodeID="C100609">
+                    <nciodm:CDISCSynonym>MNSI1-Left Foot Deformities</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Michigan Neuropathy Screening Instrument - Physical Assessment: Appearance of left foot - deformities.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MNSI - Left Foot Deformities</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MNSI125" nciodm:ExtCodeID="C101020">
+                    <nciodm:CDISCSynonym>MNSI1-Left Dry Skin, Callus</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Michigan Neuropathy Screening Instrument - Physical Assessment: Appearance of left foot - dry skin, callus.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MNSI - Left Foot Dry Skin, Callus</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MNSI126" nciodm:ExtCodeID="C100610">
+                    <nciodm:CDISCSynonym>MNSI1-Left Foot Infection</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Michigan Neuropathy Screening Instrument - Physical Assessment: Appearance of left foot - infection.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MNSI - Left Foot Infection</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MNSI127" nciodm:ExtCodeID="C100611">
+                    <nciodm:CDISCSynonym>MNSI1-Left Foot Fissure</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Michigan Neuropathy Screening Instrument - Physical Assessment: Appearance of left foot - fissure.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MNSI - Left Foot Fissure</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MNSI128" nciodm:ExtCodeID="C100612">
+                    <nciodm:CDISCSynonym>MNSI1-Left Foot Other Abnormal Specify</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Michigan Neuropathy Screening Instrument - Physical Assessment: Appearance of left foot - other, specify.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MNSI - Left Foot Other Abnormal Specify</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MNSI129" nciodm:ExtCodeID="C100613">
+                    <nciodm:CDISCSynonym>MNSI1-Right Foot Ulceration</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Michigan Neuropathy Screening Instrument - Physical Assessment: Right foot - ulceration.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MNSI - Right Foot Ulceration</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MNSI130" nciodm:ExtCodeID="C100614">
+                    <nciodm:CDISCSynonym>MNSI1-Left Foot Ulceration</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Michigan Neuropathy Screening Instrument - Physical Assessment: Left foot - ulceration.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MNSI - Left Foot Ulceration</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MNSI131" nciodm:ExtCodeID="C100615">
+                    <nciodm:CDISCSynonym>MNSI1-Right Ankle Reflexes</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Michigan Neuropathy Screening Instrument - Physical Assessment: Right ankle reflexes.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MNSI - Right Ankle Reflexes</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MNSI132" nciodm:ExtCodeID="C100616">
+                    <nciodm:CDISCSynonym>MNSI1-Left Ankle Reflexes</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Michigan Neuropathy Screening Instrument - Physical Assessment: Left ankle reflexes.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MNSI - Left Ankle Reflexes</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MNSI133" nciodm:ExtCodeID="C100617">
+                    <nciodm:CDISCSynonym>MNSI1-Right Foot Vibration Great Toe</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Michigan Neuropathy Screening Instrument - Physical Assessment: Right foot - vibration perception at great toe.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MNSI - Right Foot Vibration Great Toe</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MNSI134" nciodm:ExtCodeID="C100618">
+                    <nciodm:CDISCSynonym>MNSI1-Left Foot Vibration Great Toe</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Michigan Neuropathy Screening Instrument - Physical Assessment: Left foot - vibration perception at great toe.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MNSI - Left Foot Vibration Great Toe</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MNSI135" nciodm:ExtCodeID="C100619">
+                    <nciodm:CDISCSynonym>MNSI1-Right Foot Monofilament</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Michigan Neuropathy Screening Instrument - Physical Assessment: Right foot - monofilament.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MNSI - Right Foot Monofilament</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MNSI136" nciodm:ExtCodeID="C100620">
+                    <nciodm:CDISCSynonym>MNSI1-Left Foot Monofilament</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Michigan Neuropathy Screening Instrument - Physical Assessment: Left foot - monofilament.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MNSI - Left Foot Monofilament</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MNSI137" nciodm:ExtCodeID="C100621">
+                    <nciodm:CDISCSynonym>MNSI1-Total Score</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Michigan Neuropathy Screening Instrument - Physical Assessment: Total Score.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MNSI - Physical Assessment Total Score</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>MNSI1TC</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Michigan Neuropathy Screening Instrument Questionnaire Test Code</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Questionnaire MNSI Test Code Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

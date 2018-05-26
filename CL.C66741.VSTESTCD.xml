@@ -12,6 +12,11 @@
                     <nciodm:CDISCDefinition>A general indicator of the body fat an individual is carrying based upon the ratio of weight to height. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Body Mass Index</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="BMR" nciodm:ExtCodeID="C126083">
+                    <nciodm:CDISCSynonym>Basal Metabolic Rate</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The measurement of a subject's energy expenditure when at rest.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Basal Metabolic Rate</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="BODLNGTH" nciodm:ExtCodeID="C81298">
                     <nciodm:CDISCSynonym>Body Length</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The linear extent in space from one end of the body to the other end, or the extent of the body from beginning to end.</nciodm:CDISCDefinition>

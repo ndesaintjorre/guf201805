@@ -1,0 +1,14 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C103488.UPS01TN" Name="Urgency Perception Scale Questionnaire Test Name" DataType="text" nciodm:ExtCodeID="C103488" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Urgency Perception Scale test name.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="UPS01-Describe Your Desire to Urinate" nciodm:ExtCodeID="C103761">
+                    <nciodm:CDISCSynonym>UPS01-Describe Your Desire to Urinate</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Urgency Perception Scale - Which of the following would typically describe your experience when you have a desire to urinate.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>UPS - Describe Your Experience When You Desire to Urinate</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>UPS01TN</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Urgency Perception Scale Questionnaire Test Name</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Questionnaire UPS Test Name Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

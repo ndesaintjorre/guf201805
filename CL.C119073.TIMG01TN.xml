@@ -1,0 +1,14 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C119073.TIMG01TN" Name="Coronary Thrombus TIMI Grade Clinical Classification Test Name" DataType="text" nciodm:ExtCodeID="C119073" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Coronary Thrombus TIMI Grade test name.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="TIMG01-Coronary Thrombus TIMI Grade" nciodm:ExtCodeID="C119195">
+                    <nciodm:CDISCSynonym>TIMG01-Coronary Thrombus TIMI Grade</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Coronary Thrombus TIMI Grade - Grade corresponding to thrombus development as defined in the grading system by the Thrombolysis in the Myocardial Infarction Group.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>TIMI Thrombus Grade - Coronary Thrombus TIMI Grade</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>TIMG01TN</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Coronary Thrombus TIMI Grade Clinical Classification Test Name</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Clinical Classification TIMI Thrombus Grade Test Name Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

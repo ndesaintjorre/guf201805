@@ -22,6 +22,11 @@
                     <nciodm:CDISCDefinition>A semiquantitative analysis of the average uptake of analyte by body tissue in relation to the total administered dose of the analyte.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Average Metabolic Standard Uptake Value</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="Calcification Indicator" nciodm:ExtCodeID="C126056">
+                    <nciodm:CDISCSynonym>Calcification Indicator</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An indication as to whether calcification is present.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Calcification Indicator</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="Diameter" nciodm:ExtCodeID="C25285">
                     <nciodm:CDISCSynonym>Diameter</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The length of a straight line passing through the center of a circle or sphere and connecting two points on the circumference. (NCI)</nciodm:CDISCDefinition>
@@ -126,6 +131,11 @@
                     <nciodm:CDISCSynonym>Percent Change Nadir in Sum Longest Diam</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The (current sum of longest diameters minus the lowest sum of longest diameters previously recorded) divided by the lowest sum of longest diameters previously recorded, multiplied by 100.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Percent Change From Nadir in Sum of Longest Diameter</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Percent Change Nadir in Sum of Area" nciodm:ExtCodeID="C126057">
+                    <nciodm:CDISCSynonym>Percent Change Nadir in Sum of Area</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The (current sum of areas minus the lowest sum of areas previously recorded) divided by the lowest sum of areas previously recorded, multiplied by 100.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Percent Change From Nadir in Sum of Area</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Percent Change Nadir in Sum of Diam" nciodm:ExtCodeID="C112373">
                     <nciodm:CDISCSynonym>Percent Change Nadir in Sum of Diam</nciodm:CDISCSynonym>

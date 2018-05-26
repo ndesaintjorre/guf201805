@@ -1,0 +1,109 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C112434.AQ01TN" Name="Airway Questionnaire 20 Questionnaire Test Name" DataType="text" nciodm:ExtCodeID="C112434" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Airway Questionnaire 20 test name.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="AQ01-Breathless Carry out Work Activity" nciodm:ExtCodeID="C112539">
+                    <nciodm:CDISCSynonym>AQ01-Breathless Carry out Work Activity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Airway Questionnaire 20 - Does your chest problem make you breathless when you do things at work? (paid employment).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>AQ20 - Chest Problem Make You Breathless at Work</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="AQ01-Breathless Walking Upstairs" nciodm:ExtCodeID="C112540">
+                    <nciodm:CDISCSynonym>AQ01-Breathless Walking Upstairs</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Airway Questionnaire 20 - Does walking upstairs make you breathless?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>AQ20 - Walking Upstairs Make You Breathless</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="AQ01-Breathless When Trying to Sleep" nciodm:ExtCodeID="C112535">
+                    <nciodm:CDISCSynonym>AQ01-Breathless When Trying to Sleep</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Airway Questionnaire 20 - Do you feel breathless when trying to sleep?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>AQ20 - Feel Breathless When Trying to Sleep</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="AQ01-Breathlessness When Laugh" nciodm:ExtCodeID="C112543">
+                    <nciodm:CDISCSynonym>AQ01-Breathlessness When Laugh</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Airway Questionnaire 20 - Do you suffer from breathlessness when you laugh?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>AQ20 - Suffer From Breathlessness When Laugh</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="AQ01-Chest Prob Smell/Fume/Smoke/Perfume" nciodm:ExtCodeID="C112533">
+                    <nciodm:CDISCSynonym>AQ01-Chest Prob Smell/Fume/Smoke/Perfume</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Airway Questionnaire 20 - Do you get chest problems when you come into contact with strong smells, exhaust fumes, cigarette smoke, perfume etc?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>AQ20 - Get Chest Problems When Contact With Strong Smells</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="AQ01-Chest Upset at Friend House" nciodm:ExtCodeID="C112532">
+                    <nciodm:CDISCSynonym>AQ01-Chest Upset at Friend House</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Airway Questionnaire 20 - Do you worry when going to a friend's house that there might be something there that will upset your chest?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>AQ20 - Worry When Going to Friend House Something Will Upset Your Chest</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="AQ01-Cough Often During Day" nciodm:ExtCodeID="C112529">
+                    <nciodm:CDISCSynonym>AQ01-Cough Often During Day</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Airway Questionnaire 20 - Do you cough often during the day?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>AQ20 - Cough Often During the Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="AQ01-Difficulty Getting Around the House" nciodm:ExtCodeID="C112538">
+                    <nciodm:CDISCSynonym>AQ01-Difficulty Getting Around the House</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Airway Questionnaire 20 - Are there times when you have difficulty getting around the house because of your chest trouble?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>AQ20 - Difficulty Getting Around the House Because of Chest Trouble</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="AQ01-Drained After a Cold" nciodm:ExtCodeID="C112546">
+                    <nciodm:CDISCSynonym>AQ01-Drained After a Cold</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Airway Questionnaire 20 - Do you feel drained after a cold because of your chest trouble?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>AQ20 - Feel Drained After a Cold Because of Chest Trouble</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="AQ01-Emotional Upset Worse Chest Trouble" nciodm:ExtCodeID="C112537">
+                    <nciodm:CDISCSynonym>AQ01-Emotional Upset Worse Chest Trouble</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Airway Questionnaire 20 - Does getting emotionally upset make your chest trouble worse?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>AQ20 - Getting Emotionally Upset Make Chest Trouble Worse</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="AQ01-Feel Restless Due to Chest Trouble" nciodm:ExtCodeID="C112530">
+                    <nciodm:CDISCSynonym>AQ01-Feel Restless Due to Chest Trouble</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Airway Questionnaire 20 - Does your chest trouble often make you feel restless?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>AQ20 - Chest Trouble Make You Feel Restless</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="AQ01-Feeling of Chest Heaviness" nciodm:ExtCodeID="C112547">
+                    <nciodm:CDISCSynonym>AQ01-Feeling of Chest Heaviness</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Airway Questionnaire 20 - Do you have a feeling of chest heaviness?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>AQ20 - Feeling of Chest Heaviness</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="AQ01-Full Life Limited by Chest Trouble" nciodm:ExtCodeID="C112545">
+                    <nciodm:CDISCSynonym>AQ01-Full Life Limited by Chest Trouble</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Airway Questionnaire 20 - Do you think the fullness of your life is limited by your chest trouble?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>AQ20 - Fullness of Life is Limited by Chest Trouble</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="AQ01-Gardening Make You Breathless" nciodm:ExtCodeID="C112531">
+                    <nciodm:CDISCSynonym>AQ01-Gardening Make You Breathless</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Airway Questionnaire 20 - Does gardening make you breathless?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>AQ20 - Gardening Make You Breathless</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="AQ01-Get Breathless Doing Housework" nciodm:ExtCodeID="C112541">
+                    <nciodm:CDISCSynonym>AQ01-Get Breathless Doing Housework</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Airway Questionnaire 20 - Do you get breathless doing housework?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>AQ20 - Get Breathless Doing Housework</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="AQ01-Go Home Sooner Than Others" nciodm:ExtCodeID="C112542">
+                    <nciodm:CDISCSynonym>AQ01-Go Home Sooner Than Others</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Airway Questionnaire 20 - Does your chest trouble make you go home sooner than others after a night out?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>AQ20 - Chest Trouble Make You Go Home Sooner Than Others</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="AQ01-Impatient Due to Chest Trouble" nciodm:ExtCodeID="C112544">
+                    <nciodm:CDISCSynonym>AQ01-Impatient Due to Chest Trouble</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Airway Questionnaire 20 - Does your chest trouble often make you feel impatient?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>AQ20 - Chest Trouble Make You Feel Impatient</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="AQ01-Long Term Effects of Drugs" nciodm:ExtCodeID="C112536">
+                    <nciodm:CDISCSynonym>AQ01-Long Term Effects of Drugs</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Airway Questionnaire 20 - Do you worry about the long term effects of the drugs you take for your chest trouble?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>AQ20 - Worry About Long Term Effects of Drugs for Chest Trouble</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="AQ01-Partner Upset by Your Chest Trouble" nciodm:ExtCodeID="C112534">
+                    <nciodm:CDISCSynonym>AQ01-Partner Upset by Your Chest Trouble</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Airway Questionnaire 20 - Does your partner find your chest trouble upsetting?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>AQ20 - Partner Find Your Chest Trouble Upsetting</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="AQ01-Worry About Chest Trouble" nciodm:ExtCodeID="C112548">
+                    <nciodm:CDISCSynonym>AQ01-Worry About Chest Trouble</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Airway Questionnaire 20 - Do you worry a lot about your chest trouble?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>AQ20 - Worry a Lot About Chest Trouble</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>AQ01TN</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Airway Questionnaire 20 Questionnaire Test Name</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Questionnaire AQ20 Test Name Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

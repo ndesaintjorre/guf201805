@@ -280,6 +280,10 @@
                     <nciodm:CDISCDefinition>Any rod-shaped bacteria with an oxygen-based metabolism and has a cell wall that contains low levels of peptidoglycan and stains pink with the Gram staining technique.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Aerobic Gram Negative Bacillus</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="AEROBIC GRAM-NEGATIVE COCCOBACILLUS" nciodm:ExtCodeID="C125954">
+                    <nciodm:CDISCDefinition>Any bacterial organism with an oxygen-based metabolism, and is intermediate in morphology between a spherical-shaped coccus and a rod-shaped bacillus that contains low levels of peptidoglycan in its cell wall and stains pink with the Gram staining technique.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Aerobic Gram-Negative Coccobacillus</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="AEROBIC GRAM-NEGATIVE COCCUS" nciodm:ExtCodeID="C86117">
                     <nciodm:CDISCDefinition>Any spherical-shaped bacteria with an oxygen-based metabolism and a cell wall that contains low levels of peptidoglycan and stains pink with the Gram staining technique.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Aerobic Gram Negative Coccus</nciodm:PreferredTerm>
@@ -462,6 +466,10 @@
                     <nciodm:CDISCSynonym>Gram-negative Anaerobe</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Any bacterial organism that does not require oxygen to grow or respirate, cannot be assigned to a specific genus or species, and has a cell wall that contains low levels of peptidoglycan and stains pink with the Gram staining technique.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Anaerobic Gram-negative Bacteria</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ANAEROBIC GRAM-NEGATIVE COCCOBACILLUS" nciodm:ExtCodeID="C125955">
+                    <nciodm:CDISCDefinition>Any bacterial organism that does not require oxygen to grow or respirate, and is intermediate in morphology between a spherical-shaped coccus and a rod-shaped bacillus that contains low levels of peptidoglycan in its cell wall and stains pink with the Gram staining technique.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Anaerobic Gram-Negative Coccobacillus</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="ANAEROBIC GRAM-NEGATIVE COCCUS" nciodm:ExtCodeID="C86143">
                     <nciodm:CDISCDefinition>Any spherical-shaped bacteria that does not require oxygen to grow or respirate and has a cell wall that contains low levels of peptidoglycan and stains pink with the Gram staining technique.</nciodm:CDISCDefinition>
@@ -3540,6 +3548,10 @@
                     <nciodm:CDISCDefinition>Any trematode parasite that can be assigned to the species Metagonimus yokogawai.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Metagonimus yokogawai</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="METAPNEUMOVIRUS" nciodm:ExtCodeID="C125956">
+                    <nciodm:CDISCDefinition>Any viral organism that can be assigned to the genus Metapneumovirus.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Metapneumovirus</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="METHICILLIN RESISTANT STAPHYLOCOCCUS AUREUS" nciodm:ExtCodeID="C123515">
                     <nciodm:CDISCSynonym>MRSA</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Staphylococcus aureus and is resistant to methicillin.</nciodm:CDISCDefinition>
@@ -4028,6 +4040,10 @@
                     <nciodm:CDISCSynonym>Non-fermentative Gram-negative Rod</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Any rod-shaped, anaerobic bacteria that cannot convert carbohydrates into acids and alcohols and has a cell wall that contains low levels of peptidoglycan and stains pink with the Gram staining technique.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Non-Fermentative Gram Negative Bacillus</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NORMAL FLORA" nciodm:ExtCodeID="C125957">
+                    <nciodm:CDISCDefinition>The presence of microorganisms that normally reside at an anatomical site and that under normal circumstances do not cause disease.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Normal Flora</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="NOROVIRUS" nciodm:ExtCodeID="C112362">
                     <nciodm:CDISCSynonym>NoV</nciodm:CDISCSynonym>
@@ -4998,6 +5014,13 @@
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Salmonella enterica subspecies enterica serovariant pullorum.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Salmonella enterica subsp. enterica Serovar Pullorum</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="SALMONELLA ENTERICA SUBSP. ENTERICA SEROVAR TYPHI" nciodm:ExtCodeID="C86926">
+                    <nciodm:CDISCSynonym>Bacillus typhi</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Salmonella serotype typhi</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Salmonella typhi</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Salmonella enterica subspecies enterica serovariant typhi.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Salmonella Serotype Typhi</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="SALMONELLA ENTERICA SUBSP. ENTERICA SEROVAR TYPHISUIS" nciodm:ExtCodeID="C124378">
                     <nciodm:CDISCSynonym>Salmonella typhisuis</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Salmonella enterica subspecies enterica serovariant typhisuis.</nciodm:CDISCDefinition>
@@ -5062,10 +5085,6 @@
                 <EnumeratedItem CodedValue="SALMONELLA SEROTYPE PARATYPHI C" nciodm:ExtCodeID="C86925">
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the genus Salmonella with serotype Paratyphi C.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Salmonella Serotype Paratyphi C</nciodm:PreferredTerm>
-                </EnumeratedItem>
-                <EnumeratedItem CodedValue="SALMONELLA SEROTYPE TYPHI" nciodm:ExtCodeID="C86926">
-                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the genus Salmonella with serotype Typhi.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Salmonella Serotype Typhi</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="SALMONELLA SEROTYPE TYPHIMURIUM" nciodm:ExtCodeID="C86927">
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the genus Salmonella with serotype Typhimurium.</nciodm:CDISCDefinition>
@@ -5681,9 +5700,17 @@
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Streptomyces griseus.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Streptomyces griseus</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="STREPTOMYCES PARAGUAYENSIS" nciodm:ExtCodeID="C125958">
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Streptomyces paraguayensis.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Streptomyces paraguayensis</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="STREPTOMYCES SOMALIENSIS" nciodm:ExtCodeID="C86814">
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Streptomyces somaliensis.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Streptomyces somaliensis</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="STRONGYLOIDES STERCORALIS" nciodm:ExtCodeID="C125643">
+                    <nciodm:CDISCDefinition>Any nematode parasite that can be assigned to the species Strongyloides stercoralis.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Strongyloides stercoralis</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="SUTTERELLA" nciodm:ExtCodeID="C86956">
                     <nciodm:CDISCDefinition>Any bacteria that is not assigned to the species level but can be assigned to the Sutterella genus level.</nciodm:CDISCDefinition>
@@ -5697,6 +5724,25 @@
                     <nciodm:CDISCSynonym>Kingella indologenes</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Suttonella indologenes.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Suttonella indologenes</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SYNCEPHALASTRUM" nciodm:ExtCodeID="C125959">
+                    <nciodm:CDISCDefinition>Any fungal organism that is not assigned to the species level but can be assigned to the Syncephalastrum genus level.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Syncephalastrum</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TAENIA" nciodm:ExtCodeID="C125925">
+                    <nciodm:CDISCDefinition>Any cestode parasite that is not assigned to the species level but can be assigned to the Taenia genus level.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Taenia</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TAENIA SAGINATA" nciodm:ExtCodeID="C125960">
+                    <nciodm:CDISCSynonym>Beef Tapeworm</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any cestode parasite that can be assigned to the species Taenia saginata.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Taenia saginata</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TAENIA SOLIUM" nciodm:ExtCodeID="C125961">
+                    <nciodm:CDISCSynonym>Cysticercus cellulosae</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Pork Tapeworm</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any cestode parasite that can be assigned to the species Taenia solium.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Taenia solium</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="TATLOCKIA MICDADEI" nciodm:ExtCodeID="C86817">
                     <nciodm:CDISCSynonym>Legionella micdadei</nciodm:CDISCSynonym>
@@ -5735,6 +5781,33 @@
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Tissierella praeacuta.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Tissierella praeacuta</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="TORULASPORA DELBRUECKII" nciodm:ExtCodeID="C125962">
+                    <nciodm:CDISCDefinition>Any fungal organism that can be assigned to the species Torulaspora delbrueckii.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Torulaspora delbrueckii</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TOXOCARA" nciodm:ExtCodeID="C125927">
+                    <nciodm:CDISCDefinition>Any nematode parasite that is not assigned to the species level but can be assigned to the Toxocara genus level.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Toxocara</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TOXOCARA CANIS" nciodm:ExtCodeID="C125963">
+                    <nciodm:CDISCSynonym>Dog Roundworm</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any nematode parasite that can be assigned to the species Toxocara canis.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Toxocara canis</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TOXOCARA CATI" nciodm:ExtCodeID="C125964">
+                    <nciodm:CDISCSynonym>Cat Roundworm</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Feline Roundworm</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any nematode parasite that can be assigned to the species Toxocara cati.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Toxocara cati</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TOXOPLASMA" nciodm:ExtCodeID="C75538">
+                    <nciodm:CDISCDefinition>Any unicellular, eukaryotic organism that is not assigned to the species level but can be assigned to the Toxoplasma genus level.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Toxoplasma</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TOXOPLASMA GONDII" nciodm:ExtCodeID="C125644">
+                    <nciodm:CDISCDefinition>Any unicellular, eukaryotic organism that can be assigned to the species Toxoplasma gondii.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Toxoplasma gondii</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="TRABULSIELLA" nciodm:ExtCodeID="C86822">
                     <nciodm:CDISCDefinition>Any bacteria that is not assigned to the species level but can be assigned to the Trabulsiella genus level.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Trabulsiella</nciodm:PreferredTerm>
@@ -5769,9 +5842,66 @@
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Treponema pallidum and subspecies pertenue.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Treponema pallidum subsp pertenue</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="TRICHINELLA" nciodm:ExtCodeID="C125928">
+                    <nciodm:CDISCDefinition>Any nematode parasite that is not assigned to the species level but can be assigned to the Trichinella genus level.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Trichinella</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TRICHINELLA SPIRALIS" nciodm:ExtCodeID="C125965">
+                    <nciodm:CDISCDefinition>Any nematode parasite that can be assigned to the species Trichinella spiralis.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Trichinella spiralis</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TRICHODERMA" nciodm:ExtCodeID="C125966">
+                    <nciodm:CDISCDefinition>Any fungal organism that is not assigned to the species level but can be assigned to the Trichoderma genus level.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Trichoderma</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TRICHOMONAS VAGINALIS" nciodm:ExtCodeID="C125967">
+                    <nciodm:CDISCDefinition>Any unicellular, eukaryotic organism that can be assigned to the species Trichomonas vaginalis.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Trichomonas vaginalis</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TRICHOSPORON" nciodm:ExtCodeID="C114129">
+                    <nciodm:CDISCDefinition>Any fungal organism that is not assigned to the species level but can be assigned to the Trichosporon genus level.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Trichosporon</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="TRICHOSPORON ASAHII" nciodm:ExtCodeID="C114272">
                     <nciodm:CDISCDefinition>Any fungal organism that can be assigned to the species Trichosporon asahii.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Trichosporon asahii</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TRICHOSTRONGYLUS" nciodm:ExtCodeID="C125930">
+                    <nciodm:CDISCDefinition>Any nematode parasite that is not assigned to the species level but can be assigned to the Trichostrongylus genus level.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Trichostrongylus</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TRICHOSTRONGYLUS AXEI" nciodm:ExtCodeID="C125968">
+                    <nciodm:CDISCDefinition>Any nematode parasite that can be assigned to the species Trichostrongylus axei.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Trichostrongylus axei</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TRICHOSTRONGYLUS COLUBRIFORMIS" nciodm:ExtCodeID="C125969">
+                    <nciodm:CDISCDefinition>Any nematode parasite that can be assigned to the species Trichostrongylus colubriformis.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Trichostrongylus colubriformis</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TRICHOSTRONGYLUS ORIENTALIS" nciodm:ExtCodeID="C125970">
+                    <nciodm:CDISCDefinition>Any nematode parasite that can be assigned to the species Trichostrongylus orientalis.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Trichostrongylus orientalis</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TRICHOSTRONGYLUS PROBOLURUS" nciodm:ExtCodeID="C125971">
+                    <nciodm:CDISCDefinition>Any nematode parasite that can be assigned to the species Trichostrongylus probolurus.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Trichostrongylus probolurus</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TRICHOSTRONGYLUS VITRINUS" nciodm:ExtCodeID="C125972">
+                    <nciodm:CDISCDefinition>Any nematode parasite that can be assigned to the species Trichostrongylus vitrinus.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Trichostrongylus vitrinus</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TRICHURIS" nciodm:ExtCodeID="C125929">
+                    <nciodm:CDISCDefinition>Any nematode parasite that is not assigned to the species level but can be assigned to the Trichuris genus level.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Trichuris</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TRICHURIS TRICHIURA" nciodm:ExtCodeID="C125973">
+                    <nciodm:CDISCSynonym>Human Whipworm</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any nematode parasite that can be assigned to the species Trichuris trichiura.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Trichuris trichiura</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TRITIRACHIUM" nciodm:ExtCodeID="C125974">
+                    <nciodm:CDISCDefinition>Any fungal organism that is not assigned to the species level but can be assigned to the Tritirachium genus level.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Tritirachium</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="TROPHERYMA" nciodm:ExtCodeID="C86826">
                     <nciodm:CDISCDefinition>Any bacteria that is not assigned to the species level but can be assigned to the Tropheryma genus level.</nciodm:CDISCDefinition>
@@ -5780,6 +5910,18 @@
                 <EnumeratedItem CodedValue="TROPHERYMA WHIPPLEI" nciodm:ExtCodeID="C86827">
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Tropheryma whipplei.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Tropheryma whipplei</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TRYPANOSOMA BRUCEI GAMBIENSE" nciodm:ExtCodeID="C125975">
+                    <nciodm:CDISCDefinition>Any unicellular, eukaryotic organism that can be assigned to the species Trypanosoma brucei subspecies gambiense.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Trypanosoma brucei gambiense</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TRYPANOSOMA BRUCEI RHODESIENSE" nciodm:ExtCodeID="C125976">
+                    <nciodm:CDISCDefinition>Any unicellular, eukaryotic organism that can be assigned to the species Trypanosoma brucei subspecies rhodesiense.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Trypanosoma brucei rhodesiense</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TRYPANOSOMA CRUZI" nciodm:ExtCodeID="C125977">
+                    <nciodm:CDISCDefinition>Any unicellular, eukaryotic organism that can be assigned to the species Trypanosoma cruzi.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Trypanosoma cruzi</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="TSUKAMURELLA" nciodm:ExtCodeID="C86828">
                     <nciodm:CDISCDefinition>Any bacteria that is not assigned to the species level but can be assigned to the Tsukamurella genus level.</nciodm:CDISCDefinition>
@@ -5803,6 +5945,10 @@
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Turicella otitidis.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Turicella otitidis</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="ULOCLADIUM" nciodm:ExtCodeID="C125978">
+                    <nciodm:CDISCDefinition>Any fungal organism that is not assigned to the species level but can be assigned to the Ulocladium genus level.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Ulocladium</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="UREAPLASMA" nciodm:ExtCodeID="C86832">
                     <nciodm:CDISCDefinition>Any bacteria that is not assigned to the species level but can be assigned to the Ureaplasma genus level.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Ureaplasma</nciodm:PreferredTerm>
@@ -5812,6 +5958,10 @@
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Ureaplasma urealyticum.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Ureaplasma urealyticum</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="USTILAGO" nciodm:ExtCodeID="C125979">
+                    <nciodm:CDISCDefinition>Any fungal organism that is not assigned to the species level but can be assigned to the Ustilago genus level.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Ustilago</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="VACCINIA VIRUS" nciodm:ExtCodeID="C14281">
                     <nciodm:CDISCSynonym>VV</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Any viral organism that can be assigned to the species Vaccinia virus.</nciodm:CDISCDefinition>
@@ -5820,6 +5970,21 @@
                 <EnumeratedItem CodedValue="VAGOCOCCUS" nciodm:ExtCodeID="C86834">
                     <nciodm:CDISCDefinition>Any bacteria that is not assigned to the species level but can be assigned to the Vagococcus genus level.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Vagococcus</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="VANCOMYCIN RESISTANT ENTEROCOCCUS" nciodm:ExtCodeID="C76312">
+                    <nciodm:CDISCSynonym>VRE</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the genus Enterococcus and is resistant to the antibiotic vancomycin.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Vancomycin Resistant Enterococcus</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="VANCOMYCIN RESISTANT STAPHYLOCOCCUS AUREUS" nciodm:ExtCodeID="C125980">
+                    <nciodm:CDISCSynonym>VRSA</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Staphylococcus aureus and is resistant to the antibiotic vancomycin.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Vancomycin Resistant Staphylococcus Aureus</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="VANCOMYCIN SUSCEPTIBLE ENTEROCOCCUS" nciodm:ExtCodeID="C125981">
+                    <nciodm:CDISCSynonym>VSE</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the genus Enterococcus and is susceptible to the antibiotic vancomycin.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Vancomycin Susceptible Enterococcus</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="VARIBACULUM" nciodm:ExtCodeID="C86835">
                     <nciodm:CDISCDefinition>Any bacteria that is not assigned to the species level but can be assigned to the Varibaculum genus level.</nciodm:CDISCDefinition>
@@ -5844,6 +6009,11 @@
                     <nciodm:CDISCDefinition>Any bacteria that is not assigned to the species level but can be assigned to the Veillonella genus level.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Veillonella</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="VEILLONELLA ATYPICA" nciodm:ExtCodeID="C125982">
+                    <nciodm:CDISCSynonym>Veillonella parvula subsp. atypica</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Veillonella atypica.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Veillonella atypica</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="VEILLONELLA DISPAR" nciodm:ExtCodeID="C86838">
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Veillonella dispar.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Veillonella dispar</nciodm:PreferredTerm>
@@ -5851,6 +6021,10 @@
                 <EnumeratedItem CodedValue="VEILLONELLA PARVULA" nciodm:ExtCodeID="C86839">
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Veillonella parvula.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Veillonella parvula</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="VERTICILLIUM" nciodm:ExtCodeID="C125983">
+                    <nciodm:CDISCDefinition>Any fungal organism that is not assigned to the species level but can be assigned to the Verticillium genus level.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Verticillium</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="VIBRIO" nciodm:ExtCodeID="C76386">
                     <nciodm:CDISCDefinition>Any bacteria that is not assigned to the species level but can be assigned to the Vibrio genus level.</nciodm:CDISCDefinition>
@@ -5891,6 +6065,10 @@
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Vibrio vulnificus.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Vibrio vulnificus</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="VORTICELLA" nciodm:ExtCodeID="C125984">
+                    <nciodm:CDISCDefinition>Any unicellular, eukaryotic organism that is not assigned to the species level but can be assigned to the Vorticella genus level.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Vorticella</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="WAUTERSIELLA FALSENII" nciodm:ExtCodeID="C111334">
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Wautersiella falsenii.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Wautersiella falsenii</nciodm:PreferredTerm>
@@ -5923,10 +6101,18 @@
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Wolinella succinogenes.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Wolinella succinogenes</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="WUCHERERIA" nciodm:ExtCodeID="C122013">
+                    <nciodm:CDISCDefinition>Any nematode parasite that is not assigned to the species level but can be assigned to the Wuchereria genus level.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Wuchereria</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="WUCHERERIA BANCROFTI" nciodm:ExtCodeID="C122328">
                     <nciodm:CDISCSynonym>Filaria bancrofti</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Any nematode parasite that can be assigned to the species Wuchereria bancrofti.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Wuchereria bancrofti</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="XANTHOMONAS" nciodm:ExtCodeID="C86018">
+                    <nciodm:CDISCDefinition>Any bacterial organism that is not assigned to the species level but can be assigned to the Xanthomonas genus level.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Xanthomonas</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="YARROWIA LIPOLYTICA" nciodm:ExtCodeID="C114257">
                     <nciodm:CDISCSynonym>Candida lipolytica</nciodm:CDISCSynonym>

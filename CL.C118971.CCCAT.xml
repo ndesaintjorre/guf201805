@@ -2,6 +2,11 @@
                 <Description>
                     <TranslatedText xml:lang="en">A grouping of observations within the Clinical Classification domain.</TranslatedText>
                 </Description>
+                <EnumeratedItem CodedValue="AJCC V7" nciodm:ExtCodeID="C125755">
+                    <nciodm:CDISCSynonym>AJCC1</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>AJCC TNM Staging System 7th Edition (AJCC V7) (Edge SB, Byrd DR, Compton CC, Fritz AG, Greene FL, Trotti A, editors. AJCC cancer staging manual (7th ed). New York, NY: Springer; 2010).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>AJCC Cancer Staging Manual 7th Edition</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="APACHE II" nciodm:ExtCodeID="C121005">
                     <nciodm:CDISCSynonym>APCH1</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Acute Physiology and Chronic Health Evaluation II (APACHE II) (Knaus WA, Draper EA, Wagner DP, Zimmerman JE. APACHE II: a severity of disease classification system. Critical Care Medicine 1985; 13(10):818-29).</nciodm:CDISCDefinition>

@@ -1,0 +1,69 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C124681.GCS01TN" Name="Glasgow Coma Scale NINDS Version Clinical Classification Test Name" DataType="text" nciodm:ExtCodeID="C124681" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Glasgow Coma Scale NINDS Version test name.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="GCS01-Best Eye Response" nciodm:ExtCodeID="C124724">
+                    <nciodm:CDISCSynonym>GCS01-Best Eye Response</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Glasgow Coma Scale - Best eye response.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>GCS NINDS Version - Best Eye Response</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="GCS01-Confounder: Alcohol/Drug of Abuse" nciodm:ExtCodeID="C124730">
+                    <nciodm:CDISCSynonym>GCS01-Confounder: Alcohol/Drug of Abuse</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Glasgow Coma Scale - GCS Confounder Type: alcohol/drugs of abuse.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>GCS NINDS Version - Confounder: Alcohol or Drug of Abuse</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="GCS01-Confounder: C-Spine Injury" nciodm:ExtCodeID="C124731">
+                    <nciodm:CDISCSynonym>GCS01-Confounder: C-Spine Injury</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Glasgow Coma Scale - GCS Confounder Type: C-spine injury.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>GCS NINDS Version - Confounder: C-Spine Injury</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="GCS01-Confounder: GCS Accurate" nciodm:ExtCodeID="C124728">
+                    <nciodm:CDISCSynonym>GCS01-Confounder: GCS Accurate</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Glasgow Coma Scale - GCS Confounder Type: GCS accurate.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>GCS NINDS Version - Confounder: GCS Accurate</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="GCS01-Confounder: Hypothermia" nciodm:ExtCodeID="C124733">
+                    <nciodm:CDISCSynonym>GCS01-Confounder: Hypothermia</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Glasgow Coma Scale - GCS Confounder Type: hypothermia.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>GCS NINDS Version - Confounder: Hypothermia</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="GCS01-Confounder: Hypoxia/Hypotension" nciodm:ExtCodeID="C124732">
+                    <nciodm:CDISCSynonym>GCS01-Confounder: Hypoxia/Hypotension</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Glasgow Coma Scale - GCS Confounder Type: hypoxia/hypotension.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>GCS NINDS Version - Confounder: Hypoxia or Hypotension</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="GCS01-Confounder: Paralytic" nciodm:ExtCodeID="C124729">
+                    <nciodm:CDISCSynonym>GCS01-Confounder: Paralytic</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Glasgow Coma Scale - GCS Confounder Type: paralytic.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>GCS NINDS Version - Confounder: Paralytic</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="GCS01-Confounder: Sedation" nciodm:ExtCodeID="C124734">
+                    <nciodm:CDISCSynonym>GCS01-Confounder: Sedation</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Glasgow Coma Scale - GCS Confounder Type: sedation.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>GCS NINDS Version - Confounder: Sedation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="GCS01-Confounder: Unknown" nciodm:ExtCodeID="C124735">
+                    <nciodm:CDISCSynonym>GCS01-Confounder: Unknown</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Glasgow Coma Scale - GCS Confounder Type: unknown.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>GCS NINDS Version - Confounder: Unknown</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="GCS01-Motor Response" nciodm:ExtCodeID="C124725">
+                    <nciodm:CDISCSynonym>GCS01-Motor Response</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Glasgow Coma Scale - Motor response.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>GCS NINDS Version - Motor Response</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="GCS01-Total Score" nciodm:ExtCodeID="C124727">
+                    <nciodm:CDISCSynonym>GCS01-Total Score</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Glasgow Coma Scale - Total score.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>GCS NINDS Version - Total Score</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="GCS01-Verbal Response" nciodm:ExtCodeID="C124726">
+                    <nciodm:CDISCSynonym>GCS01-Verbal Response</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Glasgow Coma Scale - Verbal response.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>GCS NINDS Version - Verbal Response</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>GCS01TN</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Glasgow Coma Scale NINDS Version Clinical Classification Test Name</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Clinical Classification GCS NINDS Version Test Name Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

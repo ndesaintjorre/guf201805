@@ -1,0 +1,14 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C124670.FCVD1TC" Name="Framingham Heart Study Cardiovascular Disease 10-Year Risk Score Clinical Classification Test Code" DataType="text" nciodm:ExtCodeID="C124670" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Framingham Heart Study Cardiovascular Disease 10-Year Risk Score test code.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="FCVD101" nciodm:ExtCodeID="C124722">
+                    <nciodm:CDISCSynonym>FCVD1-Framingham CVD 10-Year Risk Score</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Framingham Heart Study Cardiovascular Disease 10-Year Risk Score - Cardiovascular disease 10-year risk score.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FHS CVD 10-Year Risk Score - Risk Score</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>FCVD1TC</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Framingham Heart Study Cardiovascular Disease 10-Year Risk Score Clinical Classification Test Code</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Clinical Classification FHS CVD 10-Year Risk Score Test Code Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

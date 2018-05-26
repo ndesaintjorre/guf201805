@@ -1,0 +1,14 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C115389.HAI01TN" Name="Hauser Ambulation Index Functional Test Test Name" DataType="text" nciodm:ExtCodeID="C115389" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Hauser Ambulation Index test name.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="HAI01-Ambulation Index" nciodm:ExtCodeID="C115806">
+                    <nciodm:CDISCSynonym>HAI01-Ambulation Index</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hauser Ambulation Index - Ambulation index.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAI - Ambulation Index</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>HAI01TN</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Hauser Ambulation Index Functional Test Test Name</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Functional Test HAI Test Name Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

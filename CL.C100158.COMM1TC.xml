@@ -1,0 +1,99 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C100158.COMM1TC" Name="Current Opioid Misuse Measure Questionnaire Test Code" DataType="text" nciodm:ExtCodeID="C100158" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Current Opioid Misuse Measure test code.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="COMM101" nciodm:ExtCodeID="C100958">
+                    <nciodm:CDISCSynonym>COMM1-Trouble Thinking Clearly/Memory</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Current Opioid Misuse Measure - In the past 30 days, how often have you had trouble with thinking clearly or had memory problems?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>COMM - Trouble Thinking Clearly or Memory Problems</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="COMM102" nciodm:ExtCodeID="C100959">
+                    <nciodm:CDISCSynonym>COMM1-Complaints Not Completing Tasks</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Current Opioid Misuse Measure - In the past 30 days, how often do people complain that you are not completing necessary tasks? (i.e., doing things that need to be done, such as going to class, work or appointments)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>COMM - Complaints Not Completing Tasks</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="COMM103" nciodm:ExtCodeID="C100960">
+                    <nciodm:CDISCSynonym>COMM1-Other Sources For Pain Medication</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Current Opioid Misuse Measure - In the past 30 days, how often have you had to go to someone other than your prescribing physician to get sufficient pain relief from medications? (i.e., another doctor, the Emergency Room, friends, street source)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>COMM - Other Sources for Pain Medication</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="COMM104" nciodm:ExtCodeID="C100961">
+                    <nciodm:CDISCSynonym>COMM1-Taken Meds Other Than Prescribed</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Current Opioid Misuse Measure - In the past 30 days, how often have you taken your medications differently from how they are prescribed?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>COMM - Taken Medications Other Than Prescribed</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="COMM105" nciodm:ExtCodeID="C100962">
+                    <nciodm:CDISCSynonym>COMM1-Seriously Thought of Hurting Self</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Current Opioid Misuse Measure - In the past 30 days, how often have you seriously thought about hurting yourself?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>COMM - Seriously Thought of Hurting Self</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="COMM106" nciodm:ExtCodeID="C100963">
+                    <nciodm:CDISCSynonym>COMM1-Time Spent Thinking About Opioids</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Current Opioid Misuse Measure - In the past 30 days, how much of your time was spent thinking about opioid medications (having enough, taking them, dosing schedule, etc.)?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>COMM - Time Spent Thinking About Opioids</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="COMM107" nciodm:ExtCodeID="C100964">
+                    <nciodm:CDISCSynonym>COMM1-Been in an Argument</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Current Opioid Misuse Measure - In the past 30 days, how often have you been in an argument?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>COMM - Been in an Argument</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="COMM108" nciodm:ExtCodeID="C100965">
+                    <nciodm:CDISCSynonym>COMM1-Trouble Controlling Anger</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Current Opioid Misuse Measure - In the past 30 days, how often have you had trouble controlling your anger (e.g., road rage, screaming, etc.)?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>COMM - Trouble Controlling Anger</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="COMM109" nciodm:ExtCodeID="C100966">
+                    <nciodm:CDISCSynonym>COMM1-Take Meds Belonging to Others</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Current Opioid Misuse Measure - In the past 30 days, how often have you needed to take pain medications belonging to someone else?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>COMM - Take Medications Belonging to Others</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="COMM110" nciodm:ExtCodeID="C100967">
+                    <nciodm:CDISCSynonym>COMM1-Worry About Handling Meds</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Current Opioid Misuse Measure - In the past 30 days, how often have you been worried about how you're handling your medications?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>COMM - Worry About Handling Medications</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="COMM111" nciodm:ExtCodeID="C100968">
+                    <nciodm:CDISCSynonym>COMM1-Others Worry About Your Meds</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Current Opioid Misuse Measure - In the past 30 days, how often have others been worried about how you're handling your medications?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>COMM - Others Worry About Your Medications</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="COMM112" nciodm:ExtCodeID="C100969">
+                    <nciodm:CDISCSynonym>COMM1-Emergency Phone Call/Clinic Visit</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Current Opioid Misuse Measure - In the past 30 days, how often have you had to make an emergency phone call or show up at the clinic without an appointment?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>COMM - Emergency Phone Call or Clinic Visit</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="COMM113" nciodm:ExtCodeID="C100970">
+                    <nciodm:CDISCSynonym>COMM1-Gotten Angry With People</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Current Opioid Misuse Measure - In the past 30 days, how often have you gotten angry with people?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>COMM - Gotten Angry With People</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="COMM114" nciodm:ExtCodeID="C100971">
+                    <nciodm:CDISCSynonym>COMM1-Take More Meds Than Prescribed</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Current Opioid Misuse Measure - In the past 30 days, how often have you had to take more of your medication than prescribed?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>COMM - Take More Medication Than Prescribed</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="COMM115" nciodm:ExtCodeID="C100972">
+                    <nciodm:CDISCSynonym>COMM1-Borrowed Meds From Others</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Current Opioid Misuse Measure - In the past 30 days, how often have you borrowed pain medication from someone else?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>COMM - Borrowed Medication From Others</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="COMM116" nciodm:ExtCodeID="C100973">
+                    <nciodm:CDISCSynonym>COMM1-Used Pain Meds For Other Symptoms</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Current Opioid Misuse Measure - In the past 30 days, how often have you used your pain medicine for symptoms other than for pain (e.g., to help you sleep, improve your mood, or relieve stress)?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>COMM - Used Pain Medicine For Other Symptoms</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="COMM117" nciodm:ExtCodeID="C100974">
+                    <nciodm:CDISCSynonym>COMM1-Visit Emergency Room</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Current Opioid Misuse Measure - In the past 30 days, how often have you had to visit the Emergency Room?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>COMM - Visit Emergency Room</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="COMM118" nciodm:ExtCodeID="C100975">
+                    <nciodm:CDISCSynonym>COMM1-Score</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Current Opioid Misuse Measure - Score.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>COMM - Score</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>COMM1TC</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Current Opioid Misuse Measure Questionnaire Test Code</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Questionnaire COMM Test Code Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

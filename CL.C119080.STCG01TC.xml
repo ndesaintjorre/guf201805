@@ -1,0 +1,14 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C119080.STCG01TC" Name="Stent Thrombosis Coronary ARC Grade Clinical Classification Test Code" DataType="text" nciodm:ExtCodeID="C119080" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Stent Thrombosis Coronary ARC Grade test code.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="STCG0101" nciodm:ExtCodeID="C119198">
+                    <nciodm:CDISCSynonym>STCG01-STC ARC Grade</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Stent Thrombosis Coronary ARC Grade - A grading system to describe the coronary stent thrombosis per the classification schema described by the Academic Research Consortium.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ARC STC Grade - Stent Thrombosis Coronary ARC Grade</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>STCG01TC</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Stent Thrombosis Coronary ARC Grade Clinical Classification Test Code</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Clinical Classification ARC STC Grade Test Code Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

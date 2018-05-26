@@ -1,0 +1,29 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C101810.BARS01TN" Name="Barnes Akathisia Rating Scale Questionnaire Test Name" DataType="text" nciodm:ExtCodeID="C101810" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Barnes Akathisia Rating Scale test name.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="BARS01-Global Clinical Assessment" nciodm:ExtCodeID="C102049">
+                    <nciodm:CDISCSynonym>BARS01-Global Clinical Assessment</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Barnes Akathisia Rating Scale - Global clinical assessment of akathisia.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BARS - Global Clinical Assessment</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BARS01-Objective" nciodm:ExtCodeID="C102046">
+                    <nciodm:CDISCSynonym>BARS01-Objective</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Barnes Akathisia Rating Scale - Objective.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BARS - Objective</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BARS01-Subjective, Awareness" nciodm:ExtCodeID="C102047">
+                    <nciodm:CDISCSynonym>BARS01-Subjective, Awareness</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Barnes Akathisia Rating Scale - Subjective, awareness of restlessness.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BARS - Subjective, Awareness</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BARS01-Subjective, Distress" nciodm:ExtCodeID="C102048">
+                    <nciodm:CDISCSynonym>BARS01-Subjective, Distress</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Barnes Akathisia Rating Scale - Subjective, distress related to restlessness.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BARS - Subjective, Distress</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>BARS01TN</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Barnes Akathisia Rating Scale Questionnaire Test Name</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Questionnaire BARS Test Name Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

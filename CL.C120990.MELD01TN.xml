@@ -1,0 +1,14 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C120990.MELD01TN" Name="Model for End Stage Liver Disease Clinical Classification Test Name" DataType="text" nciodm:ExtCodeID="C120990" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Model for End Stage Liver Disease test name.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="MELD01-Score" nciodm:ExtCodeID="C121076">
+                    <nciodm:CDISCSynonym>MELD01-Score</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Model for End Stage Liver Disease - MELD score.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MELD - Score</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>MELD01TN</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Model for End Stage Liver Disease Clinical Classification Test Name</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Clinical Classification MELD Test Name Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

@@ -1,0 +1,304 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C125748.PHQ03TN" Name="Patient Health Questionnaire Screener Version Questionnaire Test Name" DataType="text" nciodm:ExtCodeID="C125748" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Patient Health Questionnaire Screener Version test name.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="PHQ03-Alcohol at Work/School" nciodm:ExtCodeID="C125883">
+                    <nciodm:CDISCSynonym>PHQ03-Alcohol at Work/School</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Patient Health Questionnaire Screener Version - Have any of the following happened to you more than once in the last 6 months: You drank alcohol, were high from alcohol, or hung over while you were working, or going to school, or taking care of children or other responsibilities?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PHQ Screener Version - Drank Alcohol at Work or School</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PHQ03-Anxiety Attack" nciodm:ExtCodeID="C125851">
+                    <nciodm:CDISCSynonym>PHQ03-Anxiety Attack</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Patient Health Questionnaire Screener Version - In the last 4 weeks, have you had an anxiety attack - suddenly feeling fear or panic?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PHQ Screener Version - Anxiety Attack</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PHQ03-Anxiety Attack Afraid You Dying" nciodm:ExtCodeID="C125865">
+                    <nciodm:CDISCSynonym>PHQ03-Anxiety Attack Afraid You Dying</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Patient Health Questionnaire Screener Version - Think about your last bad anxiety attack. Were you afraid you were dying?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PHQ Screener Version - Anxiety Attack Afraid You Were Dying</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PHQ03-Anxiety Attack Chest Pain" nciodm:ExtCodeID="C125857">
+                    <nciodm:CDISCSynonym>PHQ03-Anxiety Attack Chest Pain</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Patient Health Questionnaire Screener Version - Think about your last bad anxiety attack. Did you have chest pain or pressure?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PHQ Screener Version - Anxiety Attack Chest Pain</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PHQ03-Anxiety Attack Choking" nciodm:ExtCodeID="C125859">
+                    <nciodm:CDISCSynonym>PHQ03-Anxiety Attack Choking</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Patient Health Questionnaire Screener Version - Think about your last bad anxiety attack. Did you feel as if you were choking?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PHQ Screener Version - Anxiety Attack Choking</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PHQ03-Anxiety Attack Dizzy/Faint" nciodm:ExtCodeID="C125862">
+                    <nciodm:CDISCSynonym>PHQ03-Anxiety Attack Dizzy/Faint</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Patient Health Questionnaire Screener Version - Think about your last bad anxiety attack. Did you feel dizzy, unsteady, or faint?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PHQ Screener Version - Anxiety Attack Dizzy or Faint</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PHQ03-Anxiety Attack Happened Before" nciodm:ExtCodeID="C125852">
+                    <nciodm:CDISCSynonym>PHQ03-Anxiety Attack Happened Before</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Patient Health Questionnaire Screener Version - Has this ever happened before?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PHQ Screener Version - Anxiety Attack Happened Before</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PHQ03-Anxiety Attack Heart Race/Pound" nciodm:ExtCodeID="C125856">
+                    <nciodm:CDISCSynonym>PHQ03-Anxiety Attack Heart Race/Pound</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Patient Health Questionnaire Screener Version - Think about your last bad anxiety attack. Did your heart race, pound, or skip?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PHQ Screener Version - Anxiety Attack Heart Race or Pound</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PHQ03-Anxiety Attack Hot Flash/Chill" nciodm:ExtCodeID="C125860">
+                    <nciodm:CDISCSynonym>PHQ03-Anxiety Attack Hot Flash/Chill</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Patient Health Questionnaire Screener Version - Think about your last bad anxiety attack. Did you have hot flashes or chills?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PHQ Screener Version - Anxiety Attack Hot Flash or Chill</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PHQ03-Anxiety Attack Nausea/Diarrhea" nciodm:ExtCodeID="C125861">
+                    <nciodm:CDISCSynonym>PHQ03-Anxiety Attack Nausea/Diarrhea</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Patient Health Questionnaire Screener Version - Think about your last bad anxiety attack. Did you have nausea or an upset stomach, or the feeling that you were going to have diarrhea?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PHQ Screener Version - Anxiety Attack Nausea or Diarrhea</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PHQ03-Anxiety Attack Short of Breath" nciodm:ExtCodeID="C125855">
+                    <nciodm:CDISCSynonym>PHQ03-Anxiety Attack Short of Breath</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Patient Health Questionnaire Screener Version - Think about your last bad anxiety attack. Were you short of breath?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PHQ Screener Version - Anxiety Attack Short of Breath</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PHQ03-Anxiety Attack Sweat" nciodm:ExtCodeID="C125858">
+                    <nciodm:CDISCSynonym>PHQ03-Anxiety Attack Sweat</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Patient Health Questionnaire Screener Version - Think about your last bad anxiety attack. Did you sweat?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PHQ Screener Version - Anxiety Attack Sweat</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PHQ03-Anxiety Attack Tingling/Numbness" nciodm:ExtCodeID="C125863">
+                    <nciodm:CDISCSynonym>PHQ03-Anxiety Attack Tingling/Numbness</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Patient Health Questionnaire Screener Version - Think about your last bad anxiety attack. Did you have tingling or numbness in parts of your body?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PHQ Screener Version - Anxiety Attack Tingling or Numbness</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PHQ03-Anxiety Attack Tremble/Shake" nciodm:ExtCodeID="C125864">
+                    <nciodm:CDISCSynonym>PHQ03-Anxiety Attack Tremble/Shake</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Patient Health Questionnaire Screener Version - Think about your last bad anxiety attack. Did you tremble or shake?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PHQ Screener Version - Anxiety Attack Tremble or Shake</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PHQ03-Anxiety Attacks Bother a Lot" nciodm:ExtCodeID="C125854">
+                    <nciodm:CDISCSynonym>PHQ03-Anxiety Attacks Bother a Lot</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Patient Health Questionnaire Screener Version - Do these attacks bother you a lot or are you worried about having another attack?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PHQ Screener Version - Anxiety Attacks Bother a Lot</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PHQ03-Anxiety Attacks Come Suddenly" nciodm:ExtCodeID="C125853">
+                    <nciodm:CDISCSynonym>PHQ03-Anxiety Attacks Come Suddenly</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Patient Health Questionnaire Screener Version - Do some of these attacks come suddenly out of the blue - that is, in situations where you don't expect to be nervous or uncomfortable?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PHQ Screener Version - Anxiety Attacks Come Suddenly</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PHQ03-Avoid Gaining Weight Twice Week" nciodm:ExtCodeID="C125880">
+                    <nciodm:CDISCSynonym>PHQ03-Avoid Gaining Weight Twice Week</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Patient Health Questionnaire Screener Version - If you checked "YES" to any of these ways of avoiding gaining weight, were any as often, on average, as twice a week?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PHQ Screener Version - Avoid Gaining Weight Twice Week</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PHQ03-Back Pain" nciodm:ExtCodeID="C125830">
+                    <nciodm:CDISCSynonym>PHQ03-Back Pain</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Patient Health Questionnaire Screener Version - During the last 4 weeks, how much have you been bothered by back pain?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PHQ Screener Version - Back Pain</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PHQ03-Becoming Easily Annoyed" nciodm:ExtCodeID="C125872">
+                    <nciodm:CDISCSynonym>PHQ03-Becoming Easily Annoyed</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Patient Health Questionnaire Screener Version - Over the last 4 weeks, how often have you been bothered by becoming easily annoyed or irritable?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PHQ Screener Version - Becoming Easily Annoyed</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PHQ03-Chest Pain" nciodm:ExtCodeID="C125835">
+                    <nciodm:CDISCSynonym>PHQ03-Chest Pain</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Patient Health Questionnaire Screener Version - During the last 4 weeks, how much have you been bothered by chest pain?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PHQ Screener Version - Chest Pain</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PHQ03-Constipation/Diarrhea" nciodm:ExtCodeID="C125840">
+                    <nciodm:CDISCSynonym>PHQ03-Constipation/Diarrhea</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Patient Health Questionnaire Screener Version - During the last 4 weeks, how much have you been bothered by constipation, loose bowels, or diarrhea?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PHQ Screener Version - Constipation or Diarrhea</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PHQ03-Dizziness" nciodm:ExtCodeID="C125836">
+                    <nciodm:CDISCSynonym>PHQ03-Dizziness</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Patient Health Questionnaire Screener Version - During the last 4 weeks, how much have you been bothered by dizziness?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PHQ Screener Version - Dizziness</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PHQ03-Drank Alcohol With Health Problem" nciodm:ExtCodeID="C125882">
+                    <nciodm:CDISCSynonym>PHQ03-Drank Alcohol With Health Problem</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Patient Health Questionnaire Screener Version - Have any of the following happened to you more than once in the last 6 months: You drank alcohol even though a doctor suggested that you stop drinking because of a problem with your health?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PHQ Screener Version - Drank Alcohol With Health Problem</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PHQ03-Drink Alcohol" nciodm:ExtCodeID="C125881">
+                    <nciodm:CDISCSynonym>PHQ03-Drink Alcohol</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Patient Health Questionnaire Screener Version - Do you ever drink alcohol (including beer or wine)?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PHQ Screener Version - Drink Alcohol</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PHQ03-Drove After Several Drinks" nciodm:ExtCodeID="C125886">
+                    <nciodm:CDISCSynonym>PHQ03-Drove After Several Drinks</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Patient Health Questionnaire Screener Version - Have any of the following happened to you more than once in the last 6 months: You drove a car after having several drinks or after drinking too much?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PHQ Screener Version - Drove Car After Several Drinks</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PHQ03-Eat 2-Hours Large Amount Food" nciodm:ExtCodeID="C125874">
+                    <nciodm:CDISCSynonym>PHQ03-Eat 2-Hours Large Amount Food</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Patient Health Questionnaire Screener Version - Do you often eat, within any 2 - hour period, what most people would regard as an unusually large amount of food?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PHQ Screener Version - Often Eat Large Amount Food</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PHQ03-Eat a Lot Twice Week" nciodm:ExtCodeID="C125875">
+                    <nciodm:CDISCSynonym>PHQ03-Eat a Lot Twice Week</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Patient Health Questionnaire Screener Version - Has this been as often, on average, as twice a week for the last 3 months?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PHQ Screener Version - Eat a Lot Twice Week</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PHQ03-Exercised Avoid Gaining Weight" nciodm:ExtCodeID="C125879">
+                    <nciodm:CDISCSynonym>PHQ03-Exercised Avoid Gaining Weight</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Patient Health Questionnaire Screener Version - In the last 3 months have you often done any of the following in order to avoid gaining weight: Exercised for more than an hour specifically to avoid gaining weight after binge eating?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PHQ Screener Version - Avoid Gaining Weight, Exercise</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PHQ03-Fainting Spells" nciodm:ExtCodeID="C125837">
+                    <nciodm:CDISCSynonym>PHQ03-Fainting Spells</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Patient Health Questionnaire Screener Version - During the last 4 weeks, how much have you been bothered by fainting spells?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PHQ Screener Version - Fainting Spells</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PHQ03-Fasted at Least 24 Hours" nciodm:ExtCodeID="C125878">
+                    <nciodm:CDISCSynonym>PHQ03-Fasted at Least 24 Hours</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Patient Health Questionnaire Screener Version - In the last 3 months have you often done any of the following in order to avoid gaining weight: Fasted - not eaten anything at all for at least 24 hours to avoid gaining weight?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PHQ Screener Version - Avoid Gaining Weight, Fasted at Least 24 Hours</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PHQ03-Feeling Bad About Yourself" nciodm:ExtCodeID="C125847">
+                    <nciodm:CDISCSynonym>PHQ03-Feeling Bad About Yourself</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Patient Health Questionnaire Screener Version - Over the last 2 weeks, how often have you been bothered by feeling bad about yourself - or that you are a failure or have let yourself or your family down?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PHQ Screener Version - Feeling Bad About Yourself</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PHQ03-Feeling Down/Depressed" nciodm:ExtCodeID="C125843">
+                    <nciodm:CDISCSynonym>PHQ03-Feeling Down/Depressed</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Patient Health Questionnaire Screener Version - Over the last 2 weeks, how often have you been bothered by feeling down, depressed, or hopeless?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PHQ Screener Version - Feeling Down or Depressed</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PHQ03-Feeling Nervous/Anxious" nciodm:ExtCodeID="C125866">
+                    <nciodm:CDISCSynonym>PHQ03-Feeling Nervous/Anxious</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Patient Health Questionnaire Screener Version - Over the last 4 weeks, how often have you been bothered by feeling nervous, anxious, on edge, or worrying a lot about different things?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PHQ Screener Version - Feeling Nervous or Anxious</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PHQ03-Feeling Restless" nciodm:ExtCodeID="C125867">
+                    <nciodm:CDISCSynonym>PHQ03-Feeling Restless</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Patient Health Questionnaire Screener Version - Over the last 4 weeks, how often have you been bothered by feeling restless so that it is hard to sit still?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PHQ Screener Version - Feeling Restless</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PHQ03-Feeling Tired/Little Energy" nciodm:ExtCodeID="C125845">
+                    <nciodm:CDISCSynonym>PHQ03-Feeling Tired/Little Energy</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Patient Health Questionnaire Screener Version - Over the last 2 weeks, how often have you been bothered by feeling tired or having little energy?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PHQ Screener Version - Feeling Tired or Little Energy</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PHQ03-Feeling Your Heart Pound/Race" nciodm:ExtCodeID="C125838">
+                    <nciodm:CDISCSynonym>PHQ03-Feeling Your Heart Pound/Race</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Patient Health Questionnaire Screener Version - During the last 4 weeks, how much have you been bothered by feeling your heart pound/race?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PHQ Screener Version - Feeling Your Heart Pound or Race</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PHQ03-Getting Tired Easily" nciodm:ExtCodeID="C125868">
+                    <nciodm:CDISCSynonym>PHQ03-Getting Tired Easily</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Patient Health Questionnaire Screener Version - Over the last 4 weeks, how often have you been bothered by getting tired very easily?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PHQ Screener Version - Getting Tired Easily</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PHQ03-Headaches" nciodm:ExtCodeID="C125834">
+                    <nciodm:CDISCSynonym>PHQ03-Headaches</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Patient Health Questionnaire Screener Version - During the last 4 weeks, how much have you been bothered by headaches?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PHQ Screener Version - Headaches</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PHQ03-Last 2 Week Trouble Concentrating" nciodm:ExtCodeID="C125848">
+                    <nciodm:CDISCSynonym>PHQ03-Last 2 Week Trouble Concentrating</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Patient Health Questionnaire Screener Version - Over the last 2 weeks, how often have you been bothered by trouble concentrating on things, such as reading the newspaper or watching television?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PHQ Screener Version - Last 2 Weeks, Trouble Concentrating</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PHQ03-Last 2 Week Trouble Falling Asleep" nciodm:ExtCodeID="C125844">
+                    <nciodm:CDISCSynonym>PHQ03-Last 2 Week Trouble Falling Asleep</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Patient Health Questionnaire Screener Version - Over the last 2 weeks, how often have you been bothered by trouble falling or staying asleep, or sleeping too much?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PHQ Screener Version - Last 2 Weeks, Trouble Falling or Staying Asleep</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PHQ03-Last 4 Week Trouble Concentrating" nciodm:ExtCodeID="C125871">
+                    <nciodm:CDISCSynonym>PHQ03-Last 4 Week Trouble Concentrating</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Patient Health Questionnaire Screener Version - Over the last 4 weeks, how often have you been bothered by trouble concentrating on things, such as reading a book or watching TV?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PHQ Screener Version - Last 4 Weeks, Trouble Concentrating</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PHQ03-Last 4 Week Trouble Falling Asleep" nciodm:ExtCodeID="C125870">
+                    <nciodm:CDISCSynonym>PHQ03-Last 4 Week Trouble Falling Asleep</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Patient Health Questionnaire Screener Version - Over the last 4 weeks, how often have you been bothered by trouble falling asleep or staying asleep?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PHQ Screener Version - Last 4 Weeks, Trouble Falling or Staying Asleep</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PHQ03-Little Interest in Doing Things" nciodm:ExtCodeID="C125842">
+                    <nciodm:CDISCSynonym>PHQ03-Little Interest in Doing Things</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Patient Health Questionnaire Screener Version - Over the last 2 weeks, how often have you been bothered by little interest or pleasure in doing things?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PHQ Screener Version - Little Interest in Doing Things</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PHQ03-Made Yourself Vomit" nciodm:ExtCodeID="C125876">
+                    <nciodm:CDISCSynonym>PHQ03-Made Yourself Vomit</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Patient Health Questionnaire Screener Version - In the last 3 months have you often done any of the following in order to avoid gaining weight: Made yourself vomit?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PHQ Screener Version - Avoid Gaining Weight, Made Yourself Vomit</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PHQ03-Menstrual Cramp/Problem" nciodm:ExtCodeID="C125832">
+                    <nciodm:CDISCSynonym>PHQ03-Menstrual Cramp/Problem</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Patient Health Questionnaire Screener Version - During the last 4 weeks, how much have you been bothered by menstrual cramps or other problems with your periods?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PHQ Screener Version - Menstrual Cramp or Other Problem</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PHQ03-Missed Work Because of Drinking" nciodm:ExtCodeID="C125884">
+                    <nciodm:CDISCSynonym>PHQ03-Missed Work Because of Drinking</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Patient Health Questionnaire Screener Version - Have any of the following happened to you more than once in the last 6 months: You missed or were late for work, school, or other activities because you were drinking or hung over?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PHQ Screener Version - Missed Work Because of Drinking</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PHQ03-Moving Slowly/Fidgety/Restless" nciodm:ExtCodeID="C125849">
+                    <nciodm:CDISCSynonym>PHQ03-Moving Slowly/Fidgety/Restless</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Patient Health Questionnaire Screener Version - Over the last 2 weeks, how often have you been bothered by moving or speaking so slowly that other people could have noticed? Or the opposite - being so fidgety or restless that you have been moving around a lot more than usual?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PHQ Screener Version - Moving Slowly or Moving More</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PHQ03-Muscle Tension/Aches/Soreness" nciodm:ExtCodeID="C125869">
+                    <nciodm:CDISCSynonym>PHQ03-Muscle Tension/Aches/Soreness</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Patient Health Questionnaire Screener Version - Over the last 4 weeks, how often have you been bothered by muscle tension, aches, or soreness?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PHQ Screener Version - Muscle Tension</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PHQ03-Nausea/Gas/Indigestion" nciodm:ExtCodeID="C125841">
+                    <nciodm:CDISCSynonym>PHQ03-Nausea/Gas/Indigestion</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Patient Health Questionnaire Screener Version - During the last 4 weeks, how much have you been bothered by nausea, gas, indigestion?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PHQ Screener Version - Nausea, Gas or Indigestion</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PHQ03-No Control What/How Much Eat" nciodm:ExtCodeID="C125873">
+                    <nciodm:CDISCSynonym>PHQ03-No Control What/How Much Eat</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Patient Health Questionnaire Screener Version - Do you often feel that you can't control what or how much you eat?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PHQ Screener Version - No Control What or How Much Eat</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PHQ03-Pain in Your Arms/Legs/Joints" nciodm:ExtCodeID="C125831">
+                    <nciodm:CDISCSynonym>PHQ03-Pain in Your Arms/Legs/Joints</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Patient Health Questionnaire Screener Version - During the last 4 weeks, how much have you been bothered by pain in your arms, legs, or joints (knees, hips, etc.)?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PHQ Screener Version - Pain in Arms, Legs, Joints</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PHQ03-Pain/Problems During Intercourse" nciodm:ExtCodeID="C125833">
+                    <nciodm:CDISCSynonym>PHQ03-Pain/Problems During Intercourse</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Patient Health Questionnaire Screener Version - During the last 4 weeks, how much have you been bothered by pain or problems during sexual intercourse?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PHQ Screener Version - Pain During Intercourse</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PHQ03-Poor Appetite or Overeating" nciodm:ExtCodeID="C125846">
+                    <nciodm:CDISCSynonym>PHQ03-Poor Appetite or Overeating</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Patient Health Questionnaire Screener Version - Over the last 2 weeks, how often have you been bothered by poor appetite or overeating?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PHQ Screener Version - Poor Appetite or Overeating</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PHQ03-Problem With People While Drinking" nciodm:ExtCodeID="C125885">
+                    <nciodm:CDISCSynonym>PHQ03-Problem With People While Drinking</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Patient Health Questionnaire Screener Version - Have any of the following happened to you more than once in the last 6 months: You had a problem getting along with other people while you were drinking?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PHQ Screener Version - Problem Getting Along With People While Drinking</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PHQ03-Problems Made It Difficult to Work" nciodm:ExtCodeID="C125887">
+                    <nciodm:CDISCSynonym>PHQ03-Problems Made It Difficult to Work</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Patient Health Questionnaire Screener Version - If you checked off any problems on this questionnaire, how difficult have these problems made it for you to do your work, take care of things at home, or get along with other people?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PHQ Screener Version - Problems Made It Difficult to Work</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PHQ03-Shortness of Breath" nciodm:ExtCodeID="C125839">
+                    <nciodm:CDISCSynonym>PHQ03-Shortness of Breath</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Patient Health Questionnaire Screener Version - During the last 4 weeks, how much have you been bothered by shortness of breath?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PHQ Screener Version - Shortness of Breath</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PHQ03-Stomach Pain" nciodm:ExtCodeID="C125829">
+                    <nciodm:CDISCSynonym>PHQ03-Stomach Pain</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Patient Health Questionnaire Screener Version - During the last 4 weeks, how much have you been bothered by stomach pain?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PHQ Screener Version - Stomach Pain</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PHQ03-Thoughts Be Better Off Dead" nciodm:ExtCodeID="C125850">
+                    <nciodm:CDISCSynonym>PHQ03-Thoughts Be Better Off Dead</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Patient Health Questionnaire Screener Version - Over the last 2 weeks, how often have you been bothered by thoughts that you would be better off dead or of hurting yourself in some way?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PHQ Screener Version - Thoughts Be Better Off Dead</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PHQ03-Took Twice Dose of Laxatives" nciodm:ExtCodeID="C125877">
+                    <nciodm:CDISCSynonym>PHQ03-Took Twice Dose of Laxatives</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Patient Health Questionnaire Screener Version - In the last 3 months have you often done any of the following in order to avoid gaining weight: Took more than twice the recommended dose of laxatives to avoid gaining weight?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PHQ Screener Version - Avoid Gaining Weight, Took Twice Dose of Laxatives</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>PHQ03TN</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Patient Health Questionnaire Screener Version Questionnaire Test Name</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Questionnaire PHQ Screener Version Test Name Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

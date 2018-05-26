@@ -1,0 +1,14 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C100153.FPSR1TN" Name="Faces Pain Scale - Revised Questionnaire Test Name" DataType="text" nciodm:ExtCodeID="C100153" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Faces Pain Scale - Revised test name.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="FPSR1-How Much do you Hurt" nciodm:ExtCodeID="C101013">
+                    <nciodm:CDISCSynonym>FPSR1-How Much do you Hurt</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Faces Pain Scale - Revised - Point to the face that shows how much you hurt [right now].</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FPSR - How Much do You Hurt</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>FPSR1TN</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Faces Pain Scale - Revised Questionnaire Test Name</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Questionnaire FPSR Test Name Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

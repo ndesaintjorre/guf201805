@@ -1,0 +1,69 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C101806.AIMS01TN" Name="Abnormal Involuntary Movement Scale Questionnaire Test Name" DataType="text" nciodm:ExtCodeID="C101806" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Abnormal Involuntary Movement Scale test name.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="AIMS01-Current Problems Teeth/Dentures" nciodm:ExtCodeID="C102044">
+                    <nciodm:CDISCSynonym>AIMS01-Current Problems Teeth/Dentures</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Abnormal Involuntary Movement Scale - Dental Status, Current problems with teeth and/or dentures.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>AIMS - Current Teeth/Dentures Problems</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="AIMS01-Incapacitation due Abn Movements" nciodm:ExtCodeID="C102042">
+                    <nciodm:CDISCSynonym>AIMS01-Incapacitation due Abn Movements</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Abnormal Involuntary Movement Scale - Global Judgments, Incapacitation due to abnormal movements.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>AIMS - Incapacitation Due to Abnormal Movements</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="AIMS01-Jaw" nciodm:ExtCodeID="C102036">
+                    <nciodm:CDISCSynonym>AIMS01-Jaw</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Abnormal Involuntary Movement Scale - Facial and Oral Movements, Jaw, e.g., biting, clenching, chewing, mouth opening, lateral movement.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>AIMS - Jaw</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="AIMS01-Lips and Perioral Area" nciodm:ExtCodeID="C102035">
+                    <nciodm:CDISCSynonym>AIMS01-Lips and Perioral Area</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Abnormal Involuntary Movement Scale - Facial and Oral Movements, Lips and perioral area, e.g., puckering, pouting, smacking.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>AIMS - Lips and Perioral Area</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="AIMS01-Lower Extremities" nciodm:ExtCodeID="C102039">
+                    <nciodm:CDISCSynonym>AIMS01-Lower Extremities</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Abnormal Involuntary Movement Scale - Extremity Movements, Lower (legs, knees, ankles, toes), e.g., lateral knee movement, foot tapping, heel dropping, foot squirming, inversion and eversion of foot.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>AIMS - Lower Extremities</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="AIMS01-Muscles of Facial Expression" nciodm:ExtCodeID="C102034">
+                    <nciodm:CDISCSynonym>AIMS01-Muscles of Facial Expression</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Abnormal Involuntary Movement Scale - Facial and Oral Movements, Muscles of facial expression, e.g., movements of forehead, eyebrows, periorbital area, cheeks. Include frowning, blinking, grimacing of upper face.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>AIMS - Muscles of Facial Expression</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="AIMS01-Neck, Shoulders, Hips" nciodm:ExtCodeID="C102040">
+                    <nciodm:CDISCSynonym>AIMS01-Neck, Shoulders, Hips</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Abnormal Involuntary Movement Scale - Trunk Movements, Neck, shoulders, hips, e.g., rocking, twisting, squirming, pelvic gyrations. Include diaphragmatic movements.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>AIMS - Neck, Shoulders, Hips</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="AIMS01-Patient Awareness Abn Movements" nciodm:ExtCodeID="C102043">
+                    <nciodm:CDISCSynonym>AIMS01-Patient Awareness Abn Movements</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Abnormal Involuntary Movement Scale - Global Judgments, Patient's awareness of abnormal movements.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>AIMS - Patient's Awareness of Abnormal Movements</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="AIMS01-Patient Usually Wear Dentures" nciodm:ExtCodeID="C102045">
+                    <nciodm:CDISCSynonym>AIMS01-Patient Usually Wear Dentures</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Abnormal Involuntary Movement Scale - Dental Status, Does patient usually wear dentures?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>AIMS - Patient Usually Wears Dentures</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="AIMS01-Severity of Abnormal Movements" nciodm:ExtCodeID="C102041">
+                    <nciodm:CDISCSynonym>AIMS01-Severity of Abnormal Movements</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Abnormal Involuntary Movement Scale - Global Judgments, Severity of abnormal movements, based on the highest single score on the above items.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>AIMS - Severity of Abnormal Movements</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="AIMS01-Tongue" nciodm:ExtCodeID="C102037">
+                    <nciodm:CDISCSynonym>AIMS01-Tongue</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Abnormal Involuntary Movement Scale - Facial and Oral Movements, Tongue. Rate only increase in movement both in and out of mouth, not inability to sustain movement.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>AIMS - Tongue</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="AIMS01-Upper Extremities" nciodm:ExtCodeID="C102038">
+                    <nciodm:CDISCSynonym>AIMS01-Upper Extremities</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Abnormal Involuntary Movement Scale - Extremity Movements, Upper (arms, wrists, hands, fingers). Include movements that are choreic (rapid, objectively purposeless, irregular, spontaneous) or athetoid (slow, irregular, complex, serpentine). Do not include tremor (repetitive, regular, rhythmic movements).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>AIMS - Upper Extremities</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>AIMS01TN</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Abnormal Involuntary Movement Scale Questionnaire Test Name</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Questionnaire AIMS Test Name Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

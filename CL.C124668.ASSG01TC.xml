@@ -1,0 +1,14 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C124668.ASSG01TC" Name="ASSIGN Cardiovascular Disease 10-Year Risk Score Clinical Classification Test Code" DataType="text" nciodm:ExtCodeID="C124668" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">ASSIGN Cardiovascular Disease 10-Year Risk Score test code.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="ASSG0101" nciodm:ExtCodeID="C124721">
+                    <nciodm:CDISCSynonym>ASSG01-ASSIGN Score</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>ASSIGN Cardiovascular Disease 10-Year Risk Score - ASSIGN score.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ASSIGN Score - Risk Score</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>ASSG01TC</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>ASSIGN Cardiovascular Disease 10-Year Risk Score Clinical Classification Test Code</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Clinical Classification ASSIGN Score Test Code Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

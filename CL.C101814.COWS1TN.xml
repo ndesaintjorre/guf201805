@@ -1,0 +1,74 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C101814.COWS1TN" Name="Clinical Opiate Withdrawal Scale Questionnaire Test Name" DataType="text" nciodm:ExtCodeID="C101814" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Clinical Opiate Withdrawal Scale test name.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="COWS1-Anxiety or Irritability" nciodm:ExtCodeID="C102065">
+                    <nciodm:CDISCSynonym>COWS1-Anxiety or Irritability</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Clinical Opiate Withdrawal Scale - Anxiety or irritability.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>COWS - Anxiety or Irritability</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="COWS1-Bone or Joint Aches" nciodm:ExtCodeID="C102060">
+                    <nciodm:CDISCSynonym>COWS1-Bone or Joint Aches</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Clinical Opiate Withdrawal Scale - Bone or joint aches.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>COWS - Bone or Joint Aches</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="COWS1-GI Upset" nciodm:ExtCodeID="C102062">
+                    <nciodm:CDISCSynonym>COWS1-GI Upset</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Clinical Opiate Withdrawal Scale - GI upset.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>COWS - GI Upset</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="COWS1-Gooseflesh Skin" nciodm:ExtCodeID="C102066">
+                    <nciodm:CDISCSynonym>COWS1-Gooseflesh Skin</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Clinical Opiate Withdrawal Scale - Gooseflesh skin.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>COWS - Gooseflesh Skin</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="COWS1-Pupil Size" nciodm:ExtCodeID="C102059">
+                    <nciodm:CDISCSynonym>COWS1-Pupil Size</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Clinical Opiate Withdrawal Scale - Pupil size.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>COWS - Pupil Size</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="COWS1-Resting Pulse Rate" nciodm:ExtCodeID="C102056">
+                    <nciodm:CDISCSynonym>COWS1-Resting Pulse Rate</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Clinical Opiate Withdrawal Scale - Resting pulse rate.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>COWS - Resting Pulse Rate</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="COWS1-Resting Pulse Rate Beats/Minute" nciodm:ExtCodeID="C112467">
+                    <nciodm:CDISCSynonym>COWS1-Resting Pulse Rate Beats/minute</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Clinical Opiate Withdrawal Scale - Resting pulse rate: beats/minute.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>COWS - Resting Pulse Rate: Beats/Minute</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="COWS1-Restlessness" nciodm:ExtCodeID="C102058">
+                    <nciodm:CDISCSynonym>COWS1-Restlessness</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Clinical Opiate Withdrawal Scale - Restlessness.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>COWS - Restlessness</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="COWS1-Runny Nose or Tearing" nciodm:ExtCodeID="C102061">
+                    <nciodm:CDISCSynonym>COWS1-Runny Nose or Tearing</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Clinical Opiate Withdrawal Scale - Runny nose or tearing.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>COWS - Runny Nose or Tearing</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="COWS1-Sweating" nciodm:ExtCodeID="C102057">
+                    <nciodm:CDISCSynonym>COWS1-Sweating</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Clinical Opiate Withdrawal Scale - Sweating.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>COWS - Sweating</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="COWS1-Total Score" nciodm:ExtCodeID="C112468">
+                    <nciodm:CDISCSynonym>COWS1-Total Score</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Clinical Opiate Withdrawal Scale - Total score.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>COWS - Total Score</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="COWS1-Tremor" nciodm:ExtCodeID="C102063">
+                    <nciodm:CDISCSynonym>COWS1-Tremor</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Clinical Opiate Withdrawal Scale - Tremor.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>COWS - Tremor</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="COWS1-Yawning" nciodm:ExtCodeID="C102064">
+                    <nciodm:CDISCSynonym>COWS1-Yawning</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Clinical Opiate Withdrawal Scale - Yawning.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>COWS - Yawning</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>COWS1TN</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Clinical Opiate Withdrawal Scale Questionnaire Test Name</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Questionnaire COWS Test Name Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

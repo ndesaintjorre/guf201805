@@ -1,0 +1,264 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C105132.CSS03TC" Name="Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study Questionnaire Test Code" DataType="text" nciodm:ExtCodeID="C105132" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study Version 1/14/2009 Questionnaire test code.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="CSS0301A" nciodm:ExtCodeID="C105210">
+                    <nciodm:CDISCSynonym>CSS03-Wish to be Dead-Life</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study - Have you wished you were dead or wished you could go to sleep and not wake up? (Lifetime).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Baseline/Screening Version Phase 1 Study - Wish to be Dead (Lifetime)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS0301B" nciodm:ExtCodeID="C105211">
+                    <nciodm:CDISCSynonym>CSS03-Wish to be Dead-P6M</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study - Have you wished you were dead or wished you could go to sleep and not wake up? (Past 6 Months).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Baseline/Screening Version Phase 1 Study - Wish to be Dead (Past 6 Months)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS0301C" nciodm:ExtCodeID="C105212">
+                    <nciodm:CDISCSynonym>CSS03-Wish to be Dead, Describe</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study - Description of wishing to be dead.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Baseline/Screening Version Phase 1 Study - Description of Wish to be Dead (Lifetime)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS0302A" nciodm:ExtCodeID="C105213">
+                    <nciodm:CDISCSynonym>CSS03-Non-Spec Suicid Thought-Life</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study - Have you actually had any thoughts of killing yourself? (Lifetime).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Baseline/Screening Version Phase 1 Study - Non-Specific Active Suicidal Thoughts (Lifetime)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS0302B" nciodm:ExtCodeID="C105214">
+                    <nciodm:CDISCSynonym>CSS03-Non-Spec Suicid Thought-P6M</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study - Have you actually had any thoughts of killing yourself? (Past 6 Months).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Baseline/Screening Version Phase 1 Study - Non-Specific Active Suicidal Thoughts (Past 6 Months)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS0302C" nciodm:ExtCodeID="C105215">
+                    <nciodm:CDISCSynonym>CSS03-Non-Spec Suicid Thought, Describe</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study - Description of non-specific active suicidal thoughts.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Baseline/Screening Version Phase 1 Study - Description of Non-Specific Active Suicidal Thoughts (Lifetime)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS0303A" nciodm:ExtCodeID="C105216">
+                    <nciodm:CDISCSynonym>CSS03-Idea, No Intent, No Plan-Life</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study - Have you been thinking about how you might do this? (Lifetime).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Baseline/Screening Version Phase 1 Study - Active Suicidal Ideation with Any Methods (Not Plan) without Intent to Act (Lifetime)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS0303B" nciodm:ExtCodeID="C105217">
+                    <nciodm:CDISCSynonym>CSS03-Idea, No Intent, No Plan-P6M</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study - Have you been thinking about how you might do this? (Past 6 Months).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Baseline/Screening Version Phase 1 Study - Active Suicidal Ideation with Any Methods (Not Plan) without Intent to Act (Past 6 Months)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS0303C" nciodm:ExtCodeID="C105218">
+                    <nciodm:CDISCSynonym>CSS03-Idea, No Intent, No Plan, Describe</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study - Description of active suicidal ideation with any methods (not plan) without intent to act.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Baseline/Screening Version Phase 1 Study - Description of Active Suicidal Ideation with Any Methods (Not Plan) without Intent to Act (Lifetime)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS0304A" nciodm:ExtCodeID="C105219">
+                    <nciodm:CDISCSynonym>CSS03-Idea, Intent, No Plan-Life</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study - Have you had these thoughts and had some intention of acting on them? (Lifetime).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Baseline/Screening Version Phase 1 Study - Active Suicidal Ideation with Some Intent to Act, without Specific Plan (Lifetime)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS0304B" nciodm:ExtCodeID="C105220">
+                    <nciodm:CDISCSynonym>CSS03-Idea, Intent, No Plan-P6M</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study - Have you had these thoughts and had some intention of acting on them? (Past 6 Months).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Baseline/Screening Version Phase 1 Study - Active Suicidal Ideation with Some Intent to Act, without Specific Plan (Past 6 Months)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS0304C" nciodm:ExtCodeID="C105221">
+                    <nciodm:CDISCSynonym>CSS03-Idea, Intent, No Plan, Describe</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study - Description of active suicidal ideation with some intent to act, without specific plan.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Baseline/Screening Version Phase 1 Study - Description of Active Suicidal Ideation with Some Intent to Act, without Specific Plan (Lifetime)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS0305A" nciodm:ExtCodeID="C105222">
+                    <nciodm:CDISCSynonym>CSS03-Idea, Plan, Intent-Life</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study - Have you started to work out or worked out the details of how to kill yourself? Do you intend to carry out this plan? (Lifetime).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Baseline/Screening Version Phase 1 Study - Active Suicidal Ideation with Specific Plan and Intent (Lifetime)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS0305B" nciodm:ExtCodeID="C105223">
+                    <nciodm:CDISCSynonym>CSS03-Idea, Plan, Intent-P6M</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study - Have you started to work out or worked out the details of how to kill yourself? Do you intend to carry out this plan? (Past 6 Months).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Baseline/Screening Version Phase 1 Study - Active Suicidal Ideation with Specific Plan and Intent (Past 6 Months)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS0305C" nciodm:ExtCodeID="C105224">
+                    <nciodm:CDISCSynonym>CSS03-Idea, Plan, Intent, Describe</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study - Description of active suicidal ideation with specific plan and intent.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Baseline/Screening Version Phase 1 Study - Description of Active Suicidal Ideation with Specific Plan and Intent (Lifetime)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS0306A" nciodm:ExtCodeID="C105225">
+                    <nciodm:CDISCSynonym>CSS03-Most Severe Idea-Life</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study - Most severe ideation. (Lifetime).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Baseline/Screening Version Phase 1 Study - Most Severe Ideation (Lifetime)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS0306B" nciodm:ExtCodeID="C105226">
+                    <nciodm:CDISCSynonym>CSS03-Most Severe Idea, Desc-Life</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study - Description of most severe ideation. (Lifetime).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Baseline/Screening Version Phase 1 Study - Describe Most Severe Ideation (Lifetime)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS0306C" nciodm:ExtCodeID="C105227">
+                    <nciodm:CDISCSynonym>CSS03-Most Severe Idea-P6M</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study - Most severe ideation. (Past 6 Months).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Baseline/Screening Version Phase 1 Study - Most Severe Ideation (Past 6 Months)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS0306D" nciodm:ExtCodeID="C105228">
+                    <nciodm:CDISCSynonym>CSS03-Most Severe Idea, Desc-P6M</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study - Description of most severe ideation. (Past 6 Months).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Baseline/Screening Version Phase 1 Study - Describe Most Severe Ideation (Past 6 Months)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS0307A" nciodm:ExtCodeID="C105229">
+                    <nciodm:CDISCSynonym>CSS03-Most Severe Idea, Frequency-Life</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study - How many times have you had these thoughts? (Lifetime).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Baseline/Screening Version Phase 1 Study - Frequency of Most Severe Ideation (Lifetime)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS0307B" nciodm:ExtCodeID="C105230">
+                    <nciodm:CDISCSynonym>CSS03-Most Severe Idea, Frequency-P6M</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study - How many times have you had these thoughts? (Past 6 Months).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Baseline/Screening Version Phase 1 Study - Frequency of Most Severe Ideation (Past 6 Months)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS0308A" nciodm:ExtCodeID="C105231">
+                    <nciodm:CDISCSynonym>CSS03-Most Severe Idea, Duration-Life</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study - When you have the thoughts how long do they last? (Lifetime).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Baseline/Screening Version Phase 1 Study - Duration of Most Severe Ideation (Lifetime)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS0308B" nciodm:ExtCodeID="C105232">
+                    <nciodm:CDISCSynonym>CSS03-Most Severe Idea, Duration-P6M</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study - When you have the thoughts how long do they last? (Past 6 Months).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Baseline/Screening Version Phase 1 Study - Duration of Most Severe Ideation (Past 6 Months)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS0309A" nciodm:ExtCodeID="C105233">
+                    <nciodm:CDISCSynonym>CSS03-Most Severe Idea, Control-Life</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study - Could/can you stop thinking about killing yourself or wanting to die if you want to? (Lifetime).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Baseline/Screening Version Phase 1 Study - Controllability of Most Severe Ideation (Lifetime)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS0309B" nciodm:ExtCodeID="C105234">
+                    <nciodm:CDISCSynonym>CSS03-Most Severe Idea, Control-P6M</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study - Could/can you stop thinking about killing yourself or wanting to die if you want to? (Past 6 Months).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Baseline/Screening Version Phase 1 Study - Controllability of Most Severe Ideation (Past 6 Months)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS0310A" nciodm:ExtCodeID="C105235">
+                    <nciodm:CDISCSynonym>CSS03-Most Severe Idea, Deterrents-Life</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study - Are there things-anyone or anything (e.g., family, religion, pain of death) - that stopped you from wanting to die or acting on thoughts of committing suicide? (Lifetime).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Baseline/Screening Version Phase 1 Study - Deterrents to Most Severe Ideation (Lifetime)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS0310B" nciodm:ExtCodeID="C105236">
+                    <nciodm:CDISCSynonym>CSS03-Most Severe Idea, Deterrents-P6M</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study - Are there things-anyone or anything (e.g., family, religion, pain of death) - that stopped you from wanting to die or acting on thoughts of committing suicide? (Past 6 Months).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Baseline/Screening Version Phase 1 Study - Deterrents to Most Severe Ideation (Past 6 Months)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS0311A" nciodm:ExtCodeID="C105237">
+                    <nciodm:CDISCSynonym>CSS03-Most Severe Idea, Reasons-Life</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study - What sort of reasons did you have for thinking about wanting to die or killing yourself? Was it to end the pain or stop the way you were feeling (in other words you couldn't go on living with this pain or how you were feeling) or was it to get attention, revenge or a reaction from others? Or both? (Lifetime).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Baseline/Screening Version Phase 1 Study - Reasons for Most Severe Ideation (Lifetime)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS0311B" nciodm:ExtCodeID="C105238">
+                    <nciodm:CDISCSynonym>CSS03-Most Severe Idea, Reasons-P6M</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study - What sort of reasons did you have for thinking about wanting to die or killing yourself? Was it to end the pain or stop the way you were feeling (in other words you couldn't go on living with this pain or how you were feeling) or was it to get attention, revenge or a reaction from others? Or both? (Past 6 Months).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Baseline/Screening Version Phase 1 Study - Reasons for Most Severe Ideation (Past 6 Months)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS0312" nciodm:ExtCodeID="C105239">
+                    <nciodm:CDISCSynonym>CSS03-Actual Attempt</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study - Have you made a suicide attempt? Have you done anything to harm yourself? Have you done anything dangerous where you could have died?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Baseline/Screening Version Phase 1 Study - Actual Suicide Attempt</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS0313" nciodm:ExtCodeID="C105240">
+                    <nciodm:CDISCSynonym>CSS03-Number of Actual Attempts</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study - Total number of actual attempts.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Baseline/Screening Version Phase 1 Study - Number of Actual Suicide Attempts</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS0313A" nciodm:ExtCodeID="C105241">
+                    <nciodm:CDISCSynonym>CSS03-Actual Attempt, Describe</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study - Description of actual attempt.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Baseline/Screening Version Phase 1 Study - Description of Actual Suicide Attempt</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS0314" nciodm:ExtCodeID="C105242">
+                    <nciodm:CDISCSynonym>CSS03-Non-suicidal Self-injurious Behav</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study - Has the subject engaged in non-suicidal self-injurious behavior.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Baseline/Screening Version Phase 1 Study - Non-suicidal Self-injurious Behavior</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS0315" nciodm:ExtCodeID="C105243">
+                    <nciodm:CDISCSynonym>CSS03-Interrupted Attempt</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study - Has there been a time when you started to do something to try to end your life but someone or something stopped you before you actually did anything?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Baseline/Screening Version Phase 1 Study - Interrupted Suicide Attempt</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS0316" nciodm:ExtCodeID="C105244">
+                    <nciodm:CDISCSynonym>CSS03-Number of Interrupted Attempts</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study - Total number of interrupted attempts.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Baseline/Screening Version Phase 1 Study - Number of Interrupted Suicide Attempts</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS0316A" nciodm:ExtCodeID="C105245">
+                    <nciodm:CDISCSynonym>CSS03-Interrupted Attempt, Describe</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study - Description of interrupted attempt.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Baseline/Screening Version Phase 1 Study - Description of Interrupted Suicide Attempt</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS0317" nciodm:ExtCodeID="C105246">
+                    <nciodm:CDISCSynonym>CSS03-Aborted Attempt</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study - Has there been a time when you started to do something to try to end your life but you stopped yourself before you actually did anything?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Baseline/Screening Version Phase 1 Study - Aborted Suicide Attempt</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS0318" nciodm:ExtCodeID="C105247">
+                    <nciodm:CDISCSynonym>CSS03-Number of Aborted Attempts</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study - Total number of aborted attempts.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Baseline/Screening Version Phase 1 Study - Number of Aborted Suicide Attempts</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS0318A" nciodm:ExtCodeID="C105248">
+                    <nciodm:CDISCSynonym>CSS03-Aborted Attempt, Describe</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study - Description of aborted attempt.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Baseline/Screening Version Phase 1 Study - Description of Aborted Suicide Attempt</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS0319" nciodm:ExtCodeID="C105249">
+                    <nciodm:CDISCSynonym>CSS03-Preparatory Acts/Behavior</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study - Have you taken any steps towards making a suicide attempt or preparing to kill yourself (such as collecting pills, getting a gun, giving valuables away or writing a suicide note)?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Baseline/Screening Version Phase 1 Study - Preparatory Acts or Behaviors Toward Suicide Attempt</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS0319A" nciodm:ExtCodeID="C105250">
+                    <nciodm:CDISCSynonym>CSS03-Preparatory Acts/Behavior, Descr</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study - Description of preparatory acts or behavior.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Baseline/Screening Version Phase 1 Study - Description of Preparatory Acts or Behaviors Toward Suicide Attempt</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS0320" nciodm:ExtCodeID="C105251">
+                    <nciodm:CDISCSynonym>CSS03-Suicidal Behavior</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study - Suicidal behavior was present during the assessment period?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Baseline/Screening Version Phase 1 Study - Suicidal Behavior</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS0321A" nciodm:ExtCodeID="C105252">
+                    <nciodm:CDISCSynonym>CSS03-Most Recent Attempt Date</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study - Most recent attempt date.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Baseline/Screening Version Phase 1 Study - Most Recent Suicide Attempt Date</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS0321B" nciodm:ExtCodeID="C105253">
+                    <nciodm:CDISCSynonym>CSS03-Most Recent Attempt Damage</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study - Most recent attempt actual lethality/medical damage.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Baseline/Screening Version Phase 1 Study - Most Recent Suicide Attempt Actual Lethality/Medical Damage</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS0321C" nciodm:ExtCodeID="C105254">
+                    <nciodm:CDISCSynonym>CSS03-Most Recent Attempt Potential</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study - Most recent attempt potential lethality.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Baseline/Screening Version Phase 1 Study - Most Recent Suicide Attempt Potential Lethality</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS0322A" nciodm:ExtCodeID="C105255">
+                    <nciodm:CDISCSynonym>CSS03-Most Lethal Attempt Date</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study - Most lethal attempt date.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Baseline/Screening Version Phase 1 Study - Most Lethal Suicide Attempt Date</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS0322B" nciodm:ExtCodeID="C105256">
+                    <nciodm:CDISCSynonym>CSS03-Most Lethal Attempt Damage</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study - Most lethal attempt actual lethality/medical damage.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Baseline/Screening Version Phase 1 Study - Most Lethal Suicide Attempt Actual Lethality/Medical Damage</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS0322C" nciodm:ExtCodeID="C105257">
+                    <nciodm:CDISCSynonym>CSS03-Most Lethal Attempt Potential</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study - Most lethal attempt potential lethality.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Baseline/Screening Version Phase 1 Study - Most Lethal Suicide Attempt Potential Lethality</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS0323A" nciodm:ExtCodeID="C105258">
+                    <nciodm:CDISCSynonym>CSS03-First Attempt Date</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study - Initial/first attempt date.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Baseline/Screening Version Phase 1 Study - First Suicide Attempt Date</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS0323B" nciodm:ExtCodeID="C105259">
+                    <nciodm:CDISCSynonym>CSS03-First Attempt Damage</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study - Initial/first attempt actual lethality/medical damage.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Baseline/Screening Version Phase 1 Study - First Suicide Attempt Actual Lethality/Medical Damage</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS0323C" nciodm:ExtCodeID="C105260">
+                    <nciodm:CDISCSynonym>CSS03-First Attempt Potential</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study - Initial/first attempt potential lethality.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Baseline/Screening Version Phase 1 Study - First Suicide Attempt Potential Lethality</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>CSS03TC</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study Questionnaire Test Code</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Questionnaire C-SSRS Baseline/Screening Version Phase 1 Study Version 1/14/09 Test Code Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

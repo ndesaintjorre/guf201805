@@ -1,0 +1,64 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C105135.PR01TN" Name="Pain Relief Questionnaire Test Name" DataType="text" nciodm:ExtCodeID="C105135" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Pain Relief test name.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="PR01-Average Pain Relief" nciodm:ExtCodeID="C105268">
+                    <nciodm:CDISCSynonym>PR01-Average Pain Relief</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pain Relief - Average pain relief for various time periods of evaluation.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PR - Average Pain Relief For Various Time Periods of Evaluation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PR01-Least Pain Relief" nciodm:ExtCodeID="C105271">
+                    <nciodm:CDISCSynonym>PR01-Least Pain Relief</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pain Relief - Least pain relief for various time periods of evaluation.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PR - Least Pain Relief For Various Time Periods of Evaluation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PR01-Maximum Pain Relief" nciodm:ExtCodeID="C105270">
+                    <nciodm:CDISCSynonym>PR01-Maximum Pain Relief</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pain Relief - Maximum pain relief for various time periods of evaluation.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PR - Maximum Pain Relief For Various Time Periods of Evaluation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PR01-Minimum Pain Relief" nciodm:ExtCodeID="C105269">
+                    <nciodm:CDISCSynonym>PR01-Minimum Pain Relief</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pain Relief - Minimum pain relief for various time periods of evaluation.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PR - Minimum Pain Relief For Various Time Periods of Evaluation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PR01-Pain Relief" nciodm:ExtCodeID="C105267">
+                    <nciodm:CDISCSynonym>PR01-Pain Relief</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pain Relief - Pain relief for various time periods of evaluation.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PR - Pain Relief For Various Time Periods of Evaluation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PR01-Starting Pain at Least 1/2 Gone" nciodm:ExtCodeID="C105273">
+                    <nciodm:CDISCSynonym>PR01-Starting Pain at Least 1/2 Gone</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pain Relief - Starting pain at least 1/2 Gone?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PR - Starting Pain Half Gone</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PR01-Time to Meaningful Pain Relief" nciodm:ExtCodeID="C105277">
+                    <nciodm:CDISCSynonym>PR01-Time to Meaningful Pain Relief</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pain Relief - Time to meaningful pain relief.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PR - Time to Meaningful Pain Relief</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PR01-Time to Perceptible Pain Relief" nciodm:ExtCodeID="C105275">
+                    <nciodm:CDISCSynonym>PR01-Time to Perceptible Pain Relief</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pain Relief - Time to perceptible pain relief.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PR - Time to Perceptible Pain Relief</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PR01-Was there Meaningful Pain Relief" nciodm:ExtCodeID="C105276">
+                    <nciodm:CDISCSynonym>PR01-Was there Meaningful Pain Relief</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pain Relief - Was there meaningful pain relief?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PR - Was There Meaningful Pain Relief</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PR01-Was there Perceptible Pain Relief" nciodm:ExtCodeID="C105274">
+                    <nciodm:CDISCSynonym>PR01-Was there Perceptible Pain Relief</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pain Relief - Was there perceptible pain relief?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PR - Was There Perceptible Pain Relief</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PR01-Worst Pain Relief" nciodm:ExtCodeID="C105272">
+                    <nciodm:CDISCSynonym>PR01-Worst Pain Relief</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pain Relief - Worst pain relief for various time periods of evaluation.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PR - Worst Pain Relief For Various Time Periods of Evaluation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>PR01TN</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Pain Relief Questionnaire Test Name</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Questionnaire PR v1 Test Name Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

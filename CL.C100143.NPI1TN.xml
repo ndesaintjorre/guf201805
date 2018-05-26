@@ -1,0 +1,774 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C100143.NPI1TN" Name="Neuropsychiatric Inventory Questionnaire Test Name" DataType="text" nciodm:ExtCodeID="C100143" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">The Neuropsychiatric Inventory test name.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="NPI1-Aberrant Motor Behavior Distress" nciodm:ExtCodeID="C103631">
+                    <nciodm:CDISCSynonym>NPI1-Aberrant Motor Behavior Distress</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - How emotionally distressing do you find this behavior?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Aberrant Motor Behavior Distress</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Aberrant Motor Behavior Frequency" nciodm:ExtCodeID="C103629">
+                    <nciodm:CDISCSynonym>NPI1-Aberrant Motor Behavior Frequency</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Frequency of the aberrant motor behavior.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Aberrant Motor Behavior Frequency</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Aberrant Motor Behavior FxS Score" nciodm:ExtCodeID="C112478">
+                    <nciodm:CDISCSynonym>NPI1-Aberrant Motor Behavior FxS Score</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Aberrant Motor Behavior: (frequency score x severity score).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Aberrant Motor Behavior FxS Score</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Aberrant Motor Behavior Severity" nciodm:ExtCodeID="C103630">
+                    <nciodm:CDISCSynonym>NPI1-Aberrant Motor Behavior Severity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Severity of the aberrant motor behavior.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Aberrant Motor Behavior Severity</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Act Impulsively" nciodm:ExtCodeID="C100683">
+                    <nciodm:CDISCSynonym>NPI1-Act Impulsively</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Does the patient seem to act impulsively without thinking? Does he/she do or say things that are not usually done or said in public? Does he/she do things that are embarrassing to you or others?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Seem to Act Impulsively Without Thinking</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Act Impulsively without Care" nciodm:ExtCodeID="C100684">
+                    <nciodm:CDISCSynonym>NPI1-Act Impulsively without Care</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Does the patient act impulsively without appearing to consider the consequences?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Act Impulsively without Appearing to Consider the Consequences</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Agitation/Aggression Distress" nciodm:ExtCodeID="C103610">
+                    <nciodm:CDISCSynonym>NPI1-Agitation/Aggression Distress</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - How emotionally distressing do you find this behavior?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Agitation/Aggression Distress</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Agitation/Aggression Frequency" nciodm:ExtCodeID="C103608">
+                    <nciodm:CDISCSynonym>NPI1-Agitation/Aggression Frequency</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Frequency of the agitation/aggression.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Agitation/Aggression Frequency</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Agitation/Aggression FxS Score" nciodm:ExtCodeID="C112471">
+                    <nciodm:CDISCSynonym>NPI1-Agitation/Aggression FxS Score</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Agitation/Aggression: (frequency score x severity score).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Agitation/Aggression FxS Score</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Agitation/Aggression Severity" nciodm:ExtCodeID="C103609">
+                    <nciodm:CDISCSynonym>NPI1-Agitation/Aggression Severity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Severity of the agitation/aggression.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Agitation/Aggression Severity</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Anxiety Distress" nciodm:ExtCodeID="C103616">
+                    <nciodm:CDISCSynonym>NPI1-Anxiety Distress</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - How emotionally distressing do you find this behavior?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Anxiety Distress</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Anxiety Frequency" nciodm:ExtCodeID="C103614">
+                    <nciodm:CDISCSynonym>NPI1-Anxiety Frequency</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Frequency of the anxiety.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Anxiety Frequency</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Anxiety FxS Score" nciodm:ExtCodeID="C112473">
+                    <nciodm:CDISCSynonym>NPI1-Anxiety FxS Score</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Anxiety: (frequency score x severity score).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Anxiety FxS Score</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Anxiety Severity" nciodm:ExtCodeID="C103615">
+                    <nciodm:CDISCSynonym>NPI1-Anxiety Severity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Severity of the anxiety.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Anxiety Severity</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Apathy/Indifference Distress" nciodm:ExtCodeID="C103622">
+                    <nciodm:CDISCSynonym>NPI1-Apathy/Indifference Distress</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - How emotionally distressing do you find this behavior?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Apathy/Indifference Distress</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Apathy/Indifference Frequency" nciodm:ExtCodeID="C103620">
+                    <nciodm:CDISCSynonym>NPI1-Apathy/Indifference Frequency</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Frequency of the apathy/indifference.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Apathy/Indifference Frequency</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Apathy/Indifference FxS Score" nciodm:ExtCodeID="C112475">
+                    <nciodm:CDISCSynonym>NPI1-Apathy/Indifference FxS Score</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Apathy/Indifference: (frequency score x severity score).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Apathy/Indifference FxS Score</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Apathy/Indifference Severity" nciodm:ExtCodeID="C103621">
+                    <nciodm:CDISCSynonym>NPI1-Apathy/Indifference Severity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Severity of the apathy/indifference.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Apathy/Indifference Severity</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Appetite/Eating Disorder Distress" nciodm:ExtCodeID="C103637">
+                    <nciodm:CDISCSynonym>NPI1-Appetite/Eating Disorder Distress</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - How emotionally distressing do you find this behavior?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Appetite and Eating Disorders Distress</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Appetite/Eating Disorder Frequency" nciodm:ExtCodeID="C103635">
+                    <nciodm:CDISCSynonym>NPI1-Appetite/Eating Disorder Frequency</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Frequency of the changes in eating habits or appetite.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Appetite and Eating Disorders Frequency</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Appetite/Eating Disorder Severity" nciodm:ExtCodeID="C103636">
+                    <nciodm:CDISCSynonym>NPI1-Appetite/Eating Disorder Severity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Severity of the changes in eating habits or appetite.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Appetite and Eating Disorders Severity</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Appetite/Eating Disorders FxS Score" nciodm:ExtCodeID="C112480">
+                    <nciodm:CDISCSynonym>NPI1-Appetite/Eating Disorders FxS Score</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Appetite and Eating Disorders: (frequency score x severity score).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Appetite/Eating Disorders FxS Score</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Argumentative" nciodm:ExtCodeID="C100697">
+                    <nciodm:CDISCSynonym>NPI1-Argumentative</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Is the patient argumentative and difficult to get along with?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Argumentative and Difficult to Get Along With</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Avoid Places or Situations" nciodm:ExtCodeID="C100663">
+                    <nciodm:CDISCSynonym>NPI1-Avoid Places or Situations</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Does the patient avoid certain places or situations that make him/her more nervous such as riding in the car, meeting with friends, or being in crowds?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Avoid Certain Places or Situations That Make Him/Her More Nervous</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Awaken Caregiver during Night" nciodm:ExtCodeID="C100711">
+                    <nciodm:CDISCSynonym>NPI1-Awaken Caregiver during Night</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Does the patient awaken you during the night?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Awaken You During the Night</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Awaken Too Early in Morning" nciodm:ExtCodeID="C100713">
+                    <nciodm:CDISCSynonym>NPI1-Awaken Too Early in Morning</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Does the patient awaken too early in the morning (earlier than was his/her habit)?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Awaken Too Early in Morning</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Bad Person" nciodm:ExtCodeID="C100653">
+                    <nciodm:CDISCSynonym>NPI1-Bad Person</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Does the patient say that he/she is a bad person or deserves to be punished?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Say That He/She is a Bad Person</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Bad Temper" nciodm:ExtCodeID="C100692">
+                    <nciodm:CDISCSynonym>NPI1-Bad Temper</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Does the patient have a bad temper, flying "off the handle" easily over little things?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Bad Temper, Flying 'Off the Handle' Easily Over Little Things</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Beliefs Untrue" nciodm:ExtCodeID="C100622">
+                    <nciodm:CDISCSynonym>NPI1-Beliefs Untrue</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Does the patient have beliefs that you know are not true? (for example, insisting that people are trying to harm him/her or steal from him/her)? Has he/she said that family members are not who they say they are or that the house is not their home? I'm not asking about mere suspiciousness; I am interested if the patient is convinced that these things are happening to him/her.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Have Beliefs That You Know are Not True</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Burden to Family" nciodm:ExtCodeID="C100655">
+                    <nciodm:CDISCSynonym>NPI1-Burden to Family</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Does the patient say he/she is a burden to the family or that the family would be better off without him/her?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Say He/She is a Burden to the Family</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Butterflies or Racing Heart" nciodm:ExtCodeID="C100662">
+                    <nciodm:CDISCSynonym>NPI1-Butterflies or Racing Heart</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Does the patient complain of butterflies in his/her stomach, or of racing or pounding of the heart in association with nervousness? (Symptoms not explained by ill health).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Complain of Butterflies, Racing or Pounding Heart</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Change in Appetite or Weight" nciodm:ExtCodeID="C100716">
+                    <nciodm:CDISCSynonym>NPI1-Change in Appetite or Weight</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Has he/she had any change in appetite, weight, or eating habits (count as NA if the patient is incapacitated and has to be fed)? Has there been any change in the type of food he/she prefers?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Change in Appetite, Weight, or Eating Habits</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Change in Eating Behavior" nciodm:ExtCodeID="C100721">
+                    <nciodm:CDISCSynonym>NPI1-Change in Eating Behavior</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Has he/she had a change in eating behavior such as putting too much food in his/her mouth at once?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Change in Eating Behavior</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Change in Kind of Food" nciodm:ExtCodeID="C100722">
+                    <nciodm:CDISCSynonym>NPI1-Change in Kind of Food</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Has he/she had a change in the kind of food he/she likes such as eating too many sweets or other specific types of food?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Change in Kind of Food He/She Likes</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Childish Pranks" nciodm:ExtCodeID="C100671">
+                    <nciodm:CDISCSynonym>NPI1-Childish Pranks</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Does he/she play childish pranks such as pinching or playing "keep away" for the fun of it?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Play Childish Pranks</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Childish Sense of Humor" nciodm:ExtCodeID="C100669">
+                    <nciodm:CDISCSynonym>NPI1-Childish Sense of Humor</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Does the patient seem to have a childish sense of humor with a tendency to giggle or laugh inappropriately (such as when something unfortunate happens to others)?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Seem to Have a Childish Sense of Humor</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Contribute Less to Chores" nciodm:ExtCodeID="C100678">
+                    <nciodm:CDISCSynonym>NPI1-Contribute Less to Chores</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Does the patient contribute less to household chores?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Contribute Less to Household Chores</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Cranky and Irritable" nciodm:ExtCodeID="C100696">
+                    <nciodm:CDISCSynonym>NPI1-Cranky and Irritable</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Is the patient cranky and irritable?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Cranky and Irritable</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Delusions Distress" nciodm:ExtCodeID="C103604">
+                    <nciodm:CDISCSynonym>NPI1-Delusions Distress</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - How emotionally distressing do you find this behavior?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Delusions Distress</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Delusions Frequency" nciodm:ExtCodeID="C103602">
+                    <nciodm:CDISCSynonym>NPI1-Delusions Frequency</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Frequency of the delusions.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Delusions Frequency</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Delusions FxS Score" nciodm:ExtCodeID="C112469">
+                    <nciodm:CDISCSynonym>NPI1-Delusions FxS Score</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Delusions: (frequency score x severity score).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Delusions FxS Score</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Delusions Severity" nciodm:ExtCodeID="C103603">
+                    <nciodm:CDISCSynonym>NPI1-Delusions Severity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Severity of the delusions.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Delusions Severity</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Depression/Dysphoria Distress" nciodm:ExtCodeID="C103613">
+                    <nciodm:CDISCSynonym>NPI1-Depression/Dysphoria Distress</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - How emotionally distressing do you find this behavior?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Depression/Dysphoria Distress</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Depression/Dysphoria Frequency" nciodm:ExtCodeID="C103611">
+                    <nciodm:CDISCSynonym>NPI1-Depression/Dysphoria Frequency</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Frequency of the depression/dysphoria.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Depression/Dysphoria Frequency</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Depression/Dysphoria FxS Score" nciodm:ExtCodeID="C112472">
+                    <nciodm:CDISCSynonym>NPI1-Depression/Dysphoria FxS Score</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Depression/Dysphoria: (frequency score x severity score).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Depression/Dysphoria FxS Score</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Depression/Dysphoria Severity" nciodm:ExtCodeID="C103612">
+                    <nciodm:CDISCSynonym>NPI1-Depression/Dysphoria Severity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Severity of the depression/dysphoria.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Depression/Dysphoria Severity</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Develop Eating Behaviors" nciodm:ExtCodeID="C100723">
+                    <nciodm:CDISCSynonym>NPI1-Develop Eating Behaviors</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Has he/she developed eating behaviors such as eating exactly the same types of food each day or eating the food in exactly the same order?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Developed Eating Behaviors Such as Eating Exactly the Same Types of Food</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Difficulty Falling Asleep" nciodm:ExtCodeID="C100708">
+                    <nciodm:CDISCSynonym>NPI1-Difficulty Falling Asleep</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Does the patient have difficulty falling asleep?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Difficulty Falling Asleep</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Difficulty Sleeping" nciodm:ExtCodeID="C100707">
+                    <nciodm:CDISCSynonym>NPI1-Difficulty Sleeping</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Does the patient have difficulty sleeping (do not count as present if the patient simply gets up once or twice per night to go the bathroom and falls back asleep immediately)? Is he/she up at night? Does he/she wander at night, get dressed, or disturb your sleep?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Difficulty Sleeping</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Discouraged" nciodm:ExtCodeID="C100654">
+                    <nciodm:CDISCSynonym>NPI1-Discouraged</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Does the patient seem very discouraged or say that he/she has no future?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Seem Very Discouraged</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Disinhibition Distress" nciodm:ExtCodeID="C103625">
+                    <nciodm:CDISCSynonym>NPI1-Disinhibition Distress</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - How emotionally distressing do you find this behavior?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Disinhibition Distress</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Disinhibition Frequency" nciodm:ExtCodeID="C103623">
+                    <nciodm:CDISCSynonym>NPI1-Disinhibition Frequency</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Frequency of the disinhibition.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Disinhibition Frequency</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Disinhibition FxS Score" nciodm:ExtCodeID="C112476">
+                    <nciodm:CDISCSynonym>NPI1-Disinhibition FxS Score</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Disinhibition: (frequency score x severity score).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Disinhibition FxS Score</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Disinhibition Severity" nciodm:ExtCodeID="C103624">
+                    <nciodm:CDISCSynonym>NPI1-Disinhibition Severity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Severity of the disinhibition.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Disinhibition Severity</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Do Things Repeatedly" nciodm:ExtCodeID="C100699">
+                    <nciodm:CDISCSynonym>NPI1-Do Things Repeatedly</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Does the patient pace, do things over and over such as opening closets or drawers, or repeatedly pick at things or wind string or threads?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Pace, Do Things Over and Over, Repeatedly Pick at Things</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Elation/Euphoria Distress" nciodm:ExtCodeID="C103619">
+                    <nciodm:CDISCSynonym>NPI1-Elation/Euphoria Distress</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - How emotionally distressing do you find this behavior?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Elation/Euphoria Distress</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Elation/Euphoria Frequency" nciodm:ExtCodeID="C103617">
+                    <nciodm:CDISCSynonym>NPI1-Elation/Euphoria Frequency</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Frequency of the elation/euphoria.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Elation/Euphoria Frequency</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Elation/Euphoria FxS Score" nciodm:ExtCodeID="C112474">
+                    <nciodm:CDISCSynonym>NPI1-Elation/Euphoria FxS Score</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Elation/Euphoria: (frequency score x severity score).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Elation/Euphoria FxS Score</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Elation/Euphoria Severity" nciodm:ExtCodeID="C103618">
+                    <nciodm:CDISCSynonym>NPI1-Elation/Euphoria Severity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Severity of the elation/euphoria.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Elation/Euphoria Severity</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Excessive Sleep during Day" nciodm:ExtCodeID="C100714">
+                    <nciodm:CDISCSynonym>NPI1-Excessive Sleep during Day</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Does the patient sleep excessively during the day?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Sleep Excessively During the Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-False Visions or Voices" nciodm:ExtCodeID="C100632">
+                    <nciodm:CDISCSynonym>NPI1-False Visions or Voices</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Does the patient have hallucinations such as seeing false visions or hearing false voices? Does he/she seem to see, hear or experience things that are not present? By this question we do not mean just mistaken beliefs such as stating that someone who has died is still alive; rather we are asking if the patient actually has abnormal experiences of sounds or visions.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Hallucinations Such as Seeing False Visions or Hearing False Voices</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Family Plans to Abandon" nciodm:ExtCodeID="C100629">
+                    <nciodm:CDISCSynonym>NPI1-Family Plans to Abandon</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Does the patient believe that family members plan to abandon him/her?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Family Members Plan to Abandon Him/Her</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Feel Good or Too Happy" nciodm:ExtCodeID="C100667">
+                    <nciodm:CDISCSynonym>NPI1-Feel Good or Too Happy</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Does the patient appear to feel good or to be too happy, different from his/her usual self?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Appear to Feel Good or to Be Too Happy</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Feel Like a Failure" nciodm:ExtCodeID="C100652">
+                    <nciodm:CDISCSynonym>NPI1-Feel Like a Failure</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Does the patient put him/herself down or say that he/she feels like a failure?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Put Him/Herself Down or Say That He/She Feels Like a Failure</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Feel Things on Skin" nciodm:ExtCodeID="C100637">
+                    <nciodm:CDISCSynonym>NPI1-Feel Things on Skin</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Does the patient describe feeling things on his/her skin or otherwise appear to be feeling things crawling or touching him/her?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Describe Feeling Things on His/Her Skin</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Fidget Excessively" nciodm:ExtCodeID="C100705">
+                    <nciodm:CDISCSynonym>NPI1-Fidget Excessively</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Does the patient fidget excessively, seem unable to sit still, or bounce his/her feet or tap his/her fingers a lot?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Fidget Excessively, Seem Unable to Sit Still</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Get Up during Night" nciodm:ExtCodeID="C100709">
+                    <nciodm:CDISCSynonym>NPI1-Get Up during Night</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Does the patient get up during the night (do not count if the patient gets up once or twice per night only to go to the bathroom and falls back asleep immediately)?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Get Up During the Night</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Get Upset with Caregiver" nciodm:ExtCodeID="C100641">
+                    <nciodm:CDISCSynonym>NPI1-Get Upset with Caregiver</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Does the patient get upset with those trying to care for him/her or resist activities such as bathing or changing clothes?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Get Upset with Those Trying to Care for Him/Her</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Hallucinations Distress" nciodm:ExtCodeID="C103607">
+                    <nciodm:CDISCSynonym>NPI1-Hallucinations Distress</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - How emotionally distressing do you find this behavior?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Hallucinations Distress</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Hallucinations Frequency" nciodm:ExtCodeID="C103605">
+                    <nciodm:CDISCSynonym>NPI1-Hallucinations Frequency</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Frequency of the hallucinations.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Hallucinations Frequency</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Hallucinations FxS Score" nciodm:ExtCodeID="C112470">
+                    <nciodm:CDISCSynonym>NPI1-Hallucinations FxS Score</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Hallucinations: (frequency score x severity score).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Hallucinations FxS Score</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Hallucinations Severity" nciodm:ExtCodeID="C103606">
+                    <nciodm:CDISCSynonym>NPI1-Hallucinations Severity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Severity of the hallucinations.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Hallucinations Severity</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Hearing Voices" nciodm:ExtCodeID="C100633">
+                    <nciodm:CDISCSynonym>NPI1-Hearing Voices</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Does the patient describe hearing voices or act as if he/she hears voices?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Describe Hearing Voices or Act as if He/She Hears Voices</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-House Not Their Home" nciodm:ExtCodeID="C100628">
+                    <nciodm:CDISCSynonym>NPI1-House Not Their Home</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Does the patient believe that his/her house is not his/her home?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - His/Her House Is Not His/Her Home</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Humor Others Do Not Find Funny" nciodm:ExtCodeID="C100668">
+                    <nciodm:CDISCSynonym>NPI1-Humor Others Do Not Find Funny</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Does the patient find humor and laugh at things that others do not find funny?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Fine Humor and Laugh at Things That Others Do Not Find Funny</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Hurt or Hit Others" nciodm:ExtCodeID="C100647">
+                    <nciodm:CDISCSynonym>NPI1-Hurt or Hit Others</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Does the patient attempt to hurt or hit others?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Attempt to Hurt or Hit Others</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Impatient" nciodm:ExtCodeID="C100695">
+                    <nciodm:CDISCSynonym>NPI1-Impatient</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Is the patient impatient, having trouble coping with delays or waiting for planned activities?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Impatient, Having Trouble Coping with Delays</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-In Danger" nciodm:ExtCodeID="C100623">
+                    <nciodm:CDISCSynonym>NPI1-In Danger</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Does the patient believe that he/she is in danger - that others are planning to hurt him/her?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - He/She is in Danger</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Increase in Appetite" nciodm:ExtCodeID="C100718">
+                    <nciodm:CDISCSynonym>NPI1-Increase in Appetite</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Has he/she had an increase in appetite?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Increase in Appetite</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Irritability/Lability Distress" nciodm:ExtCodeID="C103628">
+                    <nciodm:CDISCSynonym>NPI1-Irritability/Lability Distress</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - How emotionally distressing do you find this behavior?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Irritability/Lability Distress</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Irritability/Lability Frequency" nciodm:ExtCodeID="C103626">
+                    <nciodm:CDISCSynonym>NPI1-Irritability/Lability Frequency</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Frequency of the irritability/lability.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Irritability/Lability Frequency</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Irritability/Lability FxS Score" nciodm:ExtCodeID="C112477">
+                    <nciodm:CDISCSynonym>NPI1-Irritability/Lability FxS Score</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Irritability/Lability: (frequency score x severity score).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Irritability/Lability FxS Score</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Irritability/Lability Severity" nciodm:ExtCodeID="C103627">
+                    <nciodm:CDISCSynonym>NPI1-Irritability/Lability Severity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Severity of the irritability/lability.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Irritability/Lability Severity</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Irritated and Easily Disturbed" nciodm:ExtCodeID="C100691">
+                    <nciodm:CDISCSynonym>NPI1-Irritated and Easily Disturbed</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Does the patient get irritated and easily disturbed? Are his/her moods very changeable? Is he/she abnormally impatient? We do not mean frustration over memory loss or inability to perform usual tasks; we are interested to know if the patient has abnormal irritability, impatience, or rapid emotional changes different from his/her usual self.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Get Irritated and Easily Disturbed</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Jokes Others Do Not Find Funny" nciodm:ExtCodeID="C100670">
+                    <nciodm:CDISCSynonym>NPI1-Jokes Others Do Not Find Funny</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Does the patient tell jokes or make remarks that are not funny to others but seem funny to him/her?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Tell Jokes or Make Remarks That are Not Funny to Others</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Less Affectionate" nciodm:ExtCodeID="C100677">
+                    <nciodm:CDISCSynonym>NPI1-Less Affectionate</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Is the patient less affectionate or lacking in emotions when compared to his/her usual self?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Less Affectionate or Lacking in Emotions</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Less Enthusiastic" nciodm:ExtCodeID="C100681">
+                    <nciodm:CDISCSynonym>NPI1-Less Enthusiastic</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Is the patient less enthusiastic about his/her usual interests?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Less Enthusiastic About His/Her Usual Interests</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Less Interest in Activities" nciodm:ExtCodeID="C100679">
+                    <nciodm:CDISCSynonym>NPI1-Less Interest in Activities</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Does the patient seem less interested in the activities and plans of others?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Less Interested in the Activities and Plans of Others</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Less Likely Initiate Conversation" nciodm:ExtCodeID="C100676">
+                    <nciodm:CDISCSynonym>NPI1-Less Likely Initiate Conversation</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Is the patient less likely to initiate a conversation?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Less Likely Initiate to Initiate a Conversation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Less Spontaneous or Active" nciodm:ExtCodeID="C100675">
+                    <nciodm:CDISCSynonym>NPI1-Less Spontaneous or Active</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Does the patient seem less spontaneous and less active than usual?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Seem Less Spontaneous and Less Active Than Usual</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Loss of Appetite" nciodm:ExtCodeID="C100717">
+                    <nciodm:CDISCSynonym>NPI1-Loss of Appetite</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Has he/she had a loss of appetite?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Loss of Appetite</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Lost Interest in Friends" nciodm:ExtCodeID="C100680">
+                    <nciodm:CDISCSynonym>NPI1-Lost Interest in Friends</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Has the patient lost interest in friends and family members?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Lost Interest in Friends and Family Members</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Lost Interest in World" nciodm:ExtCodeID="C100674">
+                    <nciodm:CDISCSynonym>NPI1-Lost Interest in World</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Has the patient lost interest in the world around him/her? Has he/she lost interest in doing things or does he/she lack motivation for starting new activities? Is he/she more difficult to engage in conversation or in doing chores? Is the patient apathetic or indifferent?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Lost Interest in the World Around Him/Her</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Make Crude Remarks" nciodm:ExtCodeID="C100687">
+                    <nciodm:CDISCSynonym>NPI1-Make Crude Remarks</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Does the patient say crude things or make sexual remarks that he/she would not usually have said?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Say Crude Things or Make Sexual Remarks</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Nervous or Worried" nciodm:ExtCodeID="C100658">
+                    <nciodm:CDISCSynonym>NPI1-Nervous or Worried</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Is the patient very nervous, worried, or frightened for no apparent reason? Does he/she seem very tense or fidgety? Is the patient afraid to be apart from you?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Very Nervous, Worried, or Frightened for No Apparent Reason</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Nervous when Separated" nciodm:ExtCodeID="C100664">
+                    <nciodm:CDISCSynonym>NPI1-Nervous when Separated</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Does the patient become nervous and upset when separated from you (or his/her caregiver)? (Does he/she cling to you to keep from being separated?).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Become Nervous and Upset When Separated From You</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-NPI Total Distress Score" nciodm:ExtCodeID="C112482">
+                    <nciodm:CDISCSynonym>NPI1-NPI Total Distress Score</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Sub-total of distress score.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - NPI Total Distress Score</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-NPI Total Score" nciodm:ExtCodeID="C112481">
+                    <nciodm:CDISCSynonym>NPI1-NPI Total Score</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Total of (Frequency Sub-total) x (Severity Sub-total).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - NPI Total Score</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Other Aggressive Behavior" nciodm:ExtCodeID="C100648">
+                    <nciodm:CDISCSynonym>NPI1-Other Aggressive Behavior</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Does the patient have any other aggressive or agitated behaviors?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Any Other Aggressive or Agitated Behaviors</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Other Behaviors Hard to Handle" nciodm:ExtCodeID="C100644">
+                    <nciodm:CDISCSynonym>NPI1-Other Behaviors Hard to Handle</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Does the patient have any other behaviors that make him/her hard to handle?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Any Other Behaviors That Make Him/Her Hard to Handle</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Other Changes in Eating" nciodm:ExtCodeID="C100724">
+                    <nciodm:CDISCSynonym>NPI1-Other Changes in Eating</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Have there been any other changes in appetite or eating that I haven't asked about?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Any Other Changes in Appetite or Eating</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Other Nighttime Behaviors" nciodm:ExtCodeID="C100715">
+                    <nciodm:CDISCSynonym>NPI1-Other Nighttime Behaviors</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Does the patient have any other nighttime behaviors that bother you that we haven't talked about?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Any Other Nighttime Behaviors That Bother You</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Other Repetitive Activities" nciodm:ExtCodeID="C100706">
+                    <nciodm:CDISCSynonym>NPI1-Other Repetitive Activities</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Does the patient do any other activities over and over?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Do Any Other Activities Over and Over</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Other Signs of Anxiety" nciodm:ExtCodeID="C100665">
+                    <nciodm:CDISCSynonym>NPI1-Other Signs of Anxiety</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Does the patient show any other signs of anxiety?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Show Any Other Signs of Anxiety</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Other Signs of Depression" nciodm:ExtCodeID="C100657">
+                    <nciodm:CDISCSynonym>NPI1-Other Signs of Depression</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Does the patient show any other signs of depression or sadness?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Show Any Other Signs of Depression or Sadness</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Other Signs of Feeling Too Happy" nciodm:ExtCodeID="C100673">
+                    <nciodm:CDISCSynonym>NPI1-Other Signs of Feeling Too Happy</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Does the patient show any other signs of feeling too good or being too happy?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Show Any Other Signs of Feeling Too Good or Being Too Happy</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Other Signs of Impulses" nciodm:ExtCodeID="C100690">
+                    <nciodm:CDISCSynonym>NPI1-Other Signs of Impulses</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Does the patient show any other signs of loss of control of his/her impulses?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Show Any Other Signs of Loss of Control of His/Her Impulses</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Other Signs of Irritability" nciodm:ExtCodeID="C100698">
+                    <nciodm:CDISCSynonym>NPI1-Other Signs of Irritability</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Does the patient show any other signs of irritability?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Show Any Other Signs of Irritability</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Other Signs of Not Caring" nciodm:ExtCodeID="C100682">
+                    <nciodm:CDISCSynonym>NPI1-Other Signs of Not Caring</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Does the patient show any other signs that he/she doesn't care about doing new things?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Show Any Other Signs That He/She Doesn't Care About Doing New Things</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Other Unusual Beliefs" nciodm:ExtCodeID="C100631">
+                    <nciodm:CDISCSynonym>NPI1-Other Unusual Beliefs</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Does the patient believe any other unusual things that I haven't asked about?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Any Other Unusual Things That I Haven't Asked About</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Other Unusual Sensory Experience" nciodm:ExtCodeID="C100639">
+                    <nciodm:CDISCSynonym>NPI1-Other Unusual Sensory Experience</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Does the patient describe any other unusual sensory experiences?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Describe Any Other Unusual Sensory Experiences</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Others Are Stealing" nciodm:ExtCodeID="C100624">
+                    <nciodm:CDISCSynonym>NPI1-Others Are Stealing</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Does the patient believe that others are stealing from him/her?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Others are Stealing From Him/Her</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Pace" nciodm:ExtCodeID="C100700">
+                    <nciodm:CDISCSynonym>NPI1-Pace</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Does the patient pace around the house without apparent purpose?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Pace Around the House Without Apparent Purpose</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-People Not Who They Claim" nciodm:ExtCodeID="C100627">
+                    <nciodm:CDISCSynonym>NPI1-People Not Who They Claim</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Does the patient believe that his/her spouse or others are not who they claim to be?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - His/Her Spouse or Others Are Not Who They Claim To Be</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Rapidly Change Moods" nciodm:ExtCodeID="C100693">
+                    <nciodm:CDISCSynonym>NPI1-Rapidly Change Moods</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Does the patient rapidly change moods from one to another, being fine one minute and angry the next?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Rapidly Change Moods From One to Another</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Refuse to Cooperate" nciodm:ExtCodeID="C100640">
+                    <nciodm:CDISCSynonym>NPI1-Refuse to Cooperate</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Does the patient have periods when he/she refuses to cooperate or won't let people help him/her? Is he/she hard to handle?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Periods When He/She Refuses to Cooperate</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Repeatedly Change Clothing" nciodm:ExtCodeID="C100702">
+                    <nciodm:CDISCSynonym>NPI1-Repeatedly Change Clothing</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Does the patient repeatedly put on and take off clothing?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Repeatedly Put On and Take Off Clothing</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Repetitive Activities" nciodm:ExtCodeID="C100704">
+                    <nciodm:CDISCSynonym>NPI1-Repetitive Activities</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Does the patient engage in repetitive activities such as handling buttons, picking, wrapping string, etc.?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Engage in Repetitive Activities</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Repetitive Activities or Habits" nciodm:ExtCodeID="C100703">
+                    <nciodm:CDISCSynonym>NPI1-Repetitive Activities or Habits</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Does the patient have repetitive activities or "habits" that he/she performs over and over?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Repetitive Activities or 'Habits'</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Rummage Around and Unpack" nciodm:ExtCodeID="C100701">
+                    <nciodm:CDISCSynonym>NPI1-Rummage Around and Unpack</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Does the patient rummage around opening and unpacking drawers or closets?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Rummage Around Opening and Unpacking Drawers or Closets</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Sad or Depressed" nciodm:ExtCodeID="C100649">
+                    <nciodm:CDISCSynonym>NPI1-Sad or Depressed</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Does the patient seem sad or depressed? Does he/she say that he/she feels sad or depressed?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Seem Sad or Depressed</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Say Insensitive Things" nciodm:ExtCodeID="C100686">
+                    <nciodm:CDISCSynonym>NPI1-Say Insensitive Things</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Does the patient say things to people that are insensitive or hurt their feelings?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Say Things to People that are Insensitive</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Say or Act in Low Spirits" nciodm:ExtCodeID="C100651">
+                    <nciodm:CDISCSynonym>NPI1-Say or Act in Low Spirits</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Does the patient say, or act as if he/she is sad or in low spirits?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Say, or Act as if He/She is Sad or in Low Spirits</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-See Things Not Seen by Others" nciodm:ExtCodeID="C100635">
+                    <nciodm:CDISCSynonym>NPI1-See Things Not Seen by Others</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Does the patient describe seeing things not seen by others or behave as if he/she is seeing things not seen by others (people, animals, lights, etc.)?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Describe Seeing Things Not Seen by Others</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Shaky or Unable to Relax" nciodm:ExtCodeID="C100660">
+                    <nciodm:CDISCSynonym>NPI1-Shaky or Unable to Relax</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Does the patient have periods of feeling shaky, unable to relax, or feeling excessively tense?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Periods of Feeling Shaky, Unable to Relax, or Feeling Excessively Tense</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Short of Breath, Gasp, Sigh" nciodm:ExtCodeID="C100661">
+                    <nciodm:CDISCSynonym>NPI1-Short of Breath, Gasp, Sigh</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Does the patient have periods of (or complain of) shortness of breath, gasping, or sighing for no apparent reason other than nervousness?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Periods of Shortness of Breath, Gasping, or Sighing for No Apparent Reason</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Shout or Curse Angrily" nciodm:ExtCodeID="C100645">
+                    <nciodm:CDISCSynonym>NPI1-Shout or Curse Angrily</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Does the patient shout or curse angrily?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Shout or Curse Angrily</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Slam, Kick or Throw Things" nciodm:ExtCodeID="C100646">
+                    <nciodm:CDISCSynonym>NPI1-Slam, Kick or Throw Things</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Does the patient slam doors, kick furniture, throw things?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Slam doors, Kick Furniture, Throw Things</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Sleep/Night Behav Disord FxS Score" nciodm:ExtCodeID="C112479">
+                    <nciodm:CDISCSynonym>NPI1-Sleep/Night Behav Disord FxS Score</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Sleep and Nighttime Behavior Disorders: (frequency score x severity score).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Sleep/Night Behavior Disorder FxS Score</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Sleep/Nighttime Behavior Distress" nciodm:ExtCodeID="C103634">
+                    <nciodm:CDISCSynonym>NPI1-Sleep/Nighttime Behavior Distress</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - How emotionally distressing do you find this behavior?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Sleep and Nighttime Behavior Disorders Distress</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Sleep/Nighttime Behavior Frequency" nciodm:ExtCodeID="C103632">
+                    <nciodm:CDISCSynonym>NPI1-Sleep/Nighttime Behavior Frequency</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Frequency of the nighttime behavior.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Sleep and Nighttime Behavior Disorders Frequency</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Sleep/Nighttime Behavior Severity" nciodm:ExtCodeID="C103633">
+                    <nciodm:CDISCSynonym>NPI1-Sleep/Nighttime Behavior Severity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Severity of the nighttime behavior.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Sleep and Nighttime Behavior Disorders Severity</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Smell Odors Others Do Not Smell" nciodm:ExtCodeID="C100636">
+                    <nciodm:CDISCSynonym>NPI1-Smell Odors Others Do Not Smell</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Does the patient report smelling odors not smelled by others?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Report Smelling Odors Not Smelled by Others</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Spouse Having Affair" nciodm:ExtCodeID="C100625">
+                    <nciodm:CDISCSynonym>NPI1-Spouse Having Affair</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Does the patient believe that his/her spouse is having an affair?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - His/Her Spouse is Having an Affair</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Stubborn" nciodm:ExtCodeID="C100642">
+                    <nciodm:CDISCSynonym>NPI1-Stubborn</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Is the patient stubborn, having to have things his/her way?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Stubborn</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Sudden Anger" nciodm:ExtCodeID="C100694">
+                    <nciodm:CDISCSynonym>NPI1-Sudden Anger</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Does the patient have sudden flashes of anger?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Sudden Flares of Anger</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Take Liberties or Touch Others" nciodm:ExtCodeID="C100689">
+                    <nciodm:CDISCSynonym>NPI1-Take Liberties or Touch Others</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Does the patient take liberties or touch or hug others in a way that is out of character for him/her?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Take Liberties or Touch or Hug Others</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Talk Big" nciodm:ExtCodeID="C100672">
+                    <nciodm:CDISCSynonym>NPI1-Talk Big</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Does the patient "talk big" or claim to have more abilities or wealth than is true?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Talk Big or Claim to Have More Abilities or Wealth Than is True</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Talk Openly about Private Matters" nciodm:ExtCodeID="C100688">
+                    <nciodm:CDISCSynonym>NPI1-Talk Openly about Private Matters</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Does the patient talk openly about very personal or private matters not usually discussed in public?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Talk Openly About Very Personal or Private Matters</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Talk to People Not There" nciodm:ExtCodeID="C100634">
+                    <nciodm:CDISCSynonym>NPI1-Talk to People Not There</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Does the patient talk to people who are not there?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Talk to People Who Are Not There</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Talk to Strangers" nciodm:ExtCodeID="C100685">
+                    <nciodm:CDISCSynonym>NPI1-Talk to Strangers</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Does the patient talk to total strangers as if he/she knew them?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Talk to Total Strangers as if He/She Knew Them</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Taste without Known Cause" nciodm:ExtCodeID="C100638">
+                    <nciodm:CDISCSynonym>NPI1-Taste without Known Cause</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Does the patient describe tastes that are without any known cause?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Describe Tastes That Are Without Any Known Cause</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Tearfulness or Sobbing" nciodm:ExtCodeID="C100650">
+                    <nciodm:CDISCSynonym>NPI1-Tearfulness or Sobbing</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Does the patient have periods of tearfulness or sobbing that seem to indicate sadness?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Periods of Tearfulness or Sobbing</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Too Cheerful or Happy" nciodm:ExtCodeID="C100666">
+                    <nciodm:CDISCSynonym>NPI1-Too Cheerful or Happy</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Does the patient seem too cheerful or too happy for no reason? I don't mean the normal happiness that comes from seeing friends, receiving presents, or spending time with family members. I am asking if the patient has a persistent and abnormally good mood or finds humor where others do not.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Seem Too Cheerful or Too Happy for No Reason</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-TV/Magazine Figures Present" nciodm:ExtCodeID="C100630">
+                    <nciodm:CDISCSynonym>NPI1-TV/Magazine Figures Present</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Does the patient believe that television or magazine figures are actually present in the home? (Does he/she try to talk or interact with them?)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Television or Magazine Figures Are Actually Present In the Home</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Uncooperative" nciodm:ExtCodeID="C100643">
+                    <nciodm:CDISCSynonym>NPI1-Uncooperative</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Is the patient uncooperative, resistive to help from others?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Uncooperative</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Unwelcome Guests in House" nciodm:ExtCodeID="C100626">
+                    <nciodm:CDISCSynonym>NPI1-Unwelcome Guests in House</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Does the patient believe that unwelcome guests are living in his/her house?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Unwelcome Guests are Living in His/Her House</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Wake at Night and Think Morning" nciodm:ExtCodeID="C100712">
+                    <nciodm:CDISCSynonym>NPI1-Wake at Night and Think Morning</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Does the patient wake up at night, dress, and plan to go out thinking that it is morning and time to start the day?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Wake Up at Night, Dress, and Plan to Go Out</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Wander or Pace at Night" nciodm:ExtCodeID="C100710">
+                    <nciodm:CDISCSynonym>NPI1-Wander or Pace at Night</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Does the patient wander, pace or get involved in inappropriate activities at night?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Wander, Pace or Get Involved in Inappropriate Activities at Night</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Weight Gain" nciodm:ExtCodeID="C100720">
+                    <nciodm:CDISCSynonym>NPI1-Weight Gain</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Has he/she gained weight?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Gained Weight</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Weight Loss" nciodm:ExtCodeID="C100719">
+                    <nciodm:CDISCSynonym>NPI1-Weight Loss</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Has he/she had a loss of weight?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Loss of Weight</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Wish for Death" nciodm:ExtCodeID="C100656">
+                    <nciodm:CDISCSynonym>NPI1-Wish for Death</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Does the patient express a wish for death or talk about killing himself/herself?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Express a Wish for Death</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI1-Worried about Planned Event" nciodm:ExtCodeID="C100659">
+                    <nciodm:CDISCSynonym>NPI1-Worried about Planned Event</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory - Does the patient say that he/she is worried about planned events?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPI - Say That He/She is Worried About Planned Events</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>NPI1TN</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Neuropsychiatric Inventory Questionnaire Test Name</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Questionnaire NPI Test Name Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

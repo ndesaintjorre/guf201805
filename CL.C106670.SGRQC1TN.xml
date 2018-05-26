@@ -1,0 +1,214 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C106670.SGRQC1TN" Name="St. George's Respiratory Questionnaire for COPD Patients Questionnaire Test Name" DataType="text" nciodm:ExtCodeID="C106670" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">St. George's Respiratory Questionnaire for COPD Patients test name.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="SGRQC1-Afraid When Cannot Catch Breath" nciodm:ExtCodeID="C106874">
+                    <nciodm:CDISCSynonym>SGRQC1-Afraid When Cannot Catch Breath</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>St. George's Respiratory Questionnaire - Questions about other effects that your respiratory problems may have on you: I get afraid or panic when I cannot catch my breath.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SGRQ-C - Afraid or Panic When Cannot Catch Breath</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SGRQC1-Cannot Do Household Chores" nciodm:ExtCodeID="C107025">
+                    <nciodm:CDISCSynonym>SGRQC1-Cannot Do Household Chores</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>St. George's Respiratory Questionnaire - We would like to know how your respiratory problems usually affect your daily life: I cannot do household chores.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SGRQ-C - Respiratory Problems Affect Daily Life: Cannot Do Household Chores</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SGRQC1-Cannot Go Out for Entertainment" nciodm:ExtCodeID="C107023">
+                    <nciodm:CDISCSynonym>SGRQC1-Cannot Go Out for Entertainment</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>St. George's Respiratory Questionnaire - We would like to know how your respiratory problems usually affect your daily life: I cannot go out for entertainment or recreation.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SGRQ-C - Respiratory Problems Affect Daily Life: Cannot Go Out for Entertainment</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SGRQC1-Cannot Go Out to Do Shopping" nciodm:ExtCodeID="C107024">
+                    <nciodm:CDISCSynonym>SGRQC1-Cannot Go Out to Do Shopping</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>St. George's Respiratory Questionnaire - We would like to know how your respiratory problems usually affect your daily life: I cannot go out of the house to do the shopping.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SGRQ-C - Respiratory Problems Affect Daily Life: Cannot Go Out to Do Shopping</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SGRQC1-Cannot Move Far From My Bed" nciodm:ExtCodeID="C107026">
+                    <nciodm:CDISCSynonym>SGRQC1-Cannot Move Far From My Bed</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>St. George's Respiratory Questionnaire - We would like to know how your respiratory problems usually affect your daily life: I cannot move far from my bed or chair.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SGRQ-C - Respiratory Problems Affect Daily Life: Cannot Move Far From Bed</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SGRQC1-Cannot Play Sports" nciodm:ExtCodeID="C107022">
+                    <nciodm:CDISCSynonym>SGRQC1-Cannot Play Sports</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>St. George's Respiratory Questionnaire - We would like to know how your respiratory problems usually affect your daily life: I cannot play sports or do other physical activities.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SGRQ-C - Respiratory Problems Affect Daily Life: Cannot Play Sports</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SGRQC1-Cannot Take a Bath or Shower" nciodm:ExtCodeID="C106880">
+                    <nciodm:CDISCSynonym>SGRQC1-Cannot Take a Bath or Shower</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>St. George's Respiratory Questionnaire - These are questions about how your activities might be affected by your respiratory problems: I cannot take a bath or shower, or I take a long time to do it.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SGRQ-C - Cannot Take a Bath or Shower</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SGRQC1-Cough Is Embarrassing in Public" nciodm:ExtCodeID="C106873">
+                    <nciodm:CDISCSynonym>SGRQC1-Cough Is Embarrassing in Public</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>St. George's Respiratory Questionnaire - Questions about other effects that your respiratory problems may have on you: My cough or breathing is embarrassing in public.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SGRQ-C - Cough Is Embarrassing in Public</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SGRQC1-Coughing Disturbs My Sleep" nciodm:ExtCodeID="C106871">
+                    <nciodm:CDISCSynonym>SGRQC1-Coughing Disturbs My Sleep</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>St. George's Respiratory Questionnaire - Some more questions about your cough and breathlessness: My coughing or breathing disturbs my sleep.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SGRQ-C - Coughing Disturbs My Sleep</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SGRQC1-Coughing Hurts" nciodm:ExtCodeID="C106867">
+                    <nciodm:CDISCSynonym>SGRQC1-Coughing Hurts</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>St. George's Respiratory Questionnaire - Some more questions about your cough and breathlessness: Coughing hurts.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SGRQ-C - Coughing Hurts</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SGRQC1-Coughing Makes Me Tired" nciodm:ExtCodeID="C106868">
+                    <nciodm:CDISCSynonym>SGRQC1-Coughing Makes Me Tired</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>St. George's Respiratory Questionnaire - Some more questions about your cough and breathlessness: Coughing makes me tired.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SGRQ-C - Coughing Makes Me Tired</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SGRQC1-Describe Your Current Health" nciodm:ExtCodeID="C106853">
+                    <nciodm:CDISCSynonym>SGRQC1-Describe Your Current Health</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>St. George's Respiratory Questionnaire - Please check one box to show how you describe your current health.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SGRQ-C - Description of Your Current Health</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SGRQC1-Describe Your Resp Problems" nciodm:ExtCodeID="C106861">
+                    <nciodm:CDISCSynonym>SGRQC1-Describe Your Resp Problems</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>St. George's Respiratory Questionnaire - How would you describe your respiratory problems?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SGRQ-C - Description of Your Respiratory Problems</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SGRQC1-Difficult to Carry Heavy Loads" nciodm:ExtCodeID="C106886">
+                    <nciodm:CDISCSynonym>SGRQC1-Difficult to Carry Heavy Loads</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>St. George's Respiratory Questionnaire - These are questions about how your activities might be affected by your respiratory problems: My breathing makes it difficult to do things such as carry heavy loads, dig in the garden or shovel snow, jog or walk briskly (5 miles per hour), play tennis or swim.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SGRQ-C - Difficult to Carry Heavy Loads</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SGRQC1-Difficult to Walk Up Hills" nciodm:ExtCodeID="C106885">
+                    <nciodm:CDISCSynonym>SGRQC1-Difficult to Walk Up Hills</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>St. George's Respiratory Questionnaire - These are questions about how your activities might be affected by your respiratory problems: My breathing makes it difficult to do things such as walk up hills, carry things up stairs, light gardening such as weeding, dance, bowl or play golf.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SGRQ-C - Difficult to Walk Up Hills</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SGRQC1-Everything Too Much Effort" nciodm:ExtCodeID="C106878">
+                    <nciodm:CDISCSynonym>SGRQC1-Everything Too Much Effort</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>St. George's Respiratory Questionnaire - Questions about other effects that your respiratory problems may have on you: Everything seems too much of an effort.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SGRQ-C - Everything Seems Too Much Effort</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SGRQC1-Exercise Is Not Safe for Me" nciodm:ExtCodeID="C106877">
+                    <nciodm:CDISCSynonym>SGRQC1-Exercise Is Not Safe for Me</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>St. George's Respiratory Questionnaire - Questions about other effects that your respiratory problems may have on you: Exercise is not safe for me.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SGRQ-C - Exercise Is Not Safe for Me</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SGRQC1-Frail Because of Resp Problems" nciodm:ExtCodeID="C106876">
+                    <nciodm:CDISCSynonym>SGRQC1-Frail Because of Resp Problems</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>St. George's Respiratory Questionnaire - Questions about other effects that your respiratory problems may have on you: I have become frail or an invalid because of my respiratory problems.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SGRQ-C - Become Frail Because of Respiratory Problems</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SGRQC1-Get Exhausted Easily" nciodm:ExtCodeID="C106872">
+                    <nciodm:CDISCSynonym>SGRQC1-Get Exhausted Easily</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>St. George's Respiratory Questionnaire - Some more questions about your cough and breathlessness: I get exhausted easily.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SGRQ-C - Get Exhausted Easily</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SGRQC1-How Many Respiratory Attacks" nciodm:ExtCodeID="C106858">
+                    <nciodm:CDISCSynonym>SGRQC1-How Many Respiratory Attacks</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>St. George's Respiratory Questionnaire - How many respiratory attacks did you have during the last year?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SGRQ-C - Number of Respiratory Attacks Last Year</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SGRQC1-How Often Do You Have Good Days" nciodm:ExtCodeID="C106859">
+                    <nciodm:CDISCSynonym>SGRQC1-How Often Do You Have Good Days</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>St. George's Respiratory Questionnaire - How often do you have good days (with few respiratory problems)?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SGRQ-C - Good Days with Few Respiratory Problems</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SGRQC1-How Resp Problems Affect You" nciodm:ExtCodeID="C106887">
+                    <nciodm:CDISCSynonym>SGRQC1-How Resp Problems Affect You</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>St. George's Respiratory Questionnaire - How do your respiratory problems affect you?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SGRQ-C - How Respiratory Problems Affect You</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SGRQC1-I Bring Up Phlegm" nciodm:ExtCodeID="C106855">
+                    <nciodm:CDISCSynonym>SGRQC1-I Bring Up Phlegm</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>St. George's Respiratory Questionnaire - I bring up phlegm (sputum).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SGRQ-C - Bring Up Phlegm</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SGRQC1-I Cough" nciodm:ExtCodeID="C106854">
+                    <nciodm:CDISCSynonym>SGRQC1-I Cough</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>St. George's Respiratory Questionnaire - I cough.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SGRQ-C - Cough</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SGRQC1-I Have Attacks of Wheezing" nciodm:ExtCodeID="C106857">
+                    <nciodm:CDISCSynonym>SGRQC1-I Have Attacks of Wheezing</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>St. George's Respiratory Questionnaire - I have attacks of wheezing.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SGRQ-C - Have Attacks of Wheezing</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SGRQC1-I Have Shortness of Breath" nciodm:ExtCodeID="C106856">
+                    <nciodm:CDISCSynonym>SGRQC1-I Have Shortness of Breath</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>St. George's Respiratory Questionnaire - I have shortness of breath.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SGRQ-C - Have Shortness of Breath</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SGRQC1-If I Hurry, I Have to Stop" nciodm:ExtCodeID="C106884">
+                    <nciodm:CDISCSynonym>SGRQC1-If I Hurry, I Have to Stop</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>St. George's Respiratory Questionnaire - These are questions about how your activities might be affected by your respiratory problems: If I hurry or walk fast, I have to stop or slow down.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SGRQ-C - If Walk Fast Have to Stop</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SGRQC1-Jobs Take a Long Time" nciodm:ExtCodeID="C106882">
+                    <nciodm:CDISCSynonym>SGRQC1-Jobs Take a Long Time</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>St. George's Respiratory Questionnaire - These are questions about how your activities might be affected by your respiratory problems: Jobs such as household chores take a long time, or I have to stop to rest.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SGRQ-C - Jobs Take a Long Time</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SGRQC1-Not in Control of Resp Problems" nciodm:ExtCodeID="C106875">
+                    <nciodm:CDISCSynonym>SGRQC1-Not in Control of Resp Problems</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>St. George's Respiratory Questionnaire - Questions about other effects that your respiratory problems may have on you: I feel that I am not in control of my respiratory problems.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SGRQ-C - Not in Control of Respiratory Problems</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SGRQC1-Respiratory Problems a Nuisance" nciodm:ExtCodeID="C107021">
+                    <nciodm:CDISCSynonym>SGRQC1-Respiratory Problems a Nuisance</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>St. George's Respiratory Questionnaire - Questions about other effects that your respiratory problems may have on you: My respiratory problems are a nuisance to my family, friends or neighbours.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SGRQ-C - Respiratory Problems a Nuisance to Family, Friends or Neighbours</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SGRQC1-Short of Breath When Bend Over" nciodm:ExtCodeID="C106870">
+                    <nciodm:CDISCSynonym>SGRQC1-Short of Breath When Bend Over</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>St. George's Respiratory Questionnaire - Some more questions about your cough and breathlessness: I am short of breath when I bend over.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SGRQ-C - Short of Breath When Bend Over</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SGRQC1-Short of Breath When Talk" nciodm:ExtCodeID="C106869">
+                    <nciodm:CDISCSynonym>SGRQC1-Short of Breath When Talk</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>St. George's Respiratory Questionnaire - Some more questions about your cough and breathlessness: I am short of breath when I talk.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SGRQ-C - Short of Breath When Talk</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SGRQC1-Take a Long Time to Get Washed" nciodm:ExtCodeID="C106879">
+                    <nciodm:CDISCSynonym>SGRQC1-Take a Long Time to Get Washed</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>St. George's Respiratory Questionnaire - These are questions about how your activities might be affected by your respiratory problems: I take a long time to get washed or dressed.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SGRQ-C - Take a Long Time to Get Washed or Dressed</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SGRQC1-Walk Slow Than Others My Age" nciodm:ExtCodeID="C106881">
+                    <nciodm:CDISCSynonym>SGRQC1-Walk Slow Than Others My Age</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>St. George's Respiratory Questionnaire - These are questions about how your activities might be affected by your respiratory problems: I walk slower than other people my age, or I stop to rest.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SGRQ-C - Walk Slower Than Other People My Age</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SGRQC1-Walk Up Flight of Stairs Slowly" nciodm:ExtCodeID="C106883">
+                    <nciodm:CDISCSynonym>SGRQC1-Walk Up Flight of Stairs Slowly</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>St. George's Respiratory Questionnaire - These are questions about how your activities might be affected by your respiratory problems: If I walk up one flight of stairs, I have to go slowly or stop.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SGRQ-C - Walk Up Flight of Stairs Slowly</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SGRQC1-Walking Around the House" nciodm:ExtCodeID="C106863">
+                    <nciodm:CDISCSynonym>SGRQC1-Walking Around the House</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>St. George's Respiratory Questionnaire - Questions about what activities usually make you feel breathless: Walking around the house.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SGRQ-C - Feel Breathless Walking Around the House</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SGRQC1-Walking Outside on Level Ground" nciodm:ExtCodeID="C106864">
+                    <nciodm:CDISCSynonym>SGRQC1-Walking Outside on Level Ground</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>St. George's Respiratory Questionnaire - Questions about what activities usually make you feel breathless: Walking outside on level ground.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SGRQ-C - Feel Breathless Walking Outside on Level Ground</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SGRQC1-Walking Up a Flight of Stairs" nciodm:ExtCodeID="C106865">
+                    <nciodm:CDISCSynonym>SGRQC1-Walking Up a Flight of Stairs</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>St. George's Respiratory Questionnaire - Questions about what activities usually make you feel breathless: Walking up a flight of stairs.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SGRQ-C - Feel Breathless Walking Up a Flight of Stairs</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SGRQC1-Walking Up Hills" nciodm:ExtCodeID="C106866">
+                    <nciodm:CDISCSynonym>SGRQC1-Walking Up Hills</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>St. George's Respiratory Questionnaire - Questions about what activities usually make you feel breathless: Walking up hills.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SGRQ-C - Feel Breathless Walking Up Hills</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SGRQC1-Washing or Dressing Yourself" nciodm:ExtCodeID="C106862">
+                    <nciodm:CDISCSynonym>SGRQC1-Washing or Dressing Yourself</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>St. George's Respiratory Questionnaire - Questions about what activities usually make you feel breathless: Washing or dressing yourself.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SGRQ-C - Feel Breathless Washing or Dressing Yourself</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SGRQC1-Wheeze Worse in the Morning" nciodm:ExtCodeID="C106860">
+                    <nciodm:CDISCSynonym>SGRQC1-Wheeze Worse in the Morning</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>St. George's Respiratory Questionnaire - If you wheeze, is it worse when you get up in the morning?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SGRQ-C - Wheezing Worse In the Morning</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>SGRQC1TN</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>St. George's Respiratory Questionnaire for COPD Patients Questionnaire Test Name</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Questionnaire SGRQ-C Test Name Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

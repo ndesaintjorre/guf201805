@@ -1,0 +1,79 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C123653.EXACT1TC" Name="Exacerbations of Chronic Pulmonary Disease Tool Patient-Reported Outcome Questionnaire Test Code" DataType="text" nciodm:ExtCodeID="C123653" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Exacerbations of Chronic Pulmonary Disease Tool Patient-Reported Outcome test code.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="EXACT101" nciodm:ExtCodeID="C123669">
+                    <nciodm:CDISCSynonym>EXACT1-Chest Feel Congested</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Exacerbations of Chronic Pulmonary Disease Tool Patient-Reported Outcome - Did your chest feel congested today?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>EXACT - Chest Feel Congested</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EXACT102" nciodm:ExtCodeID="C123670">
+                    <nciodm:CDISCSynonym>EXACT1-How Often Cough</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Exacerbations of Chronic Pulmonary Disease Tool Patient-Reported Outcome - How often did you cough today?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>EXACT - How Often Cough Today</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EXACT103" nciodm:ExtCodeID="C123671">
+                    <nciodm:CDISCSynonym>EXACT1-Bring Up Mucus When Coughing</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Exacerbations of Chronic Pulmonary Disease Tool Patient-Reported Outcome - How much mucus (phlegm) did you bring up when coughing today?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>EXACT - Bring Up Mucus When Coughing</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EXACT104" nciodm:ExtCodeID="C123672">
+                    <nciodm:CDISCSynonym>EXACT1-Difficult to Bring Up Mucus</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Exacerbations of Chronic Pulmonary Disease Tool Patient-Reported Outcome - How difficult was it to bring up mucus (phlegm) today?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>EXACT - Difficult to Bring Up Mucus</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EXACT105" nciodm:ExtCodeID="C123673">
+                    <nciodm:CDISCSynonym>EXACT1-Chest Discomfort</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Exacerbations of Chronic Pulmonary Disease Tool Patient-Reported Outcome - Did you have chest discomfort today?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>EXACT - Have Chest Discomfort</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EXACT106" nciodm:ExtCodeID="C123674">
+                    <nciodm:CDISCSynonym>EXACT1-Chest Feel Tight</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Exacerbations of Chronic Pulmonary Disease Tool Patient-Reported Outcome - Did your chest feel tight today?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>EXACT - Chest Feel Tight</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EXACT107" nciodm:ExtCodeID="C123675">
+                    <nciodm:CDISCSynonym>EXACT1-Breathless</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Exacerbations of Chronic Pulmonary Disease Tool Patient-Reported Outcome - Were you breathless today?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>EXACT - Were You Breathless</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EXACT108" nciodm:ExtCodeID="C123676">
+                    <nciodm:CDISCSynonym>EXACT1-Describe How Breathless</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Exacerbations of Chronic Pulmonary Disease Tool Patient-Reported Outcome - Describe how breathless you were today.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>EXACT - Describe How Breathless</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EXACT109" nciodm:ExtCodeID="C123677">
+                    <nciodm:CDISCSynonym>EXACT1-Short Breath Personal Care</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Exacerbations of Chronic Pulmonary Disease Tool Patient-Reported Outcome - Were you short of breath today when performing your usual personal care activities like washing or dressing?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>EXACT - Short of Breath When Performing Usual Personal Care</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EXACT110" nciodm:ExtCodeID="C123678">
+                    <nciodm:CDISCSynonym>EXACT1-Short Breath Indoor Activities</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Exacerbations of Chronic Pulmonary Disease Tool Patient-Reported Outcome - Were you short of breath today when performing your usual indoor activities like cleaning or household work?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>EXACT - Short of Breath When Performing Usual Indoor Activities</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EXACT111" nciodm:ExtCodeID="C123679">
+                    <nciodm:CDISCSynonym>EXACT1-Short Breath Outside Activities</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Exacerbations of Chronic Pulmonary Disease Tool Patient-Reported Outcome - Were you short of breath today when performing your usual activities outside the home such as yard work or errands?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>EXACT - Short of Breath When Performing Usual Activities Outside</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EXACT112" nciodm:ExtCodeID="C123680">
+                    <nciodm:CDISCSynonym>EXACT1-Tired or Weak</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Exacerbations of Chronic Pulmonary Disease Tool Patient-Reported Outcome - Were you tired or weak today?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>EXACT - Tired or Weak</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EXACT113" nciodm:ExtCodeID="C123681">
+                    <nciodm:CDISCSynonym>EXACT1-Night Sleep Disturbed</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Exacerbations of Chronic Pulmonary Disease Tool Patient-Reported Outcome - Last night, was your sleep disturbed?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>EXACT - Night Sleep Disturbed</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EXACT114" nciodm:ExtCodeID="C123682">
+                    <nciodm:CDISCSynonym>EXACT1-Worried About Lung Problems</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Exacerbations of Chronic Pulmonary Disease Tool Patient-Reported Outcome - How scared or worried were you about your lung problems today?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>EXACT - Worried About Lung Problems</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>EXACT1TC</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Exacerbations of Chronic Pulmonary Disease Tool Patient-Reported Outcome Questionnaire Test Code</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Questionnaire EXACT Test Code Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

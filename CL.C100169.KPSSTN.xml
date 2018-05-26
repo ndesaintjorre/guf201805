@@ -1,0 +1,14 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C100169.KPSSTN" Name="Karnofsky Performance Status Scale Questionnaire Test Name" DataType="text" nciodm:ExtCodeID="C100169" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Karnofsky Performance Status Scale test name.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="KPSS-Karnofsky Performance Status" nciodm:ExtCodeID="C100417">
+                    <nciodm:CDISCSynonym>KPSS-Karnofsky Performance Status</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Karnofsky Performance Status Scale - Karnofsky Performance Status.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>KPS Scale - Karnofsky Performance Status</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>KPSSTN</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Karnofsky Performance Status Scale Questionnaire Test Name</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Questionnaire KPS Scale Test Name Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

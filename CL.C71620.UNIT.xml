@@ -385,6 +385,20 @@
                     <nciodm:CDISCDefinition>A unit of measurement equal to 10 to the ninth power of the number of entities per unit of volume equal to one liter.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Billion per Liter</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="Absorbance U" nciodm:ExtCodeID="C73686">
+                    <nciodm:CDISCSynonym>Absorbance Unit</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A unit of optical density expressed as a logarithm of absorbance of light transmitted through a partially absorbing substance.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Absorbance Unit</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Absorbance U/min" nciodm:ExtCodeID="C73687">
+                    <nciodm:CDISCSynonym>Absorbance Unit per Minute</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A unit of a speed of optical density change expressed as a logarithm of absorbance of light transmitted through a partially absorbing substance per minute. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Absorbance Unit per Minute</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Absorbance U/mL" nciodm:ExtCodeID="C126078">
+                    <nciodm:CDISCDefinition>A unit of optical density expressed as a logarithm of absorbance of light transmitted through a partially absorbing substance per unit of volume equal to one milliliter.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Absorbance Unit per Milliliter</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="AFU" nciodm:ExtCodeID="C77534">
                     <nciodm:CDISCSynonym>Arbitrary Fluorescence Unit</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Arbitrary unit(s) of fluorescent luminescence. (NCI)</nciodm:CDISCDefinition>
@@ -458,16 +472,6 @@
                     <nciodm:CDISCSynonym>Atmosphere</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A unit of pressure, equal to a barometer reading of 760 mm Hg. 1 atmosphere is 101325 Pascals and 1.01325 bar. This unit of pressure is roughly equal to the average atmospheric pressure at sea level on the earth.(NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Atmosphere</nciodm:PreferredTerm>
-                </EnumeratedItem>
-                <EnumeratedItem CodedValue="AU" nciodm:ExtCodeID="C73686">
-                    <nciodm:CDISCSynonym>Absorbance Unit</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A unit of optical density expressed as the absorbance of light transmitted through the medium on the logarithmic scale. (NCI)</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Absorbance Unit</nciodm:PreferredTerm>
-                </EnumeratedItem>
-                <EnumeratedItem CodedValue="AU/min" nciodm:ExtCodeID="C73687">
-                    <nciodm:CDISCSynonym>Absorbance Unit per Minute</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A unit of a speed of optical density change expressed as a logarithm of absorbance of light transmitted through a partially absorbing substance per minute. (NCI)</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Absorbance Unit per Minute</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="AU/mL" nciodm:ExtCodeID="C70504">
                     <nciodm:CDISCSynonym>Allergy Unit per Milliliter</nciodm:CDISCSynonym>
@@ -797,6 +801,10 @@
                 <EnumeratedItem CodedValue="copies/mL" nciodm:ExtCodeID="C100900">
                     <nciodm:CDISCDefinition>A unit of concentration expressed as a number of copies per unit volume equal to one milliliter.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Copies per Milliliter</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="copies/ug" nciodm:ExtCodeID="C126079">
+                    <nciodm:CDISCDefinition>A unit of concentration expressed as a number of copies per unit volume equal to one microgram.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Copies per Microgram</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="copies/uL" nciodm:ExtCodeID="C116237">
                     <nciodm:CDISCDefinition>A unit of concentration expressed as a number of copies per unit volume equal to one microliter.</nciodm:CDISCDefinition>
@@ -1183,7 +1191,7 @@
                     <nciodm:PreferredTerm>Gram per Square Meter per Day</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="g/mol" nciodm:ExtCodeID="C73721">
-                    <nciodm:CDISCSynonym>Gram per Mole</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>mg/mmol</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A unit of mass commonly used to express the molar mass of a substance in gram(s) per mole. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Gram per Mole</nciodm:PreferredTerm>
                 </EnumeratedItem>
@@ -1235,6 +1243,10 @@
                     <nciodm:CDISCSynonym>Grain</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A unit of mass derived from the weight of a grain and equal to one seven-thousandth of a pound, or 1/480 troy ounce, or 64.79891 milligrams. The original English grain unit based on the mass of a ripe grain barleycorn was larger the corresponding grain units of France and other European nations which were based on the weight of the smaller wheat grain.(NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Grain</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Gravitational Unit" nciodm:ExtCodeID="C73772">
+                    <nciodm:CDISCDefinition>A unit of acceleration expressed as a multiple of the force of gravity on earth (1 gravitational unit = 9.81m/s2).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Unit of Gravity</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="gtt" nciodm:ExtCodeID="C48491">
                     <nciodm:CDISCSynonym>Drop</nciodm:CDISCSynonym>
@@ -2079,6 +2091,10 @@
                     <nciodm:CDISCSynonym>Square Millimeter</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A unit of area measurement equal to a square measuring one millimeter on each side. One square millimeter is equal to 10(E-2) square centimeter and 10(E-6) square meter.(NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Square Millimeter</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="mm3/mm2/year" nciodm:ExtCodeID="C126080">
+                    <nciodm:CDISCDefinition>A unit defined as the volume, in cubic millimeters, per area equal to one square millimeter per unit of time equal to one year.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Cubic Millimeter per Square Millimeter per Year</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="mmHg" nciodm:ExtCodeID="C49670">
                     <nciodm:CDISCSynonym>Millimeter of Mercury</nciodm:CDISCSynonym>
@@ -3137,6 +3153,10 @@
                     <nciodm:CDISCDefinition>A unit of length in metric system equal to 10E-6 meter, or micrometer.(NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Micron</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="um/day" nciodm:ExtCodeID="C126081">
+                    <nciodm:CDISCDefinition>A unit of length equal to one micrometer per unit of time equal to one day.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Micrometer per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="um2" nciodm:ExtCodeID="C73770">
                     <nciodm:CDISCSynonym>MicroSquare Meter</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A SI unit of area measurement equal to a square whose sides are one micrometer long. (NCI)</nciodm:CDISCDefinition>
@@ -3157,6 +3177,10 @@
                 <EnumeratedItem CodedValue="umol/h/mmol" nciodm:ExtCodeID="C124467">
                     <nciodm:CDISCDefinition>A unit of fraction expressed as the ratio of the number of micromoles of substance per unit of time equal to one hour, to the amount of a different substance, in millimoles.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Micromole per Hour per Millimole</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="umol/kg/min" nciodm:ExtCodeID="C126082">
+                    <nciodm:CDISCDefinition>A unit of concentration (molarity unit) equal to one millionth of a mole (10E-6 mole) per kilogram of a substance per period of time equal to sixty seconds.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Micromole per Kilogram per Minute</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="umol/L" nciodm:ExtCodeID="C48508">
                     <nciodm:CDISCSynonym>Micromole per Liter</nciodm:CDISCSynonym>

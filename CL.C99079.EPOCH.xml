@@ -2,6 +2,10 @@
                 <Description>
                     <TranslatedText xml:lang="en">The name of the EPOCH.</TranslatedText>
                 </Description>
+                <EnumeratedItem CodedValue="BASELINE" nciodm:ExtCodeID="C125938">
+                    <nciodm:CDISCDefinition>A period in a clinical study after eligibility has been met and before the start of treatment, at which baseline measurements are collected.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Baseline Epoch</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="BLINDED TREATMENT" nciodm:ExtCodeID="C102255">
                     <nciodm:CDISCDefinition>A period in a clinical study during which subjects receive blinded therapeutic treatment.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Blinded Treatment Epoch</nciodm:PreferredTerm>
