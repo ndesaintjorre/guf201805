@@ -8,6 +8,11 @@
                     <nciodm:CDISCDefinition>A measurement of the total active Vitamin D in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>1, 25-Dihydroxyvitamin D Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="1,5-Anhydroglucitol" nciodm:ExtCodeID="C124334">
+                    <nciodm:CDISCSynonym>1,5-Anhydroglucitol</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the 1,5-anhydroglucitol in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>1,5-Anhydroglucitol Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="11-Dehydro-Thromboxane B2" nciodm:ExtCodeID="C103344">
                     <nciodm:CDISCSynonym>11-Dehydro-Thromboxane B2</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the 11-dehydro-thromboxane B2 in a biological specimen.</nciodm:CDISCDefinition>
@@ -250,6 +255,11 @@
                     <nciodm:CDISCSynonym>Aldosterone</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the aldosterone hormone in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Aldosterone Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Aldosterone/Renin Activity" nciodm:ExtCodeID="C124338">
+                    <nciodm:CDISCSynonym>Aldosterone/Renin Activity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A relative measurement (ratio) of the aldosterone to renin activity in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Aldosterone to Renin Activity Ratio Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Alkaline Phosphatase" nciodm:ExtCodeID="C64432">
                     <nciodm:CDISCSynonym>Alkaline Phosphatase</nciodm:CDISCSynonym>
@@ -565,6 +575,16 @@
                     <nciodm:CDISCDefinition>A measurement of the anti-nucleosome antibody in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Anti-Nucleosome Antibody Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="Anti-Phospholipid IgG Antibody" nciodm:ExtCodeID="C124335">
+                    <nciodm:CDISCSynonym>Anti-Phospholipid IgG Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the antiphospholipid IgG antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Anti-Phospholipid IgG Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Anti-Phospholipid IgM Antibody" nciodm:ExtCodeID="C124336">
+                    <nciodm:CDISCSynonym>Anti-Phospholipid IgM Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the antiphospholipid IgM antibody in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Anti-Phospholipid IgM Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="Anti-Saccharomyces cerevisiae Antibody" nciodm:ExtCodeID="C81976">
                     <nciodm:CDISCSynonym>Anti-Saccharomyces cerevisiae Antibody</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the anti-Saccharomyces cerevisiae antibody in a biological specimen.</nciodm:CDISCDefinition>
@@ -616,7 +636,7 @@
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Antiphospholipid Antibodies" nciodm:ExtCodeID="C102258">
                     <nciodm:CDISCSynonym>Antiphospholipid Antibodies</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A measurement of the antiphospholipid antibodies in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A measurement of the total antiphospholipid antibodies in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Antiphospholipid Antibody Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Antithrombin" nciodm:ExtCodeID="C81958">
@@ -633,9 +653,14 @@
                     <nciodm:CDISCDefinition>A measurement of the antithrombin antigen in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Antithrombin Antigen Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="Apolipoprotein A" nciodm:ExtCodeID="C124337">
+                    <nciodm:CDISCSynonym>Apolipoprotein A</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the total apolipoprotein A in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Apolipoprotein A Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="Apolipoprotein A1" nciodm:ExtCodeID="C74733">
                     <nciodm:CDISCSynonym>Apolipoprotein A1</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A measurement of the apolipoprotein A1 in the high density lipoproteins of a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A measurement of the apolipoprotein A1 in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Apolipoprotein A1 Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Apolipoprotein A4" nciodm:ExtCodeID="C103354">
@@ -1134,6 +1159,11 @@
                     <nciodm:CDISCSynonym>Calcium Phosphate Crystals</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the calcium phosphate crystals present in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Calcium Phosphate Crystal Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Calcium Sulfate Crystals" nciodm:ExtCodeID="C124340">
+                    <nciodm:CDISCSynonym>Calcium Sulfate Crystals</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the calcium sulfate crystals present in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Calcium Sulfate Crystals Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Calcium Sulphate" nciodm:ExtCodeID="C96590">
                     <nciodm:CDISCSynonym>Calcium Sulphate</nciodm:CDISCSynonym>
@@ -1853,6 +1883,11 @@
                     <nciodm:CDISCDefinition>A statement that indicates crystals were looked for in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Crystal Present Or Absent</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="Cyclic Adenosine 3,5-Monophosphate" nciodm:ExtCodeID="C124339">
+                    <nciodm:CDISCSynonym>Cyclic Adenosine 3,5-Monophosphate</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of cyclic adenosine 3,5-monophosphate in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Cyclic Adenosine 3,5-Monophosphate Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="Cyclic Citrullinated Peptide Antibody" nciodm:ExtCodeID="C96595">
                     <nciodm:CDISCSynonym>Cyclic Citrullinated Peptide Antibody</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the cyclic citrullinated peptide antibody in a biological specimen.</nciodm:CDISCDefinition>
@@ -1943,6 +1978,11 @@
                     <nciodm:CDISCDefinition>A measurement of the compactness of a biological specimen expressed in mass per unit volume.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Density</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="Deoxyhemoglobin" nciodm:ExtCodeID="C124343">
+                    <nciodm:CDISCSynonym>Deoxyhemoglobin</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the deoxyhemoglobin, hemoglobin without oxygen, in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Deoxyhemoglobin Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="Deoxypyridinoline" nciodm:ExtCodeID="C79443">
                     <nciodm:CDISCSynonym>Deoxypyridinoline</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the deoxypyridinoline in a biological specimen.</nciodm:CDISCDefinition>
@@ -1985,11 +2025,6 @@
                     <nciodm:CDISCSynonym>Lupus Anticoagulant Test</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the time it takes a plasma sample to clot after adding dilute Russell's viper venom.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Dilute Russell's Viper Venom Time Measurement</nciodm:PreferredTerm>
-                </EnumeratedItem>
-                <EnumeratedItem CodedValue="Dilute Russell's Viper Venom Time Ratio" nciodm:ExtCodeID="C103386">
-                    <nciodm:CDISCSynonym>Lupus Anticoagulant Ratio</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A relative measurement (ratio or percentage) of the dilute Russell's viper venom time in a subject sample to a control sample.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Dilute Russell's Viper Venom Time to Control Ratio Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Dimorphic Erythrocyte Population" nciodm:ExtCodeID="C117853">
                     <nciodm:CDISCSynonym>Dimorphic Erythrocyte Population</nciodm:CDISCSynonym>
@@ -2585,6 +2620,11 @@
                     <nciodm:CDISCDefinition>A measurement of the fractional excretion of sodium that is computed based upon the concentrations of sodium and creatinine in both blood and urine.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Fractional Excretion of Sodium</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="Free Androgen Index" nciodm:ExtCodeID="C124341">
+                    <nciodm:CDISCSynonym>Free Androgen Index</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the androgen status in a biological specimen. This is calculated by a mathematical formula that takes into account the total testosterone level, sex hormone binding globulin, and a constant.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Free Androgen Index</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="Free Fatty Acid" nciodm:ExtCodeID="C80200">
                     <nciodm:CDISCSynonym>Free Fatty Acid</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Non-Esterified Fatty Acid, Free</nciodm:CDISCSynonym>
@@ -2614,6 +2654,11 @@
                     <nciodm:CDISCSynonym>Glycated Serum Protein</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the fructosamine in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Fructosamine Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Galactose Elimination Capacity" nciodm:ExtCodeID="C124342">
+                    <nciodm:CDISCSynonym>Galactose Elimination Capacity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A liver function test that measures galactose elimination capacity in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Galactose Elimination Capacity</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Galanin" nciodm:ExtCodeID="C80182">
                     <nciodm:CDISCSynonym>Galanin</nciodm:CDISCSynonym>
@@ -2942,8 +2987,8 @@
                     <nciodm:CDISCDefinition>A measurement of the high density lipoprotein cholesterol in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>High Density Lipoprotein Cholesterol Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
-                <EnumeratedItem CodedValue="HDL Cholesterol/LDL Cholesterol Ratio" nciodm:ExtCodeID="C100425">
-                    <nciodm:CDISCSynonym>HDL Cholesterol/LDL Cholesterol Ratio</nciodm:CDISCSynonym>
+                <EnumeratedItem CodedValue="HDL Cholesterol/LDL Cholesterol" nciodm:ExtCodeID="C100425">
+                    <nciodm:CDISCSynonym>HDL Cholesterol/LDL Cholesterol</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A relative measurement (ratio or percentage) of the amount of HDL cholesterol compared to LDL cholesterol in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>HDL Cholesterol to LDL Cholesterol Ratio Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
@@ -3073,9 +3118,9 @@
                     <nciodm:CDISCDefinition>A measurement of the antibody reaction of a biological specimen to the Hepatitis A virus.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Hepatitis A Antibody Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
-                <EnumeratedItem CodedValue="Hepatitis A Virus Antibody IgM" nciodm:ExtCodeID="C92271">
-                    <nciodm:CDISCSynonym>Hepatitis A Virus Antibody IgM</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A measurement of hepatitis A virus antibody IgM in a biological specimen.</nciodm:CDISCDefinition>
+                <EnumeratedItem CodedValue="Hepatitis A Virus IgM Antibody" nciodm:ExtCodeID="C92271">
+                    <nciodm:CDISCSynonym>Hepatitis A Virus IgM Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of hepatitis A virus IgM antibody in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Hepatitis A Virus Antibody IgM Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Hepatitis B DNA" nciodm:ExtCodeID="C103404">
@@ -3703,6 +3748,17 @@
                     <nciodm:CDISCDefinition>A measurement of the insulinoma-associated protein 2 antibody in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Insulinoma-Associated Protein 2 Antibody Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="Intercellular Adhesion Molecule" nciodm:ExtCodeID="C124344">
+                    <nciodm:CDISCSynonym>Intercellular Adhesion Molecule</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the total intercellular adhesion molecule in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Intercellular Adhesion Molecule Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Intercellular Adhesion Molecule 1" nciodm:ExtCodeID="C124345">
+                    <nciodm:CDISCSynonym>CD54</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Intercellular Adhesion Molecule 1</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the intercellular adhesion molecule 1 in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Intercellular Adhesion Molecule 1 Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="Interferon Alpha" nciodm:ExtCodeID="C81994">
                     <nciodm:CDISCSynonym>Interferon Alpha</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the interferon alpha in a biological specimen.</nciodm:CDISCDefinition>
@@ -4323,6 +4379,11 @@
                     <nciodm:CDISCDefinition>A measurement of the low absorption reticulocytes in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Low Absorption Reticulocyte Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="Lupus Anticoagulant Ratio" nciodm:ExtCodeID="C103386">
+                    <nciodm:CDISCSynonym>Lupus Anticoagulant Ratio</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A relative measurement (ratio or percentage) of the dilute Russell's viper venom time in a subject sample to a control sample.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Dilute Russell's Viper Venom Time to Control Ratio Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="Lupus Anticoagulant Sensitive APTT" nciodm:ExtCodeID="C102277">
                     <nciodm:CDISCSynonym>APTT-LA</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Lupus Anticoagulant Sensitive APTT</nciodm:CDISCSynonym>
@@ -4777,6 +4838,21 @@
                     <nciodm:CDISCDefinition>A measurement of the mumps virus IgG antibody in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Mumps Virus IgG Antibody Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="Mycobacterium tuberculosis IgA Antibody" nciodm:ExtCodeID="C124346">
+                    <nciodm:CDISCSynonym>Mycobacterium tuberculosis IgA Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Mycobacterium tuberculosis IgA antibodies in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Mycobacterium tuberculosis IgA Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Mycobacterium tuberculosis IgE Antibody" nciodm:ExtCodeID="C124347">
+                    <nciodm:CDISCSynonym>Mycobacterium tuberculosis IgE Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Mycobacterium tuberculosis IgE antibodies in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Mycobacterium tuberculosis IgE Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Mycobacterium tuberculosis IgG Antibody" nciodm:ExtCodeID="C124348">
+                    <nciodm:CDISCSynonym>Mycobacterium tuberculosis IgG Antibody</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Mycobacterium tuberculosis IgG antibodies in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Mycobacterium tuberculosis IgG Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="Mycobacterium tuberculosis Nucleic Acid" nciodm:ExtCodeID="C92279">
                     <nciodm:CDISCSynonym>Mycobacterium tuberculosis Nucleic Acid</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the Mycobacterium tuberculosis nucleic acid in a biological specimen.</nciodm:CDISCDefinition>
@@ -5100,6 +5176,11 @@
                     <nciodm:CDISCSynonym>Osteocalcin</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the osteocalcin in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Osteocalcin Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Osteopontin" nciodm:ExtCodeID="C124349">
+                    <nciodm:CDISCSynonym>Osteopontin</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the osteopontin in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Osteopontin Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Osteoprotegerin" nciodm:ExtCodeID="C116206">
                     <nciodm:CDISCSynonym>OCIF</nciodm:CDISCSynonym>
@@ -6576,7 +6657,7 @@
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Transferrin" nciodm:ExtCodeID="C82037">
                     <nciodm:CDISCSynonym>Transferrin</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A measurement of the transferrin in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A measurement of the total transferrin in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Transferrin Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Transferrin Saturation" nciodm:ExtCodeID="C98792">

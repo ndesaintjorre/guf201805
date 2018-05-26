@@ -1,0 +1,84 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C103473.NPS TESTCD" Name="Neuropathic Pain Scale Questionnaire Test Code" DataType="text" nciodm:ExtCodeID="C103473" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Neuropathic Pain Scale test code.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="NPS0101" nciodm:ExtCodeID="C103638">
+                    <nciodm:CDISCSynonym>NPS01-Tell Us How Intense Your Pain Is</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropathic Pain Scale - Please use the scale below to tell us how intense your pain is.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPS - Tell Us How Intense Your Pain Is</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPS0102" nciodm:ExtCodeID="C103639">
+                    <nciodm:CDISCSynonym>NPS01-Tell Us How Sharp Your Pain Feels</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropathic Pain Scale - Please use the scale below to tell us how sharp your pain feels. Words used to describe 'sharp' feelings include 'like a knife,' 'like a spike,' 'jabbing,' or 'like jolts.'</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPS - Tell Us How Sharp Your Pain Feels</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPS0103" nciodm:ExtCodeID="C103640">
+                    <nciodm:CDISCSynonym>NPS01-Tell Us How Hot Your Pain Feels</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropathic Pain Scale - Please use the scale below to tell us how hot your pain feels. Words used to describe very hot pain include 'burning' and 'on fire.'</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPS - Tell Us How Hot Your Pain Feels</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPS0104" nciodm:ExtCodeID="C103641">
+                    <nciodm:CDISCSynonym>NPS01-Tell Us How Dull Your Pain Feels</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropathic Pain Scale - Please use the scale below to tell us how dull your pain feels. Words used to describe very dull pain include 'like a dull toothache,' 'dull pain,' and 'like a bruise.'</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPS - Tell Us How Dull Your Pain Feels</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPS0105" nciodm:ExtCodeID="C103642">
+                    <nciodm:CDISCSynonym>NPS01-Tell Us How Cold Your Pain Feels</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropathic Pain Scale - Please use the scale below to tell us how cold your pain feels. Words used to describe very cold pain included 'like ice' and 'freezing.'</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPS - Tell Us How Cold Your Pain Feels</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPS0106" nciodm:ExtCodeID="C103643">
+                    <nciodm:CDISCSynonym>NPS01-Sensitiv Skin to Light Touch/Cloth</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropathic Pain Scale - Please use the scale below to tell us how sensitive your skin is to light touch or clothing. Words used to describe sensitive skin include 'like sunburned skin,' and 'raw skin.'</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPS - Tell Us How Sensitive Your Skin is to Light Touch or Clothing</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPS0107" nciodm:ExtCodeID="C103644">
+                    <nciodm:CDISCSynonym>NPS01-Tell Us How Itchy Your Pain Feels</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropathic Pain Scale - Please use the scale below to tell us how itchy your pain feels. Words used to describe itchy pain include 'like poison oak' and 'like a mosquito bite.'</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPS - Tell Us How Itchy Your Pain Feels</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPS0108" nciodm:ExtCodeID="C103645">
+                    <nciodm:CDISCSynonym>NPS01-Describe Time Quality Of Your Pain</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropathic Pain Scale - Which of the following best describes the time quality of your pain? Please check only one answer.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPS - Describe the Time Quality Of Your Pain</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPS0108A" nciodm:ExtCodeID="C103646">
+                    <nciodm:CDISCSynonym>NPS01-Describe the Background Pain</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropathic Pain Scale - I feel a background pain all of the time and occasional flare-ups (break-through pain) some of the time. Describe the background pain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPS - Describe the Background Pain</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPS0108B" nciodm:ExtCodeID="C103647">
+                    <nciodm:CDISCSynonym>NPS01-Describe the Flare-up Pain</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropathic Pain Scale - I feel a background pain all of the time and occasional flare-ups (break-through pain) some of the time. Describe the flare-up (break-through) pain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPS - Describe the Flare-up Pain</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPS0108C" nciodm:ExtCodeID="C103648">
+                    <nciodm:CDISCSynonym>NPS01-Describe Single Type Pain All Time</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropathic Pain Scale - I feel a single type of pain all the time. Describe this pain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPS - Describe the Single Type of Pain All Time</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPS0108D" nciodm:ExtCodeID="C103649">
+                    <nciodm:CDISCSynonym>NPS01-Describe the Occasional Pain</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropathic Pain Scale - I fee a single type of pain only sometimes. Other times, I am pain free. Describe the occasional pain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPS - Describe the Occasional Pain</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPS0109" nciodm:ExtCodeID="C103650">
+                    <nciodm:CDISCSynonym>NPS01-Tell How Unpleasant Your Pain Feel</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropathic Pain Scale - Now that you have told us the different physical aspects of your pain, the different types of sensations, we want you to tell us overall how unpleasant your pain is to you. Words used to describe very unpleasant pain include 'miserable' and intolerable.' Remember, pain can have a low intensity, buy still feel extremely unpleasant, and some kinds of pain can have a high intensity but be very tolerable. With this scale, please tell us how unpleasant your pain feels.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPS - Tell Us Overall How Unpleasant Your Pain is to You</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPS0110A" nciodm:ExtCodeID="C103651">
+                    <nciodm:CDISCSynonym>NPS01-How Intense is Your Deep Pain</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropathic Pain Scale - Lastly, we want you to give us an estimate of the severity of your deep versus surface pain. We want your to rate each location of pain separately. We realize that it can be difficult to make these estimates, and most likely it will be a 'best guess,' but please give us your best estimate. How intense is your deep pain?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPS - How Intense is Your Deep Pain</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPS0110B" nciodm:ExtCodeID="C103652">
+                    <nciodm:CDISCSynonym>NPS01-How Intense is Your Surface Pain</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropathic Pain Scale - Lastly, we want you to give us an estimate of the severity of your deep versus surface pain. We want your to rate each location of pain separately. We realize that it can be difficult to make these estimates, and most likely it will be a 'best guess,' but please give us your best estimate. How intense is your surface pain?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NPS - How Intense is Your Surface Pain</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>NPS TESTCD</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Neuropathic Pain Scale Questionnaire Test Code</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Questionnaire NPS Test Code Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

@@ -1,0 +1,39 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C100136.EQ-5D-3L TESTCD" Name="European Quality of Life Five Dimension Three Level Scale Test Code" DataType="text" nciodm:ExtCodeID="C100136" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">European Quality of Life Five Dimension Five Level Scale test code.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="EQ5D0101" nciodm:ExtCodeID="C100392">
+                    <nciodm:CDISCSynonym>EQ5D01-Mobility</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>European Quality of Life Five Dimension Three Level Scale - Indicate which statements best describe your own health state today: Mobility.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>EQ-5D-3L - Mobility</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EQ5D0102" nciodm:ExtCodeID="C100393">
+                    <nciodm:CDISCSynonym>EQ5D01-Self-Care</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>European Quality of Life Five Dimension Three Level Scale - Indicate which statements best describe your own health state today: Self-care.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>EQ-5D-3L - Self-Care</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EQ5D0103" nciodm:ExtCodeID="C100394">
+                    <nciodm:CDISCSynonym>EQ5D01-Usual Activities</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>European Quality of Life Five Dimension Three Level Scale - Indicate which statements best describe your own health state today: Usual activities.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>EQ-5D-3L - Usual Activities</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EQ5D0104" nciodm:ExtCodeID="C100395">
+                    <nciodm:CDISCSynonym>EQ5D01-Pain/Discomfort</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>European Quality of Life Five Dimension Three Level Scale - Indicate which statements best describe your own health state today: Pain/discomfort.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>EQ-5D-3L - Pain or Discomfort</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EQ5D0105" nciodm:ExtCodeID="C100396">
+                    <nciodm:CDISCSynonym>EQ5D01-Anxiety/Depression</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>European Quality of Life Five Dimension Three Level Scale - Indicate which statements best describe your own health state today: Anxiety/depression.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>EQ-5D-3L - Anxiety or Depression</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EQ5D0106" nciodm:ExtCodeID="C100397">
+                    <nciodm:CDISCSynonym>EQ5D01-EQ VAS Score</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>European Quality of Life Five Dimension Three Level Scale - Indicate on this scale how good or bad your own health is today, in your opinion.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>EQ-5D-3L - EQ VAS Score</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>EQ-5D-3L TESTCD</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>European Quality of Life Five Dimension Three Level Scale Test Code</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Questionnaire EQ-5D-3L Test Code Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

@@ -1,0 +1,17 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C124298.ONCRSCAT" Name="Category of Oncology Response Assessment" DataType="text" nciodm:ExtCodeID="C124298" nciodm:CodeListExtensible="Yes">
+                <Description>
+                    <TranslatedText xml:lang="en">The named criteria used for the grouping of assessments of response to treatment or therapy observations for oncology studies within the Disease Response and Clinical Classification domain.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="RECIST 1.0" nciodm:ExtCodeID="C124414">
+                    <nciodm:CDISCDefinition>Response Evaluation Criteria in Solid Tumors (RECIST) version 1.0 (Therasse P, Arbuck SG, Eisenhauer EA, Wanders J, Kaplan RS, Rubenstein L, Verweij J, Van Glabbeke M, van Oosterom AT, Christian MC, Gwyther SG. New Guidelines to Evaluate the Response to Treatment in Solid Tumors. Journal of the National Cancer Institute 2000; 92(3):205-216).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Response Evaluation Criteria in Solid Tumors Version 1.0</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="RECIST 1.1" nciodm:ExtCodeID="C124415">
+                    <nciodm:CDISCDefinition>Response Evaluation Criteria in Solid Tumors (RECIST) version 1.1 (E.A. Eisenhauer, P. Therasse, J. Bogaerts, L.H. Schwartz, D. Sargent, R. Ford, J. Dancey, S. Arbuck, S. Gwyther, M. Mooney, L. Rubinstein, L. Shankar, L. Dodd, R. Kaplan, D. Lacombe, J. Verweij. New response evaluation criteria in solid tumours; Revised RECIST guideline (version 1.1). European Journal of Cancer 2009; 45:228-247).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Response Evaluation Criteria in Solid Tumors Version 1.1</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>ONCRSCAT</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Category of Oncology Response Assessment</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Category of Oncology Response Assessment Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

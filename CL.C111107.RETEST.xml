@@ -2,6 +2,11 @@
                 <Description>
                     <TranslatedText xml:lang="en">A terminology codelist based on the test names for physiological findings related to the respiratory system, including the organs that are involved in breathing such as the nose, throat, larynx, trachea, bronchi and lungs.</TranslatedText>
                 </Description>
+                <EnumeratedItem CodedValue="Airway Conductance" nciodm:ExtCodeID="C124422">
+                    <nciodm:CDISCSynonym>Airway Conductance</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The instantaneous rate of air flow in the airway, expressed as the pressure difference between any given part of the airway and the alveoli; it is the reciprocal of airway resistance (Raw).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Airway Conductance</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="Airway Resistance" nciodm:ExtCodeID="C120927">
                     <nciodm:CDISCSynonym>Airway Resistance</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of respiratory tract resistance to airflow during inspiration and expiration.</nciodm:CDISCDefinition>
@@ -29,7 +34,7 @@
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="FEV1/FVC" nciodm:ExtCodeID="C111359">
                     <nciodm:CDISCSynonym>FEV1/FVC</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>The proportion of total forced vital capacity that is expelled during the first second of a forced exhalation.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>The ratio of the forced expiratory volume during the first second of exhalation to the largest observed expired volume during a forced vital capacity maneuver.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Forced Expiratory Volume in 1 Second to Forced Vital Capacity Ratio Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="FEV1/FVC6" nciodm:ExtCodeID="C123565">
@@ -44,13 +49,28 @@
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Forced Expiratory Volume in 1 Second" nciodm:ExtCodeID="C38084">
                     <nciodm:CDISCSynonym>Forced Expiratory Volume in 1 Second</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>The volume of air that a subject can breathe out during the first second of exhalation after maximum inhalation.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>The volume of air that can be forcibly exhaled during the first second following maximal inhalation.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Forced Expiratory Volume in 1 Second</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Forced Expiratory Volume in 6 Seconds" nciodm:ExtCodeID="C47843">
                     <nciodm:CDISCSynonym>Forced Expiratory Volume in 6 Seconds</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The volume of air that a subject can breathe out during the first 6 seconds of exhalation after maximum inhalation.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Forced Expiratory Volume in 6 Seconds</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Forced Inspiratory Flow at 25%" nciodm:ExtCodeID="C124418">
+                    <nciodm:CDISCSynonym>Forced Inspiratory Flow at 25%</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The forced inspiratory flow rate at the point on the inspiratory flow-volume curve where 25 percent of the total volume of air has been inhaled.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Forced Inspiratory Flow at 25%</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Forced Inspiratory Flow at 50%" nciodm:ExtCodeID="C124419">
+                    <nciodm:CDISCSynonym>Forced Inspiratory Flow at 50%</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The forced inspiratory flow rate at the point on the inspiratory flow-volume curve where 50 percent of the total volume of air has been inhaled.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Forced Inspiratory Flow at 50%</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Forced Inspiratory Flow at 75%" nciodm:ExtCodeID="C124420">
+                    <nciodm:CDISCSynonym>Forced Inspiratory Flow at 75%</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The forced inspiratory flow rate at the point on the inspiratory flow-volume curve where 75 percent of the total volume of air has been inhaled.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Forced Inspiratory Flow at 75%</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Forced Inspiratory Volume in 1 Second" nciodm:ExtCodeID="C111360">
                     <nciodm:CDISCSynonym>Forced Inspiratory Volume in 1 Second</nciodm:CDISCSynonym>
@@ -59,8 +79,13 @@
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Forced Vital Capacity" nciodm:ExtCodeID="C111361">
                     <nciodm:CDISCSynonym>Forced Vital Capacity</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>The maximum volume of air that can be exhaled after forced maximum inhalation.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>The volume of air that can be forcibly exhaled following maximal inhalation.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Forced Vital Capacity</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Forced Vital Capacity in 6 Seconds" nciodm:ExtCodeID="C124421">
+                    <nciodm:CDISCSynonym>Forced Vital Capacity in 6 Seconds</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The volume of air that can be forcibly exhaled during the first six seconds following maximal inhalation.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Forced Vital Capacity in 6 Seconds</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Functional Residual Capacity" nciodm:ExtCodeID="C89800">
                     <nciodm:CDISCSynonym>Functional Residual Capacity</nciodm:CDISCSynonym>
@@ -94,9 +119,19 @@
                     <nciodm:CDISCDefinition>The maximum volume of air a subject can inhale into the lungs after a tidal inhalation.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Inspiratory Reserve Volume</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="Inspiratory Vital Capacity" nciodm:ExtCodeID="C124423">
+                    <nciodm:CDISCSynonym>Inspiratory Vital Capacity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The maximum volume of air an individual can inhale from the point of maximal exhalation.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Inspiratory Vital Capacity</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Lung Clearance Index" nciodm:ExtCodeID="C124425">
+                    <nciodm:CDISCSynonym>Lung Clearance Index</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A representative measurement of the number of times the volume of air in the lung at the start of the washout (the Functional Residual Capacity) must be recycled to eliminate the tracer to the pre-defined endpoint.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Lung Clearance Index</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="Maximum Forced Inspiratory Flow" nciodm:ExtCodeID="C112333">
                     <nciodm:CDISCSynonym>Maximum Forced Inspiratory Flow</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Forced inspiratory flow for a portion of the FVC curve at the point where the maximum portion of FVC is already inhaled.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>The fastest rate of inspired air achieved during a forced inspiration maneuver.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Maximum Forced Inspiratory Flow</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Mean Diffusion Capacity of Lung for CO" nciodm:ExtCodeID="C123564">
@@ -166,7 +201,7 @@
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Percent Predicted FIFmax" nciodm:ExtCodeID="C112379">
                     <nciodm:CDISCSynonym>Percent Predicted FIFmax</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Forced inspiratory flow for a portion of the FVC curve at the point where the maximum portion of FVC is already inhaled as a proportion of the predicted normal value.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>The fastest rate of inspired air achieved during a forced inspiration maneuver expressed as a percentage of the expected result value for healthy individuals with similar characteristics.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Percent Predicted Forced Inspiratory Flow Maximum</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Percent Predicted FIV1" nciodm:ExtCodeID="C112380">
@@ -198,6 +233,11 @@
                     <nciodm:CDISCSynonym>Percent Predicted IRV</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The maximum volume of air a subject can inhale into the lungs after a tidal inhalation as a proportion of the predicted normal value.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Percent Predicted Inspiratory Reserve Volume</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Percent Predicted IVC" nciodm:ExtCodeID="C124424">
+                    <nciodm:CDISCSynonym>Percent Predicted IVC</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The maximum volume of air an individual can inhale from the point of maximal exhalation as a percentage of the predicted normal value.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Percent Predicted Inspiratory Vital Capacity</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Percent Predicted Peak Expiratory Flow" nciodm:ExtCodeID="C112384">
                     <nciodm:CDISCSynonym>Percent Predicted Peak Expiratory Flow</nciodm:CDISCSynonym>
@@ -253,6 +293,11 @@
                     <nciodm:CDISCSynonym>Specific Airway Resistance</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement used to describe airway behavior irrespective of lung volume; it is calculated as airway resistance (Raw) multiplied by functional residual capacity (FRC).</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Specific Airway Resistance</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Thoracic Gas Volume" nciodm:ExtCodeID="C124426">
+                    <nciodm:CDISCSynonym>Thoracic Gas Volume</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The absolute volume of air contained in the thoracic cavity at any given point in time and at any level of alveolar pressure.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Thoracic Gas Volume</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Tidal Volume" nciodm:ExtCodeID="C111324">
                     <nciodm:CDISCSynonym>Tidal Volume</nciodm:CDISCSynonym>

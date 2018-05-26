@@ -1,0 +1,24 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C100150.CGI TESTCD" Name="Clinical Global Impression Test Code" DataType="text" nciodm:ExtCodeID="C100150" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Clinical Global Impression test code.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="CGI0101" nciodm:ExtCodeID="C100955">
+                    <nciodm:CDISCSynonym>CGI01-Severity of Illness</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Clinical Global Impression - Considering your total clinical experience with this particular population, how mentally ill is the patient at this time?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CGI - Severity of Illness</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CGI0102" nciodm:ExtCodeID="C100956">
+                    <nciodm:CDISCSynonym>CGI01-Global Improvement</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Clinical Global Impression - Rate total improvement whether or not, in your judgment, it is due entirely to drug treatment. Compared to his condition at admission to the project, how much has he changed?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CGI - Global Improvement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CGI0103" nciodm:ExtCodeID="C100957">
+                    <nciodm:CDISCSynonym>CGI01-Efficacy Index</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Clinical Global Impression - Rate this item on the basis of drug effect only. Select the terms which best describe the degrees of therapeutic effect and side effects and record the number in the box where the two items intersect.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CGI - Efficacy Index</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>CGI TESTCD</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Clinical Global Impression Test Code</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Questionnaire CGI Test Code Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

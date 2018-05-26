@@ -1,0 +1,34 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C113854.BWCS TESTCD" Name="Bowel Control Scale Test Code" DataType="text" nciodm:ExtCodeID="C113854" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Bowel Control Scale test code.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="BWCS0101" nciodm:ExtCodeID="C113957">
+                    <nciodm:CDISCSynonym>BWCS01-Been Constipated</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Bowel Control Scale - During the past 4 weeks, how often have you been constipated?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BWCS - Been Constipated</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BWCS0102" nciodm:ExtCodeID="C113958">
+                    <nciodm:CDISCSynonym>BWCS01-Lost Control of Bowels</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Bowel Control Scale - During the past 4 weeks, how often have you lost control of your bowels or had an accident?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BWCS - Lost Control of Your Bowels</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BWCS0103" nciodm:ExtCodeID="C113959">
+                    <nciodm:CDISCSynonym>BWCS01-Almost Lost Control of Bowels</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Bowel Control Scale - During the past 4 weeks, how often have you almost lost control of your bowels or almost had an accident?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BWCS - Almost Lost Control of Your Bowels</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BWCS0104" nciodm:ExtCodeID="C113960">
+                    <nciodm:CDISCSynonym>BWCS01-Altered Activity Because Bowels</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Bowel Control Scale - During the past 4 weeks, how often have you altered your activities because of bowel control problems?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BWCS - Altered Activities Because Bowel Control Problems</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BWCS0105" nciodm:ExtCodeID="C113961">
+                    <nciodm:CDISCSynonym>BWCS01-Bowels Restricted Lifestyle</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Bowel Control Scale - During the past 4 weeks, how much have bowel problems restricted your overall lifestyle?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BWCS - Bowel Problems Restrict Overall Lifestyle</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>BWCS TESTCD</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Bowel Control Scale Test Code</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Questionnaire Bowel Control Scale Test Code Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

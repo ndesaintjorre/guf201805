@@ -1,0 +1,139 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C100160.SOAPP-R TESTCD" Name="Screener and Opioid Assessment for Patients with Pain - Revised Test Code" DataType="text" nciodm:ExtCodeID="C100160" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Screener and Opioid Assessment for Patients with Pain - Revised test code.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="SOAPR101" nciodm:ExtCodeID="C100870">
+                    <nciodm:CDISCSynonym>SOAPR1-How Often Mood Swings</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Screener and Opioid Assessment for Patients with Pain - Revised - How often do you have mood swings?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SOAPP-R - How Often Mood Swings</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SOAPR102" nciodm:ExtCodeID="C100871">
+                    <nciodm:CDISCSynonym>SOAPR1-Need Higher Doses of Medication</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Screener and Opioid Assessment for Patients with Pain - Revised - How often have you felt a need for higher doses of medication to treat your pain?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SOAPP-R - Need Higher Doses of Medication</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SOAPR103" nciodm:ExtCodeID="C100872">
+                    <nciodm:CDISCSynonym>SOAPR1-Felt Impatient With Doctors</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Screener and Opioid Assessment for Patients with Pain - Revised - How often have you felt impatient with your doctors?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SOAPP-R - Felt Impatient With Doctors</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SOAPR104" nciodm:ExtCodeID="C100873">
+                    <nciodm:CDISCSynonym>SOAPR1-Felt That Things Are Overwhelming</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Screener and Opioid Assessment for Patients with Pain - Revised - How often have you felt that things are just too overwhelming that you can't handle them?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SOAPP-R - Felt That Things Are Overwhelming</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SOAPR105" nciodm:ExtCodeID="C100874">
+                    <nciodm:CDISCSynonym>SOAPR1-How Often Tension at Home</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Screener and Opioid Assessment for Patients with Pain - Revised - How often is there tension in the home?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SOAPP-R - How Often Tension at Home</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SOAPR106" nciodm:ExtCodeID="C100875">
+                    <nciodm:CDISCSynonym>SOAPR1-How Often Counted Pain Pills</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Screener and Opioid Assessment for Patients with Pain - Revised - How often have you counted pain pills to see how many are remaining?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SOAPP-R - How Often Counted Pain Pills</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SOAPR107" nciodm:ExtCodeID="C100876">
+                    <nciodm:CDISCSynonym>SOAPR1-Concerned People Will Judge You</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Screener and Opioid Assessment for Patients with Pain - Revised - How often have you been concerned that people will judge you for taking pain medication?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SOAPP-R - Concerned People Will Judge You</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SOAPR108" nciodm:ExtCodeID="C100877">
+                    <nciodm:CDISCSynonym>SOAPR1-How Often Feel Bored</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Screener and Opioid Assessment for Patients with Pain - Revised - How often do you feel bored?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SOAPP-R - How Often Feel Bored</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SOAPR109" nciodm:ExtCodeID="C100878">
+                    <nciodm:CDISCSynonym>SOAPR1-How Often Taken More Pain Med</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Screener and Opioid Assessment for Patients with Pain - Revised - How often have you taken more pain medication than you were supposed to?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SOAPP-R - How Often Taken More Pain Medication</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SOAPR110" nciodm:ExtCodeID="C100879">
+                    <nciodm:CDISCSynonym>SOAPR1-Worried About Being Left Alone</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Screener and Opioid Assessment for Patients with Pain - Revised - How often have you worried about being left alone?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SOAPP-R - Worried About Being Left Alone</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SOAPR111" nciodm:ExtCodeID="C100880">
+                    <nciodm:CDISCSynonym>SOAPR1-Felt Craving for Medication</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Screener and Opioid Assessment for Patients with Pain - Revised - How often have you felt a craving for medication?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SOAPP-R - Felt Craving for Medication</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SOAPR112" nciodm:ExtCodeID="C100881">
+                    <nciodm:CDISCSynonym>SOAPR1-Expressed Concern Over Med Use</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Screener and Opioid Assessment for Patients with Pain - Revised - How often have others expressed concern over your use of medication?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SOAPP-R - Others Expressed Concern Over Medication Use</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SOAPR113" nciodm:ExtCodeID="C100882">
+                    <nciodm:CDISCSynonym>SOAPR1-How Often Friends Had Problem</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Screener and Opioid Assessment for Patients with Pain - Revised - How often have any of your close friends had a problem with alcohol or drugs?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SOAPP-R - How Often Friends Had Problem</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SOAPR114" nciodm:ExtCodeID="C100883">
+                    <nciodm:CDISCSynonym>SOAPR1-Others Told You Bad Temper</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Screener and Opioid Assessment for Patients with Pain - Revised - How often have others told you that you had a bad temper?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SOAPP-R - Others Told You Bad Temper</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SOAPR115" nciodm:ExtCodeID="C100884">
+                    <nciodm:CDISCSynonym>SOAPR1-Felt Consumed to Get Pain Med</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Screener and Opioid Assessment for Patients with Pain - Revised - How often have you felt consumed by the need to get pain medication?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SOAPP-R - Felt Consumed to Get Pain Medication</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SOAPR116" nciodm:ExtCodeID="C100885">
+                    <nciodm:CDISCSynonym>SOAPR1-Run Out of Pain Med Early</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Screener and Opioid Assessment for Patients with Pain - Revised - How often have you run out of pain medication early?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SOAPP-R - Run Out of Pain Medication Early</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SOAPR117" nciodm:ExtCodeID="C100886">
+                    <nciodm:CDISCSynonym>SOAPR1-Kept From What You Deserve</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Screener and Opioid Assessment for Patients with Pain - Revised - How often have others kept you from getting what you deserve?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SOAPP-R - Others Kept You From what You Deserve</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SOAPR118" nciodm:ExtCodeID="C100887">
+                    <nciodm:CDISCSynonym>SOAPR1-Legal Problems or Arrested</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Screener and Opioid Assessment for Patients with Pain - Revised - How often, in your lifetime, have you had legal problems or been arrested?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SOAPP-R - Legal Problems or Arrested</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SOAPR119" nciodm:ExtCodeID="C100888">
+                    <nciodm:CDISCSynonym>SOAPR1-Attended AA or NA Meeting</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Screener and Opioid Assessment for Patients with Pain - Revised - How often have you attended an AA or NA meeting?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SOAPP-R - Attended AA or NA Meeting</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SOAPR120" nciodm:ExtCodeID="C100889">
+                    <nciodm:CDISCSynonym>SOAPR1-Argument Someone Got Hurt</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Screener and Opioid Assessment for Patients with Pain - Revised - How often have you been in an argument that was so out of control that someone got hurt?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SOAPP-R - Argument Where Someone Got Hurt</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SOAPR121" nciodm:ExtCodeID="C100890">
+                    <nciodm:CDISCSynonym>SOAPR1-How Often Sexually Abused</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Screener and Opioid Assessment for Patients with Pain - Revised - How often have you been sexually abused?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SOAPP-R - How Often Sexually Abused</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SOAPR122" nciodm:ExtCodeID="C100891">
+                    <nciodm:CDISCSynonym>SOAPR1-Suggested Drug or Alcohol Problem</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Screener and Opioid Assessment for Patients with Pain - Revised - How often have others suggested that you have a drug or alcohol problem?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SOAPP-R - Others Suggested Drug or Alcohol Problem</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SOAPR123" nciodm:ExtCodeID="C100892">
+                    <nciodm:CDISCSynonym>SOAPR1-How Often Borrowed Pain Meds</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Screener and Opioid Assessment for Patients with Pain - Revised - How often have you had to borrow pain medications from your family or friends?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SOAPP-R - How Often Borrowed Pain Medication</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SOAPR124" nciodm:ExtCodeID="C100893">
+                    <nciodm:CDISCSynonym>SOAPR1-Treated for Alcohol or Drug Prob</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Screener and Opioid Assessment for Patients with Pain - Revised - How often have you been treated for an alcohol or drug problem?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SOAPP-R - Treated for Alcohol or Drug Problem</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SOAPR125" nciodm:ExtCodeID="C100894">
+                    <nciodm:CDISCSynonym>SOAPR1-Any Additional Information</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Screener and Opioid Assessment for Patients with Pain - Revised - Please include any additional information you wish about the above answers.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SOAPP-R - Any Additional Information</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SOAPR126" nciodm:ExtCodeID="C100895">
+                    <nciodm:CDISCSynonym>SOAPR1-Score</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Screener and Opioid Assessment for Patients with Pain - Revised - Score.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SOAPP-R - Score</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>SOAPP-R TESTCD</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Screener and Opioid Assessment for Patients with Pain - Revised Test Code</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Questionnaire SOAPP-R Test Code Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

@@ -1,0 +1,34 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C120986.BODE INDEX TEST" Name="The Body-Mass Index, Airflow Obstruction, Dyspnea, and Exercise Capacity Index Clinical Classification Test Name" DataType="text" nciodm:ExtCodeID="C120986" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">The Body-Mass Index, Airflow Obstruction, Dyspnea, and Exercise Capacity Index test name.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="BODE01-BODE Score" nciodm:ExtCodeID="C121067">
+                    <nciodm:CDISCSynonym>BODE01-BODE Score</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Body-Mass Index, Airflow Obstruction, Dyspnea, and Exercise Capacity Index - BODE score.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BODE Index - Score</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BODE01-Body-mass Index" nciodm:ExtCodeID="C121063">
+                    <nciodm:CDISCSynonym>BODE01-Body-mass Index</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Body-Mass Index, Airflow Obstruction, Dyspnea, and Exercise Capacity Index - Body-mass index.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BODE Index - Body-mass Index</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BODE01-Distance Walked in 6 Minutes" nciodm:ExtCodeID="C121066">
+                    <nciodm:CDISCSynonym>BODE01-Distance Walked in 6 Minutes</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Body-Mass Index, Airflow Obstruction, Dyspnea, and Exercise Capacity Index - Distance walked in 6 min (in meter).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BODE Index - Distance Walked in 6 Minutes</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BODE01-FEV1 % Predicted" nciodm:ExtCodeID="C121064">
+                    <nciodm:CDISCSynonym>BODE01-FEV1 % Predicted</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Body-Mass Index, Airflow Obstruction, Dyspnea, and Exercise Capacity Index - FEV1 (% of predicted).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BODE Index - FEV1 Percent Predicted</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BODE01-MMRC Dyspnea Scale" nciodm:ExtCodeID="C121065">
+                    <nciodm:CDISCSynonym>BODE01-MMRC Dyspnea Scale</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Body-Mass Index, Airflow Obstruction, Dyspnea, and Exercise Capacity Index - MMRC dyspnea scale.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BODE Index - MMRC Dyspnea Scale</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>BODE INDEX TEST</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>The Body-Mass Index, Airflow Obstruction, Dyspnea, and Exercise Capacity Index Clinical Classification Test Name</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Clinical Classification BODE Index Test Name Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

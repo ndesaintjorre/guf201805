@@ -1,0 +1,224 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C111337.C-SSRS CHILDREN'S BASELINE/SCREENING TEST" Name="Columbia-Suicide Severity Rating Scale Children's Baseline/Screening Questionnaire Test Name" DataType="text" nciodm:ExtCodeID="C111337" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Columbia-Suicide Severity Rating Scale Children's Baseline/Screening test name.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="CSS07-Aborted Attempt" nciodm:ExtCodeID="C111413">
+                    <nciodm:CDISCSynonym>CSS07-Aborted Attempt</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Children's Baseline/Screening - Has there been a time when you started to do something to make yourself not alive anymore (end your life or kill yourself) but you changed your mind (stopped yourself) before you actually did anything? What did you do?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Children's Baseline/Screening - Aborted Suicide Attempt</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS07-Aborted Attempt, Describe" nciodm:ExtCodeID="C111415">
+                    <nciodm:CDISCSynonym>CSS07-Aborted Attempt, Describe</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Children's Baseline/Screening - Description of aborted attempt.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Children's Baseline/Screening - Description of Aborted Suicide Attempt</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS07-Actual Attempt" nciodm:ExtCodeID="C111405">
+                    <nciodm:CDISCSynonym>CSS07-Actual Attempt</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Children's Baseline/Screening - Did you ever do anything to try to kill yourself or make yourself not alive anymore? What did you do? Did you ever hurt yourself on purpose? Why did you do that?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Children's Baseline/Screening - Actual Suicide Attempt</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS07-Actual Attempt, Describe" nciodm:ExtCodeID="C111407">
+                    <nciodm:CDISCSynonym>CSS07-Actual Attempt, Describe</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Children's Baseline/Screening - Description of actual attempt.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Children's Baseline/Screening - Description of Actual Suicide Attempt</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS07-First Attempt Damage" nciodm:ExtCodeID="C111426">
+                    <nciodm:CDISCSynonym>CSS07-First Attempt Damage</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Children's Baseline/Screening - Initial/first attempt actual lethality/medical damage.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Children's Baseline/Screening - First Suicide Attempt Actual Lethality/Medical Damage</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS07-First Attempt Date" nciodm:ExtCodeID="C111425">
+                    <nciodm:CDISCSynonym>CSS07-First Attempt Date</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Children's Baseline/Screening - Initial/first attempt date.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Children's Baseline/Screening - First Suicide Attempt Date</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS07-First Attempt Potential" nciodm:ExtCodeID="C111427">
+                    <nciodm:CDISCSynonym>CSS07-First Attempt Potential</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Children's Baseline/Screening - Initial/first attempt potential lethality.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Children's Baseline/Screening - First Suicide Attempt Potential Lethality</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS07-Frequency, Write Response" nciodm:ExtCodeID="C111404">
+                    <nciodm:CDISCSynonym>CSS07-Frequency, Write Response</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Children's Baseline/Screening - Frequency, write response.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Children's Baseline/Screening - Frequency, Write Response</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS07-Idea, Intent, No Plan, Describe" nciodm:ExtCodeID="C111396">
+                    <nciodm:CDISCSynonym>CSS07-Idea, Intent, No Plan, Describe</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Children's Baseline/Screening - Description of active suicidal ideation with some intent to act, without specific plan.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Children's Baseline/Screening - Description of Active Suicidal Ideation with Some Intent to Act, without Specific Plan</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS07-Idea, Intent, No Plan-Life" nciodm:ExtCodeID="C111394">
+                    <nciodm:CDISCSynonym>CSS07-Idea, Intent, No Plan-Life</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Children's Baseline/Screening - When you thought about making yourself not alive anymore (or killing yourself), did you think that this was something you might actually do? This is different from (as opposed to) having the thoughts but knowing you wouldn't do anything about it. (Lifetime).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Children's Baseline/Screening - Active Suicidal Ideation with Some Intent to Act, without Specific Plan (Lifetime)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS07-Idea, Intent, No Plan-P6M" nciodm:ExtCodeID="C111395">
+                    <nciodm:CDISCSynonym>CSS07-Idea, Intent, No Plan-P6M</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Children's Baseline/Screening - When you thought about making yourself not alive anymore (or killing yourself), did you think that this was something you might actually do? This is different from (as opposed to) having the thoughts but knowing you wouldn't do anything about it. (Past 6 Months).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Children's Baseline/Screening - Active Suicidal Ideation with Some Intent to Act, without Specific Plan (Past 6 Months)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS07-Idea, No Intent, No Plan, Describe" nciodm:ExtCodeID="C111393">
+                    <nciodm:CDISCSynonym>CSS07-Idea, No Intent, No Plan, Describe</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Children's Baseline/Screening - Description of active suicidal ideation with any methods (not plan) without intent to act.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Children's Baseline/Screening - Description of Active Suicidal Ideation with Any Methods (Not Plan) without Intent to Act</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS07-Idea, No Intent, No Plan-Life" nciodm:ExtCodeID="C111391">
+                    <nciodm:CDISCSynonym>CSS07-Idea, No Intent, No Plan-Life</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Children's Baseline/Screening - Have you thought about how you would do that or how you would make yourself not alive anymore (kill yourself)? What did you think about? (Lifetime).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Children's Baseline/Screening - Active Suicidal Ideation with Any Methods (Not Plan) without Intent to Act (Lifetime)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS07-Idea, No Intent, No Plan-P6M" nciodm:ExtCodeID="C111392">
+                    <nciodm:CDISCSynonym>CSS07-Idea, No Intent, No Plan-P6M</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Children's Baseline/Screening - Have you thought about how you would do that or how you would make yourself not alive anymore (kill yourself)? What did you think about? (Past 6 Months).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Children's Baseline/Screening - Active Suicidal Ideation with Any Methods (Not Plan) without Intent to Act (Past 6 Months)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS07-Idea, Plan, Intent, Describe" nciodm:ExtCodeID="C111399">
+                    <nciodm:CDISCSynonym>CSS07-Idea, Plan, Intent, Describe</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Children's Baseline/Screening - Description of active suicidal ideation with specific plan and intent.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Children's Baseline/Screening - Description of Active Suicidal Ideation with Specific Plan and Intent</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS07-Idea, Plan, Intent-Life" nciodm:ExtCodeID="C111397">
+                    <nciodm:CDISCSynonym>CSS07-Idea, Plan, Intent-Life</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Children's Baseline/Screening - Have you ever decided how or when you would make yourself not alive anymore/kill yourself? Have you ever planned out (worked out the details of) how you would do it? What was your plan? When you made this plan (or worked out these details), was any part of you thinking about actually doing it? (Lifetime).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Children's Baseline/Screening - Active Suicidal Ideation with Specific Plan and Intent (Lifetime)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS07-Idea, Plan, Intent-P6M" nciodm:ExtCodeID="C111398">
+                    <nciodm:CDISCSynonym>CSS07-Idea, Plan, Intent-P6M</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Children's Baseline/Screening - Have you ever decided how or when you would make yourself not alive anymore/kill yourself? Have you ever planned out (worked out the details of) how you would do it? What was your plan? When you made this plan (or worked out these details), was any part of you thinking about actually doing it? (Past 6 Months).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Children's Baseline/Screening - Active Suicidal Ideation with Specific Plan and Intent (Past 6 Months)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS07-Interrupted Attempt" nciodm:ExtCodeID="C111410">
+                    <nciodm:CDISCSynonym>CSS07-Interrupted Attempt</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Children's Baseline/Screening - Has there been a time when you started to do something to make yourself not alive anymore (end your life or kill yourself) but someone or something stopped you before you actually did anything? What did you do?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Children's Baseline/Screening - Interrupted Suicide Attempt</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS07-Interrupted Attempt, Describe" nciodm:ExtCodeID="C111412">
+                    <nciodm:CDISCSynonym>CSS07-Interrupted Attempt, Describe</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Children's Baseline/Screening - Description of interrupted attempt.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Children's Baseline/Screening - Description of Interrupted Suicide Attempt</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS07-Most Lethal Attempt Damage" nciodm:ExtCodeID="C111423">
+                    <nciodm:CDISCSynonym>CSS07-Most Lethal Attempt Damage</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Children's Baseline/Screening - Most lethal attempt actual lethality/medical damage.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Children's Baseline/Screening - Most Lethal Suicide Attempt Actual Lethality/Medical Damage</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS07-Most Lethal Attempt Date" nciodm:ExtCodeID="C111422">
+                    <nciodm:CDISCSynonym>CSS07-Most Lethal Attempt Date</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Children's Baseline/Screening - Most lethal attempt date.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Children's Baseline/Screening - Most Lethal Suicide Attempt Date</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS07-Most Lethal Attempt Potential" nciodm:ExtCodeID="C111424">
+                    <nciodm:CDISCSynonym>CSS07-Most Lethal Attempt Potential</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Children's Baseline/Screening - Most lethal attempt potential lethality.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Children's Baseline/Screening - Most Lethal Suicide Attempt Potential Lethality</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS07-Most Recent Attempt Damage" nciodm:ExtCodeID="C111420">
+                    <nciodm:CDISCSynonym>CSS07-Most Recent Attempt Damage</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Children's Baseline/Screening - Most recent attempt actual lethality/medical damage.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Children's Baseline/Screening - Most Recent Suicide Attempt Actual Lethality/Medical Damage</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS07-Most Recent Attempt Date" nciodm:ExtCodeID="C111419">
+                    <nciodm:CDISCSynonym>CSS07-Most Recent Attempt Date</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Children's Baseline/Screening - Most recent attempt date.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Children's Baseline/Screening - Most Recent Suicide Attempt Date</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS07-Most Recent Attempt Potential" nciodm:ExtCodeID="C111421">
+                    <nciodm:CDISCSynonym>CSS07-Most Recent Attempt Potential</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Children's Baseline/Screening - Most recent attempt potential lethality.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Children's Baseline/Screening - Most Recent Suicide Attempt Potential Lethality</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS07-Most Severe Idea" nciodm:ExtCodeID="C111400">
+                    <nciodm:CDISCSynonym>CSS07-Most Severe Idea</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Children's Baseline/Screening - Most severe ideation.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Children's Baseline/Screening - Most Severe Ideation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS07-Most Severe Idea, Desc" nciodm:ExtCodeID="C111401">
+                    <nciodm:CDISCSynonym>CSS07-Most Severe Idea, Desc</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Children's Baseline/Screening - Description of most severe ideation.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Children's Baseline/Screening - Describe Most Severe Ideation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS07-Most Severe Idea, Frequency-Life" nciodm:ExtCodeID="C111402">
+                    <nciodm:CDISCSynonym>CSS07-Most Severe Idea, Frequency-Life</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Children's Baseline/Screening - How many times have you had these thoughts? (Lifetime).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Children's Baseline/Screening - Frequency of Most Severe Ideation (Lifetime)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS07-Most Severe Idea, Frequency-P6M" nciodm:ExtCodeID="C111403">
+                    <nciodm:CDISCSynonym>CSS07-Most Severe Idea, Frequency-P6M</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Children's Baseline/Screening - How many times have you had these thoughts? (Past 6 Months).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Children's Baseline/Screening - Frequency of Most Severe Ideation (Past 6 Months)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS07-Non-Spec Suicid Thought, Describe" nciodm:ExtCodeID="C111390">
+                    <nciodm:CDISCSynonym>CSS07-Non-Spec Suicid Thought, Describe</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Children's Baseline/Screening - Description of non-specific active suicidal thoughts.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Children's Baseline/Screening - Description of Non-Specific Active Suicidal Thoughts</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS07-Non-Spec Suicid Thought-Life" nciodm:ExtCodeID="C111388">
+                    <nciodm:CDISCSynonym>CSS07-Non-Spec Suicid Thought-Life</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Children's Baseline/Screening - Have you thought about doing something to make yourself not alive anymore? Have you had any thoughts about killing yourself? (Lifetime).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Children's Baseline/Screening - Non-Specific Active Suicidal Thoughts (Lifetime)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS07-Non-Spec Suicid Thought-P6M" nciodm:ExtCodeID="C111389">
+                    <nciodm:CDISCSynonym>CSS07-Non-Spec Suicid Thought-P6M</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Children's Baseline/Screening - Have you thought about doing something to make yourself not alive anymore? Have you had any thoughts about killing yourself? (Past 6 Months).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Children's Baseline/Screening - Non-Specific Active Suicidal Thoughts (Past 6 Months)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS07-Non-suicidal Self-injur Behav" nciodm:ExtCodeID="C111408">
+                    <nciodm:CDISCSynonym>CSS07-Non-suicidal Self-injur Behav</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Children's Baseline/Screening - Has subject engaged in non-suicidal self-injurious behavior?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Children's Baseline/Screening - Non-suicidal Self-injurious Behavior</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS07-Number of Aborted Attempts" nciodm:ExtCodeID="C111414">
+                    <nciodm:CDISCSynonym>CSS07-Number of Aborted Attempts</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Children's Baseline/Screening - Total number of aborted attempts.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Children's Baseline/Screening - Number of Aborted Suicide Attempts</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS07-Number of Actual Attempts" nciodm:ExtCodeID="C111406">
+                    <nciodm:CDISCSynonym>CSS07-Number of Actual Attempts</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Children's Baseline/Screening - Total number of actual attempts.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Children's Baseline/Screening - Number of Actual Suicide Attempts</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS07-Number of Interrupt Attempts" nciodm:ExtCodeID="C111411">
+                    <nciodm:CDISCSynonym>CSS07-Number of Interrupt Attempts</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Children's Baseline/Screening - Total number of interrupted attempts.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Children's Baseline/Screening - Number of Interrupted Suicide Attempts</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS07-Preparatory Acts/Behavior" nciodm:ExtCodeID="C111416">
+                    <nciodm:CDISCSynonym>CSS07-Preparatory Acts/Behavior</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Children's Baseline/Screening - Have you done anything to get ready to make yourself not alive anymore (to end your life or kill yourself) - like giving things away, writing a goodbye note, getting things you need to kill yourself?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Children's Baseline/Screening - Preparatory Acts or Behaviors Toward Suicide Attempt</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS07-Preparatory Acts/Behavior, Descr" nciodm:ExtCodeID="C111417">
+                    <nciodm:CDISCSynonym>CSS07-Preparatory Acts/Behavior, Descr</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Children's Baseline/Screening - Description of preparatory acts or behavior.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Children's Baseline/Screening - Description of Preparatory Acts or Behaviors Toward Suicide Attempt</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS07-Self-injur Behav, Intent Unknown" nciodm:ExtCodeID="C111409">
+                    <nciodm:CDISCSynonym>CSS07-Self-injur Behav, Intent Unknown</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Children's Baseline - Has subject engaged in self-injurious behavior, intent unknown?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Children's Baseline/Screening - Self-injurious Behavior, Intent Unknown</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS07-Suicidal Behavior" nciodm:ExtCodeID="C111418">
+                    <nciodm:CDISCSynonym>CSS07-Suicidal Behavior</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Children's Baseline/Screening - Suicidal behavior was present during the assessment period?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Children's Baseline/Screening - Suicidal Behavior</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS07-Wish to be Dead, Describe" nciodm:ExtCodeID="C111387">
+                    <nciodm:CDISCSynonym>CSS07-Wish to be Dead, Describe</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Children's Baseline/Screening - Description of wishing to be dead.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Children's Baseline/Screening - Description of Wish to be Dead</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS07-Wish to be Dead-Life" nciodm:ExtCodeID="C111385">
+                    <nciodm:CDISCSynonym>CSS07-Wish to be Dead-Life</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Children's Baseline/Screening - Have you thought about being dead or what it would be like to be dead? Have you wished you were dead or wished you could go to sleep and never wake up? Do you ever wish you weren't alive anymore? (Lifetime).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Children's Baseline/Screening - Wish to be Dead (Lifetime)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CSS07-Wish to be Dead-P6M" nciodm:ExtCodeID="C111386">
+                    <nciodm:CDISCSynonym>CSS07-Wish to be Dead-P6M</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale Children's Baseline/Screening - Have you thought about being dead or what it would be like to be dead? Have you wished you were dead or wished you could go to sleep and never wake up? Do you ever wish you weren't alive anymore? (Past 6 Months).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>C-SSRS Children's Baseline/Screening - Wish to be Dead (Past 6 Months)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>C-SSRS CHILDREN'S BASELINE/SCREENING TEST</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Columbia-Suicide Severity Rating Scale Children's Baseline/Screening Questionnaire Test Name</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Questionnaire C-SSRS Children's Baseline/Screening Test Name Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

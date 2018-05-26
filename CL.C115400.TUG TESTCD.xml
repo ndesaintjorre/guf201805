@@ -1,0 +1,14 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C115400.TUG TESTCD" Name="Timed Up and Go Functional Test Test Code" DataType="text" nciodm:ExtCodeID="C115400" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Timed Up and Go Test test code.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="TUG0101" nciodm:ExtCodeID="C115819">
+                    <nciodm:CDISCSynonym>TUG01-Time to Complete TUG Test</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Timed Up and Go - Time in seconds to complete TUG test.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>TUG - Time to Complete TUG Test</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>TUG TESTCD</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Timed Up and Go Functional Test Test Code</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Functional Test TUG Test Code Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

@@ -1,0 +1,44 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C115393.PASAT TEST" Name="Paced Auditory Serial Addition Functional Test Test Name" DataType="text" nciodm:ExtCodeID="C115393" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Paced Auditory Serial Addition Test test name.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="PASAT1-More Than One Attempt" nciodm:ExtCodeID="C115811">
+                    <nciodm:CDISCSynonym>PASAT1-More Than One Attempt</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Paced Auditory Serial Addition Test - Did it take more than one attempt to get one successful trial?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PASAT - More Than One Attempt</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PASAT1-Percent Correct" nciodm:ExtCodeID="C115810">
+                    <nciodm:CDISCSynonym>PASAT1-Percent Correct</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Paced Auditory Serial Addition Test - Percent correct.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PASAT - Percent Correct</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PASAT1-Total Commission Errors" nciodm:ExtCodeID="C115814">
+                    <nciodm:CDISCSynonym>PASAT1-Total Commission Errors</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Paced Auditory Serial Addition Test - Total commission errors.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PASAT - Total Commission Errors</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PASAT1-Total Correct" nciodm:ExtCodeID="C115809">
+                    <nciodm:CDISCSynonym>PASAT1-Total Correct</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Paced Auditory Serial Addition Test - Total correct.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PASAT - Total Correct</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PASAT1-Total Correct in First Half" nciodm:ExtCodeID="C115812">
+                    <nciodm:CDISCSynonym>PASAT1-Total Correct in First Half</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Paced Auditory Serial Addition Test - Total correct in first half.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PASAT - Total Correct in First Half</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PASAT1-Total Correct in Second Half" nciodm:ExtCodeID="C115813">
+                    <nciodm:CDISCSynonym>PASAT1-Total Correct in Second Half</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Paced Auditory Serial Addition Test - Total correct in second half.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PASAT - Total Correct in Second Half</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PASAT1-Total Omission Errors" nciodm:ExtCodeID="C115815">
+                    <nciodm:CDISCSynonym>PASAT1-Total Omission Errors</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Paced Auditory Serial Addition Test - Total omission errors.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PASAT - Total Omission Errors</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>PASAT TEST</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Paced Auditory Serial Addition Functional Test Test Name</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Functional Test PASAT Test Name Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

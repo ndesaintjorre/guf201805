@@ -67,10 +67,30 @@
                     <nciodm:CDISCDefinition>The longest possible straight line or plane through a body or figure that is at a right angle to a given line or plane.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Longest Perpendicular</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="Lymph Node State" nciodm:ExtCodeID="C124448">
+                    <nciodm:CDISCSynonym>Lymph Node State</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A condition or state of a lymph node at a particular time.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Lymph Node State</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="New Tumor Confirmed" nciodm:ExtCodeID="C103421">
                     <nciodm:CDISCSynonym>New Tumor Confirmed</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The verification/confirmation by other methods or modalities that a tumor, which has not been previously seen or characterized, is present in the subject.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>New Tumor Confirmation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Number of Lymph Nodes Examined" nciodm:ExtCodeID="C124446">
+                    <nciodm:CDISCSynonym>Number of Lymph Nodes Examined</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The number of lymph nodes that were examined.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Number of Lymph Nodes Examined</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Number of Lymph Nodes Positive" nciodm:ExtCodeID="C124447">
+                    <nciodm:CDISCSynonym>Number of Lymph Nodes Positive</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The number of subject lymph nodes that were positive for presence of disease.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Number of Lymph Nodes Positive</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Palpable State" nciodm:ExtCodeID="C124449">
+                    <nciodm:CDISCSynonym>Palpable State</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A condition or state of the tumor with regards to its palpability status at a particular point in time.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Palpable State</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Percent Change Baseline in Sum of Area" nciodm:ExtCodeID="C112369">
                     <nciodm:CDISCSynonym>Percent Change Baseline in Sum of Area</nciodm:CDISCSynonym>

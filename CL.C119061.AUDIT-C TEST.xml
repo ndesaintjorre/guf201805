@@ -1,0 +1,24 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C119061.AUDIT-C TEST" Name="Alcohol Use Disorder Identification Test-Consumption Questions Questionnaire Test Name" DataType="text" nciodm:ExtCodeID="C119061" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Alcohol Use Disorder Identification Test-Consumption Questions test name.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="ADTC01-Alcohol Drinks on a Typical Day" nciodm:ExtCodeID="C119120">
+                    <nciodm:CDISCSynonym>ADTC01-Alcohol Drinks on a Typical Day</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alcohol Use Disorder Identification Test-Consumption questions - How many standard drinks containing alcohol do you have on a typical day?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>AUDIT-C - How Many Alcohol Drinks on a Typical Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ADTC01-How Often Drink Alcohol" nciodm:ExtCodeID="C119119">
+                    <nciodm:CDISCSynonym>ADTC01-How Often Drink Alcohol</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alcohol Use Disorder Identification Test-Consumption questions - How often do you have a drink containing alcohol?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>AUDIT-C - How Often Have Alcohol Drink</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ADTC01-Six or More Drinks One Occasion" nciodm:ExtCodeID="C119121">
+                    <nciodm:CDISCSynonym>ADTC01-Six or More Drinks One Occasion</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alcohol Use Disorder Identification Test-Consumption questions - How often do you have six or more drinks on one occasion?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>AUDIT-C - How Often Have Six or More Drinks</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>AUDIT-C TEST</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Alcohol Use Disorder Identification Test-Consumption Questions Questionnaire Test Name</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Questionnaire AUDIT-C Test Name Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

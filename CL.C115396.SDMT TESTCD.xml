@@ -1,0 +1,14 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C115396.SDMT TESTCD" Name="Symbol Digit Modalities Functional Test Test Code" DataType="text" nciodm:ExtCodeID="C115396" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Symbol Digit Modalities Test test code.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="SDMT0101" nciodm:ExtCodeID="C115816">
+                    <nciodm:CDISCSynonym>SDMT01-Total Score</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Symbol Digit Modalities Test - Total score.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SDMT - Total Score</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>SDMT TESTCD</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Symbol Digit Modalities Functional Test Test Code</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Functional Test SDMT Test Code Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

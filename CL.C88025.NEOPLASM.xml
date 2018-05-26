@@ -207,6 +207,10 @@
                     <nciodm:CDISCDefinition>A benign neoplasm arising from the renal cortex.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Kidney Adenoma</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="ADENOMA, RETE OVARII, BENIGN" nciodm:ExtCodeID="C40018">
+                    <nciodm:CDISCDefinition>A benign adenoma arising from the rete ovarii, generally composed of intratubular mass(es) that distend the tubule.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Rete Ovarii Adenoma</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="ADENOMA, RETE TESTIS, BENIGN" nciodm:ExtCodeID="C39956">
                     <nciodm:CDISCDefinition>A benign epithelial neoplasm arising from the rete testis.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Rete Testis Adenoma</nciodm:PreferredTerm>
@@ -241,6 +245,10 @@
                 <EnumeratedItem CodedValue="ADENOMA, ZYMBAL'S GLAND, BENIGN" nciodm:ExtCodeID="C98800">
                     <nciodm:CDISCDefinition>A benign neoplasm of the rodent Zymbal's gland with sebaceous and/or squamous differentiation.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Zymbal's Gland Adenoma</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ADENOMYOEPITHELIOMA, BENIGN" nciodm:ExtCodeID="C124607">
+                    <nciodm:CDISCDefinition>A benign neoplasm characterized by the proliferation of myoepithelial cells and glandular epithelial cells.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Experimental Organism Benign Adenomyoepithelioma</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="ADENOMYOMA, BENIGN" nciodm:ExtCodeID="C3726">
                     <nciodm:CDISCDefinition>A benign neoplasm characterized by the presence of a glandular and a mesenchymal component.</nciodm:CDISCDefinition>
@@ -470,6 +478,10 @@
                     <nciodm:CDISCDefinition>A malignant neoplasm arising from the choroid plexus of the brain.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Choroid Plexus Carcinoma</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="CARCINOMA, ECCRINE GLAND, MALIGNANT" nciodm:ExtCodeID="C27255">
+                    <nciodm:CDISCDefinition>A malignant carcinoma with eccrine differentiation arising from the sweat glands.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Eccrine Carcinoma</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="CARCINOMA, EMBRYONAL, MALIGNANT" nciodm:ExtCodeID="C3752">
                     <nciodm:CDISCSynonym>Carcinoma, Embryonal, Malignant</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A non-seminomatous malignant germ cell neoplasm of the testis or ovary.</nciodm:CDISCDefinition>
@@ -550,6 +562,10 @@
                     <nciodm:CDISCDefinition>A malignant neuroendocrine neoplasm comprising cells containing secretory granules.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Neuroendocrine Carcinoma</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="CARCINOMA, NEUROEPITHELIAL, MALIGNANT" nciodm:ExtCodeID="C124608">
+                    <nciodm:CDISCDefinition>A malignant carcinoma that arises from the olfactory epithelium, from either sensory and/or sustentacular cells.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Experimental Organism Malignant Neuroepithelial Carcinoma</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="CARCINOMA, PARS DISTALIS, MALIGNANT" nciodm:ExtCodeID="C60491">
                     <nciodm:CDISCSynonym>Rat Pars Distalis Carcinoma</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A malignant epithelial neoplasm arising from the pars distalis of the pituitary gland.</nciodm:CDISCDefinition>
@@ -575,6 +591,10 @@
                     <nciodm:CDISCSynonym>Mucinous Tubular and Spindle Cell Carcinoma of the Kidney</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A malignant neoplasm of the kidney, characterized by the presence of tubules.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Mucinous Tubular and Spindle Cell Carcinoma of the Kidney</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CARCINOMA, RETE TESTIS, MALIGNANT" nciodm:ExtCodeID="C8955">
+                    <nciodm:CDISCDefinition>A malignant carcinoma that arises from the rete testis.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Rete Testis Adenocarcinoma</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="CARCINOMA, SPINDLE CELL, MALIGNANT" nciodm:ExtCodeID="C27004">
                     <nciodm:CDISCSynonym>Pseudosarcomatous Carcinoma</nciodm:CDISCSynonym>
@@ -612,11 +632,6 @@
                     <nciodm:CDISCDefinition>A malignant neoplasm arising from sweat glands.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Sweat Gland Carcinoma</nciodm:PreferredTerm>
                 </EnumeratedItem>
-                <EnumeratedItem CodedValue="CARCINOMA, TRANSITIONAL CELL, MALIGNANT" nciodm:ExtCodeID="C2930">
-                    <nciodm:CDISCSynonym>Transitional Carcinoma</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A malignant neoplasm arising from transitional epithelium, usually affecting the urinary bladder, ureter, or renal pelvis.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Transitional Cell Carcinoma</nciodm:PreferredTerm>
-                </EnumeratedItem>
                 <EnumeratedItem CodedValue="CARCINOMA, TUBULAR CELL, MALIGNANT" nciodm:ExtCodeID="C65192">
                     <nciodm:CDISCDefinition>A malignant glandular neoplasm exhibiting tubular structures.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Tubular Adenocarcinoma</nciodm:PreferredTerm>
@@ -630,6 +645,11 @@
                     <nciodm:CDISCSynonym>Carcinoma, Undifferentiated</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A malignant epithelial neoplasm exhibiting poor differentiation (anaplasia).</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Undifferentiated Carcinoma</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CARCINOMA, UROTHELIAL, MALIGNANT" nciodm:ExtCodeID="C2930">
+                    <nciodm:CDISCSynonym>Transitional Cell Carcinoma</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A malignant neoplasm arising from transitional epithelium, usually affecting the urinary bladder, ureter, or renal pelvis.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Transitional Cell Carcinoma</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="CARCINOMA, ZYMBAL'S GLAND" nciodm:ExtCodeID="C98801">
                     <nciodm:CDISCDefinition>A malignant neoplasm of the rodent Zymbal's gland with sebaceous and/or squamous differentiation.</nciodm:CDISCDefinition>
@@ -816,6 +836,10 @@
                     <nciodm:CDISCSynonym>Who Grade II Ependymal Tumor</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A neoplasm of ependymal origin, for which the malignancy status has not been established.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Ependymoma</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EPITHELIAL-STROMAL TUMOR, BENIGN" nciodm:ExtCodeID="C124609">
+                    <nciodm:CDISCDefinition>A benign neoplasm that arises from the mesenchymal and epithelial components and contains two or more cell types.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Experimental Organism Benign Epithelial Stromal Tumor</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="EPITHELIOMA, BENIGN" nciodm:ExtCodeID="C4092">
                     <nciodm:CDISCSynonym>Benign Epithelial Tumor</nciodm:CDISCSynonym>
@@ -1096,6 +1120,10 @@
                     <nciodm:CDISCDefinition>A benign neoplasm, originating from smooth muscle cells.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Leiomyoma</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="LEIOMYOMA, MESOVARIAL, MALIGNANT" nciodm:ExtCodeID="C124610">
+                    <nciodm:CDISCDefinition>A malignant neoplasm of the smooth muscle that arises from the mesovarium.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Experimental Organism Malignant Mesovarial Leiomyoma</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="LEIOMYOSARCOMA, MALIGNANT" nciodm:ExtCodeID="C3158">
                     <nciodm:CDISCSynonym>Leiomyosarcomas</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A malignant neoplasm, originating from smooth muscle cells.</nciodm:CDISCDefinition>
@@ -1346,6 +1374,10 @@
                     <nciodm:CDISCDefinition>A neoplasm of the meninges, for which the status of malignancy has not been determined.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Meningioma</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="MESENCHYMAL PROLIFERATIVE LESION, BENIGN" nciodm:ExtCodeID="C124611">
+                    <nciodm:CDISCDefinition>A benign neoplasm arising from the submucosa and composed of large eosinophilic epithelioid and spindle cells. (INHAND)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Experimental Organism Mesenchymal Proliferative Lesion</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="MESENCHYMAL TUMOR, BENIGN" nciodm:ExtCodeID="C4267">
                     <nciodm:CDISCDefinition>A benign soft-tissue neoplasm comprising two or more non-fibroblastic mesenchymal lines of differentiation.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Benign Mesenchymoma</nciodm:PreferredTerm>
@@ -1353,6 +1385,10 @@
                 <EnumeratedItem CodedValue="MESENCHYMAL TUMOR, MALIGNANT" nciodm:ExtCodeID="C64118">
                     <nciodm:CDISCDefinition>A malignant soft-tissue neoplasm comprising two or more non-fibroblastic mesenchymal lines of differentiation.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Malignant Mesenchymal Tumor of the Rat Kidney</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MESENCHYMOMA, MALIGNANT" nciodm:ExtCodeID="C4268">
+                    <nciodm:CDISCDefinition>A malignant soft tissue neoplasm which consists of two or more mesenchymal lines of differentiation, excluding a fibroblastic line of differentiation.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Malignant Mesenchymoma</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="MESOTHELIOMA, BENIGN" nciodm:ExtCodeID="C3762">
                     <nciodm:CDISCSynonym>Adenomatoid Tumor, Benign</nciodm:CDISCSynonym>
@@ -1477,14 +1513,6 @@
                     <nciodm:CDISCSynonym>Neuroblastoma (Schwannian Stroma-poor)</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A malignant neoplasm composed of neuroblastic cells.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Neuroblastoma</nciodm:PreferredTerm>
-                </EnumeratedItem>
-                <EnumeratedItem CodedValue="NEUROBLASTOMA, OLFACTORY, MALIGNANT" nciodm:ExtCodeID="C3789">
-                    <nciodm:CDISCSynonym>Esthesioneuroblastoma</nciodm:CDISCSynonym>
-                    <nciodm:CDISCSynonym>Esthesioneuroepithelioma</nciodm:CDISCSynonym>
-                    <nciodm:CDISCSynonym>Olfactory Esthesioneuroblastoma</nciodm:CDISCSynonym>
-                    <nciodm:CDISCSynonym>Olfactory Neuroepithelioma</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A malignant neoplasm of the olfactory receptor cells, composed of neuroblastic cells.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Olfactory Neuroblastoma</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="NEUROFIBROMA, BENIGN" nciodm:ExtCodeID="C3272">
                     <nciodm:CDISCDefinition>An intraneural or extraneural neoplasm arising from nerve tissues and neural sheaths, composed of perineurial-like fibroblasts and Schwann cells.</nciodm:CDISCDefinition>
@@ -1786,7 +1814,6 @@
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="PINEOCYTOMA, BENIGN" nciodm:ExtCodeID="C6966">
                     <nciodm:CDISCSynonym>Benign Pinealoma</nciodm:CDISCSynonym>
-                    <nciodm:CDISCSynonym>Pinealoma</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A benign neoplasm of the brain arising from the pineal gland.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Pineocytoma</nciodm:PreferredTerm>
                 </EnumeratedItem>
@@ -1827,6 +1854,10 @@
                     <nciodm:CDISCDefinition>A benign polypoid neoplasm of the endometrium projecting into the endometrial cavity.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Endometrial Polyp</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="POLYP, GLANDULAR, BENIGN" nciodm:ExtCodeID="C124612">
+                    <nciodm:CDISCDefinition>A benign polyp with prominent, hyperplastic glandular structures.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Experimental Organism Glandular Polyp</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="POLYP, UNDETERMINED" nciodm:ExtCodeID="C3340">
                     <nciodm:CDISCDefinition>A protruding growth attached to the underlying tissue by a broad base or a thin stalk, which can be either inflammatory, hamartomatous, or neoplastic.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Polyp</nciodm:PreferredTerm>
@@ -1854,6 +1885,10 @@
                 <EnumeratedItem CodedValue="RHABDOMYOSARCOMA, MALIGNANT" nciodm:ExtCodeID="C3359">
                     <nciodm:CDISCDefinition>A malignant mesenchymal neoplasm arising from skeletal muscle.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Rhabdomyosarcoma</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SARCOMA ARISING IN FIBROADENOMA, MALIGNANT" nciodm:ExtCodeID="C124613">
+                    <nciodm:CDISCDefinition>A malignant mesenchymal neoplasm that arises from a pre-existing benign fibroadenoma.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Experimental Organism Malignant Sarcoma Arising From Fibroadenoma</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="SARCOMA, GRANULOCYTIC, MALIGNANT" nciodm:ExtCodeID="C35815">
                     <nciodm:CDISCDefinition>A malignant neoplasm composed of myeloblasts, neutrophils and neutrophil precursors.</nciodm:CDISCDefinition>
@@ -1925,6 +1960,14 @@
                 <EnumeratedItem CodedValue="SERTOLI CELL TUMOR, UNDETERMINED" nciodm:ExtCodeID="C98794">
                     <nciodm:CDISCDefinition>An ovarian neoplasm comprising Sertoli cells in which the malignancy status has not been established.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Undetermined Sertoli Cell Tumor</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SEX CORD STROMAL TUMOR, MIXED, BENIGN" nciodm:ExtCodeID="C124614">
+                    <nciodm:CDISCDefinition>A benign sex cord-stromal neoplasm that arises from the testis or ovary and is composed of a mix of cell types.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Experimental Organism Benign Mixed Sex Cord Stromal Tumor</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SEX CORD STROMAL TUMOR, MIXED, MALIGNANT" nciodm:ExtCodeID="C124615">
+                    <nciodm:CDISCDefinition>A malignant sex cord-stromal neoplasm that arises from the testis or ovary and is composed of a mix of cell types.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Experimental Organism Malignant Mixed Sex Cord Stromal Tumor</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="STROMAL NEPHROMA, MALIGNANT" nciodm:ExtCodeID="C6569">
                     <nciodm:CDISCSynonym>Cmn</nciodm:CDISCSynonym>

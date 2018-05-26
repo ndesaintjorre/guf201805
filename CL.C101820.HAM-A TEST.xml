@@ -1,0 +1,79 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C101820.HAM-A TEST" Name="Hamilton Anxiety Rating Scale Clinical Classification Test Name" DataType="text" nciodm:ExtCodeID="C101820" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Hamilton Anxiety Rating Scale test name.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="HAMA1-Anxious Mood" nciodm:ExtCodeID="C102073">
+                    <nciodm:CDISCSynonym>HAMA1-Anxious Mood</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hamilton Anxiety Rating Scale - Anxious mood: worries, anticipation of the worst, fearful anticipation, irritability.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAMA - Anxious Mood</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAMA1-Autonomic Symptoms" nciodm:ExtCodeID="C102085">
+                    <nciodm:CDISCSynonym>HAMA1-Autonomic Symptoms</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hamilton Anxiety Rating Scale - Autonomic symptoms: dry mouth, flushing, pallor, tendency to sweat, giddiness, tension, headache, raising of hair.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAMA - Autonomic Symptoms</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAMA1-Behavior at Interview" nciodm:ExtCodeID="C102086">
+                    <nciodm:CDISCSynonym>HAMA1-Behavior at Interview</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hamilton Anxiety Rating Scale - Behavior at interview: fidgeting, restlessness or pacing, tremor of hands, furrowed brow, strained face, sighing or rapid respiration, facial pallor, swallowing, etc.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAMA - Behavior at Interview</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAMA1-Cardiovascular Symptoms" nciodm:ExtCodeID="C102081">
+                    <nciodm:CDISCSynonym>HAMA1-Cardiovascular Symptoms</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hamilton Anxiety Rating Scale - Cardiovascular symptoms: tachycardia, palpitations, pain in chest, throbbing of vessels, fainting feelings, missing beat.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAMA - Cardiovascular Symptoms</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAMA1-Depressed Mood" nciodm:ExtCodeID="C102078">
+                    <nciodm:CDISCSynonym>HAMA1-Depressed Mood</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hamilton Anxiety Rating Scale - Depressed mood: loss of interest, lack of pleasure in hobbies, depression, early waking, diurnal swing.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAMA - Depressed Mood</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAMA1-Fears" nciodm:ExtCodeID="C102075">
+                    <nciodm:CDISCSynonym>HAMA1-Fears</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hamilton Anxiety Rating Scale - Fears: of dark, of strangers, of being left alone, of animals, of traffic, of crowds.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAMA - Fears</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAMA1-Gastrointestinal Symptoms" nciodm:ExtCodeID="C102083">
+                    <nciodm:CDISCSynonym>HAMA1-Gastrointestinal Symptoms</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hamilton Anxiety Rating Scale - Gastrointestinal symptoms: difficulty swallowing, wind abdominal pain, burning sensations, abdominal fullness, nausea, vomiting, borborygmi, looseness of bowels, loss of weight, constipation.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAMA - Gastrointestinal Symptoms</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAMA1-Genitourinary Symptoms" nciodm:ExtCodeID="C102084">
+                    <nciodm:CDISCSynonym>HAMA1-Genitourinary Symptoms</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hamilton Anxiety Rating Scale - Genitourinary symptoms: frequency of micturition, urgency of micturition, amenorrhea, menorrhagia, development of frigidity, premature ejaculation, loss of libido, impotence.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAMA - Genitourinary Symptoms</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAMA1-Insomnia" nciodm:ExtCodeID="C102076">
+                    <nciodm:CDISCSynonym>HAMA1-Insomnia</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hamilton Anxiety Rating Scale - Insomnia: difficulty falling asleep, broken sleep, unsatisfying sleep and fatigue on waking, dreams, nightmares, night terrors.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAMA - Insomnia</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAMA1-Intellectual" nciodm:ExtCodeID="C102077">
+                    <nciodm:CDISCSynonym>HAMA1-Intellectual</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hamilton Anxiety Rating Scale - Intellectual: difficulty in concentration, poor memory.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAMA - Intellectual</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAMA1-Respiratory Symptoms" nciodm:ExtCodeID="C102082">
+                    <nciodm:CDISCSynonym>HAMA1-Respiratory Symptoms</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hamilton Anxiety Rating Scale - Respiratory symptoms: pressure or constriction in chest, choking feelings, sighing, dyspnea.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAMA - Respiratory Symptoms</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAMA1-Somatic (Muscular)" nciodm:ExtCodeID="C102079">
+                    <nciodm:CDISCSynonym>HAMA1-Somatic (Muscular)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hamilton Anxiety Rating Scale - Somatic (muscular): pains and aches, twitching, stiffness, myoclonic jerks, grinding of teeth, unsteady voice, increased muscular tone.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAMA - Somatic (Muscular)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAMA1-Somatic (Sensory)" nciodm:ExtCodeID="C102080">
+                    <nciodm:CDISCSynonym>HAMA1-Somatic (Sensory)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hamilton Anxiety Rating Scale - Somatic (sensory): tinnitus, blurring of vision, hot and cold flushes, feelings of weakness, pricking sensation.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAMA - Somatic (Sensory)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAMA1-Tension" nciodm:ExtCodeID="C102074">
+                    <nciodm:CDISCSynonym>HAMA1-Tension</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hamilton Anxiety Rating Scale - Tension: feelings of tension, fatigability, startle response, moved to tears easily, trembling, feelings of restlessness, inability to relax.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAMA - Tension</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>HAM-A TEST</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Hamilton Anxiety Rating Scale Clinical Classification Test Name</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Clinical Classification HAMA Test Name Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

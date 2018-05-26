@@ -1,0 +1,360 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C96785.ONCRSR" Name="Oncology Response Assessment Result" DataType="text" nciodm:ExtCodeID="C96785" nciodm:CodeListExtensible="Yes">
+                <Description>
+                    <TranslatedText xml:lang="en">Terminology for oncology studies relevant to the result of response to treatment or therapy assessment within the disease response and clinical classification domain.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="ABSENT MORPHOLOGIC RESPONSE" nciodm:ExtCodeID="C123571">
+                    <nciodm:CDISCDefinition>The absence of change in the overall attenuation of the metastasis and in the peripheral rim, suggesting a lack of response to treatment.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Absent Morphologic Response</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CA125 50% RESPONSE" nciodm:ExtCodeID="C123572">
+                    <nciodm:CDISCSynonym>Cancer Antigen 125 50% Response</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The amount of cancer antigen 125 is reduced by 50% from protocol-defined baseline value(s).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CA125 50% Response</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CA125 75% RESPONSE" nciodm:ExtCodeID="C123573">
+                    <nciodm:CDISCSynonym>Cancer Antigen 125 75% Response</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The amount of cancer antigen 125 is reduced by 75% from protocol-defined baseline value(s).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CA125 75% Response</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="cCR" nciodm:ExtCodeID="C123574">
+                    <nciodm:CDISCSynonym>Clinical Complete Remission</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Clinical Complete Response</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The disappearance of all signs of cancer based on physical exam, such as palpation.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Clinical Complete Response</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CHR" nciodm:ExtCodeID="C123575">
+                    <nciodm:CDISCSynonym>Complete Hematologic Response</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The disappearance of cancer in response to treatment, including platelet and white blood cell counts returning to normal levels, a non-palpable spleen, and no immature white blood cells present in the blood unless it is a regenerating marrow following treatment.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Complete Hematologic Response</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CMR" nciodm:ExtCodeID="C123407">
+                    <nciodm:CDISCSynonym>Complete Metabolic Response</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The disappearance of metabolic tumor activity in all relevant lesions.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Tumor Complete Metabolic Response</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="COMPLETE MRD RESPONSE" nciodm:ExtCodeID="C124427">
+                    <nciodm:CDISCDefinition>Absence of residual disease based on pre-defined thresholds and minimal residual disease negativity by laboratory techniques.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Complete Minimal Residual Disease Response</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="cPR" nciodm:ExtCodeID="C123576">
+                    <nciodm:CDISCSynonym>Clinical Partial Remission</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Clinical Partial Response</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A decrease in the size and the extent of tissue involvement by cancer, based on physical exam, such as palpation.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Clinical Partial Response</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CR" nciodm:ExtCodeID="C4870">
+                    <nciodm:CDISCSynonym>Complete Remission</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Complete Response</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The disappearance of all signs of cancer in response to treatment. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Complete Remission</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CR-CT" nciodm:ExtCodeID="C123577">
+                    <nciodm:CDISCSynonym>Complete Remission, CT-Based</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Complete Response, CT-Based</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The disappearance of all signs of cancer, based on CT scan and criteria-defined assessments.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Complete Response by Computed Tomography</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CRi" nciodm:ExtCodeID="C103385">
+                    <nciodm:CDISCSynonym>Complete Remission with Incomplete Blood Count Recovery</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Complete Response with Incomplete Bone Marrow Recovery</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The disappearance of all signs of cancer in response to treatment accompanied by incomplete bone marrow recovery, as evidenced by persistent anemia, thrombocytopenia or neutropenia.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Complete Response with Incomplete Bone Marrow Recovery</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CYTOGENETIC CR" nciodm:ExtCodeID="C123578">
+                    <nciodm:CDISCSynonym>CCgR</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>CCyR</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>CRc</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Complete Cytogenetic Response</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Cytogenetic Complete Remission</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Cytogenetic Complete Response</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The disappearance of all signs of cancer, including the absence of a detectable disease-related genetic abnormality, as determined by techniques such as karyotyping or FISH, in response to treatment.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Cytogenetic Complete Response</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CYTOGENETIC MINIMAL RESPONSE" nciodm:ExtCodeID="C123579">
+                    <nciodm:CDISCSynonym>Minimal CgR</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A minimal decrease in abnormal karyotype, based on pre-defined thresholds.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Cytogenetic Minimal Response</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CYTOGENETIC MINOR RESPONSE" nciodm:ExtCodeID="C123580">
+                    <nciodm:CDISCSynonym>Minor CgR</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A minor decrease in abnormal karyotype, based on pre-defined thresholds.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Cytogenetic Minor Response</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CYTOGENETIC NO RESPONSE" nciodm:ExtCodeID="C123581">
+                    <nciodm:CDISCSynonym>No CgR</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>No Cytogenetic Response</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>No change in abnormal karyotype, based on pre-defined thresholds.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Cytogenetic No Response</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CYTOGENETIC PR" nciodm:ExtCodeID="C123582">
+                    <nciodm:CDISCSynonym>Cytogenetic Partial Response</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Partial CgR</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A partial decrease in abnormal karyotype, based on pre-defined thresholds.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Cytogenetic Partial Response</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DISEASE TRANSFORMATION" nciodm:ExtCodeID="C123583">
+                    <nciodm:CDISCDefinition>A conversion from one disease diagnosis to another, which may be considered a progression to a worsening state.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Disease Transformation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EQUIVOCAL" nciodm:ExtCodeID="C86071">
+                    <nciodm:CDISCSynonym>EQUIVOCAL</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Open to question.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Equivocal</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAVORABLE RESPONSE" nciodm:ExtCodeID="C123584">
+                    <nciodm:CDISCDefinition>No new lesions(s) and a decrease in tumor size, or a reduction in central necrosis or attenuation in one or more enhancing lesions, based on pre-defined thresholds.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Favorable Response</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HI-E" nciodm:ExtCodeID="C123585">
+                    <nciodm:CDISCSynonym>Hematologic Improvement-Erythroid Response</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An improvement in erythrocyte count as a response to treatment.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Hematologic Improvement-Erythroid Response</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HI-N" nciodm:ExtCodeID="C123586">
+                    <nciodm:CDISCSynonym>Hematologic Improvement-Neutrophil Response</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An improvement of neutrophil count as a response to treatment.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Hematologic Improvement-Neutrophil Response</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HI-P" nciodm:ExtCodeID="C123587">
+                    <nciodm:CDISCSynonym>Hematologic Improvement-Platelet Response</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An improvement of platelet count as a response to treatment.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Hematologic Improvement-Platelet Response</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IMMUNOPHENOTYPIC CR" nciodm:ExtCodeID="C123588">
+                    <nciodm:CDISCDefinition>The disappearance of all signs of cancer, supported by the absence of phenotypically aberrant plasma cells (clonal) in bone marrow. (Rajkumar SV, Harousseau J, Durie B et al, Consensus recommendations for the uniform reporting of clinical trials: report of the International Myeloma Workshop Consensus Panel 1. Blood. 2011; 117(18):4691-4695)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Immunophenotypic Complete Response</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="INDETERMINATE RESPONSE" nciodm:ExtCodeID="C123589">
+                    <nciodm:CDISCDefinition>A response that is neither favorable nor unfavorable.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Indeterminate Response</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MAJOR PATHOLOGIC RESPONSE" nciodm:ExtCodeID="C123590">
+                    <nciodm:CDISCDefinition>A major decrease in signs of cancer, supported by pathological examination and based on pre-defined thresholds.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Major Pathologic Response</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="mCR" nciodm:ExtCodeID="C123591">
+                    <nciodm:CDISCSynonym>Marrow Complete Remission</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Marrow Complete Response</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A decrease in the number of bone marrow plasma cells to protocol-defined level(s).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Marrow Complete Response</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MINOR PATHOLOGIC RESPONSE" nciodm:ExtCodeID="C123592">
+                    <nciodm:CDISCDefinition>A minor decrease in signs of cancer, supported by pathological examination and based on pre-defined thresholds.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Minor Pathologic Response</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MOLECULAR CR" nciodm:ExtCodeID="C123593">
+                    <nciodm:CDISCSynonym>CMR</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Complete Molecular Response</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Molecular Complete Remission</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Molecular Complete Response</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The disappearance of all signs of cancer, supported by molecular analysis.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Molecular Complete Response</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MOLECULAR MAJOR RESPONSE" nciodm:ExtCodeID="C123594">
+                    <nciodm:CDISCSynonym>MMR</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>MMolR</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Major Molecular Response</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A decrease in signs of cancer, supported by molecular analysis.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Molecular Major Response</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MORPHOLOGIC CR" nciodm:ExtCodeID="C123595">
+                    <nciodm:CDISCSynonym>Morphologic Complete Remission</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Morphologic Complete Response</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The disappearance of all signs of cancer, supported by morphological analysis.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Morphologic Complete Response</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MORPHOLOGIC CRi" nciodm:ExtCodeID="C123596">
+                    <nciodm:CDISCSynonym>Morphologic Complete Remission with Incomplete Blood Count Recovery</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Morphologic Complete Remission with Incomplete Bone Marrow Recovery</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The disappearance of all cells with morphologic characteristics of cancer, accompanied by incomplete bone marrow recovery, as evidenced by persistent anemia, thrombocytopenia or neutropenia.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Morphologic Complete Remission with Incomplete Blood Count Recovery</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MORPHOLOGIC LEUKEMIA-FREE STATE" nciodm:ExtCodeID="C123597">
+                    <nciodm:CDISCSynonym>NEL</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>No Evidence of Leukemia</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The disappearance of all cells with morphologic characteristics of leukemia, accompanied by bone marrow recovery, in response to treatment. Hematologic recovery is not required. Leukemia free state can be a hypocellular marrow.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Morphologic Leukemia-Free State</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MR" nciodm:ExtCodeID="C123598">
+                    <nciodm:CDISCSynonym>Minor Response</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Some response with no new symptoms or disease and not meeting partial response.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Minor Response</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MRD NEGATIVITY" nciodm:ExtCodeID="C124428">
+                    <nciodm:CDISCDefinition>Absence of minimal residual disease based on laboratory techniques.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Minimal Residual Disease Negativity</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MRD PERSISTENCE" nciodm:ExtCodeID="C124429">
+                    <nciodm:CDISCDefinition>Presence of residual disease based on pre-defined thresholds and quantifiable minimal residual disease positivity by laboratory techniques.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Minimal Residual Disease Persistence</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MRD RELAPSE" nciodm:ExtCodeID="C124430">
+                    <nciodm:CDISCSynonym>MRD Reappearance</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Presence of residual disease based on pre-defined thresholds and return of quantifiable minimal residual disease positivity after a period of minimal residual disease negativity.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Minimal Residual Disease Relapse</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NE" nciodm:ExtCodeID="C62222">
+                    <nciodm:CDISCSynonym>Not Assessable</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Not Evaluable</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Unable to be evaluated. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Unevaluable</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Non-CR/Non-PD" nciodm:ExtCodeID="C96700">
+                    <nciodm:CDISCSynonym>Non Complete Response/Non Progressive Disease</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Persistence of one or more non-target lesion(s) and/or maintenance of tumor marker levels above the normal limits. (RECIST)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Non Complete Response/Non Progressive Disease</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NON-PD" nciodm:ExtCodeID="C123599">
+                    <nciodm:CDISCSynonym>Non Progressive Disease</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Following a previous assessment of progressive disease unconfirmed (PDu) of non-target lesion(s), the subsequent required assessment does not confirm progressive disease.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Non Progressive Disease</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NON-QUANTIFIABLE MRD POSITIVITY" nciodm:ExtCodeID="C124431">
+                    <nciodm:CDISCDefinition>Presence of non-quantifiable minimal residual disease based on laboratory techniques.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Non-Quantifiable Minimal Residual Disease Positivity</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NOT ALL EVALUATED" nciodm:ExtCodeID="C103424">
+                    <nciodm:CDISCSynonym>Not All Evaluated</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Not all target tumors were assessed. Or not all non-target tumors were assessed.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Not All Tumors Evaluated</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="nPR" nciodm:ExtCodeID="C103422">
+                    <nciodm:CDISCSynonym>Nodular Partial Response</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Remission with remaining lymphoid nodules reflecting residual disease.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Nodular Partial Response</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NR" nciodm:ExtCodeID="C123600">
+                    <nciodm:CDISCSynonym>No Response</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>No apparent change or worsening in tumor staging classification.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>No Response</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="OPTIMAL MORPHOLOGIC RESPONSE" nciodm:ExtCodeID="C123601">
+                    <nciodm:CDISCDefinition>Hypo-attenuation of the metastases which may appear pseudocystic, perfectly homogeneous, and devoid of a recognizable peripheral rim.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Optimal Morphologic Response</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PARTIAL MORPHOLOGIC RESPONSE" nciodm:ExtCodeID="C123602">
+                    <nciodm:CDISCDefinition>Mixed attenuation and some homogeneity of the metastases with a partially resolved peripheral rim.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Partial Morphologic Response</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="pCR" nciodm:ExtCodeID="C123603">
+                    <nciodm:CDISCSynonym>Complete Pathological Response</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Pathologic Complete Remission</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Pathologic Complete Response</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The disappearance of all signs of cancer, supported by pathological examination.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Pathologic Complete Response</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PD" nciodm:ExtCodeID="C35571">
+                    <nciodm:CDISCSynonym>Progressive Disease</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A disease process that is increasing in extent or severity. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Progressive Disease</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PD FROM PR" nciodm:ExtCodeID="C123604">
+                    <nciodm:CDISCSynonym>Progression from PR</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Disease progression occurring after a partial response.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Progression from Partial Response</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PD-CT" nciodm:ExtCodeID="C123606">
+                    <nciodm:CDISCSynonym>Progressive Disease, CT-Based</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>There is an increase in the size and extent of tissue involvement by cancer, based on CT scan and criteria-defined assessments.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Progressive Disease by Computed Tomography</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PD/RELAPSE AFTER HI" nciodm:ExtCodeID="C123605">
+                    <nciodm:CDISCSynonym>Progression or Relapse After Hematologic Improvement</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Disease progression or the return of a disease after a period of remission, occurring after a hematologic improvement.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Progression or Relapse After Hematologic Improvement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PDu" nciodm:ExtCodeID="C123607">
+                    <nciodm:CDISCSynonym>PD Unconfirmed</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Unconfirmed Progressive Disease</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A disease process that is increasing in scope or severity but the criteria for progressive disease is not met.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Unconfirmed Progressive Disease</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PMD" nciodm:ExtCodeID="C123608">
+                    <nciodm:CDISCSynonym>Progressive Metabolic Disease</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An increase of metabolic tumor activity in all relevant lesions, based on pre-defined thresholds, or the development of new lesions.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Progressive Metabolic Disease</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PMR" nciodm:ExtCodeID="C123609">
+                    <nciodm:CDISCSynonym>Partial Metabolic Response</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A decrease of metabolic tumor activity in all relevant lesions, based on a pre-defined threshold.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Partial Metabolic Response</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PR" nciodm:ExtCodeID="C18058">
+                    <nciodm:CDISCSynonym>Partial Remission</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Partial Response</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A finding indicating that there is a decrease based on a predetermined threshold in the size and the extent of tissue involvement by cancer.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Partial Remission</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PR-CT" nciodm:ExtCodeID="C123610">
+                    <nciodm:CDISCSynonym>Partial Remission, CT-Based</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Partial Response, CT-Based</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A decrease in the size and extent of tissue involvement by cancer, based on CT scan and criteria-defined assessments.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Partial Response by Computed Tomography</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PSA PROGRESSION" nciodm:ExtCodeID="C123611">
+                    <nciodm:CDISCDefinition>The amount of prostate specific antigen is increased, based on pre-defined thresholds.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PSA Progression</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="QUANTIFIABLE MRD POSITIVITY" nciodm:ExtCodeID="C124432">
+                    <nciodm:CDISCDefinition>Presence of quantifiable minimal residual disease based on laboratory techniques.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Quantifiable Minimal Residual Disease Positivity</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="RELAPSED DISEASE" nciodm:ExtCodeID="C38155">
+                    <nciodm:CDISCSynonym>Recurrent Disease</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The return of a disease after a period of remission.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Recurrent Disease</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="RELAPSED DISEASE FROM CR" nciodm:ExtCodeID="C123612">
+                    <nciodm:CDISCSynonym>Relapse from CR</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The return of a disease after a period of complete remission.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Relapsed Disease From Complete Response</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="RELAPSED DISEASE FROM CR OR PR" nciodm:ExtCodeID="C123613">
+                    <nciodm:CDISCDefinition>The return of a disease after a period of complete remission or partial remission.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Relapsed Disease From Complete or Partial Response</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="sCR" nciodm:ExtCodeID="C123614">
+                    <nciodm:CDISCSynonym>Stringent Complete Remission</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Stringent Complete Response</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The confirmed disappearance of all signs of cancer, and absence of molecular or cytogenetic marker of disease, in response to treatment with additional biochemical, immunological and histopathological analyses to verify the CR.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Stringent Complete Response</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SD" nciodm:ExtCodeID="C18213">
+                    <nciodm:CDISCSynonym>Stable Disease</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Cancer that is neither decreasing nor increasing in extent or severity based on predetermined boundaries. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Stable Disease</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SD-CT" nciodm:ExtCodeID="C123615">
+                    <nciodm:CDISCSynonym>Stable Disease, CT-Based</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The size and extent of tissue involvement by cancer is neither decreasing nor increasing, based on CT scan and criteria-defined assessments.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Stable Disease by Computed Tomography</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SMD" nciodm:ExtCodeID="C123616">
+                    <nciodm:CDISCSynonym>No Metabolic Response</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Stable Metabolic Disease</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The absence of change or mild changes of metabolic tumor activity in all relevant lesions based on a pre-defined threshold.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Stable Metabolic Disease</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TREATMENT FAILURE" nciodm:ExtCodeID="C48226">
+                    <nciodm:CDISCDefinition>The lack of expected or desired effect related to a therapy. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Lack of Efficacy</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UNEQUIVOCAL" nciodm:ExtCodeID="C123645">
+                    <nciodm:CDISCDefinition>Leaving no doubt; not open to question. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Unequivocal</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UNFAVORABLE RESPONSE" nciodm:ExtCodeID="C123617">
+                    <nciodm:CDISCDefinition>An increase in tumor size, based on a pre-defined threshold, or the development of new lesion(s), marked central fill-in of a lesion, or new enhancement of a previously homogeneously hypoattenuating nonenhancing mass.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Unfavorable Response</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="VGPR" nciodm:ExtCodeID="C123618">
+                    <nciodm:CDISCSynonym>Very Good Partial Remission</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Very Good Partial Response</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Partial response with additional serum and urine M-protein reduction, but not meeting complete response.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Very Good Partial Response</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>ONCRSR</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Oncology Response Assessment Result</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Tumor Response Result Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

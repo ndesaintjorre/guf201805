@@ -247,6 +247,16 @@
                     <nciodm:CDISCDefinition>A QT interval that is corrected for heart rate by unspecified correction method.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Corrected QT Interval</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="QTca Interval, Aggregate" nciodm:ExtCodeID="C124332">
+                    <nciodm:CDISCSynonym>QTca Interval, Aggregate</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A QT Aggregate interval that is corrected for heart rate using individual probabilistic QT/RR slopes for each subject, based on the measurement of QT intervals from multiple beats within a single ECG or period of a continuous ECG. The method of aggregation, which can vary, is typically a measure of central tendency such as the mean.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Aggregate QTca Interval</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="QTca Interval, Single Beat" nciodm:ExtCodeID="C124333">
+                    <nciodm:CDISCSynonym>QTca Interval, Single Beat</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A QT interval that is corrected for heart rate using individual probabilistic QT/RR slopes for each subject, based on a QT interval measured on a single beat utilizing one or more ECG leads.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Single Beat QTca Interval</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="QTcB Interval, Aggregate" nciodm:ExtCodeID="C117784">
                     <nciodm:CDISCSynonym>QTcB Interval, Aggregate</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A QT aggregate interval that is corrected for heart rate using Bazett's formula, based on the measurement of QT intervals from multiple beats within a single ECG. The method of aggregation, which can vary, is typically a measure of central tendency such as the mean.</nciodm:CDISCDefinition>

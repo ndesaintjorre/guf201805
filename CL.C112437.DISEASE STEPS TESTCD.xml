@@ -1,0 +1,14 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C112437.DISEASE STEPS TESTCD" Name="Disease Steps Questionnaire Test Code" DataType="text" nciodm:ExtCodeID="C112437" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Disease Steps test code.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="DS0101" nciodm:ExtCodeID="C112549">
+                    <nciodm:CDISCSynonym>DS01-Disease Steps Classification</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Disease Steps - Methods: For Disease Steps, classification of a patient is determined by history and neurologic examination as well as course of MS.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DS - Disease Steps Classification</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>DISEASE STEPS TESTCD</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Disease Steps Questionnaire Test Code</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Questionnaire DS Test Code Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

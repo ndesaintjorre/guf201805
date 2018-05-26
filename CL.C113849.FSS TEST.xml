@@ -1,0 +1,54 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C113849.FSS TEST" Name="Fatigue Severity Scale Test Name" DataType="text" nciodm:ExtCodeID="C113849" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Fatigue Severity Scale test name.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="FSS01-Among My 3 Most Disabling Symptoms" nciodm:ExtCodeID="C113951">
+                    <nciodm:CDISCSynonym>FSS01-Among My 3 Most Disabling Symptoms</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Fatigue Severity Scale - Fatigue is among my three most disabling symptoms.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FSS - Fatigue is Among Most Disabling Symptoms</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FSS01-Exercise Brings on My Fatigue" nciodm:ExtCodeID="C113945">
+                    <nciodm:CDISCSynonym>FSS01-Exercise Brings on My Fatigue</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Fatigue Severity Scale - Exercise brings on my fatigue.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FSS - Exercise Brings on My Fatigue</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FSS01-Fatigue Causes Frequent Problems" nciodm:ExtCodeID="C113948">
+                    <nciodm:CDISCSynonym>FSS01-Fatigue Causes Frequent Problems</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Fatigue Severity Scale - Fatigue causes frequent problems for me.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FSS - Fatigue Causes Frequent Problems</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FSS01-Fatigue Interferes With Duties" nciodm:ExtCodeID="C113950">
+                    <nciodm:CDISCSynonym>FSS01-Fatigue Interferes With Duties</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Fatigue Severity Scale - Fatigue interferes with carrying out certain duties and responsibilities.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FSS - Fatigue Interferes With Carrying Out Duties</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FSS01-Fatigue Interferes With My Life" nciodm:ExtCodeID="C113952">
+                    <nciodm:CDISCSynonym>FSS01-Fatigue Interferes With My Life</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Fatigue Severity Scale - Fatigue interferes with my work, family, or social life.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FSS - Fatigue Interferes With Work</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FSS01-I Am Easily Fatigued" nciodm:ExtCodeID="C113946">
+                    <nciodm:CDISCSynonym>FSS01-I Am Easily Fatigued</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Fatigue Severity Scale - I am easily fatigued.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FSS - I Am Easily Fatigued</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FSS01-Interferes With Phys Function" nciodm:ExtCodeID="C113947">
+                    <nciodm:CDISCSynonym>FSS01-Interferes With Phys Function</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Fatigue Severity Scale - Fatigue interferes with my physical functioning.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FSS - Fatigue Interferes With Physical Functioning</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FSS01-Motivation Is Lower When Fatigued" nciodm:ExtCodeID="C113944">
+                    <nciodm:CDISCSynonym>FSS01-Motivation Is Lower When Fatigued</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Fatigue Severity Scale - My motivation is lower when I am fatigued.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FSS - Motivation is Lower When Fatigued</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FSS01-Prevents Sustained Phys Function" nciodm:ExtCodeID="C113949">
+                    <nciodm:CDISCSynonym>FSS01-Prevents Sustained Phys Function</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Fatigue Severity Scale - My fatigue prevents sustained physical functioning.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FSS - Fatigue Prevents Sustained Physical Functioning</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>FSS TEST</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Fatigue Severity Scale Test Name</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Questionnaire Fatigue Severity Scale Test Name Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

@@ -1,0 +1,34 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C113856.IVIS TESTCD" Name="Impact of Visual Impairment Scale Test Code" DataType="text" nciodm:ExtCodeID="C113856" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Impact of Visual Impairment Scale test code.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="IVIS0101" nciodm:ExtCodeID="C113962">
+                    <nciodm:CDISCSynonym>IVIS01-Read or Access Personal Letters</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Impact of Visual Impairment Scale - During the past 4 weeks, how difficult did you find it to read or access personal letters or notes?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IVIS - Read or Access Personal Letters</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IVIS0102" nciodm:ExtCodeID="C113963">
+                    <nciodm:CDISCSynonym>IVIS01-Read or Access Printed Materials</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Impact of Visual Impairment Scale - During the past 4 weeks, how difficult did you find it to read or access printed materials, such as books, magazines, newspaper, etc.?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IVIS - Read or Access Printed Materials</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IVIS0103" nciodm:ExtCodeID="C113964">
+                    <nciodm:CDISCSynonym>IVIS01-Read or Access Dials</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Impact of Visual Impairment Scale - During the past 4 weeks, how difficult did you find it to read or access dials, such as on stoves, thermostats, etc.?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IVIS - Read or Access Dials</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IVIS0104" nciodm:ExtCodeID="C113965">
+                    <nciodm:CDISCSynonym>IVIS01-Watch TV/ID Faces From Distance</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Impact of Visual Impairment Scale - During the past 4 weeks, how difficult did you find it to watch television or identify faces from a distance?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IVIS - Watch TV or Identify Faces From Distance</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IVIS0105" nciodm:ExtCodeID="C113966">
+                    <nciodm:CDISCSynonym>IVIS01-Identify House Number/Street Sign</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Impact of Visual Impairment Scale - During the past 4 weeks, how difficult did you find it to identify house numbers, street signs, etc.?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IVIS - Identify House Numbers or Street Signs</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>IVIS TESTCD</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Impact of Visual Impairment Scale Test Code</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Questionnaire Impact of Visual Impairment Scale Test Code Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

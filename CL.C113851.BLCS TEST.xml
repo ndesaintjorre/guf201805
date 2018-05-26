@@ -1,0 +1,29 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C113851.BLCS TEST" Name="Bladder Control Scale Test Name" DataType="text" nciodm:ExtCodeID="C113851" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Bladder Control Scale test name.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="BLCS01-Almost Lost Control of Bladder" nciodm:ExtCodeID="C113954">
+                    <nciodm:CDISCSynonym>BLCS01-Almost Lost Control of Bladder</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Bladder Control Scale - During the past 4 weeks, how often have you almost lost control of your bladder or had an accident?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BLCS - Almost Lost Control of Your Bladder</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BLCS01-Altered Activity Because Bladder" nciodm:ExtCodeID="C113955">
+                    <nciodm:CDISCSynonym>BLCS01-Altered Activity Because Bladder</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Bladder Control Scale - During the past 4 weeks, how often have you altered your activities because of bladder problems?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BLCS - Altered Activities Because Bladder Problems</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BLCS01-Bladder Restricted Lifestyle" nciodm:ExtCodeID="C113956">
+                    <nciodm:CDISCSynonym>BLCS01-Bladder Restricted Lifestyle</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Bladder Control Scale - During the past 4 weeks, how much have bladder problems restricted your overall lifestyle?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BLCS - Bladder Problems Restrict Overall Lifestyle</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BLCS01-Lost Control of Bladder" nciodm:ExtCodeID="C113953">
+                    <nciodm:CDISCSynonym>BLCS01-Lost Control of Bladder</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Bladder Control Scale - During the past 4 weeks, how often have you lost control of your bladder or had an accident?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BLCS - Lost Control of Your Bladder</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>BLCS TEST</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Bladder Control Scale Test Name</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Questionnaire Bladder Control Scale Test Name Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

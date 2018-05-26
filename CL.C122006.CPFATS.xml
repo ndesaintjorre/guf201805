@@ -7,6 +7,21 @@
                     <nciodm:CDISCDefinition>The total amount that a subject is exposed to over time.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Cumulative Exposure</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="Number of Mild Episodes" nciodm:ExtCodeID="C124328">
+                    <nciodm:CDISCSynonym>Number of Mild Episodes</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The number of times an event, which is classified as mild, occurred.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Number of Mild Episodes</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Number of Moderate Episodes" nciodm:ExtCodeID="C124329">
+                    <nciodm:CDISCSynonym>Number of Moderate Episodes</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The number of times an event, which is classified as moderate, occurred.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Number of Moderate Episodes</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Number of Severe Episodes" nciodm:ExtCodeID="C124330">
+                    <nciodm:CDISCSynonym>Number of Severe Episodes</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The number of times an event, which is classified as severe, occurred.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Number of Severe Episodes</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <nciodm:CDISCSubmissionValue>CPFATS</nciodm:CDISCSubmissionValue>
                 <nciodm:CDISCSynonym>COPD Findings About Test Name</nciodm:CDISCSynonym>
                 <nciodm:PreferredTerm>CDISC SDTM COPD Findings About Test Name Terminology</nciodm:PreferredTerm>

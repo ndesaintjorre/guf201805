@@ -1,0 +1,99 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C103470.IIEF TEST" Name="International Index of Erectile Function Questionnaire Test Name" DataType="text" nciodm:ExtCodeID="C103470" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">International Index of Erectile Function test name.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="IIEF01-Able to Penetrate Your Partner" nciodm:ExtCodeID="C103589">
+                    <nciodm:CDISCSynonym>IIEF01-Able to Penetrate Your Partner</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>IIEF01-Penetration Ability</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Index of Erectile Function - Over the past four weeks when you attempted sexual intercourse, how often were you able to penetrate (enter) your partner?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IIEF - Able to Penetrate Your Partner</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IIEF01-Confidence to Get/Keep Erection" nciodm:ExtCodeID="C103601">
+                    <nciodm:CDISCSynonym>IIEF01-Confidence to Get/Keep Erection</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>IIEF01-Erection Confidence</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Index of Erectile Function - Over the past four weeks how do you rate your confidence that you could get and keep an erection?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IIEF - Your Confidence to Get and Keep an Erection</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IIEF01-Did You Have Feeling of Orgasm" nciodm:ExtCodeID="C103596">
+                    <nciodm:CDISCSynonym>IIEF01-Did You Have Feeling of Orgasm</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>IIEF01-Orgasm Frequency</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Index of Erectile Function - Over the past four weeks when you had sexual stimulation or intercourse, how often did you have the feeling of orgasm with our without ejaculation?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IIEF - Did You Have Feeling of Orgasm With or Without Ejaculation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IIEF01-Enjoyed Sexual Intercourse" nciodm:ExtCodeID="C103594">
+                    <nciodm:CDISCSynonym>IIEF01-Enjoyed Sexual Intercourse</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>IIEF01-Intercourse Enjoyment</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Index of Erectile Function - Over the past four weeks how much have you enjoyed sexual intercourse?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IIEF - How Much Have You Enjoyed Sexual Intercourse</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IIEF01-Erection During Sexual Activity" nciodm:ExtCodeID="C103587">
+                    <nciodm:CDISCSynonym>IIEF01-Erection During Sexual Activity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>IIEF01-Erection Frequency</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Index of Erectile Function - Over the past four weeks how often were you able to get an erection during sexual activity?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IIEF - Able to Get an Erection During Sexual Activity</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IIEF01-Erection Hard Enough to Penetrate" nciodm:ExtCodeID="C103588">
+                    <nciodm:CDISCSynonym>IIEF01-Erection Firmness</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>IIEF01-Erection Hard Enough to Penetrate</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Index of Erectile Function - Over the past four weeks when you had erections with sexual stimulation, how often were your erections hard enough for penetration?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IIEF - Erections Hard Enough for Penetration</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IIEF01-Have You Felt Sexual Desire" nciodm:ExtCodeID="C103597">
+                    <nciodm:CDISCSynonym>IIEF01-Desire Frequency</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>IIEF01-Have You Felt Sexual Desire</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Index of Erectile Function - Over the past four weeks how often have you felt sexual desire?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IIEF - How Often Have You Felt Sexual Desire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IIEF01-How Often Did You Ejaculate" nciodm:ExtCodeID="C103595">
+                    <nciodm:CDISCSynonym>IIEF01-Ejaculation Frequency</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>IIEF01-How Often Did You Ejaculate</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Index of Erectile Function - Over the past four weeks when you had sexual stimulation or intercourse, how often did you ejaculate?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IIEF - How Often Did You Ejaculate</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IIEF01-How Often was it Satisfactory" nciodm:ExtCodeID="C103593">
+                    <nciodm:CDISCSynonym>IIEF01-How Often was it Satisfactory</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>IIEF01-Intercourse Satisfaction</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Index of Erectile Function - Over the past four weeks when you attempted sexual intercourse, how often was it satisfactory for you?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IIEF - How Often was it Satisfactory for You</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IIEF01-Maintain Erection After Penetrate" nciodm:ExtCodeID="C103590">
+                    <nciodm:CDISCSynonym>IIEF01-Maintain Erection After Penetrate</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>IIEF01-Maintenance Frequency</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Index of Erectile Function - Over the past four weeks during sexual intercourse, how often were you able to maintain your erection after you had penetrated (entered) your partner?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IIEF - Able to Maintain Your Erection After You Had Penetrated Your Partner</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IIEF01-Maintain Erection to Completion" nciodm:ExtCodeID="C103591">
+                    <nciodm:CDISCSynonym>IIEF01-Maintain Erection to Completion</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>IIEF01-Maintenance Ability</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Index of Erectile Function - Over the past four weeks during sexual intercourse, how difficult was it to maintain your erection to completion of intercourse?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IIEF - Maintain Your Erection to Completion of Intercourse</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IIEF01-Rate Your Level of Sexual Desire" nciodm:ExtCodeID="C103598">
+                    <nciodm:CDISCSynonym>IIEF01-Desire Level</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>IIEF01-Rate Your Level of Sexual Desire</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Index of Erectile Function - Over the past four weeks how would you rate your level of sexual desire?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IIEF - Rate Your Level of Sexual Desire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IIEF01-Satisfied with Overall Sex Life" nciodm:ExtCodeID="C103599">
+                    <nciodm:CDISCSynonym>IIEF01-Overall Satisfaction</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>IIEF01-Satisfied with Overall Sex Life</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Index of Erectile Function - Over the past four weeks how satisfied have you been with your overall sex life?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IIEF - Satisfied with Overall Sex Life</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IIEF01-Satisfy with Sexual Relationship" nciodm:ExtCodeID="C103600">
+                    <nciodm:CDISCSynonym>IIEF01-Relationship Satisfaction</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>IIEF01-Satisfy with Sexual Relationship</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Index of Erectile Function - Over the past four weeks how satisfied have you been with your sexual relationship with your partner?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IIEF - Satisfied with Your Sexual Relationship with Your Partner</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IIEF01-Times Attempted Sexual Intercours" nciodm:ExtCodeID="C103592">
+                    <nciodm:CDISCSynonym>IIEF01-Intercourse Frequency</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>IIEF01-Times Attempted Sexual Intercours</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Index of Erectile Function - Over the past four weeks how many times have you attempted sexual intercourse?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>IIEF - How Many Times Have You Attempted Sexual Intercourse</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>IIEF TEST</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>International Index of Erectile Function Questionnaire Test Name</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Questionnaire IIEF Test Name Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

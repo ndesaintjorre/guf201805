@@ -1,0 +1,159 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C106663.GDS TESTCD" Name="Geriatric Depression Scale Questionnaire Test Code" DataType="text" nciodm:ExtCodeID="C106663" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Geriatric Depression Scale test code.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="GDS0101" nciodm:ExtCodeID="C106764">
+                    <nciodm:CDISCSynonym>GDS01-Satisfied With Life</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Geriatric Depression Scale - Are you basically satisfied with your life?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>GDS - Basically Satisfied With Life</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="GDS0102" nciodm:ExtCodeID="C106765">
+                    <nciodm:CDISCSynonym>GDS01-Dropped Activities and Interests</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Geriatric Depression Scale - Have you dropped many of your activities and interests?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>GDS - Dropped Activities and Interests</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="GDS0103" nciodm:ExtCodeID="C106766">
+                    <nciodm:CDISCSynonym>GDS01-Life Is Empty</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Geriatric Depression Scale - Do you feel that your life is empty?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>GDS - Feel Life Is Empty</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="GDS0104" nciodm:ExtCodeID="C106767">
+                    <nciodm:CDISCSynonym>GDS01-Bored Often</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Geriatric Depression Scale - Do you often get bored?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>GDS - Often Get Bored</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="GDS0105" nciodm:ExtCodeID="C106768">
+                    <nciodm:CDISCSynonym>GDS01-Hopeful About Future</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Geriatric Depression Scale - Are you hopeful about the future?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>GDS - Hopeful About Future</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="GDS0106" nciodm:ExtCodeID="C106769">
+                    <nciodm:CDISCSynonym>GDS01-Bothered by Thoughts</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Geriatric Depression Scale - Are you bothered by thoughts you can't get out of your head?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>GDS - Bothered by Thoughts</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="GDS0107" nciodm:ExtCodeID="C106770">
+                    <nciodm:CDISCSynonym>GDS01-Good Spirits Most of Time</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Geriatric Depression Scale - Are you in good spirits most of the time?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>GDS - Good Spirits Most of Time</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="GDS0108" nciodm:ExtCodeID="C106771">
+                    <nciodm:CDISCSynonym>GDS01-Afraid of Something Bad Happening</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Geriatric Depression Scale - Are you afraid that something bad is going to happen to you?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>GDS - Afraid of Something Bad Happening</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="GDS0109" nciodm:ExtCodeID="C106772">
+                    <nciodm:CDISCSynonym>GDS01-Feel Happy Most of Time</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Geriatric Depression Scale - Do you feel happy most of the time?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>GDS - Feel Happy Most of Time</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="GDS0110" nciodm:ExtCodeID="C106773">
+                    <nciodm:CDISCSynonym>GDS01-Often Feel Helpless</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Geriatric Depression Scale - Do you often feel helpless?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>GDS - Often Feel Helpless</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="GDS0111" nciodm:ExtCodeID="C106774">
+                    <nciodm:CDISCSynonym>GDS01-Get Restless and Fidgety</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Geriatric Depression Scale - Do you often get restless and fidgety?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>GDS - Get Restless and Fidgety</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="GDS0112" nciodm:ExtCodeID="C106775">
+                    <nciodm:CDISCSynonym>GDS01-Prefer to Stay Home</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Geriatric Depression Scale - Do you prefer to stay at home, rather than going out and doing new things?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>GDS - Prefer to Stay Home</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="GDS0113" nciodm:ExtCodeID="C106776">
+                    <nciodm:CDISCSynonym>GDS01-Worry About Future</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Geriatric Depression Scale - Do you frequently worry about the future?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>GDS - Frequently Worry About Future</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="GDS0114" nciodm:ExtCodeID="C106777">
+                    <nciodm:CDISCSynonym>GDS01-Memory Problems</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Geriatric Depression Scale - Do you feel you have more problems with memory than most?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>GDS - More Memory Problems Than Most</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="GDS0115" nciodm:ExtCodeID="C106778">
+                    <nciodm:CDISCSynonym>GDS01-Wonderful to Be Alive</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Geriatric Depression Scale - Do you think it is wonderful to be alive now?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>GDS - Think Wonderful to Be Alive</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="GDS0116" nciodm:ExtCodeID="C106779">
+                    <nciodm:CDISCSynonym>GDS01-Feel Downhearted and Blue</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Geriatric Depression Scale - Do you often feel downhearted and blue?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>GDS - Feel Downhearted and Blue</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="GDS0117" nciodm:ExtCodeID="C106780">
+                    <nciodm:CDISCSynonym>GDS01-Feel Worthless</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Geriatric Depression Scale - Do you feel pretty worthless the way you are now?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>GDS - Feel Worthless</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="GDS0118" nciodm:ExtCodeID="C106781">
+                    <nciodm:CDISCSynonym>GDS01-Worry About the Past</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Geriatric Depression Scale - Do you worry a lot about the past?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>GDS - Worry About the Past</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="GDS0119" nciodm:ExtCodeID="C106782">
+                    <nciodm:CDISCSynonym>GDS01-Find Life Exciting</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Geriatric Depression Scale - Do you find life very exciting?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>GDS - Find Life Exciting</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="GDS0120" nciodm:ExtCodeID="C106783">
+                    <nciodm:CDISCSynonym>GDS01-Hard to Start New Projects</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Geriatric Depression Scale - Is it hard for you to get started on new projects?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>GDS - Hard to Start New Projects</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="GDS0121" nciodm:ExtCodeID="C106784">
+                    <nciodm:CDISCSynonym>GDS01-Feel Full of Energy</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Geriatric Depression Scale - Do you feel full of energy?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>GDS - Feel Full of Energy</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="GDS0122" nciodm:ExtCodeID="C106785">
+                    <nciodm:CDISCSynonym>GDS01-Feel Hopeless</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Geriatric Depression Scale - Do you feel that your situation is hopeless?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>GDS - Feel Situation Is Hopeless</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="GDS0123" nciodm:ExtCodeID="C106786">
+                    <nciodm:CDISCSynonym>GDS01-Most People Better Off Than You</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Geriatric Depression Scale - Do you think that most people are better off than you are?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>GDS - Think Most People Better Off Than You</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="GDS0124" nciodm:ExtCodeID="C106787">
+                    <nciodm:CDISCSynonym>GDS01-Often Upset Over Little Things</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Geriatric Depression Scale -Do you frequently get upset over little things?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>GDS - Often Upset Over Little Things</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="GDS0125" nciodm:ExtCodeID="C106788">
+                    <nciodm:CDISCSynonym>GDS01-Frequently Feel Like Crying</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Geriatric Depression Scale - Do you frequently feel like crying?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>GDS - Frequently Feel Like Crying</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="GDS0126" nciodm:ExtCodeID="C106789">
+                    <nciodm:CDISCSynonym>GDS01-Trouble Concentrating</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Geriatric Depression Scale - Do you have trouble concentrating?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>GDS - Have Trouble Concentrating</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="GDS0127" nciodm:ExtCodeID="C106790">
+                    <nciodm:CDISCSynonym>GDS01-Enjoy Getting Up in the Morning</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Geriatric Depression Scale - Do you enjoy getting up in the morning?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>GDS - Enjoy Getting Up in the Morning</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="GDS0128" nciodm:ExtCodeID="C106791">
+                    <nciodm:CDISCSynonym>GDS01-Avoid Social Gatherings</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Geriatric Depression Scale - Do you prefer to avoid social gatherings?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>GDS - Prefer to Avoid Social Gatherings</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="GDS0129" nciodm:ExtCodeID="C106792">
+                    <nciodm:CDISCSynonym>GDS01-Easy to Make Decisions</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Geriatric Depression Scale - Is it easy for you to make decisions?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>GDS - Easy to Make Decisions</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="GDS0130" nciodm:ExtCodeID="C106793">
+                    <nciodm:CDISCSynonym>GDS01-Mind as Clear as It Used to Be</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Geriatric Depression Scale - Is your mind as clear as it used to be?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>GDS - Mind as Clear as It Used to Be</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>GDS TESTCD</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Geriatric Depression Scale Questionnaire Test Code</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Questionnaire GDS Test Code Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

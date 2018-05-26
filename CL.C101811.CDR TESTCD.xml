@@ -1,0 +1,49 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C101811.CDR TESTCD" Name="Clinical Dementia Rating Test Code" DataType="text" nciodm:ExtCodeID="C101811" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Clinical Dementia Rating test code.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="CDR0101" nciodm:ExtCodeID="C102050">
+                    <nciodm:CDISCSynonym>CDR01-Memory</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Clinical Dementia Rating - Memory.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDR - Memory</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CDR0102" nciodm:ExtCodeID="C102051">
+                    <nciodm:CDISCSynonym>CDR01-Orientation</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Clinical Dementia Rating - Orientation.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDR - Orientation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CDR0103" nciodm:ExtCodeID="C102052">
+                    <nciodm:CDISCSynonym>CDR01-Judgment and Problem Solving</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Clinical Dementia Rating - Judgment and problem solving.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDR - Judgment and Problem Solving</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CDR0104" nciodm:ExtCodeID="C102053">
+                    <nciodm:CDISCSynonym>CDR01-Community Affairs</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Clinical Dementia Rating - Community affairs.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDR - Community Affairs</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CDR0105" nciodm:ExtCodeID="C102054">
+                    <nciodm:CDISCSynonym>CDR01-Home and Hobbies</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Clinical Dementia Rating - Home and hobbies.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDR - Home and Hobbies</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CDR0106" nciodm:ExtCodeID="C102055">
+                    <nciodm:CDISCSynonym>CDR01-Personal Care</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Clinical Dementia Rating - Personal care.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDR - Personal Care</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CDR0107" nciodm:ExtCodeID="C113880">
+                    <nciodm:CDISCSynonym>CDR01-Sum of Boxes</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Clinical Dementia Rating - Sum of Boxes.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDR - Sum of Boxes</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CDR0108" nciodm:ExtCodeID="C113881">
+                    <nciodm:CDISCSynonym>CDR01-Global CDR</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Clinical Dementia Rating - Global CDR.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDR - Global CDR</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>CDR TESTCD</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Clinical Dementia Rating Test Code</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Questionnaire CDR Test Code Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

@@ -1,0 +1,159 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C124686.PANSS TESTCD" Name="Positive and Negative Syndrome Scale Clinical Classification Test Code" DataType="text" nciodm:ExtCodeID="C124686" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Positive and Negative Syndrome Scale test code.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="PANSS101" nciodm:ExtCodeID="C124747">
+                    <nciodm:CDISCSynonym>PANSS1-Delusions</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Positive and Negative Syndrome Scale - Delusions.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PANSS - Delusions</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PANSS102" nciodm:ExtCodeID="C124748">
+                    <nciodm:CDISCSynonym>PANSS1-Conceptual Disorganization</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Positive and Negative Syndrome Scale - Conceptual disorganization.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PANSS - Conceptual Disorganization</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PANSS103" nciodm:ExtCodeID="C124749">
+                    <nciodm:CDISCSynonym>PANSS1-Hallucinatory Behavior</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Positive and Negative Syndrome Scale - Hallucinatory behavior.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PANSS - Hallucinatory Behavior</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PANSS104" nciodm:ExtCodeID="C124750">
+                    <nciodm:CDISCSynonym>PANSS1-Excitement</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Positive and Negative Syndrome Scale - Excitement.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PANSS - Excitement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PANSS105" nciodm:ExtCodeID="C124751">
+                    <nciodm:CDISCSynonym>PANSS1-Grandiosity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Positive and Negative Syndrome Scale - Grandiosity.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PANSS - Grandiosity</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PANSS106" nciodm:ExtCodeID="C124752">
+                    <nciodm:CDISCSynonym>PANSS1-Suspiciousness/Persecution</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Positive and Negative Syndrome Scale - Suspiciousness/persecution.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PANSS - Suspiciousness or Persecution</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PANSS107" nciodm:ExtCodeID="C124753">
+                    <nciodm:CDISCSynonym>PANSS1-Hostility</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Positive and Negative Syndrome Scale - Hostility.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PANSS - Hostility</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PANSS108" nciodm:ExtCodeID="C124754">
+                    <nciodm:CDISCSynonym>PANSS1-Blunted Affect</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Positive and Negative Syndrome Scale - Blunted affect.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PANSS - Blunted Affect</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PANSS109" nciodm:ExtCodeID="C124755">
+                    <nciodm:CDISCSynonym>PANSS1-Emotional Withdrawal</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Positive and Negative Syndrome Scale - Emotional withdrawal.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PANSS - Emotional Withdrawal</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PANSS110" nciodm:ExtCodeID="C124756">
+                    <nciodm:CDISCSynonym>PANSS1-Poor Rapport</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Positive and Negative Syndrome Scale - Poor rapport.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PANSS - Poor Rapport</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PANSS111" nciodm:ExtCodeID="C124757">
+                    <nciodm:CDISCSynonym>PANSS1-Passive/Apathetic Social Withdraw</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Positive and Negative Syndrome Scale - Passive/apathetic social withdrawal.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PANSS - Passive or Apathetic Social Withdrawal</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PANSS112" nciodm:ExtCodeID="C124758">
+                    <nciodm:CDISCSynonym>PANSS1-Difficulty in Abstract Thinking</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Positive and Negative Syndrome Scale - Difficulty in abstract thinking.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PANSS - Difficulty in Abstract Thinking</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PANSS113" nciodm:ExtCodeID="C124759">
+                    <nciodm:CDISCSynonym>PANSS1-Lack of Spontaneity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Positive and Negative Syndrome Scale - Lack of spontaneity and flow of conversation.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PANSS - Lack of Spontaneity</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PANSS114" nciodm:ExtCodeID="C124760">
+                    <nciodm:CDISCSynonym>PANSS1-Stereotyped Thinking</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Positive and Negative Syndrome Scale - Stereotyped thinking.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PANSS - Stereotyped Thinking</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PANSS115" nciodm:ExtCodeID="C124761">
+                    <nciodm:CDISCSynonym>PANSS1-Somatic Concern</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Positive and Negative Syndrome Scale - Somatic concern.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PANSS - Somatic Concern</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PANSS116" nciodm:ExtCodeID="C124762">
+                    <nciodm:CDISCSynonym>PANSS1-Anxiety</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Positive and Negative Syndrome Scale - Anxiety.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PANSS - Anxiety</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PANSS117" nciodm:ExtCodeID="C124763">
+                    <nciodm:CDISCSynonym>PANSS1-Guilt Feelings</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Positive and Negative Syndrome Scale - Guilt feelings.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PANSS - Guilt Feelings</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PANSS118" nciodm:ExtCodeID="C124764">
+                    <nciodm:CDISCSynonym>PANSS1-Tension</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Positive and Negative Syndrome Scale - Tension.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PANSS - Tension</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PANSS119" nciodm:ExtCodeID="C124765">
+                    <nciodm:CDISCSynonym>PANSS1-Mannerisms and Posturing</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Positive and Negative Syndrome Scale - Mannerisms and posturing.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PANSS - Mannerisms and Posturing</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PANSS120" nciodm:ExtCodeID="C124766">
+                    <nciodm:CDISCSynonym>PANSS1-Depression</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Positive and Negative Syndrome Scale - Depression.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PANSS - Depression</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PANSS121" nciodm:ExtCodeID="C124767">
+                    <nciodm:CDISCSynonym>PANSS1-Motor Retardation</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Positive and Negative Syndrome Scale - Motor retardation.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PANSS - Motor Retardation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PANSS122" nciodm:ExtCodeID="C124768">
+                    <nciodm:CDISCSynonym>PANSS1-Uncooperativeness</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Positive and Negative Syndrome Scale - Uncooperativeness.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PANSS - Uncooperativeness</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PANSS123" nciodm:ExtCodeID="C124769">
+                    <nciodm:CDISCSynonym>PANSS1-Unusual Thought Content</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Positive and Negative Syndrome Scale - Unusual thought content.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PANSS - Unusual Thought Content</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PANSS124" nciodm:ExtCodeID="C124770">
+                    <nciodm:CDISCSynonym>PANSS1-Disorientation</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Positive and Negative Syndrome Scale - Disorientation.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PANSS - Disorientation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PANSS125" nciodm:ExtCodeID="C124771">
+                    <nciodm:CDISCSynonym>PANSS1-Poor Attention</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Positive and Negative Syndrome Scale - Poor attention.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PANSS - Poor Attention</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PANSS126" nciodm:ExtCodeID="C124772">
+                    <nciodm:CDISCSynonym>PANSS1-Lack of Judgment and Insight</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Positive and Negative Syndrome Scale - Lack of judgment and insight.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PANSS - Lack of Judgement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PANSS127" nciodm:ExtCodeID="C124773">
+                    <nciodm:CDISCSynonym>PANSS1-Disturbance of Volition</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Positive and Negative Syndrome Scale - Disturbance of volition.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PANSS - Disturbance of Volition</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PANSS128" nciodm:ExtCodeID="C124774">
+                    <nciodm:CDISCSynonym>PANSS1-Poor Impulse Control</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Positive and Negative Syndrome Scale - Poor impulse control.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PANSS - Poor Impulse Control</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PANSS129" nciodm:ExtCodeID="C124775">
+                    <nciodm:CDISCSynonym>PANSS1-Preoccupation</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Positive and Negative Syndrome Scale - Preoccupation.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PANSS - Preoccupation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PANSS130" nciodm:ExtCodeID="C124776">
+                    <nciodm:CDISCSynonym>PANSS1-Active Social Avoidance</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Positive and Negative Syndrome Scale - Active social avoidance.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PANSS - Active Social Avoidance</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>PANSS TESTCD</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Positive and Negative Syndrome Scale Clinical Classification Test Code</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Clinical Classification PANSS Test Code Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

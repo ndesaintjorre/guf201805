@@ -1,0 +1,199 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C106652.ADCS-ADL SEVERE DEMENTIA TEST" Name="Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory Severe Dementia Version Questionnaire Test Name" DataType="text" nciodm:ExtCodeID="C106652" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory Severe Dementia Version test name.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="ADL02-Clear Dishes" nciodm:ExtCodeID="C106993">
+                    <nciodm:CDISCSynonym>ADL02-Clear Dishes</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, Severe Dementia Version - Did {S} clear the dishes from the table after a meal or snack?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ADCS-ADL Severe Dementia - Clear Dishes After Meal or Snack</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ADL02-Clear Dishes Usual Performance" nciodm:ExtCodeID="C106994">
+                    <nciodm:CDISCSynonym>ADL02-Clear Dishes Usual Performance</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, Severe Dementia Version - If yes, which best describes how {S} usually performed.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ADCS-ADL Severe Dementia - Description of Usual Performance of Clearing Dishes</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ADL02-Dispose Garbage Usual Performance" nciodm:ExtCodeID="C107000">
+                    <nciodm:CDISCSynonym>ADL02-Dispose Garbage Usual Performance</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, Severe Dementia Version - If yes, which best describes how {S} usually performed.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ADCS-ADL Severe Dementia - Description of Usual Performance of Garbage Disposal</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ADL02-Dispose of Garbage" nciodm:ExtCodeID="C106999">
+                    <nciodm:CDISCSynonym>ADL02-Dispose of Garbage</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, Severe Dementia Version - In the past 4 weeks, did {S} dispose of garbage or litter in an appropriate place or container at home?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ADCS-ADL Severe Dementia - Dispose of Garbage in Appropriate Place at Home</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ADL02-Find Belongings" nciodm:ExtCodeID="C106995">
+                    <nciodm:CDISCSynonym>ADL02-Find Belongings</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, Severe Dementia Version - In the past 4 weeks, did {S} usually manage to find his/her personal belongings at home?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ADCS-ADL Severe Dementia - Find Personal Belongings at Home</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ADL02-Find Belongings Usual Performance" nciodm:ExtCodeID="C106996">
+                    <nciodm:CDISCSynonym>ADL02-Find Belongings Usual Performance</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, Severe Dementia Version - If yes, which best describes how {S} usually performed.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ADCS-ADL Severe Dementia - Description of Usual Performance of Finding Personal Belonging at Home</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ADL02-Get Around Optimal Performance" nciodm:ExtCodeID="C107002">
+                    <nciodm:CDISCSynonym>ADL02-Get Around Optimal Performance</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, Severe Dementia Version - If yes, which best describes {S} optimal performance.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ADCS-ADL Severe Dementia - Description of Optimal Performance of Getting Around Outside of Home</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ADL02-Get Around Outside Home" nciodm:ExtCodeID="C107001">
+                    <nciodm:CDISCSynonym>ADL02-Get Around Outside Home</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, Severe Dementia Version - In the past 4 weeks, did {S} get around (or travel) outside of his/her home?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ADCS-ADL Severe Dementia - Get Around Outside Home</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ADL02-Highest Telephone Use Performance" nciodm:ExtCodeID="C106986">
+                    <nciodm:CDISCSynonym>ADL02-Highest Telephone Use Performance</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, Severe Dementia Version - If yes, which best describes {S} highest level of performance.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ADCS-ADL Severe Dementia - Description of Highest Performance of Telephone Use</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ADL02-Left at Home for 1 Hour or Longer" nciodm:ExtCodeID="C107005">
+                    <nciodm:CDISCSynonym>ADL02-Left at Home for 1 Hour or Longer</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, Severe Dementia Version - Was {S} left: at home for an hour or longer during the day?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ADCS-ADL Severe Dementia - Alone at Home for One Hour or Longer</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ADL02-Left at Home for Less Than 1 Hour" nciodm:ExtCodeID="C107006">
+                    <nciodm:CDISCSynonym>ADL02-Left at Home for Less Than 1 Hour</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, Severe Dementia Version - Was {S} left: at home for less than 1 hour during the day?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ADCS-ADL Severe Dementia - Alone at Home for Less Than One Hour</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ADL02-Left Away From Home" nciodm:ExtCodeID="C107004">
+                    <nciodm:CDISCSynonym>ADL02-Left Away From Home</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, Severe Dementia Version - Was {S} left: away from home for 15 minutes or longer, during the day?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ADCS-ADL Severe Dementia - Alone Away From Home for Fifteen Minutes or Longer</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ADL02-Left On His/Her Own" nciodm:ExtCodeID="C107003">
+                    <nciodm:CDISCSynonym>ADL02-Left On His/Her Own</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, Severe Dementia Version - In the past 4 weeks, was {S} ever left on his/her own?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ADCS-ADL Severe Dementia - Subject Left on Their Own</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ADL02-Obtain Beverage" nciodm:ExtCodeID="C106997">
+                    <nciodm:CDISCSynonym>ADL02-Obtain Beverage</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, Severe Dementia Version - In the past 4 weeks, did {S} obtain a hot or cold beverage for him/herself?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ADCS-ADL Severe Dementia - Obtain Beverage for Self</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ADL02-Obtain Beverage Highest Perform" nciodm:ExtCodeID="C106998">
+                    <nciodm:CDISCSynonym>ADL02-Obtain Beverage Highest Perform</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, Severe Dementia Version - If yes, which best describes {S} highest level of performance.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ADCS-ADL Severe Dementia - Description of Highest Performance of Obtaining Beverage</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ADL02-Optimal Grooming Performance" nciodm:ExtCodeID="C106983">
+                    <nciodm:CDISCSynonym>ADL02-Optimal Grooming Performance</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, Severe Dementia Version - Regarding grooming, in the past 4 weeks, which best describes {S} optimal performance?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ADCS-ADL Severe Dementia - Description of Optimal Performance of Grooming</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ADL02-Optimal Walking Performance" nciodm:ExtCodeID="C106980">
+                    <nciodm:CDISCSynonym>ADL02-Optimal Walking Performance</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, Severe Dementia Version - Regarding walking (or getting around in a wheelchair) in the past 4 weeks, which best describes {S} optimal performance?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ADCS-ADL Severe Dementia - Description of Optimal Performance of Walking</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ADL02-Pay Attention to Conversation" nciodm:ExtCodeID="C106991">
+                    <nciodm:CDISCSynonym>ADL02-Pay Attention to Conversation</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, Severe Dementia Version - In the past 4 weeks, did {S} ever appear to pay attention to conversation or small talk for at least 5 minutes?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ADCS-ADL Severe Dementia - Pay Attention to Conversation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ADL02-Run Water Faucet to Wash" nciodm:ExtCodeID="C107007">
+                    <nciodm:CDISCSynonym>ADL02-Run Water Faucet to Wash</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, Severe Dementia Version - In the past 4 weeks, did {S} usually run water from a faucet to wash {S} hands or face without help?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ADCS-ADL Severe Dementia - Turn On Faucet to Wash Without Help</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ADL02-Select Television Program" nciodm:ExtCodeID="C106988">
+                    <nciodm:CDISCSynonym>ADL02-Select Television Program</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, Severe Dementia Version - Did {S} usually select or ask for different programs or {S} favorite show?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ADCS-ADL Severe Dementia - Select or Ask for Television Program</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ADL02-Sum 1 to 5" nciodm:ExtCodeID="C107011">
+                    <nciodm:CDISCSynonym>ADL02-Sum 1 to 5</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, Severe Dementia Version - Sum of Items 1-5.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ADCS-ADL Severe Dementia - Sum of Items 1-5</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ADL02-Sum 13 to 15" nciodm:ExtCodeID="C107014">
+                    <nciodm:CDISCSynonym>ADL02-Sum 13 to 15</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, Severe Dementia Version - Sum of Items 13-15.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ADCS-ADL Severe Dementia - Sum of Items 13-15</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ADL02-Sum 16 to 19" nciodm:ExtCodeID="C107015">
+                    <nciodm:CDISCSynonym>ADL02-Sum 16 to 19</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, Severe Dementia Version - Sum of Items 16-19.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ADCS-ADL Severe Dementia - Sum of Items 16-19</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ADL02-Sum 6 to 8" nciodm:ExtCodeID="C107012">
+                    <nciodm:CDISCSynonym>ADL02-Sum 6 to 8</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, Severe Dementia Version - Sum of Items 6-8.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ADCS-ADL Severe Dementia - Sum of Items 6-8</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ADL02-Sum 9 to 12" nciodm:ExtCodeID="C107013">
+                    <nciodm:CDISCSynonym>ADL02-Sum 9 to 12</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, Severe Dementia Version - Sum of Items 9-12.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ADCS-ADL Severe Dementia - Sum of Items 9-12</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ADL02-Talk About TV Content While Watch" nciodm:ExtCodeID="C106989">
+                    <nciodm:CDISCSynonym>ADL02-Talk About TV Content While Watch</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, Severe Dementia Version - Did {S} usually talk about the content of a program while watching it?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ADCS-ADL Severe Dementia - Talk About TV Content While Watching</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ADL02-Talk About TV Content Within a Day" nciodm:ExtCodeID="C106990">
+                    <nciodm:CDISCSynonym>ADL02-Talk About TV Content Within a Day</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, Severe Dementia Version - Did {S} talk about the content of a program within a day (24 hours) after watching it?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ADCS-ADL Severe Dementia - Talk About TV Content Within a Day After Watching</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ADL02-Total ADCS-ADL Score" nciodm:ExtCodeID="C107016">
+                    <nciodm:CDISCSynonym>ADL02-Total ADCS-ADL Score</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, Severe Dementia Version - Total Score.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ADCS-ADL Severe Dementia - Total Score</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ADL02-Turn Off Faucet" nciodm:ExtCodeID="C107008">
+                    <nciodm:CDISCSynonym>ADL02-Turn Off Faucet</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, Severe Dementia Version - In the past 4 weeks, did {S} usually turn off the faucet after finishing running water without help?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ADCS-ADL Severe Dementia - Turn Off Faucet After Wash Without Help</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ADL02-Turn Off Light" nciodm:ExtCodeID="C107010">
+                    <nciodm:CDISCSynonym>ADL02-Turn Off Light</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, Severe Dementia Version - In the past 4 weeks, did {S} usually turn off lights without help when leaving a room or going to sleep?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ADCS-ADL Severe Dementia - Turn Off Light Without Help Leaving Room</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ADL02-Turn On Light" nciodm:ExtCodeID="C107009">
+                    <nciodm:CDISCSynonym>ADL02-Turn On Light</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, Severe Dementia Version - In the past 4 weeks, did {S} usually turn on a light without help when entering a dark room or area?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ADCS-ADL Severe Dementia - Turn On Light Without Help Entering Room</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ADL02-Use a Telephone" nciodm:ExtCodeID="C106985">
+                    <nciodm:CDISCSynonym>ADL02-Use a Telephone</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, Severe Dementia Version - In the past 4 weeks, did {S} use a telephone?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ADCS-ADL Severe Dementia - Use a Telephone</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ADL02-Usual Bathing Performance" nciodm:ExtCodeID="C106982">
+                    <nciodm:CDISCSynonym>ADL02-Usual Bathing Performance</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, Severe Dementia Version - Regarding bathing, in the past 4 weeks, which best describes {S} usual performance?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ADCS-ADL Severe Dementia - Description of Usual Performance of Bathing</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ADL02-Usual Bowel/Bladder Function" nciodm:ExtCodeID="C106981">
+                    <nciodm:CDISCSynonym>ADL02-Usual Bowel/Bladder Function</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, Severe Dementia Version - Regarding bowel and bladder function at the toilet, which best describes {S} usual performance during the past 4 weeks?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ADCS-ADL Severe Dementia - Usual Bowel and Bladder Function at Toilet</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ADL02-Usual Conversation Participation" nciodm:ExtCodeID="C106992">
+                    <nciodm:CDISCSynonym>ADL02-Usual Conversation Participation</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, Severe Dementia Version - If yes, which best describes {S} usual degree of participation.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ADCS-ADL Severe Dementia - Usual Conversation Participation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ADL02-Usual Eating Performance" nciodm:ExtCodeID="C106979">
+                    <nciodm:CDISCSynonym>ADL02-Usual Eating Performance</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, Severe Dementia Version - Regarding eating, which best describes {S} usual performance during the last 4 weeks?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ADCS-ADL Severe Dementia - Description of Usual Performance of Eating</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ADL02-Usual Physically Dressing Perform" nciodm:ExtCodeID="C106984">
+                    <nciodm:CDISCSynonym>ADL02-Usual Physically Dressing Perform</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, Severe Dementia Version - Regarding physically getting dressed, which best describes {S} usual performance in the past 4 weeks?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ADCS-ADL Severe Dementia - Description of Usual Performance of Physically Getting Dressed</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ADL02-Watch Television" nciodm:ExtCodeID="C106987">
+                    <nciodm:CDISCSynonym>ADL02-Watch Television</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory, Severe Dementia Version - In the past 4 weeks, did {S} watch television?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ADCS-ADL Severe Dementia - Watch Television</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>ADCS-ADL SEVERE DEMENTIA TEST</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory Severe Dementia Version Questionnaire Test Name</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Questionnaire ADCS-ADL Severe Dementia Test Name Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

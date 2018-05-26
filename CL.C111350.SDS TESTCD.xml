@@ -1,0 +1,39 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C111350.SDS TESTCD" Name="Sheehan Disability Scale Questionnaire Test Code" DataType="text" nciodm:ExtCodeID="C111350" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Sheehan Disability Scale test code.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="SDS0101" nciodm:ExtCodeID="C111521">
+                    <nciodm:CDISCSynonym>SDS01-Work/School</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Sheehan Disability Scale - The symptoms have disrupted your work/school work.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SDS - Symptoms Disrupted Work/School Work</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SDS0101A" nciodm:ExtCodeID="C111522">
+                    <nciodm:CDISCSynonym>SDS01-No Work/Study - Unrelated Disorder</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Sheehan Disability Scale - I have not worked/studied at all during the past week for reasons unrelated to the disorder.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SDS - Not Worked/Studied in Past Week for Reason Unrelated to Disorder</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SDS0102" nciodm:ExtCodeID="C111523">
+                    <nciodm:CDISCSynonym>SDS01-Social Life</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Sheehan Disability Scale - The symptoms have disrupted your social life/leisure activities.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SDS - Symptoms Disrupted Social Life/Leisure Activities</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SDS0103" nciodm:ExtCodeID="C111524">
+                    <nciodm:CDISCSynonym>SDS01-Family Life/Home Responsibilities</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Sheehan Disability Scale - The symptoms have disrupted your family life/home responsibilities.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SDS - Symptoms Disrupted Family Life/Home Responsibilities</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SDS0104" nciodm:ExtCodeID="C111525">
+                    <nciodm:CDISCSynonym>SDS01-Days Lost</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Sheehan Disability Scale - On how many days in the last week did your symptoms cause you to miss school or work or leave you unable to carry out your normal daily responsibilities?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SDS - Days Lost</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SDS0105" nciodm:ExtCodeID="C111526">
+                    <nciodm:CDISCSynonym>SDS01-Days Unproductive</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Sheehan Disability Scale - On how many days in the last week did you feel so impaired by your symptoms, that even though you went to school or work or had other daily responsibilities, your productivity was reduced?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>SDS - Days Unproductive</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>SDS TESTCD</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Sheehan Disability Scale Questionnaire Test Code</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Questionnaire SDS Test Code Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

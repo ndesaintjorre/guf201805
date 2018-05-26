@@ -1,0 +1,29 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C101809.BARS TESTCD" Name="Barnes Akathisia Rating Scale Test Code" DataType="text" nciodm:ExtCodeID="C101809" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Barnes Akathisia Rating Scale test code.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="BARS0101" nciodm:ExtCodeID="C102046">
+                    <nciodm:CDISCSynonym>BARS01-Objective</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Barnes Akathisia Rating Scale - Objective.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BARS - Objective</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BARS0102" nciodm:ExtCodeID="C102047">
+                    <nciodm:CDISCSynonym>BARS01-Subjective, Awareness</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Barnes Akathisia Rating Scale - Subjective, awareness of restlessness.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BARS - Subjective, Awareness</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BARS0103" nciodm:ExtCodeID="C102048">
+                    <nciodm:CDISCSynonym>BARS01-Subjective, Distress</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Barnes Akathisia Rating Scale - Subjective, distress related to restlessness.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BARS - Subjective, Distress</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BARS0104" nciodm:ExtCodeID="C102049">
+                    <nciodm:CDISCSynonym>BARS01-Global Clinical Assessment</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Barnes Akathisia Rating Scale - Global clinical assessment of akathisia.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BARS - Global Clinical Assessment</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>BARS TESTCD</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Barnes Akathisia Rating Scale Test Code</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Questionnaire BARS Test Code Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

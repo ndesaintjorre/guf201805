@@ -1,0 +1,19 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C115397.T25FW TEST" Name="Timed 25-Foot Walk Functional Test Test Name" DataType="text" nciodm:ExtCodeID="C115397" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Timed 25-Foot Walk Test test name.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="T25FW1-More Than Two Attempts" nciodm:ExtCodeID="C115818">
+                    <nciodm:CDISCSynonym>T25FW1-More Than Two Attempts</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Timed 25-Foot Walk - Did it take more than two attempts to get two successful trials?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>T25FW - More Than Two Attempts</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="T25FW1-Time to Complete 25-Foot Walk" nciodm:ExtCodeID="C115817">
+                    <nciodm:CDISCSynonym>T25FW1-Time to Complete 25-Foot Walk</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Timed 25-Foot Walk - Time in seconds to complete 25-foot walk.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>T25FW - Time to Complete 25-Foot Walk</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>T25FW TEST</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Timed 25-Foot Walk Functional Test Test Name</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Functional Test T25FW Test Name Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

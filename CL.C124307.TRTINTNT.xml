@@ -1,0 +1,21 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C124307.TRTINTNT" Name="Treatment Intent" DataType="text" nciodm:ExtCodeID="C124307" nciodm:CodeListExtensible="Yes">
+                <Description>
+                    <TranslatedText xml:lang="en">Terminology relevant to the intended disease outcome for which the treatment is given.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="CURATIVE" nciodm:ExtCodeID="C62220">
+                    <nciodm:CDISCDefinition>Any action or response that serves to eliminate disease and prevent recurrence.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Cure</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PALLIATIVE" nciodm:ExtCodeID="C101516">
+                    <nciodm:CDISCDefinition>Any action or response, without curative intent, that mitigates some or all of the unpleasant effects of a disease or condition.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Palliative</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PREVENTATIVE" nciodm:ExtCodeID="C15843">
+                    <nciodm:CDISCDefinition>Any action or response to modify or stop the development of a disease.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Preventive Intervention</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>TRTINTNT</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Treatment Intent</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Treatment Intent Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

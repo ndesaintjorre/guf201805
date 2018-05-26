@@ -1,0 +1,74 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C120982.BACS TEST" Name="Brief Assessment of Cognition in Schizophrenia Functional Test Test Name" DataType="text" nciodm:ExtCodeID="C120982" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Brief Assessment of Cognition in Schizophrenia test name.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="BACS-Symbol Coding Raw Score" nciodm:ExtCodeID="C121061">
+                    <nciodm:CDISCSynonym>BACS-Symbol Coding Raw Score</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Assessment of Cognition in Schizophrenia Questionnaire - Symbol Coding-Raw score.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BACS - Symbol Coding Raw Score</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BACS-Verbal Fluency Total" nciodm:ExtCodeID="C121060">
+                    <nciodm:CDISCSynonym>BACS-Verbal Fluency Total</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Assessment of Cognition in Schizophrenia Questionnaire - Verbal Fluency-Total number of Verbal Fluency items.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BACS - Verbal Fluency Total</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BACS1-Category Instances" nciodm:ExtCodeID="C121057">
+                    <nciodm:CDISCSynonym>BACS1-Category Instances</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Assessment of Cognition in Schizophrenia Questionnaire - Verbal Fluency-Category instances.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BACS - Category Instances</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BACS1-Letter Fluency 1" nciodm:ExtCodeID="C121058">
+                    <nciodm:CDISCSynonym>BACS1-Letter Fluency 1</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Assessment of Cognition in Schizophrenia Questionnaire - Verbal Fluency-Letter fluency 1.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BACS - Letter Fluency 1</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BACS1-Letter Fluency 2" nciodm:ExtCodeID="C121059">
+                    <nciodm:CDISCSynonym>BACS1-Letter Fluency 2</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Assessment of Cognition in Schizophrenia Questionnaire - Verbal Fluency-Letter fluency 2.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BACS - Letter Fluency 2</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BACS1-Number of Correct Sequences" nciodm:ExtCodeID="C121052">
+                    <nciodm:CDISCSynonym>BACS1-Number of Correct Sequences</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Assessment of Cognition in Schizophrenia - Digit Sequencing-Number of correct sequences.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BACS - Number of Correct Sequences</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BACS1-Number of Items Recalled" nciodm:ExtCodeID="C121050">
+                    <nciodm:CDISCSynonym>BACS1-Number of Items Recalled</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Assessment of Cognition in Schizophrenia - Verbal Memory-Number of items recalled on each trial.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BACS - Number of Items Recalled</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BACS1-Number of Items Recalled Total" nciodm:ExtCodeID="C121051">
+                    <nciodm:CDISCSynonym>BACS1-Number of Items Recalled Total</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Assessment of Cognition in Schizophrenia - Verbal Memory-Total number of items recalled.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BACS - Number of Items Recalled Total</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BACS1-Number of Tokens Correctly Placed" nciodm:ExtCodeID="C121056">
+                    <nciodm:CDISCSynonym>BACS1-Number of Tokens Correctly Placed</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Assessment of Cognition in Schizophrenia Questionnaire - Token Motor Task-Number of tokens correctly placed.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BACS - Number of Tokens Correctly Placed</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BACS1-Number of Tokens Left on the Table" nciodm:ExtCodeID="C121053">
+                    <nciodm:CDISCSynonym>BACS1-Number of Tokens Left on the Table</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Assessment of Cognition in Schizophrenia - Token Motor Task-Total number of tokens left on the table.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BACS - Number of Tokens Left on the Table</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BACS1-Number Tokens Incorrectly Placed" nciodm:ExtCodeID="C121055">
+                    <nciodm:CDISCSynonym>BACS1-Number Tokens Incorrectly Placed</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Assessment of Cognition in Schizophrenia Questionnaire - Token Motor Task-Total number of tokens incorrectly placed in container.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BACS - Number Tokens Incorrectly Placed</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BACS1-Total Number Tokens in Container" nciodm:ExtCodeID="C121054">
+                    <nciodm:CDISCSynonym>BACS1-Total Number Tokens in Container</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Assessment of Cognition in Schizophrenia - Token Motor Task-Total number of tokens placed in the container.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BACS - Total Number Tokens in Container</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BACS1-Tower of London Correct Responses" nciodm:ExtCodeID="C121062">
+                    <nciodm:CDISCSynonym>BACS1-Tower of London Correct Responses</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Assessment of Cognition in Schizophrenia Questionnaire - Tower of London-Number of correct responses.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BACS - Tower of London Correct Responses</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>BACS TEST</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Brief Assessment of Cognition in Schizophrenia Functional Test Test Name</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Functional Test BACS Test Name Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

@@ -1,0 +1,34 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C105137.GCGI TEST" Name="General Clinical Global Impressions Questionnaire Test Name" DataType="text" nciodm:ExtCodeID="C105137" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">General Clinical Global Impressions test name.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="GCGI01-Global Disease Status of Pain" nciodm:ExtCodeID="C105280">
+                    <nciodm:CDISCSynonym>GCGI01-Global Disease Status of Pain</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>General Clinical Global Impressions - Global disease status of pain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>GCGI - Global Disease Status of Pain</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="GCGI01-Global Improvement of Pain" nciodm:ExtCodeID="C105279">
+                    <nciodm:CDISCSynonym>GCGI01-Global Improvement of Pain</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>General Clinical Global Impressions - Global improvement of pain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>GCGI - Global Improvement of Pain</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="GCGI01-Global Rating of Pain Mediation" nciodm:ExtCodeID="C105282">
+                    <nciodm:CDISCSynonym>GCGI01-Global Rating of Pain Mediation</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>General Clinical Global Impressions - Global rating of pain medication.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>GCGI - Global Rating of Pain Medication</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="GCGI01-Global Severity of Pain" nciodm:ExtCodeID="C105278">
+                    <nciodm:CDISCSynonym>GCGI01-Global Severity of Pain</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>General Clinical Global Impressions - Global severity of pain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>GCGI - Global Severity of Pain</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="GCGI01-Pain Treatment Preference" nciodm:ExtCodeID="C105281">
+                    <nciodm:CDISCSynonym>GCGI01-Pain Treatment Preference</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>General Clinical Global Impressions - Pain treatment preference.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>GCGI - Pain Treatment Preference</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>GCGI TEST</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>General Clinical Global Impressions Questionnaire Test Name</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Questionnaire GCGI v1 Test Name Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

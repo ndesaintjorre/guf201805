@@ -1,0 +1,89 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C103469.HADS TESTCD" Name="Hospital Anxiety and Depression Scale Questionnaire Test Code" DataType="text" nciodm:ExtCodeID="C103469" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Hospital Anxiety and Depression Scale test code.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="HADS0101" nciodm:ExtCodeID="C103573">
+                    <nciodm:CDISCSynonym>HADS01-I Feel Tense or Wound Up</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hospital Anxiety and Depression Scale - I feel tense or 'wound up.'</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HADS - I Feel Tense or Wound Up</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HADS0102" nciodm:ExtCodeID="C103574">
+                    <nciodm:CDISCSynonym>HADS01-Enjoy the Things I Used to Enjoy</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hospital Anxiety and Depression Scale - I still enjoy the things I used to enjoy.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HADS - I Still Enjoy the Things I Used to Enjoy</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HADS0103" nciodm:ExtCodeID="C103575">
+                    <nciodm:CDISCSynonym>HADS01-Something Awful About to Happen</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hospital Anxiety and Depression Scale - I get a sort of frightened feeling as if something awful is about to happen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HADS - I Get a Frightened Feeling Something Awful is About to Happen</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HADS0104" nciodm:ExtCodeID="C103576">
+                    <nciodm:CDISCSynonym>HADS01-I Can Laugh and See Funny Side</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hospital Anxiety and Depression Scale - I can laugh and see the funny side of things.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HADS - I Can Laugh and See Funny Side of Things</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HADS0105" nciodm:ExtCodeID="C103577">
+                    <nciodm:CDISCSynonym>HADS01-Worrying Thoughts Go Through Mind</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hospital Anxiety and Depression Scale - Worrying thoughts go through my mind.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HADS - Worrying Thoughts Go Through My Mind</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HADS0106" nciodm:ExtCodeID="C103578">
+                    <nciodm:CDISCSynonym>HADS01-I Feel Cheerful</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hospital Anxiety and Depression Scale - I feel cheerful.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HADS - I Feel Cheerful</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HADS0107" nciodm:ExtCodeID="C103579">
+                    <nciodm:CDISCSynonym>HADS01-Sit at Ease and Feel Relaxed</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hospital Anxiety and Depression Scale - I can sit at ease and feel relaxed.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HADS - I Can Sit at Ease and Feel Relaxed</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HADS0108" nciodm:ExtCodeID="C103580">
+                    <nciodm:CDISCSynonym>HADS01-I Feel as if I am Slowed Down</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hospital Anxiety and Depression Scale - I feel as if I am slowed down.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HADS - I Feel as if I am Slowed Down</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HADS0109" nciodm:ExtCodeID="C103581">
+                    <nciodm:CDISCSynonym>HADS01-Butterflies in the Stomach</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hospital Anxiety and Depression Scale - I get a sort of frightened feeling like 'butterflies' in the stomach.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HADS - I Get Frightened Feeling Like Butterflies in the Stomach</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HADS0110" nciodm:ExtCodeID="C103582">
+                    <nciodm:CDISCSynonym>HADS01-Lost Interest in My Appearance</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hospital Anxiety and Depression Scale - I have lost interest in my appearance.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HADS - I Have Lost Interest in My Appearance</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HADS0111" nciodm:ExtCodeID="C103583">
+                    <nciodm:CDISCSynonym>HADS01-Feel Restless be on the Move</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hospital Anxiety and Depression Scale - I feel restless as if I have to be on the move.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HADS - I Feel Restless as if I Have to be on the Move</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HADS0112" nciodm:ExtCodeID="C103584">
+                    <nciodm:CDISCSynonym>HADS01-Look Forward with Enjoyment</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hospital Anxiety and Depression Scale - I look forward with enjoyment to things.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HADS - I Look Forward with Enjoyment to Things</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HADS0113" nciodm:ExtCodeID="C103585">
+                    <nciodm:CDISCSynonym>HADS01-I Get Sudden Feelings of Panic</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hospital Anxiety and Depression Scale - I get sudden feelings of panic.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HADS - I Get Sudden Feelings of Panic</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HADS0114" nciodm:ExtCodeID="C103586">
+                    <nciodm:CDISCSynonym>HADS01-Enjoy Good Book/Radio/Television</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hospital Anxiety and Depression Scale - I can enjoy a good book or radio or television programme.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HADS - I Can Enjoy a Good Book or Radio or Television Programme</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HADS0115" nciodm:ExtCodeID="C118111">
+                    <nciodm:CDISCSynonym>HADS01-Total Score Anxiety</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hospital Anxiety and Depression Scale - Total score anxiety.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HADS - Total Score Anxiety</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HADS0116" nciodm:ExtCodeID="C118112">
+                    <nciodm:CDISCSynonym>HADS01-Total Score Depression</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hospital Anxiety and Depression Scale - Total score depression.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HADS - Total Score Depression</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>HADS TESTCD</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Hospital Anxiety and Depression Scale Questionnaire Test Code</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Questionnaire HADS Test Code Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

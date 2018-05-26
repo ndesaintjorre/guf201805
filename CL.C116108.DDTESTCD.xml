@@ -2,6 +2,11 @@
                 <Description>
                     <TranslatedText xml:lang="en">Terminology relevant to the death detail assessment short name.</TranslatedText>
                 </Description>
+                <EnumeratedItem CodedValue="LOCDTH" nciodm:ExtCodeID="C124331">
+                    <nciodm:CDISCSynonym>Location of Death</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The physical location at which the subject ceased to live.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Location of Death</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="PRCDTH" nciodm:ExtCodeID="C99531">
                     <nciodm:CDISCSynonym>Primary Cause of Death</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The primary significant event which ultimately led to death.</nciodm:CDISCDefinition>

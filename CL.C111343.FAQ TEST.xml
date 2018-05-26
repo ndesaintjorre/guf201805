@@ -1,0 +1,64 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C111343.FAQ TEST" Name="Functional Activities Questionnaire Test Name" DataType="text" nciodm:ExtCodeID="C111343" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Functional Activities Questionnaire test name.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="FAQ01-Assembling" nciodm:ExtCodeID="C111500">
+                    <nciodm:CDISCSynonym>FAQ01-Assembling</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Activities Questionnaire - Assembling tax records, business affairs, or papers.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FAQ - Assemble</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAQ01-Heat Water/Make Coffee/Stove Off" nciodm:ExtCodeID="C111503">
+                    <nciodm:CDISCSynonym>FAQ01-Heat Water/Make Coffee/Stove Off</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Activities Questionnaire - Heating water, making a cup of coffee, turning off stove after use.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FAQ - Heat water, Make Coffee, Turn Off Stove</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAQ01-Keeping Track of Current Events" nciodm:ExtCodeID="C111505">
+                    <nciodm:CDISCSynonym>FAQ01-Keeping Track of Current Events</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Activities Questionnaire - Keeping track of current events.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FAQ - Keep Track of Current Events</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAQ01-Paying Attention" nciodm:ExtCodeID="C111506">
+                    <nciodm:CDISCSynonym>FAQ01-Paying Attention</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Activities Questionnaire - Paying attention to, understanding, discussing TV, book, magazine.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FAQ - Pay Attention, Understand, Discuss</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAQ01-Playing a Game of Skill" nciodm:ExtCodeID="C111502">
+                    <nciodm:CDISCSynonym>FAQ01-Playing a Game of Skill</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Activities Questionnaire - Playing a game of skill, working on a hobby.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FAQ - Play Game of Skill, Work on Hobby</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAQ01-Preparing a Balanced Meal" nciodm:ExtCodeID="C111504">
+                    <nciodm:CDISCSynonym>FAQ01-Preparing a Balanced Meal</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Activities Questionnaire - Preparing a balanced meal.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FAQ - Prepare a Meal</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAQ01-Remembering" nciodm:ExtCodeID="C111507">
+                    <nciodm:CDISCSynonym>FAQ01-Remembering</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Activities Questionnaire - Remembering appointments, family occasions, holidays, medications.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FAQ - Remember</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAQ01-Shopping Alone" nciodm:ExtCodeID="C111501">
+                    <nciodm:CDISCSynonym>FAQ01-Shopping Alone</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Activities Questionnaire - Shopping alone for clothes, household necessities, or groceries.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FAQ - Shop Alone</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAQ01-Total Score" nciodm:ExtCodeID="C111509">
+                    <nciodm:CDISCSynonym>FAQ01-Total Score</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Activities Questionnaire - Total Score.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FAQ - Total Score</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAQ01-Traveling" nciodm:ExtCodeID="C111508">
+                    <nciodm:CDISCSynonym>FAQ01-Traveling</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Activities Questionnaire - Traveling out of neighborhood, driving, arranging to take buses.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FAQ - Travel</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAQ01-Write Checks/Pay Bills/Checkbook" nciodm:ExtCodeID="C111499">
+                    <nciodm:CDISCSynonym>FAQ01-Write Checks/Pay Bills/Checkbook</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Activities Questionnaire - Writing checks, paying bills, balancing checkbook.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FAQ - Write checks, Pay bills, Balance checkbook</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>FAQ TEST</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Functional Activities Questionnaire Test Name</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Questionnaire FAQ Test Name Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

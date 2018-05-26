@@ -1,0 +1,24 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C124304.SSTATRS" Name="Subject Status Response" DataType="text" nciodm:ExtCodeID="C124304" nciodm:CodeListExtensible="Yes">
+                <Description>
+                    <TranslatedText xml:lang="en">Terminology relevant to subject status responses.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="ALIVE" nciodm:ExtCodeID="C37987">
+                    <nciodm:CDISCDefinition>Living; showing characteristics of life.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Life</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DEAD" nciodm:ExtCodeID="C28554">
+                    <nciodm:CDISCSynonym>Died</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The absence of life or state of being dead. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Death</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UNKNOWN" nciodm:ExtCodeID="C17998">
+                    <nciodm:CDISCSynonym>U</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Unknown</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Not known, not observed, not recorded, or refused. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Unknown</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>SSTATRS</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Subject Status Response</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Subject Status Response Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

@@ -1,0 +1,559 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C100131.ADAS-COG CDISC VERSION TEST" Name="Alzheimer's Disease Assessment Scale - Cognitive CDISC Version Test Name" DataType="text" nciodm:ExtCodeID="C100131" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">ADAS-Cog CDISC Version test name.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="Attempt to Draw" nciodm:ExtCodeID="C100231">
+                    <nciodm:CDISCSynonym>Attempt to Draw</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Constructional praxis attempted to draw, but drew no forms correctly.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Attempt to Draw</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Commands" nciodm:ExtCodeID="C100209">
+                    <nciodm:CDISCSynonym>Commands</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Summary score for commands.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Commands Summary Score</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Commands: Ceiling" nciodm:ExtCodeID="C100211">
+                    <nciodm:CDISCSynonym>Commands: Ceiling</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Commands task for pointing to the ceiling then to the floor.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Commands: Ceiling</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Commands: Fist" nciodm:ExtCodeID="C100210">
+                    <nciodm:CDISCSynonym>Commands: Fist</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Commands task for making a fist.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Commands: Fist</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Commands: Pencil" nciodm:ExtCodeID="C100212">
+                    <nciodm:CDISCSynonym>Commands: Pencil</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Commands task for put the pencil on top of the card and then put it back.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Commands: Pencil</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Commands: Shoulder" nciodm:ExtCodeID="C100214">
+                    <nciodm:CDISCSynonym>Commands: Shoulder</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Commands task for tap each shoulder twice with two fingers keeping your eyes shut.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Commands: Shoulder</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Commands: Watch" nciodm:ExtCodeID="C100213">
+                    <nciodm:CDISCSynonym>Commands: Watch</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Commands task for put the watch on the other side of the pencil and then turn over the card.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Commands: Watch</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Comprehension" nciodm:ExtCodeID="C100278">
+                    <nciodm:CDISCSynonym>Comprehension</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Ability to comprehend speech.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Comprehension</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Concentration/Distractibility" nciodm:ExtCodeID="C100279">
+                    <nciodm:CDISCSynonym>Concentration/Distractibility</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Ability to concentrate or easily be distracted.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Concentration/Distractibility</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Constructional Praxis" nciodm:ExtCodeID="C100226">
+                    <nciodm:CDISCSynonym>Constructional Praxis</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Summary score for constructional praxis.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Constructional Praxis Summary Score</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Constructional Praxis: 2 Rectangles" nciodm:ExtCodeID="C100228">
+                    <nciodm:CDISCSynonym>Constructional Praxis: 2 Rectangles</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Constructional praxis task for copying two overlapping rectangles.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Constructional Praxis: 2 Rectangles</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Constructional Praxis: Circle" nciodm:ExtCodeID="C100227">
+                    <nciodm:CDISCSynonym>Constructional Praxis: Circle</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Constructional praxis task for copying a circle.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Constructional Praxis: Circle</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Constructional Praxis: Cube" nciodm:ExtCodeID="C100230">
+                    <nciodm:CDISCSynonym>Constructional Praxis: Cube</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Constructional praxis task for copying a cube.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Constructional Praxis: Cube</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Constructional Praxis: Diamond" nciodm:ExtCodeID="C100229">
+                    <nciodm:CDISCSynonym>Constructional Praxis: Diamond</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Constructional praxis task for copying a diamond.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Constructional Praxis: Diamond</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Delayed Word Recall" nciodm:ExtCodeID="C100215">
+                    <nciodm:CDISCSynonym>Delayed Word Recall</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Summary score for delayed word recall.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Delayed Word Recall Summary Score</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Delayed Word Recall: Word [10]" nciodm:ExtCodeID="C100225">
+                    <nciodm:CDISCSynonym>Delayed Word Recall: Word [10]</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Delayed word recall task for word 10.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Delayed Word Recall: Word 10</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Delayed Word Recall: Word [1]" nciodm:ExtCodeID="C100216">
+                    <nciodm:CDISCSynonym>Delayed Word Recall: Word [1]</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Delayed word recall task for word 1.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Delayed Word Recall: Word 1</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Delayed Word Recall: Word [2]" nciodm:ExtCodeID="C100217">
+                    <nciodm:CDISCSynonym>Delayed Word Recall: Word [2]</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Delayed word recall task for word 2.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Delayed Word Recall: Word 2</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Delayed Word Recall: Word [3]" nciodm:ExtCodeID="C100218">
+                    <nciodm:CDISCSynonym>Delayed Word Recall: Word [3]</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Delayed word recall task for word 3.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Delayed Word Recall: Word 3</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Delayed Word Recall: Word [4]" nciodm:ExtCodeID="C100219">
+                    <nciodm:CDISCSynonym>Delayed Word Recall: Word [4]</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Delayed word recall task for word 4.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Delayed Word Recall: Word 4</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Delayed Word Recall: Word [5]" nciodm:ExtCodeID="C100220">
+                    <nciodm:CDISCSynonym>Delayed Word Recall: Word [5]</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Delayed word recall task for word 5.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Delayed Word Recall: Word 5</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Delayed Word Recall: Word [6]" nciodm:ExtCodeID="C100221">
+                    <nciodm:CDISCSynonym>Delayed Word Recall: Word [6]</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Delayed word recall task for word 6.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Delayed Word Recall: Word 6</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Delayed Word Recall: Word [7]" nciodm:ExtCodeID="C100222">
+                    <nciodm:CDISCSynonym>Delayed Word Recall: Word [7]</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Delayed word recall task for word 7.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Delayed Word Recall: Word 7</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Delayed Word Recall: Word [8]" nciodm:ExtCodeID="C100223">
+                    <nciodm:CDISCSynonym>Delayed Word Recall: Word [8]</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Delayed word recall task for word 8.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Delayed Word Recall: Word 8</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Delayed Word Recall: Word [9]" nciodm:ExtCodeID="C100224">
+                    <nciodm:CDISCSynonym>Delayed Word Recall: Word [9]</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Delayed word recall task for word 9.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Delayed Word Recall: Word 9</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Executive Function Maze" nciodm:ExtCodeID="C100284">
+                    <nciodm:CDISCSynonym>Executive Function Maze</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Summary score for the executive function maze tasks.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Executive Function Maze Summary Score</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Executive Function Maze: Errors" nciodm:ExtCodeID="C100285">
+                    <nciodm:CDISCSynonym>Executive Function Maze: Errors</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Number of errors during the executive function maze task.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Executive Function Maze: Errors</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Executive Function Maze: Time" nciodm:ExtCodeID="C100286">
+                    <nciodm:CDISCSynonym>Executive Function Maze: Time</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - The time in seconds stored in ISO 8601 time for the executive function maze task.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Executive Function Maze: Time</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Ideational Praxis" nciodm:ExtCodeID="C100232">
+                    <nciodm:CDISCSynonym>Ideational Praxis</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Summary score for ideational praxis.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Ideational Praxis Summary Score</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Ideational Praxis: Address" nciodm:ExtCodeID="C100236">
+                    <nciodm:CDISCSynonym>Ideational Praxis: Address</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Ideational praxis task for address the envelop to yourself.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Ideational Praxis: Address</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Ideational Praxis: Fold" nciodm:ExtCodeID="C100233">
+                    <nciodm:CDISCSynonym>Ideational Praxis: Fold</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Ideational praxis task for folding the paper.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Ideational Praxis: Fold</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Ideational Praxis: Insert" nciodm:ExtCodeID="C100234">
+                    <nciodm:CDISCSynonym>Ideational Praxis: Insert</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Ideational praxis task for put the paper in the envelop.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Ideational Praxis: Insert</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Ideational Praxis: Seal" nciodm:ExtCodeID="C100235">
+                    <nciodm:CDISCSynonym>Ideational Praxis: Seal</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Ideational praxis task for seal the envelop.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Ideational Praxis: Seal</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Ideational Praxis: Stamp" nciodm:ExtCodeID="C100237">
+                    <nciodm:CDISCSynonym>Ideational Praxis: Stamp</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Ideational praxis task for showing where the stamp goes.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Ideational Praxis: Stamp</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Naming Objects and Fingers" nciodm:ExtCodeID="C100191">
+                    <nciodm:CDISCSynonym>Naming Objects and Fingers</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Naming task summary score for object and fingers.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Naming Objects and Fingers Summary Score</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Naming Objects and Fingers: 1" nciodm:ExtCodeID="C100192">
+                    <nciodm:CDISCSynonym>Naming Objects and Fingers: 1</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Naming task for object 1.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Naming Objects and Fingers: 1</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Naming Objects and Fingers: 10" nciodm:ExtCodeID="C100201">
+                    <nciodm:CDISCSynonym>Naming Objects and Fingers: 10</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Naming task for object 10.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Naming Objects and Fingers: 10</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Naming Objects and Fingers: 11" nciodm:ExtCodeID="C100202">
+                    <nciodm:CDISCSynonym>Naming Objects and Fingers: 11</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Naming task for object 11.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Naming Objects and Fingers: 11</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Naming Objects and Fingers: 12" nciodm:ExtCodeID="C100203">
+                    <nciodm:CDISCSynonym>Naming Objects and Fingers: 12</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Naming task for object 12.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Naming Objects and Fingers: 12</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Naming Objects and Fingers: 2" nciodm:ExtCodeID="C100193">
+                    <nciodm:CDISCSynonym>Naming Objects and Fingers: 2</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Naming task for object 2.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Naming Objects and Fingers: 2</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Naming Objects and Fingers: 3" nciodm:ExtCodeID="C100194">
+                    <nciodm:CDISCSynonym>Naming Objects and Fingers: 3</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Naming task for object 3.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Naming Objects and Fingers: 3</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Naming Objects and Fingers: 4" nciodm:ExtCodeID="C100195">
+                    <nciodm:CDISCSynonym>Naming Objects and Fingers: 4</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Naming task for object 4.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Naming Objects and Fingers: 4</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Naming Objects and Fingers: 5" nciodm:ExtCodeID="C100196">
+                    <nciodm:CDISCSynonym>Naming Objects and Fingers: 5</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Naming task for object 5.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Naming Objects and Fingers: 5</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Naming Objects and Fingers: 6" nciodm:ExtCodeID="C100197">
+                    <nciodm:CDISCSynonym>Naming Objects and Fingers: 6</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Naming task for object 6.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Naming Objects and Fingers: 6</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Naming Objects and Fingers: 7" nciodm:ExtCodeID="C100198">
+                    <nciodm:CDISCSynonym>Naming Objects and Fingers: 7</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Naming task for object 7.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Naming Objects and Fingers: 7</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Naming Objects and Fingers: 8" nciodm:ExtCodeID="C100199">
+                    <nciodm:CDISCSynonym>Naming Objects and Fingers: 8</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Naming task for object 8.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Naming Objects and Fingers: 8</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Naming Objects and Fingers: 9" nciodm:ExtCodeID="C100200">
+                    <nciodm:CDISCSynonym>Naming Objects and Fingers: 9</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Naming task for object 9.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Naming Objects and Fingers: 9</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Naming Objects and Fingers: Middle" nciodm:ExtCodeID="C100206">
+                    <nciodm:CDISCSynonym>Naming Objects and Fingers: Middle</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Naming task for fingers of the dominant hand, middle finger.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Naming Objects and Fingers: Middle</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Naming Objects and Fingers: Pinky" nciodm:ExtCodeID="C100208">
+                    <nciodm:CDISCSynonym>Naming Objects and Fingers: Pinky</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Naming task for fingers of the dominant hand, little finger or pinky.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Naming Objects and Fingers: Pinky</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Naming Objects and Fingers: Pointer" nciodm:ExtCodeID="C100205">
+                    <nciodm:CDISCSynonym>Naming Objects and Fingers: Pointer</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Naming task for fingers of the dominant hand, index, or pointer finger.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Naming Objects and Fingers: Pointer</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Naming Objects and Fingers: Ring" nciodm:ExtCodeID="C100207">
+                    <nciodm:CDISCSynonym>Naming Objects and Fingers: Ring</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Naming task for fingers of the dominant hand, ring finger.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Naming Objects and Fingers: Ring</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Naming Objects and Fingers: Thumb" nciodm:ExtCodeID="C100204">
+                    <nciodm:CDISCSynonym>Naming Objects and Fingers: Thumb</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Naming task for fingers of the dominant hand, thumb.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Naming Objects and Fingers: Thumb</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Number Cancellation" nciodm:ExtCodeID="C100280">
+                    <nciodm:CDISCSynonym>Number Cancellation</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Summary score for the number cancellation tasks.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Number Cancellation Summary Score</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Number Cancellation: Correct" nciodm:ExtCodeID="C100281">
+                    <nciodm:CDISCSynonym>Number Cancellation: Correct</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Number of targets hit during the number cancellation task.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Number Cancellation: Correct</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Number Cancellation: Errors" nciodm:ExtCodeID="C100282">
+                    <nciodm:CDISCSynonym>Number Cancellation: Errors</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Number of errors during the number cancellation task.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Number Cancellation: Errors</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Number Cancellation: Remind" nciodm:ExtCodeID="C100283">
+                    <nciodm:CDISCSynonym>Number Cancellation: Remind</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Number of times reminded for the number cancellation task.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Number Cancellation: Remind</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Orientation" nciodm:ExtCodeID="C100238">
+                    <nciodm:CDISCSynonym>Orientation</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Summary score for orientation.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Orientation Summary Score</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Orientation: Date" nciodm:ExtCodeID="C100241">
+                    <nciodm:CDISCSynonym>Orientation: Date</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Orientation task for knowing the current day.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Orientation: Date</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Orientation: Day of Week" nciodm:ExtCodeID="C100243">
+                    <nciodm:CDISCSynonym>Orientation: Day of Week</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Orientation task for knowing the current day of the week.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Orientation: Day of Week</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Orientation: Full Name" nciodm:ExtCodeID="C100239">
+                    <nciodm:CDISCSynonym>Orientation: Full Name</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Orientation task for knowing one's own full name.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Orientation: Full Name</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Orientation: Month" nciodm:ExtCodeID="C100240">
+                    <nciodm:CDISCSynonym>Orientation: Month</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Orientation task for knowing the current month.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Orientation: Month</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Orientation: Place" nciodm:ExtCodeID="C100245">
+                    <nciodm:CDISCSynonym>Orientation: Place</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Orientation task for knowing the current place.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Orientation: Place</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Orientation: Season" nciodm:ExtCodeID="C100244">
+                    <nciodm:CDISCSynonym>Orientation: Season</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Orientation task for knowing the current season.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Orientation: Season</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Orientation: Time" nciodm:ExtCodeID="C100246">
+                    <nciodm:CDISCSynonym>Orientation: Time</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Orientation task for knowing the approximate current clock time.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Orientation: Time</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Orientation: Year" nciodm:ExtCodeID="C100242">
+                    <nciodm:CDISCSynonym>Orientation: Year</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Orientation task for knowing the current year.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Orientation: Year</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Remembering Test Instructions" nciodm:ExtCodeID="C100275">
+                    <nciodm:CDISCSynonym>Remembering Test Instructions</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Remembering test instructions.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Remembering Test Instructions</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Spoken Language Ability" nciodm:ExtCodeID="C100276">
+                    <nciodm:CDISCSynonym>Spoken Language Ability</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Global rating of the quality of speech, or difficulty in making oneself understood.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Spoken Language Ability</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Word Finding Difficulty in Spont Speech" nciodm:ExtCodeID="C100277">
+                    <nciodm:CDISCSynonym>Word Finding Difficulty in Spont Speech</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Difficulty finding the desired word in spontaneous speech.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Word Difficulty in Spontaneous Speech</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Word Recall" nciodm:ExtCodeID="C100177">
+                    <nciodm:CDISCSynonym>Word Recall</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Word recall task word average score of trials 1, 2, 3.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Word Recall Average Score</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Word Recall Trial 1" nciodm:ExtCodeID="C100178">
+                    <nciodm:CDISCSynonym>Word Recall Trial 1</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Sub-score for word recall task trial 1.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Word Recall Trial 1 Subscore</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Word Recall Trial 2" nciodm:ExtCodeID="C100179">
+                    <nciodm:CDISCSynonym>Word Recall Trial 2</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Sub-score for word recall task trial 2.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Word Recall Trial 2 Subscore</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Word Recall Trial 3" nciodm:ExtCodeID="C100180">
+                    <nciodm:CDISCSynonym>Word Recall Trial 3</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Sub-score for word recall task trial 3.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Word Recall Trial 3 Subscore</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Word Recall: Word [10]" nciodm:ExtCodeID="C100190">
+                    <nciodm:CDISCSynonym>Word Recall: Word [10]</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Word recall task word 10 for trial 1, 2, 3.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Word Recall: Word 10</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Word Recall: Word [1]" nciodm:ExtCodeID="C100181">
+                    <nciodm:CDISCSynonym>Word Recall: Word [1]</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Word recall task word 1 for trial 1, 2, 3.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Word Recall: Word 1</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Word Recall: Word [2]" nciodm:ExtCodeID="C100182">
+                    <nciodm:CDISCSynonym>Word Recall: Word [2]</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Word recall task word 2 for trial 1, 2, 3.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Word Recall: Word 2</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Word Recall: Word [3]" nciodm:ExtCodeID="C100183">
+                    <nciodm:CDISCSynonym>Word Recall: Word [3]</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Word recall task word 3 for trial 1, 2, 3.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Word Recall: Word 3</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Word Recall: Word [4]" nciodm:ExtCodeID="C100184">
+                    <nciodm:CDISCSynonym>Word Recall: Word [4]</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Word recall task word 4 for trial 1, 2, 3.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Word Recall: Word 4</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Word Recall: Word [5]" nciodm:ExtCodeID="C100185">
+                    <nciodm:CDISCSynonym>Word Recall: Word [5]</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Word recall task word 5 for trial 1, 2, 3.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Word Recall: Word 5</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Word Recall: Word [6]" nciodm:ExtCodeID="C100186">
+                    <nciodm:CDISCSynonym>Word Recall: Word [6]</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Word recall task word 6 for trial 1, 2, 3.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Word Recall: Word 6</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Word Recall: Word [7]" nciodm:ExtCodeID="C100187">
+                    <nciodm:CDISCSynonym>Word Recall: Word [7]</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Word recall task word 7 for trial 1, 2, 3.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Word Recall: Word 7</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Word Recall: Word [8]" nciodm:ExtCodeID="C100188">
+                    <nciodm:CDISCSynonym>Word Recall: Word [8]</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Word recall task word 8 for trial 1, 2, 3.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Word Recall: Word 8</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Word Recall: Word [9]" nciodm:ExtCodeID="C100189">
+                    <nciodm:CDISCSynonym>Word Recall: Word [9]</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Word recall task word 9 for trial 1, 2, 3.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Word Recall: Word 9</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Word Recognition" nciodm:ExtCodeID="C100247">
+                    <nciodm:CDISCSynonym>Word Recognition</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Summary score for word recognition across trials 1-3.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Word Recognition Summary Score</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Word Recognition Trial 1" nciodm:ExtCodeID="C100248">
+                    <nciodm:CDISCSynonym>Word Recognition Trial 1</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Sub-score for word recognition trial 1.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Word Recognition Trial 1 Summary Score</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Word Recognition Trial 2" nciodm:ExtCodeID="C100249">
+                    <nciodm:CDISCSynonym>Word Recognition Trial 2</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Sub-score for word recognition trial 2.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Word Recognition Trial 2 Summary Score</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Word Recognition Trial 3" nciodm:ExtCodeID="C100250">
+                    <nciodm:CDISCSynonym>Word Recognition Trial 3</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Sub-score for word recognition trial 3.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Word Recognition Trial 3 Summary Score</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Word Recognition: Word [10]" nciodm:ExtCodeID="C100260">
+                    <nciodm:CDISCSynonym>Word Recognition: Word [10]</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Word recognition task for word 10 Trials 1, 2, 3.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Word Recognition: Word 10</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Word Recognition: Word [11]" nciodm:ExtCodeID="C100261">
+                    <nciodm:CDISCSynonym>Word Recognition: Word [11]</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Word recognition task for word 11 Trials 1, 2, 3.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Word Recognition: Word 11</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Word Recognition: Word [12]" nciodm:ExtCodeID="C100262">
+                    <nciodm:CDISCSynonym>Word Recognition: Word [12]</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Word recognition task for word 12 Trials 1, 2, 3.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Word Recognition: Word 12</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Word Recognition: Word [13]" nciodm:ExtCodeID="C100263">
+                    <nciodm:CDISCSynonym>Word Recognition: Word [13]</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Word recognition task for word 13 Trials 1, 2, 3.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Word Recognition: Word 13</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Word Recognition: Word [14]" nciodm:ExtCodeID="C100264">
+                    <nciodm:CDISCSynonym>Word Recognition: Word [14]</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Word recognition task for word 14 Trials 1, 2, 3.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Word Recognition: Word 14</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Word Recognition: Word [15]" nciodm:ExtCodeID="C100265">
+                    <nciodm:CDISCSynonym>Word Recognition: Word [15]</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Word recognition task for word 15 Trials 1, 2, 3.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Word Recognition: Word 15</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Word Recognition: Word [16]" nciodm:ExtCodeID="C100266">
+                    <nciodm:CDISCSynonym>Word Recognition: Word [16]</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Word recognition task for word 16 Trials 1, 2, 3.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Word Recognition: Word 16</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Word Recognition: Word [17]" nciodm:ExtCodeID="C100267">
+                    <nciodm:CDISCSynonym>Word Recognition: Word [17]</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Word recognition task for word 17 Trials 1, 2, 3.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Word Recognition: Word 17</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Word Recognition: Word [18]" nciodm:ExtCodeID="C100268">
+                    <nciodm:CDISCSynonym>Word Recognition: Word [18]</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Word recognition task for word 18 Trials 1, 2, 3.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Word Recognition: Word 18</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Word Recognition: Word [19]" nciodm:ExtCodeID="C100269">
+                    <nciodm:CDISCSynonym>Word Recognition: Word [19]</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Word recognition task for word 19 Trials 1, 2, 3.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Word Recognition: Word 19</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Word Recognition: Word [1]" nciodm:ExtCodeID="C100251">
+                    <nciodm:CDISCSynonym>Word Recognition: Word [1]</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Word recognition task for word 1 Trials 1, 2, 3.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Word Recognition: Word 1</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Word Recognition: Word [20]" nciodm:ExtCodeID="C100270">
+                    <nciodm:CDISCSynonym>Word Recognition: Word [20]</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Word recognition task for word 20 Trials 1, 2, 3.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Word Recognition: Word 20</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Word Recognition: Word [21]" nciodm:ExtCodeID="C100271">
+                    <nciodm:CDISCSynonym>Word Recognition: Word [21]</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Word recognition task for word 21 Trials 1, 2, 3.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Word Recognition: Word 21</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Word Recognition: Word [22]" nciodm:ExtCodeID="C100272">
+                    <nciodm:CDISCSynonym>Word Recognition: Word [22]</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Word recognition task for word 22 Trials 1, 2, 3.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Word Recognition: Word 22</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Word Recognition: Word [23]" nciodm:ExtCodeID="C100273">
+                    <nciodm:CDISCSynonym>Word Recognition: Word [23]</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Word recognition task for word 23 Trials 1, 2, 3.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Word Recognition: Word 23</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Word Recognition: Word [24]" nciodm:ExtCodeID="C100274">
+                    <nciodm:CDISCSynonym>Word Recognition: Word [24]</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Word recognition task for word 24 Trials 1, 2, 3.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Word Recognition: Word 24</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Word Recognition: Word [2]" nciodm:ExtCodeID="C100252">
+                    <nciodm:CDISCSynonym>Word Recognition: Word [2]</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Word recognition task for word 2 Trials 1, 2, 3.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Word Recognition: Word 2</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Word Recognition: Word [3]" nciodm:ExtCodeID="C100253">
+                    <nciodm:CDISCSynonym>Word Recognition: Word [3]</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Word recognition task for word 3 Trials 1, 2, 3.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Word Recognition: Word 3</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Word Recognition: Word [4]" nciodm:ExtCodeID="C100254">
+                    <nciodm:CDISCSynonym>Word Recognition: Word [4]</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Word recognition task for word 4 Trials 1, 2, 3.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Word Recognition: Word 4</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Word Recognition: Word [5]" nciodm:ExtCodeID="C100255">
+                    <nciodm:CDISCSynonym>Word Recognition: Word [5]</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Word recognition task for word 5 Trials 1, 2, 3.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Word Recognition: Word 5</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Word Recognition: Word [6]" nciodm:ExtCodeID="C100256">
+                    <nciodm:CDISCSynonym>Word Recognition: Word [6]</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Word recognition task for word 6 Trials 1, 2, 3.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Word Recognition: Word 6</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Word Recognition: Word [7]" nciodm:ExtCodeID="C100257">
+                    <nciodm:CDISCSynonym>Word Recognition: Word [7]</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Word recognition task for word 7 Trials 1, 2, 3.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Word Recognition: Word 7</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Word Recognition: Word [8]" nciodm:ExtCodeID="C100258">
+                    <nciodm:CDISCSynonym>Word Recognition: Word [8]</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Word recognition task for word 8 Trials 1, 2, 3.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Word Recognition: Word 8</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Word Recognition: Word [9]" nciodm:ExtCodeID="C100259">
+                    <nciodm:CDISCSynonym>Word Recognition: Word [9]</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version - Word recognition task for word 9 Trials 1, 2, 3.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC ADAS-Cog - Word Recognition: Word 9</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>ADAS-COG CDISC VERSION TEST</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Alzheimer's Disease Assessment Scale - Cognitive CDISC Version Test Name</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Questionnaire ADAS-Cog CDISC Version Test Name Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

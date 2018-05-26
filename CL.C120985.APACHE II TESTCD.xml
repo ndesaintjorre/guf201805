@@ -1,0 +1,99 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C120985.APACHE II TESTCD" Name="Acute Physiology and Chronic Health Evaluation II Clinical Classification Test Code" DataType="text" nciodm:ExtCodeID="C120985" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Acute Physiology and Chronic Health Evaluation II test code.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="APCH101" nciodm:ExtCodeID="C121096">
+                    <nciodm:CDISCSynonym>APCH1-Temperature - Rectal</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Acute Physiology and Chronic Health Evaluation II - Temperature - rectal (degree C).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>APACHE II - Temperature, Rectal</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="APCH102" nciodm:ExtCodeID="C121097">
+                    <nciodm:CDISCSynonym>APCH1-Mean Arterial Pressure</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Acute Physiology and Chronic Health Evaluation II - Mean arterial pressure - mm Hg.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>APACHE II - Mean Arterial Pressure</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="APCH103" nciodm:ExtCodeID="C121098">
+                    <nciodm:CDISCSynonym>APCH1-Heart Rate</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Acute Physiology and Chronic Health Evaluation II - Heart rate (ventricular response).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>APACHE II - Heart Rate</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="APCH104" nciodm:ExtCodeID="C121099">
+                    <nciodm:CDISCSynonym>APCH1-Respiratory Rate</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Acute Physiology and Chronic Health Evaluation II - Respiratory rate (non-ventilated or ventilated).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>APACHE II - Respiratory Rate</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="APCH105A" nciodm:ExtCodeID="C121100">
+                    <nciodm:CDISCSynonym>APCH1-Oxygenation: A-aDO2</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Acute Physiology and Chronic Health Evaluation II - Oxygenation (mm Hg): FIO2 greater than or equal to 0.5 record A-aDO2.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>APACHE II - Oxygenation, A-aDO2</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="APCH105B" nciodm:ExtCodeID="C121101">
+                    <nciodm:CDISCSynonym>APCH1-Oxygenation: PaO2</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Acute Physiology and Chronic Health Evaluation II - Oxygenation (mm Hg): FIO2 less than 0.5 record only PaO2.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>APACHE II - Oxygenation, PaO2</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="APCH106A" nciodm:ExtCodeID="C121102">
+                    <nciodm:CDISCSynonym>APCH1-Arterial pH</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Acute Physiology and Chronic Health Evaluation II - Arterial pH (preferred).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>APACHE II - Arterial pH</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="APCH106B" nciodm:ExtCodeID="C121103">
+                    <nciodm:CDISCSynonym>APCH1-Serum HCO3</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Acute Physiology and Chronic Health Evaluation II - Serum HCO3 (venous mMol/L) (Not preferred, use if no ABGs).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>APACHE II - Serum HCO3</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="APCH107" nciodm:ExtCodeID="C121104">
+                    <nciodm:CDISCSynonym>APCH1-Serum Sodium</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Acute Physiology and Chronic Health Evaluation II - Serum sodium (mMol/L).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>APACHE II - Serum Sodium</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="APCH108" nciodm:ExtCodeID="C121105">
+                    <nciodm:CDISCSynonym>APCH1-Serum Potassium</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Acute Physiology and Chronic Health Evaluation II - Serum potassium (mMol/L).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>APACHE II - Serum Potassium</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="APCH109" nciodm:ExtCodeID="C121106">
+                    <nciodm:CDISCSynonym>APCH1-Serum Creatinine</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Acute Physiology and Chronic Health Evaluation II - Serum creatinine (mg/100 mL) (double point score for acute renal failure).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>APACHE II - Serum Creatinine</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="APCH110" nciodm:ExtCodeID="C121107">
+                    <nciodm:CDISCSynonym>APCH1-Hematocrit</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Acute Physiology and Chronic Health Evaluation II - Hematocrit (%).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>APACHE II - Hematocrit</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="APCH111" nciodm:ExtCodeID="C121108">
+                    <nciodm:CDISCSynonym>APCH1-White Blood Count</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Acute Physiology and Chronic Health Evaluation II - White blood count (total/mm3) (in 1,000s).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>APACHE II - White Blood Count</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="APCH112" nciodm:ExtCodeID="C121109">
+                    <nciodm:CDISCSynonym>APCH1-15 Minus Glasgow Coma Score</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Acute Physiology and Chronic Health Evaluation II - Glasgow coma score: Score equals 15 minus actual GCS.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>APACHE II - 15 Minus Glasgow Coma Score</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="APCH113" nciodm:ExtCodeID="C121110">
+                    <nciodm:CDISCSynonym>APCH1-A: Total Acute Physiology Score</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Acute Physiology and Chronic Health Evaluation II - A: Total acute physiology score.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>APACHE II - A, Total Acute Physiology Score</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="APCH114" nciodm:ExtCodeID="C121111">
+                    <nciodm:CDISCSynonym>APCH1-B: Age Points</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Acute Physiology and Chronic Health Evaluation II - B: Age points (years).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>APACHE II - B, Age Points</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="APCH115" nciodm:ExtCodeID="C121112">
+                    <nciodm:CDISCSynonym>APCH1-C: Chronic Health Points</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Acute Physiology and Chronic Health Evaluation II - C: Chronic health points.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>APACHE II - C, Chronic Health Points</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="APCH116" nciodm:ExtCodeID="C121113">
+                    <nciodm:CDISCSynonym>APCH1-Total APACHE II Score</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Acute Physiology and Chronic Health Evaluation II - Total APACHE II score.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>APACHE II - Total APACHE II Score</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>APACHE II TESTCD</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Acute Physiology and Chronic Health Evaluation II Clinical Classification Test Code</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Clinical Classification APACHE II Test Code Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

@@ -1,0 +1,129 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C118971.CCCAT" Name="Category of Clinical Classification" DataType="text" nciodm:ExtCodeID="C118971" nciodm:CodeListExtensible="Yes">
+                <Description>
+                    <TranslatedText xml:lang="en">A grouping of observations within the Clinical Classification domain.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="APACHE II" nciodm:ExtCodeID="C121005">
+                    <nciodm:CDISCSynonym>APCH1</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Acute Physiology and Chronic Health Evaluation II (APACHE II) (Knaus WA, Draper EA, Wagner DP, Zimmerman JE. APACHE II: a severity of disease classification system. Critical Care Medicine 1985; 13(10):818-29).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Acute Physiology and Chronic Health Evaluation II Clinical Classification</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ARC STC GRADE" nciodm:ExtCodeID="C119107">
+                    <nciodm:CDISCSynonym>STCG01</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Stent Thrombosis Coronary ARC Grade (Cutlip DE, Windecker S, Mehran R, et al. Clinical End Points in Coronary Stent Trials : A Case for Standardized Definitions. Circulation. 2007;115:2344-2351).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Stent Thrombosis Coronary ARC Grade Clinical Classification</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ASCVD 10-YEAR RISK" nciodm:ExtCodeID="C124705">
+                    <nciodm:CDISCSynonym>ASCVD1</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Atherosclerotic Cardiovascular Disease 10-Year Risk Estimator (Goff Jr DC et al. 2013 ACC/AHA Guideline on the Assessment of Cardiovascular Risk: A Report of the American College of Cardiology/American Heart Association Task Force on Practice Guidelines. Circulation 2014; 129: S49-S73).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Atherosclerotic Cardiovascular Disease 10-Year Risk Estimator Clinical Classification</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ASSIGN CVD 10-YEAR RISK" nciodm:ExtCodeID="C124706">
+                    <nciodm:CDISCSynonym>ASSG01</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>ASSIGN Cardiovascular Disease 10-Year Risk Score (Woodward M, Brindle P, Tunstall-Pedoe H, for the SIGN group on risk estimation. Adding social deprivation and family history to cardiovascular risk assessment: the ASSIGN score from the Scottish Heart Health Extended Cohort (SHHEC). Heart 2007; 93: 172-176).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ASSIGN Cardiovascular Disease 10-Year Risk Score Clinical Classification</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BODE INDEX" nciodm:ExtCodeID="C121006">
+                    <nciodm:CDISCSynonym>BODE01</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Body-Mass Index, Airflow Obstruction, Dyspnea, and Exercise Capacity Index (BODE Index) (Bartolome R. Celli, M.D., Claudia G. Cote, M.D., Jose M. Marin, M.D., Ciro Casanova, M.D., Maria Montes de Oca, M.D., Reina A. Mendez, M.D., Victor Pinto Plata, M.D., and Howard J. Cabral, Ph.D.; N Engl J Med 2004;350:1005-12).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>The Body-Mass Index, Airflow Obstruction, Dyspnea, and Exercise Capacity Index Clinical Classification</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CDC HIV CLASSIFICATION FOR ADULTS AND ADOLESCENTS" nciodm:ExtCodeID="C124715">
+                    <nciodm:CDISCSynonym>CHIVC1</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>CDC Classification System for HIV-Infected Adults and Adolescents (Centers for Disease Control and Prevention. 1993 Revised Classification System for HIV Infection and Expanded Surveillance Case Definition for AIDS Among Adolescents and Adults. MMWR Recomm Rep. 1992 Dec 18;41(RR-17):1-19).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Center for Disease Control and Prevention Classification System for HIV-Infected Adults and Adolescents Clinical Classification</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CHILD-PUGH CLASSIFICATION" nciodm:ExtCodeID="C121007">
+                    <nciodm:CDISCSynonym>CPS01</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Child-Pugh Classification (Guidance for Industry Pharmacokinetics in Patients with Impaired Hepatic Function: Study Design, Data Analysis, and Impact on Dosing and Labeling. U.S. Department of Health and Human Services; Food and Drug Administration; Center for Drug Evaluation and Research (CDER); Center for Biologics Evaluation and Research (CBER). May 2003, Clinical Pharmacology. http://www.fda.gov/downloads/Drugs/GuidanceComplianceRegulatoryInformation/Guidances/UCM072123.pdf; http://www.halaven.com/sites/default/files/ChildPugh_FlashCard.pdf).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Child-Pugh Clinical Classification</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CRS-R" nciodm:ExtCodeID="C124711">
+                    <nciodm:CDISCSynonym>CRSR01</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>JFK Coma Recovery Scale-Revised (CRS-R) (Joseph T. Giacino, Kathleen Kalmar, John Whyte. The JFK Coma Recovery Scale-Revised: Measurement Characteristics and Diagnostic Utility. Arch Phys Med Rehabil Vol 85, December 2004).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>JFK Coma Recovery Scale-Revised Clinical Classification</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ESRSA" nciodm:ExtCodeID="C117997">
+                    <nciodm:CDISCSynonym>ESRSA1</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Extrapyramidal Symptom Rating Scale-Abbreviated (ESRS-A) (Copyright 2006 Larry Alphs, MD, PhD, Guy Chouinard, MD, All Rights Reserved).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Extrapyramidal Symptom Rating Scale-Abbreviated Clinical Classification</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FHS CVD 10-YEAR RISK" nciodm:ExtCodeID="C124707">
+                    <nciodm:CDISCSynonym>FCVD1</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Framingham Heart Study Cardiovascular Disease 10-Year Risk Score (D'Agostino Sr RB, Vasan RS, Pencina MJ, Wolf PA, Cobain M, Massaro JM, and Kannel WB. General Cardiovascular Risk Profile for Use in Primary Care: The Framingham Heart Study. Circulation 2008; 117: 743-753).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Framingham Heart Study Cardiovascular Disease 10-Year Risk Score Clinical Classification</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="GCS NINDS VERSION" nciodm:ExtCodeID="C124710">
+                    <nciodm:CDISCSynonym>GCS01</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Glasgow Coma Scale (GCS) The National Institute of Neurological Disorders and Stroke (NINDS) Version (Graham Teasdale and Bryan Jennett. Assessment of coma and impaired consciousness. A practical scale. Lancet. 1974 Jul 13; 2(7872):81-4).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Glasgow Coma Scale-NINDS Version Clinical Classification</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAM-A" nciodm:ExtCodeID="C102118">
+                    <nciodm:CDISCSynonym>HAMA1</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Hamilton Anxiety Rating Scale (HAM-A) (Hamilton M. The assessment of anxiety states by rating. Br J Med Psychol 1959; 32:50-55).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Hamilton Anxiety Rating Scale Clinical Classification</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAMD 21" nciodm:ExtCodeID="C102119">
+                    <nciodm:CDISCSynonym>HAMD2</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Hamilton Depression Rating Scale 21-Item (HAMD 21) (Hedlund and Vieweg, The Hamilton rating scale for depression. Journal of Operational Psychiatry, 1979;10(2):149-165).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Hamilton Depression Rating Scale 21-Item Clinical Classification</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MELD" nciodm:ExtCodeID="C121008">
+                    <nciodm:CDISCSynonym>MELD01</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Model for End Stage Liver Disease (MELD) (Malinchoc M, Kamath PS, Gordon FD, Peine CJ, Rank J, ter Borg PC (April 2000). A model to predict poor survival in patients undergoing transjugular intrahepatic portosystemic shunts. Hepatology 31 (4): 864-71).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Model for End Stage Liver Disease Clinical Classification</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NHLBI CAD GRADE" nciodm:ExtCodeID="C119105">
+                    <nciodm:CDISCSynonym>CADG01</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Coronary Artery Dissection NHLBI Grade (Coronary Artery angiographic changes after PTCA: Manual of Operations NHBLI PTCA Registry 1985-6:9).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Coronary Artery Dissection NHLBI Grade Clinical Classification</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NSA-16" nciodm:ExtCodeID="C121009">
+                    <nciodm:CDISCSynonym>NSA01</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Negative Symptom Assessment-16 (NSA-16) (Version 2.0, Copyright 2006, Larry Alphs, MD, PhD, All Right Reserved).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Negative Symptom Assessment-16 Clinical Classification</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PANSS" nciodm:ExtCodeID="C124712">
+                    <nciodm:CDISCSynonym>PANSS1</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Positive and Negative Syndrome Scale (PANSS) (Copyright 1992 Multi-Health Systems Inc. All rights reserved).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Positive and Negative Syndrome Scale Clinical Classification</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="REYNOLDS CVD 10-YEAR RISK" nciodm:ExtCodeID="C124708">
+                    <nciodm:CDISCSynonym>RCVD01</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Reynolds Cardiovascular Disease 10-Year Risk Score (Ridker PM, Buring JE, Rifai N, Cook NR. Development and Validation of Improved Algorithms for the Assessment of Global Cardiovascular Risk in Women: The Reynolds Risk Score. Jama 2007; 297: 611-619), (Ridker PM, Paynter NP, Rifai N, Gaziano JM, Cook NR. C-Reactive Protein and Parental History Improve Global Cardiovascular Risk Prediction: The Reynolds Risk Score for Men. Circulation2008; 118(22): 2243-2251).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Reynolds Cardiovascular Disease 10-Year Risk Score Clinical Classification</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TANNER SCALE BOY" nciodm:ExtCodeID="C124703">
+                    <nciodm:CDISCSynonym>TANN02</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Tanner Scale Boy (Marshall WA, Tanner JM. Variations in pattern of pubertal changes in boys. Arch Dis Child 1970 Feb;45(239):13-23).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Tanner Scale Boy Version Clinical Classification</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TANNER SCALE GIRL" nciodm:ExtCodeID="C124704">
+                    <nciodm:CDISCSynonym>TANN01</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Tanner Scale Girl (Marshall WA, Tanner JM. Variations in pattern of pubertal changes in girls. Arch Dis Child 1969 Jun; 44(235): 291-303).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Tanner Scale Girl Version Clinical Classification</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TIMI THROMBUS GRADE" nciodm:ExtCodeID="C119104">
+                    <nciodm:CDISCSynonym>TIMG01</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Coronary Thrombus TIMI Grade (TIMI Definitions for Commonly Used Terms in Clinical Trials. Available at http://www.timi.org/wp-content/uploads/2010/10/TIMI-Definitions.pdf. Accessed November 30, 2013).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Coronary Thrombus TIMI Grade Clinical Classification</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WEST HAVEN HEPATIC ENCEPHALOPATHY GRADE" nciodm:ExtCodeID="C124709">
+                    <nciodm:CDISCSynonym>WHEG01</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>West Haven Hepatic Encephalopathy Grade (Blei AT, Cordoba J. Hepatic Encephalopathy. Am J Gastroenterol. 2001 Jul. 96(7):1968-76).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>West Haven Hepatic Encephalopathy Grade Clinical Classification</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WHO HIV STAGING FOR ADULTS AND ADOLESCENTS" nciodm:ExtCodeID="C124713">
+                    <nciodm:CDISCSynonym>WHIVS1</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>WHO Clinical Staging of HIV/AIDS for Adults and Adolescents (Copyright World Health Organization 2007, World Health Organization. WHO case definitions of HIV for surveillance and revised clinical staging and immunological classification of HIV-related disease in adults and children; 2007. Retrieved from http://www.who.int/hiv/pub/vct/hivstaging/en/).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>World Health Organization Clinical Staging of HIV/AIDS for Adults and Adolescents Clinical Classification</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WHO HIV STAGING FOR CHILDREN" nciodm:ExtCodeID="C124714">
+                    <nciodm:CDISCSynonym>WHIVS2</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>WHO Clinical Staging of HIV/AIDS for Children (Copyright World Health Organization 2007, World Health Organization. WHO case definitions of HIV for surveillance and revised clinical staging and immunological classification of HIV-related disease in adults and children; 2007. Retrieved from http://www.who.int/hiv/pub/vct/hivstaging/en/).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>World Health Organization Clinical Staging of HIV/AIDS for Children Clinical Classification</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>CCCAT</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Category of Clinical Classification</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Clinical Classification Category Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

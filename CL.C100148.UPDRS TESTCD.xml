@@ -1,0 +1,349 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C100148.UPDRS TESTCD" Name="Unified Parkinson's Disease Rating Scale Test Code" DataType="text" nciodm:ExtCodeID="C100148" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Unified Parkinson's Disease Rating Scale test code.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="UPD101" nciodm:ExtCodeID="C100901">
+                    <nciodm:CDISCSynonym>UPD1-Mentation:Intellectual Impairment</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Unified Parkinson's Disease Rating Scale - Mentation, behavior and mood: Intellectual impairment.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>UPDRS - Mentation, Behavior and Mood: Intellectual Impairment</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD102" nciodm:ExtCodeID="C100902">
+                    <nciodm:CDISCSynonym>UPD1-Mentation:Thought Disorder</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Unified Parkinson's Disease Rating Scale - Mentation, behavior and mood: Thought disorder.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>UPDRS - Mentation, Behavior and Mood: Thought Disorder</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD103" nciodm:ExtCodeID="C100903">
+                    <nciodm:CDISCSynonym>UPD1-Mentation:Depression</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Unified Parkinson's Disease Rating Scale - Mentation, behavior and mood: Depression.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>UPDRS - Mentation, Behavior and Mood: Depression</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD104" nciodm:ExtCodeID="C100904">
+                    <nciodm:CDISCSynonym>UPD1-Mentation:Motivation/Initiative</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Unified Parkinson's Disease Rating Scale - Mentation, behavior and mood: Motivation/Initiative.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>UPDRS - Mentation, Behavior and Mood: Motivation/Initiative</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD105" nciodm:ExtCodeID="C100905">
+                    <nciodm:CDISCSynonym>UPD1-Activities:Speech</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Unified Parkinson's Disease Rating Scale - Activities of daily living (for both 'on' and 'off'): Speech.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>UPDRS - Activities of Daily Living: Speech</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD106" nciodm:ExtCodeID="C100906">
+                    <nciodm:CDISCSynonym>UPD1-Activities:Salivation</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Unified Parkinson's Disease Rating Scale - Activities of daily living (for both 'on' and 'off'): Salivation.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>UPDRS - Activities of Daily Living: Salivation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD107" nciodm:ExtCodeID="C100907">
+                    <nciodm:CDISCSynonym>UPD1-Activities:Swallowing</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Unified Parkinson's Disease Rating Scale - Activities of daily living (for both 'on' and 'off'): Swallowing.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>UPDRS - Activities of Daily Living: Swallowing</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD108" nciodm:ExtCodeID="C100908">
+                    <nciodm:CDISCSynonym>UPD1-Activities:Handwriting</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Unified Parkinson's Disease Rating Scale - Activities of daily living (for both 'on' and 'off'): Handwriting.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>UPDRS - Activities of Daily Living: Handwriting</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD109" nciodm:ExtCodeID="C100909">
+                    <nciodm:CDISCSynonym>UPD1-Activities:Cut Food/Handle Utensil</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Unified Parkinson's Disease Rating Scale - Activities of daily living (for both 'on' and 'off'): Cutting food and handling utensils.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>UPDRS - Activities of Daily Living: Cutting Food and Handling Utensils</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD110" nciodm:ExtCodeID="C100910">
+                    <nciodm:CDISCSynonym>UPD1-Activities:Dressing</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Unified Parkinson's Disease Rating Scale - Activities of daily living (for both 'on' and 'off'): Dressing.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>UPDRS - Activities of Daily Living: Dressing</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD111" nciodm:ExtCodeID="C100911">
+                    <nciodm:CDISCSynonym>UPD1-Activities:Hygiene</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Unified Parkinson's Disease Rating Scale - Activities of daily living (for both 'on' and 'off'): Hygiene.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>UPDRS - Activities of Daily Living: Hygiene</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD112" nciodm:ExtCodeID="C100912">
+                    <nciodm:CDISCSynonym>UPD1-Activities:Turn Bed/Adj Clothes</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Unified Parkinson's Disease Rating Scale - Activities of daily living (for both 'on' and 'off'): Turning in bed and adjusting bed clothes.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>UPDRS - Activities of Daily Living: Turning in Bed and Adjusting Bed Clothes</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD113" nciodm:ExtCodeID="C100913">
+                    <nciodm:CDISCSynonym>UPD1-Activities:Falling</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Unified Parkinson's Disease Rating Scale - Activities of daily living (for both 'on' and 'off'): Falling (unrelated to freezing).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>UPDRS - Activities of Daily Living: Falling</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD114" nciodm:ExtCodeID="C100914">
+                    <nciodm:CDISCSynonym>UPD1-Activities:Freezing When Walking</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Unified Parkinson's Disease Rating Scale - Activities of daily living (for both 'on' and 'off'): Freezing when walking.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>UPDRS - Activities of Daily Living: Freezing When Walking</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD115" nciodm:ExtCodeID="C100915">
+                    <nciodm:CDISCSynonym>UPD1-Activities:Walking</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Unified Parkinson's Disease Rating Scale - Activities of daily living (for both 'on' and 'off'): Walking.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>UPDRS - Activities of Daily Living: Walking</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD116" nciodm:ExtCodeID="C100916">
+                    <nciodm:CDISCSynonym>UPD1-Activities:Tremor</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Unified Parkinson's Disease Rating Scale - Activities of daily living (for both 'on' and 'off'): Tremor (Symptomatic complaint of tremor in any part of body.).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>UPDRS - Activities of Daily Living: Tremor</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD117" nciodm:ExtCodeID="C100917">
+                    <nciodm:CDISCSynonym>UPD1-Activities:Sensory Complaints</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Unified Parkinson's Disease Rating Scale - Activities of daily living (for both 'on' and 'off'): Sensory complaints related to Parkinsonism.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>UPDRS - Activities of Daily Living: Sensory Complaints Related to Parkinsonism</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD118" nciodm:ExtCodeID="C100918">
+                    <nciodm:CDISCSynonym>UPD1-Motor:Speech</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Unified Parkinson's Disease Rating Scale - Motor examination: Speech.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>UPDRS - Motor Examination: Speech</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD119" nciodm:ExtCodeID="C100919">
+                    <nciodm:CDISCSynonym>UPD1-Motor:Facial Expression</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Unified Parkinson's Disease Rating Scale - Motor examination: Facial expression.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>UPDRS - Motor Examination: Facial Expression</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD120A" nciodm:ExtCodeID="C111585">
+                    <nciodm:CDISCSynonym>UPD1-Motor:Tremor at Rest:Face Lips Chin</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Unified Parkinson's Disease Rating Scale - Motor examination: Tremor at rest: face, lips, chin.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>UPDRS - Motor Examination: Tremor at Rest, Face, Lips, Chin</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD120B" nciodm:ExtCodeID="C111586">
+                    <nciodm:CDISCSynonym>UPD1-Motor:Tremor at Rest:Hands: Right</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Unified Parkinson's Disease Rating Scale - Motor examination: Tremor at rest: Hands: Right.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>UPDRS - Motor Examination: Tremor at Rest, Hands, Right</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD120C" nciodm:ExtCodeID="C111587">
+                    <nciodm:CDISCSynonym>UPD1-Motor:Tremor at Rest:Hands: Left</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Unified Parkinson's Disease Rating Scale - Motor examination: Tremor at rest: Hands: Left.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>UPDRS - Motor Examination: Tremor at Rest, Hands, Left</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD120D" nciodm:ExtCodeID="C111588">
+                    <nciodm:CDISCSynonym>UPD1-Motor:Tremor at Rest:Feet: Right</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Unified Parkinson's Disease Rating Scale - Motor examination: Tremor at rest: Feet: Right.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>UPDRS - Motor Examination: Tremor at Rest, Feet, Right</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD120E" nciodm:ExtCodeID="C111589">
+                    <nciodm:CDISCSynonym>UPD1-Motor:Tremor at Rest:Feet: Left</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Unified Parkinson's Disease Rating Scale - Motor examination: Tremor at rest: Feet: Left.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>UPDRS - Motor Examination: Tremor at Rest, Feet, Left</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD121A" nciodm:ExtCodeID="C111590">
+                    <nciodm:CDISCSynonym>UPD1--Motor:Action Tremor:Hand: Right</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Unified Parkinson's Disease Rating Scale - Motor examination: Action tremor: Hand: Right.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>UPDRS - Motor Examination: Action Tremor, Hand, Right</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD121B" nciodm:ExtCodeID="C111591">
+                    <nciodm:CDISCSynonym>UPD1--Motor:Action Tremor:Hand: Left</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Unified Parkinson's Disease Rating Scale - Motor examination: Action tremor: Hand: Left.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>UPDRS - Motor Examination: Action Tremor, Hand, Left</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD122A" nciodm:ExtCodeID="C111592">
+                    <nciodm:CDISCSynonym>UPD1-Motor:Rigidity Neck</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Unified Parkinson's Disease Rating Scale - Motor examination: Rigidity neck.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>UPDRS - Motor Examination: Rigidity Neck</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD122B" nciodm:ExtCodeID="C111593">
+                    <nciodm:CDISCSynonym>UPD1-Motor:Rigidity Upper Extrem: Right</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Unified Parkinson's Disease Rating Scale - Motor examination: Rigidity upper extremity: Right.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>UPDRS - Motor Examination: Rigidity Upper Extremity, Right</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD122C" nciodm:ExtCodeID="C111594">
+                    <nciodm:CDISCSynonym>UPD1-Motor:Rigidity Upper Extrem: Left</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Unified Parkinson's Disease Rating Scale - Motor examination: Rigidity upper extremity: Left.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>UPDRS - Motor Examination: Rigidity Upper Extremity, Left</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD122D" nciodm:ExtCodeID="C111595">
+                    <nciodm:CDISCSynonym>UPD1-Motor:Rigidity Lower Extrem: Right</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Unified Parkinson's Disease Rating Scale - Motor examination: Rigidity lower extremity: Right.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>UPDRS - Motor Examination: Rigidity Lower Extremity, Right</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD122E" nciodm:ExtCodeID="C111596">
+                    <nciodm:CDISCSynonym>UPD1-Motor:Rigidity Lower Extrem: Left</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Unified Parkinson's Disease Rating Scale - Motor examination: Rigidity lower extremity: Left.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>UPDRS - Motor Examination: Rigidity Lower Extremity, Left</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD123A" nciodm:ExtCodeID="C111597">
+                    <nciodm:CDISCSynonym>UPD1-Motor:Finger Taps: Right</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Unified Parkinson's Disease Rating Scale - Motor examination: Finger taps: Right.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>UPDRS - Motor Examination: Finger Taps, Right</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD123B" nciodm:ExtCodeID="C111598">
+                    <nciodm:CDISCSynonym>UPD1-Motor:Finger Taps: Left</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Unified Parkinson's Disease Rating Scale - Motor examination: Finger taps: Left.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>UPDRS - Motor Examination: Finger Taps, Left</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD124A" nciodm:ExtCodeID="C111599">
+                    <nciodm:CDISCSynonym>UPD1-Motor:Hand Grips: Right</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Unified Parkinson's Disease Rating Scale - Motor examination: Hand grips: Right.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>UPDRS - Motor Examination: Hand Grips, Right</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD124B" nciodm:ExtCodeID="C111600">
+                    <nciodm:CDISCSynonym>UPD1-Motor:Hand Grips: Left</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Unified Parkinson's Disease Rating Scale - Motor examination: Hand grips: Left.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>UPDRS - Motor Examination: Hand Grips, Left</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD125A" nciodm:ExtCodeID="C111601">
+                    <nciodm:CDISCSynonym>UPD1-Motor:Hand Pronate/Supinate: Right</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Unified Parkinson's Disease Rating Scale - Motor examination: Hand pronate/supinate: Right.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>UPDRS - Motor Examination: Hand Pronate/Supinate, Right</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD125B" nciodm:ExtCodeID="C111602">
+                    <nciodm:CDISCSynonym>UPD1-Motor:Hand Pronate/Supinate: Left</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Unified Parkinson's Disease Rating Scale - Motor examination: Hand pronate/supinate: Left.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>UPDRS - Motor Examination: Hand Pronate/Supinate, Left</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD126A" nciodm:ExtCodeID="C111603">
+                    <nciodm:CDISCSynonym>UPD1-Motor:Leg Agility: Right</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Unified Parkinson's Disease Rating Scale - Motor examination: Leg agility: Right.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>UPDRS - Motor Examination: Leg Agility, Right</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD126B" nciodm:ExtCodeID="C111604">
+                    <nciodm:CDISCSynonym>UPD1-Motor:Leg Agility: Left</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Unified Parkinson's Disease Rating Scale - Motor examination: Leg agility: Left.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>UPDRS - Motor Examination: Leg Agility, Left</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD127" nciodm:ExtCodeID="C100927">
+                    <nciodm:CDISCSynonym>UPD1-Motor:Arising from Chair</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Unified Parkinson's Disease Rating Scale - Motor examination: Arising from chair (Patient attempts to rise from a straightbacked chair, with arms folded across chest.).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>UPDRS - Motor Examination: Arising from Chair</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD128" nciodm:ExtCodeID="C100928">
+                    <nciodm:CDISCSynonym>UPD1-Motor:Posture</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Unified Parkinson's Disease Rating Scale - Motor examination: Posture.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>UPDRS - Motor Examination: Posture</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD129" nciodm:ExtCodeID="C100929">
+                    <nciodm:CDISCSynonym>UPD1-Motor:Gait</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Unified Parkinson's Disease Rating Scale - Motor examination: Gait.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>UPDRS - Motor Examination: Gait</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD130" nciodm:ExtCodeID="C100930">
+                    <nciodm:CDISCSynonym>UPD1-Motor:Postural Stability</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Unified Parkinson's Disease Rating Scale - Motor examination: Postural stability (Response to sudden, strong posterior displacement produced by pull on shoulders while patient erect with eyes open and feet slightly apart. Patient is prepared.).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>UPDRS - Motor Examination: Postural Stability</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD131" nciodm:ExtCodeID="C100931">
+                    <nciodm:CDISCSynonym>UPD1-Motor:Bradykinesia and Hypokinesia</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Unified Parkinson's Disease Rating Scale - Motor examination: Body bradykinesia and hypokinesia (Combining slowness, hesitancy, decreased arm swing, small amplitude, and poverty of movement in general.).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>UPDRS - Motor Examination: Body Bradykinesia and Hypokinesia</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD132" nciodm:ExtCodeID="C100932">
+                    <nciodm:CDISCSynonym>UPD1-Complications:Dyskinesias Duration</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Unified Parkinson's Disease Rating Scale - Complications of therapy (in the past week): Dyskinesias, Duration: What proportion of the waking day are dyskinesias present? (Historical information.).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>UPDRS - Complications of Therapy: Dyskinesias - Duration</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD133" nciodm:ExtCodeID="C100933">
+                    <nciodm:CDISCSynonym>UPD1-Complications:Dyskinesias Disable</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Unified Parkinson's Disease Rating Scale - Complications of therapy (in the past week): Dyskinesias, Disability: How disabling are the dyskinesias? (Historical information; may be modified by office examination.).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>UPDRS - Complications of Therapy: Dyskinesias - Disability</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD134" nciodm:ExtCodeID="C100934">
+                    <nciodm:CDISCSynonym>UPD1-Complications:Dyskinesias Painful</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Unified Parkinson's Disease Rating Scale - Complications of therapy (in the past week): Dyskinesias, Painful dyskinesias: How painful are the dyskinesias?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>UPDRS - Complications of Therapy: Dyskinesias - Painful Dyskinesias</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD135" nciodm:ExtCodeID="C100935">
+                    <nciodm:CDISCSynonym>UPD1-Complications:Dyskinesias Dystonia</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Unified Parkinson's Disease Rating Scale - Complications of therapy (in the past week): Dyskinesias, Presence of early morning dystonia (Historical information.).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>UPDRS - Complications of Therapy: Dyskinesias - Presence of Early Morning Dystonia</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD136" nciodm:ExtCodeID="C100936">
+                    <nciodm:CDISCSynonym>UPD1-Complications:Fluct Predictable</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Unified Parkinson's Disease Rating Scale - Complications of therapy (in the past week): Clinical fluctuations, Are 'off' periods predictable?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>UPDRS - Complications of Therapy: Clinical Fluctuations - Off Periods Predictable</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD137" nciodm:ExtCodeID="C100937">
+                    <nciodm:CDISCSynonym>UPD1-Complications:Fluct Unpredictable</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Unified Parkinson's Disease Rating Scale - Complications of therapy (in the past week): Clinical fluctuations, Are 'off' periods unpredictable?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>UPDRS - Complications of Therapy: Clinical Fluctuations - Off Periods Unpredictable</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD138" nciodm:ExtCodeID="C100938">
+                    <nciodm:CDISCSynonym>UPD1-Complications:Fluct Suddenly</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Unified Parkinson's Disease Rating Scale - Complications of therapy (in the past week): Clinical fluctuations, Do 'off' periods come on suddenly, within a few seconds?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>UPDRS - Complications of Therapy: Clinical Fluctuations - Off Periods Sudden</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD139" nciodm:ExtCodeID="C100939">
+                    <nciodm:CDISCSynonym>UPD1-Complications:Fluct Average</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Unified Parkinson's Disease Rating Scale - Complications of therapy (in the past week): Clinical fluctuations, What proportion of the waking day is the patient 'off' on average?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>UPDRS - Complications of Therapy: Clinical Fluctuations - Average Off Periods Per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD140" nciodm:ExtCodeID="C100940">
+                    <nciodm:CDISCSynonym>UPD1-Complications:Anorex Nausea Vomit</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Unified Parkinson's Disease Rating Scale - Complications of therapy (in the past week): Other complications, Does the patient have anorexia, nausea, or vomiting?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>UPDRS - Complications of Therapy: Other Complications - Anorexia, Nausea, or Vomiting</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD141" nciodm:ExtCodeID="C100941">
+                    <nciodm:CDISCSynonym>UPD1-Complications:Insomnia Hypersomnol</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Unified Parkinson's Disease Rating Scale - Complications of therapy (in the past week): Other complications, Any sleep disturbances, such as insomnia or hypersomnolence?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>UPDRS - Complications of Therapy: Other Complications - Sleep Disturbances</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD142" nciodm:ExtCodeID="C100942">
+                    <nciodm:CDISCSynonym>UPD1-Complications:Symptom Orthostasis</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Unified Parkinson's Disease Rating Scale - Complications of therapy (in the past week): Other complications, Does the patient have symptomatic orthostasis? (Record the patient's blood pressure, height and weight on the scoring form).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>UPDRS - Complications of Therapy: Other Complications - Symptomatic Orthostasis</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD142A" nciodm:ExtCodeID="C111605">
+                    <nciodm:CDISCSynonym>UPD1-Blood Pressure: Seated</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Unified Parkinson's Disease Rating Scale - Blood pressure: Seated.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>UPDRS - Symptomatic Orthostasis: Blood Pressure, Seated</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD142B" nciodm:ExtCodeID="C111606">
+                    <nciodm:CDISCSynonym>UPD1-Blood Pressure: Supine</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Unified Parkinson's Disease Rating Scale - Blood pressure: Supine.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>UPDRS - Symptomatic Orthostasis: Blood Pressure, Supine</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD142C" nciodm:ExtCodeID="C111607">
+                    <nciodm:CDISCSynonym>UPD1-Blood Pressure: Standing</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Unified Parkinson's Disease Rating Scale - Blood pressure: Standing.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>UPDRS - Symptomatic Orthostasis: Blood Pressure, Standing</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD142D" nciodm:ExtCodeID="C111608">
+                    <nciodm:CDISCSynonym>UPD1-Weight</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Unified Parkinson's Disease Rating Scale - Weight.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>UPDRS - Symptomatic Orthostasis: Weight</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD142E" nciodm:ExtCodeID="C111609">
+                    <nciodm:CDISCSynonym>UPD1-Pulse: Seated</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Unified Parkinson's Disease Rating Scale - Pulse: Seated.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>UPDRS - Symptomatic Orthostasis: Pulse, Seated</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD142F" nciodm:ExtCodeID="C111610">
+                    <nciodm:CDISCSynonym>UPD1-Pulse: Standing</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Unified Parkinson's Disease Rating Scale - Pulse: Standing.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>UPDRS - Symptomatic Orthostasis: Pulse, Standing</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD143" nciodm:ExtCodeID="C100943">
+                    <nciodm:CDISCSynonym>UPD1-Modified Hoehn and Yahr Staging</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Unified Parkinson's Disease Rating Scale - Modified Hoehn and Yahr Staging.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>UPDRS - Modified Hoehn and Yahr Staging</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD144A" nciodm:ExtCodeID="C111611">
+                    <nciodm:CDISCSynonym>UPD1-Schwab/England % ADL Score (PD)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Unified Parkinson's Disease Rating Scale - Schwab and England % ADL Score (PD).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>UPDRS - Schwab and England % ADL Score (PD)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD144B" nciodm:ExtCodeID="C111612">
+                    <nciodm:CDISCSynonym>UPD1-Schwab/England % ADL (Dyskinesia)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Unified Parkinson's Disease Rating Scale - Schwab and England % ADL (with dyskinesia).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>UPDRS - Schwab and England % ADL (With Dyskinesia)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD145" nciodm:ExtCodeID="C111613">
+                    <nciodm:CDISCSynonym>UPD1-Mentation, Behavior, Mood Sub-Total</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Unified Parkinson's Disease Rating Scale - Mentation, behavior and mood sub-total.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>UPDRS - Mentation, Behavior and Mood Sub-total</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD146" nciodm:ExtCodeID="C111614">
+                    <nciodm:CDISCSynonym>UPD1-Activities Daily Living Sub-Total</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Unified Parkinson's Disease Rating Scale - Activities of daily living sub-total.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>UPDRS - Activities of Daily Living Sub-total</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD147" nciodm:ExtCodeID="C111615">
+                    <nciodm:CDISCSynonym>UPD1-Motor Examination Sub-Total</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Unified Parkinson's Disease Rating Scale - Motor examination sub-total.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>UPDRS - Motor Examination Sub-total</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPD148" nciodm:ExtCodeID="C111616">
+                    <nciodm:CDISCSynonym>UPD1-UPDRS Total</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Unified Parkinson's Disease Rating Scale - UPDRS total.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>UPDRS - UPDRS Total</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>UPDRS TESTCD</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Unified Parkinson's Disease Rating Scale Test Code</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Questionnaire UPDRS Test Code Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

@@ -1,0 +1,54 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C124303.SZFATS" Name="Schizophrenia Findings About Test Name" DataType="text" nciodm:ExtCodeID="C124303" nciodm:CodeListExtensible="Yes">
+                <Description>
+                    <TranslatedText xml:lang="en">Terminology relevant to the test names that describe findings about a schizophrenia event or intervention.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="Age At First Episode" nciodm:ExtCodeID="C124438">
+                    <nciodm:CDISCSynonym>Age At First Episode</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The age at which the first episode occurred.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Age at First Episode</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Age At First Hospitalization" nciodm:ExtCodeID="C124439">
+                    <nciodm:CDISCSynonym>Age At First Hospitalization</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The age at which the first hospitalization event occurred.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Age at First Hospitalization</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Age At First Treatment" nciodm:ExtCodeID="C124440">
+                    <nciodm:CDISCSynonym>Age At First Treatment</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The age at which the first treatment for the condition occurred.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Age at First Treatment</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Clinic Stay Indicator" nciodm:ExtCodeID="C124442">
+                    <nciodm:CDISCSynonym>Clinic Stay Indicator</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An indication as to whether the subject was admitted to a healthcare clinic.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Clinic Stay Indicator</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Most Severe Acute Stressor" nciodm:ExtCodeID="C124437">
+                    <nciodm:CDISCSynonym>Most Severe Acute Stressor</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The agent, stimulus, activity, or event that causes stress with an acute frequency, which has the highest level of severity.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Most Severe Acute Stressor</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Most Severe Chronic Stressor" nciodm:ExtCodeID="C124441">
+                    <nciodm:CDISCSynonym>Most Severe Chronic Stressor</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The agent, stimulus, activity, or event that causes stress with a chronic frequency, which has the highest level of severity.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Most Severe Chronic Stressor</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Number of Episodes" nciodm:ExtCodeID="C124281">
+                    <nciodm:CDISCSynonym>Number of Episodes</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The total number of episodes that have occurred for the condition.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Number of Episodes</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Number Of Hospitalizations" nciodm:ExtCodeID="C124443">
+                    <nciodm:CDISCSynonym>Number Of Hospitalizations</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The total number of hospitalization events that have occurred for the condition.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Number of Hospitalizations</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Treatment Setting" nciodm:ExtCodeID="C124444">
+                    <nciodm:CDISCSynonym>Treatment Setting</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The surroundings or environment within which the subject receives therapeutic treatment for the condition.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Treatment Setting</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>SZFATS</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Schizophrenia Findings About Test Name</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Schizophrenia Findings About Test Name Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

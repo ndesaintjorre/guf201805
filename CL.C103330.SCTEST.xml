@@ -42,6 +42,11 @@
                     <nciodm:CDISCDefinition>The date on which the subject arrived in the reporting country from the country of potential disease exposure.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Entry Date from Country of Potential Disease Exposure</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="Gestational Age at Birth" nciodm:ExtCodeID="C124435">
+                    <nciodm:CDISCSynonym>Gestational Age at Birth</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The gestational age of the subject at birth.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Gestational Age at Birth</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="Level of Education Attained" nciodm:ExtCodeID="C17953">
                     <nciodm:CDISCSynonym>Level of Education Attained</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Highest level of education that a person has attained.</nciodm:CDISCDefinition>
@@ -81,6 +86,11 @@
                     <nciodm:CDISCSynonym>Setting of Contact</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The environment within which the person may have come into contact with a disease carrier, or played the role of a disease carrier.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Setting of Disease Contact</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Sex Reported at Birth" nciodm:ExtCodeID="C124436">
+                    <nciodm:CDISCSynonym>Sex Reported at Birth</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The physical sexual characteristics of the neonate at birth.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Sex at Birth</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Skin Classification" nciodm:ExtCodeID="C74563">
                     <nciodm:CDISCSynonym>Skin Classification</nciodm:CDISCSynonym>

@@ -1,0 +1,299 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C112440.FAMS TEST" Name="Functional Assessment of Multiple Sclerosis Version 4 Questionnaire Test Name" DataType="text" nciodm:ExtCodeID="C112440" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Functional Assessment of Multiple Sclerosis Version 4 test name.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="FAMS01-Bothered by Treatment Side Effect" nciodm:ExtCodeID="C112595">
+                    <nciodm:CDISCSynonym>FAMS01-Bothered by Treatment Side Effect</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Multiple Sclerosis - Additional Concerns: I am bothered by side effects of treatment.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FAMS - Bothered by Side Effects of Treatment</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAMS01-Content With Quality of My Life" nciodm:ExtCodeID="C112575">
+                    <nciodm:CDISCSynonym>FAMS01-Content With Quality of My Life</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Multiple Sclerosis - General Contentment: I am content with the quality of my life right now.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FAMS - Content With Quality of My Life Now</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAMS01-Enjoy Things I Usually Do for Fun" nciodm:ExtCodeID="C112574">
+                    <nciodm:CDISCSynonym>FAMS01-Enjoy Things I Usually Do for Fun</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Multiple Sclerosis - General Contentment: I am enjoying the things I usually do for fun.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FAMS - Enjoying Things I Usually Do for Fun</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAMS01-Feel Overwhelmed by My Condition" nciodm:ExtCodeID="C112571">
+                    <nciodm:CDISCSynonym>FAMS01-Feel Overwhelmed by My Condition</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Multiple Sclerosis - Emotional Well-Being: I feel overwhelmed by my condition.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FAMS - Feel Overwhelmed by My Condition</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAMS01-Feel Sense of Purpose in My Life" nciodm:ExtCodeID="C112577">
+                    <nciodm:CDISCSynonym>FAMS01-Feel Sense of Purpose in My Life</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Multiple Sclerosis - General Contentment: I feel a sense of purpose in my life.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FAMS - Feel Sense of Purpose in My Life</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAMS01-Get Emotional Support From Family" nciodm:ExtCodeID="C112589">
+                    <nciodm:CDISCSynonym>FAMS01-Get Emotional Support From Family</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Multiple Sclerosis - Family/Social Well-Being: I get emotional support from my family.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FAMS - Get Emotional Support From Family</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAMS01-Have Trouble Controlling My Urine" nciodm:ExtCodeID="C112604">
+                    <nciodm:CDISCSynonym>FAMS01-Have Trouble Controlling My Urine</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Multiple Sclerosis - Additional Concerns: I have trouble controlling my urine.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FAMS - Trouble Controlling My Urine</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAMS01-Heat Worsens My Symptoms" nciodm:ExtCodeID="C112603">
+                    <nciodm:CDISCSynonym>FAMS01-Heat Worsens My Symptoms</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Multiple Sclerosis - Additional Concerns: Heat worsens my symptoms.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FAMS - Heat Worsens My Symptoms</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAMS01-I Am Able to Enjoy Life" nciodm:ExtCodeID="C112567">
+                    <nciodm:CDISCSynonym>FAMS01-I Am Able to Enjoy Life</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Multiple Sclerosis - Emotional Well-Being: I am able to enjoy life.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FAMS - I Am Able to Enjoy Life</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAMS01-I Am Able to Work" nciodm:ExtCodeID="C112552">
+                    <nciodm:CDISCSynonym>FAMS01-I Am Able to Work</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Multiple Sclerosis - Mobility: I am able to work (include work at home).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FAMS - I Am Able to Work</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAMS01-I Am Bothered by Fevers" nciodm:ExtCodeID="C112607">
+                    <nciodm:CDISCSynonym>FAMS01-I Am Bothered by Fevers</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Multiple Sclerosis - Additional Concerns: I am bothered by fevers (episodes of high body temperature).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FAMS - Bothered by Fevers</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAMS01-I Am Bothered by Headaches" nciodm:ExtCodeID="C112563">
+                    <nciodm:CDISCSynonym>FAMS01-I Am Bothered by Headaches</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Multiple Sclerosis - Symptoms: I am bothered by headaches.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FAMS - Bothered by Headaches</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAMS01-I Am Bothered by Muscle Pains" nciodm:ExtCodeID="C112564">
+                    <nciodm:CDISCSynonym>FAMS01-I Am Bothered by Muscle Pains</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Multiple Sclerosis - Symptoms: I am bothered by muscle pains.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FAMS - Bothered by Muscle Pains</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAMS01-I Am Bothered by Muscle Spasms" nciodm:ExtCodeID="C112608">
+                    <nciodm:CDISCSynonym>FAMS01-I Am Bothered by Muscle Spasms</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Multiple Sclerosis - Additional Concerns: I am bothered by muscle spasms.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FAMS - Bothered by Muscle Spasms</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAMS01-I Am Bothered by the Chills" nciodm:ExtCodeID="C112606">
+                    <nciodm:CDISCSynonym>FAMS01-I Am Bothered by the Chills</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Multiple Sclerosis - Additional Concerns: I am bothered by the chills.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FAMS - Bothered by Chills</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAMS01-I Am Depressed About My Condition" nciodm:ExtCodeID="C112569">
+                    <nciodm:CDISCSynonym>FAMS01-I Am Depressed About My Condition</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Multiple Sclerosis - Emotional Well-Being: I am depressed about my condition.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FAMS - Depressed About My Condition</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAMS01-I Am Forced to Spend Time in Bed" nciodm:ExtCodeID="C112596">
+                    <nciodm:CDISCSynonym>FAMS01-I Am Forced to Spend Time in Bed</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Multiple Sclerosis - Additional Concerns: I am forced to spend time in bed.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FAMS - Forced to Spend Time in Bed</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAMS01-I Am Frustrated by My Condition" nciodm:ExtCodeID="C112576">
+                    <nciodm:CDISCSynonym>FAMS01-I Am Frustrated by My Condition</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Multiple Sclerosis - General Contentment: I am frustrated by my condition.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FAMS - I Am Frustrated by My Condition</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAMS01-I Am Satisfied With My Sex Life" nciodm:ExtCodeID="C112598">
+                    <nciodm:CDISCSynonym>FAMS01-I Am Satisfied With My Sex Life</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Multiple Sclerosis - Additional Concerns: I am satisfied with my sex life.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FAMS - Satisfied With My Sex Life</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAMS01-I Am Sleeping Well" nciodm:ExtCodeID="C112602">
+                    <nciodm:CDISCSynonym>FAMS01-I Am Sleeping Well</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Multiple Sclerosis - Additional Concerns: I am sleeping well.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FAMS - I Am Sleeping Well</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAMS01-I Feel Close to My Friends" nciodm:ExtCodeID="C112588">
+                    <nciodm:CDISCSynonym>FAMS01-I Feel Close to My Friends</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Multiple Sclerosis - Family/Social Well-Being: I feel close to my friends.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FAMS - Feel Close to My Friends</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAMS01-I Feel Close to My Partner" nciodm:ExtCodeID="C112597">
+                    <nciodm:CDISCSynonym>FAMS01-I Feel Close to My Partner</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Multiple Sclerosis - Additional Concerns: I feel close to my partner (or the person who is my main support).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FAMS - Feel Close to My Partner</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAMS01-I Feel Ill" nciodm:ExtCodeID="C112560">
+                    <nciodm:CDISCSynonym>FAMS01-I Feel Ill</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Multiple Sclerosis - Symptoms: I feel ill.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FAMS - I Feel Ill</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAMS01-I Feel Left Out of Things" nciodm:ExtCodeID="C112594">
+                    <nciodm:CDISCSynonym>FAMS01-I Feel Left Out of Things</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Multiple Sclerosis - Family/Social Well-Being: I feel 'left out' of things.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FAMS - Feel Left Out of Things</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAMS01-I Feel Motivated to Do Things" nciodm:ExtCodeID="C112578">
+                    <nciodm:CDISCSynonym>FAMS01-I Feel Motivated to Do Things</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Multiple Sclerosis - General Contentment: I feel motivated to do things.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FAMS - Feel Motivated to Do Things</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAMS01-I Feel Nervous" nciodm:ExtCodeID="C112600">
+                    <nciodm:CDISCSynonym>FAMS01-I Feel Nervous</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Multiple Sclerosis - Additional Concerns: I feel nervous.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FAMS - I Feel Nervous</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAMS01-I Feel Sad" nciodm:ExtCodeID="C112565">
+                    <nciodm:CDISCSynonym>FAMS01-I Feel Sad</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Multiple Sclerosis - Emotional Well-Being: I feel sad.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FAMS - I Feel Sad</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAMS01-I Feel Tired" nciodm:ExtCodeID="C112580">
+                    <nciodm:CDISCSynonym>FAMS01-I Feel Tired</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Multiple Sclerosis - Thinking and Fatigue: I feel tired.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FAMS - I Feel Tired</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAMS01-I Feel Trapped by My Condition" nciodm:ExtCodeID="C112568">
+                    <nciodm:CDISCSynonym>FAMS01-I Feel Trapped by My Condition</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Multiple Sclerosis - Emotional Well-Being: I feel trapped by my condition.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FAMS - Feel Trapped by My Condition</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAMS01-I Feel Useless" nciodm:ExtCodeID="C112570">
+                    <nciodm:CDISCSynonym>FAMS01-I Feel Useless</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Multiple Sclerosis - Emotional Well-Being: I feel useless.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FAMS - I Feel Useless</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAMS01-I Feel Weak All Over" nciodm:ExtCodeID="C112561">
+                    <nciodm:CDISCSynonym>FAMS01-I Feel Weak All Over</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Multiple Sclerosis - Symptoms: I feel weak all over.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FAMS - I Feel Weak All Over</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAMS01-I Get Support From My Friends" nciodm:ExtCodeID="C112590">
+                    <nciodm:CDISCSynonym>FAMS01-I Get Support From My Friends</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Multiple Sclerosis - Family/Social Well-Being: I get support from my friends.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FAMS - Get Support From Friends</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAMS01-I Have a Lack of Energy" nciodm:ExtCodeID="C112579">
+                    <nciodm:CDISCSynonym>FAMS01-I Have a Lack of Energy</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Multiple Sclerosis - Thinking and Fatigue: I have a lack of energy.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FAMS - Have a Lack of Energy</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAMS01-I Have Accepted My Illness" nciodm:ExtCodeID="C112573">
+                    <nciodm:CDISCSynonym>FAMS01-I Have Accepted My Illness</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Multiple Sclerosis - General Contentment: I have accepted my illness.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FAMS - I Have Accepted My Illness</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAMS01-I Have Nausea" nciodm:ExtCodeID="C112558">
+                    <nciodm:CDISCSynonym>FAMS01-I Have Nausea</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Multiple Sclerosis - Symptoms: I have nausea.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FAMS - I Have Nausea</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAMS01-I Have Pain" nciodm:ExtCodeID="C112559">
+                    <nciodm:CDISCSynonym>FAMS01-I Have Pain</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Multiple Sclerosis - Symptoms: I have pain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FAMS - I Have Pain</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAMS01-I Have Pain in My Joints" nciodm:ExtCodeID="C112562">
+                    <nciodm:CDISCSynonym>FAMS01-I Have Pain in My Joints</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Multiple Sclerosis - Symptoms: I have pain in my joints.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FAMS - I Have Pain in My Joints</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAMS01-I Have Strength in My Legs" nciodm:ExtCodeID="C112555">
+                    <nciodm:CDISCSynonym>FAMS01-I Have Strength in My Legs</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Multiple Sclerosis - Mobility: I have strength in my legs.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FAMS - I Have Strength in My Legs</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAMS01-I Have Trouble Concentrating" nciodm:ExtCodeID="C112585">
+                    <nciodm:CDISCSynonym>FAMS01-I Have Trouble Concentrating</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Multiple Sclerosis - Thinking and Fatigue: I have trouble concentrating.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FAMS - Trouble Concentrating</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAMS01-I Have Trouble Learning New Tasks" nciodm:ExtCodeID="C112587">
+                    <nciodm:CDISCSynonym>FAMS01-I Have Trouble Learning New Tasks</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Multiple Sclerosis - Thinking and Fatigue: I have trouble learning new tasks or directions.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FAMS - Trouble Learning New Tasks or Directions</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAMS01-I Have Trouble Remembering Things" nciodm:ExtCodeID="C112584">
+                    <nciodm:CDISCSynonym>FAMS01-I Have Trouble Remembering Things</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Multiple Sclerosis - Thinking and Fatigue: I have trouble remembering things.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FAMS - Trouble Remembering Things</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAMS01-I Have Trouble Walking" nciodm:ExtCodeID="C112553">
+                    <nciodm:CDISCSynonym>FAMS01-I Have Trouble Walking</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Multiple Sclerosis - Mobility: I have trouble walking.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FAMS - I Have Trouble Walking</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAMS01-I Need to Rest During the Day" nciodm:ExtCodeID="C112583">
+                    <nciodm:CDISCSynonym>FAMS01-I Need to Rest During the Day</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Multiple Sclerosis - Thinking and Fatigue: I need to rest during the day.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FAMS - Need to Rest During the Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAMS01-I Urinate More Frequently" nciodm:ExtCodeID="C112605">
+                    <nciodm:CDISCSynonym>FAMS01-I Urinate More Frequently</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Multiple Sclerosis - Additional Concerns: I urinate more frequently than usual.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FAMS - Urinate More Frequently Than Usual</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAMS01-Limit My Social Activity" nciodm:ExtCodeID="C112554">
+                    <nciodm:CDISCSynonym>FAMS01-Limit My Social Activity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Multiple Sclerosis - Mobility: I have to limit my social activity because of my condition.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FAMS - Limit Social Activity Because of Condition</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAMS01-Losing Hope Against Illness" nciodm:ExtCodeID="C112566">
+                    <nciodm:CDISCSynonym>FAMS01-Losing Hope Against Illness</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Multiple Sclerosis - Emotional Well-Being: I am losing hope in the fight against my illness.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FAMS - Losing Hope in Fight Against My Illness</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAMS01-My Family Has Accepted My Illness" nciodm:ExtCodeID="C112591">
+                    <nciodm:CDISCSynonym>FAMS01-My Family Has Accepted My Illness</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Multiple Sclerosis - Family/Social Well-Being: My family has accepted my illness.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FAMS - Family Has Accepted My Illness</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAMS01-My Thinking Is Slower Than Before" nciodm:ExtCodeID="C112586">
+                    <nciodm:CDISCSynonym>FAMS01-My Thinking Is Slower Than Before</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Multiple Sclerosis - Thinking and Fatigue: My thinking is slower than before.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FAMS - My Thinking is Slower Than Before</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAMS01-My Work Is Fulfilling" nciodm:ExtCodeID="C112572">
+                    <nciodm:CDISCSynonym>FAMS01-My Work Is Fulfilling</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Multiple Sclerosis - General Contentment: My work (include work at home) is fulfilling.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FAMS - My Work is Fulfilling</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAMS01-Satisfied Communication Illness" nciodm:ExtCodeID="C112592">
+                    <nciodm:CDISCSynonym>FAMS01-Satisfied Communication Illness</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Multiple Sclerosis - Family/Social Well-Being: I am satisfied with family communication about my illness.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FAMS - Satisfied With Family Communication About My Illness</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAMS01-Satisfied With How I Am Coping" nciodm:ExtCodeID="C112599">
+                    <nciodm:CDISCSynonym>FAMS01-Satisfied With How I Am Coping</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Multiple Sclerosis - Additional Concerns: I am satisfied with how I am coping with my illness.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FAMS - Satisfied With How I Am Coping With Illness</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAMS01-Take My Condition Into Account" nciodm:ExtCodeID="C112557">
+                    <nciodm:CDISCSynonym>FAMS01-Take My Condition Into Account</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Multiple Sclerosis - Mobility: I have to take my condition into account when making plans.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FAMS - Have to Take Condition Into Account When Making Plans</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAMS01-Trouble Finishing Things" nciodm:ExtCodeID="C112582">
+                    <nciodm:CDISCSynonym>FAMS01-Trouble Finishing Things</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Multiple Sclerosis - Thinking and Fatigue: I have trouble finishing things because I am tired.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FAMS - Trouble Finishing Things Because I Am Tired</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAMS01-Trouble Getting Around in Public" nciodm:ExtCodeID="C112556">
+                    <nciodm:CDISCSynonym>FAMS01-Trouble Getting Around in Public</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Multiple Sclerosis - Mobility: I have trouble getting around in public places.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FAMS - Trouble Getting Around in Public Places</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAMS01-Trouble Meeting Needs of Family" nciodm:ExtCodeID="C112551">
+                    <nciodm:CDISCSynonym>FAMS01-Trouble Meeting Needs of Family</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Multiple Sclerosis - Mobility: Because of my physical condition, I have trouble meeting the needs of my family.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FAMS - Have Trouble Meeting Needs of Family Because of My Condition</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAMS01-Trouble Starting Things" nciodm:ExtCodeID="C112581">
+                    <nciodm:CDISCSynonym>FAMS01-Trouble Starting Things</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Multiple Sclerosis - Thinking and Fatigue: I have trouble starting things because I am tired.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FAMS - Trouble Starting Things Because I Am Tired</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAMS01-Trouble Understanding Worsening" nciodm:ExtCodeID="C112593">
+                    <nciodm:CDISCSynonym>FAMS01-Trouble Understanding Worsening</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Multiple Sclerosis - Family/Social Well-Being: My family has trouble understanding when my condition gets worse.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FAMS - Family Has Trouble Understanding When My Condition Gets Worse</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAMS01-Worry My Condition Will Get Worse" nciodm:ExtCodeID="C112601">
+                    <nciodm:CDISCSynonym>FAMS01-Worry My Condition Will Get Worse</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Multiple Sclerosis - Additional Concerns: I worry that my condition will get worse.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FAMS - Worry My Condition Will Get Worse</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>FAMS TEST</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Functional Assessment of Multiple Sclerosis Version 4 Questionnaire Test Name</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Questionnaire FAMS Test Name Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

@@ -108,6 +108,10 @@
                     <nciodm:CDISCDefinition>A laboratory procedure that combines the sequence-specific detection aspects of FISH with the simple detection methods of immunohistochemistry. Briefly, sequence-specific probes are hybridized to cells fixed on slides and the sequestered probe is visualized by a peroxidase reaction. It has the advantage of being a less costly assay that does not require fluorescence microscopy with results that are stable over time.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Chromogenic In Situ Hybridization</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="CLINICAL EVALUATION" nciodm:ExtCodeID="C124351">
+                    <nciodm:CDISCDefinition>An appraisal of a patient's condition by a clinician that is based on a physical exam, medical history, patient's account of symptoms, laboratory assessments, and/or imaging analysis.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Clinical Evaluation</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="CLIP" nciodm:ExtCodeID="C111163">
                     <nciodm:CDISCSynonym>Cross-Linking and Immunoprecipitation</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A type of immunoprecipitation protocol that employs UV-light induced covalent cross-linking of molecules (for instance protein and RNA) prior to the immunoprecipitation and purification steps.</nciodm:CDISCDefinition>
@@ -472,6 +476,11 @@
                     <nciodm:CDISCDefinition>A spectrometric method that determines the type and concentration of elements or chemicals in a sample, based upon the principle that the atoms in a sample will vibrate or rotate at a specific frequency when exposed to infrared light.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Infrared Spectrometry</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="INTERRUPTER TECHNIQUE" nciodm:ExtCodeID="C124352">
+                    <nciodm:CDISCSynonym>RINT</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A non-invasive method of measuring airway resistance during which the subject breathes normally while airflow is interrupted at a predetermined rate and volume during the early exhalation phase.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Interrupter Technique</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="INTRAVASCULAR ULTRASOUND" nciodm:ExtCodeID="C99535">
                     <nciodm:CDISCSynonym>IVUS</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>An invasive procedure in which sound waves (called ultrasound) are bounced off of vascular tissues from within the vessel and the echoes produce a picture (sonogram).</nciodm:CDISCDefinition>
@@ -658,6 +667,7 @@
                     <nciodm:PreferredTerm>Magnetic Resonance Spectroscopic Imaging</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="MUGA" nciodm:ExtCodeID="C38073">
+                    <nciodm:CDISCSynonym>Radionuclide Ventriculogram Scan</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A multi-gated acquisition (MUGA) scan and a form of radionuclide imaging that provides a comprehensive look at blood flow and the function of the lower chambers of the heart ventricles. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Radionuclide Ventriculogram Scan</nciodm:PreferredTerm>
                 </EnumeratedItem>

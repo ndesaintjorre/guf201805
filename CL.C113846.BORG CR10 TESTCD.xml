@@ -1,0 +1,14 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C113846.BORG CR10 TESTCD" Name="Borg CR10 Scale Test Code" DataType="text" nciodm:ExtCodeID="C113846" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Borg CR10 scale test code.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="BCR10101" nciodm:ExtCodeID="C113888">
+                    <nciodm:CDISCSynonym>BCR101-Rating</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Borg CR10 Scale - Rating.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Borg CR10 - Rating</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>BORG CR10 TESTCD</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Borg CR10 Scale Test Code</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Questionnaire Borg CR10 Test Code Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

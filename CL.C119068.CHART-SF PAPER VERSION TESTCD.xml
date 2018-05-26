@@ -1,0 +1,114 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C119068.CHART-SF PAPER VERSION TESTCD" Name="Craig Handicap Assessment and Reporting Technique - Short Form Paper Version Questionnaire Test Code" DataType="text" nciodm:ExtCodeID="C119068" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Craig Handicap Assessment and Reporting Technique - Short Form Paper Version test code.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="CHSF201A" nciodm:ExtCodeID="C119142">
+                    <nciodm:CDISCSynonym>CHSF2-Paid Personal Care per Day</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Craig Handicap Assessment and Reporting Technique-Short Form Paper Version - How many hours in a typical 24-hour day do you have someone with you to provide physical assistance for personal care activities such as eating, bathing, dressing, toileting and mobility? (hours paid assistance).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CHART-SF Paper Version - Paid Personal Care per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CHSF201B" nciodm:ExtCodeID="C119143">
+                    <nciodm:CDISCSynonym>CHSF2-Unpaid Personal Care per Day</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Craig Handicap Assessment and Reporting Technique-Short Form Paper Version - How many hours in a typical 24-hour day do you have someone with you to provide physical assistance for personal care activities such as eating, bathing, dressing, toileting and mobility? hours unpaid (family, others).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CHART-SF Paper Version - Unpaid Personal Care per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CHSF202" nciodm:ExtCodeID="C119144">
+                    <nciodm:CDISCSynonym>CHSF2-Home Cognitive Assistance per Day</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Craig Handicap Assessment and Reporting Technique-Short Form Paper Version - How much time is someone with you in your home to assist you with activities that require remembering, decision making, or judgment?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CHART-SF Paper Version - Cognitive Assistance at Home per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CHSF203" nciodm:ExtCodeID="C119145">
+                    <nciodm:CDISCSynonym>CHSF2-Away Cognitive Assistance per Day</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Craig Handicap Assessment and Reporting Technique-Short Form Paper Version - How much of the time is someone with you to help you with remembering, decision making, or judgment when you go away from your home?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CHART-SF Paper Version - Cognitive Assistance Away From Home per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CHSF204" nciodm:ExtCodeID="C119146">
+                    <nciodm:CDISCSynonym>CHSF2-Hours Out of Bed per Day</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Craig Handicap Assessment and Reporting Technique-Short Form Paper Version - On a typical day, how many hours are you out of bed?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CHART-SF Paper Version - Hours Out of Bed per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CHSF205" nciodm:ExtCodeID="C119147">
+                    <nciodm:CDISCSynonym>CHSF2-Days Out of the House per Week</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Craig Handicap Assessment and Reporting Technique-Short Form Paper Version - In a typical week, how many days do you get out of your house and go somewhere?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CHART-SF Paper Version - Days Out of the House per Week</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CHSF206" nciodm:ExtCodeID="C119148">
+                    <nciodm:CDISCSynonym>CHSF2-Nights Away From Home Last Year</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Craig Handicap Assessment and Reporting Technique-Short Form Paper Version - In the last year, how many nights have you spent away from your home?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CHART-SF Paper Version - Nights Away From Home Last Year</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CHSF207A" nciodm:ExtCodeID="C119149">
+                    <nciodm:CDISCSynonym>CHSF2-Hours of Paid Work per Week</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Craig Handicap Assessment and Reporting Technique-Short Form Paper Version - How many hours per week do you spend working in a job for which you get paid?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CHART-SF Paper Version - Hours of Paid Work per Week</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CHSF207B" nciodm:ExtCodeID="C119150">
+                    <nciodm:CDISCSynonym>CHSF2-Occupation of Paid Work</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Craig Handicap Assessment and Reporting Technique-Short Form Paper Version - How many hours per week do you spend working in a job for which you get paid? (occupation).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CHART-SF Paper Version - Occupation of Paid Work</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CHSF208" nciodm:ExtCodeID="C119151">
+                    <nciodm:CDISCSynonym>CHSF2-Hours of Schoolwork per Week</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Craig Handicap Assessment and Reporting Technique-Short Form Paper Version - How many hours per week do you spend in school working toward a degree or in an accredited technical training program?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CHART-SF Paper Version - Hours of Schoolwork per Week</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CHSF209" nciodm:ExtCodeID="C119152">
+                    <nciodm:CDISCSynonym>CHSF2-Hours of Homemaking per Week</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Craig Handicap Assessment and Reporting Technique-Short Form Paper Version - How many hours per week do you spend in active homemaking including parenting, housekeeping, and food preparation?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CHART-SF Paper Version - Hours of Homemaking per Week</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CHSF210" nciodm:ExtCodeID="C119153">
+                    <nciodm:CDISCSynonym>CHSF2-Hours of Home Maintenance per Week</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Craig Handicap Assessment and Reporting Technique-Short Form Paper Version - How many hours per week do you spend in home maintenance activities such as gardening, house repairs or home improvement?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CHART-SF Paper Version - Hours of Home Maintenance per Week</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CHSF211" nciodm:ExtCodeID="C119154">
+                    <nciodm:CDISCSynonym>CHSF2-Hours of Recreation per Week</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Craig Handicap Assessment and Reporting Technique-Short Form Paper Version - How many hours per week do you spend in recreational activities such as sports, exercise, playing cards, or going to movies?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CHART-SF Paper Version - Hours of Recreational Activities per Week</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CHSF212" nciodm:ExtCodeID="C119155">
+                    <nciodm:CDISCSynonym>CHSF2-Number of People You Live With</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Craig Handicap Assessment and Reporting Technique-Short Form Paper Version - How many people do you live with?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CHART-SF Paper Version - Number of People You Live With</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CHSF213" nciodm:ExtCodeID="C119156">
+                    <nciodm:CDISCSynonym>CHSF2-Live With Spouse or Signif Other</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Craig Handicap Assessment and Reporting Technique-Short Form Paper Version - Is one of them your spouse or significant other?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CHART-SF Paper Version - Live With Spouse or Significant Other</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CHSF214" nciodm:ExtCodeID="C119157">
+                    <nciodm:CDISCSynonym>CHSF2-Number of Relatives You Live With</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Craig Handicap Assessment and Reporting Technique-Short Form Paper Version - Of the people you live with how many are relatives?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CHART-SF Paper Version - Number of Relatives You Live With</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CHSF215" nciodm:ExtCodeID="C119158">
+                    <nciodm:CDISCSynonym>CHSF2-Associates Contacted per Month</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Craig Handicap Assessment and Reporting Technique-Short Form Paper Version - How many business or organizational associates do you visit, phone, or write to at least once a month?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CHART-SF Paper Version - Associates Contacted per Month</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CHSF216" nciodm:ExtCodeID="C119159">
+                    <nciodm:CDISCSynonym>CHSF2-Friends Contacted per Month</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Craig Handicap Assessment and Reporting Technique-Short Form Paper Version - How many friends do you visit, phone, or write to at least once a month?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CHART-SF Paper Version - Friends Contacted per Month</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CHSF217" nciodm:ExtCodeID="C119160">
+                    <nciodm:CDISCSynonym>CHSF2-Strangers Spoke with Last Month</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Craig Handicap Assessment and Reporting Technique-Short Form Paper Version - With how many strangers have you initiated a conversation in the last month?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CHART-SF Paper Version - Initiated Conversation With Strangers Last Month</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CHSF218" nciodm:ExtCodeID="C119161">
+                    <nciodm:CDISCSynonym>CHSF2-Combined Household Income Last Yr</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Craig Handicap Assessment and Reporting Technique-Short Form Paper Version - Approximately what was the combined annual income, in the last year, of all family members in your household?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CHART-SF Paper Version - Combined Annual Household Income Last Year</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CHSF219" nciodm:ExtCodeID="C119162">
+                    <nciodm:CDISCSynonym>CHSF2-Medical Care Expenses Last Year</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Craig Handicap Assessment and Reporting Technique-Short Form Paper Version - Approximately how much did you pay last year for medical care expenses?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CHART-SF Paper Version - Medical Care Expense Last Year</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>CHART-SF PAPER VERSION TESTCD</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Craig Handicap Assessment and Reporting Technique - Short Form Paper Version Questionnaire Test Code</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Questionnaire CHART-SF Paper Version Test Code Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

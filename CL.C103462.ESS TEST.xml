@@ -1,0 +1,49 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C103462.ESS TEST" Name="Epworth Sleepiness Scale Questionnaire Test Name" DataType="text" nciodm:ExtCodeID="C103462" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Epworth Sleepiness Scale test name.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="ESS01-In Car Stopped Few Minutes Traffic" nciodm:ExtCodeID="C103543">
+                    <nciodm:CDISCSynonym>ESS01-In Car Stopped Few Minutes Traffic</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Epworth Sleepiness Scale - In a car, while stopped for a few minutes in the traffic.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ESS - In a car, While Stopped for a Few Minutes in the Traffic</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ESS01-Lying Down to Rest In Afternoon" nciodm:ExtCodeID="C103540">
+                    <nciodm:CDISCSynonym>ESS01-Lying Down to Rest In Afternoon</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Epworth Sleepiness Scale - Lying down to rest in the afternoon when circumstances permit.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ESS - Lying Down to Rest in the Afternoon When Circumstances Permit</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ESS01-Passenger for Hour Without Break" nciodm:ExtCodeID="C103539">
+                    <nciodm:CDISCSynonym>ESS01-Passenger for Hour Without Break</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Epworth Sleepiness Scale - As a passenger in a car for an hour without a break.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ESS - As a Passenger in a Car for an Hour Without a Break</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ESS01-Sitting and Reading" nciodm:ExtCodeID="C103536">
+                    <nciodm:CDISCSynonym>ESS01-Sitting and Reading</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Epworth Sleepiness Scale - Sitting and reading.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ESS - Sitting and Reading</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ESS01-Sitting and Talking to Someone" nciodm:ExtCodeID="C103541">
+                    <nciodm:CDISCSynonym>ESS01-Sitting and Talking to Someone</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Epworth Sleepiness Scale - Sitting and talking to someone.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ESS - Sitting and Talking to Someone</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ESS01-Sitting Inactive in a Public Place" nciodm:ExtCodeID="C103538">
+                    <nciodm:CDISCSynonym>ESS01-Sitting Inactive in a Public Place</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Epworth Sleepiness Scale - Sitting, inactive in a public place (e.g. a theatre or a meeting).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ESS - Sitting, Inactive in a Public Place</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ESS01-Sitting Quietly After Lunch" nciodm:ExtCodeID="C103542">
+                    <nciodm:CDISCSynonym>ESS01-Sitting Quietly After Lunch</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Epworth Sleepiness Scale - Sitting quietly after a lunch without alcohol.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ESS - Sitting Quietly After a Lunch without Alcohol</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ESS01-Watching TV" nciodm:ExtCodeID="C103537">
+                    <nciodm:CDISCSynonym>ESS01-Watching TV</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Epworth Sleepiness Scale - Watching TV.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ESS - Watching TV</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>ESS TEST</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Epworth Sleepiness Scale Questionnaire Test Name</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Questionnaire ESS Test Name Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

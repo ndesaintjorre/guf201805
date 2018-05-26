@@ -1,0 +1,14 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C106668.MMRC TEST" Name="Modified Medical Research Council Dyspnea Scale Questionnaire Test Name" DataType="text" nciodm:ExtCodeID="C106668" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Modified Medical Research Council Dyspnea Scale test name.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="MMRC01-Description of Breathlessness" nciodm:ExtCodeID="C106852">
+                    <nciodm:CDISCSynonym>MMRC01-Description of Breathlessness</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Modified Medical Research Council Dyspnea Scale - Description of breathlessness.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MMRC - Description of Level of Breathlessness</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>MMRC TEST</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Modified Medical Research Council Dyspnea Scale Questionnaire Test Name</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Questionnaire MMRC Test Name Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

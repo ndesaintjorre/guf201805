@@ -1,0 +1,29 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C124308.TRTSET" Name="Treatment Setting" DataType="text" nciodm:ExtCodeID="C124308" nciodm:CodeListExtensible="Yes">
+                <Description>
+                    <TranslatedText xml:lang="en">Terminology relevant to the clinical trial or treatment setting for the therapy of interest.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="ADJUVANT" nciodm:ExtCodeID="C124450">
+                    <nciodm:CDISCDefinition>A clinical trial or treatment setting in which the therapy of interest is considered adjuvant.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Adjuvant Therapy Clinical Trial Setting</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LOCALLY ADVANCED" nciodm:ExtCodeID="C124451">
+                    <nciodm:CDISCDefinition>A clinical trial or treatment setting in which the therapy of interest is used to treat locally advanced disease.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Locally Advanced Disease Clinical Trial Setting</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="METASTATIC" nciodm:ExtCodeID="C124452">
+                    <nciodm:CDISCDefinition>A clinical trial or treatment setting in which the therapy of interest is used to treat metastatic disease.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Metastatic Disease Clinical Trial Setting</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NEO-ADJUVANT" nciodm:ExtCodeID="C124453">
+                    <nciodm:CDISCDefinition>A clinical trial or treatment setting in which the therapy of interest is considered neo-adjuvant.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Neoadjuvant Therapy Clinical Trial Setting</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PREVENTATIVE" nciodm:ExtCodeID="C124454">
+                    <nciodm:CDISCDefinition>A clinical trial or treatment setting in which the therapy of interest is considered preventative.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Preventative Therapy Clinical Trial Setting</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>TRTSET</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Treatment Setting</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Treatment Setting Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

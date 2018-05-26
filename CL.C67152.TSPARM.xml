@@ -39,6 +39,11 @@
                     <nciodm:CDISCDefinition>Comparator against which the study treatment is evaluated (e.g., concurrent (placebo, no treatment, dose-response, active), external (historical, published literature).</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Control Type</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="Country of Manufacture" nciodm:ExtCodeID="C124455">
+                    <nciodm:CDISCSynonym>Country of Manufacture</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The name of the country within which the final product under study is produced.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Country of Manufacture</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="Current Therapy or Treatment" nciodm:ExtCodeID="C85582">
                     <nciodm:CDISCSynonym>Current Therapy or Treatment</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The literal identifier of the therapy or medication that is currently being given per protocol.</nciodm:CDISCDefinition>

@@ -1,0 +1,14 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C124306.SSTEST" Name="Subject Status Test Name" DataType="text" nciodm:ExtCodeID="C124306" nciodm:CodeListExtensible="Yes">
+                <Description>
+                    <TranslatedText xml:lang="en">Terminology relevant to test name for subject characteristics that are evaluated periodically to determine if they have changed.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="Survival Status" nciodm:ExtCodeID="C25717">
+                    <nciodm:CDISCSynonym>Survival Status</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The state or condition of being living or deceased; also includes the case where the vital status is unknown.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Vital Status</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>SSTEST</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Subject Status Test Name</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Subject Status Test Name Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

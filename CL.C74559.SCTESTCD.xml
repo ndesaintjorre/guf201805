@@ -37,6 +37,11 @@
                     <nciodm:CDISCDefinition>A code specifying the job performed by the employee for the employer. For example, accountant, programmer analyst, patient care associate, staff nurse, etc.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Occupation</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="GSTABRTH" nciodm:ExtCodeID="C124435">
+                    <nciodm:CDISCSynonym>Gestational Age at Birth</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The gestational age of the subject at birth.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Gestational Age at Birth</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="HANDDOM" nciodm:ExtCodeID="C114182">
                     <nciodm:CDISCSynonym>Dominant Hand</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The preferred hand of use for controlled and efficient performance of motor tasks.</nciodm:CDISCDefinition>
@@ -86,6 +91,11 @@
                     <nciodm:CDISCSynonym>Setting of Contact</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The environment within which the person may have come into contact with a disease carrier, or played the role of a disease carrier.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Setting of Disease Contact</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SEXRBRTH" nciodm:ExtCodeID="C124436">
+                    <nciodm:CDISCSynonym>Sex Reported at Birth</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The physical sexual characteristics of the neonate at birth.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Sex at Birth</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="SKINCLAS" nciodm:ExtCodeID="C74563">
                     <nciodm:CDISCSynonym>Skin Classification</nciodm:CDISCSynonym>

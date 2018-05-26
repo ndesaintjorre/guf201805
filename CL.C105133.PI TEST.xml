@@ -1,0 +1,39 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C105133.PI TEST" Name="Pain Intensity Questionnaire Test Name" DataType="text" nciodm:ExtCodeID="C105133" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Pain Intensity test name.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="PI01-Average Pain Intensity" nciodm:ExtCodeID="C105262">
+                    <nciodm:CDISCSynonym>PI01-Average Pain Intensity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pain Intensity - Average pain intensity for various time periods of evaluation.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PI - Average Pain Intensity For Various Time Periods of Evaluation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PI01-Least Pain Intensity" nciodm:ExtCodeID="C105265">
+                    <nciodm:CDISCSynonym>PI01-Least Pain Intensity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pain Intensity - Least pain intensity for various time periods of evaluation.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PI - Least Pain Intensity For Various Time Periods of Evaluation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PI01-Maximum Pain Intensity" nciodm:ExtCodeID="C105264">
+                    <nciodm:CDISCSynonym>PI01-Maximum Pain Intensity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pain Intensity - Maximum pain intensity for various time periods of evaluation.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PI - Maximum Pain Intensity For Various Time Periods of Evaluation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PI01-Minimum Pain Intensity" nciodm:ExtCodeID="C105263">
+                    <nciodm:CDISCSynonym>PI01-Minimum Pain Intensity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pain Intensity - Minimum pain intensity for various time periods of evaluation.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PI - Minimum Pain Intensity For Various Time Periods of Evaluation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PI01-Pain Intensity" nciodm:ExtCodeID="C105261">
+                    <nciodm:CDISCSynonym>PI01-Pain Intensity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pain Intensity - Pain intensity for various time periods of evaluation.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PI - Pain Intensity For Various Time Periods of Evaluation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PI01-Worst Pain Intensity" nciodm:ExtCodeID="C105266">
+                    <nciodm:CDISCSynonym>PI01-Worst Pain Intensity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pain Intensity - Worst pain intensity for various time periods of evaluation.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PI - Worst Pain Intensity For Various Time Periods of Evaluation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>PI TEST</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Pain Intensity Questionnaire Test Name</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Questionnaire PI v1 Test Name Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

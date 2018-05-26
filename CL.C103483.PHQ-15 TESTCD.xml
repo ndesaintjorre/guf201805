@@ -1,0 +1,89 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C103483.PHQ-15 TESTCD" Name="Patient Health Questionnaire - 15 Item Test Code" DataType="text" nciodm:ExtCodeID="C103483" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Patient Health Questionnaire - 15 test code.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="PHQ0201" nciodm:ExtCodeID="C103715">
+                    <nciodm:CDISCSynonym>PHQ02-Stomach Pain</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Patient Health Questionnaire - 15 - Stomach pain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PHQ-15 - Stomach Pain</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PHQ0202" nciodm:ExtCodeID="C103716">
+                    <nciodm:CDISCSynonym>PHQ02-Back Pain</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Patient Health Questionnaire - 15 - Back pain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PHQ-15 - Back Pain</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PHQ0203" nciodm:ExtCodeID="C103717">
+                    <nciodm:CDISCSynonym>PHQ02-Pain In Your Arms, Legs, or Joints</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Patient Health Questionnaire - 15 - Pain in your arms, legs, or joints (knees, hips, etc.).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PHQ-15 - Pain In Your Arms, Legs, or Joints</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PHQ0204" nciodm:ExtCodeID="C103718">
+                    <nciodm:CDISCSynonym>PHQ02-Menstrual Cramp/Problem Periods</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Patient Health Questionnaire - 15 - Menstrual cramps or other problems with your periods [Women only].</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PHQ-15 - Menstrual Cramp or Other Problems with Your Periods</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PHQ0205" nciodm:ExtCodeID="C103719">
+                    <nciodm:CDISCSynonym>PHQ02-Headaches</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Patient Health Questionnaire - 15 - Headaches.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PHQ-15 - Headaches</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PHQ0206" nciodm:ExtCodeID="C103720">
+                    <nciodm:CDISCSynonym>PHQ02-Chest Pain</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Patient Health Questionnaire - 15 - Chest pain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PHQ-15 - Chest Pain</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PHQ0207" nciodm:ExtCodeID="C103721">
+                    <nciodm:CDISCSynonym>PHQ02-Dizziness</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Patient Health Questionnaire - 15 - Dizziness.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PHQ-15 - Dizziness</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PHQ0208" nciodm:ExtCodeID="C103722">
+                    <nciodm:CDISCSynonym>PHQ02-Fainting Spells</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Patient Health Questionnaire - 15 - Fainting spells.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PHQ-15 - Fainting Spells</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PHQ0209" nciodm:ExtCodeID="C103723">
+                    <nciodm:CDISCSynonym>PHQ02-Feeling Your Heart Pound or Race</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Patient Health Questionnaire - 15 - Feeling your heart pound or race.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PHQ-15 - Feeling Your Heart Pound or Race</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PHQ0210" nciodm:ExtCodeID="C103724">
+                    <nciodm:CDISCSynonym>PHQ02-Shortness of Breath</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Patient Health Questionnaire - 15 - Shortness of breath.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PHQ-15 - Shortness of Breath</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PHQ0211" nciodm:ExtCodeID="C103725">
+                    <nciodm:CDISCSynonym>PHQ02-Pain/Problems During Intercourse</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Patient Health Questionnaire - 15 - Pain or problems during sexual intercourse.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PHQ-15 - Pain or Problems During Sexual Intercourse</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PHQ0212" nciodm:ExtCodeID="C103726">
+                    <nciodm:CDISCSynonym>PHQ02-Constipation/Loose Bowels/Diarrhea</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Patient Health Questionnaire - 15 - Constipation, loose bowels, or diarrhea.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PHQ-15 - Constipation, Loose Bowels, or Diarrhea</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PHQ0213" nciodm:ExtCodeID="C103727">
+                    <nciodm:CDISCSynonym>PHQ02-Nausea, Gas, or Indigestion</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Patient Health Questionnaire - 15 - Nausea, gas, or indigestion.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PHQ-15 - Nausea, Gas, or Indigestion</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PHQ0214" nciodm:ExtCodeID="C103728">
+                    <nciodm:CDISCSynonym>PHQ02-Feeling Tired or Having Low Energy</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Patient Health Questionnaire - 15 - Feeling tired or having low energy.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PHQ-15 - Feeling Tired or Having Low Energy</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PHQ0215" nciodm:ExtCodeID="C103729">
+                    <nciodm:CDISCSynonym>PHQ02-Trouble Sleeping</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Patient Health Questionnaire - 15 - Trouble sleeping.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PHQ-15 - Trouble Sleeping</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PHQ0216" nciodm:ExtCodeID="C124782">
+                    <nciodm:CDISCSynonym>PHQ02-Total Score</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Patient Health Questionnaire - 15 - Total score.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PHQ-15 - Total Score</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>PHQ-15 TESTCD</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Patient Health Questionnaire - 15 Item Test Code</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Questionnaire PHQ-15 Test Code Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

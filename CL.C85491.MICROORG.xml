@@ -122,7 +122,7 @@
                     <nciodm:PreferredTerm>Acinetobacter calcoaceticus</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="ACINETOBACTER CALCOACETICUS-BAUMANNII COMPLEX" nciodm:ExtCodeID="C86091">
-                    <nciodm:CDISCDefinition>A non-taxonomic grouping of bacteria assigned to the Acinetobacter genus that include the A. calcoaceticus and A. baumannii species.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A non-taxonomic grouping of bacterial species that are phenotypically or genetically similar to the Acinetobacter calcoaceticus and Acinetobacter baumannii species.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Acinetobacter calcoaceticus/baumannii Complex</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="ACINETOBACTER HAEMOLYTICUS" nciodm:ExtCodeID="C86092">
@@ -157,7 +157,6 @@
                     <nciodm:PreferredTerm>Acinetobacter ursingii</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="ACREMONIUM" nciodm:ExtCodeID="C118935">
-                    <nciodm:CDISCSynonym>Cephalosporium</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Any fungal organism that is not assigned to the species level but can be assigned to the Acremonium genus level.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Acremonium</nciodm:PreferredTerm>
                 </EnumeratedItem>
@@ -172,7 +171,6 @@
                     <nciodm:PreferredTerm>Actinobacillus</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="ACTINOBACILLUS ACTINOMYCETEMCOMITANS" nciodm:ExtCodeID="C86098">
-                    <nciodm:CDISCSynonym>CDC GROUP HB-3</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Actinobacillus actinomycetemcomitans.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Actinobacillus actinomycetemcomitans</nciodm:PreferredTerm>
                 </EnumeratedItem>
@@ -300,7 +298,6 @@
                     <nciodm:PreferredTerm>Aerobic Streptococcus</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="AEROCOCCUS" nciodm:ExtCodeID="C86121">
-                    <nciodm:CDISCSynonym>GAFFKYA SPECIES</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Any bacteria that is not assigned to the species level but can be assigned to the Aerococcus genus level.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Aerococcus</nciodm:PreferredTerm>
                 </EnumeratedItem>
@@ -321,7 +318,6 @@
                     <nciodm:PreferredTerm>Aeromonas</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="AEROMONAS HYDROPHILA" nciodm:ExtCodeID="C86125">
-                    <nciodm:CDISCSynonym>AEROMONAS HYDROPHILA GROUP</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Aeromonas hydrophila.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Aeromonas hydrophila</nciodm:PreferredTerm>
                 </EnumeratedItem>
@@ -360,10 +356,8 @@
                     <nciodm:PreferredTerm>Aggregatibacter actinomycetemcomitans</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="AGGREGATIBACTER APHROPHILUS" nciodm:ExtCodeID="C86134">
-                    <nciodm:CDISCSynonym>BETA-LACTAMASE NEGATIVE HAEMOPHILUS PARAPHROPHILUS</nciodm:CDISCSynonym>
-                    <nciodm:CDISCSynonym>CDC GROUP HB-2</nciodm:CDISCSynonym>
-                    <nciodm:CDISCSynonym>HAEMOPHILUS APHROPHILUS</nciodm:CDISCSynonym>
-                    <nciodm:CDISCSynonym>HAEMOPHILUS PARAPHROPHILUS</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Haemophilus aphrophilus</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Haemophilus paraphrophilus</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Aggregatibacter aphrophilus.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Aggregatibacter aphrophilus</nciodm:PreferredTerm>
                 </EnumeratedItem>
@@ -401,8 +395,7 @@
                     <nciodm:PreferredTerm>Agrobacterium radiobacter</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="AGROBACTERIUM TUMEFACIENS" nciodm:ExtCodeID="C86138">
-                    <nciodm:CDISCSynonym>CDC GROUP VD-3</nciodm:CDISCSynonym>
-                    <nciodm:CDISCSynonym>RHIZOBIUM RADIOBACTER</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Rhizobium radiobacter</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Agrobacterium tumefaciens.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Agrobacterium tumefaciens</nciodm:PreferredTerm>
                 </EnumeratedItem>
@@ -448,7 +441,7 @@
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="AMOEBA" nciodm:ExtCodeID="C119581">
                     <nciodm:CDISCSynonym>Ameba</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Any protozoan organism that is not assigned to the species level but can be assigned to the Amoeba genus level.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>Any unicellular, eukaryotic organism that is not assigned to the species level but can be assigned to the Amoeba genus level.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Amoeba</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="ANAEROBIC BACTERIA" nciodm:ExtCodeID="C119321">
@@ -672,7 +665,7 @@
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="ATOPOBIUM VAGINAE" nciodm:ExtCodeID="C122178">
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Atopobium vaginae.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Atopobium Vaginae</nciodm:PreferredTerm>
+                    <nciodm:PreferredTerm>Atopobium vaginae</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="AVIBACTERIUM PARAGALLINARUM" nciodm:ExtCodeID="C86158">
                     <nciodm:CDISCSynonym>Haemophilus paragallinarum</nciodm:CDISCSynonym>
@@ -738,7 +731,7 @@
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="BACTERIA" nciodm:ExtCodeID="C14187">
                     <nciodm:CDISCSynonym>Bacterium</nciodm:CDISCSynonym>
-                    <nciodm:CDISCSynonym>Cubacteria</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Eubacteria</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Any organism assigned to the kingdom Bacteria.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Bacteria</nciodm:PreferredTerm>
                 </EnumeratedItem>
@@ -747,7 +740,6 @@
                     <nciodm:PreferredTerm>Bacteroides</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="BACTEROIDES CACCAE" nciodm:ExtCodeID="C86168">
-                    <nciodm:CDISCSynonym>BACTEROIDES FRAGILIS GROUP 3452A</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Bacteroides caccae.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Bacteroides caccae</nciodm:PreferredTerm>
                 </EnumeratedItem>
@@ -776,7 +768,7 @@
                     <nciodm:PreferredTerm>Bacteroides fragilis</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="BACTEROIDES FRAGILIS GROUP" nciodm:ExtCodeID="C86173">
-                    <nciodm:CDISCDefinition>A bacteria that belongs to the Fragilis group of the genus Bacteroides.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A non-taxonomic grouping of bacteria that belongs to the fragilis group of the genus Bacteroides.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Bacteroides fragilis Group</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="BACTEROIDES INTESTINALIS" nciodm:ExtCodeID="C119324">
@@ -791,6 +783,12 @@
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Bacteroides ovatus.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Bacteroides ovatus</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="BACTEROIDES PYOGENES" nciodm:ExtCodeID="C86178">
+                    <nciodm:CDISCSynonym>Bacteroides tectum</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Bacteroides tectus</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Bacteroides pyogenes.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Bacteroides tectus</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="BACTEROIDES SALYERSIAE" nciodm:ExtCodeID="C122182">
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Bacteroides salyersiae.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Bacteroides salyersiae</nciodm:PreferredTerm>
@@ -799,12 +797,6 @@
                     <nciodm:CDISCSynonym>Bacteroides fragilis subsp. A</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Bacteroides stercoris.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Bacteroides stercoris</nciodm:PreferredTerm>
-                </EnumeratedItem>
-                <EnumeratedItem CodedValue="BACTEROIDES TECTUS" nciodm:ExtCodeID="C86178">
-                    <nciodm:CDISCSynonym>Bacteroides pyogenes</nciodm:CDISCSynonym>
-                    <nciodm:CDISCSynonym>Bacteroides tectum</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Bacteroides tectus.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Bacteroides tectus</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="BACTEROIDES THETAIOTAOMICRON" nciodm:ExtCodeID="C86179">
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Bacteroides thetaiotamicron.</nciodm:CDISCDefinition>
@@ -1052,13 +1044,12 @@
                     <nciodm:PreferredTerm>Burkholderia cenocepacia</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="BURKHOLDERIA CEPACIA" nciodm:ExtCodeID="C76376">
-                    <nciodm:CDISCSynonym>CDC GROUP EO-1</nciodm:CDISCSynonym>
-                    <nciodm:CDISCSynonym>PSEUDOMONAS CEPACIA</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Pseudomonas cepacia</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Burkholderia cepacia.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Burkholderia cepacia</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="BURKHOLDERIA CEPACIA COMPLEX" nciodm:ExtCodeID="C86224">
-                    <nciodm:CDISCDefinition>A non-taxonomic grouping of bacteria assigned to and including at least nine related species from the Burkholderia genus.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A non-taxonomic grouping of bacterial species that are phenotypically or genetically similar to the Burkholderia cepacia species.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Burkholderia cepacia Complex</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="BURKHOLDERIA GLADIOLI" nciodm:ExtCodeID="C86225">
@@ -1119,7 +1110,6 @@
                     <nciodm:PreferredTerm>Campylobacter coli</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="CAMPYLOBACTER CONCISUS" nciodm:ExtCodeID="C86231">
-                    <nciodm:CDISCSynonym>CDC GROUP EF-22</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Campylobacter concisus.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Campylobacter concisus</nciodm:PreferredTerm>
                 </EnumeratedItem>
@@ -1223,7 +1213,6 @@
                     <nciodm:PreferredTerm>Capnocytophaga</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="CAPNOCYTOPHAGA CANIMORSUS" nciodm:ExtCodeID="C86239">
-                    <nciodm:CDISCSynonym>CDC GROUP DF-2</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Capnocytophaga canimorsus.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Capnocytophaga canimorsus</nciodm:PreferredTerm>
                 </EnumeratedItem>
@@ -1244,7 +1233,6 @@
                     <nciodm:PreferredTerm>Cardiobacterium</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="CARDIOBACTERIUM HOMINIS" nciodm:ExtCodeID="C86244">
-                    <nciodm:CDISCSynonym>CDC GROUP IID</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Cardiobacterium hominis.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Cardiobacterium hominis</nciodm:PreferredTerm>
                 </EnumeratedItem>
@@ -1253,7 +1241,6 @@
                     <nciodm:PreferredTerm>Cedecea</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="CEDECEA DAVISAE" nciodm:ExtCodeID="C86246">
-                    <nciodm:CDISCSynonym>CDC ENTERIC GROUP 15</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Cedecea davisae.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Cedecea davisae</nciodm:PreferredTerm>
                 </EnumeratedItem>
@@ -1375,7 +1362,7 @@
                     <nciodm:PreferredTerm>Citrobacter freundii</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="CITROBACTER FREUNDII COMPLEX" nciodm:ExtCodeID="C86266">
-                    <nciodm:CDISCDefinition>A non-taxonomic grouping of bacteria assigned to and including eight related species from the Citrobacter genus.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A non-taxonomic grouping of bacterial species that are phenotypically or genetically similar to the Citrobacter freundii species.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Citrobacter freundii Complex</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="CITROBACTER KOSERI" nciodm:ExtCodeID="C86267">
@@ -1491,7 +1478,6 @@
                     <nciodm:PreferredTerm>Clostridium innocuum</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="CLOSTRIDIUM LIMOSUM" nciodm:ExtCodeID="C86284">
-                    <nciodm:CDISCSynonym>CLOSTRIDIUM SPECIES CDC GROUP P-1</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Clostridium limosum.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Clostridium limosum</nciodm:PreferredTerm>
                 </EnumeratedItem>
@@ -1615,7 +1601,6 @@
                     <nciodm:PreferredTerm>Comamonas</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="COMAMONAS TERRIGENA" nciodm:ExtCodeID="C86304">
-                    <nciodm:CDISCSynonym>CDC GROUP EF-19</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Comamonas terrigena.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Comamonas terrigena</nciodm:PreferredTerm>
                 </EnumeratedItem>
@@ -1639,7 +1624,7 @@
                     <nciodm:PreferredTerm>Corynebacterium</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="CORYNEBACTERIUM ACCOLENS" nciodm:ExtCodeID="C86306">
-                    <nciodm:CDISCSynonym>CORYNEBACTERIUM GROUP G-1</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>CDC Coryneform Group G-1</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Corynebacterium accolens.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Corynebacterium accolens</nciodm:PreferredTerm>
                 </EnumeratedItem>
@@ -1697,8 +1682,7 @@
                     <nciodm:PreferredTerm>Corynebacterium glucuronolyticum</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="CORYNEBACTERIUM JEIKEIUM" nciodm:ExtCodeID="C76307">
-                    <nciodm:CDISCSynonym>CDC GROUP JK</nciodm:CDISCSynonym>
-                    <nciodm:CDISCSynonym>CORYNEBACTERIUM GROUP JK</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>CDC Coryneform Group JK</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Corynebacterium jeikeium.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Corynebacterium jeikeium</nciodm:PreferredTerm>
                 </EnumeratedItem>
@@ -1761,8 +1745,7 @@
                     <nciodm:PreferredTerm>Corynebacterium ulcerans</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="CORYNEBACTERIUM UREALYTICUM" nciodm:ExtCodeID="C86325">
-                    <nciodm:CDISCSynonym>CDC GROUP D2</nciodm:CDISCSynonym>
-                    <nciodm:CDISCSynonym>CORYNEBACTERIUM GROUP D-2</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>CDC Coryneform Group D-2</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Corynebacterium urealyticum.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Corynebacterium urealyticum</nciodm:PreferredTerm>
                 </EnumeratedItem>
@@ -1948,7 +1931,7 @@
                     <nciodm:PreferredTerm>Dermatophilus congolensis</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="DESULFOVIBRIO" nciodm:ExtCodeID="C86339">
-                    <nciodm:CDISCSynonym>DESULFOMONAS SPECIES</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Desulfomonas</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Any bacteria that is not assigned to the species level but can be assigned to the Desulfovibrio genus level.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Desulfovibrio</nciodm:PreferredTerm>
                 </EnumeratedItem>
@@ -2072,7 +2055,6 @@
                     <nciodm:PreferredTerm>Eikenella</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="EIKENELLA CORRODENS" nciodm:ExtCodeID="C86351">
-                    <nciodm:CDISCSynonym>CDC GROUP HB-1</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Eikenella corrodens.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Eikenella corrodens</nciodm:PreferredTerm>
                 </EnumeratedItem>
@@ -2150,7 +2132,6 @@
                     <nciodm:PreferredTerm>Enterobacter cancerogenus</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="ENTEROBACTER CLOACAE" nciodm:ExtCodeID="C86360">
-                    <nciodm:CDISCSynonym>ENTEROBACTER CLOACAE STRAIN 1</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Enterobacter cloacae.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Enterobacter cloacae</nciodm:PreferredTerm>
                 </EnumeratedItem>
@@ -2172,7 +2153,6 @@
                     <nciodm:PreferredTerm>Enterobius vermicularis</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="ENTEROCOCCUS" nciodm:ExtCodeID="C76311">
-                    <nciodm:CDISCSynonym>PRESUMPTIVE ENTEROCOCCUS</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Any bacteria that is not assigned to the species level but can be assigned to the Enterococcus genus level.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Enterococcus</nciodm:PreferredTerm>
                 </EnumeratedItem>
@@ -2348,7 +2328,6 @@
                     <nciodm:PreferredTerm>Ewingella</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="EWINGELLA AMERICANA" nciodm:ExtCodeID="C86391">
-                    <nciodm:CDISCSynonym>CDC ENTERIC GROUP 40</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Ewingella americana.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Ewingella americana</nciodm:PreferredTerm>
                 </EnumeratedItem>
@@ -2578,7 +2557,7 @@
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="GNATHOSTOMA SPINIGERUM" nciodm:ExtCodeID="C122318">
                     <nciodm:CDISCDefinition>Any nematode parasite that can be assigned to the species Gnathostoma spinigerum.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Gnathostoma Spinigerum</nciodm:PreferredTerm>
+                    <nciodm:PreferredTerm>Gnathostoma spinigerum</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="GORDONIA" nciodm:ExtCodeID="C86414">
                     <nciodm:CDISCDefinition>Any bacteria that is not assigned to the species level but can be assigned to the Gordonia genus level.</nciodm:CDISCDefinition>
@@ -2975,28 +2954,24 @@
                 <EnumeratedItem CodedValue="HUMAN PARAINFLUENZA VIRUS 1" nciodm:ExtCodeID="C14254">
                     <nciodm:CDISCSynonym>HPIV-1</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Human Parainfluenza Virus Type 1</nciodm:CDISCSynonym>
-                    <nciodm:CDISCSynonym>hPIV-1</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Any viral organism that can be assigned to the Human Parainfluenza virus 1 serotype.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Human Parainfluenza Virus 1</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="HUMAN PARAINFLUENZA VIRUS 2" nciodm:ExtCodeID="C112316">
                     <nciodm:CDISCSynonym>HPIV-2</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Human Parainfluenza Virus Type 2</nciodm:CDISCSynonym>
-                    <nciodm:CDISCSynonym>hPIV-2</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Any viral organism that can be assigned to the Human Parainfluenza virus 2 serotype.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Human Parainfluenza Virus 2</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="HUMAN PARAINFLUENZA VIRUS 3" nciodm:ExtCodeID="C112317">
                     <nciodm:CDISCSynonym>HPIV-3</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Human Parainfluenza Virus Type 3</nciodm:CDISCSynonym>
-                    <nciodm:CDISCSynonym>hPIV-3</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Any viral organism that can be assigned to the Human Parainfluenza virus 3 serotype.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Human Parainfluenza Virus 3</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="HUMAN PARAINFLUENZA VIRUS 4" nciodm:ExtCodeID="C112318">
                     <nciodm:CDISCSynonym>HPIV-4</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Human Parainfluenza Virus Type 4</nciodm:CDISCSynonym>
-                    <nciodm:CDISCSynonym>hPIV-4</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Any viral organism that can be assigned to the Human Parainfluenza virus 4 serotype.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Human Parainfluenza Virus 4</nciodm:PreferredTerm>
                 </EnumeratedItem>
@@ -3026,6 +3001,11 @@
                     <nciodm:CDISCSynonym>HTLV-II</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Any viral organism that can be assigned to the Human T-lymphotrophic virus serotype 2.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>HTLV-2</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HYMENOLEPIS DIMINUTA" nciodm:ExtCodeID="C124354">
+                    <nciodm:CDISCSynonym>Rat Tapeworm</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any cestode parasite that can be assigned to the species Hymenolepis diminuta.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Hymenolepis diminuta</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="HYMENOLEPIS NANA" nciodm:ExtCodeID="C122323">
                     <nciodm:CDISCSynonym>Dwarf Tapeworm</nciodm:CDISCSynonym>
@@ -3105,7 +3085,6 @@
                     <nciodm:PreferredTerm>Kingella</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="KINGELLA DENITRIFICANS" nciodm:ExtCodeID="C86450">
-                    <nciodm:CDISCSynonym>CDC GROUP TM-1</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Kingella denitrificans.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Kingella denitrificans</nciodm:PreferredTerm>
                 </EnumeratedItem>
@@ -3461,7 +3440,8 @@
                     <nciodm:PreferredTerm>Listeria innocua</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="LISTERIA IVANOVII" nciodm:ExtCodeID="C86501">
-                    <nciodm:CDISCSynonym>LISTERIA MONOCYTOGENES SEROVAR 5</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Listeria monocytogenes Serotype 5</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Listeria monocytogenes Serovar 5</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Listeria ivanovii.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Listeria ivanovii</nciodm:PreferredTerm>
                 </EnumeratedItem>
@@ -3516,7 +3496,7 @@
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="MANSONELLA PERSTANS" nciodm:ExtCodeID="C119326">
                     <nciodm:CDISCSynonym>Dipetalonema perstans</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Any parasitic organism that can be assigned to the species Mansonella perstans.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>Any nematode parasite that can be assigned to the species Mansonella perstans.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Mansonella perstans</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="MANSONELLA STREPTOCERCA" nciodm:ExtCodeID="C122327">
@@ -3525,7 +3505,6 @@
                     <nciodm:PreferredTerm>Mansonella streptocerca</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="MARBURGVIRUS" nciodm:ExtCodeID="C112331">
-                    <nciodm:CDISCSynonym>Marburg Virus</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Any viral organism that can be assigned to the genus Marburgvirus.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Marburgvirus</nciodm:PreferredTerm>
                 </EnumeratedItem>
@@ -3586,7 +3565,6 @@
                     <nciodm:PreferredTerm>Pichia guilliermondii</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="MICROBACTERIUM" nciodm:ExtCodeID="C85511">
-                    <nciodm:CDISCSynonym>CDC CORYNEFORM GROUP A-4, A-5</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Any bacteria that is not assigned to the species level but can be assigned to the Microbacterium genus level.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Microbacterium</nciodm:PreferredTerm>
                 </EnumeratedItem>
@@ -3668,12 +3646,11 @@
                     <nciodm:PreferredTerm>Molluscum Contagiosum Virus</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="MORAXELLA" nciodm:ExtCodeID="C86009">
-                    <nciodm:CDISCSynonym>BRANHAMELLA SPECIES</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Branhamella</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Any bacteria that is not assigned to the species level but can be assigned to the Moraxella genus level.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Moraxella</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="MORAXELLA ATLANTAE" nciodm:ExtCodeID="C86523">
-                    <nciodm:CDISCSynonym>CDC GROUP M-3</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Moraxella atlantae.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Moraxella atlantae</nciodm:PreferredTerm>
                 </EnumeratedItem>
@@ -3770,7 +3747,7 @@
                     <nciodm:PreferredTerm>Mycobacterium avium</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="MYCOBACTERIUM AVIUM COMPLEX" nciodm:ExtCodeID="C76368">
-                    <nciodm:CDISCDefinition>A non-taxonomic grouping of bacteria assigned to and including at least three related subspecies from the Mycobacterium avium species.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A non-taxonomic grouping of bacterial species that are phenotypically or genetically similar to the Mycobacterium avium species.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Mycobacterium avium complex</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="MYCOBACTERIUM BOVIS" nciodm:ExtCodeID="C85545">
@@ -3799,7 +3776,7 @@
                     <nciodm:PreferredTerm>Mycobacterium fortuitum</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="MYCOBACTERIUM FORTUITUM COMPLEX" nciodm:ExtCodeID="C86539">
-                    <nciodm:CDISCDefinition>A non-taxonomic grouping of bacteria assigned to the Mycobacterium genus, which includes the related species and subspecies M. chelonei subsp. chelonei, M. chelonei subsp. abscessus, M. fortuitum, and M. peregrinum.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A non-taxonomic grouping of bacterial species that are phenotypically or genetically similar to the Mycobacterium fortuitum species.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Mycobacterium fortuitum Complex</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="MYCOBACTERIUM GASTRI" nciodm:ExtCodeID="C86540">
@@ -3870,7 +3847,7 @@
                     <nciodm:PreferredTerm>Mycobacterium tuberculosis</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="MYCOBACTERIUM TUBERCULOSIS COMPLEX" nciodm:ExtCodeID="C86594">
-                    <nciodm:CDISCDefinition>A non-taxonomic grouping of bacteria assigned to the Mycobacterium genus, which includes the related species M. tuberculosis, M. africanum, M. bovis, and M. microti.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A non-taxonomic grouping of bacterial species that are phenotypically or genetically similar to the Mycobacterium tuberculosis species.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Mycobacterium tuberculosis Complex</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="MYCOBACTERIUM ULCERANS" nciodm:ExtCodeID="C86595">
@@ -3970,7 +3947,6 @@
                     <nciodm:PreferredTerm>Neisseria lactamica</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="NEISSERIA MENINGITIDIS" nciodm:ExtCodeID="C86605">
-                    <nciodm:CDISCSynonym>BETA-LACTAMASE NEGATIVE NEISSERIA MENINGITIDIS</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Neisseria meningitidis.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Neisseria meningitidis</nciodm:PreferredTerm>
                 </EnumeratedItem>
@@ -4024,7 +4000,7 @@
                     <nciodm:PreferredTerm>Nocardia asteroides</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="NOCARDIA ASTEROIDES COMPLEX" nciodm:ExtCodeID="C86612">
-                    <nciodm:CDISCDefinition>A non-taxonomic grouping of bacteria assigned to and including at least four related species from the Nocardia genus.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A non-taxonomic grouping of bacterial species that are phenotypically or genetically similar to the Nocardia asteroides species.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Nocardia asteroides Complex</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="NOCARDIA BRASILIENSIS" nciodm:ExtCodeID="C86613">
@@ -4109,7 +4085,6 @@
                     <nciodm:PreferredTerm>Oligella ureolytica</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="OLIGELLA URETHRALIS" nciodm:ExtCodeID="C86626">
-                    <nciodm:CDISCSynonym>CDC GROUP M-4</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Oligella urethralis.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Oligella urethralis</nciodm:PreferredTerm>
                 </EnumeratedItem>
@@ -4121,6 +4096,15 @@
                     <nciodm:CDISCSynonym>Lactobacillus uli</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Olsenella uli.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Olsenella uli</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ONCHOCERCA VOLVULUS" nciodm:ExtCodeID="C124355">
+                    <nciodm:CDISCDefinition>Any trematode parasite that can be assigned to the species Onchocerca volvulus.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Onchocerca volvulus</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="OPISTHORCHIS FELINEUS" nciodm:ExtCodeID="C124356">
+                    <nciodm:CDISCSynonym>Cat Liver Fluke</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any trematode parasite that can be assigned to the species Opisthorchis felineus.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Opisthorchis felineus</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="ORBIVIRUS" nciodm:ExtCodeID="C112365">
                     <nciodm:CDISCDefinition>Any viral organism that can be assigned to the genus Orbivirus.</nciodm:CDISCDefinition>
@@ -4232,7 +4216,6 @@
                     <nciodm:PreferredTerm>Pasteurella aerogenes</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="PASTEURELLA BETTYAE" nciodm:ExtCodeID="C86638">
-                    <nciodm:CDISCSynonym>CDC GROUP HB-5</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Pasteurella bettyae.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Pasteurella bettyae</nciodm:PreferredTerm>
                 </EnumeratedItem>
@@ -4326,9 +4309,8 @@
                     <nciodm:PreferredTerm>Photobacterium</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="PHOTOBACTERIUM DAMSELAE" nciodm:ExtCodeID="C86647">
-                    <nciodm:CDISCSynonym>CDC GROUP EF-5</nciodm:CDISCSynonym>
-                    <nciodm:CDISCSynonym>PHOTOBACTERIUM DAMSELAE SUBSP. DAMSELAE</nciodm:CDISCSynonym>
-                    <nciodm:CDISCSynonym>VIBRIO DAMSELA</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Photobacterium damselae subsp. damselae</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Vibrio damsela</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Photobacterium damselae.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Photobacterium damselae</nciodm:PreferredTerm>
                 </EnumeratedItem>
@@ -4388,6 +4370,10 @@
                     <nciodm:CDISCDefinition>Any unicellular, eukaryotic organism that can be assigned to the species Plasmodium vivax.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Plasmodium vivax</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="PLEISTOPHORA" nciodm:ExtCodeID="C124357">
+                    <nciodm:CDISCDefinition>Any fungal organism that is not assigned to the species level but can be assigned to the Pleistophora genus level.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Pleistophora</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="PLESIOMONAS" nciodm:ExtCodeID="C86651">
                     <nciodm:CDISCDefinition>Any bacteria that is not assigned to the species level but can be assigned to the Plesiomonas genus level.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Plesiomonas</nciodm:PreferredTerm>
@@ -4396,6 +4382,10 @@
                     <nciodm:CDISCSynonym>Aeromonas shigelloides</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Plesiomonas shigelloides.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Plesiomonas shigelloides</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PNEUMOCYSTIS" nciodm:ExtCodeID="C124358">
+                    <nciodm:CDISCDefinition>Any fungal organism that is not assigned to the species level but can be assigned to the Pneumocystis genus level.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Pneumocystis</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="PNEUMOVIRUS" nciodm:ExtCodeID="C112398">
                     <nciodm:CDISCDefinition>Any viral organism that can be assigned to the genus Pneumovirus.</nciodm:CDISCDefinition>
@@ -4447,6 +4437,15 @@
                 <EnumeratedItem CodedValue="PREVOTELLA" nciodm:ExtCodeID="C86660">
                     <nciodm:CDISCDefinition>Any bacteria that is not assigned to the species level but can be assigned to the Prevotella genus level.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Prevotella</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PREVOTELLA AMNII" nciodm:ExtCodeID="C124359">
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Prevotella amnii.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Prevotella amnii</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PREVOTELLA BARONIAE" nciodm:ExtCodeID="C124360">
+                    <nciodm:CDISCSynonym>Prevotella Genomospecies E4</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Prevotella baroniae.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Prevotella baroniae</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="PREVOTELLA BERGENSIS" nciodm:ExtCodeID="C119330">
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Prevotella bergensis.</nciodm:CDISCDefinition>
@@ -4501,7 +4500,7 @@
                     <nciodm:PreferredTerm>Prevotella intermedia</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="PREVOTELLA INTERMEDIA/NIGRESCENS GROUP" nciodm:ExtCodeID="C86671">
-                    <nciodm:CDISCDefinition>A non-taxonomic grouping of bacteria assigned to the Prevotella genus that include the P. intermedia and P. nigrescens species.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A non-taxonomic grouping of bacteria that belongs to the intermedia/nigrescens group of the genus Prevotella.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Prevotella intermedia/nigrescens Group</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="PREVOTELLA LOESCHEII" nciodm:ExtCodeID="C86672">
@@ -4535,6 +4534,10 @@
                 <EnumeratedItem CodedValue="PREVOTELLA TANNERAE" nciodm:ExtCodeID="C86678">
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Prevotella tannerae.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Prevotella tannerae</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PREVOTELLA TIMONENSIS" nciodm:ExtCodeID="C124361">
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Prevotella timonensis.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Prevotella timonensis</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="PREVOTELLA VERORALIS" nciodm:ExtCodeID="C86679">
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Prevotella veroralis.</nciodm:CDISCDefinition>
@@ -4595,9 +4598,18 @@
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Proteus vulgaris.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Proteus vulgaris</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="PROTOTHECA STAGNORUM" nciodm:ExtCodeID="C124362">
+                    <nciodm:CDISCSynonym>Prototheca stagnora</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any algal organism that can be assigned to the species Prototheca stagnorum.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Prototheca stagnorum</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="PROTOTHECA WICKERHAMII" nciodm:ExtCodeID="C114271">
                     <nciodm:CDISCDefinition>Any algal organism that can be assigned to the species Prototheca wickerhamii.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Prototheca wickerhamii</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PROTOTHECA ZOPFII" nciodm:ExtCodeID="C124363">
+                    <nciodm:CDISCDefinition>Any algal organism that can be assigned to the species Prototheca zopfii.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Prototheca zopfii</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="PROVIDENCIA" nciodm:ExtCodeID="C86690">
                     <nciodm:CDISCDefinition>Any bacteria that is not assigned to the species level but can be assigned to the Providencia genus level.</nciodm:CDISCDefinition>
@@ -4624,6 +4636,10 @@
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Providencia stuartii.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Providencia stuartii</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="PROVIDENCIA STUARTII, UREA-POSITIVE" nciodm:ExtCodeID="C124364">
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Providencia stuartii and is able to metabolize urea.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Urea-Positive Providencia stuartii</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="PSEUDOCOWPOX VIRUS" nciodm:ExtCodeID="C112401">
                     <nciodm:CDISCSynonym>Paravaccinia virus</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Pseudocowpoxvirus</nciodm:CDISCSynonym>
@@ -4646,8 +4662,14 @@
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Pseudomonas chlororaphis.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Pseudomonas chlororaphis</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="PSEUDOMONAS FLUORESCENS" nciodm:ExtCodeID="C86700">
+                    <nciodm:CDISCSynonym>Bacterium fluorescen</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Liquidomonas fluorescens</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Pseudomonas fluorescens.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Pseudomonas fluorescens</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="PSEUDOMONAS FLUORESCENS/PUTIDA GROUP" nciodm:ExtCodeID="C86962">
-                    <nciodm:CDISCDefinition>A non-taxonomic grouping of bacteria assigned to the Pseudomonas genus that include the P. fluorescens and P. putida species.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A non-taxonomic grouping of bacteria that belongs to the fluorescens/putida group of the genus Pseudomonas.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Pseudomonas fluorescens/putida Group</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="PSEUDOMONAS LUTEOLA" nciodm:ExtCodeID="C86701">
@@ -4656,13 +4678,17 @@
                     <nciodm:PreferredTerm>Pseudomonas luteola</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="PSEUDOMONAS MENDOCINA" nciodm:ExtCodeID="C86702">
-                    <nciodm:CDISCSynonym>CDC GROUP VB-2</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Pseudomonas mendocina.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Pseudomonas mendocina</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="PSEUDOMONAS MOSSELII" nciodm:ExtCodeID="C86703">
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Pseudomonas mosselii.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Pseudomonas mosselii</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PSEUDOMONAS NITROREDUCENS" nciodm:ExtCodeID="C124365">
+                    <nciodm:CDISCSynonym>Pseudomonas azelaica</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Pseudomonas nitroreducens.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Pseudomonas nitroreducens</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="PSEUDOMONAS ORYZIHABITANS" nciodm:ExtCodeID="C76319">
                     <nciodm:CDISCSynonym>Flavimonas oryzihabitans</nciodm:CDISCSynonym>
@@ -4679,9 +4705,15 @@
                     <nciodm:PreferredTerm>Pseudomonas putida</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="PSEUDOMONAS STUTZERI" nciodm:ExtCodeID="C86706">
-                    <nciodm:CDISCSynonym>PSEUDOMONAS GROUP VB-1</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Pseudomonas stutzeri.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Pseudomonas stutzeri</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PSEUDOTERRANOVA DECIPIENS" nciodm:ExtCodeID="C124366">
+                    <nciodm:CDISCSynonym>Codworm</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Phocanema decipiens</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Sealworm</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any nematode parasite that can be assigned to the species Pseudoterranova decipiens.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Pseudoterranova decipiens</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="PSYCHROBACTER" nciodm:ExtCodeID="C86707">
                     <nciodm:CDISCDefinition>Any bacteria that is not assigned to the species level but can be assigned to the Psychrobacter genus level.</nciodm:CDISCDefinition>
@@ -4692,10 +4724,13 @@
                     <nciodm:PreferredTerm>Psychrobacter immobilis</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="PSYCHROBACTER PHENYLPYRUVICUS" nciodm:ExtCodeID="C86709">
-                    <nciodm:CDISCSynonym>CDC GROUP M-2</nciodm:CDISCSynonym>
-                    <nciodm:CDISCSynonym>MORAXELLA PHENYLPYRUVICA</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Moraxella phenylpyruvica</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Psychrobacter phenylpyruvicus.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Psychrobacter phenylpyruvicus</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PYRENOCHAETA" nciodm:ExtCodeID="C124367">
+                    <nciodm:CDISCDefinition>Any fungal organism that is not assigned to the species level but can be assigned to the Pyrenochaeta genus level.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Pyrenochaeta</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="RABIES VIRUS" nciodm:ExtCodeID="C112405">
                     <nciodm:CDISCDefinition>Any viral organism that can be assigned to the species Rabies virus.</nciodm:CDISCDefinition>
@@ -4723,6 +4758,11 @@
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Ralstonia pickettii.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Ralstonia pickettii</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="RALSTONIA PICKETTII BIOVARIANT 1" nciodm:ExtCodeID="C124368">
+                    <nciodm:CDISCSynonym>Pseudomonas Group CDC Va-1</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Pseudomonas pickettii biovariant 1.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Ralstonia pickettii Biovariant 1</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="RAOULTELLA" nciodm:ExtCodeID="C86714">
                     <nciodm:CDISCDefinition>Any bacteria that is not assigned to the species level but can be assigned to the Raoultella genus level.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Raoultella</nciodm:PreferredTerm>
@@ -4745,6 +4785,10 @@
                     <nciodm:CDISCSynonym>Paramyxovirus</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Any viral organism that can be assigned to the genus Paramyxovirus.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Paramyxovirus</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="RETORTAMONAS INTESTINALIS" nciodm:ExtCodeID="C124369">
+                    <nciodm:CDISCDefinition>Any unicellular, eukaryotic organism that can be assigned to the species Retortamonas intestinalis.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Retortamonas intestinalis</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="RHINOVIRUS A" nciodm:ExtCodeID="C112407">
                     <nciodm:CDISCSynonym>Human Rhinovirus A</nciodm:CDISCSynonym>
@@ -4774,6 +4818,10 @@
                     <nciodm:CDISCDefinition>Any fungal organism that can be assigned to the species Rhizomucor pusillus.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Rhizomucor pusillus</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="RHIZOPUS" nciodm:ExtCodeID="C77196">
+                    <nciodm:CDISCDefinition>Any fungal organism that is not assigned to the species level but can be assigned to the Rhizopus genus level.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Rhizopus</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="RHODOCOCCUS" nciodm:ExtCodeID="C76378">
                     <nciodm:CDISCDefinition>Any bacteria that is not assigned to the species level but can be assigned to the Rhodococcus genus level.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Rhodococcus</nciodm:PreferredTerm>
@@ -4782,6 +4830,10 @@
                     <nciodm:CDISCSynonym>Corynebacterium equi</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Rhodococcus equi.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Rhodococcus equi</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="RHODOTORULA" nciodm:ExtCodeID="C124370">
+                    <nciodm:CDISCDefinition>Any fungal organism that is not assigned to the species level but can be assigned to the Rhodotorula genus level.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Rhodotorula</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="RHODOTORULA GLUTINIS" nciodm:ExtCodeID="C114264">
                     <nciodm:CDISCDefinition>Any fungal organism that can be assigned to the species Rhodotorula glutinis.</nciodm:CDISCDefinition>
@@ -4830,6 +4882,14 @@
                     <nciodm:CDISCDefinition>Any bacteria that is not assigned to the species level but can be assigned to the Roseomonas genus level.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Roseomonas</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="ROSEOMONAS GILARDII" nciodm:ExtCodeID="C124371">
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Roseomonas gilardii.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Roseomonas gilardii</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ROSEOMONAS MUCOSA" nciodm:ExtCodeID="C124372">
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Roseomonas mucosa.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Roseomonas mucosa</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="ROSS RIVER VIRUS" nciodm:ExtCodeID="C112411">
                     <nciodm:CDISCSynonym>RRV</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Any viral organism that can be assigned to the species Ross River virus.</nciodm:CDISCDefinition>
@@ -4870,6 +4930,10 @@
                     <nciodm:CDISCDefinition>Any bacteria that is not assigned to the species level but can be assigned to the Ruminococcus genus level.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Ruminococcus</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="RUMINOCOCCUS GNAVUS" nciodm:ExtCodeID="C124373">
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Ruminococcus gnavus.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Ruminococcus gnavus</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="RUMINOCOCCUS PRODUCTUS" nciodm:ExtCodeID="C86730">
                     <nciodm:CDISCSynonym>Peptostreptococcus productus</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Ruminococcus productus.</nciodm:CDISCDefinition>
@@ -4886,7 +4950,6 @@
                     <nciodm:PreferredTerm>Saccharomyces cerevisiae</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="SALMONELLA" nciodm:ExtCodeID="C76380">
-                    <nciodm:CDISCSynonym>SALMONELLA SEROGROUP D (NOT S. TYPHI)</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Any bacteria that is not assigned to the species level but can be assigned to the Salmonella genus level.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Salmonella</nciodm:PreferredTerm>
                 </EnumeratedItem>
@@ -4894,11 +4957,20 @@
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Salmonella bongori.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Salmonella bongori</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="SALMONELLA CHOLERAESUIS VAR. DECATUR" nciodm:ExtCodeID="C124374">
+                    <nciodm:CDISCSynonym>Salmonella decatur</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Salmonella choleraesuis variant decatur.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Salmonella enterica Serotype choleraesuis var. decatur</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="SALMONELLA ENTERICA" nciodm:ExtCodeID="C86731">
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Salmonella enterica.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Salmonella enterica</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="SALMONELLA ENTERICA SUBSP. ARIZONAE" nciodm:ExtCodeID="C86910">
+                    <nciodm:CDISCSynonym>Arizona arizonae</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Arizona hinshawii</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Paracolobactrum arizonae</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Salmonella arizonae</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Salmonella enterica subspecies arizonae.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Salmonella enterica subsp arizonae</nciodm:PreferredTerm>
                 </EnumeratedItem>
@@ -4909,6 +4981,27 @@
                 <EnumeratedItem CodedValue="SALMONELLA ENTERICA SUBSP. ENTERICA" nciodm:ExtCodeID="C86913">
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Salmonella enterica subspecies enterica.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Salmonella enterica subsp enterica</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SALMONELLA ENTERICA SUBSP. ENTERICA SEROVAR ENTERITIDIS" nciodm:ExtCodeID="C124375">
+                    <nciodm:CDISCSynonym>Bacillus enteritidis</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Salmonella enteritidis</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Salmonella enterica subspecies enterica serovariant enteritidis.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Salmonella enterica subsp. enterica Serovar enteritidis</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SALMONELLA ENTERICA SUBSP. ENTERICA SEROVAR GALLINARUM" nciodm:ExtCodeID="C124376">
+                    <nciodm:CDISCSynonym>Salmonella gallinarum</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Salmonella enterica subspecies enterica serovariant gallinarum.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Salmonella enterica subsp. enterica Serovar gallinarum</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SALMONELLA ENTERICA SUBSP. ENTERICA SEROVAR PULLORUM" nciodm:ExtCodeID="C124377">
+                    <nciodm:CDISCSynonym>Salmonella pullorum</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Salmonella enterica subspecies enterica serovariant pullorum.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Salmonella enterica subsp. enterica Serovar Pullorum</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SALMONELLA ENTERICA SUBSP. ENTERICA SEROVAR TYPHISUIS" nciodm:ExtCodeID="C124378">
+                    <nciodm:CDISCSynonym>Salmonella typhisuis</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Salmonella enterica subspecies enterica serovariant typhisuis.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Salmonella enterica subsp. enterica Serovar typhisuis</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="SALMONELLA ENTERICA SUBSP. HOUTENAE" nciodm:ExtCodeID="C91845">
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Salmonella enterica subspecies houtenae.</nciodm:CDISCDefinition>
@@ -4933,6 +5026,26 @@
                 <EnumeratedItem CodedValue="SALMONELLA SEROTYPE ENTERITIDIS" nciodm:ExtCodeID="C86919">
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the genus Salmonella with serotype Enteritidis.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Salmonella Serotype Enteritidis</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SALMONELLA SEROTYPE GROUP A" nciodm:ExtCodeID="C124379">
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the genus Salmonella and serotype group A.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Salmonella Serotype Group A</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SALMONELLA SEROTYPE GROUP B" nciodm:ExtCodeID="C124380">
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the genus Salmonella and serotype group B.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Salmonella Serotype Group B</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SALMONELLA SEROTYPE GROUP C" nciodm:ExtCodeID="C124381">
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the genus Salmonella and serotype group C.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Salmonella Serotype Group C</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SALMONELLA SEROTYPE GROUP C1" nciodm:ExtCodeID="C124382">
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the genus Salmonella and serotype group C1.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Salmonella Serotype Group C1</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SALMONELLA SEROTYPE GROUP C2" nciodm:ExtCodeID="C124383">
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the genus Salmonella and serotype group C2.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Salmonella Serotype Group C2</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="SALMONELLA SEROTYPE NEWPORT" nciodm:ExtCodeID="C86921">
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the genus Salmonella with serotype Newport.</nciodm:CDISCDefinition>
@@ -4968,12 +5081,61 @@
                     <nciodm:CDISCDefinition>Any viral organism that can be assigned to the species Sapporo virus.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Sapporo Virus</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="SARCINA VENTRICULI" nciodm:ExtCodeID="C124384">
+                    <nciodm:CDISCSynonym>Zymosarcina ventriculi</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Sarcina ventriculi.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Sarcina ventriculi</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SARCOCYSTIS" nciodm:ExtCodeID="C124286">
+                    <nciodm:CDISCDefinition>Any unicellular, eukaryotic organism that is not assigned to the species level but can be assigned to the Sarcocystis genus level.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Sarcocystis</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SARCOCYSTIS HOMINIS" nciodm:ExtCodeID="C124385">
+                    <nciodm:CDISCDefinition>Any unicellular, eukaryotic organism that can be assigned to the species Sarcocystis hominis.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Sarcocystis hominis</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SARCOCYSTIS SUIHOMINIS" nciodm:ExtCodeID="C124386">
+                    <nciodm:CDISCDefinition>Any unicellular, eukaryotic organism that can be assigned to the species Sarcocystis suihominis.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Sarcocystis suihominis</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="SARS CORONAVIRUS" nciodm:ExtCodeID="C112432">
                     <nciodm:CDISCSynonym>HCoV-SARS</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>SARS</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Severe Acute Respiratory Syndrome Coronavirus</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Any viral organism that can be assigned to the species SARS coronavirus.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>SARS Coronavirus</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SCHISTOSOMA CERCARIAE" nciodm:ExtCodeID="C124387">
+                    <nciodm:CDISCDefinition>Any trematode parasite that can be assigned to the genus Schistosoma and is in the larval life stage.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Schistosoma cercariae</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SCHISTOSOMA HAEMATOBIUM" nciodm:ExtCodeID="C124388">
+                    <nciodm:CDISCDefinition>Any trematode parasite that can be assigned to the species Schistosoma haematobium.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Schistosoma haematobium</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SCHISTOSOMA INTERCALATUM" nciodm:ExtCodeID="C124389">
+                    <nciodm:CDISCDefinition>Any trematode parasite that can be assigned to the species Schistosoma intercalatum.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Schistosoma Intercalatum</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SCHISTOSOMA JAPONICUM" nciodm:ExtCodeID="C124390">
+                    <nciodm:CDISCDefinition>Any trematode parasite that can be assigned to the species Schistosoma japonicum.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Schistosoma japonicum</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SCHISTOSOMA MANSONI" nciodm:ExtCodeID="C124391">
+                    <nciodm:CDISCDefinition>Any trematode parasite that can be assigned to the species Schistosoma mansoni.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Schistosoma mansoni</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SCHISTOSOMA MEKONGI" nciodm:ExtCodeID="C124392">
+                    <nciodm:CDISCDefinition>Any trematode parasite that can be assigned to the species Schistosoma mekongi.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Schistosoma mekongi</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SCHIZOPHYLLUM" nciodm:ExtCodeID="C124393">
+                    <nciodm:CDISCDefinition>Any fungal organism that is not assigned to the species level but can be assigned to the Schizophyllum genus level.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Schizophyllum</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SCOPULARIOPSIS" nciodm:ExtCodeID="C124394">
+                    <nciodm:CDISCDefinition>Any fungal organism that is not assigned to the species level but can be assigned to the Scopulariopsis genus level.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Scopulariopsis</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="SELENOMONAS" nciodm:ExtCodeID="C86732">
                     <nciodm:CDISCDefinition>Any bacteria that is not assigned to the species level but can be assigned to the Selenomonas genus level.</nciodm:CDISCDefinition>
@@ -5005,6 +5167,10 @@
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Serratia liquefaciens.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Serratia liquefaciens</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="SERRATIA LIQUEFACIENS GROUP" nciodm:ExtCodeID="C124395">
+                    <nciodm:CDISCDefinition>A non-taxonomic grouping of bacteria that belongs to the liquefaciens group of the genus Serratia.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Serratia liquefaciens Group</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="SERRATIA MARCESCENS" nciodm:ExtCodeID="C14272">
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Serratia marcescens.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Serratia marcescens</nciodm:PreferredTerm>
@@ -5012,6 +5178,14 @@
                 <EnumeratedItem CodedValue="SERRATIA ODORIFERA" nciodm:ExtCodeID="C86739">
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Serratia odorifera.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Serratia odorifera</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SERRATIA ODORIFERA BIOGROUP 1" nciodm:ExtCodeID="C124396">
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Serratia odorifera and biogroup 1.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Serratia odorifera Biogroup 1</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SERRATIA ODORIFERA BIOGROUP 2" nciodm:ExtCodeID="C124397">
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Serratia odorifera and biogroup 2.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Serratia odorifera Biogroup 2</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="SERRATIA PLYMUTHICA" nciodm:ExtCodeID="C86740">
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Serratia plymuthica.</nciodm:CDISCDefinition>
@@ -5036,27 +5210,29 @@
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Shewanella putrefaciens.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Shewanella putrefaciens</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="SHEWANELLA PUTREFACIENS GROUP" nciodm:ExtCodeID="C124398">
+                    <nciodm:CDISCSynonym>Alteromonas putrefaciens</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Pseudomonas putrefaciens</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A non-taxonomic grouping of bacteria that belongs to the putrefaciens group of the genus Shewanella.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Shewanella putrefaciens Group</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="SHIGELLA" nciodm:ExtCodeID="C76381">
                     <nciodm:CDISCDefinition>Any bacteria that is not assigned to the species level but can be assigned to the Shigella genus level.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Shigella</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="SHIGELLA BOYDII" nciodm:ExtCodeID="C86744">
-                    <nciodm:CDISCSynonym>SHIGELLA BIOGROUP C</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Shigella boydii.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Shigella boydii</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="SHIGELLA DYSENTERIAE" nciodm:ExtCodeID="C86745">
-                    <nciodm:CDISCSynonym>SHIGELLA BIOGROUP A</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Shigella dysenteriae.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Shigella dysenteriae</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="SHIGELLA FLEXNERI" nciodm:ExtCodeID="C86746">
-                    <nciodm:CDISCSynonym>SHIGELLA BIOGROUP B</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Shigella flexneri.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Shigella flexneri</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="SHIGELLA SONNEI" nciodm:ExtCodeID="C86747">
-                    <nciodm:CDISCSynonym>SHIGELLA BIOGROUP D</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Shigella sonnei.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Shigella sonnei</nciodm:PreferredTerm>
                 </EnumeratedItem>
@@ -5089,7 +5265,6 @@
                     <nciodm:PreferredTerm>Sphingobacterium multivorum</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="SPHINGOBACTERIUM SPIRITIVORUM" nciodm:ExtCodeID="C86960">
-                    <nciodm:CDISCSynonym>CDC GROUP IIK-3</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Sphingobacterium spiritivorum.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Sphingobacterium spiritivorum</nciodm:PreferredTerm>
                 </EnumeratedItem>
@@ -5103,10 +5278,17 @@
                     <nciodm:PreferredTerm>Sphingomonas</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="SPHINGOMONAS PAUCIMOBILIS" nciodm:ExtCodeID="C86749">
-                    <nciodm:CDISCSynonym>CDC GROUP IIK-1</nciodm:CDISCSynonym>
-                    <nciodm:CDISCSynonym>PSEUDOMONAS PAUCIMOBILIS</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Pseudomonas paucimobilis</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Sphingomonas paucimobilis.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Sphingomonas paucimobilis</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SPIRILLUM" nciodm:ExtCodeID="C124288">
+                    <nciodm:CDISCDefinition>Any bacterial organism that is not assigned to the species level but can be assigned to the Spirillum genus level.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Spirillum</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SPIRILLUM MINUS" nciodm:ExtCodeID="C124399">
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Spirillum minus.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Spirillum minus</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="STAPHYLOCOCCUS" nciodm:ExtCodeID="C62583">
                     <nciodm:CDISCDefinition>Any bacteria that is not assigned to the species level but can be assigned to the Staphylococcus genus level.</nciodm:CDISCDefinition>
@@ -5120,6 +5302,22 @@
                     <nciodm:CDISCSynonym>Staph. aureus</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Staphylococcus aureus.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Staphylococcus aureus</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="STAPHYLOCOCCUS AUREUS, BETA-LACTAMASE NEGATIVE" nciodm:ExtCodeID="C124400">
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Staphylococcus aureus and is beta-lactamase negative.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Beta-Lactamase Negative Staphylococcus aureus</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="STAPHYLOCOCCUS AUREUS, BETA-LACTAMASE POSITIVE" nciodm:ExtCodeID="C124401">
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Staphylococcus aureus and is beta-lactamase positive.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Beta-Lactamase Positive Staphylococcus aureus</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="STAPHYLOCOCCUS AUREUS, PENICILLINASE NEGATIVE" nciodm:ExtCodeID="C124402">
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Staphylococcus aureus and is penicillinase negative.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Penicillinase Negative Staphylococcus aureus</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="STAPHYLOCOCCUS AUREUS, PENICILLINASE POSITIVE" nciodm:ExtCodeID="C124403">
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Staphylococcus aureus and is penicillinase positive.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Penicillinase Positive Staphylococcus aureus</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="STAPHYLOCOCCUS AURICULARIS" nciodm:ExtCodeID="C86751">
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Staphylococcus auricularis.</nciodm:CDISCDefinition>
@@ -5144,6 +5342,10 @@
                 <EnumeratedItem CodedValue="STAPHYLOCOCCUS COHNII" nciodm:ExtCodeID="C86756">
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Staphylococcus cohnii.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Staphylococcus cohnii</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="STAPHYLOCOCCUS COHNII SUBSP. UREALYTICUS" nciodm:ExtCodeID="C124404">
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Staphylococcus cohnii subspecies urealyticus.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Staphylococcus cohnii subsp. urealyticus</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="STAPHYLOCOCCUS EPIDERMIDIS" nciodm:ExtCodeID="C86757">
                     <nciodm:CDISCSynonym>Staphylococcus albus</nciodm:CDISCSynonym>
@@ -5202,13 +5404,16 @@
                     <nciodm:PreferredTerm>Staphylococcus saccharolyticus</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="STAPHYLOCOCCUS SAPROPHYTICUS" nciodm:ExtCodeID="C86770">
-                    <nciodm:CDISCSynonym>MICROCOCCUS SUBGROUP 3</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Staphylococcus saprophyticus.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Staphylococcus saprophyticus</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="STAPHYLOCOCCUS SCHLEIFERI" nciodm:ExtCodeID="C86771">
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Staphylococcus schleiferi.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Staphylococcus schleiferi</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="STAPHYLOCOCCUS SCHLEIFERI SUBSP. COAGULANS" nciodm:ExtCodeID="C124405">
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Staphylococcus schleiferi subspecies coagulans.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Staphylococcus schleiferi subsp. coagulans</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="STAPHYLOCOCCUS SCIURI" nciodm:ExtCodeID="C86772">
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Staphylococcus sciuri.</nciodm:CDISCDefinition>
@@ -5218,6 +5423,10 @@
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Staphylococcus simulans.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Staphylococcus simulans</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="STAPHYLOCOCCUS SUCCINUS" nciodm:ExtCodeID="C124406">
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Staphylococcus succinus.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Staphylococcus succinus</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="STAPHYLOCOCCUS WARNERI" nciodm:ExtCodeID="C86774">
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Staphylococcus warneri.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Staphylococcus warneri</nciodm:PreferredTerm>
@@ -5225,6 +5434,10 @@
                 <EnumeratedItem CodedValue="STAPHYLOCOCCUS XYLOSUS" nciodm:ExtCodeID="C86775">
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Staphylococcus xylosus.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Staphylococcus xylosus</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="STEMPHYLIUM" nciodm:ExtCodeID="C124407">
+                    <nciodm:CDISCDefinition>Any fungal organism that is not assigned to the species level but can be assigned to the Stemphylium genus level.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Stemphylium</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="STENOTROPHOMONAS" nciodm:ExtCodeID="C86776">
                     <nciodm:CDISCSynonym>Stenotrophomonas</nciodm:CDISCSynonym>
@@ -5265,20 +5478,18 @@
                     <nciodm:PreferredTerm>Streptococcus alactolyticus</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="STREPTOCOCCUS ALPHA-HEMOLYTIC" nciodm:ExtCodeID="C86141">
-                    <nciodm:CDISCSynonym>ALPHA-HEMOLYTIC STREPTOCOCCUS</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A bacteria that is assigned to the genus Streptococcus that is able to reduce the iron content in hemoglobin in red blood cells, thus producing green-colored colonies on blood agar plates.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Alpha-Hemolytic Streptococcus</nciodm:PreferredTerm>
                 </EnumeratedItem>
-                <EnumeratedItem CodedValue="STREPTOCOCCUS ANGINOSIS" nciodm:ExtCodeID="C86782">
-                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Streptococcus anginosis.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Streptococcus anginosis</nciodm:PreferredTerm>
+                <EnumeratedItem CodedValue="STREPTOCOCCUS ANGINOSUS" nciodm:ExtCodeID="C86782">
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Streptococcus anginosus.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Streptococcus anginosus</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="STREPTOCOCCUS ANGINOSUS GROUP" nciodm:ExtCodeID="C86783">
-                    <nciodm:CDISCDefinition>A bacteria that belongs to the Anginosus group of the genus Streptococcus.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A non-taxonomic grouping of bacteria that belongs to the anginosus group of the genus Streptococcus.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Streptococcus anginosus Group</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="STREPTOCOCCUS BETA-HEMOLYTIC" nciodm:ExtCodeID="C86190">
-                    <nciodm:CDISCSynonym>BETA-HEMOLYTIC STREPTOCOCCUS</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A bacteria that is assigned to the genus Streptococcus that is able to facilitate the complete rupturing of red blood cells, thus producing wide, clear, zones around colonies on blood agar plates.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Beta-Hemolytic Streptococcus</nciodm:PreferredTerm>
                 </EnumeratedItem>
@@ -5287,11 +5498,10 @@
                     <nciodm:PreferredTerm>Streptococcus bovis</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="STREPTOCOCCUS BOVIS GROUP" nciodm:ExtCodeID="C86785">
-                    <nciodm:CDISCDefinition>A bacteria that belongs to the Bovis group of the genus Streptococcus.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A non-taxonomic grouping of bacteria that belongs to the bovis group of the genus Streptococcus.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Streptococcus bovis Group</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="STREPTOCOCCUS CANIS" nciodm:ExtCodeID="C86786">
-                    <nciodm:CDISCSynonym>Streptococcus dysgalactiae</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Streptococcus canis.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Streptococcus canis</nciodm:PreferredTerm>
                 </EnumeratedItem>
@@ -5302,6 +5512,10 @@
                 <EnumeratedItem CodedValue="STREPTOCOCCUS CRISTATUS" nciodm:ExtCodeID="C86788">
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Streptococcus cristatus.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Streptococcus cristatus</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="STREPTOCOCCUS DYSGALACTIAE" nciodm:ExtCodeID="C86905">
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Streptococcus dysgalactiae.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Streptococcus dysgalactiae</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="STREPTOCOCCUS DYSGALACTIAE SUBSP. DYSGALACTIAE" nciodm:ExtCodeID="C91848">
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Streptococcus dysgalactiae subspecies dysgalactiae.</nciodm:CDISCDefinition>
@@ -5316,6 +5530,10 @@
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Streptococcus equi.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Streptococcus equi</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="STREPTOCOCCUS EQUI SUBSP. ZOOEPIDEMICUS" nciodm:ExtCodeID="C124408">
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Streptococcus equi subspecies zooepidemicus.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Streptococcus equi subsp. zooepidemicus</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="STREPTOCOCCUS EQUINUS" nciodm:ExtCodeID="C86790">
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Streptococcus equinus.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Streptococcus equinus</nciodm:PreferredTerm>
@@ -5325,7 +5543,6 @@
                     <nciodm:PreferredTerm>Streptococcus gallolyticus</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="STREPTOCOCCUS GAMMA-HEMOLYTIC" nciodm:ExtCodeID="C86408">
-                    <nciodm:CDISCSynonym>GAMMA-HEMOLYTIC STREPTOCOCCUS</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A bacteria that is assigned to the genus Streptococcus that is unable to facilitate red blood cell lysis.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Gamma-Hemolytic Streptococcus</nciodm:PreferredTerm>
                 </EnumeratedItem>
@@ -5341,21 +5558,37 @@
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Streptococcus intermedius.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Streptococcus intermedius</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="STREPTOCOCCUS LUTETIENSIS" nciodm:ExtCodeID="C124409">
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Streptococcus lutetiensis.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Streptococcus lutetiensis</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="STREPTOCOCCUS MASSILIENSIS" nciodm:ExtCodeID="C124410">
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Streptococcus massiliensis.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Streptococcus massiliensis</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="STREPTOCOCCUS MILLERI" nciodm:ExtCodeID="C86795">
                     <nciodm:CDISCSynonym>Streptococcus milleri I</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Streptococcus milleri.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Streptococcus milleri</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="STREPTOCOCCUS MILLERI GROUP" nciodm:ExtCodeID="C86796">
-                    <nciodm:CDISCDefinition>A bacteria that belongs to the Milleri group of the genus Streptococcus.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A non-taxonomic grouping of bacteria that belongs to the milleri group of the genus Streptococcus.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Streptococcus milleri Group</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="STREPTOCOCCUS MITIS" nciodm:ExtCodeID="C89774">
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Streptococcus mitis.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Streptococcus mitis</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="STREPTOCOCCUS MITIS GROUP" nciodm:ExtCodeID="C86797">
-                    <nciodm:CDISCDefinition>A bacteria that belongs to the Mitis group of the genus Streptococcus.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A non-taxonomic grouping of bacteria that belongs to the mitis group of the genus Streptococcus.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Streptococcus mitis Group</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="STREPTOCOCCUS MUTANS" nciodm:ExtCodeID="C124411">
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Streptococcus mutans.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Streptococcus mutans</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="STREPTOCOCCUS MUTANS GROUP" nciodm:ExtCodeID="C86798">
-                    <nciodm:CDISCDefinition>A bacteria that belongs to the Mutans group of the genus Streptococcus.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A non-taxonomic grouping of bacteria that belongs to the mutans group of the genus Streptococcus.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Streptococcus mutans Group</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="STREPTOCOCCUS NON-HEMOLYTIC" nciodm:ExtCodeID="C123553">
@@ -5377,6 +5610,10 @@
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Streptococcus parasanguinis.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Streptococcus parasanguinis</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="STREPTOCOCCUS PLURANIMALIUM" nciodm:ExtCodeID="C124412">
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Streptococcus pluranimalium.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Streptococcus pluranimalium</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="STREPTOCOCCUS PNEUMONIAE" nciodm:ExtCodeID="C76384">
                     <nciodm:CDISCSynonym>Diplococcus pneumoniae</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Streptococcus pneumoniae.</nciodm:CDISCDefinition>
@@ -5387,7 +5624,11 @@
                     <nciodm:PreferredTerm>Streptococcus porcinus</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="STREPTOCOCCUS PYOGENES" nciodm:ExtCodeID="C86803">
-                    <nciodm:CDISCSynonym>GROUP A BETA-HEMOLYTIC STREPTOCOCCUS PYOGENES</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Group A Beta-hemolytic Streptococcus pyogenes</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Micrococcus scarlatinae</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Streptococcus erysipelatos</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Streptococcus hemolyticus</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Streptococcus scarlatinae</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Streptococcus pyogenes.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Streptococcus pyogenes</nciodm:PreferredTerm>
                 </EnumeratedItem>
@@ -5396,7 +5637,7 @@
                     <nciodm:PreferredTerm>Streptococcus salivarius</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="STREPTOCOCCUS SALIVARIUS GROUP" nciodm:ExtCodeID="C86805">
-                    <nciodm:CDISCDefinition>A bacteria that belongs to the Salivarius group of the genus Streptococcus.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A non-taxonomic grouping of bacteria that belongs to the salivarius group of the genus Streptococcus.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Streptococcus salivarius Group</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="STREPTOCOCCUS SANGUINIS" nciodm:ExtCodeID="C86806">
@@ -5420,9 +5661,11 @@
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Streptococcus vestibularis.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Streptococcus vestibularis</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="STREPTOCOCCUS VIRIDANS" nciodm:ExtCodeID="C124413">
+                    <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Streptococcus viridans.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Streptococcus viridans</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="STREPTOCOCCUS VIRIDANS GROUP" nciodm:ExtCodeID="C86811">
-                    <nciodm:CDISCSynonym>Streptococcus viridans</nciodm:CDISCSynonym>
-                    <nciodm:CDISCSynonym>Viridans streptococcus</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A non-taxonomic grouping of species within the Streptococcus genus that are alpha-hemolytic and do not express Lancefield antigens.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Streptococcus viridans Group</nciodm:PreferredTerm>
                 </EnumeratedItem>
@@ -5500,6 +5743,10 @@
                     <nciodm:CDISCSynonym>CDC Enteric Group 90</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Trabulsiella guamensis.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Trabulsiella guamensis</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TREMATODA" nciodm:ExtCodeID="C123338">
+                    <nciodm:CDISCDefinition>Any parasitic flatworm that is not assigned to the species level but can be assigned to the Trematoda class level.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Trematoda</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="TREPONEMA" nciodm:ExtCodeID="C76385">
                     <nciodm:CDISCDefinition>Any bacteria that is not assigned to the species level but can be assigned to the Treponema genus level.</nciodm:CDISCDefinition>
@@ -5619,12 +5866,10 @@
                     <nciodm:PreferredTerm>Vibrio cholerae</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="VIBRIO FLUVIALIS" nciodm:ExtCodeID="C86842">
-                    <nciodm:CDISCSynonym>CDC GROUP EF-6</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Vibrio fluvialis.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Vibrio fluvialis</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="VIBRIO FURNISSII" nciodm:ExtCodeID="C86843">
-                    <nciodm:CDISCSynonym>VIBRIO FLUVIALIS BIOGROUP 2</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Vibrio furnissii.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Vibrio furnissii</nciodm:PreferredTerm>
                 </EnumeratedItem>
@@ -5634,7 +5879,6 @@
                     <nciodm:PreferredTerm>Vibrio metschnikovii</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="VIBRIO MIMICUS" nciodm:ExtCodeID="C86845">
-                    <nciodm:CDISCSynonym>SUCROSE NEGATIVE VIBRIO CHOLERAE</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Vibrio mimicus.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Vibrio mimicus</nciodm:PreferredTerm>
                 </EnumeratedItem>
@@ -5656,7 +5900,6 @@
                     <nciodm:PreferredTerm>Weeksella</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="WEEKSELLA VIROSA" nciodm:ExtCodeID="C86849">
-                    <nciodm:CDISCSynonym>CDC GROUP IIF</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Weeksella virosa.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Weeksella virosa</nciodm:PreferredTerm>
                 </EnumeratedItem>
@@ -5710,7 +5953,7 @@
                     <nciodm:PreferredTerm>Yersinia aldovae</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="YERSINIA BERCOVIERI" nciodm:ExtCodeID="C86854">
-                    <nciodm:CDISCSynonym>YERSINIA ENTEROLITICA BIOGROUP 3B</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Yersinia enterocolitica Biogroup 3B</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Yersinia bercovieri.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Yersinia bercovieri</nciodm:PreferredTerm>
                 </EnumeratedItem>
@@ -5732,7 +5975,7 @@
                     <nciodm:PreferredTerm>Yersinia kristensenii</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="YERSINIA MOLLARETII" nciodm:ExtCodeID="C86859">
-                    <nciodm:CDISCSynonym>YERSINIA ENTEROLITICA BIOGROUP 3A</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Yersinia enterocolitica Biogroup 3A</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Any bacterial organism that can be assigned to the species Yersinia mollaretii.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Yersinia mollaretii</nciodm:PreferredTerm>
                 </EnumeratedItem>

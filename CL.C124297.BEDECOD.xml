@@ -1,0 +1,61 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C124297.BEDECOD" Name="Biospecimen Events Dictionary Derived Term" DataType="text" nciodm:ExtCodeID="C124297" nciodm:CodeListExtensible="Yes">
+                <Description>
+                    <TranslatedText xml:lang="en">A terminology codelist based on the verbatim or preprinted term for the biospecimen events that occur.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="ALIQUOTING" nciodm:ExtCodeID="C124326">
+                    <nciodm:CDISCDefinition>The act of dividing a liquid item into multiple items of smaller volume.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Aliquotting</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="COLLECTING" nciodm:ExtCodeID="C25453">
+                    <nciodm:CDISCDefinition>The act of gathering an item.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Collection</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DESTROYING" nciodm:ExtCodeID="C62100">
+                    <nciodm:CDISCDefinition>The act of demolishing an item to make it unusable or unanalyzable.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Destruction</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EMBEDDING" nciodm:ExtCodeID="C48163">
+                    <nciodm:CDISCDefinition>To surround an object with a firm chemical substance such as wax or resin.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Embedding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FIXING" nciodm:ExtCodeID="C25219">
+                    <nciodm:CDISCDefinition>To chemically preserve so as to maintain structural and/or molecular features.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Fixation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FLASH FREEZING" nciodm:ExtCodeID="C63521">
+                    <nciodm:CDISCDefinition>To freeze rapidly so as to preserve structure and prevent ice crystal formation.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Quick Freeze</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FREEZING" nciodm:ExtCodeID="C48160">
+                    <nciodm:CDISCDefinition>The process whereby cold changes the water component from a liquid to a solid.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Freezing</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="RECEIVING" nciodm:ExtCodeID="C25639">
+                    <nciodm:CDISCDefinition>Coming into possession of or acting as the receptacle or recipient of an item conveyed by an intermediary to the intended destination, from a sender.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Receive</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SECTIONING" nciodm:ExtCodeID="C124327">
+                    <nciodm:CDISCDefinition>To cut a very thin slice of tissue or other substance.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Sectioning</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SHIPPING" nciodm:ExtCodeID="C40353">
+                    <nciodm:CDISCDefinition>Being transported or conveyed by an intermediary to a destination, from the sender to the intended receiver.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Shipping</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="STAINING" nciodm:ExtCodeID="C23010">
+                    <nciodm:CDISCDefinition>To dye or tint tissues or other biological samples for the purpose of imaging structures.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Staining Method</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="STORING" nciodm:ExtCodeID="C60824">
+                    <nciodm:CDISCDefinition>The act of safekeeping items in a depository.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Storage</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="THAWING" nciodm:ExtCodeID="C48165">
+                    <nciodm:CDISCDefinition>The process whereby heat changes the water component from a solid to a liquid.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Thaw</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>BEDECOD</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Biospecimen Events Dictionary Derived Term</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Biospecimen Events Dictionary Derived Term Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

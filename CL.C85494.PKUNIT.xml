@@ -55,6 +55,12 @@
                     <nciodm:CDISCDefinition>Liters per day (flow rate), divided by grams (weight).</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Liter per Gram per Day</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="(L/day)/kg" nciodm:ExtCodeID="C73755">
+                    <nciodm:CDISCSynonym>(L/day)/kg</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>mL/g/day</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Milliliters per gram per day or liters per day (flow rate), divided by kilograms (weight).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Milliliter per Gram per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="(L/day)/m2" nciodm:ExtCodeID="C120738">
                     <nciodm:CDISCDefinition>Liters per day (flow rate), divided by meters squared (surface area).</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Liter per Day per Meter Squared</nciodm:PreferredTerm>
@@ -115,6 +121,12 @@
                     <nciodm:CDISCDefinition>Liters per hour (flow rate), divided by grams (weight).</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Liter per Gram per Hour</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="(L/h)/kg" nciodm:ExtCodeID="C73756">
+                    <nciodm:CDISCSynonym>(L/h)/kg</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>mL/g/h</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Milliliters per gram per hour or liters per hour (flow rate), divided by kilograms (weight).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Milliliter per Gram per Hour</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="(L/h)/mg" nciodm:ExtCodeID="C85673">
                     <nciodm:CDISCDefinition>Liters per hour (flow rate), divided by milligrams (dose).</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Liter per Milligram per Hour</nciodm:PreferredTerm>
@@ -171,6 +183,12 @@
                     <nciodm:CDISCDefinition>Liters per minute (flow rate), divided by grams (weight).</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Liter per Gram per Minute</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="(L/min)/kg" nciodm:ExtCodeID="C73757">
+                    <nciodm:CDISCSynonym>(L/min)/kg</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>mL/g/min</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Milliliters per gram per minute or liters per minute (flow rate), divided by kilograms (weight).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Milliliter per Gram per Minute</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="(L/min)/mg" nciodm:ExtCodeID="C85674">
                     <nciodm:CDISCDefinition>Liters per minute (flow rate), divided by milligrams (dose).</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Liter per Milligram per Minute</nciodm:PreferredTerm>
@@ -226,6 +244,12 @@
                 <EnumeratedItem CodedValue="(mL/day)/g" nciodm:ExtCodeID="C120772">
                     <nciodm:CDISCDefinition>Milliliters per day (flow rate), divided by grams (weight).</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Milliliter per Day per Gram</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="(mL/day)/kg" nciodm:ExtCodeID="C73758">
+                    <nciodm:CDISCSynonym>(mL/day)/kg</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>mL/kg/day</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Milliliters per kilogram per day or milliliters per day (flow rate), divided by kilograms (weight).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Milliliter per Kilogram per Day</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="(mL/day)/m2" nciodm:ExtCodeID="C120773">
                     <nciodm:CDISCDefinition>Milliliters per day (flow rate), divided by meters squared (surface area).</nciodm:CDISCDefinition>
@@ -287,6 +311,12 @@
                     <nciodm:CDISCDefinition>Milliliters per hour (flow rate), divided by grams (weight).</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Milliliter per Hour per Gram</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="(mL/h)/kg" nciodm:ExtCodeID="C73759">
+                    <nciodm:CDISCSynonym>(mL/h)/kg</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>mL/kg/h</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Milliliters per kilogram per hour or milliliters per hour (flow rate), divided by kilograms (weight).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Milliliter per Kilogram per Hour</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="(mL/h)/m2" nciodm:ExtCodeID="C120788">
                     <nciodm:CDISCDefinition>Milliliters per hour (flow rate), divided by meters squared (surface area).</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Milliliter per Hour per Meter Squared</nciodm:PreferredTerm>
@@ -347,6 +377,12 @@
                     <nciodm:CDISCDefinition>Milliliters per minute (flow rate), divided by grams (weight).</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Milliliter per Minute per Gram</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="(mL/min)/kg" nciodm:ExtCodeID="C73760">
+                    <nciodm:CDISCSynonym>(mL/min)/kg</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>mL/kg/min</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Milliliters per kilogram per minute or milliliters per minute (flow rate), divided by kilograms (weight).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Milliliter per Kilogram per Minute</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="(mL/min)/m2" nciodm:ExtCodeID="C120803">
                     <nciodm:CDISCDefinition>Milliliters per minute (flow rate), divided by meters squared (surface area).</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Milliliter per Minute per Meter Squared</nciodm:PreferredTerm>
@@ -369,6 +405,10 @@
                     <nciodm:CDISCSynonym>Per Hour</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A rate of occurrences within a period of time equal to one hour.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Per Hour</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="/min" nciodm:ExtCodeID="C66967">
+                    <nciodm:CDISCDefinition>A rate of occurrences within a period of time equal to one minute.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Per Minute</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="day" nciodm:ExtCodeID="C25301">
                     <nciodm:CDISCSynonym>Day</nciodm:CDISCSynonym>
@@ -1449,39 +1489,30 @@
                     <nciodm:CDISCDefinition>A unit of flow rate, defined as a rate of one liter per day.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Liter per Day</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="L/g" nciodm:ExtCodeID="C124416">
+                    <nciodm:CDISCSynonym>mL/mg</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Liters (volume), divided by grams (weight) or milliliters (volume), divided by milligrams (dose).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Liter per Gram</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="L/h" nciodm:ExtCodeID="C69160">
-                    <nciodm:CDISCSynonym>L/h</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Liters per hour.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A unit of flow rate, defined as a rate of one liter per hour.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Liter per Hour</nciodm:PreferredTerm>
                 </EnumeratedItem>
-                <EnumeratedItem CodedValue="L/kg/day" nciodm:ExtCodeID="C73755">
-                    <nciodm:CDISCSynonym>L/day/kg</nciodm:CDISCSynonym>
-                    <nciodm:CDISCSynonym>L/kg/d</nciodm:CDISCSynonym>
-                    <nciodm:CDISCSynonym>Milliliter per Gram per Day</nciodm:CDISCSynonym>
-                    <nciodm:CDISCSynonym>mL/day/g</nciodm:CDISCSynonym>
-                    <nciodm:CDISCSynonym>mL/g/day</nciodm:CDISCSynonym>
-                    <nciodm:CDISCSynonym>uL/day/mg</nciodm:CDISCSynonym>
-                    <nciodm:CDISCSynonym>uL/mg/day</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Liters per kilogram per day.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Milliliter per Gram per Day</nciodm:PreferredTerm>
-                </EnumeratedItem>
-                <EnumeratedItem CodedValue="L/kg/h" nciodm:ExtCodeID="C73756">
-                    <nciodm:CDISCSynonym>Milliliter per Gram per Hour</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Milliliters per gram per hour.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Milliliter per Gram per Hour</nciodm:PreferredTerm>
-                </EnumeratedItem>
-                <EnumeratedItem CodedValue="L/kg/min" nciodm:ExtCodeID="C73757">
-                    <nciodm:CDISCSynonym>Milliliter per Gram per Minute</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Milliliters per gram per minute.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Milliliter per Gram per Minute</nciodm:PreferredTerm>
+                <EnumeratedItem CodedValue="L/kg" nciodm:ExtCodeID="C73725">
+                    <nciodm:CDISCDefinition>Liters (volume) divided by kilograms (weight).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Liter per Kilogram</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="L/m2" nciodm:ExtCodeID="C120814">
                     <nciodm:CDISCDefinition>Liters (volume), divided by meters squared (surface area).</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Liter per Meter Squared</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="L/mg" nciodm:ExtCodeID="C124417">
+                    <nciodm:CDISCSynonym>mL/ug</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Liters (volume), divided by milligrams (dose) or milliliters (volume), divided by micrograms (dose).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Liter per Milligram</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="L/min" nciodm:ExtCodeID="C67388">
-                    <nciodm:CDISCSynonym>Liters per Minute</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A unit of volumetric flow rate defined as the rate at which one liter of matter travels during the period of time equal to one minute.(NCI)</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A unit of flow rate, defined as a rate of one liter per minute.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Liter per Minute</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="L/ug" nciodm:ExtCodeID="C120815">
@@ -2021,37 +2052,27 @@
                     <nciodm:PreferredTerm>Milliliter per Microgram per Meter Squared per Day</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="mL/day" nciodm:ExtCodeID="C67410">
-                    <nciodm:CDISCSynonym>Milliliter per Day</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Milliliters per day.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A unit of flow rate, defined as a rate of one milliliter per day.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Milliliter per 24 Hours</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="mL/g" nciodm:ExtCodeID="C73754">
+                    <nciodm:CDISCDefinition>Milliliters (volume) divided by grams (weight).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Milliliter per Gram</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="mL/h" nciodm:ExtCodeID="C66962">
-                    <nciodm:CDISCSynonym>Milliliters per Hour</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A unit of volumetric flow rate defined as the rate at which one milliliter of matter travels during the period of time equal to one hour.(NCI)</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A unit of flow rate, defined as a rate of one milliliter per hour.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Milliliter per Hour</nciodm:PreferredTerm>
                 </EnumeratedItem>
-                <EnumeratedItem CodedValue="mL/kg/day" nciodm:ExtCodeID="C73758">
-                    <nciodm:CDISCSynonym>Milliliter per Kilogram per Day</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Milliliters per kilogram per day.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Milliliter per Kilogram per Day</nciodm:PreferredTerm>
+                <EnumeratedItem CodedValue="mL/kg" nciodm:ExtCodeID="C67411">
+                    <nciodm:CDISCDefinition>Milliliters (volume) divided by kilograms (weight).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Milliliter per Kilogram</nciodm:PreferredTerm>
                 </EnumeratedItem>
-                <EnumeratedItem CodedValue="mL/kg/h" nciodm:ExtCodeID="C73759">
-                    <nciodm:CDISCSynonym>Milliliter per Kilogram per Hour</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Milliliters per kilogram per hour.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Milliliter per Kilogram per Hour</nciodm:PreferredTerm>
-                </EnumeratedItem>
-                <EnumeratedItem CodedValue="mL/kg/min" nciodm:ExtCodeID="C73760">
-                    <nciodm:CDISCSynonym>Milliliter per Kilogram per Minute</nciodm:CDISCSynonym>
-                    <nciodm:CDISCSynonym>mL/kg/min</nciodm:CDISCSynonym>
-                    <nciodm:CDISCSynonym>mL/min/kg</nciodm:CDISCSynonym>
-                    <nciodm:CDISCSynonym>uL/g/min</nciodm:CDISCSynonym>
-                    <nciodm:CDISCSynonym>uL/min/g</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Milliliters per kilogram per minute.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Milliliter per Kilogram per Minute</nciodm:PreferredTerm>
+                <EnumeratedItem CodedValue="mL/m2" nciodm:ExtCodeID="C73761">
+                    <nciodm:CDISCDefinition>Milliliters (volume) divided by meters squared (surface area).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Milliliter per Square Meter</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="mL/min" nciodm:ExtCodeID="C64777">
-                    <nciodm:CDISCSynonym>Milliliters per Minute</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A metric unit of volumetric flow rate defined as the rate at which one milliliter of matter travels during the period of time equal to one minute.(NCI)</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A unit of flow rate, defined as a rate of one milliliter per minute.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Milliliter per Minute</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="mmol" nciodm:ExtCodeID="C48513">
@@ -2264,12 +2285,6 @@
                     <nciodm:CDISCDefinition>Nanograms per kilogram per minute.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Nanogram per Kilogram per Minute</nciodm:PreferredTerm>
                 </EnumeratedItem>
-                <EnumeratedItem CodedValue="ng/mg of Creatinine" nciodm:ExtCodeID="C85744">
-                    <nciodm:CDISCSynonym>ng/mg of Creatinine</nciodm:CDISCSynonym>
-                    <nciodm:CDISCSynonym>ug/g of Creatinine</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Nanograms per milligram of creatinine.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Nanogram per Milligram of Creatinine</nciodm:PreferredTerm>
-                </EnumeratedItem>
                 <EnumeratedItem CodedValue="ng/min" nciodm:ExtCodeID="C85749">
                     <nciodm:CDISCDefinition>Nanograms per minute.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Nanogram per Minute</nciodm:PreferredTerm>
@@ -2385,7 +2400,7 @@
                 <EnumeratedItem CodedValue="nmol/kg" nciodm:ExtCodeID="C85754">
                     <nciodm:CDISCSynonym>nmol/kg</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>pmol/g</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>Nanomoles per kilogram.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>Nanomoles per kilogram or picomoles per gram.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Nanomole per Kilogram</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="nmol/L" nciodm:ExtCodeID="C67432">

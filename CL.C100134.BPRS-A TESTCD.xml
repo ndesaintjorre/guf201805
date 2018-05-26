@@ -1,0 +1,99 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C100134.BPRS-A TESTCD" Name="Brief Psychiatric Rating Scale-A Test Code" DataType="text" nciodm:ExtCodeID="C100134" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">The Brief Psychiatric Rating Scale-A test code.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="BPR0101" nciodm:ExtCodeID="C100372">
+                    <nciodm:CDISCSynonym>BPR01-Somatic Concern</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Psychiatric Rating Scale-A - Somatic Concern.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BPRS-A - Somatic Concern</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BPR0102" nciodm:ExtCodeID="C100373">
+                    <nciodm:CDISCSynonym>BPR01-Anxiety</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Psychiatric Rating Scale-A - Anxiety.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BPRS-A - Anxiety</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BPR0103" nciodm:ExtCodeID="C100374">
+                    <nciodm:CDISCSynonym>BPR01-Emotional Withdrawal</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Psychiatric Rating Scale-A - Emotional Withdrawal.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BPRS-A - Emotional Withdrawal</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BPR0104" nciodm:ExtCodeID="C100375">
+                    <nciodm:CDISCSynonym>BPR01-Conceptual Disorganization</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Psychiatric Rating Scale-A - Conceptual Disorganization.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BPRS-A - Conceptual Disorganization</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BPR0105" nciodm:ExtCodeID="C100376">
+                    <nciodm:CDISCSynonym>BPR01-Guilt Feelings</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Psychiatric Rating Scale-A - Guilt Feelings.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BPRS-A - Guilt Feelings</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BPR0106" nciodm:ExtCodeID="C100377">
+                    <nciodm:CDISCSynonym>BPR01-Tension</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Psychiatric Rating Scale-A - Tension.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BPRS-A - Tension</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BPR0107" nciodm:ExtCodeID="C100378">
+                    <nciodm:CDISCSynonym>BPR01-Mannerisms and Posturing</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Psychiatric Rating Scale-A - Mannerisms and Posturing.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BPRS-A - Mannerisms and Posturing</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BPR0108" nciodm:ExtCodeID="C100379">
+                    <nciodm:CDISCSynonym>BPR01-Grandiosity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Psychiatric Rating Scale-A - Grandiosity.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BPRS-A - Grandiosity</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BPR0109" nciodm:ExtCodeID="C100380">
+                    <nciodm:CDISCSynonym>BPR01-Depressive Mood</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Psychiatric Rating Scale-A - Depressive Mood.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BPRS-A - Depressive Mood</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BPR0110" nciodm:ExtCodeID="C100381">
+                    <nciodm:CDISCSynonym>BPR01-Hostility</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Psychiatric Rating Scale-A - Hostility.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BPRS-A - Hostility</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BPR0111" nciodm:ExtCodeID="C100382">
+                    <nciodm:CDISCSynonym>BPR01-Suspiciousness</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Psychiatric Rating Scale-A - Suspiciousness.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BPRS-A - Suspiciousness</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BPR0112" nciodm:ExtCodeID="C100383">
+                    <nciodm:CDISCSynonym>BPR01-Hallucinatory Behavior</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Psychiatric Rating Scale-A - Hallucinatory Behavior.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BPRS-A - Hallucinatory Behavior</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BPR0113" nciodm:ExtCodeID="C100384">
+                    <nciodm:CDISCSynonym>BPR01-Motor Retardation</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Psychiatric Rating Scale-A - Motor Retardation.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BPRS-A - Motor Retardation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BPR0114" nciodm:ExtCodeID="C100385">
+                    <nciodm:CDISCSynonym>BPR01-Uncooperativeness</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Psychiatric Rating Scale-A - Uncooperativeness.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BPRS-A - Uncooperativeness</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BPR0115" nciodm:ExtCodeID="C100386">
+                    <nciodm:CDISCSynonym>BPR01-Unusual Thought Content</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Psychiatric Rating Scale-A - Unusual Thought Content.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BPRS-A - Unusual Thought Content</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BPR0116" nciodm:ExtCodeID="C100387">
+                    <nciodm:CDISCSynonym>BPR01-Blunted Affect</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Psychiatric Rating Scale-A - Blunted Affect.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BPRS-A - Blunted Affect</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BPR0117" nciodm:ExtCodeID="C100388">
+                    <nciodm:CDISCSynonym>BPR01-Excitement</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Psychiatric Rating Scale-A - Excitement.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BPRS-A - Excitement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BPR0118" nciodm:ExtCodeID="C100389">
+                    <nciodm:CDISCSynonym>BPR01-Disorientation</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Psychiatric Rating Scale-A - Disorientation.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BPRS-A - Disorientation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>BPRS-A TESTCD</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Brief Psychiatric Rating Scale-A Test Code</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Questionnaire BPRS-A Test Code Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

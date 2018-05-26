@@ -1,0 +1,124 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C115404.GOSE TESTCD" Name="Extended Glasgow Outcome Scale Questionnaire Test Code" DataType="text" nciodm:ExtCodeID="C115404" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Extended Glasgow Outcome Scale test code.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="GOSE101" nciodm:ExtCodeID="C115828">
+                    <nciodm:CDISCSynonym>GOSE1-Obey Simple Commands or Say Words</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Extended Glasgow Outcome Scale - Is the head injured person able to obey simple commands, or say any words?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>GOSE - Consciousness: Obey Simple Commands</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="GOSE102A" nciodm:ExtCodeID="C115829">
+                    <nciodm:CDISCSynonym>GOSE1-Daily Assistance at Home Essential</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Extended Glasgow Outcome Scale - Is the assistance of another person at home essential every day for some activities of daily living?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>GOSE - Independence in the Home: Assistance Essential for Daily Living</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="GOSE102B" nciodm:ExtCodeID="C115830">
+                    <nciodm:CDISCSynonym>GOSE1-Need Frequent Help at Home</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Extended Glasgow Outcome Scale - Do they need frequent help or someone to be around at home most of the time?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>GOSE - Independence in the Home: Need Frequent Help at Home</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="GOSE102C" nciodm:ExtCodeID="C115831">
+                    <nciodm:CDISCSynonym>GOSE1-Assistance at Home Before Injury</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Extended Glasgow Outcome Scale - Was assistance at home essential before the injury?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>GOSE - Independence in the Home: Assistance at Home Before Injury</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="GOSE103A" nciodm:ExtCodeID="C115832">
+                    <nciodm:CDISCSynonym>GOSE1-Shop Without Assistance</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Extended Glasgow Outcome Scale - Are they able to shop without assistance?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>GOSE - Independence Outside the Home: Able to Shop Without Assistance</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="GOSE103B" nciodm:ExtCodeID="C115833">
+                    <nciodm:CDISCSynonym>GOSE1-Shop Without Assist Before Injury</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Extended Glasgow Outcome Scale - Were they able to shop without assistance before the injury?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>GOSE - Independence Outside the Home: Able to Shop Without Assistance Before Injury</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="GOSE104A" nciodm:ExtCodeID="C115834">
+                    <nciodm:CDISCSynonym>GOSE1-Travel Locally Without Assistance</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Extended Glasgow Outcome Scale - Are they able to travel locally without assistance?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>GOSE - Independence Outside the Home: Travel Locally Without Assistance</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="GOSE104B" nciodm:ExtCodeID="C115835">
+                    <nciodm:CDISCSynonym>GOSE1-Travel Without Assist Before Inj</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Extended Glasgow Outcome Scale - Were they able to travel without assistance before the injury?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>GOSE - Independence Outside the Home: Travel Locally Without Assistance Before Injury</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="GOSE105A" nciodm:ExtCodeID="C115836">
+                    <nciodm:CDISCSynonym>GOSE1-Able to Work to Previous Capacity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Extended Glasgow Outcome Scale - Are they currently able to work to their previous capacity?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>GOSE - Work: Able to Work to Previous Capacity</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="GOSE105B" nciodm:ExtCodeID="C115837">
+                    <nciodm:CDISCSynonym>GOSE1-How Restricted Are They</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Extended Glasgow Outcome Scale - How restricted are they?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>GOSE - Work: How Restricted Are They</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="GOSE105C" nciodm:ExtCodeID="C115838">
+                    <nciodm:CDISCSynonym>GOSE1-Working Before Injury</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Extended Glasgow Outcome Scale - Were they either working or seeking employment before the injury (answer 'yes') or were they doing neither (answer 'no')?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>GOSE - Work: Working or Seeking Employment Before the Injury</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="GOSE106A" nciodm:ExtCodeID="C115839">
+                    <nciodm:CDISCSynonym>GOSE1-Resume Social/Leisure Outside Home</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Extended Glasgow Outcome Scale - Are they able to resume regular social and leisure activities outside home?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>GOSE - Social and Leisure Activities: Resume Regular Social and Leisure Activities</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="GOSE106B" nciodm:ExtCodeID="C115840">
+                    <nciodm:CDISCSynonym>GOSE1-Extent Social/Leisure Restriction</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Extended Glasgow Outcome Scale - What is the extent of restriction on their social and leisure activities?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>GOSE - Social and Leisure Activities: Extent of Restriction on Social and Leisure Activities</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="GOSE106C" nciodm:ExtCodeID="C115841">
+                    <nciodm:CDISCSynonym>GOSE1-Engage Social/Leisure Before Inj</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Extended Glasgow Outcome Scale - Did they engage in regular social and leisure activities outside home before the injury?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>GOSE - Social and Leisure Activities: Engage Regular Social and Leisure Activities Before Injury</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="GOSE107A" nciodm:ExtCodeID="C115842">
+                    <nciodm:CDISCSynonym>GOSE1-Disruptive Psychological Problems</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Extended Glasgow Outcome Scale - Have there been psychological problems which have resulted in ongoing family disruption or disruption to friendships?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>GOSE - Family and Friendships: Disruptive Psychological Problems</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="GOSE107B" nciodm:ExtCodeID="C115843">
+                    <nciodm:CDISCSynonym>GOSE1-Extent of Disruption</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Extended Glasgow Outcome Scale - What has been the extent of disruption or strain?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>GOSE - Family and Friendships: Extent of Disruption or Strain</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="GOSE107C" nciodm:ExtCodeID="C115844">
+                    <nciodm:CDISCSynonym>GOSE1-Family/Friends Probs Before Injury</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Extended Glasgow Outcome Scale - Were there problems with family or friends before the injury?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>GOSE - Family and Friendships: Problems with Family or Friends Before Injury</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="GOSE108A" nciodm:ExtCodeID="C115845">
+                    <nciodm:CDISCSynonym>GOSE1-Other Problems Related to Injury</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Extended Glasgow Outcome Scale - Are there any other current problems relating to the injury which affect daily life?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>GOSE - Return to Normal Life: Other Current Problems Relating to Injury</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="GOSE108B" nciodm:ExtCodeID="C115846">
+                    <nciodm:CDISCSynonym>GOSE1-Similar Problems Before Injury</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Extended Glasgow Outcome Scale - Were similar problems present before the injury?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>GOSE - Return to Normal Life: Similar Problems Before Injury</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="GOSE109" nciodm:ExtCodeID="C115847">
+                    <nciodm:CDISCSynonym>GOSE1-Since Injury Any Epileptic Fits</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Extended Glasgow Outcome Scale - Since the injury has the head injured person had any epileptic fits?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>GOSE - Epilepsy: Since Injury Any Epileptic Fits</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="GOSE110" nciodm:ExtCodeID="C115848">
+                    <nciodm:CDISCSynonym>GOSE1-At Risk of Developing Epilepsy</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Extended Glasgow Outcome Scale - Have they been told that they are currently at risk of developing epilepsy?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>GOSE - Epilepsy: At Risk of Developing Epilepsy</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="GOSE111" nciodm:ExtCodeID="C115849">
+                    <nciodm:CDISCSynonym>GOSE1-Most Important Factor in Outcome</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Extended Glasgow Outcome Scale - What is the most important factor in outcome?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>GOSE - Epilepsy: Most Important Factor in Outcome</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="GOSE112" nciodm:ExtCodeID="C115850">
+                    <nciodm:CDISCSynonym>GOSE1-GOSE Overall Score</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Extended Glasgow Outcome Scale - Scoring: The patient's overall rating is based on the lowest outcome category indicated on the scale.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>GOSE - GOSE Overall Score</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>GOSE TESTCD</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Extended Glasgow Outcome Scale Questionnaire Test Code</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Questionnaire GOSE Test Code Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

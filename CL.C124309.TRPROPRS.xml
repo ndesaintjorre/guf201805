@@ -1,0 +1,42 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C124309.TRPROPRS" Name="Tumor or Lesion Properties Test Result" DataType="text" nciodm:ExtCodeID="C124309" nciodm:CodeListExtensible="Yes">
+                <Description>
+                    <TranslatedText xml:lang="en">Terminology relevant to the results from the assessment or measurement of a tumor, lesion or site of disease.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="ABSENT" nciodm:ExtCodeID="C48190">
+                    <nciodm:CDISCDefinition>Not existing in a specified place at a specified time. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Absent</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ENLARGEMENT" nciodm:ExtCodeID="C73432">
+                    <nciodm:CDISCDefinition>An increase in size, volume, quantity or scope in comparison to normal or previous state.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Enlargement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EQUIVOCAL" nciodm:ExtCodeID="C86071">
+                    <nciodm:CDISCSynonym>EQUIVOCAL</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Open to question.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Equivocal</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NONPALPABLE" nciodm:ExtCodeID="C124445">
+                    <nciodm:CDISCDefinition>Incapable of being handled, touched or felt through palpation. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Non-Palpable</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PALPABLE" nciodm:ExtCodeID="C25606">
+                    <nciodm:CDISCDefinition>Capable of being handled, touched or felt through palpation. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Palpable</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PRESENT" nciodm:ExtCodeID="C25626">
+                    <nciodm:CDISCDefinition>Being or existing in a specified place or at the specified time. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Present</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UNEQUIVOCAL" nciodm:ExtCodeID="C123645">
+                    <nciodm:CDISCDefinition>Leaving no doubt; not open to question. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Unequivocal</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UNEQUIVOCAL PROGRESSION" nciodm:ExtCodeID="C96644">
+                    <nciodm:CDISCDefinition>An overall level of substantial worsening in non-target disease that is of a magnitude that, even in the presence of SD or PR in target disease, the treating physician would feel it important to change therapy. (RECIST)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Unequivocal Progression</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>TRPROPRS</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Tumor or Lesion Properties Test Result</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Tumor or Lesion Properties Test Result Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

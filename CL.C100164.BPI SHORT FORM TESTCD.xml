@@ -1,0 +1,89 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C100164.BPI SHORT FORM TESTCD" Name="Brief Pain Inventory Short Form Test Code" DataType="text" nciodm:ExtCodeID="C100164" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Brief Pain Inventory Short Form test code.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="BPI201" nciodm:ExtCodeID="C100356">
+                    <nciodm:CDISCSynonym>BPI2-Pain Other Than Everyday Kinds</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Pain Inventory Short Form - Have you had pain other than these everyday kinds of pain today?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BPI Short Form - Pain Other Than Everyday Kinds</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BPI202A" nciodm:ExtCodeID="C100357">
+                    <nciodm:CDISCSynonym>BPI2-Areas of Pain</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Pain Inventory Short Form - On the diagram, shade in the areas where you feel pain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BPI Short Form - Areas of Pain</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BPI202B" nciodm:ExtCodeID="C100358">
+                    <nciodm:CDISCSynonym>BPI2-Area Hurts Most</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Pain Inventory Short Form - On the diagram, put an X on the area that hurts the most.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BPI Short Form - Area that Hurts Most</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BPI203" nciodm:ExtCodeID="C100359">
+                    <nciodm:CDISCSynonym>BPI2-Pain at its Worst in Last 24 Hours</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Pain Inventory Short Form - Please rate your pain by circling the one number that best describes your pain at its worst in the last 24 hours.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BPI Short Form - Pain at its Worst in Last 24 Hours</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BPI204" nciodm:ExtCodeID="C100360">
+                    <nciodm:CDISCSynonym>BPI2-Pain at its Least in Last 24 Hours</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Pain Inventory Short Form - Please rate your pain by circling the one number that best describes your pain at its least in the last 24 hours.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BPI Short Form - Pain at its Least in Last 24 Hours</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BPI205" nciodm:ExtCodeID="C100361">
+                    <nciodm:CDISCSynonym>BPI2-Pain on the Average</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Pain Inventory Short Form - Please rate your pain by circling the one number that best describes your pain on the average.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BPI Short Form - Pain on the Average</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BPI206" nciodm:ExtCodeID="C100362">
+                    <nciodm:CDISCSynonym>BPI2-Pain Right Now</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Pain Inventory Short Form - Please rate your pain by circling the one number that tells how much pain you have right now.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BPI Short Form - Pain Right Now</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BPI207" nciodm:ExtCodeID="C100363">
+                    <nciodm:CDISCSynonym>BPI2-Treatments Receiving for Pain</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Pain Inventory Short Form - What treatments or medications are you receiving for your pain?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BPI Short Form - Treatments or Medications Receiving for Pain</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BPI208" nciodm:ExtCodeID="C100364">
+                    <nciodm:CDISCSynonym>BPI2-Relief Pain Treatments Provided</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Pain Inventory Short Form - In the last 24 hours, how much relief have pain treatments or medications provided? Please circle the one percentage that most shows how much relief you have received.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BPI Short Form - Relief from Pain Treatments Provided</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BPI209A" nciodm:ExtCodeID="C100365">
+                    <nciodm:CDISCSynonym>BPI2-Pain Interfered General Activity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Pain Inventory Short Form - Circle the one number that describes how, during the past 24 hours, pain has interfered with your general activity.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BPI Short Form - Pain Interfered with General Activity</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BPI209B" nciodm:ExtCodeID="C100366">
+                    <nciodm:CDISCSynonym>BPI2-Pain Interfered with Mood</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Pain Inventory Short Form - Circle the one number that describes how, during the past 24 hours, pain has interfered with your mood.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BPI Short Form - Pain Interfered with Mood</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BPI209C" nciodm:ExtCodeID="C100367">
+                    <nciodm:CDISCSynonym>BPI2-Pain Interfered Walking Ability</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Pain Inventory Short Form - Circle the one number that describes how, during the past 24 hours, pain has interfered with your walking ability.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BPI Short Form - Pain Interfered with Walking Ability</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BPI209D" nciodm:ExtCodeID="C100368">
+                    <nciodm:CDISCSynonym>BPI2-Pain Interfered with Normal Work</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Pain Inventory Short Form - Circle the one number that describes how, during the past 24 hours, pain has interfered with your normal work.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BPI Short Form - Pain Interfered with Normal Work</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BPI209E" nciodm:ExtCodeID="C100369">
+                    <nciodm:CDISCSynonym>BPI2-Pain Interfered with Relations</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Pain Inventory Short Form - Circle the one number that describes how, during the past 24 hours, pain has interfered with your relations with other people.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BPI Short Form - Pain Interfered with Relations</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BPI209F" nciodm:ExtCodeID="C100370">
+                    <nciodm:CDISCSynonym>BPI2-Pain Interfered with Sleep</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Pain Inventory Short Form - Circle the one number that describes how, during the past 24 hours, pain has interfered with your sleep.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BPI Short Form - Pain Interfered with Sleep</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BPI209G" nciodm:ExtCodeID="C100371">
+                    <nciodm:CDISCSynonym>BPI2-Pain Interfered Enjoyment of Life</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Pain Inventory Short Form - Circle the one number that describes how, during the past 24 hours, pain has interfered with your enjoyment of life.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>BPI Short Form - Pain Interfered with Enjoyment of Life</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>BPI SHORT FORM TESTCD</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Brief Pain Inventory Short Form Test Code</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Questionnaire BPI Short Form Test Code Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

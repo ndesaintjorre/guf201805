@@ -1,0 +1,129 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C101821.HAMD 21 TESTCD" Name="Hamilton Depression Rating Scale 21-Item Clinical Classification Test Code" DataType="text" nciodm:ExtCodeID="C101821" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Hamilton Depression Rating Scale 21-Item test code.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="HAMD201" nciodm:ExtCodeID="C102087">
+                    <nciodm:CDISCSynonym>HAMD2-Depressed Mood</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hamilton Depression Rating Scale 21 Item - Depressed mood: sadness, hopeless, helpless, worthless.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAMD-21 - Depressed Mood</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAMD202" nciodm:ExtCodeID="C102088">
+                    <nciodm:CDISCSynonym>HAMD2-Feelings of Guilt</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hamilton Depression Rating Scale 21 Item - Feelings of guilt.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAMD-21 - Feelings of Guilt</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAMD203" nciodm:ExtCodeID="C102089">
+                    <nciodm:CDISCSynonym>HAMD2-Suicide</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hamilton Depression Rating Scale 21 Item - Suicide.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAMD-21 - Suicide</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAMD204" nciodm:ExtCodeID="C102090">
+                    <nciodm:CDISCSynonym>HAMD2-Insomnia Early</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hamilton Depression Rating Scale 21 Item - Insomnia early.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAMD-21 - Insomnia Early</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAMD205" nciodm:ExtCodeID="C102091">
+                    <nciodm:CDISCSynonym>HAMD2-Insomnia Middle</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hamilton Depression Rating Scale 21 Item - Insomnia middle.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAMD-21 - Insomnia Middle</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAMD206" nciodm:ExtCodeID="C102092">
+                    <nciodm:CDISCSynonym>HAMD2-Insomnia Late</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hamilton Depression Rating Scale 21 Item - Insomnia late.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAMD-21 - Insomnia Late</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAMD207" nciodm:ExtCodeID="C102093">
+                    <nciodm:CDISCSynonym>HAMD2-Work and Activities</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hamilton Depression Rating Scale 21 Item - Work and activities.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAMD-21 - Work and Activities</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAMD208" nciodm:ExtCodeID="C102094">
+                    <nciodm:CDISCSynonym>HAMD2-Retardation</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hamilton Depression Rating Scale 21 Item - Retardation: psychomotor (slowness of thought and speech; impaired ability to concentrate; decreased motor activity).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAMD-21 - Retardation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAMD209" nciodm:ExtCodeID="C102095">
+                    <nciodm:CDISCSynonym>HAMD2-Agitation</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hamilton Depression Rating Scale 21 Item - Agitation.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAMD-21 - Agitation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAMD210" nciodm:ExtCodeID="C102096">
+                    <nciodm:CDISCSynonym>HAMD2-Anxiety Psychological</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hamilton Depression Rating Scale 21 Item - Anxiety Psychological.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAMD-21 - Anxiety Psychological</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAMD211" nciodm:ExtCodeID="C102097">
+                    <nciodm:CDISCSynonym>HAMD2-Anxiety Somatic</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hamilton Depression Rating Scale 21 Item - Anxiety somatic: physiological concomitants of anxiety, (i.e., effects of autonomic overactivity, 'butterflies,' indigestion, stomach cramps, belching, diarrhea, palpitations, hyperventilation, paresthesia, sweating, flushing, tremor, headache, urinary frequency).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAMD-21 - Anxiety Somatic</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAMD212" nciodm:ExtCodeID="C102098">
+                    <nciodm:CDISCSynonym>HAMD2-Somatic Symptoms Gastro-intestinal</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hamilton Depression Rating Scale 21 Item - Somatic symptoms gastro-intestinal.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAMD-21 - Somatic Symptoms Gastro-intestinal</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAMD213" nciodm:ExtCodeID="C102099">
+                    <nciodm:CDISCSynonym>HAMD2-Somatic Symptoms General</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hamilton Depression Rating Scale 21 Item - Somatic symptoms general.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAMD-21 - Somatic Symptoms General</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAMD214" nciodm:ExtCodeID="C102100">
+                    <nciodm:CDISCSynonym>HAMD2-Genital Symptoms</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hamilton Depression Rating Scale 21 Item - Genital symptoms: symptoms such as: loss of libido; impaired sexual performance; menstrual disturbances.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAMD-21 - Genital Symptoms</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAMD215" nciodm:ExtCodeID="C102101">
+                    <nciodm:CDISCSynonym>HAMD2-Hypochondriasis</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hamilton Depression Rating Scale 21 Item - Hypochondriasis.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAMD-21 - Hypochondriasis</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAMD216A" nciodm:ExtCodeID="C102102">
+                    <nciodm:CDISCSynonym>HAMD2-Loss of Weight by History</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hamilton Depression Rating Scale 21 Item - Loss of weight when rating by history.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAMD-21 - Loss of Weight by History</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAMD216B" nciodm:ExtCodeID="C102103">
+                    <nciodm:CDISCSynonym>HAMD2-Loss of Weight Measured</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hamilton Depression Rating Scale 21 Item - Loss of weight on weekly ratings by war psychiatrist, when actual weight changes are measured.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAMD-21 - Loss of Weight Measured</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAMD217" nciodm:ExtCodeID="C102104">
+                    <nciodm:CDISCSynonym>HAMD2-Insight</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hamilton Depression Rating Scale 21 Item - Insight.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAMD-21 - Insight</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAMD218A" nciodm:ExtCodeID="C102105">
+                    <nciodm:CDISCSynonym>HAMD2-Diurnal Variation</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hamilton Depression Rating Scale 21 Item - Diurnal variation.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAMD-21 - Diurnal Variation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAMD218B" nciodm:ExtCodeID="C102106">
+                    <nciodm:CDISCSynonym>HAMD2-Diurnal Variation Severity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hamilton Depression Rating Scale 21 Item - Diurnal variation severity.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAMD-21 - Diurnal Variation Severity</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAMD219" nciodm:ExtCodeID="C102107">
+                    <nciodm:CDISCSynonym>HAMD2-Depersonalization/Derealization</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hamilton Depression Rating Scale 21 Item - Depersonalization and derealization: such as feelings of unreality; nihilistic ideas.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAMD-21 - Depersonalization and Derealization</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAMD220" nciodm:ExtCodeID="C102108">
+                    <nciodm:CDISCSynonym>HAMD2-Paranoid Symptoms</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hamilton Depression Rating Scale 21 Item - Paranoid symptoms.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAMD-21 - Paranoid Symptoms</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAMD221" nciodm:ExtCodeID="C102109">
+                    <nciodm:CDISCSynonym>HAMD2-Obsessional/Compulsive Symptoms</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hamilton Depression Rating Scale 21 Item - Obsessional and compulsive symptoms.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAMD-21 - Obsessional and Compulsive Symptoms</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAMD222" nciodm:ExtCodeID="C102110">
+                    <nciodm:CDISCSynonym>HAMD2-Total Score</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hamilton Depression Rating Scale 21 Item - Total score.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>HAMD-21 - Total Score</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>HAMD 21 TESTCD</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Hamilton Depression Rating Scale 21-Item Clinical Classification Test Code</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Clinical Classification HAMD 21 Test Code Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

@@ -1,0 +1,284 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C113859.MSQOL-54 TEST" Name="Multiple Sclerosis Quality of Life-54 Instrument Test Name" DataType="text" nciodm:ExtCodeID="C113859" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Multiple Sclerosis Quality of Life-54 Instrument test name.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="MSQL1-Ability to Satisfy Sexual Partner" nciodm:ExtCodeID="C114037">
+                    <nciodm:CDISCSynonym>MSQL1-Ability to Satisfy Sexual Partner</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Multiple Sclerosis Quality of Life-54 Instrument - How much of a problem was each of the following for you during the past 4 weeks: Ability to satisfy sexual partner.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MSQOL-54 - Ability to Satisfy Sexual Partner</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MSQL1-Amt Time Interfere Social Activity" nciodm:ExtCodeID="C114020">
+                    <nciodm:CDISCSynonym>MSQL1-Amt Time Interfere Social Activity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Multiple Sclerosis Quality of Life-54 Instrument - During the past 4 weeks, how much of the time has your physical health or emotional problems interfered with your social activities?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MSQOL-54 - Time Physical Health or Emotional Problem Interfere With Social Activities</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MSQL1-Bowel/Bladder Interfered Activity" nciodm:ExtCodeID="C114039">
+                    <nciodm:CDISCSynonym>MSQL1-Bowel/Bladder Interfered Activity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Multiple Sclerosis Quality of Life-54 Instrument - During the past 4 weeks, to what extent have problems with your bowel or bladder function interfered with your normal social activities with family, friends, neighbors, or groups?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MSQOL-54 - Bowel or Bladder Function Interfere With Social Activities</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MSQL1-Describe How Feel About Your Life" nciodm:ExtCodeID="C114042">
+                    <nciodm:CDISCSynonym>MSQL1-Describe How Feel About Your Life</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Multiple Sclerosis Quality of Life-54 Instrument - Which best describes how you feel about your life as a whole?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MSQOL-54 - Describe How You Feel About Your Life</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MSQL1-Did Pain Interfere With Your Work" nciodm:ExtCodeID="C114009">
+                    <nciodm:CDISCSynonym>MSQL1-Did Pain Interfere With Your Work</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Multiple Sclerosis Quality of Life-54 Instrument - During the past 4 weeks, how much did pain interfere with your normal work?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MSQOL-54 - Pain Interfere With Normal Work</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MSQL1-Did You Feel Full of Pep" nciodm:ExtCodeID="C114010">
+                    <nciodm:CDISCSynonym>MSQL1-Did You Feel Full of Pep</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Multiple Sclerosis Quality of Life-54 Instrument - How much of the time during the past 4 weeks: Did you feel full of pep?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MSQOL-54 - Feel Full of Pep</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MSQL1-Did You Feel Rested on Waking" nciodm:ExtCodeID="C114019">
+                    <nciodm:CDISCSynonym>MSQL1-Did You Feel Rested on Waking</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Multiple Sclerosis Quality of Life-54 Instrument - How much of the time during the past 4 weeks: Did you feel rested on waking in the morning?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MSQOL-54 - Feel Rested Waking in the Morning</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MSQL1-Did You Feel Tired" nciodm:ExtCodeID="C114018">
+                    <nciodm:CDISCSynonym>MSQL1-Did You Feel Tired</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Multiple Sclerosis Quality of Life-54 Instrument - How much of the time during the past 4 weeks: Did you feel tired?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MSQOL-54 - Feel Tired</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MSQL1-Did You Feel Worn Out" nciodm:ExtCodeID="C114016">
+                    <nciodm:CDISCSynonym>MSQL1-Did You Feel Worn Out</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Multiple Sclerosis Quality of Life-54 Instrument - How much of the time during the past 4 weeks: Did you feel worn out?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MSQOL-54 - Feel Worn Out</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MSQL1-Did You Have a Lot of Energy" nciodm:ExtCodeID="C114014">
+                    <nciodm:CDISCSynonym>MSQL1-Did You Have a Lot of Energy</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Multiple Sclerosis Quality of Life-54 Instrument - How much of the time during the past 4 weeks: Did you have a lot of energy?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MSQOL-54 - Have a Lot of Energy</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MSQL1-Difficult Getting/Keeping Erection" nciodm:ExtCodeID="C114034">
+                    <nciodm:CDISCSynonym>MSQL1-Difficult Getting/Keeping Erection</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Multiple Sclerosis Quality of Life-54 Instrument - How much of a problem was each of the following for you during the past 4 weeks: Difficulty getting or keeping an erection.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MSQOL-54 - Difficulty Keeping an Erection</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MSQL1-Difficulty Concentrating/Thinking" nciodm:ExtCodeID="C114029">
+                    <nciodm:CDISCSynonym>MSQL1-Difficulty Concentrating/Thinking</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Multiple Sclerosis Quality of Life-54 Instrument - How much of the time during the past 4 weeks: Have you had difficulty concentrating and thinking?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MSQOL-54 - Difficulty Concentrating and Thinking</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MSQL1-Difficulty Having Orgasm" nciodm:ExtCodeID="C114036">
+                    <nciodm:CDISCSynonym>MSQL1-Difficulty Having Orgasm</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Multiple Sclerosis Quality of Life-54 Instrument - How much of a problem was each of the following for you during the past 4 weeks: Difficulty having orgasm.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MSQOL-54 - Difficulty Having Orgasm</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MSQL1-Discouraged by Health Problems" nciodm:ExtCodeID="C114025">
+                    <nciodm:CDISCSynonym>MSQL1-Discouraged by Health Problems</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Multiple Sclerosis Quality of Life-54 Instrument - How much of the time during the past 4 weeks: Were you discouraged by your health problems?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MSQOL-54 - Discouraged by Health Problem</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MSQL1-Emotional Problem: Accomplish Less" nciodm:ExtCodeID="C114005">
+                    <nciodm:CDISCSynonym>MSQL1-Emotional Problem: Accomplish Less</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Multiple Sclerosis Quality of Life-54 Instrument - During the past 4 weeks, have you had any of the following problems with your work or other regular daily activities as a result of any emotional problems: Accomplished less than you would like.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MSQOL-54 - Emotional Problem Accomplish Less</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MSQL1-Emotional Problem: Cut Work Time" nciodm:ExtCodeID="C114004">
+                    <nciodm:CDISCSynonym>MSQL1-Emotional Problem: Cut Work Time</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Multiple Sclerosis Quality of Life-54 Instrument - During the past 4 weeks, have you had any of the following problems with your work or other regular daily activities as a result of any emotional problems: Cut down on the amount of time you could spend on work or other activities.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MSQOL-54 - Emotional Problem Cut Down Time on Work</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MSQL1-Emotional Problem: Less Careful" nciodm:ExtCodeID="C114006">
+                    <nciodm:CDISCSynonym>MSQL1-Emotional Problem: Less Careful</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Multiple Sclerosis Quality of Life-54 Instrument - During the past 4 weeks, have you had any of the following problems with your work or other regular daily activities as a result of any emotional problems: Didn't do work or other activities as carefully as usual.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MSQOL-54 - Emotional Problem Did Not Do Work Carefully</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MSQL1-Extent Interfered Social Activity" nciodm:ExtCodeID="C114007">
+                    <nciodm:CDISCSynonym>MSQL1-Extent Interfered Social Activity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Multiple Sclerosis Quality of Life-54 Instrument - During the past 4 weeks, to what extent has your physical health or emotional problems interfered with your normal social activities with family, friends, neighbors, or groups?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MSQOL-54 - Extend Physical Health or Emotional Problem Interfere With Social Activities</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MSQL1-Get Sick Easier Than Other People" nciodm:ExtCodeID="C114021">
+                    <nciodm:CDISCSynonym>MSQL1-Get Sick Easier Than Other People</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Multiple Sclerosis Quality of Life-54 Instrument - How TRUE or FALSE is each of the following statements for you: I seem to get sick a little easier than other people.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MSQOL-54 - Get Sick Easier Than Other</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MSQL1-Have Been a Very Nervous Person" nciodm:ExtCodeID="C114011">
+                    <nciodm:CDISCSynonym>MSQL1-Have Been a Very Nervous Person</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Multiple Sclerosis Quality of Life-54 Instrument - How much of the time during the past 4 weeks: Have you been a very nervous person?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MSQOL-54 - Been a Nervous Person</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MSQL1-Have Felt Downhearted and Blue" nciodm:ExtCodeID="C114015">
+                    <nciodm:CDISCSynonym>MSQL1-Have Felt Downhearted and Blue</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Multiple Sclerosis Quality of Life-54 Instrument - How much of the time during the past 4 weeks: Have you felt downhearted and blue?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MSQOL-54 - Felt Downhearted and Blue</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MSQL1-Have Felt So Down in the Dumps" nciodm:ExtCodeID="C114012">
+                    <nciodm:CDISCSynonym>MSQL1-Have Felt So Down in the Dumps</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Multiple Sclerosis Quality of Life-54 Instrument - How much of the time during the past 4 weeks: Have you felt so down in the dumps that nothing could cheer you up?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MSQOL-54 - Felt So Down Nothing Could Cheer You Up</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MSQL1-Have Had Trouble With Your Memory" nciodm:ExtCodeID="C114031">
+                    <nciodm:CDISCSynonym>MSQL1-Have Had Trouble With Your Memory</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Multiple Sclerosis Quality of Life-54 Instrument - How much of the time during the past 4 weeks: Have you had trouble with your memory?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MSQOL-54 - Trouble With Memory</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MSQL1-Have You Been a Happy Person" nciodm:ExtCodeID="C114017">
+                    <nciodm:CDISCSynonym>MSQL1-Have You Been a Happy Person</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Multiple Sclerosis Quality of Life-54 Instrument - How much of the time during the past 4 weeks: Have you been a happy person?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MSQOL-54 - Been a Happy Person</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MSQL1-Have You Felt Calm and Peaceful" nciodm:ExtCodeID="C114013">
+                    <nciodm:CDISCSynonym>MSQL1-Have You Felt Calm and Peaceful</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Multiple Sclerosis Quality of Life-54 Instrument - How much of the time during the past 4 weeks: Have you felt calm and peaceful?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MSQOL-54 - Felt Calm and Peaceful</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MSQL1-Health Limit Bathing/Dressing Self" nciodm:ExtCodeID="C113999">
+                    <nciodm:CDISCSynonym>MSQL1-Health Limit Bathing/Dressing Self</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Multiple Sclerosis Quality of Life-54 Instrument - Does your health limit you in these activities: Bathing and dressing yourself.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MSQOL-54 - Health Limit Bathing and Dressing Yourself</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MSQL1-Health Limit Bending or Kneeling" nciodm:ExtCodeID="C113995">
+                    <nciodm:CDISCSynonym>MSQL1-Health Limit Bending or Kneeling</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Multiple Sclerosis Quality of Life-54 Instrument - Does your health limit you in these activities: Bending, kneeling, or stooping.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MSQOL-54 - Health Limit Bending, Kneeling or Stooping</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MSQL1-Health Limit Carrying Groceries" nciodm:ExtCodeID="C113992">
+                    <nciodm:CDISCSynonym>MSQL1-Health Limit Carrying Groceries</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Multiple Sclerosis Quality of Life-54 Instrument - Does your health limit you in these activities: Lifting or carrying groceries.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MSQOL-54 - Health Limit Lifting or Carrying Groceries</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MSQL1-Health Limit Climb One Flight" nciodm:ExtCodeID="C113994">
+                    <nciodm:CDISCSynonym>MSQL1-Health Limit Climb One Flight</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Multiple Sclerosis Quality of Life-54 Instrument - Does your health limit you in these activities: Climbing one flight of stairs.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MSQOL-54 - Health Limit Climbing One Stair</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MSQL1-Health Limit Climb Several Flights" nciodm:ExtCodeID="C113993">
+                    <nciodm:CDISCSynonym>MSQL1-Health Limit Climb Several Flights</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Multiple Sclerosis Quality of Life-54 Instrument - Does your health limit you in these activities: Climbing several flights of stairs.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MSQOL-54 - Health Limit Climbing Several Stairs</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MSQL1-Health Limit Moderate Activities" nciodm:ExtCodeID="C113991">
+                    <nciodm:CDISCSynonym>MSQL1-Health Limit Moderate Activities</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Multiple Sclerosis Quality of Life-54 Instrument - Does your health limit you in these activities: Moderate activities, such as moving a table, pushing a vacuum cleaner, bowling, or playing golf.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MSQOL-54 - Health Limit Moderate Activities</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MSQL1-Health Limit Vigorous Activities" nciodm:ExtCodeID="C113990">
+                    <nciodm:CDISCSynonym>MSQL1-Health Limit Vigorous Activities</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Multiple Sclerosis Quality of Life-54 Instrument - Does your health limit you in these activities: Vigorous activities, such as running, lifting heavy objects, participating in strenuous sports.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MSQOL-54 - Health Limit Vigorous Activities</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MSQL1-Health Limit Walk More Than Mile" nciodm:ExtCodeID="C113996">
+                    <nciodm:CDISCSynonym>MSQL1-Health Limit Walk More Than Mile</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Multiple Sclerosis Quality of Life-54 Instrument - Does your health limit you in these activities: Walking more than a mile.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MSQOL-54 - Health Limit Walking More than A Mile</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MSQL1-Health Limit Walk One Block" nciodm:ExtCodeID="C113998">
+                    <nciodm:CDISCSynonym>MSQL1-Health Limit Walk One Block</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Multiple Sclerosis Quality of Life-54 Instrument - Does your health limit you in these activities: Walking one block.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MSQOL-54 - Health Limit Walking One Block</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MSQL1-Health Limit Walk Several Blocks" nciodm:ExtCodeID="C113997">
+                    <nciodm:CDISCSynonym>MSQL1-Health Limit Walk Several Blocks</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Multiple Sclerosis Quality of Life-54 Instrument - Does your health limit you in these activities: Walking several blocks.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MSQOL-54 - Health Limit Walking Several Blocks</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MSQL1-Health Now Compared to 1 Year Ago" nciodm:ExtCodeID="C113989">
+                    <nciodm:CDISCSynonym>MSQL1-Health Now Compared to 1 Year Ago</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Multiple Sclerosis Quality of Life-54 Instrument - Compared to one year ago, how would you rate your health in general now?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MSQOL-54 - Health Now Compared to One Year Ago</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MSQL1-How Much Bodily Pain Have You Had" nciodm:ExtCodeID="C114008">
+                    <nciodm:CDISCSynonym>MSQL1-How Much Bodily Pain Have You Had</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Multiple Sclerosis Quality of Life-54 Instrument - How much bodily pain have you had during the past 4 weeks?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MSQOL-54 - Bodily Pain</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MSQL1-I Am as Healthy as Anybody I Know" nciodm:ExtCodeID="C114022">
+                    <nciodm:CDISCSynonym>MSQL1-I Am as Healthy as Anybody I Know</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Multiple Sclerosis Quality of Life-54 Instrument - How TRUE or FALSE is each of the following statements for you: I am as healthy as anybody I know.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MSQOL-54 - As Healthy as Anybody</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MSQL1-I Expect My Health to Get Worse" nciodm:ExtCodeID="C114023">
+                    <nciodm:CDISCSynonym>MSQL1-I Expect My Health to Get Worse</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Multiple Sclerosis Quality of Life-54 Instrument - How TRUE or FALSE is each of the following statements for you: I expect my health to get worse.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MSQOL-54 - Expect Health to Get Worse</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MSQL1-Inadequate Lubrication" nciodm:ExtCodeID="C114035">
+                    <nciodm:CDISCSynonym>MSQL1-Inadequate Lubrication</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Multiple Sclerosis Quality of Life-54 Instrument - How much of a problem was each of the following for you during the past 4 weeks: Inadequate lubrication.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MSQOL-54 - Inadequate Lubrication</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MSQL1-Lack of Sexual Interest" nciodm:ExtCodeID="C114033">
+                    <nciodm:CDISCSynonym>MSQL1-Lack of Sexual Interest</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Multiple Sclerosis Quality of Life-54 Instrument - How much of a problem was each of the following for you during the past 4 weeks: Lack of sexual interest.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MSQOL-54 - Lack of Sexual Interest</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MSQL1-My Health Is Excellent" nciodm:ExtCodeID="C114024">
+                    <nciodm:CDISCSynonym>MSQL1-My Health Is Excellent</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Multiple Sclerosis Quality of Life-54 Instrument - How TRUE or FALSE is each of the following statements for you: My health is excellent.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MSQOL-54 - Health is Excellent</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MSQL1-Others Notice Your Memory Trouble" nciodm:ExtCodeID="C114032">
+                    <nciodm:CDISCSynonym>MSQL1-Others Notice Your Memory Trouble</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Multiple Sclerosis Quality of Life-54 Instrument - How much of the time during the past 4 weeks: Have others, such as family members or friends, noticed that you have trouble with your memory or problems with your concentration?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MSQOL-54 - Others Notice Your Problems With Memory or Concentration</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MSQL1-Pain Interfere Enjoyment of Life" nciodm:ExtCodeID="C114040">
+                    <nciodm:CDISCSynonym>MSQL1-Pain Interfere Enjoyment of Life</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Multiple Sclerosis Quality of Life-54 Instrument - During the past 4 weeks, how much did pain interfere with your enjoyment of life?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MSQOL-54 - Pain Interfere Enjoyment of Life</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MSQL1-Phys Health: Accomplish Less" nciodm:ExtCodeID="C114001">
+                    <nciodm:CDISCSynonym>MSQL1-Phys Health: Accomplish Less</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Multiple Sclerosis Quality of Life-54 Instrument - During the past 4 weeks, have you had any of the following problems with your work or other regular daily activities as a result of your physical health: Accomplished less than you would like.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MSQOL-54 - Physical Health Accomplish Less</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MSQL1-Phys Health: Cut Work Time" nciodm:ExtCodeID="C114000">
+                    <nciodm:CDISCSynonym>MSQL1-Phys Health: Cut Work Time</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Multiple Sclerosis Quality of Life-54 Instrument - During the past 4 weeks, have you had any of the following problems with your work or other regular daily activities as a result of your physical health: Cut down on the amount of time you could spend on work or other activities.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MSQOL-54 - Physical Health Cut Down Time on Work</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MSQL1-Phys Health: Difficulty Performing" nciodm:ExtCodeID="C114003">
+                    <nciodm:CDISCSynonym>MSQL1-Phys Health: Difficulty Performing</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Multiple Sclerosis Quality of Life-54 Instrument - During the past 4 weeks, have you had any of the following problems with your work or other regular daily activities as a result of your physical health: Had difficulty performing the work or other activities.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MSQOL-54 - Physical Health Difficulty Perform Work</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MSQL1-Phys Health: Limit Kind of Work" nciodm:ExtCodeID="C114002">
+                    <nciodm:CDISCSynonym>MSQL1-Phys Health: Limit Kind of Work</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Multiple Sclerosis Quality of Life-54 Instrument - During the past 4 weeks, have you had any of the following problems with your work or other regular daily activities as a result of your physical health: Were limited in the kind of work or other activities.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MSQOL-54 - Physical Health Limited in the Kind of Work</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MSQL1-Rate Your Own Quality-of-Life" nciodm:ExtCodeID="C114041">
+                    <nciodm:CDISCSynonym>MSQL1-Rate Your Own Quality-of-Life</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Multiple Sclerosis Quality of Life-54 Instrument - Overall, how would you rate your own quality-of-life?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MSQOL-54 - Rate Your Own Quality of Life</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MSQL1-Satisfied With Sexual Function" nciodm:ExtCodeID="C114038">
+                    <nciodm:CDISCSynonym>MSQL1-Satisfied With Sexual Function</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Multiple Sclerosis Quality of Life-54 Instrument - Overall, how satisfied were you with your sexual function during the past 4 weeks?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MSQOL-54 - Satisfied With Sexual Function</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MSQL1-Trouble Keep Attention for Long" nciodm:ExtCodeID="C114030">
+                    <nciodm:CDISCSynonym>MSQL1-Trouble Keep Attention for Long</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Multiple Sclerosis Quality of Life-54 Instrument - How much of the time during the past 4 weeks: Did you have trouble keeping your attention on an activity for long?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MSQOL-54 - Trouble Keep Attention for Long</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MSQL1-Was Health a Worry in Your Life" nciodm:ExtCodeID="C114027">
+                    <nciodm:CDISCSynonym>MSQL1-Was Health a Worry in Your Life</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Multiple Sclerosis Quality of Life-54 Instrument - How much of the time during the past 4 weeks: Was your health a worry in your life?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MSQOL-54 - Health a Worry in Life</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MSQL1-Weighed Down by Health Problems" nciodm:ExtCodeID="C114028">
+                    <nciodm:CDISCSynonym>MSQL1-Weighed Down by Health Problems</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Multiple Sclerosis Quality of Life-54 Instrument - How much of the time during the past 4 weeks: Did you feel weighed down by your health problems?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MSQOL-54 - Feel Weighed Down by Health Problem</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MSQL1-Were Frustrated About Your Health" nciodm:ExtCodeID="C114026">
+                    <nciodm:CDISCSynonym>MSQL1-Were Frustrated About Your Health</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Multiple Sclerosis Quality of Life-54 Instrument - How much of the time during the past 4 weeks: Were you frustrated about your health?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MSQOL-54 - Frustrated With Health</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MSQL1-Would You Say Your Health Is" nciodm:ExtCodeID="C113988">
+                    <nciodm:CDISCSynonym>MSQL1-Would You Say Your Health Is</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Multiple Sclerosis Quality of Life-54 Instrument - In general, would you say your health is:</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>MSQOL-54 - Would You Say Your Health Is</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>MSQOL-54 TEST</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Multiple Sclerosis Quality of Life-54 Instrument Test Name</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Questionnaire Multiple Sclerosis Quality of Life-54 Instrument Test Name Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

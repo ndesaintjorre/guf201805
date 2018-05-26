@@ -1,0 +1,14 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C112447.PDDS TESTCD" Name="Patient Determined Disease Steps Questionnaire Test Code" DataType="text" nciodm:ExtCodeID="C112447" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Patient Determined Disease Steps test code.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="PDDS0101" nciodm:ExtCodeID="C112626">
+                    <nciodm:CDISCSynonym>PDDS01-Category Describing Situation</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Patient Determined Disease Steps - This scale focuses mainly on how well you walk. You might not find a description that reflects your condition exactly, but please mark the one category that describes your situation the closest.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>PDDS - Category Describing Situation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>PDDS TESTCD</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Patient Determined Disease Steps Questionnaire Test Code</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Questionnaire PDDS Test Code Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

@@ -1,0 +1,714 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C100129.QSCAT" Name="Category of Questionnaire" DataType="text" nciodm:ExtCodeID="C100129" nciodm:CodeListExtensible="Yes">
+                <Description>
+                    <TranslatedText xml:lang="en">A grouping of observations within the Questionnaire domain.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="ACQ" nciodm:ExtCodeID="C122370">
+                    <nciodm:CDISCSynonym>ACQ01</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Asthma Control Questionnaire (ACQ) (The Asthma Control Questionnaire is copyrighted. It may not be changed, translated or sold [paper or software] without the permission of Elizabeth Juniper. Juniper EF, O'Byrne PM, Guyatt GH, Ferrie PJ, King DR. Development and validation of a questionnaire to measure asthma control. Eur Respir J 1999;14:902-907).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Asthma Control Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ACT" nciodm:ExtCodeID="C123658">
+                    <nciodm:CDISCSynonym>ACT01</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Asthma Control Test (ACT) (Asthma Control Test copyright, QualityMetric Incorporated 2002, 2004. All Rights Reserved. Asthma Control Test is a trademark of QualityMetric Incorporated. Nathan RA, Sorkness CA, Kosinski M, Schatz M, Li JT, Marcus P, Murray JJ, Pendergraft TB. Development of the asthma control test: a survey for assessing asthma control. J Allergy Clin Immunol. 2004 Jan;113(1):59-65).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Asthma Control Test Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ADAS-COG" nciodm:ExtCodeID="C100762">
+                    <nciodm:CDISCSynonym>ADC</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The CDISC version of the Alzheimer's Disease Assessment Scale-Cognitive (ADAS-Cog CDISC Version) containing 15 summary-level tests. This version is based on combining the total pool of ADAS-Cog tests that were observed during a review of multiple case report forms administered in clinical trials of Alzheimer's disease, as well as the CRF administered in the Alzheimer's Disease Neuroimaging Initiative (ADNI) observational study. (Modified from Mohs RC, Rosen WG, Davis KL. The Alzheimer's disease assessment scale: an instrument for assessing treatment efficacy. Psychopharmacol Bull 1983;19(3):448-450. Rosen WG, Mohs RC, Davis KL. A new rating scale for Alzheimer's disease. Am J Psychiatry 1984;141(11):1356-1364. Mohs RC, Knopman D, Petersen RC et al. Development of cognitive instruments for use in clinical trials of antidementia drugs: additions to the Alzheimer's Disease Assessment Scale that broaden its scope. The Alzheimer's Disease Cooperative Study. Alzheimer Dis Assoc Disord 1997;11 Suppl 2:S13-S21. Wouters H, van Gool WA, Schmand B, Lindeboom R. Revising the ADAS-cog for a more accurate assessment of cognitive impairment. Alzheimer Dis Assoc Disord 2008;22(3):236-244.).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Alzheimer's Disease Assessment Scale-Cognitive CDISC Version Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ADCS-ADL" nciodm:ExtCodeID="C105166">
+                    <nciodm:CDISCSynonym>ADL01</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory (ADCS-ADL) (Galasko, D., Bennett, D., Sano, M., Ernesto, C., Thomas, R., Grundman, M., Ferris, S., and the ADCS. "An Inventory to Assess Activities of Daily Living for Clinical Trials in Alzheimer's Disease." Alzheimer's Disease and Associated Disorders, 1997. Volume 11(2): S33-S39).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Alzheimer's Disease Cooperative Study Activities of Daily Living Inventory Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ADCS-ADL MCI" nciodm:ExtCodeID="C106888">
+                    <nciodm:CDISCSynonym>ADL03</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory (ADCS-ADL), MCI Version (Galasko, D., Bennett, D., Sano, M., Ernesto, C., Thomas, R., Grundman, M., Ferris, S., and the ADCS. An Inventory to Assess Activities of Daily Living for Clinical Trials in Alzheimer's Disease. Alzheimer's Disease and Associated Disorders, 1997. Volume 11(2): S33-S39).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory Mild Cognitive Impairment Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ADCS-ADL SEVERE DEMENTIA" nciodm:ExtCodeID="C106889">
+                    <nciodm:CDISCSynonym>ADL02</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory (ADCS-ADL), Severe Dementia Version (Galasko, D., Bennett, D., Sano, M., Ernesto, C., Thomas, R., Grundman, M., Ferris, S., and the ADCS. An Inventory to Assess Activities of Daily Living for Clinical Trials in Alzheimer's Disease. Alzheimer's Disease and Associated Disorders, 1997. Volume 11(2): S33-S39).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory Severe Dementia Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ADCS-CGIC" nciodm:ExtCodeID="C103515">
+                    <nciodm:CDISCSynonym>ACGC01</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Cooperative Study-Clinical Global Impression of Change (ADCS-CGIC) (Schneider LS, Olin JT, Doody RS, Clark CM, Morris JC, Reisberg B, Schmitt FA, Grundman M, Thomas RG, Ferris SH, and the Alzheimer's Disease Cooperative Study. Validity and Reliability of the Alzheimer's Disease Cooperative Study-Clinical Global Impression of Change. Alzheimer Disease and Associated Disorders. 1997; 11(2):S22-S32).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Alzheimer's Disease Cooperative Study-Clinical Global Impression of Change Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ADHD-RS-IV HOME VERSION" nciodm:ExtCodeID="C122371">
+                    <nciodm:CDISCSynonym>ADHD01</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>ADHD Rating Scale-IV (ADHD-RS-IV) Home Version (Copyright 1998. DuPaul GJ, Power TJ, Anastopoulos AD, Reid R. ADHD Rating Scale-IV: Checklists, Norms, and Clinical Interpretation. New York: The Guilford Press; 1998).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ADHD Rating Scale-IV Home Version Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="AIMS" nciodm:ExtCodeID="C102111">
+                    <nciodm:CDISCSynonym>AIMS01</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Abnormal Involuntary Movement Scale (AIMS) (Guy W. Ed. ECDEU Assessment Manual for Psychopharmacology. Rockville MD: US Dept of Health, Education and Welfare. 1976, Publication No. (ADM) 76-338).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Abnormal Involuntary Movement Scale Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="AQ20" nciodm:ExtCodeID="C112518">
+                    <nciodm:CDISCSynonym>AQ01</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Airway Questionnaire 20 (AQ20) (Barley EA, Quirk FH, Jones PW. Asthma health status in clinical practice: validity of a new short and simple instrument. Respir Med 1998; 92:1207-14. Copyright Reserved P.W. Jones, PhD FRCP).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Airway Questionnaire 20</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="AQLQ" nciodm:ExtCodeID="C122372">
+                    <nciodm:CDISCSynonym>AQLQ01</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Asthma Quality of Life Questionnaire (AQLQ) (The AQLQ is copyrighted. It may not be altered, sold [paper or electronic], translated or adapted for another medium without the permission of Elizabeth Juniper. Juniper EF, Guyatt GH, Epstein RS, Ferrie PJ, Jaeschke R, Hiller TK. Evaluation of impairment of health-related quality of life in asthma: development of a questionnaire for use in clinical trials. Thorax 1992; 47:76-83).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Asthma Quality of Life Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="AUDIT-C" nciodm:ExtCodeID="C119098">
+                    <nciodm:CDISCSynonym>ADTC01</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alcohol Use Disorder Identification Test-Consumption Questions (AUDIT-C) (Bush K, Kivlahan DR, McDonell MB, Fihn SD, Bradley KA; for the Ambulatory Care Quality Improvement Project (ACQUIP). The AUDIT Alcohol Consumption Questions (AUDIT-C) An Effective Brief Screening Test for Problem Drinking. Arch Intern Med. Sep 14 1998;158:1789-1795).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Alcohol Use Disorder Identification Test Alcohol Consumption Questions Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="AUDIT-SR" nciodm:ExtCodeID="C119097">
+                    <nciodm:CDISCSynonym>ADT01</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alcohol Use Disorder Identification Test: Self-Report Version (AUDIT) (Saunders JB, Aasland, OG, Babor, TF, De La Fuente JR, Grant M. Development of the Alcohol Use Disorders Identification Test (AUDIT): WHO Collaborative Project on Early Detection of Persons with harmful Alcohol Consumption-II. Addiction (1993) 88:791-804).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Alcohol Use Disorder Identification Test Self-Report Version Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BARS" nciodm:ExtCodeID="C102113">
+                    <nciodm:CDISCSynonym>BARS01</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Barnes Akathisia Rating Scale (BARS) (Barnes TR: A Rating Scale for Drug-Induced Akathisia. British Journal of Psychiatry 154:672-676, 1989).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Barnes Akathisia Rating Scale Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BDI" nciodm:ExtCodeID="C106693">
+                    <nciodm:CDISCSynonym>BDI01</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Baseline Dyspnea Index (BDI) (Mahler DA, Weinberg DH, Wells CK, Feinstein AR. The measurement of dyspnea. Contents, interobserver agreement, and physiologic correlates of two new clinical indexes. Chest 1984, 85: 751-758).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Baseline Dyspnea Index Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BLCS" nciodm:ExtCodeID="C113874">
+                    <nciodm:CDISCSynonym>BLCS01</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Bladder Control Scale (BLCS) (1997 by the National Multiple Sclerosis Society. All rights reserved).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Bladder Control Scale Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BORG CR10" nciodm:ExtCodeID="C113872">
+                    <nciodm:CDISCSynonym>BCR101</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Borg CR10 Scale (BORG CR10) (Borg CR10 Scale. Copyright Gunnar Borg, 1981, 1982, 1998).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Borg Category-Ratio 10 Scale Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BPI" nciodm:ExtCodeID="C100759">
+                    <nciodm:CDISCSynonym>BPI1</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Pain Inventory (BPI) (copyright 1991 Charles S. Cleeland, PhD, Pain Research Group, All Right Reserved).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Brief Pain Inventory Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BPI SHORT FORM" nciodm:ExtCodeID="C100760">
+                    <nciodm:CDISCSynonym>BPI2</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Pain Inventory Short Form (BPI2) (copyright 1991 Charles S. Cleeland, PhD, Pain Research Group, All Right Reserved).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Brief Pain Inventory Short Form Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BPRS-A" nciodm:ExtCodeID="C100761">
+                    <nciodm:CDISCSynonym>BPR01</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Psychiatric Rating Scale - Anchored (BPRS-A) (Woerner MB, Mannuzza S, and Kane JM. Anchoring the BPRS: An Aid to Improved Reliability. Psychopharmacology Bulletin 1988; 24(1):112-117).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Brief Psychiatric Rating Scale A Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BSI-18" nciodm:ExtCodeID="C43524">
+                    <nciodm:CDISCSynonym>BSI181</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Brief Symptom Inventory-18 (BSI-18) (Leonard R. Derogatis. Brief Symptom Inventory (BSI)-18: Administration, scoring and procedures manual. Minneapolis 2001: NCS Pearson, Inc).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Brief Symptom Inventory 18</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BWCS" nciodm:ExtCodeID="C113875">
+                    <nciodm:CDISCSynonym>BWCS01</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Bowel Control Scale (BWCS) (1997 by the National Multiple Sclerosis Society. All rights reserved).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Bowel Control Scale Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C-SSRS ALREADY ENROLLED SUBJECTS" nciodm:ExtCodeID="C106695">
+                    <nciodm:CDISCSynonym>CSS05</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale (C-SSRS) Already Enrolled Subjects Version 1/14/2009 (Posner, K.; Brent, D.; Lucas, C.; Gould, M.; Stanley, B.; Brown, G.; Fisher, P.; Zelazny, J.; Burke, A.; Oquendo, M.; Mann, J.; copyright 2008 The Research Foundation for Mental Hygiene, Inc.).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Columbia-Suicide Severity Rating Scale Already Enrolled Subjects Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C-SSRS BASELINE" nciodm:ExtCodeID="C100765">
+                    <nciodm:CDISCSynonym>CSS01</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale (C-SSRS) Baseline Version 2009-01-14 (Posner, K.; Brent, D.; Lucas, C.; Gould, M.; Stanley, B.; Brown, G.; Fisher, P.; Zelazny, J.; Burke, A.; Oquendo, M.; Mann, J.; copyright 2008 The Research Foundation for Mental Hygiene, Inc.).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Columbia-Suicide Severity Rating Scale Baseline Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C-SSRS BASELINE/SCREENING VERSION" nciodm:ExtCodeID="C106696">
+                    <nciodm:CDISCSynonym>CSS04</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale (C-SSRS) Baseline/Screening Version 1/14/2009 (Posner, K.; Brent, D.; Lucas, C.; Gould, M.; Stanley, B.; Brown, G.; Fisher, P.; Zelazny, J.; Burke, A.; Oquendo, M.; Mann, J.; copyright 2008 The Research Foundation for Mental Hygiene, Inc.).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Columbia-Suicide Severity Rating Scale Baseline/Screening Version Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C-SSRS BASELINE/SCREENING VERSION PHASE 1 STUDY" nciodm:ExtCodeID="C105164">
+                    <nciodm:CDISCSynonym>CSS03</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale (C-SSRS) Baseline/Screening Version Phase 1 Study Version 1/14/2009 (Posner, K.; Brent, D.; Lucas, C.; Gould, M.; Stanley, B.; Brown, G.; Fisher, P.; Zelazny, J.; Burke, A.; Oquendo, M.; Mann, J.; copyright 2008 The Research Foundation for Mental Hygiene, Inc.).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Columbia-Suicide Severity Rating Scale Baseline/Screening Version Phase 1 Study 1/14/09 Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C-SSRS CHILDREN'S BASELINE" nciodm:ExtCodeID="C111377">
+                    <nciodm:CDISCSynonym>CSS06</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale (C-SSRS) Children's Baseline Version 6/23/2010 (Posner, K.; Brent, D.; Lucas, C.; Gould, M.; Stanley, B.; Brown, G.; Fisher, P.; Zelazny, J.; Burke, A.; Oquendo, M.; Mann, J.; copyright 2008 The Research Foundation for Mental Hygiene, Inc.).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Columbia-Suicide Severity Rating Scale Children's Baseline Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C-SSRS CHILDREN'S BASELINE/SCREENING" nciodm:ExtCodeID="C111378">
+                    <nciodm:CDISCSynonym>CSS07</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale (C-SSRS) Children's Baseline/Screening Version 6/23/2010 (Posner, K.; Brent, D.; Lucas, C.; Gould, M.; Stanley, B.; Brown, G.; Fisher, P.; Zelazny, J.; Burke, A.; Oquendo, M.; Mann, J.; copyright 2008 The Research Foundation for Mental Hygiene, Inc.).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Columbia-Suicide Severity Rating Scale Children's Baseline/Screening Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C-SSRS CHILDREN'S SINCE LAST VISIT" nciodm:ExtCodeID="C111379">
+                    <nciodm:CDISCSynonym>CSS08</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale (C-SSRS) Children's Since Last Visit Version 6/23/2010 (Posner, K.; Brent, D.; Lucas, C.; Gould, M.; Stanley, B.; Brown, G.; Fisher, P.; Zelazny, J.; Burke, A.; Oquendo, M.; Mann, J.; copyright 2008 The Research Foundation for Mental Hygiene, Inc.).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Columbia-Suicide Severity Rating Scale Children's Since Last Visit Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C-SSRS LIFETIME/RECENT VERSION" nciodm:ExtCodeID="C117996">
+                    <nciodm:CDISCSynonym>CSS11</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale (C-SSRS) Lifetime/Recent Version 1/14/2009 (Posner, K.; Brent, D.; Lucas, C.; Gould, M.; Stanley, B.; Brown, G.; Fisher, P.; Zelazny, J.; Burke, A.; Oquendo, M.; Mann, J.; copyright 2008 The Research Foundation for Mental Hygiene, Inc.).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Columbia-Suicide Severity Rating Scale Lifetime/Recent Version Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C-SSRS PEDIATRIC/COGNITIVELY IMPAIRED LIFETIME/RECENT" nciodm:ExtCodeID="C113873">
+                    <nciodm:CDISCSynonym>CSS10</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale (C-SSRS) Pediatric/Cognitively Impaired Lifetime/Recent Version 6/23/2010 (Posner, K.; Brent, D.; Lucas, C.; Gould, M.; Stanley, B.; Brown, G.; Fisher, P.; Zelazny, J.; Burke, A.; Oquendo, M.; Mann, J.; copyright 2008 The Research Foundation for Mental Hygiene, Inc.).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired Lifetime/Recent Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C-SSRS PEDIATRIC/COGNITIVELY IMPAIRED-LIFETIME RECENT-CLINICAL" nciodm:ExtCodeID="C123661">
+                    <nciodm:CDISCSynonym>CSS12</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale (C-SSRS) Pediatric/Cognitively Impaired - Lifetime Recent - Clinical Version 6/23/2010 (Posner, K.; Brent, D.; Lucas, C.; Gould, M.; Stanley, B.; Brown, G.; Fisher, P.; Zelazny, J.; Burke, A.; Oquendo, M.; Mann, J.; copyright 2008 The Research Foundation for Mental Hygiene, Inc).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired - Lifetime Recent - Clinical Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C-SSRS PEDIATRIC/COGNITIVELY IMPAIRED-SINCE LAST VISIT-CLINICAL" nciodm:ExtCodeID="C123662">
+                    <nciodm:CDISCSynonym>CSS13</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale (C-SSRS) Pediatric/Cognitively Impaired - Since Last Visit - Clinical Version 6/23/2010 (Posner, K.; Brent, D.; Lucas, C.; Gould, M.; Stanley, B.; Brown, G.; Fisher, P.; Zelazny, J.; Burke, A.; Oquendo, M.; Mann, J.; copyright 2008 The Research Foundation for Mental Hygiene, Inc).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Columbia-Suicide Severity Rating Scale Pediatric/Cognitively Impaired - Since Last Visit - Clinical Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C-SSRS SCREENING" nciodm:ExtCodeID="C111380">
+                    <nciodm:CDISCSynonym>CSS09</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale (C-SSRS) Screening Version 1/14/2009 (Posner, K.; Brent, D.; Lucas, C.; Gould, M.; Stanley, B.; Brown, G.; Fisher, P.; Zelazny, J.; Burke, A.; Oquendo, M.; Mann, J.; copyright 2008 The Research Foundation for Mental Hygiene, Inc.).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Columbia-Suicide Severity Rating Scale Screening Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="C-SSRS SINCE LAST VISIT" nciodm:ExtCodeID="C103516">
+                    <nciodm:CDISCSynonym>CSS02</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Columbia-Suicide Severity Rating Scale (C-SSRS) Since Last Visit Version 1/14/2009 (Posner, K.; Brent, D.; Lucas, C.; Gould, M.; Stanley, B.; Brown, G.; Fisher, P.; Zelazny, J.; Burke, A.; Oquendo, M.; Mann, J.; copyright 2008 The Research Foundation for Mental Hygiene, Inc.).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Columbia-Suicide Severity Rating Scale Since Last Visit Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CCQ 1 WEEK VERSION" nciodm:ExtCodeID="C119100">
+                    <nciodm:CDISCSynonym>CCQ02</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Clinical COPD Questionnaire (CCQ) 1 Week Version (The CCQ is copyrighted 1999. It may not be altered, sold (paper or electronic), translated or adapted for another medium without the permission of T. van der Molen, Dept. of General Practice, University Medical Center Groningen, Postbus 196, 9700 AD Groningen, The Netherlands.).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Clinical COPD Questionnaire 1 Week Version</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CCQ 24 HOUR VERSION" nciodm:ExtCodeID="C119099">
+                    <nciodm:CDISCSynonym>CCQ01</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Clinical COPD Questionnaire (CCQ) 24 Hour Version (The CCQ is copyrighted 1999. It may not be altered, sold (paper or electronic), translated or adapted for another medium without the permission of T. van der Molen, Dept. of General Practice, University Medical Center Groningen, Postbus 196, 9700 AD Groningen, The Netherlands.).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Clinical COPD Questionnaire 24 Hour Version</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CDLQ" nciodm:ExtCodeID="C119092">
+                    <nciodm:CDISCSynonym>CDLQ1</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Children's Dermatology Life Quality Index (CDLQI) (Copyright of M.S. Lewis-Jones, A.Y. Finlay, May 1993, this must not be copied without the permission of the authors).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Children's Dermatology Life Quality Index Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CDR" nciodm:ExtCodeID="C102114">
+                    <nciodm:CDISCSynonym>CDR01</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Clinical Dementia Rating (CDR) (Morris, JC. Clinical Dementia Rating: A reliable and valid diagnostic and staging measure for dementia of the Alzheimer type. International Psychogeriatrics 1997: 9, Suppl. 1, 173-176).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Clinical Dementia Rating Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CGI" nciodm:ExtCodeID="C100763">
+                    <nciodm:CDISCSynonym>CGI01</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Clinical Global Impression (CGI) (Guy W: ECDEU Assessment Manual for Psychopharmacology. Rockville, MD: U.S. Department of Health, Education, and Welfare; 1976).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Clinical Global Impression Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CHART-SF INTERVIEW VERSION" nciodm:ExtCodeID="C117995">
+                    <nciodm:CDISCSynonym>CHSF1</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Craig Handicap Assessment and Reporting Technique - Short Form Interview Version (CHART-SF INTERVIEW VERSION) (Whiteneck GG, Charlifue SW, Gerhart KA, Overholser JD, Richardson GN. Quantifying handicap: a new measure of long-term rehabilitation outcomes. Arch Phys Med Rehabil. 1992;73:519-526).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Craig Handicap Assessment and Reporting Technique-Short Form Interview Version Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CHART-SF PAPER VERSION" nciodm:ExtCodeID="C119101">
+                    <nciodm:CDISCSynonym>CHSF2</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Craig Handicap Assessment and Reporting Technique - Short Form Paper Version (CHART-SF PAPER VERSION) (Whiteneck GG, Charlifue SW, Gerhart KA, Overholser JD, Richardson GN. Quantifying handicap: a new measure of long-term rehabilitation outcomes. Arch Phys Med Rehabil. 1992;73:519-526).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Craig Handicap Assessment and Reporting Technique - Short Form Paper Version Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="COMM" nciodm:ExtCodeID="C100764">
+                    <nciodm:CDISCSynonym>COMM1</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Current Opioid Misuse Measure (COMM) (copyright 2010 Inflexxion, Inc., All rights reserved).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Current Opioid Misuse Measure Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="COWS" nciodm:ExtCodeID="C102115">
+                    <nciodm:CDISCSynonym>COWS1</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Clinical Opiate Withdrawal Scale (COWS) (Wesson DR and Ling W. The Clinical Opiate Withdrawal Scale (COWS). J Psychoactive Drugs 2003;35(2):253-259).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Clinical Opiate Withdrawal Scale Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CRQ-SAS FIRST ADMINISTRATION VERSION" nciodm:ExtCodeID="C121002">
+                    <nciodm:CDISCSynonym>CRQ01</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Chronic Respiratory Questionnaire Self-Administered Standardized Format (CRQ-SAS) First Administration Version (Copyright 2001 McMaster University, Hamilton, Ontario, Canada. The Chronic Respiratory Questionnaire Self-Administered including the standardized Dyspnea Domain (CRQSAS), Principal authors G.H. Guyatt and Dr. H.J. Schunemann, is the copyright of McMaster University (Copyright 2001, McMaster University).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Chronic Respiratory Questionnaire Self-Administered Standardized Format First Administration Version Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CRQ-SAS FOLLOW-UP ADMINISTRATION VERSION" nciodm:ExtCodeID="C121003">
+                    <nciodm:CDISCSynonym>CRQ02</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Chronic Respiratory Questionnaire Self-Administered Standardized Format (CRQ-SAS) Follow-up Administration Version (Copyright 2001 McMaster University, Hamilton, Ontario, Canada. The Chronic Respiratory Questionnaire Self-Administered including the standardized Dyspnea Domain (CRQSAS), Principal authors G.H. Guyatt and Dr. H.J. Schunemann, is the copyright of McMaster University (Copyright 2001, McMaster University).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Chronic Respiratory Questionnaire Self-Administered Standardized Format Follow-Up Administration Version Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DAD" nciodm:ExtCodeID="C105165">
+                    <nciodm:CDISCSynonym>DAD01</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Disability Assessment for Dementia (DAD) (copyright 1994 by L. Gauthier I. Gelinas. All rights reserved.).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Disability Assessment for Dementia Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DISEASE STEPS" nciodm:ExtCodeID="C112519">
+                    <nciodm:CDISCSynonym>DS01</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Disease Steps (DS) (Hohol MJ, Orav EJ, Weiner HL. Disease steps in multiple sclerosis: a simple approach to evaluate disease progression. Neurology. 1995 Feb;45(2):251-5).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Disease Steps Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DLQI" nciodm:ExtCodeID="C119102">
+                    <nciodm:CDISCSynonym>DLQI1</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Dermatology Life Quality Index (DLQI) (Copyright Dermatology Life Quality Index. A Y Finlay, G K Khan, April 1992. www.dermatology.org.uk. This must not be copied without the permission of the authors).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Dermatology Life Quality Index Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRS" nciodm:ExtCodeID="C115796">
+                    <nciodm:CDISCSynonym>DRS01</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Disability Rating Scale (DRS) (Rappaport et al. (1982) Disability Rating Scale for Severe Head Trauma Patients: Coma to Community. Archives of Physical Medicine and Rehabilitation, 63:118-123).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Disability Rating Scale Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ECOG" nciodm:ExtCodeID="C102116">
+                    <nciodm:CDISCSynonym>ECOG1</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Eastern Cooperative Oncology Group (ECOG) Performance Status (Oken MM, Creech RH, Tormey DC, Horton J, Davis TE, McFadden ET, Carbone PP. Toxicity and response criteria of the Eastern Cooperative Oncology Group. Am J Clin Oncol. 1982 Dec;5(6):649-55).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Eastern Cooperative Oncology Group Performance Status Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EDSS" nciodm:ExtCodeID="C112520">
+                    <nciodm:CDISCSynonym>EDSS01</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Kurtzke Expanded Disability Status Scale (EDSS) (Kurtzke JF. Rating neurologic impairment in multiple sclerosis: an expanded disability status scale (EDSS). Neurology. 1983 Nov;33(11):1444-52).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Kurtzke Expanded Disability Status Scale Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EQ-5D-3L" nciodm:ExtCodeID="C66957">
+                    <nciodm:CDISCSynonym>EQ5D01</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>European Quality of Life Five Dimension Three Level Scale (EQ-5D-3L) (Copyright 1990 EuroQol Group. EQ-5D is a trade mark of the EuroQol Group).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>European Quality of Life Five Dimension Three Level Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EQ-5D-5L" nciodm:ExtCodeID="C102117">
+                    <nciodm:CDISCSynonym>EQ5D02</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>European Quality of Life Five Dimension Five Level Scale (EQ-5D-5L) (Copyright 2009 EuroQol Group. EQ-5D is a trade mark of the EuroQol Group).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>European Quality of Life Five Dimension Five Level Scale Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ESS" nciodm:ExtCodeID="C103517">
+                    <nciodm:CDISCSynonym>ESS01</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Epworth Sleepiness Scale (ESS) (copyright Murray W. Johns, 1990-1997. All rights reserved.).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Epworth Sleepiness Scale Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="EXACT" nciodm:ExtCodeID="C123666">
+                    <nciodm:CDISCSynonym>EXACT1</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Exacerbations of Chronic Pulmonary Disease Tool (EXACT) Patient-Reported Outcome (PRO) (Nancy K. Leidy, EXACT-PRO Initiative, Evidera, 7101 Wisconsin Avenue, Suite 1400, Bethesda, MD; EXACT copyright 2013, Evidera, Inc. All rights reserved). This also includes the subset EXACT-Respiratory Symptoms (E-RS) questions. http://www.exactproinitiative.com</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Exacerbations of Chronic Pulmonary Disease Tool Patient-Reported Outcome Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAMS" nciodm:ExtCodeID="C112521">
+                    <nciodm:CDISCSynonym>FAMS01</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Assessment of Multiple Sclerosis Version 4 (FAMS) (Cella et al. Validation of the Functional Assessment of Multiple Sclerosis quality of life instrument. NEUROLOGY 1996;47: 129-139). (Questionnaires and all related subscales, translations, and adaptations ('FACIT System') are owned and copyrighted by David Cella, Ph.D. The ownership and copyright of the FACIT System resides strictly with Dr. Cella. Dr. Cella has granted FACIT.org the right to license usage of the FACIT System to other parties).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Functional Assessment of Multiple Sclerosis Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAQ" nciodm:ExtCodeID="C111381">
+                    <nciodm:CDISCSynonym>FAQ01</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Activities Questionnaire (FAQ) (Pfeiffer, RI.; Kurosaki, TT.; Harrah, CH. Jr.; Chance, JM.; and Filos, S. (1982). Measurement of functional activities in older adults in the community. Journal of Gerontology, 37(3), 323-329.).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Functional Activities Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FAQ-NACC VERSION" nciodm:ExtCodeID="C111382">
+                    <nciodm:CDISCSynonym>FAQ02</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Functional Activities Questionnaire-NACC (FAQ-NACC) (Pfeffer, RI.; Kurosaki, TT.; Harrah, CH. Jr.; Chance, JM.; and Filos, S. (1982). Measurement of functional activities in older adults in the community. Journal of Gerontology, 37(3), 323-329.). (Reproduced with permission. Copyright 2011 University of Washington. Created and published by the ADC Clinical Task Force. John C. Morris, MD, Chair, and the National Alzheimer's Coordinating Center. U01 AG016976 - Walter A. Kukull, PhD, Director).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Functional Activities Questionnaire-NACC Version</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FIQR" nciodm:ExtCodeID="C103518">
+                    <nciodm:CDISCSynonym>FIQR01</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Revised Fibromyalgia Impact Questionnaire (FIQR) (copyright 2009 Bennett RM and Friend. All Rights Reserved.).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Revised Fibromyalgia Impact Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FLU-IIQ ONCE DAILY" nciodm:ExtCodeID="C119093">
+                    <nciodm:CDISCSynonym>FLUIQ1</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Influenza Intensity and Impact Questionnaire (Flu-iiQ) Once Daily (Copyright RH Osborne 2006. No part of the Flu-iiQ may be copied or reproduced in any form without written permission from the author: measuredsolutions@bigpond.com).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Influenza Intensity and Impact Questionnaire Once Daily Version</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FLU-IIQ TWICE DAILY" nciodm:ExtCodeID="C119094">
+                    <nciodm:CDISCSynonym>FLUIQ2</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Influenza Intensity and Impact Questionnaire (Flu-iiQ) Twice Daily (Copyright RH Osborne 2006. No part of the Flu-iiQ may be copied or reproduced in any form without written permission from the author: measuredsolutions@bigpond.com).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Influenza Intensity and Impact Questionnaire Twice Daily Version</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FPSR" nciodm:ExtCodeID="C100766">
+                    <nciodm:CDISCSynonym>FPSR1</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Faces Pain Scale - Revised (FPS-R) (Hicks CL, von Baeyer CL, van Korlaar I, Goodenough B. Faces Pain Scale-Revised: Toward a Common Metric in Pediatric Pain Measurement. Pain 2001; 93:173-183).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Faces Pain Scale Revised Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FSS" nciodm:ExtCodeID="C106621">
+                    <nciodm:CDISCSynonym>FSS01</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Fatigue Severity Scale (FSS) (Copyright Lauren B. Krupp).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Fatigue Severity Scale</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="GAD-7" nciodm:ExtCodeID="C103519">
+                    <nciodm:CDISCSynonym>GAD01</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Generalized Anxiety Disorder - 7 (GAD-7) (Spitzer RL, Kroenke K, Williams JBW, Lowe B. A brief measure for assessing generalized anxiety disorder: The GAD-7. Arch Intern Med 2006; 166:1092-1097).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Generalized Anxiety Disorder - 7 Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="GCGI" nciodm:ExtCodeID="C105169">
+                    <nciodm:CDISCSynonym>GCGI01</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The General Clinical Global Impressions (GCGI v1) questions were created by STANDARDS (Standardized Analgesic Database for Research, Discovery, and Submissions) and sponsored by ACTTION (Analgesic Clinical Trial Translations, Innovations, Opportunities, and Networks) www.acttion.org; 2012-08-07 v1.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>STANDARDS General Clinical Global Impressions Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="GDS" nciodm:ExtCodeID="C106697">
+                    <nciodm:CDISCSynonym>GDS01</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Geriatric Depression Scale (GDS) (Yesavage JA, Brink TL, Rose TL, et al. Development and validation of a geriatric depression screening scale: a preliminary report. J Psychiatry Res. 1983;17(1):37-49).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Geriatric Depression Scale Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="GDS SHORT FORM" nciodm:ExtCodeID="C106698">
+                    <nciodm:CDISCSynonym>GDS02</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Geriatric Depression Scale Short Form (GDS Short Form) (Sheikh JI, Yesavage JA. Geriatric Depression Scale (GDS): recent evidence and development of a shorter version. Clin Gerontol. 1986 June;5(1/2):165-173).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Geriatric Depression Scale Short Form Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="GOSE" nciodm:ExtCodeID="C115797">
+                    <nciodm:CDISCSynonym>GOSE1</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Extended Glasgow Outcome Scale (GOSE) (Wilson JT, Pettigrew LE, Teasdale GM. Structured interviews for the Glasgow Outcome Scale and the Extended Glasgow Outcome Scale: Guidelines for their use. Journal of Neurotrauma 1998;15:573-585).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Extended Glasgow Outcome Scale Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HADS" nciodm:ExtCodeID="C103520">
+                    <nciodm:CDISCSynonym>HADS01</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hospital Anxiety and Depression Scale (HADS) (copyright 1983, 1992, 1994 by R.P. Snaith and A.S. Zigmond. All rights reserved.).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Hospital Anxiety and Depression Scale Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAEM-A-QOL" nciodm:ExtCodeID="C122381">
+                    <nciodm:CDISCSynonym>HAEM09</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hemophilia Quality of Life Questionnaire Adult Version (Haem-A-QoL) (The Haemo-QoL questionnaire-set is a joint property of the Haemo-QoL Study Centre at the University of Hamburg, Germany and Bayer Biological Products, Research Triangle Park, North Carolina, USA. Development of new translations, modified versions or any other derivatives - such as electronic versions - are not permitted without special permission and involvement of the Haemo-QoL Study Group; Von Mackensen S, Scalone L, Ravera S, Mantovani L, Gringeri A, The COCHE Study Group. Assessment of health-related quality of life in patients with Hemophilia with the newly developed Hemophilia-specific instrument (Haem-A-QoL). Value Health 2005; 8:A127).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Hemophilia Quality of Life Questionnaire Adult Version</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAEMO-QOL CHILDREN'S LONG VERSION AGE GROUP I" nciodm:ExtCodeID="C122373">
+                    <nciodm:CDISCSynonym>HAEM01</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hemophilia Quality of Life (HAEMO-QOL) Questionnaire Children's Long Version Age Group I (The Haemo-QoL questionnaire-set is a joint property of the Haemo-QoL Study Centre at the University of Hamburg, Germany and Bayer Biological Products, Research Triangle Park, North Carolina, USA. Development of new translations, modified versions or any other derivatives - such as electronic versions - are not permitted without special permission and involvement of the Haemo-QoL Study Group).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Hemophilia Quality of Life Questionnaire Children's Long Version Age Group I</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAEMO-QOL CHILDREN'S LONG VERSION AGE GROUP II" nciodm:ExtCodeID="C122374">
+                    <nciodm:CDISCSynonym>HAEM02</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hemophilia Quality of Life (HAEMO-QOL) Questionnaire Children's Long Version Age Group II (The Haemo-QoL questionnaire-set is a joint property of the Haemo-QoL Study Centre at the University of Hamburg, Germany and Bayer Biological Products, Research Triangle Park, North Carolina, USA. Development of new translations, modified versions or any other derivatives - such as electronic versions - are not permitted without special permission and involvement of the Haemo-QoL Study Group).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Hemophilia Quality of Life Questionnaire Children's Long Version Age Group II</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAEMO-QOL CHILDREN'S LONG VERSION AGE GROUP III" nciodm:ExtCodeID="C122375">
+                    <nciodm:CDISCSynonym>HAEM03</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hemophilia Quality of Life (HAEMO-QOL) Questionnaire Children's Long Version Age Group III (The Haemo-QoL questionnaire-set is a joint property of the Haemo-QoL Study Centre at the University of Hamburg, Germany and Bayer Biological Products, Research Triangle Park, North Carolina, USA. Development of new translations, modified versions or any other derivatives - such as electronic versions - are not permitted without special permission and involvement of the Haemo-QoL Study Group).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Hemophilia Quality of Life Questionnaire Children's Long Version Age Group III</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAEMO-QOL CHILDREN'S SHORT VERSION AGE GROUP I" nciodm:ExtCodeID="C122376">
+                    <nciodm:CDISCSynonym>HAEM04</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hemophilia Quality of Life (HAEMO-QOL) Questionnaire Children's Short Version Age Group I (The Haemo-QoL questionnaire-set is a joint property of the Haemo-QoL Study Centre at the University of Hamburg, Germany and Bayer Biological Products, Research Triangle Park, North Carolina, USA. Development of new translations, modified versions or any other derivatives - such as electronic versions - are not permitted without special permission and involvement of the Haemo-QoL Study Group).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Hemophilia Quality of Life Questionnaire Children's Short Version Age Group I</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAEMO-QOL CHILDREN'S SHORT VERSION AGE GROUP II/III" nciodm:ExtCodeID="C122377">
+                    <nciodm:CDISCSynonym>HAEM05</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hemophilia Quality of Life (HAEMO-QOL) Questionnaire Children's Short Version Age Group II/III (The Haemo-QoL questionnaire-set is a joint property of the Haemo-QoL Study Centre at the University of Hamburg, Germany and Bayer Biological Products, Research Triangle Park, North Carolina, USA. Development of new translations, modified versions or any other derivatives - such as electronic versions - are not permitted without special permission and involvement of the Haemo-QoL Study Group).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Hemophilia Quality of Life Questionnaire Children's Short Version Age Group II/III</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAEMO-QOL PARENT'S LONG VERSION AGE GROUP I" nciodm:ExtCodeID="C122378">
+                    <nciodm:CDISCSynonym>HAEM06</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hemophilia Quality of Life (HAEMO-QOL) Questionnaire Parent's Long Version Age Group I (The Haemo-QoL questionnaire-set is a joint property of the Haemo-QoL Study Centre at the University of Hamburg, Germany and Bayer Biological Products, Research Triangle Park, North Carolina, USA. Development of new translations, modified versions or any other derivatives - such as electronic versions - are not permitted without special permission and involvement of the Haemo-QoL Study Group).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Hemophilia Quality of Life Questionnaire Parent's Long Version Age Group I</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAEMO-QOL PARENT'S LONG VERSION AGE GROUP II" nciodm:ExtCodeID="C122379">
+                    <nciodm:CDISCSynonym>HAEM07</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hemophilia Quality of Life (HAEMO-QOL) Questionnaire Parent's Long Version Age Group II (The Haemo-QoL questionnaire-set is a joint property of the Haemo-QoL Study Centre at the University of Hamburg, Germany and Bayer Biological Products, Research Triangle Park, North Carolina, USA. Development of new translations, modified versions or any other derivatives - such as electronic versions - are not permitted without special permission and involvement of the Haemo-QoL Study Group).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Hemophilia Quality of Life Questionnaire Parent's Long Version Age Group II</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAEMO-QOL PARENT'S LONG VERSION AGE GROUP III" nciodm:ExtCodeID="C122380">
+                    <nciodm:CDISCSynonym>HAEM08</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Hemophilia Quality of Life (HAEMO-QOL) Questionnaire Parent's Long Version Age Group III (The Haemo-QoL questionnaire-set is a joint property of the Haemo-QoL Study Centre at the University of Hamburg, Germany and Bayer Biological Products, Research Triangle Park, North Carolina, USA. Development of new translations, modified versions or any other derivatives - such as electronic versions - are not permitted without special permission and involvement of the Haemo-QoL Study Group).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Hemophilia Quality of Life Questionnaire Parent's Long Version Age Group III</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAMD 17" nciodm:ExtCodeID="C100767">
+                    <nciodm:CDISCSynonym>HAMD1</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Hamilton Depression Rating Scale 17-Item (HAMD 17) (Hamilton M. Development of a rating scale for primary depressive illness. Br J Soc Clin Psychol 1967; 6(4):278-96).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Hamilton Depression Rating Scale 17 Item Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="HAQ-DI" nciodm:ExtCodeID="C106699">
+                    <nciodm:CDISCSynonym>HAQ01</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Health Assessment Questionnaire Disability Index (HAQ-DI) (Fries JF. The assessment of disability: from first to future principles. Br J Rheumatol. 1983 Aug; 22(3 Suppl):48-58).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Health Assessment Questionnaire Disability Index Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IIEF" nciodm:ExtCodeID="C103521">
+                    <nciodm:CDISCSynonym>IIEF01</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>International Index of Erectile Function (IIEF) (Rosen RC, Riley A, Wagner G, Osterloh IH, Kirkpatrick J, and Mishra A. The international index of erectile function (IIEF): a multidimensional scale for assessment of erectile dysfunction. Urology. 1997 49(6): 822-830).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>International Index of Erectile Function Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="IVIS" nciodm:ExtCodeID="C113876">
+                    <nciodm:CDISCSynonym>IVIS01</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Impact of Visual Impairment Scale (IVIS) (1997 by the National Multiple Sclerosis Society. All rights reserved).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Impact of Visual Impairment Scale Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="KFSS" nciodm:ExtCodeID="C112522">
+                    <nciodm:CDISCSynonym>KFSS1</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Kurtzke Functional Systems Scores (FSS) (Kurtzke JF. Rating neurologic impairment in multiple sclerosis: an expanded disability status scale (EDSS). Neurology. 1983 Nov;33(11):1444-52).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Kurtzke Functional Systems Scores Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="KPS SCALE" nciodm:ExtCodeID="C100768">
+                    <nciodm:CDISCSynonym>KPSS</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Karnofsky Performance Status Scale (KPSS) (Karnofsky DA, Burchenal JH. (1949). "The Clinical Evaluation of Chemotherapeutic Agents in Cancer." In: MacLeod CM (Ed), Evaluation of Chemotherapeutic Agents. Columbia Univ Press. Page 196).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Karnofsky Performance Status Scale Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MADRS" nciodm:ExtCodeID="C122382">
+                    <nciodm:CDISCSynonym>MADRS1</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Montgomery-Asberg Depression Rating Scale (MADRS) (Copyright Stuart Montgomery 1978, Measures of Depression, Fulcrum Press, London. Stuart A. Montgomery and Marie Asberg. A new depression scale designed to be sensitive to change. Br. J. Psychiat. (1979), 134:382-389).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Montgomery-Asberg Depression Rating Scale Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MDQ-T" nciodm:ExtCodeID="C123660">
+                    <nciodm:CDISCSynonym>MDQ01</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Menstrual Distress Questionnaire Form-T (Today) (MDQ-T) (Copyright 1968, 1989, 1991, 2000, 2010 by Rudolf H. Moos. All Rights Reserved. Published by Mind Garden, Inc. Moos RH. The development of a menstrual distress questionnaire. Psychosom Med. 1968 Nov-Dec;30(6):853-67).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Menstrual Distress Questionnaire Form-T (Today)</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MDS-UPDRS" nciodm:ExtCodeID="C100769">
+                    <nciodm:CDISCSynonym>UPD2</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale (MDS-UPDRS) (copyright 2008 Movement Disorder Society. All Rights Reserved).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Movement Disorder Society Unified Parkinson's Disease Rating Scale Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MFIS" nciodm:ExtCodeID="C113877">
+                    <nciodm:CDISCSynonym>MFIS01</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Modified Fatigue Impact Scale (MFIS) (1997 by the National Multiple Sclerosis Society. All rights reserved).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Modified Fatigue Impact Scale Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MHIS-NACC" nciodm:ExtCodeID="C112523">
+                    <nciodm:CDISCSynonym>MHIS01</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Modified Hachinski Ischemic Scale-NACC Version (MHIS-NACC) Reproduced with permission. Copyright 2011 University of Washington. Created and published by the ADC Clinical Task Force (John C. Morris, MD, Chair) and the National Alzheimer's Coordinating Center (Walter A. Kukull, PhD, Director). This publication was funded by the National Institutes of Health through the National Institute on Aging (Cooperative Agreement U01 AG016976).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Modified Hachinski Ischemic Scale-NACC Version Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MMRC" nciodm:ExtCodeID="C106700">
+                    <nciodm:CDISCSynonym>MMRC01</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Modified Medical Research Council dyspnea scale (MMRC) (Mahler DA, Wells CK. Evaluation of Clinical Methods for Rating Dyspnea. Chest 1988; 93:580-586).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Modified Medical Research Council Dyspnea Scale Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MMSE" nciodm:ExtCodeID="C74982">
+                    <nciodm:CDISCSynonym>MMS1</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Mini-Mental State Examination (MMSE) (Folstein MF, Folstein SE, McHugh PR. 'Mini-Mental State': A practical method for grading the cognitive state of patients for the clinician. J Psychiatr Res. 1975; 12(3):189-98).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Mini-Mental Status Exam</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MNSI" nciodm:ExtCodeID="C100771">
+                    <nciodm:CDISCSynonym>MNSI1</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Michigan Neuropathy Screening Instrument (MNSI) (copyright University of Michigan, 2000, All rights reserved).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Michigan Neuropathy Screening Instrument Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MPAI-4" nciodm:ExtCodeID="C115798">
+                    <nciodm:CDISCSynonym>MPAI1</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Mayo-Portland Adaptability Inventory-4 (MPAI-4) (Malec, J. (2005). The Mayo-Portland Adaptability Inventory-4. The Center for Outcome Measurement in Brain Injury. http://www.tbims.org/combi/mpai).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Mayo-Portland Adaptability Inventory-4 Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MRS" nciodm:ExtCodeID="C111383">
+                    <nciodm:CDISCSynonym>MRS01</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Modified Rankin Scale (MRS) (Van Swieten J., Koudstaal P., Visser M., Schouten H., and Van Gijn J. Interobserver agreement for the assessment of handicap in stroke patients, 1988. Stroke 19: 604-607).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Modified Rankin Scale Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MSIS-29 V1" nciodm:ExtCodeID="C123664">
+                    <nciodm:CDISCSynonym>MSIS01</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Multiple Sclerosis Impact Scale version 1 (MSIS-29v1) (Copyright 2000 Neurological Outcome Measures Unit, Institute of Neurology, University College London, UK).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Multiple Sclerosis Impact Scale Version 1 Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MSIS-29 V2" nciodm:ExtCodeID="C123665">
+                    <nciodm:CDISCSynonym>MSIS02</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Multiple Sclerosis Impact Scale version 2 (MSIS-29v2) (Copyright 2005 Neurological Outcome Measures Unit, Peninsula Medical School, Plymouth, UK).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Multiple Sclerosis Impact Scale Version 2 Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MSQOL-54" nciodm:ExtCodeID="C113878">
+                    <nciodm:CDISCSynonym>MSQL1</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Multiple Sclerosis Quality of Life-54 Instrument (MSQOL-54) (Copyright 1995, University of California, Los Angeles).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Multiple Sclerosis Quality of Life-54 Instrument Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MSWS-12" nciodm:ExtCodeID="C123663">
+                    <nciodm:CDISCSynonym>MSWS01</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>12-Item Multiple Sclerosis Walking Scale (MSWS-12) (Copyright 2000 Neurological Outcome Measures Unit).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>12-Item Multiple Sclerosis Walking Scale Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPI" nciodm:ExtCodeID="C100772">
+                    <nciodm:CDISCSynonym>NPI1</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropsychiatric Inventory (NPI) (copyright JL Cummings, 1994, all rights reserved; permission for commercial use required; npiTEST.net).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Neuropsychiatric Inventory Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NPS" nciodm:ExtCodeID="C103522">
+                    <nciodm:CDISCSynonym>NPS01</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Neuropathic Pain Scale (NPS) (copyright Brad Galer and Mark Jensen. All rights reserved.).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Neuropathic Pain Scale Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="OAB-Q" nciodm:ExtCodeID="C103523">
+                    <nciodm:CDISCSynonym>OABQ01</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Overactive Bladder Questionnaire (OAB-q) (Coyne K, Revicki D, Hunt T, et al. Psychometric validation of an overactive bladder symptom and health-related quality of life questionnaire: the OAB-q. Qual Life Res. Sep 2002; 11(6):563-574).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>The Overactive Bladder Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="OAB-Q SHORT FORM" nciodm:ExtCodeID="C103524">
+                    <nciodm:CDISCSynonym>OABQ02</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Overactive Bladder Questionnaire Short Form (OAB-q Short Form) (Karin S. Coyne, Christine L. Thompson, Jin-Shei Lai, and Chris C. Sexton. An Overactive Bladder Symptom and Health-Related Quality of Life Short-Form: Validation of the OAB-q SF. Neurourology and Urodynamics 34:255-263, 2015).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>The Overactive Bladder Questionnaire Short Form</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="OCI" nciodm:ExtCodeID="C119095">
+                    <nciodm:CDISCSynonym>OCI01</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Ocular Comfort Index (OCI) (The copyright owner of the Ocular Comfort Index is Dr. Michael Edward Johnson. Michael E. Johnson and Paul J. Murphy. Measurement of Ocular Surface Irritation on a Linear Interval Scale with the Ocular Comfort Index. Investigative Ophthalmology and Visual Science, October 2007, Vol. 48, No.10).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Ocular Comfort Index Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ODI V2.1A" nciodm:ExtCodeID="C103525">
+                    <nciodm:CDISCSynonym>ODI01</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Oswestry Disability Index Version 2.1a (ODI v2.1A) (copyright 1980 Jeremy Fairbank. All Rights Reserved.).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>The Oswestry Disability Index Version 2.1a Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PDDS" nciodm:ExtCodeID="C112524">
+                    <nciodm:CDISCSynonym>PDDS01</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Patient Determined Disease Steps (PDDS) (Hohol MJ, Orav EJ, Weiner HL. Disease Steps in multiple sclerosis: A simple approach to evaluate disease progression. Neurology 1995; 45: 251-55). (Hohol MJ, Orav EJ, Weiner HL. Disease Steps in multiple sclerosis: a longitudinal study comparing disease steps and EDSS to evaluate disease progression. Multiple Sclerosis 1999; 5: 349-54). (Marrie RA and Goldman M. Validity of performance scales for disability assessment in multiple sclerosis. Multiple Sclerosis 2007; 13: 1176-1182). (The PDDS and/or PS are provided for use by the NARCOMS Registry: www.narcoms.org/pdds. NARCOMS is supported in part by the Consortium of Multiple Sclerosis Centers (CMSC) and the CMSC Foundation).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Patient Determined Disease Steps Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PDQUALIF" nciodm:ExtCodeID="C100773">
+                    <nciodm:CDISCSynonym>PDQ01</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Parkinson's Disease Quality of Life Scale (PDQUALIF) (Welsh M, McDermott MP, Holloway RG, Plumb S, Pfeiffer R, Hubble J, and The Parkinson Study Group. Development and Testing of the Parkinson's Disease Quality of Life Scale. Movement Disorders, 2003, Vol. 18; 637-645).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Parkinson's Disease Quality of Life Scale Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PHQ-15" nciodm:ExtCodeID="C103527">
+                    <nciodm:CDISCSynonym>PHQ02</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Patient Health Questionnaire - 15 (PHQ-15) (Kroenke K, Spitzer RL, Williams JBW. The PHQ-15: Validity of a new measure for evaluating the severity of somatic symptoms. Psychosom Med 2002; 64:258-266).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Patient Health Questionnaire - 15 Item</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PHQ-9" nciodm:ExtCodeID="C103526">
+                    <nciodm:CDISCSynonym>PHQ01</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Patient Health Questionnaire - 9 (PHQ-9) (Kroenke K, Spitzer RL, Williams JBW. The PHQ-9: Validity of a brief depression severity measure. J Gen Intern Med 2001; 16:606-613).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Patient Health Questionnaire - 9 Item</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PI" nciodm:ExtCodeID="C105167">
+                    <nciodm:CDISCSynonym>PI01</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Pain Intensity (PI) questions were created by STANDARDS (Standardized Analgesic Database for Research, Discovery, and Submissions) and sponsored by ACTTION (Analgesic Clinical Trial Translations, Innovations, Opportunities, and Networks) www.acttion.org; 2012-08-07 v1.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>STANDARDS Pain Intensity Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PR" nciodm:ExtCodeID="C105168">
+                    <nciodm:CDISCSynonym>PR01</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Pain Relief (PR) questions were created by STANDARDS (Standardized Analgesic Database for Research, Discovery, and Submissions) and sponsored by ACTTION (Analgesic Clinical Trial Translations, Innovations, Opportunities, and Networks) www.acttion.org; 2012-08-07 v1.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>STANDARDS Pain Relief Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PSQI" nciodm:ExtCodeID="C103849">
+                    <nciodm:CDISCSynonym>PSQI1</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Pittsburgh Sleep Quality Index (PSQI) (Copyright 1989, University of Pittsburgh. Buysse,D.J., Reynolds,C.F., Monk,T.H., Berman,S.R., &amp; Kupfer, D.J. The Pittsburgh Sleep Quality Index (PSQI): A new instrument for psychiatric practice and research. Psychiatry Research, 1989, 28(2):193-213).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Pittsburgh Sleep Quality Index</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="RAND-36 V1.0" nciodm:ExtCodeID="C113879">
+                    <nciodm:CDISCSynonym>R3601</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>RAND 36-Item Health Survey 1.0 (RAND-36) (Copyright the RAND Corporation. Developed at RAND as part of the Medical Outcomes Study).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>RAND 36-Item Health Survey 1.0 Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="RDQ" nciodm:ExtCodeID="C100774">
+                    <nciodm:CDISCSynonym>RDQ01</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Roland Morris Disability Questionnaire (RDQ) (Roland MO, Morris RW. A study of the natural history of back pain. Part 1: Development of a reliable and sensitive measure of disability in low back pain. Spine 1983;8:141-144).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Roland Morris Disability Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="RPQ" nciodm:ExtCodeID="C119103">
+                    <nciodm:CDISCSynonym>RPQ01</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Rivermead Post Concussion Symptoms Questionnaire (RPQ) (King NS, Crawford S, Wenden FJ, Moss NEG, Wade DT. The Rivermead Post Concussion Symptoms Questionnaire: a measure of symptoms commonly experienced after head injury and its reliability. J Neurol. 1995;242:587-592).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Rivermead Post-Concussion Symptoms Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SDS" nciodm:ExtCodeID="C111384">
+                    <nciodm:CDISCSynonym>SDS01</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Sheehan Disability Scale (Copyright 1983, 2010, 2011 David V. Sheehan. All rights reserved.).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Sheehan Disability Scale Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SF36 V1.0 ACUTE" nciodm:ExtCodeID="C102120">
+                    <nciodm:CDISCSynonym>SF362</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Short Form 36 Health Survey Acute, US Version 1.0 (SF36 v1.0 Acute) (copyright 1988, 2002 by Medical Outcomes Trust and Quality Metric Incorporated. All rights reserved).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Short Form 36 Health Survey Acute, US Version 1.0 Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SF36 V1.0 STANDARD" nciodm:ExtCodeID="C100775">
+                    <nciodm:CDISCSynonym>SF361</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Short Form 36 Health Survey Standard, US Version 1.0 (SF36 v1.0 Standard) (copyright 1988, 2002 by Medical Outcomes Trust and Quality Metric Incorporated. All rights reserved).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Short Form 36 Health Survey Standard, US Version 1.0 Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SF36 V2.0 ACUTE" nciodm:ExtCodeID="C102121">
+                    <nciodm:CDISCSynonym>SF364</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Short Form 36 Health Survey Acute, US Version 2.0 (SF36 v2.0 Acute) (copyright 1996, 2000 by Quality Metric Incorporated and Medical Outcomes Trust. All rights reserved).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Short Form 36 Health Survey Acute, US Version 2.0 Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SF36 V2.0 STANDARD" nciodm:ExtCodeID="C102122">
+                    <nciodm:CDISCSynonym>SF363</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Short Form 36 Health Survey Standard, US Version 2.0 (SF36 v2.0 Standard) (copyright 1996, 2000 by Quality Metric Incorporated and Medical Outcomes Trust. All rights reserved).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Short Form 36 Health Survey Standard, US Version 2.0 Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SGRQ PAST 3 MONTHS VERSION" nciodm:ExtCodeID="C112525">
+                    <nciodm:CDISCSynonym>SGRQ01</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>St. George's Respiratory Questionnaire (SGRQ) Past 3 Months Version (copyright P.W. Jones, St. George's University of London).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>St. George's Respiratory Questionnaire Past 3 Months Version</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SGRQ PAST 4 WEEKS VERSION" nciodm:ExtCodeID="C112526">
+                    <nciodm:CDISCSynonym>SGRQ02</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>St. George's Respiratory Questionnaire (SGRQ) Past 4 Weeks Version (copyright P.W. Jones, St. George's University of London).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>St. George's Respiratory Questionnaire Past 4 Weeks Version</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SGRQ-C" nciodm:ExtCodeID="C106890">
+                    <nciodm:CDISCSynonym>SGRQC1</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>St. George's Respiratory Questionnaire for COPD Patients (SGRQ-C) (Jones PW, Quirk FH, Baveystock CM, and Littlejohns PA. Self-complete measure of health status for chronic airflow limitation. The St. George's Respiratory Questionnaire. Am Rev Respir Dis. 1992 Jun; 145(6):1321-7).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>St. George's Respiratory Questionnaire for Chronic Obstructive Pulmonary Disease Patients</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SHORT-FORM MPQ-2" nciodm:ExtCodeID="C100776">
+                    <nciodm:CDISCSynonym>SFMP2</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Short-Form McGill Pain Questionnaire-2 (SF-MPQ-2) (Copyright R. Melzack and the Initiative on Methods, Measurement, and Pain Assessment in Clinical Trials (IMMPACT), 2009, All Rights Reserved).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Short-Form McGill Pain Questionnaire-2</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SIQR" nciodm:ExtCodeID="C103528">
+                    <nciodm:CDISCSynonym>SIQR01</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Symptom Impact Questionnaire (SIQR) (copyright 2009 Bennett RM and Friend. All Rights Reserved.).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Symptom Impact Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SOAPP-R" nciodm:ExtCodeID="C100777">
+                    <nciodm:CDISCSynonym>SOAPR1</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Screener and Opioid Assessment for Patients with Pain Revised (SOAPP-R) (copyright 2007 Inflexxion, Inc., All rights reserved).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Screener and Opioid Assessment for Patients with Pain Revised Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SOBDA" nciodm:ExtCodeID="C123659">
+                    <nciodm:CDISCSynonym>SOBDA1</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Shortness of Breath with Daily Activities Questionnaire (SOBDA) (Wilcox TK, Chen WH, Howard KA, Wiklund I, Brooks J, Watkins ML, Cates CE, Tabberer MM, Crim C. Item selection, reliability and validity of the Shortness of Breath with Daily Activities (SOBDA) questionnaire: a new outcome measure for evaluating dyspnea in chronic obstructive pulmonary disease. Health and Quality of Life Outcomes 2013 11:196).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Shortness of Breath with Daily Activities Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SOWS SHORT" nciodm:ExtCodeID="C103529">
+                    <nciodm:CDISCSynonym>SOWSB1</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Short Opiate Withdrawal Scale (SOWS SHORT) (Gossop, M. The development of a short opiate withdrawal scale. Addictive Behaviors 1990; 15:487-490).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Short Opiate Withdrawal Scale Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SOWS SUBJECTIVE" nciodm:ExtCodeID="C102123">
+                    <nciodm:CDISCSynonym>SOWSA1</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Subjective Opiate Withdrawal Scale (SOWS) (Handelsman, L., Cochrane, K. J., Aronson, M. J. Ness, R., Rubinstein K.J., Kanof, P.D. (1987) Two New Rating Scales for Opiate Withdrawal. American Journal of Alcohol Abuse, 13, 293-308).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Subjective Opiate Withdrawal Scale Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SWLS" nciodm:ExtCodeID="C115799">
+                    <nciodm:CDISCSynonym>SWLS01</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Satisfaction With Life Scale (SWLS) (Diener, E., Emmons, R., Larsen, J., and Griffin, S. (1985). The Satisfaction With Life Scale. J Personality Assessment, 49(1): 71-75).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Satisfaction With Life Scale Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TDI" nciodm:ExtCodeID="C106694">
+                    <nciodm:CDISCSynonym>TDI01</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Transition Dyspnea Index (TDI) (Mahler DA, Weinberg DH, Wells CK, Feinstein AR. The measurement of dyspnea. Contents, interobserver agreement, and physiologic correlates of two new clinical indexes. Chest 1984, 85: 751-758).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Transition Dyspnea Index Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPDRS" nciodm:ExtCodeID="C100778">
+                    <nciodm:CDISCSynonym>UPD1</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Unified Parkinson's Disease Rating Scale (UPDRS) (Fahn S, Marsden CD, Calne DB, Goldstein M, eds. Recent Developments in Parkinson's Disease, Vol 2. Florham Park, NJ. Macmillan Health Care Information 1987, pp 153-163, 293-304).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Unified Parkinson's Disease Rating Scale Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="UPS" nciodm:ExtCodeID="C103530">
+                    <nciodm:CDISCSynonym>UPS01</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Urgency Perception Scale (UPS) (copyright Pfizer. All rights reserved.).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Urgency Perception Scale Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="VFQ-25 INTERVIEWER ADMINISTERED" nciodm:ExtCodeID="C112527">
+                    <nciodm:CDISCSynonym>VFQ1</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>National Eye Institute Visual Functioning Questionnaire - 25 (VFQ-25) Version 2000 Interviewer-Administered Format (Mangione, C. M., Lee, P. P., Gutierrez, P. R., Spritzer, K., Berry, S., &amp; Hays, R. D. Development of the 25-item National Eye Institute Visual Function Questionnaire (VFQ-25). Archives of Ophthalmology. 2001; 119:1050-1058). (This instrument was developed at RAND under the sponsorship of the National Eye Institute).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Visual Functioning Questionnaire 25-Interviewer Administered Format Version 2000</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="VFQ-25 SELF ADMINISTERED" nciodm:ExtCodeID="C112528">
+                    <nciodm:CDISCSynonym>VFQ2</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>National Eye Institute Visual Functioning Questionnaire - 25 (VFQ-25) Version 2000 Self-Administered Format (Mangione, C. M., Lee, P. P., Gutierrez, P. R., Spritzer, K., Berry, S., &amp; Hays, R. D. Development of the 25-item National Eye Institute Visual Function Questionnaire (VFQ-25). Archives of Ophthalmology. 2001; 119:1050-1058). (This instrument was developed at RAND under the sponsorship of the National Eye Institute).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Visual Functioning Questionnaire 25-Self Administered Format Version 2000</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WLQ" nciodm:ExtCodeID="C119096">
+                    <nciodm:CDISCSynonym>WLQ01</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Work Limitations Questionnaire (WLQ) (copyright 1998. The Health Institute, Tufts Medical Center f/k/a New England Medical Center Hospitals, Inc.; Debra Lerner, Ph.D.; Benjamin Amick III, Ph.D.; and GlaxoWellcome, Inc. All Rights Reserved).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Work Limitations Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WOMAC LK 3.1 INDEX" nciodm:ExtCodeID="C122384">
+                    <nciodm:CDISCSynonym>WOMAC1</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Western Ontario and McMaster Universities Osteoarthritis Index Version 3.1 Likert Scale Format (WOMAC LK 3.1) (Bellamy N. WOMAC Osteoarthritis Index User Guide. Version V. Brisbane, Australia 2002; WOMAC 3.1 User Guide XI; WOMAC is a registered trade-mark. Copyright 2008. Prof Nicholas Bellamy. All Rights Reserved).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Western Ontario and McMaster Universities Osteoarthritis Index Version 3.1 Likert Scale Format Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WOMAC NRS 3.1 INDEX" nciodm:ExtCodeID="C122385">
+                    <nciodm:CDISCSynonym>WOMAC2</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Western Ontario and McMaster Universities Osteoarthritis Index Version 3.1 Numerical Rating Scale Format (WOMAC NRS 3.1) (Bellamy N. WOMAC Osteoarthritis Index User Guide. Version V. Brisbane, Australia 2002; WOMAC 3.1 User Guide XI; WOMAC is a registered trade-mark. Copyright 2008. Prof Nicholas Bellamy. All Rights Reserved).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Western Ontario and McMaster Universities Osteoarthritis Index Version 3.1 Numerical Rating Scale Format Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WOMAC VA 3.1 INDEX" nciodm:ExtCodeID="C122386">
+                    <nciodm:CDISCSynonym>WOMAC3</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Western Ontario and McMaster Universities Osteoarthritis Index Version 3.1 Visual Analog Scale Format (WOMAC VA 3.1) (Bellamy N. WOMAC Osteoarthritis Index User Guide. Version V. Brisbane, Australia 2002; WOMAC 3.1 User Guide XI; WOMAC is a registered trade-mark. Copyright 2008. Prof Nicholas Bellamy. All Rights Reserved).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Western Ontario and McMaster Universities Osteoarthritis Index Version 3.1 Visual Analog Scale Format Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="WPAI-SHP" nciodm:ExtCodeID="C100779">
+                    <nciodm:CDISCSynonym>WPAI01</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Work Productivity and Activity Impairment - Specific Health Problems Questionnaire Version 2.0 (WPAI01) (http://www.reillyassociates.net/WPAI_SHP.html).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Work Productivity and Activity Impairment Specific Health Problems Version 2.0 Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="YMRS" nciodm:ExtCodeID="C102124">
+                    <nciodm:CDISCSynonym>YMRS01</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Young Mania Rating Scale (YMRS) (Young RC, Biggs JT, Ziegler VE et al: A rating scale for mania: reliability, validity and sensitivity. Br J Psychiatry 133: 429-435, 1978).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Young Mania Rating Scale Questionnaire</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>QSCAT</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Category of Questionnaire</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Questionnaire Category Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

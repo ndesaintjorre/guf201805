@@ -1,0 +1,49 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C120988.CHILD-PUGH CLASSIFICATION TEST" Name="Child-Pugh Clinical Classification Test Name" DataType="text" nciodm:ExtCodeID="C120988" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Child-Pugh Classification test name.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="CPS01-Ascites" nciodm:ExtCodeID="C121069">
+                    <nciodm:CDISCSynonym>CPS01-Ascites</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Child-Pugh Classification - Ascites.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Child-Pugh - Ascites</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CPS01-Encephalopathy Grade" nciodm:ExtCodeID="C121068">
+                    <nciodm:CDISCSynonym>CPS01-Encephalopathy Grade</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Child-Pugh Classification - Encephalopathy grade.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Child-Pugh - Encephalopathy Grade</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CPS01-Grade" nciodm:ExtCodeID="C121075">
+                    <nciodm:CDISCSynonym>CPS01-Grade</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Child-Pugh Classification - Child-Pugh grade.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Child-Pugh - Grade</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CPS01-PT, INR" nciodm:ExtCodeID="C121073">
+                    <nciodm:CDISCSynonym>CPS01-PT, INR</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Child-Pugh Classification - Prothrombin time, international normalized ratio (INR).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Child-Pugh - PT, INR</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CPS01-PT, Sec Prolonged" nciodm:ExtCodeID="C121072">
+                    <nciodm:CDISCSynonym>CPS01-PT, Sec Prolonged</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Child-Pugh Classification - Prothrombin time, sec prolonged.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Child-Pugh - PT, Sec Prolonged</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CPS01-Serum Albumin" nciodm:ExtCodeID="C121071">
+                    <nciodm:CDISCSynonym>CPS01-Serum Albumin</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Child-Pugh Classification - Serum albumin, g/dL.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Child-Pugh - Serum Albumin</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CPS01-Serum Bilirubin" nciodm:ExtCodeID="C121070">
+                    <nciodm:CDISCSynonym>CPS01-Serum Bilirubin</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Child-Pugh Classification - Serum bilirubin, mg/dL.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Child-Pugh - Serum Bilirubin</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CPS01-Total Score" nciodm:ExtCodeID="C121074">
+                    <nciodm:CDISCSynonym>CPS01-Total Score</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Child-Pugh Classification - Child-Pugh total score.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Child-Pugh - Total Score</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>CHILD-PUGH CLASSIFICATION TEST</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Child-Pugh Clinical Classification Test Name</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Clinical Classification Child-Pugh Test Name Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

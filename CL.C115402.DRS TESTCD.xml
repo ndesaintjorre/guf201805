@@ -1,0 +1,49 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C115402.DRS TESTCD" Name="Disability Rating Scale Questionnaire Test Code" DataType="text" nciodm:ExtCodeID="C115402" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Disability Rating Scale test code.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="DRS0101" nciodm:ExtCodeID="C115820">
+                    <nciodm:CDISCSynonym>DRS01-Eye Opening</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Disability Rating Scale - Eye opening.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRS - Eye Opening</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRS0102" nciodm:ExtCodeID="C115821">
+                    <nciodm:CDISCSynonym>DRS01-Communication Ability</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Disability Rating Scale - Communication ability.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRS - Communication Ability</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRS0103" nciodm:ExtCodeID="C115822">
+                    <nciodm:CDISCSynonym>DRS01-Motor Response</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Disability Rating Scale - Motor response.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRS - Motor Response</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRS0104" nciodm:ExtCodeID="C115823">
+                    <nciodm:CDISCSynonym>DRS01-Feeding</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Disability Rating Scale - Feeding (cognitive ability only).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRS - Feeding</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRS0105" nciodm:ExtCodeID="C115824">
+                    <nciodm:CDISCSynonym>DRS01-Toileting</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Disability Rating Scale - Toileting (cognitive ability only).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRS - Toileting</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRS0106" nciodm:ExtCodeID="C115825">
+                    <nciodm:CDISCSynonym>DRS01-Grooming</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Disability Rating Scale - Grooming (cognitive ability only).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRS - Grooming</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRS0107" nciodm:ExtCodeID="C115826">
+                    <nciodm:CDISCSynonym>DRS01-Level of Functioning</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Disability Rating Scale - Level of functioning (physical, mental, emotional or social function).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRS - Level of Functioning</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DRS0108" nciodm:ExtCodeID="C115827">
+                    <nciodm:CDISCSynonym>DRS01-Employability</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Disability Rating Scale - Employability (as a full time worker, homemaker, or student).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DRS - Employability</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>DRS TESTCD</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Disability Rating Scale Questionnaire Test Code</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Questionnaire DRS Test Code Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

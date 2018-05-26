@@ -1,0 +1,14 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C103458.ADCS-CGIC TEST" Name="Alzheimer's Disease Cooperative Study-Clinical Global Impression of Change Questionnaire Test Name" DataType="text" nciodm:ExtCodeID="C103458" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Alzheimer's Disease Cooperative Study-Clinical Global Impression of Change test name.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="ACGC01-Clinical Impression of Change" nciodm:ExtCodeID="C103531">
+                    <nciodm:CDISCSynonym>ACGC01-Clinical Impression of Change</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Alzheimer's Disease Cooperative Study-Clinical Global Impression of Change - Clinical impression of change from baseline.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ADCS-CGIC - Clinical Impression of Change from Baseline</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>ADCS-CGIC TEST</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Alzheimer's Disease Cooperative Study-Clinical Global Impression of Change Questionnaire Test Name</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Questionnaire ADCS-CGIC Test Name Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

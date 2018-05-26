@@ -1,0 +1,149 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C117991.ESRSA TESTCD" Name="Extrapyramidal Symptom Rating Scale-Abbreviated Clinical Classification Test Code" DataType="text" nciodm:ExtCodeID="C117991" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Extrapyramidal Symptom Rating Scale-Abbreviated test code.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="ESRSA101" nciodm:ExtCodeID="C118079">
+                    <nciodm:CDISCSynonym>ESRSA1-Rigidity: Upper Limbs</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Extrapyramidal Symptom Rating Scale-Abbreviated - Parkinsonism-Rigidity: Upper limbs.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ESRS-A - Rigidity: Upper Limbs</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ESRSA102" nciodm:ExtCodeID="C118080">
+                    <nciodm:CDISCSynonym>ESRSA1-Rigidity: Lower Limbs</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Extrapyramidal Symptom Rating Scale-Abbreviated - Parkinsonism-Rigidity: Lower limbs.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ESRS-A - Rigidity: Lower Limbs</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ESRSA103" nciodm:ExtCodeID="C118081">
+                    <nciodm:CDISCSynonym>ESRSA1-Rigidity: Neck</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Extrapyramidal Symptom Rating Scale-Abbreviated - Parkinsonism-Rigidity: Neck.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ESRS-A - Rigidity: Neck</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ESRSA104" nciodm:ExtCodeID="C118082">
+                    <nciodm:CDISCSynonym>ESRSA1-Tremor: Face/Jaw/Chin/Lips/Head</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Extrapyramidal Symptom Rating Scale-Abbreviated - Parkinsonism-Tremor: Face, jaw/chin, lips, head.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ESRS-A - Tremor: Face/Jaw/Chin/Lips/Head</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ESRSA105" nciodm:ExtCodeID="C118083">
+                    <nciodm:CDISCSynonym>ESRSA1-Tremor: Upper Limbs/Hands</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Extrapyramidal Symptom Rating Scale-Abbreviated - Parkinsonism-Tremor: Upper limbs/hands.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ESRS-A - Tremor: Upper Limbs/Hands</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ESRSA106" nciodm:ExtCodeID="C118084">
+                    <nciodm:CDISCSynonym>ESRSA1-Tremor: Lower Limbs/Feet</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Extrapyramidal Symptom Rating Scale-Abbreviated - Parkinsonism-Tremor: Lower limbs/feet.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ESRS-A - Tremor: Lower Limbs/Feet</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ESRSA107" nciodm:ExtCodeID="C118085">
+                    <nciodm:CDISCSynonym>ESRSA1-Reduced Facial Expression/Speech</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Extrapyramidal Symptom Rating Scale-Abbreviated - Parkinsonism-Reduced facial expression/speech.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ESRS-A - Reduced Facial Expression/Speech</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ESRSA108" nciodm:ExtCodeID="C118086">
+                    <nciodm:CDISCSynonym>ESRSA1-Impaired Gait/Posture</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Extrapyramidal Symptom Rating Scale-Abbreviated - Parkinsonism-Impaired gait/posture.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ESRS-A - Impaired Gait/Posture</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ESRSA109" nciodm:ExtCodeID="C118087">
+                    <nciodm:CDISCSynonym>ESRSA1-Postural Instability</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Extrapyramidal Symptom Rating Scale-Abbreviated - Parkinsonism-Postural instability.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ESRS-A - Postural Instability</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ESRSA110" nciodm:ExtCodeID="C118088">
+                    <nciodm:CDISCSynonym>ESRSA1-Bradykinesia/Hypokinesia</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Extrapyramidal Symptom Rating Scale-Abbreviated - Parkinsonism-Bradykinesia/hypokinesia.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ESRS-A - Bradykinesia/Hypokinesia</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ESRSA111" nciodm:ExtCodeID="C118089">
+                    <nciodm:CDISCSynonym>ESRSA1-Dystonia: Tongue</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Extrapyramidal Symptom Rating Scale-Abbreviated - Dystonia: Tongue.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ESRS-A - Dystonia: Tongue</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ESRSA112" nciodm:ExtCodeID="C118090">
+                    <nciodm:CDISCSynonym>ESRSA1-Dystonia: Jaw</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Extrapyramidal Symptom Rating Scale-Abbreviated - Dystonia: Jaw.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ESRS-A - Dystonia: Jaw</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ESRSA113" nciodm:ExtCodeID="C118091">
+                    <nciodm:CDISCSynonym>ESRSA1-Dystonia: Eyes/Face/Larynx</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Extrapyramidal Symptom Rating Scale-Abbreviated - Dystonia: Eyes, upper face, lower face, larynx.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ESRS-A - Dystonia: Eyes/Upper and Lower Face/Larynx</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ESRSA114" nciodm:ExtCodeID="C118092">
+                    <nciodm:CDISCSynonym>ESRSA1-Dystonia: Shoulder/Up Limb/Hand</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Extrapyramidal Symptom Rating Scale-Abbreviated - Dystonia: Shoulders, upper limbs, hands.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ESRS-A - Dystonia: Shoulder/Upper Limbs/Hands</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ESRSA115" nciodm:ExtCodeID="C118093">
+                    <nciodm:CDISCSynonym>ESRSA1-Dystonia: Hips/Lower Limbs/Feet</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Extrapyramidal Symptom Rating Scale-Abbreviated - Dystonia: Hips, lower limbs, feet.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ESRS-A - Dystonia: Hips/Lower Limbs/Feet</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ESRSA116" nciodm:ExtCodeID="C118094">
+                    <nciodm:CDISCSynonym>ESRSA1-Dystonia: Trunk/Neck</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Extrapyramidal Symptom Rating Scale-Abbreviated - Dystonia: Trunk, neck.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ESRS-A - Dystonia: Trunk/Neck</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ESRSA117" nciodm:ExtCodeID="C118095">
+                    <nciodm:CDISCSynonym>ESRSA1-Dyskinesia: Tongue</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Extrapyramidal Symptom Rating Scale-Abbreviated - Dyskinesia: Tongue.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ESRS-A - Dyskinesia: Tongue</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ESRSA118" nciodm:ExtCodeID="C118096">
+                    <nciodm:CDISCSynonym>ESRSA1-Dyskinesia: Jaw</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Extrapyramidal Symptom Rating Scale-Abbreviated - Dyskinesia: Jaw.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ESRS-A - Dyskinesia: Jaw</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ESRSA119" nciodm:ExtCodeID="C118097">
+                    <nciodm:CDISCSynonym>ESRSA1-Dyskinesia: Eyes/Up Face/Low Face</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Extrapyramidal Symptom Rating Scale-Abbreviated - Dyskinesia: Eyes, upper face, lower face.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ESRS-A - Dyskinesia: Eyes/Upper Face/Lower Face</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ESRSA120" nciodm:ExtCodeID="C118098">
+                    <nciodm:CDISCSynonym>ESRSA1-Dyskinesia: Shoulder/Up Limb/Hand</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Extrapyramidal Symptom Rating Scale-Abbreviated - Dyskinesia: Shoulders, upper limbs, hands.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ESRS-A - Dyskinesia: Shoulder/Upper Limbs/Hands</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ESRSA121" nciodm:ExtCodeID="C118099">
+                    <nciodm:CDISCSynonym>ESRSA1-Dyskinesia: Hips/Lower Limbs/Feet</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Extrapyramidal Symptom Rating Scale-Abbreviated - Dyskinesia: Hips, lower limbs, feet.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ESRS-A - Dyskinesia: Hips/Lower Limbs/Feet</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ESRSA122" nciodm:ExtCodeID="C118100">
+                    <nciodm:CDISCSynonym>ESRSA1-Dyskinesia: Trunk/Neck</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Extrapyramidal Symptom Rating Scale-Abbreviated - Dyskinesia: Trunk, neck.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ESRS-A - Dyskinesia: Trunk/Neck</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ESRSA123" nciodm:ExtCodeID="C118101">
+                    <nciodm:CDISCSynonym>ESRSA1-Akathisia: Subjective</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Extrapyramidal Symptom Rating Scale-Abbreviated - Akathisia: Subjective.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ESRS-A - Akathisia: Subjective</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ESRSA124" nciodm:ExtCodeID="C118102">
+                    <nciodm:CDISCSynonym>ESRSA1-Akathisia: Objective</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Extrapyramidal Symptom Rating Scale-Abbreviated - Akathisia: Objective.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ESRS-A - Akathisia: Objective</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ESRSA125" nciodm:ExtCodeID="C118103">
+                    <nciodm:CDISCSynonym>ESRSA1-CGI-S Parkinsonism</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Extrapyramidal Symptom Rating Scale-Abbreviated - Clinical Global Impression (CGI-S): Parkinsonism.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ESRS-A - CGI-S Parkinsonism</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ESRSA126" nciodm:ExtCodeID="C118104">
+                    <nciodm:CDISCSynonym>ESRSA1-CGI-S Dystonia</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Extrapyramidal Symptom Rating Scale-Abbreviated - Clinical Global Impression (CGI-S): Dystonia.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ESRS-A - CGI-S Dystonia</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ESRSA127" nciodm:ExtCodeID="C118105">
+                    <nciodm:CDISCSynonym>ESRSA1-CGI-S Dyskinesia</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Extrapyramidal Symptom Rating Scale-Abbreviated - Clinical Global Impression (CGI-S): Dyskinesia.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ESRS-A - CGI-S Dyskinesia</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ESRSA128" nciodm:ExtCodeID="C118106">
+                    <nciodm:CDISCSynonym>ESRSA1-CGI-S Akathisia</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Extrapyramidal Symptom Rating Scale-Abbreviated - Clinical Global Impression (CGI-S): Akathisia.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>ESRS-A - CGI-S Akathisia</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>ESRSA TESTCD</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Extrapyramidal Symptom Rating Scale-Abbreviated Clinical Classification Test Code</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Clinical Classification ESRS-A Test Code Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

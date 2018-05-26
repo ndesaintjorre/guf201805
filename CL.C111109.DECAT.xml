@@ -1,4 +1,4 @@
-<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C111109.DECAT" Name="Device Events Category" DataType="text" nciodm:ExtCodeID="C111109" nciodm:CodeListExtensible="Yes">
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C111109.DECAT" Name="Category of Device Events" DataType="text" nciodm:ExtCodeID="C111109" nciodm:CodeListExtensible="Yes">
                 <Description>
                     <TranslatedText xml:lang="en">A terminology codelist based on the category of related records for the device event.</TranslatedText>
                 </Description>
@@ -36,7 +36,7 @@
                     <nciodm:PreferredTerm>Software Maintenance</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <nciodm:CDISCSubmissionValue>DECAT</nciodm:CDISCSubmissionValue>
-                <nciodm:CDISCSynonym>Device Events Category</nciodm:CDISCSynonym>
+                <nciodm:CDISCSynonym>Category of Device Events</nciodm:CDISCSynonym>
                 <nciodm:PreferredTerm>CDISC SDTM Device Events Category Terminology</nciodm:PreferredTerm>
             </CodeList>
             

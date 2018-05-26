@@ -1,0 +1,69 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C119069.DLQI TEST" Name="Dermatology Life Quality Index Questionnaire Test Name" DataType="text" nciodm:ExtCodeID="C119069" nciodm:CodeListExtensible="No">
+                <Description>
+                    <TranslatedText xml:lang="en">Dermatology Life Quality Index test name.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="DLQI-Score" nciodm:ExtCodeID="C119174">
+                    <nciodm:CDISCSynonym>DLQI-Score</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Dermatology Life Quality Index - Score.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DLQI - Score</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DLQI1-Affected Social, Leisure Activity" nciodm:ExtCodeID="C119167">
+                    <nciodm:CDISCSynonym>DLQI1-Affected Social, Leisure Activity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Dermatology Life Quality Index - Over the last week, how much has your skin affected any social or leisure activities?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DLQI - Skin Affect Social or Leisure Activities</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DLQI1-Caused Any Sexual Difficulties" nciodm:ExtCodeID="C119172">
+                    <nciodm:CDISCSynonym>DLQI1-Caused Any Sexual Difficulties</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Dermatology Life Quality Index - Over the last week, how much has your skin caused any sexual difficulties?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DLQI - Skin Cause Sexual Difficulties</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DLQI1-How Embarrassed, Self Conscious" nciodm:ExtCodeID="C119164">
+                    <nciodm:CDISCSynonym>DLQI1-How Embarrassed, Self Conscious</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Dermatology Life Quality Index - Over the last week, how embarrassed or self conscious have you been because of your skin?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DLQI - Embarrassed Because of Skin</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DLQI1-How Itchy, Sore, Painful, Stinging" nciodm:ExtCodeID="C119163">
+                    <nciodm:CDISCSynonym>DLQI1-How Itchy, Sore, Painful, Stinging</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Dermatology Life Quality Index - Over the last week, how itchy, sore, painful or stinging has your skin been?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DLQI - Itchy, Sore, Painful or Stinging Skin</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DLQI1-How Much a Problem is Treatment" nciodm:ExtCodeID="C119173">
+                    <nciodm:CDISCSynonym>DLQI1-How Much a Problem is Treatment</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Dermatology Life Quality Index - Over the last week, how much of a problem has the treatment for your skin been, for example by making your home messy, or by taking up time?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DLQI - Treatment for Skin Make Home Messy</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DLQI1-Influenced Clothes You Wear" nciodm:ExtCodeID="C119166">
+                    <nciodm:CDISCSynonym>DLQI1-Influenced Clothes You Wear</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Dermatology Life Quality Index - Over the last week, how much has your skin influenced the clothes you wear?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DLQI - Skin Influence Clothes You Wear</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DLQI1-Interfered Shopping, Home, Yard" nciodm:ExtCodeID="C119165">
+                    <nciodm:CDISCSynonym>DLQI1-Interfered Shopping, Home, Yard</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Dermatology Life Quality Index - Over the last week, how much has your skin interfered with you going shopping or looking after your home or yard?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DLQI - Skin Interfere With Shopping, Looking After Home or Yard</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DLQI1-Made It Difficult to Do Any Sports" nciodm:ExtCodeID="C119168">
+                    <nciodm:CDISCSynonym>DLQI1-Made It Difficult to Do Any Sports</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Dermatology Life Quality Index - Over the last week, how much has your skin made it difficult for you to do any sport?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DLQI - Skin Made Difficult to Do Sport</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DLQI1-Prevented Working or Studying" nciodm:ExtCodeID="C119169">
+                    <nciodm:CDISCSynonym>DLQI1-Prevented Working or Studying</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Dermatology Life Quality Index - Over the last week, has your skin prevented you from working or studying?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DLQI - Skin Prevent Work or Study</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DLQI1-Problem at Work or Studying" nciodm:ExtCodeID="C119170">
+                    <nciodm:CDISCSynonym>DLQI1-Problem at Work or Studying</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Dermatology Life Quality Index - If 'No', over the last week how much has your skin been a problem at work or studying?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DLQI - Skin Has Been a Problem at Work or Study</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DLQI1-Problem Partner, Friends, Relative" nciodm:ExtCodeID="C119171">
+                    <nciodm:CDISCSynonym>DLQI1-Problem Partner, Friends, Relative</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Dermatology Life Quality Index - Over the last week, how much has your skin created problems with your partner or any of your close friends or relatives?</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>DLQI - Skin Create Problem With Partner, Friends or Relatives</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>DLQI TEST</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Dermatology Life Quality Index Questionnaire Test Name</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC Questionnaire DLQI Test Name Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            
