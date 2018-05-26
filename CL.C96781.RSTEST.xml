@@ -8,6 +8,41 @@
                     <nciodm:CDISCDefinition>An assessment of the most clinically favorable overall response of the disease to the therapy.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Best Overall Response</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="Clinical Response" nciodm:ExtCodeID="C123619">
+                    <nciodm:CDISCSynonym>Clinical Response</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An assessment of the clinical response of the disease to the therapy.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Clinical Response</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Cytogenetic Response" nciodm:ExtCodeID="C123620">
+                    <nciodm:CDISCSynonym>Cytogenetic Response</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An assessment of the cytogenetic response of the disease to the therapy.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Cytogenetic Response</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Disease Recurrence Indicator" nciodm:ExtCodeID="C123621">
+                    <nciodm:CDISCSynonym>Disease Recurrence Indicator</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An indication as to whether disease recurrence occurred.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Disease Recurrence Indicator</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Hematologic Response" nciodm:ExtCodeID="C123622">
+                    <nciodm:CDISCSynonym>Hematologic Response</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An assessment of the hematologic response of the disease to the therapy.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Hematologic Response</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Metabolic Response" nciodm:ExtCodeID="C123623">
+                    <nciodm:CDISCSynonym>Metabolic Response</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An assessment of the metabolic response of the disease to the therapy.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Metabolic Response</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Molecular Response" nciodm:ExtCodeID="C123624">
+                    <nciodm:CDISCSynonym>Molecular Response</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An assessment of the molecular response of the disease to the therapy.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Molecular Response</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Morphologic Response" nciodm:ExtCodeID="C123625">
+                    <nciodm:CDISCSynonym>Morphologic Response</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An assessment of the morphologic response of the disease to the therapy.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Morphologic Response</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="New Lesion Progression" nciodm:ExtCodeID="C103420">
                     <nciodm:CDISCSynonym>New Lesion Progression</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>An assessment of the equivocality of disease progression based on a newly identified lesion.</nciodm:CDISCDefinition>
@@ -28,10 +63,25 @@
                     <nciodm:CDISCDefinition>An assessment of the overall response of the disease to the therapy. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Overall Response</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="Pathologic Response" nciodm:ExtCodeID="C123626">
+                    <nciodm:CDISCSynonym>Pathologic Response</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An assessment of the pathologic response of the disease to the therapy.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Pathologic Response</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Radiologic Response" nciodm:ExtCodeID="C123627">
+                    <nciodm:CDISCSynonym>Radiologic Response</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An assessment of the radiologic response of the disease to the therapy.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Radiologic Response</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="Target Response" nciodm:ExtCodeID="C94534">
                     <nciodm:CDISCSynonym>Target Response</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>An assessment of the response of a target tumor(s) to the therapy.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Response in Target Lesion</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Tumor Antigen Response" nciodm:ExtCodeID="C123628">
+                    <nciodm:CDISCSynonym>Tumor Antigen Response</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An assessment of the change in tumor antigen quantity in response to the therapy.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Tumor Antigen Response</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <nciodm:CDISCSubmissionValue>RSTEST</nciodm:CDISCSubmissionValue>
                 <nciodm:CDISCSynonym>Tumor Response Assessment Test Name</nciodm:CDISCSynonym>

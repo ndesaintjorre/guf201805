@@ -2,6 +2,11 @@
                 <Description>
                     <TranslatedText xml:lang="en">Terminology relevant to the test names that describe tumor assessments for identification purposes.</TranslatedText>
                 </Description>
+                <EnumeratedItem CodedValue="Disease Recurrence Relative Location" nciodm:ExtCodeID="C123633">
+                    <nciodm:CDISCSynonym>Disease Recurrence Relative Location</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A description of the region or relative location for the disease recurrence.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Disease Recurrence Relative Location</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="Graft Lesion Identification" nciodm:ExtCodeID="C119567">
                     <nciodm:CDISCSynonym>Graft Lesion Identification</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>An indication that a graft with a lesion has been located and characterized.</nciodm:CDISCDefinition>

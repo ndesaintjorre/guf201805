@@ -6,9 +6,20 @@
                     <nciodm:CDISCDefinition>A period in a clinical study during which subjects receive blinded therapeutic treatment.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Blinded Treatment Epoch</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="CONTINUATION TREATMENT" nciodm:ExtCodeID="C123452">
+                    <nciodm:CDISCSynonym>Continuation Phase</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A period in a clinical study during which subjects receive continuation treatment.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Continuation Therapy Epoch</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="FOLLOW-UP" nciodm:ExtCodeID="C99158">
                     <nciodm:CDISCDefinition>A period in a clinical study during which information about the health status of an individual is obtained after study procedures and treatments have concluded.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Clinical Study Follow-up</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="INDUCTION TREATMENT" nciodm:ExtCodeID="C123453">
+                    <nciodm:CDISCSynonym>Induction Phase</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Intensive Phase</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A period in a clinical study during which subjects receive induction treatment.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Induction Therapy Epoch</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="LONG-TERM FOLLOW-UP" nciodm:ExtCodeID="C16032">
                     <nciodm:CDISCDefinition>A period in a clinical study during which information about the health status of an individual is obtained long after study procedures and treatments have concluded.</nciodm:CDISCDefinition>

@@ -22,6 +22,10 @@
                     <nciodm:CDISCDefinition>A microscopy staining method that utilizes alcian blue, a cationic, water soluble copper-containing phthalocyanine dye to determine the presence of acid mucopolysaccharides and glycosaminoglycans.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Alcian Blue Staining Method</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="AMSLER GRID" nciodm:ExtCodeID="C123464">
+                    <nciodm:CDISCDefinition>A diagrammatic method to test visual acuity and presence of macular degeneration, which uses a uniform square grid of lines with a dot in the center.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Amsler Grid</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="ANALYTICAL ULTRACENTRIFUGATION" nciodm:ExtCodeID="C120681">
                     <nciodm:CDISCDefinition>A high-speed centrifugation-based method that uses an optical detection system to monitor and record data during the centrifugation process.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Analytical Ultracentrifugation</nciodm:PreferredTerm>
@@ -180,6 +184,11 @@
                     <nciodm:CDISCDefinition>An orderly array of DNA samples affixed to a support. The chip is used in various types of hybridization experiments. Used when a more specific microarray methodology is not specified.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>DNA Microarray Chip</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="DUCTOGRAPHY" nciodm:ExtCodeID="C123465">
+                    <nciodm:CDISCSynonym>Galactography</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A type of mammography that uses contrast medium to visualize the ducts of the breast.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Ductography</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="DUKE INCISION METHOD" nciodm:ExtCodeID="C122163">
                     <nciodm:CDISCDefinition>A method for assessing bleeding time in which a controlled incision is made on the ear or fingertip.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Duke Incision Method</nciodm:PreferredTerm>
@@ -286,7 +295,7 @@
                     <nciodm:PreferredTerm>Flame Photometry</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="FLOW CYTOMETRY" nciodm:ExtCodeID="C16585">
-                    <nciodm:CDISCDefinition>A technique for counting, examining or sorting microscopic particles suspended in a stream of fluid.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A technique for counting, examining or sorting microscopic particles suspended in a stream of fluid. The cells are placed in a fluid (with or without light-sensitive dye) and passed in a stream before a laser or other type of light.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Flow Cytometry</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="FLOW MICROSCOPY" nciodm:ExtCodeID="C112284">
@@ -475,6 +484,10 @@
                 <EnumeratedItem CodedValue="IRON HEMATOXYLIN STAIN" nciodm:ExtCodeID="C85650">
                     <nciodm:CDISCDefinition>A microscopy staining method that utilizes a mixture of iron and hematoxylin to visualize intracellular structures in a microscopic sample. In this dye system, iron acts as a mordant to hematoxylin rendering it insoluble, thereby allowing irreversible blue-black colored dyeing to the cell nucleus.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Iron Hematoxylin Staining Method</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ISHIHARA COLOR PLATES" nciodm:ExtCodeID="C123466">
+                    <nciodm:CDISCDefinition>A diagrammatic method to test color blindness or deficiencies, which uses a circular form composed of multiple size circles in varying colors. A number or symbol is present in the middle and is composed of similar sized circles, which are a different color from those of the outer circular form.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Ishihara Color Plates</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="IVY INCISION METHOD" nciodm:ExtCodeID="C122167">
                     <nciodm:CDISCDefinition>A method for assessing bleeding time in which a controlled incision is made on the underside of the arm and blood is drawn off of the incision site with blotting paper every 30 seconds until bleeding stops.</nciodm:CDISCDefinition>
@@ -906,6 +919,10 @@
                 <EnumeratedItem CodedValue="SMEAR" nciodm:ExtCodeID="C65126">
                     <nciodm:CDISCDefinition>The action of spreading a thin layer of material across a surface.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Smear</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SNELLEN EYE CHART" nciodm:ExtCodeID="C123467">
+                    <nciodm:CDISCDefinition>A diagrammatic method to test visual acuity, which uses a chart containing 11 lines of Sloan optotypes in varying sizes with the largest located at the top of the chart and decreasing in size toward the bottom of the chart.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Snellen Eye Chart</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="SNP ARRAY" nciodm:ExtCodeID="C116151">
                     <nciodm:CDISCSynonym>Genotype Chip</nciodm:CDISCSynonym>

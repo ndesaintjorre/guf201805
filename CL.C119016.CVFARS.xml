@@ -122,6 +122,22 @@
                     <nciodm:CDISCDefinition>Angiographic reduction of flow into the coronary microcirculation.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Flow Reduced in Coronary Microcirculation</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="STENT THROMBOSIS ARC ACUTE" nciodm:ExtCodeID="C123439">
+                    <nciodm:CDISCDefinition>0 to 24 hours after stent implantation. (Cutlip DE, Windecker S, Mehran R, et al. Clinical End Points in Coronary Stent Trials : A Case for Standardized Definitions. Circulation. 2007;115:2344-2351)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Academic Research Council Acute Stent Thrombosis</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="STENT THROMBOSIS ARC LATE" nciodm:ExtCodeID="C123440">
+                    <nciodm:CDISCDefinition>Greater than 30 days to 1 year after stent implantation. (Cutlip DE, Windecker S, Mehran R, et al. Clinical End Points in Coronary Stent Trials : A Case for Standardized Definitions. Circulation. 2007;115:2344-2351)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Academic Research Council Late Stent Thrombosis</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="STENT THROMBOSIS ARC SUBACUTE" nciodm:ExtCodeID="C123441">
+                    <nciodm:CDISCDefinition>Greater than 24 hours to 30 days after stent implantation. (Cutlip DE, Windecker S, Mehran R, et al. Clinical End Points in Coronary Stent Trials : A Case for Standardized Definitions. Circulation. 2007;115:2344-2351)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Academic Research Council Subacute Stent Thrombosis</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="STENT THROMBOSIS ARC VERY LATE" nciodm:ExtCodeID="C123442">
+                    <nciodm:CDISCDefinition>Greater than 1 year after stent implantation. (Cutlip DE, Windecker S, Mehran R, et al. Clinical End Points in Coronary Stent Trials : A Case for Standardized Definitions. Circulation. 2007;115:2344-2351)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Academic Research Council Very Late Stent Thrombosis</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="TYPE 1 MYOCARDIAL INFARCTION" nciodm:ExtCodeID="C119220">
                     <nciodm:CDISCDefinition>Spontaneous clinical syndrome related to atherosclerotic plaque rupture, ulceration, fissuring, erosion, or dissection, with resulting intraluminal thrombus, and leading to decreased myocardial blood flow or distal platelet emboli with ensuing myocyte necrosis. This classification requires a) detection of a rise and/or fall of cardiac biomarker values [preferably cardiac troponin (cTn)] with at least one value greater than 99th percentile of the upper reference limit (URL) and b) at least one of the following: symptoms of myocardial ischemia; new or presumed new significant ST-segment-T wave (ST-T) changes or new left bundle branch block (LBBB) on the ECG; development of pathological Q waves on the ECG; imaging evidence of new loss of viable myocardium or new regional wall motion abnormality; identification of an intracoronary thrombus by angiography or autopsy. (Universal definition of myocardial infarction, Kristian Thygesen, Joseph S. Alpert and Harvey D. White on behalf of the Joint ESC/ACCF/AHA/WHF Task Force for the Redefinition of Myocardial Infarction, Eur Heart J (2007) 28 (20): 2525-2538.)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Joint Task Force Type 1 Myocardial Infarction</nciodm:PreferredTerm>

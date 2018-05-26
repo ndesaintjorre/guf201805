@@ -23,6 +23,11 @@
                     <nciodm:CDISCDefinition>This SDTM class captures investigational, therapeutic and other treatments that are administered to the subject (with some actual or expected physiological effect) either as specified by the study protocol (e.g., exposure to study drug), coincident with the study assessment period (e.g., concomitant medications), or self-administered by the subject (such as use of alcohol, tobacco, or caffeine).</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>CDISC Interventions Class</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="OCCURRENCE DATA STRUCTURE" nciodm:ExtCodeID="C123454">
+                    <nciodm:CDISCSynonym>OCCDS</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The Occurrence Data Structure (OCCDS) is the ADaM data structure for occurrence analysis. Occurrence analysis is the counting of subjects with a record or term, and often includes a structured hierarchy of dictionary coding categories.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>CDISC Occurrence Data Structure</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="RELATIONSHIP" nciodm:ExtCodeID="C103376">
                     <nciodm:CDISCDefinition>This SDTM class provides a means to link related records between datasets. It includes the RELREC and SUPPQUAL datasets.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>CDISC Relationship Class</nciodm:PreferredTerm>

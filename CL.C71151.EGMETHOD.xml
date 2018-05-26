@@ -17,10 +17,18 @@
                     <nciodm:CDISCDefinition>An electrocardiogram (ECG) lead placement whereby the display of the 12 standard ECG leads is in an orderly sequence in a single horizontal display of: aVL, I, -aVR, II, aVF, III, V1 to V6. In the Cabrera display the limb lead aVR is inverted (-aVR) to obtain the same positive leftward orientation as the other 5 limbs. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>12 Lead Placement Cabrera</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="12 LEAD CONTINUOUS ECG" nciodm:ExtCodeID="C123444">
+                    <nciodm:CDISCDefinition>A continuous electrocardiographic (ECG) recording utilizing 12 leads. The positioning of the electrodes may vary from the standard 12 lead ECG placement. Examples include but are not limited to 12 lead Holter with modified Mason-Likar lead placements, 12 lead exercise ECGs, and 12 lead telemetry systems.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>12 Lead Continuous ECG</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="12 LEAD EASI DOWER TRANSFORMATION" nciodm:ExtCodeID="C71123">
                     <nciodm:CDISCSynonym>12 Lead EASI Dower Transformation</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>An electrocardiogram (ECG) lead placement whereby 4 chest electrodes and 1 reference electrode are used to allow for continuous monitoring at the clinical level. This placement creates a 12 lead ECG that allows the acquisition of simultaneous events in the frontal, horizontal and sagittal heart planes with the linear transformation of vectors. This system provides a three-dimensional portrayal of the heart and uses mathematical and fixed coefficients for each lead. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Lead Placement EASI Dower Transformation</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="12 LEAD ECG EXTRACTED FROM 12 LEAD CONTINUOUS ECG RECORDING" nciodm:ExtCodeID="C123445">
+                    <nciodm:CDISCDefinition>A standard duration (typically 10 seconds) 12 lead electrocardiogram (ECG) extracted from a 12 lead continuous ECG.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>12 Lead ECG Extracted From 12 Lead Continuous ECG Recording</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="12 LEAD MASON LIKAR" nciodm:ExtCodeID="C71103">
                     <nciodm:CDISCSynonym>12 Lead Mason Likar</nciodm:CDISCSynonym>
@@ -67,6 +75,10 @@
                     <nciodm:CDISCSynonym>Bipolar uncorrected XYZ lead system</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>An electrocardiogram (ECG) lead placement whereby the X+ lead is placed at the right mid-axillary line ate the 4th intercostal space, X- at the left mid-axillary line at he 4th intercostal space, Y+ at the proximal left leg, Y- at the superior aspect of the manubrium, Z+ at the direct posterior to Z- and Z- at the 4th intercostal space at the left sternal margin. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Lead Placement Bipolar Uncorrected XYZ</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CONTINUOUS AMBULATORY ECG" nciodm:ExtCodeID="C123446">
+                    <nciodm:CDISCDefinition>A continuous electrocardiographic (ECG) recording utilizing 1 or more leads that records and stores data directly to the device. The subject need not be restricted to a medical facility, and may be able to participate in their customary activities of daily living.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Continuous Ambulatory ECG</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="CUBE LEAD SYSTEM" nciodm:ExtCodeID="C71120">
                     <nciodm:CDISCSynonym>Cube lead system</nciodm:CDISCSynonym>

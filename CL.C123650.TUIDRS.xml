@@ -1,0 +1,62 @@
+<CodeList xmlns="http://www.cdisc.org/ns/odm/v1.3" xmlns:nciodm="http://ncicb.nci.nih.gov/xml/odm/EVS/CDISC" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" OID="CL.C123650.TUIDRS" Name="Tumor and Lesion Identification Test Results" DataType="text" nciodm:ExtCodeID="C123650" nciodm:CodeListExtensible="Yes">
+                <Description>
+                    <TranslatedText xml:lang="en">Terminology relevant to tumor and lesion identification test results.</TranslatedText>
+                </Description>
+                <EnumeratedItem CodedValue="BENIGN" nciodm:ExtCodeID="C14172">
+                    <nciodm:CDISCSynonym>Benign</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>For neoplasms, a non-infiltrating and non-metastasizing neoplastic process that is characterized by the absence of morphologic features associated with malignancy (e.g., severe atypia, nuclear pleomorphism, tumor cell necrosis, and abnormal mitoses). For other conditions, a process that is mild in nature and not dangerous to health. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Benign</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="DISTANT" nciodm:ExtCodeID="C25321">
+                    <nciodm:CDISCDefinition>Of or belonging to an area on the body that is far apart in relation to a point of origin.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Distant</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="LOCAL" nciodm:ExtCodeID="C67263">
+                    <nciodm:CDISCDefinition>Of or belonging to a restricted area on the body in relation to a point of origin.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Local</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MEASURED" nciodm:ExtCodeID="C103416">
+                    <nciodm:CDISCDefinition>The identification of a tumor, lesion, or site of disease that is present at baseline and will be quantifiably measured.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Measured Tumor Identification</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NEW" nciodm:ExtCodeID="C94522">
+                    <nciodm:CDISCDefinition>The identification of a tumor, lesion, or site of disease which has not been previously seen or characterized.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>New Lesion Identification</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NON-MEASURABLE" nciodm:ExtCodeID="C103423">
+                    <nciodm:CDISCDefinition>The identification of a tumor, lesion, or site of disease that is incapable of being measured at baseline.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Non-Measurable Tumor Identification</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NON-TARGET" nciodm:ExtCodeID="C94521">
+                    <nciodm:CDISCDefinition>The identification of a tumor, lesion or site of disease that is present at baseline and not considered a target, but may be part of the objective assessment of the response to the therapeutic intervention.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Non-Target Lesion Identification</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NOT MEASURED" nciodm:ExtCodeID="C103425">
+                    <nciodm:CDISCDefinition>The identification of a tumor, lesion, or site of disease that is present at baseline and will not be quantifiably measured.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Not Measured Tumor Identification</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="REGIONAL" nciodm:ExtCodeID="C25643">
+                    <nciodm:CDISCDefinition>Of or belonging to a broader area or region of the body in relation to a point of origin.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Regional</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TARGET" nciodm:ExtCodeID="C94520">
+                    <nciodm:CDISCDefinition>The identification of a tumor, lesion, or site of disease that is present at baseline and is the target of the therapeutic intervention.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Target Lesion Identification</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TARGET EXTRA NODAL" nciodm:ExtCodeID="C103442">
+                    <nciodm:CDISCDefinition>The identification of a tumor or lesion that is present at baseline, located outside of or independent of any lymph nodes, and is the target of the therapeutic intervention.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Target Extra Nodal Tumor Identification</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TARGET NODAL" nciodm:ExtCodeID="C103443">
+                    <nciodm:CDISCDefinition>The identification of a tumor or lesion located at or near the lymph node that is present at baseline and is the target of the therapeutic intervention.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Target Nodal Tumor Identification</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="TARGET NODULE" nciodm:ExtCodeID="C103444">
+                    <nciodm:CDISCDefinition>The identification of a nodule that is the target of the therapeutic intervention.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Target Nodule Tumor Identification</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <nciodm:CDISCSubmissionValue>TUIDRS</nciodm:CDISCSubmissionValue>
+                <nciodm:CDISCSynonym>Tumor and Lesion Identification Test Results</nciodm:CDISCSynonym>
+                <nciodm:PreferredTerm>CDISC SDTM Tumor and Lesion Identification Test Result Terminology</nciodm:PreferredTerm>
+            </CodeList>
+            

@@ -43,9 +43,9 @@
                     <nciodm:CDISCDefinition>Natural number unit of measurement for a portion of a particular type of cell (excluding white blood cell subtypes) per 100 white blood cells.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Per 100 White Blood Cells</nciodm:PreferredTerm>
                 </EnumeratedItem>
-                <EnumeratedItem CodedValue="/10^3 cells" nciodm:ExtCodeID="C116240">
-                    <nciodm:CDISCDefinition>A unit of measure equal to the instances of an entity per 1000 cells.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Per Thousand Cells</nciodm:PreferredTerm>
+                <EnumeratedItem CodedValue="/10^3" nciodm:ExtCodeID="C123634">
+                    <nciodm:CDISCDefinition>A unit equal to one thousand entities used as a denominator to build a derived unit expressed as a ratio. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Per Thousand</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="/4.0 mL" nciodm:ExtCodeID="C122197">
                     <nciodm:CDISCDefinition>A volume unit equal to 4.0 milliliters used as a denominator to build a derived unit expressed as a ratio.</nciodm:CDISCDefinition>
@@ -2350,6 +2350,7 @@
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="nmol/L" nciodm:ExtCodeID="C67432">
                     <nciodm:CDISCSynonym>Nanomole per Liter</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>pmol/mL</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A unit of concentration (molarity unit) equal to one nanomole of solute per liter of solution.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Nanomole per Liter</nciodm:PreferredTerm>
                 </EnumeratedItem>

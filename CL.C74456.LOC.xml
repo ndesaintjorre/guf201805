@@ -171,6 +171,18 @@
                     <nciodm:CDISCDefinition>One of approximately 20-30 lymph nodes in chain formation that traverse the concavity of the underarm to the clavicle. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Axillary Lymph Node</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="AXILLARY LYMPH NODE LEVEL I" nciodm:ExtCodeID="C123461">
+                    <nciodm:CDISCDefinition>Axillary lymph nodes located inferolateral to pectoralis minor.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Axillary Lymph Node Level I</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="AXILLARY LYMPH NODE LEVEL II" nciodm:ExtCodeID="C123462">
+                    <nciodm:CDISCDefinition>Axillary lymph nodes located posterior to pectoralis minor.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Axillary Lymph Node Level II</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="AXILLARY LYMPH NODE LEVEL III" nciodm:ExtCodeID="C123463">
+                    <nciodm:CDISCDefinition>Axillary lymph nodes located superomedial to pectoralis minor.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Axillary Lymph Node Level III</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="AXILLARY VEIN" nciodm:ExtCodeID="C32171">
                     <nciodm:CDISCDefinition>A large blood vessel which returns blood to the heart from the lateral thorax, axilla and upper limb. Each side of the body contains one axillary vein.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Axillary Vein</nciodm:PreferredTerm>
@@ -238,8 +250,8 @@
                     <nciodm:PreferredTerm>Bladder Trigone</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="BLOOD" nciodm:ExtCodeID="C12434">
-                    <nciodm:CDISCSynonym>Blood</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Peripheral Blood</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Whole Blood</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A liquid tissue with the primary function of transporting oxygen and carbon dioxide. It supplies the tissues with nutrients, removes waste products, and contains various components of the immune system defending the body against infection.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Blood</nciodm:PreferredTerm>
                 </EnumeratedItem>
@@ -639,6 +651,10 @@
                 <EnumeratedItem CodedValue="COSTOCHONDRAL JOINT 7" nciodm:ExtCodeID="C102289">
                     <nciodm:CDISCDefinition>The seventh hyaline cartilaginous joint between the ribs and costal cartilage.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Costochondral Joint 7</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CRANIAL CAVITY" nciodm:ExtCodeID="C77638">
+                    <nciodm:CDISCDefinition>The atrium that is formed by the bones of the skull, and contains the brain.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Cranial Cavity</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="CRANIAL NERVE" nciodm:ExtCodeID="C12700">
                     <nciodm:CDISCDefinition>Any of the 12 paired nerves that originate in the brain stem. (NCI)</nciodm:CDISCDefinition>
@@ -1399,6 +1415,7 @@
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="INFRACLAVICULAR LYMPH NODE" nciodm:ExtCodeID="C63705">
                     <nciodm:CDISCSynonym>Infraclavicular Lymph Node</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Subclavicular Lymph Node</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A lymph node located in the area below the clavicle. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Infraclavicular Lymph Node</nciodm:PreferredTerm>
                 </EnumeratedItem>
@@ -2697,6 +2714,10 @@
                 <EnumeratedItem CodedValue="PULMONARY VALVE" nciodm:ExtCodeID="C12775">
                     <nciodm:CDISCDefinition>A valve that is located between and controls the flow of blood from the right ventricle of the heart and the pulmonary artery. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Pulmonary Valve</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PUPIL" nciodm:ExtCodeID="C33429">
+                    <nciodm:CDISCDefinition>The round opening in the center of the iris in the eye.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Pupil</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="PUTAMEN" nciodm:ExtCodeID="C12452">
                     <nciodm:CDISCSynonym>Putamen</nciodm:CDISCSynonym>

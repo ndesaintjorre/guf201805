@@ -125,6 +125,16 @@
                     <nciodm:CDISCDefinition>Exploratory measures that will be used to evaluate the intervention(s) or, for observational studies, that are exploratory of the study.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Exploratory Outcome Measure</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="FDA-Regulated Device Study Indicator" nciodm:ExtCodeID="C123629">
+                    <nciodm:CDISCSynonym>FDA-Regulated Device Study Indicator</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An indication as to whether the study involves an FDA-regulated device.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FDA-Regulated Device Study Indicator</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FDA-Regulated Drug Study Indicator" nciodm:ExtCodeID="C123630">
+                    <nciodm:CDISCSynonym>FDA-Regulated Drug Study Indicator</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An indication as to whether the study involves an FDA-regulated drug.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>FDA-Regulated Drug Study Indicator</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="Healthy Subject Indicator" nciodm:ExtCodeID="C98737">
                     <nciodm:CDISCSynonym>Healthy Subject Indicator</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Indicate if persons who have not had the condition(s) being studied or otherwise related conditions or symptoms, as specified in the eligibility requirements, may participate in the study.</nciodm:CDISCDefinition>
@@ -144,6 +154,16 @@
                     <nciodm:CDISCSynonym>Investigational Therapy or Treatment</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The investigational product under study.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Protocol Agent</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Pediatric Postmarket Study Indicator" nciodm:ExtCodeID="C123631">
+                    <nciodm:CDISCSynonym>Pediatric Postmarket Study Indicator</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An indication as to whether the study is a pediatric postmarket study.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Pediatric Postmarket Study Indicator</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Pediatric Study Indicator" nciodm:ExtCodeID="C123632">
+                    <nciodm:CDISCSynonym>Pediatric Study Indicator</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>An indication as to whether the study is a pediatric study.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Pediatric Study Indicator</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Pharmacological Class of Invest. Therapy" nciodm:ExtCodeID="C98768">
                     <nciodm:CDISCSynonym>Pharmacological Class of Invest. Therapy</nciodm:CDISCSynonym>

@@ -57,6 +57,11 @@
                     <nciodm:CDISCDefinition>A description of the new or worsening symptoms related to a clinical event.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>New or Worsening Symptom</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="Non-Invasive Imaging Change" nciodm:ExtCodeID="C123443">
+                    <nciodm:CDISCSynonym>Non-Invasive Imaging Change</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A description of the clinical change to the subject after a non-invasive imaging procedure.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Clinical Change by Non-Invasive Imaging Procedure</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="PCI Acute Angiographic Complication" nciodm:ExtCodeID="C119239">
                     <nciodm:CDISCSynonym>PCI Acute Angiographic Complication</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Categorization of the type of acute PCI angiographic complication resulting in acute myocardial ischemia.</nciodm:CDISCDefinition>
@@ -71,6 +76,11 @@
                     <nciodm:CDISCSynonym>Procedure Urgency Status Type</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The degree of urgency in which a medical procedure must be performed.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Triage Status</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Stent Thrombosis, Coronary, ARC Timing" nciodm:ExtCodeID="C123424">
+                    <nciodm:CDISCSynonym>Stent Thrombosis, Coronary, ARC Timing</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Categorization of the timing of coronary stent thrombosis occurrence per the classification schema described by the Academic Research Consortium (ARC).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Academic Research Council Coronary Stent Thrombosis Timing</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Stroke Type" nciodm:ExtCodeID="C119579">
                     <nciodm:CDISCSynonym>Stroke Type</nciodm:CDISCSynonym>

@@ -32,6 +32,11 @@
                     <nciodm:CDISCDefinition>The proportion of total forced vital capacity that is expelled during the first second of a forced exhalation.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Forced Expiratory Volume in 1 Second to Forced Vital Capacity Ratio Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="FEV1/FVC6" nciodm:ExtCodeID="C123565">
+                    <nciodm:CDISCSynonym>FEV1/FVC6</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The ratio of the forced expiratory volume during the first second of exhalation to the largest observed expired volume during the first six seconds of a forced vital capacity maneuver.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Forced Expiratory Volume in 1 Second to Forced Vital Capacity in 6 Seconds</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="Forced Expiratory Flow 25-75%" nciodm:ExtCodeID="C119545">
                     <nciodm:CDISCSynonym>Forced Expiratory Flow 25-75%</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The mean forced expiratory flow rate at 25-75% of the forced vital capacity. (NCI)</nciodm:CDISCDefinition>
@@ -93,6 +98,21 @@
                     <nciodm:CDISCSynonym>Maximum Forced Inspiratory Flow</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>Forced inspiratory flow for a portion of the FVC curve at the point where the maximum portion of FVC is already inhaled.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Maximum Forced Inspiratory Flow</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Mean Diffusion Capacity of Lung for CO" nciodm:ExtCodeID="C123564">
+                    <nciodm:CDISCSynonym>Mean Diffusion Capacity of Lung for CO</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The mean volume of the carbon monoxide that is transferred from inspired air into the pulmonary capillary blood.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Mean Carbon Monoxide Diffusing Capability Test</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Oxygen Consumption" nciodm:ExtCodeID="C123570">
+                    <nciodm:CDISCSynonym>Oxygen Consumption</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The rate at which oxygen is absorbed and utilized by any given tissue in the body.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Oxygen Consumption</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Oxygen Pulse" nciodm:ExtCodeID="C123566">
+                    <nciodm:CDISCSynonym>Oxygen Pulse</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The volume of oxygen per heartbeat consumed by the body while at rest.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Oxygen Pulse</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Peak Expiratory Flow" nciodm:ExtCodeID="C41372">
                     <nciodm:CDISCSynonym>Peak Expiratory Flow</nciodm:CDISCSynonym>
@@ -204,10 +224,20 @@
                     <nciodm:CDISCDefinition>The total volume of air in the lungs after maximum inhalation as a proportion of the predicted normal value.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Percent Predicted Total Lung Capacity</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="Pulmonary Reactance" nciodm:ExtCodeID="C123567">
+                    <nciodm:CDISCSynonym>Pulmonary Reactance</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the ability of the lung to store energy, which is required for passive expiration.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Pulmonary Reactance</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="Residual Volume" nciodm:ExtCodeID="C89836">
                     <nciodm:CDISCSynonym>Residual Volume</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The volume of air remaining in the lungs after maximum exhalation.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Residual Volume</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Respiratory Exchange Ratio" nciodm:ExtCodeID="C123568">
+                    <nciodm:CDISCSynonym>Respiratory Exchange Ratio</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The ratio between the amount of carbon dioxide produced and oxygen consumed in one breath.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Respiratory Exchange Ratio</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Slow Vital Capacity" nciodm:ExtCodeID="C111315">
                     <nciodm:CDISCSynonym>Slow Vital Capacity</nciodm:CDISCSynonym>
@@ -218,6 +248,11 @@
                     <nciodm:CDISCSynonym>Specific Airway Conductance</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the airway conductance relative to lung volume. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Specific Airway Conductance</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="Specific Airway Resistance" nciodm:ExtCodeID="C123569">
+                    <nciodm:CDISCSynonym>Specific Airway Resistance</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement used to describe airway behavior irrespective of lung volume; it is calculated as airway resistance (Raw) multiplied by functional residual capacity (FRC).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Specific Airway Resistance</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="Tidal Volume" nciodm:ExtCodeID="C111324">
                     <nciodm:CDISCSynonym>Tidal Volume</nciodm:CDISCSynonym>

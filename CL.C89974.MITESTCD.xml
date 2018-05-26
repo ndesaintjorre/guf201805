@@ -2,6 +2,24 @@
                 <Description>
                     <TranslatedText xml:lang="en">Terminology for the test codes concerned with the findings from a specimen that are visible by microscopic analysis.</TranslatedText>
                 </Description>
+                <EnumeratedItem CodedValue="BRCA1" nciodm:ExtCodeID="C123555">
+                    <nciodm:CDISCSynonym>Breast Cancer Type 1 Susceptibility Prot</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of BRCA1 protein in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Breast Cancer Type 1 Susceptibility Protein Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="CANCLLTY" nciodm:ExtCodeID="C123556">
+                    <nciodm:CDISCSynonym>Cancer Cellularity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A relative measurement (ratio or percentage) of the neoplastic cells to total cells in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Cancer Cellularity Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="ESTRCPT" nciodm:ExtCodeID="C112274">
+                    <nciodm:CDISCSynonym>ER</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>ESR</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Estrogen Receptor</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Oestrogen Receptor</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of estrogen receptor protein in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Estrogen Receptor Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="FIBSCBAL" nciodm:ExtCodeID="C119570">
                     <nciodm:CDISCSynonym>Batts-Ludwig Fibrosis Score</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The histopathological evaluation of the liver based on the Batts-Ludwig scoring system.</nciodm:CDISCDefinition>
@@ -27,10 +45,47 @@
                     <nciodm:CDISCDefinition>The histopathological evaluation of the liver based on the Scheuer scoring system.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Scheuer Fibrosis Score</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="HER2" nciodm:ExtCodeID="C112312">
+                    <nciodm:CDISCSynonym>ERBB2</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>HER2/NEU</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Human Epidermal Growth Factor Receptor 2</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of HER2 protein in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Human Epidermal Growth Factor Receptor 2 Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="KI67" nciodm:ExtCodeID="C123557">
+                    <nciodm:CDISCSynonym>Ki-67</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the Ki-67 protein in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Ki67 Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="MIEXAM" nciodm:ExtCodeID="C90424">
                     <nciodm:CDISCSynonym>Microscopic Examination</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>An assessment by microscope (e.g., light, electron, confocal, etc.).</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Microscopic Examination</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="NKX2_1" nciodm:ExtCodeID="C123558">
+                    <nciodm:CDISCSynonym>NK2 Homeobox 1</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>TEBP</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>TTF1</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Thyroid Transcription Factor 1</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of NK2 homeobox 1 protein in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>NK2 Homeobox 1 Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PCTISCA" nciodm:ExtCodeID="C123559">
+                    <nciodm:CDISCSynonym>Percentage of In situ Carcinoma</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A relative measurement (percentage) of in situ component present in a carcinoma compared to the entire malignant cellular proliferation. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Percentage of in situ Carcinoma</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="PROGESTR" nciodm:ExtCodeID="C117846">
+                    <nciodm:CDISCSynonym>NR3C3</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>PR</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Progesterone Receptor</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the progesterone receptor protein in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Progesterone Receptor Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SGMGSTAT" nciodm:ExtCodeID="C123560">
+                    <nciodm:CDISCSynonym>Surgical Margins Status</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The determination of the presence of actual or potential neoplastic tissue which has been left outside the boundary of a resected specimen within the patient. (NCI)</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Surgical Margins Status</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <nciodm:CDISCSubmissionValue>MITESTCD</nciodm:CDISCSubmissionValue>
                 <nciodm:CDISCSynonym>Microscopic Findings Test Code</nciodm:CDISCSynonym>

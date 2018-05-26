@@ -488,7 +488,7 @@
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="APOB" nciodm:ExtCodeID="C74734">
                     <nciodm:CDISCSynonym>Apolipoprotein B</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A measurement of the apolipoprotein B in the low density lipoproteins of a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A measurement of the total apolipoprotein B in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Apolipoprotein B Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="APOB100" nciodm:ExtCodeID="C120628">
@@ -756,6 +756,11 @@
                     <nciodm:CDISCSynonym>Lyme IgM Antibody</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the Borrelia burgdorferi IgM antibody in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Borrelia burgdorferi IgM Antibody Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="BCEFNCTN" nciodm:ExtCodeID="C123455">
+                    <nciodm:CDISCSynonym>Beta-cell Function</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the beta cell function (insulin production and secretion) in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Beta-cell Function Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="BD2" nciodm:ExtCodeID="C122102">
                     <nciodm:CDISCSynonym>Beta-defensin 2</nciodm:CDISCSynonym>
@@ -1475,6 +1480,7 @@
                     <nciodm:PreferredTerm>Citrate Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="CK" nciodm:ExtCodeID="C64489">
+                    <nciodm:CDISCSynonym>CPK</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Creatine Kinase</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the total creatine kinase in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Creatine Kinase Measurement</nciodm:PreferredTerm>
@@ -2393,7 +2399,7 @@
                     <nciodm:CDISCSynonym>ESR</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Estrogen Receptor</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Oestrogen Receptor</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A measurement of the cells with positive expression of estrogen receptor in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A measurement of estrogen receptor protein in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Estrogen Receptor Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="ESTRDIOL" nciodm:ExtCodeID="C74782">
@@ -2789,6 +2795,11 @@
                     <nciodm:CDISCSynonym>GFR from Cystatin C Adjusted for BSA</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>An estimation of the glomerular filtration rate adjusted for body size based on cystatin C.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Glomerular Filtration Rate from Cystatin C Adjusted for BSA</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="GFRE" nciodm:ExtCodeID="C110935">
+                    <nciodm:CDISCSynonym>Glomerular Filtration Rate, Estimated</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A kidney function test that estimates the fluid volume that is filtered from the kidney glomeruli to the Bowman's capsule per unit of time.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Estimated Glomerular Filtration Rate</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="GGT" nciodm:ExtCodeID="C64847">
                     <nciodm:CDISCSynonym>Gamma Glutamyl Transferase</nciodm:CDISCSynonym>
@@ -3288,7 +3299,7 @@
                     <nciodm:CDISCSynonym>ERBB2</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>HER2/NEU</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Human Epidermal Growth Factor Receptor 2</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A measurement of the cells with positive expression of HER2 in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A measurement of HER2 protein in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Human Epidermal Growth Factor Receptor 2 Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="HER2AG" nciodm:ExtCodeID="C112291">
@@ -3462,12 +3473,6 @@
                     <nciodm:CDISCSynonym>Hemosiderin</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the hemosiderin complex in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Hemosiderin Measurement</nciodm:PreferredTerm>
-                </EnumeratedItem>
-                <EnumeratedItem CodedValue="HOMAIR" nciodm:ExtCodeID="C100447">
-                    <nciodm:CDISCSynonym>Homeostatic Model Assessment of Insulin Resistance</nciodm:CDISCSynonym>
-                    <nciodm:CDISCSynonym>Homostat Model Assess of Insulin Rstn</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>An assessment of beta-cell function and insulin resistance based on fasting blood glucose and insulin concentrations.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Homeostatic Model Assessment of Insulin Resistance</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="HOMOCY" nciodm:ExtCodeID="C74741">
                     <nciodm:CDISCSynonym>Homocysteine</nciodm:CDISCSynonym>
@@ -3818,6 +3823,16 @@
                     <nciodm:CDISCSynonym>Insulin</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the insulin in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Insulin Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="INSULINR" nciodm:ExtCodeID="C123458">
+                    <nciodm:CDISCSynonym>Insulin Resistance</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the insulin resistance (a cell's inability to respond to insulin) in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Insulin Resistance Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="INSULINS" nciodm:ExtCodeID="C123459">
+                    <nciodm:CDISCSynonym>Insulin Sensitivity</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the insulin sensitivity (cells are stimulated by lower than normal insulin levels) in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Insulin Sensitivity Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="INTLK1" nciodm:ExtCodeID="C74805">
                     <nciodm:CDISCSynonym>Interleukin 1</nciodm:CDISCSynonym>
@@ -4532,6 +4547,11 @@
                     <nciodm:CDISCSynonym>Macrophages/Total Cells</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A relative measurement (ratio or percentage) of the macrophages to total cells in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Macrophage to Total Cell Ratio Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="MCPHGLE" nciodm:ExtCodeID="C123460">
+                    <nciodm:CDISCSynonym>Macrophages/Leukocytes</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A relative measurement (ratio or percentage) of the macrophages to leukocytes in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Macrophage to Leukocyte Ratio</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="MCPROT" nciodm:ExtCodeID="C92291">
                     <nciodm:CDISCSynonym>Monoclonal Immunoglobulin Protein</nciodm:CDISCSynonym>
@@ -5661,7 +5681,7 @@
                     <nciodm:CDISCSynonym>NR3C3</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>PR</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Progesterone Receptor</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A measurement of the progesterone receptor in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A measurement of the progesterone receptor protein in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Progesterone Receptor Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="PROINSUL" nciodm:ExtCodeID="C81967">
@@ -5726,7 +5746,7 @@
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="PROTCRT" nciodm:ExtCodeID="C79463">
                     <nciodm:CDISCSynonym>Protein/Creatinine</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A relative measurement (ratio or percentage) of the protein to creatinine in a biological specimen.</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>A relative measurement (ratio or percentage) of the total protein to creatinine in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Protein to Creatinine Ratio Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="PROTEXR" nciodm:ExtCodeID="C117848">
@@ -5998,11 +6018,12 @@
                     <nciodm:CDISCDefinition>A measurement of the range of reticulocyte sizes in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Reticulocyte Distribution Width</nciodm:PreferredTerm>
                 </EnumeratedItem>
-                <EnumeratedItem CodedValue="RETICH" nciodm:ExtCodeID="C117854">
+                <EnumeratedItem CodedValue="RETICH" nciodm:ExtCodeID="C98776">
                     <nciodm:CDISCSynonym>CHr</nciodm:CDISCSynonym>
                     <nciodm:CDISCSynonym>Ret. Corpuscular Hemoglobin Content</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Reticulocyte Hemoglobin</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A quantitative measurement of the total amount of hemoglobin in the reticulocyte population.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Total Reticulocyte Corpuscular Hemoglobin Content Measurement</nciodm:PreferredTerm>
+                    <nciodm:PreferredTerm>Reticulocyte Hemoglobin Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="RETIH" nciodm:ExtCodeID="C116188">
                     <nciodm:CDISCSynonym>High Absorption Reticulocytes</nciodm:CDISCSynonym>
@@ -6013,11 +6034,6 @@
                     <nciodm:CDISCSynonym>Hematocrit Corrected Reticulocytes</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the hematocrit corrected reticulocytes in a biological specimen.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Hematocrit Corrected Reticulocyte Count</nciodm:PreferredTerm>
-                </EnumeratedItem>
-                <EnumeratedItem CodedValue="RETIHGB" nciodm:ExtCodeID="C98776">
-                    <nciodm:CDISCSynonym>Reticulocyte Hemoglobin</nciodm:CDISCSynonym>
-                    <nciodm:CDISCDefinition>A measurement of the amount of hemoglobin in reticulocytes.</nciodm:CDISCDefinition>
-                    <nciodm:PreferredTerm>Reticulocyte Hemoglobin Measurement</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="RETIHRTC" nciodm:ExtCodeID="C116189">
                     <nciodm:CDISCSynonym>High Absorption Retic/Reticulocytes</nciodm:CDISCSynonym>

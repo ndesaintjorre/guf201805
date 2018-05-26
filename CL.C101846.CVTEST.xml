@@ -107,8 +107,14 @@
                     <nciodm:CDISCDefinition>The summation of the numerous waves being reflected by sites of impedance mismatch where central elastic arteries join more muscular arteries.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Reflection Wave Amplitude</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="Stroke Volume" nciodm:ExtCodeID="C94989">
+                    <nciodm:CDISCSynonym>Stroke Volume</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The difference in the volumes of blood between the points of maximum dilation and maximum contraction. This is the end diastolic volume minus the end systolic volume.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Stroke Volume</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="Systemic Vascular Resistance" nciodm:ExtCodeID="C119248">
                     <nciodm:CDISCSynonym>Systemic Vascular Resistance</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>Total Peripheral Resistance</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The resistance to blood flow through the systemic vasculature.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Systemic Vascular Resistance</nciodm:PreferredTerm>
                 </EnumeratedItem>

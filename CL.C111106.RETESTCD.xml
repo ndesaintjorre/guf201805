@@ -29,6 +29,11 @@
                     <nciodm:CDISCDefinition>The proportion of diffusing capacity of the lungs for carbon monoxide to the alveolar volume expressed as a proportion of the predicted normal value, adjusted for hemoglobin concentration.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Percent Predicted Hemoglobin Corrected Diffusion Capacity of the Lung for Carbon Monoxide/Alveolar Volume Ratio</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="DLCOM" nciodm:ExtCodeID="C123564">
+                    <nciodm:CDISCSynonym>Mean Diffusion Capacity of Lung for CO</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The mean volume of the carbon monoxide that is transferred from inspired air into the pulmonary capillary blood.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Mean Carbon Monoxide Diffusing Capability Test</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="DLCOPP" nciodm:ExtCodeID="C120829">
                     <nciodm:CDISCSynonym>Percent Predicted DLCO</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The diffusing capacity of the lungs for carbon monoxide expressed as a proportion of the predicted normal value.</nciodm:CDISCDefinition>
@@ -73,6 +78,11 @@
                     <nciodm:CDISCSynonym>FEV1/FVC</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The proportion of total forced vital capacity that is expelled during the first second of a forced exhalation.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Forced Expiratory Volume in 1 Second to Forced Vital Capacity Ratio Measurement</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="FEV1FVC6" nciodm:ExtCodeID="C123565">
+                    <nciodm:CDISCSynonym>FEV1/FVC6</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The ratio of the forced expiratory volume during the first second of exhalation to the largest observed expired volume during the first six seconds of a forced vital capacity maneuver.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Forced Expiratory Volume in 1 Second to Forced Vital Capacity in 6 Seconds</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="FEV1FVCP" nciodm:ExtCodeID="C112377">
                     <nciodm:CDISCSynonym>Percent Predicted FEV1/FVC</nciodm:CDISCSynonym>
@@ -159,6 +169,11 @@
                     <nciodm:CDISCDefinition>The maximum volume of air a subject can inhale into the lungs after a tidal inhalation as a proportion of the predicted normal value.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Percent Predicted Inspiratory Reserve Volume</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="OXYPULSE" nciodm:ExtCodeID="C123566">
+                    <nciodm:CDISCSynonym>Oxygen Pulse</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The volume of oxygen per heartbeat consumed by the body while at rest.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Oxygen Pulse</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="PEF" nciodm:ExtCodeID="C41372">
                     <nciodm:CDISCSynonym>Peak Expiratory Flow</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The maximal flow achieved during the maximally forced expiration initiated at maximum inhalation.</nciodm:CDISCDefinition>
@@ -174,6 +189,11 @@
                     <nciodm:CDISCDefinition>The change in PEF following administration of a bronchodilator relative to the pre-treatment PEF value.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Peak Expiratory Flow Reversibility</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="PLMXRS" nciodm:ExtCodeID="C123567">
+                    <nciodm:CDISCSynonym>Pulmonary Reactance</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement of the ability of the lung to store energy, which is required for passive expiration.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Pulmonary Reactance</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="PNIF" nciodm:ExtCodeID="C119547">
                     <nciodm:CDISCSynonym>Peak Nasal Inspiratory Flow</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The maximal flow achieved during the maximally forced inspiration through the nose initiated at maximum exhalation. (NCI)</nciodm:CDISCDefinition>
@@ -183,6 +203,11 @@
                     <nciodm:CDISCSynonym>Airway Resistance</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of respiratory tract resistance to airflow during inspiration and expiration.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Airway Resistance</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="RER" nciodm:ExtCodeID="C123568">
+                    <nciodm:CDISCSynonym>Respiratory Exchange Ratio</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The ratio between the amount of carbon dioxide produced and oxygen consumed in one breath.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Respiratory Exchange Ratio</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="RRS" nciodm:ExtCodeID="C122185">
                     <nciodm:CDISCSynonym>Total Respiratory System Resistance</nciodm:CDISCSynonym>
@@ -203,6 +228,11 @@
                     <nciodm:CDISCSynonym>Specific Airway Conductance</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A measurement of the airway conductance relative to lung volume. (NCI)</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Specific Airway Conductance</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="SRAW" nciodm:ExtCodeID="C123569">
+                    <nciodm:CDISCSynonym>Specific Airway Resistance</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A measurement used to describe airway behavior irrespective of lung volume; it is calculated as airway resistance (Raw) multiplied by functional residual capacity (FRC).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Specific Airway Resistance</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="SVC" nciodm:ExtCodeID="C111315">
                     <nciodm:CDISCSynonym>Slow Vital Capacity</nciodm:CDISCSynonym>
@@ -233,6 +263,11 @@
                     <nciodm:CDISCSynonym>Percent Predicted Tidal Volume</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The volume of air moved into and out of the lungs during breathing at rest as a proportion of the predicted normal value.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Percent Predicted Tidal Volume</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="VO2" nciodm:ExtCodeID="C123570">
+                    <nciodm:CDISCSynonym>Oxygen Consumption</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>The rate at which oxygen is absorbed and utilized by any given tissue in the body.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Oxygen Consumption</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <nciodm:CDISCSubmissionValue>RETESTCD</nciodm:CDISCSubmissionValue>
                 <nciodm:CDISCSynonym>Respiratory Test Code</nciodm:CDISCSynonym>

@@ -116,7 +116,7 @@
                     <nciodm:PreferredTerm>Liter per Gram per Hour</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="(L/h)/mg" nciodm:ExtCodeID="C85673">
-                    <nciodm:CDISCDefinition>Liters per day (flow rate), divided by milligrams (dose).</nciodm:CDISCDefinition>
+                    <nciodm:CDISCDefinition>Liters per hour (flow rate), divided by milligrams (dose).</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Liter per Milligram per Hour</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="(L/h)/ug" nciodm:ExtCodeID="C85662">
@@ -1403,6 +1403,11 @@
                     <nciodm:CDISCDefinition>Liters (volume), divided by kilograms per meter squared (body mass index).</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Liter per Kilogram per Meter Squared</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="L/(mg/day)" nciodm:ExtCodeID="C123561">
+                    <nciodm:CDISCSynonym>mL/(ug/day)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Liters (volume), divided by milligrams per day (daily dose).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Liter Divided by Milligram Per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="L/(mg/kg)" nciodm:ExtCodeID="C120807">
                     <nciodm:CDISCDefinition>Liters (volume), divided by milligrams per kilogram (dose normalized by body weight).</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Liter per Milligram per Kilogram</nciodm:PreferredTerm>
@@ -1411,9 +1416,18 @@
                     <nciodm:CDISCDefinition>Liters (volume), divided by milligrams per kilogram per day (daily dose normalized by body weight).</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Liter per Milligram per Kilogram per Day</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="L/(mg/m2)" nciodm:ExtCodeID="C123562">
+                    <nciodm:CDISCSynonym>mL/(ug/m2)</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Liters (volume), divided by milligrams per meter squared (dose normalized by surface area).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Liter Divided by Milligram per Meter Squared</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="L/(mg/m2/day)" nciodm:ExtCodeID="C120809">
                     <nciodm:CDISCDefinition>Liters (volume), divided by milligrams per meter squared per day (daily dose normalized by surface area).</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Liter per Milligram per Meter Squared per Day</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="L/(ug/day)" nciodm:ExtCodeID="C123563">
+                    <nciodm:CDISCDefinition>Liters (volume), divided by micrograms per day (daily dose).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Liter Divided by Microgram per Day</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="L/(ug/kg)" nciodm:ExtCodeID="C120810">
                     <nciodm:CDISCDefinition>Liters (volume), divided by micrograms per kilogram (dose normalized by body weight).</nciodm:CDISCDefinition>
@@ -2376,6 +2390,7 @@
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="nmol/L" nciodm:ExtCodeID="C67432">
                     <nciodm:CDISCSynonym>Nanomole per Liter</nciodm:CDISCSynonym>
+                    <nciodm:CDISCSynonym>pmol/mL</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A unit of concentration (molarity unit) equal to one nanomole of solute per liter of solution.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Nanomole per Liter</nciodm:PreferredTerm>
                 </EnumeratedItem>

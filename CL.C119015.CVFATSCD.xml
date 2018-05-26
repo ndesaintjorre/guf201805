@@ -52,6 +52,11 @@
                     <nciodm:CDISCDefinition>An indication of whether a Type 1 and Type 2 myocardial infarction is excluded as a diagnosis.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Exclusion of Type 1 and Type 2 Myocardial Infarction Diagnosis Indicator</nciodm:PreferredTerm>
                 </EnumeratedItem>
+                <EnumeratedItem CodedValue="NINVIMGC" nciodm:ExtCodeID="C123443">
+                    <nciodm:CDISCSynonym>Non-Invasive Imaging Change</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>A description of the clinical change to the subject after a non-invasive imaging procedure.</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Clinical Change by Non-Invasive Imaging Procedure</nciodm:PreferredTerm>
+                </EnumeratedItem>
                 <EnumeratedItem CodedValue="NWSYMP" nciodm:ExtCodeID="C119238">
                     <nciodm:CDISCSynonym>New or Worsening Symptoms</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>A description of the new or worsening symptoms related to a clinical event.</nciodm:CDISCDefinition>
@@ -71,6 +76,11 @@
                     <nciodm:CDISCSynonym>Procedure Urgency Status Type</nciodm:CDISCSynonym>
                     <nciodm:CDISCDefinition>The degree of urgency in which a medical procedure must be performed.</nciodm:CDISCDefinition>
                     <nciodm:PreferredTerm>Triage Status</nciodm:PreferredTerm>
+                </EnumeratedItem>
+                <EnumeratedItem CodedValue="STCTIMNG" nciodm:ExtCodeID="C123424">
+                    <nciodm:CDISCSynonym>Stent Thrombosis, Coronary, ARC Timing</nciodm:CDISCSynonym>
+                    <nciodm:CDISCDefinition>Categorization of the timing of coronary stent thrombosis occurrence per the classification schema described by the Academic Research Consortium (ARC).</nciodm:CDISCDefinition>
+                    <nciodm:PreferredTerm>Academic Research Council Coronary Stent Thrombosis Timing</nciodm:PreferredTerm>
                 </EnumeratedItem>
                 <EnumeratedItem CodedValue="STROKTYP" nciodm:ExtCodeID="C119579">
                     <nciodm:CDISCSynonym>Stroke Type</nciodm:CDISCSynonym>
